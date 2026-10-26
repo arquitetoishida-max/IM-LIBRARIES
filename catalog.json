@@ -261,6 +261,22 @@
       "status": "needs-linguistic-review",
       "verified_for_production": false,
       "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "ishida-en-master-v1",
+      "version": "2026-10-26",
+      "name": "Ishida English Master — 3000 common + regional expressions (DRAFT)",
+      "kind": "lexical-master",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "entries": 3025,
+      "status": "draft-unreviewed",
+      "verified_for_production": false,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json",
+      "sha256": "e13b905167ae9075e337849162a0e8fc9256a9d9c186c961dc84c04e643f5be7",
+      "description": "English pivot entries, ranks, provisional slang region tags; not certified cross-language sense mappings."
     }
   ]
 }
