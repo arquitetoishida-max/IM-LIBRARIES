@@ -1,10 +1,10 @@
 {
   "status": "REQUIRES_EDITORIAL_REVIEW",
   "audit_type": "automatic_record_by_record_not_manual",
-  "entry_count": 3091,
+  "entry_count": 3079,
   "category_counts": {
     "common": 3000,
-    "regional-colloquial": 91
+    "regional-colloquial": 79
   },
   "cefr_counts": {
     "A1": 500,
@@ -15,342 +15,253 @@
     "C2": 150
   },
   "issues": {
-    "duplicate_surface_form": {
-      "count": 12,
-      "examples": [
-        [
-          "gonna",
-          [
-            "en:000000493",
-            "en:000003009"
-          ]
-        ],
-        [
-          "wanna",
-          [
-            "en:000000951",
-            "en:000003010"
-          ]
-        ],
-        [
-          "awesome",
-          [
-            "en:000001227",
-            "en:000003017"
-          ]
-        ],
-        [
-          "ain't",
-          [
-            "en:000001349",
-            "en:000003023"
-          ]
-        ],
-        [
-          "sick",
-          [
-            "en:000001375",
-            "en:000003034"
-          ]
-        ],
-        [
-          "pop",
-          [
-            "en:000001400",
-            "en:000003074"
-          ]
-        ],
-        [
-          "dude",
-          [
-            "en:000001594",
-            "en:000003042"
-          ]
-        ],
-        [
-          "bet",
-          [
-            "en:000001648",
-            "en:000003039"
-          ]
-        ],
-        [
-          "mad",
-          [
-            "en:000001831",
-            "en:000003083"
-          ]
-        ],
-        [
-          "proper",
-          [
-            "en:000001924",
-            "en:000003063"
-          ]
-        ],
-        [
-          "mate",
-          [
-            "en:000002702",
-            "en:000003006"
-          ]
-        ],
-        [
-          "cap",
-          [
-            "en:000002886",
-            "en:000003037"
-          ]
-        ]
-      ]
-    },
     "missing_definitions": {
-      "count": 132,
+      "count": 69,
       "examples": [
         [
-          32,
-          "his"
+          475,
+          "myself"
         ],
         [
-          53,
-          "it's"
+          477,
+          "yourself"
         ],
         [
-          56,
-          "her"
+          493,
+          "gonna"
         ],
         [
-          57,
-          "which"
+          541,
+          "himself"
         ],
         [
-          66,
-          "don't"
+          550,
+          "dr"
         ],
         [
-          69,
-          "them"
+          621,
+          "st"
         ],
         [
-          72,
-          "i'm"
+          699,
+          "themselves"
         ],
         [
-          80,
-          "him"
+          761,
+          "hey"
         ],
         [
-          81,
-          "into"
+          775,
+          "cannot"
         ],
         [
-          135,
-          "you're"
+          802,
+          "itself"
         ],
         [
-          137,
-          "that's"
+          906,
+          "towards"
         ],
         [
-          146,
-          "something"
+          917,
+          "lol"
         ],
         [
-          148,
-          "can't"
+          951,
+          "wanna"
         ],
         [
-          167,
-          "since"
+          957,
+          "etc"
         ],
         [
-          173,
-          "during"
+          972,
+          "shall"
         ],
         [
-          175,
-          "i've"
+          1002,
+          "via"
         ],
         [
-          185,
-          "without"
+          1114,
+          "san"
         ],
         [
-          186,
-          "against"
+          1156,
+          "gotta"
         ],
         [
-          187,
-          "didn't"
+          1169,
+          "pre"
         ],
         [
-          215,
-          "until"
+          1273,
+          "here's"
         ],
         [
-          219,
-          "he's"
+          1302,
+          "facebook"
         ],
         [
-          244,
-          "anything"
+          1349,
+          "ain't"
         ],
         [
-          251,
-          "everything"
+          1379,
+          "william"
         ],
         [
-          257,
-          "there's"
+          1410,
+          "app"
         ],
         [
-          261,
-          "doesn't"
+          1428,
+          "obama"
         ],
         [
-          308,
-          "everyone"
+          1478,
+          "whom"
         ],
         [
-          310,
-          "they're"
+          1490,
+          "everybody"
         ],
         [
-          327,
-          "per"
+          1592,
+          "chris"
         ],
         [
-          344,
-          "i'll"
+          1667,
+          "richard"
         ],
         [
-          353,
-          "others"
+          1687,
+          "herself"
         ]
       ]
     },
     "missing_short_definition": {
-      "count": 223,
+      "count": 148,
       "examples": [
         [
-          32,
-          "his"
+          475,
+          "myself"
         ],
         [
-          53,
-          "it's"
+          477,
+          "yourself"
         ],
         [
-          56,
-          "her"
+          493,
+          "gonna"
         ],
         [
-          57,
-          "which"
+          541,
+          "himself"
         ],
         [
-          66,
-          "don't"
+          550,
+          "dr"
         ],
         [
-          69,
-          "them"
+          621,
+          "st"
         ],
         [
-          72,
-          "i'm"
+          699,
+          "themselves"
         ],
         [
-          80,
-          "him"
+          761,
+          "hey"
         ],
         [
-          81,
-          "into"
+          775,
+          "cannot"
         ],
         [
-          135,
-          "you're"
+          802,
+          "itself"
         ],
         [
-          137,
-          "that's"
+          906,
+          "towards"
         ],
         [
-          146,
-          "something"
+          917,
+          "lol"
         ],
         [
-          148,
-          "can't"
+          951,
+          "wanna"
         ],
         [
-          167,
-          "since"
+          957,
+          "etc"
         ],
         [
-          173,
-          "during"
+          972,
+          "shall"
         ],
         [
-          175,
-          "i've"
+          1002,
+          "via"
         ],
         [
-          185,
-          "without"
+          1114,
+          "san"
         ],
         [
-          186,
-          "against"
+          1156,
+          "gotta"
         ],
         [
-          187,
-          "didn't"
+          1169,
+          "pre"
         ],
         [
-          215,
-          "until"
+          1273,
+          "here's"
         ],
         [
-          219,
-          "he's"
+          1302,
+          "facebook"
         ],
         [
-          244,
-          "anything"
+          1349,
+          "ain't"
         ],
         [
-          251,
-          "everything"
+          1379,
+          "william"
         ],
         [
-          257,
-          "there's"
+          1410,
+          "app"
         ],
         [
-          261,
-          "doesn't"
+          1428,
+          "obama"
         ],
         [
-          308,
-          "everyone"
+          1478,
+          "whom"
         ],
         [
-          310,
-          "they're"
+          1490,
+          "everybody"
         ],
         [
-          327,
-          "per"
+          1592,
+          "chris"
         ],
         [
-          344,
-          "i'll"
+          1667,
+          "richard"
         ],
         [
-          353,
-          "others"
+          1687,
+          "herself"
         ]
       ]
     },
