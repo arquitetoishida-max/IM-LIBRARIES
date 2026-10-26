@@ -292,6 +292,40 @@
       "verified_for_production": false,
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/frequency/en.json",
       "sha256": "c9178b8d8e3c63ff6fddfcc22ee2a56c4498ae8ae16a3ca841934eb38cc6c72a"
+    },
+    {
+      "id": "ishida-pt-BR-mapped-v1",
+      "name": "Ishida pt-BR mapped vocabulary (approximate)",
+      "kind": "english-id-mapped-vocabulary",
+      "version": "2026-10-26.1",
+      "language": "pt-BR",
+      "languages": [
+        "en",
+        "pt-BR"
+      ],
+      "entries": 2848,
+      "status": "approximate-unreviewed",
+      "verified_for_production": false,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/languages/pt-BR.json",
+      "sha256": "1be86826b25ff9e573af0d2e71090f4260d86af8f8e209d3859652716f25b5b3",
+      "compatibility_note": "Requires English-ID mapping adapter; NOT the legacy card import schema."
+    },
+    {
+      "id": "ishida-ja-mapped-v1",
+      "name": "Ishida ja mapped vocabulary (approximate)",
+      "kind": "english-id-mapped-vocabulary",
+      "version": "2026-10-26.1",
+      "language": "ja",
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "entries": 2846,
+      "status": "approximate-unreviewed",
+      "verified_for_production": false,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/languages/ja.json",
+      "sha256": "6272a46edc464bf402b1ca5fe051dea6fc3487bddb83ee96d69ddba8b8b1f8f1",
+      "compatibility_note": "Requires English-ID mapping adapter; NOT the legacy card import schema."
     }
   ]
 }
