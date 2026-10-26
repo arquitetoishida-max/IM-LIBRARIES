@@ -1,0 +1,33 @@
+name: Build English master
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_english_master.py
+      - .github/workflows/build-english-master.yml
+permissions:
+  contents: write
+concurrency:
+  group: master-en-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install wordfreq
+      - run: python scripts/build_english_master.py
+      - name: Commit master and catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add master/en-master-v1.json catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish 3000-entry English lexical master draft"
+            git pull --rebase origin main
+            git push
+          fi
