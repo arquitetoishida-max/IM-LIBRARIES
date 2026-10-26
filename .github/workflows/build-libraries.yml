@@ -1,0 +1,56 @@
+name: Build multilingual packages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_packages.py
+      - .github/workflows/build-libraries.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install frequency package
+        run: python -m pip install "wordfreq[cjk]" || python -m pip install wordfreq
+      - name: Build library packages (up to 1500 entries per source)
+        run: python scripts/build_packages.py
+      - name: Merge catalog and preserve existing pilot
+        run: |
+          python - <<'PY'
+          import json, pathlib, hashlib
+          root=pathlib.Path('catalog.json')
+          old=json.loads(root.read_text(encoding='utf-8')) if root.exists() else {}
+          new_path=pathlib.Path('packages/catalog.json')
+          generated=json.loads(new_path.read_text(encoding='utf-8')) if new_path.exists() else {'packages':[]}
+          old_pkgs=old.get('packages', [])
+          new_pkgs=[]
+          for p in generated.get('packages',[]):
+              path=pathlib.Path('packages') / (p['id'] + '.json')
+              if not path.exists(): continue
+              p['sha256']=hashlib.sha256(path.read_bytes()).hexdigest()
+              p['status']='needs-linguistic-review'
+              p['verified_for_production']=False
+              p['translation_coverage']='source-language to English gloss; no guaranteed pt-BR translation'
+              p['languages']=sorted(set(p.get('languages', [])))
+              new_pkgs.append(p)
+          known={p['id']:p for p in old_pkgs if p.get('id') and p.get('id') not in {q['id'] for q in new_pkgs}}
+          for p in new_pkgs:known[p['id']]=p
+          root.write_text(json.dumps({'schema_version':1,'updated_at':generated.get('generated'),'packages':list(known.values())},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          new_path.unlink(missing_ok=True)
+          PY
+      - name: Commit generated package files and catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalog.json packages/
+          if ! git diff --cached --quiet; then
+            git commit -m "Build 1500-entry sourced language packages and update catalog"
+            git push
+          fi
