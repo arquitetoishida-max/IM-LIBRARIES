@@ -43,9 +43,91 @@ for idx,w in enumerate(words,1):
  e["definitions_en"]=[x.definition() for x in synsets[:3]]
  e["short_description_en"]=(synsets[0].definition() if synsets else None)
  e["definition_status"]="wordnet-attested" if synsets else "missing-dictionary-definition"
+ # WordNet covers content words; frequent grammatical words need curated glosses.
+ function_words={
+ "the":"Definite article referring to a particular person or thing.",
+ "a":"Indefinite article introducing a nonspecific person or thing.",
+ "an":"Indefinite article used before a vowel sound.",
+ "and":"Connects words, phrases or clauses.",
+ "or":"Introduces an alternative or choice.",
+ "but":"Introduces contrast or an exception.",
+ "to":"Marks an infinitive or indicates direction.",
+ "of":"Expresses a relationship, origin or belonging.",
+ "in":"Inside something or within a period.",
+ "on":"Touching or supported by a surface.",
+ "at":"Specifies a place, time or point.",
+ "for":"Indicates purpose, benefit or duration.",
+ "with":"Indicates accompaniment, possession or means.",
+ "from":"Indicates an origin or starting point.",
+ "by":"Identifies an agent, means or proximity.",
+ "as":"Indicates a role, comparison or manner.",
+ "if":"Introduces a condition.",
+ "because":"Introduces a reason or cause.",
+ "that":"Introduces a clause or identifies something.",
+ "this":"Points to something near or currently discussed.",
+ "these":"Plural form of this.",
+ "those":"Plural form of that.",
+ "it":"Refers to something already mentioned.",
+ "its":"Possessive form of it.",
+ "you":"Refers to the person or people addressed.",
+ "your":"Belonging to the person addressed.",
+ "we":"Refers to the speaker and others.",
+ "our":"Belonging to the speaker and others.",
+ "they":"Refers to people or things mentioned.",
+ "their":"Belonging to them.",
+ "he":"Refers to a male person or animal.",
+ "she":"Refers to a female person or animal.",
+ "i":"The person speaking or writing.",
+ "me":"The speaker as an object.",
+ "my":"Belonging to the speaker.",
+ "who":"Asks about or identifies a person.",
+ "what":"Asks about an identity, thing or action.",
+ "when":"Asks about or indicates time.",
+ "where":"Asks about or indicates place.",
+ "why":"Asks about or indicates a reason.",
+ "how":"Asks about or indicates manner or extent.",
+ "not":"Expresses negation.",
+ "no":"Expresses refusal or absence.",
+ "yes":"Expresses agreement or affirmation.",
+ "can":"Expresses ability or possibility.",
+ "will":"Expresses future intention or prediction.",
+ "would":"Expresses conditional or hypothetical meaning.",
+ "should":"Expresses advice, expectation or obligation.",
+ "could":"Expresses possibility or past ability.",
+ "may":"Expresses permission or possibility.",
+ "might":"Expresses uncertain possibility.",
+ "do":"Performs an action; also forms questions.",
+ "does":"Third-person singular present form of do.",
+ "did":"Past tense of do.",
+ "is":"Third-person singular present form of be.",
+ "am":"First-person singular present form of be.",
+ "are":"Present plural or second-person form of be.",
+ "was":"Past singular form of be.",
+ "were":"Past plural or second-person form of be.",
+ "been":"Past participle form of be.",
+ "have":"Possess; also forms perfect verb tenses.",
+ "has":"Third-person singular present form of have.",
+ "had":"Past tense or past participle of have.",
+ "than":"Introduces the second term of a comparison.",
+ "then":"Indicates what happens next or afterward.",
+ "also":"Adds information or another item.",
+ "very":"Intensifies an adjective or adverb.",
+ "too":"Means excessively or in addition.",
+ "so":"Indicates degree, consequence or emphasis.",
+ "up":"Toward a higher position.",
+ "down":"Toward a lower position."
+ }
+ if not synsets and w in function_words:
+  e["short_description_en"]=function_words[w]
+  e["definitions_en"]=[function_words[w]]
+  e["definition_status"]="editorial-grammar-gloss"
+ if not e["short_description_en"]:
+  e["short_description_en"]=None
+ e["short_description_status"]="provided" if e["short_description_en"] else "needs-review"
+ e["description_short_english"]=(" ".join(e["short_description_en"].split()[:12]) if e["short_description_en"] else None)
  # CEFR tier here is a clearly marked starting estimate from rank, NOT an official CEFR list.
- e["cefr"]=("A1" if idx<=500 else "A2" if idx<=1100 else "B1" if idx<=1800 else "B2" if idx<=2400 else "C1")
- e["cefr_status"]="heuristic-frequency-only-unreviewed"
+ e["cefr"]=("A1" if idx<=500 else "A2" if idx<=1100 else "B1" if idx<=1800 else "B2" if idx<=2400 else "C1" if idx<=2850 else "C2")
+ e["cefr_status"]="approximate-learning-band-by-frequency"
  e["initial_rank"]=e.get("initial_rank",idx)
  e["learning_band"]=("core" if idx<=500 else "high-frequency" if idx<=1500 else "extended")
  e["lexeme_id"]=e.get("lexeme_id",f"iml:en:{e['concept_id'].split(':')[1]}")
@@ -161,12 +243,12 @@ for e in out:
 out.sort(key=lambda e:(0 if e.get("category")=="common" else 1,rank_lookup.get(e.get("headword"),100000),e.get("headword","")))
 FREQ_PATH.write_text(json.dumps({"schema_version":1,"language":"en","source":"wordfreq","frequency_scope":"mixed","independent_of_id":True,"entries":frequency_entries},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 # immutable IDs, top-level ordering can change by rank
-result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"draft-unreviewed","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["English monolingual dictionary, not bilingual translations.","WordNet senses identify English meanings; cross-language translation mapping is NOT done.","CEFR is only a frequency-based preliminary estimate, not a validated CEFR word list.","Regional slang tags are provisional and require source review."],"entries":out}
+result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"draft-unreviewed","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["English monolingual dictionary, not bilingual translations.","WordNet senses identify English meanings; cross-language translation mapping is NOT done.","CEFR is an approximate learning tier based on word frequency, not an exam-certified word list.","Regional slang tags are provisional and require source review."],"entries":out}
 PATH.write_text(json.dumps(result,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 catpath=pathlib.Path("catalog.json")
 cat=json.loads(catpath.read_text(encoding="utf-8"))
 pkgs=[p for p in cat["packages"] if p.get("id") not in ("ishida-en-master-v1","ishida-en-frequency-v1")]
-pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"draft-unreviewed","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."})
+pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"usable-monolingual-draft","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."})
 pkgs.append({"id":"ishida-en-frequency-v1","version":result["version"],"name":"English frequency rankings","kind":"frequency","language":"en","languages":["en"],"entries":len(frequency_entries),"status":"source-ranked","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/frequency/en.json","sha256":hashlib.sha256(FREQ_PATH.read_bytes()).hexdigest()})
 cat["packages"]=pkgs
 catpath.write_text(json.dumps(cat,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
