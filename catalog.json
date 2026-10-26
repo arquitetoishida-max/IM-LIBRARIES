@@ -35,6 +35,232 @@
       "proficiency_available": true,
       "proficiency_note": "JLPT levels are community-derived from the existing app, not official JLPT vocabulary.",
       "warning": "Pilot dataset, human language review required prior to public deployment."
+    },
+    {
+      "id": "cedict-zh",
+      "name": "CC-CEDICT 中文",
+      "language": "zh",
+      "languages": [
+        "en",
+        "zh",
+        "zh-TW"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 2000,
+        "expressions": 0
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 (CC-CEDICT, MDBG)",
+      "source": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/cedict-zh.json",
+      "bytes": 329644,
+      "sha256": "5b781ebf6cadd22f32651ce627008ce314d6509fb212ce489ac86675d9fb040a",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-it",
+      "name": "Wiktionary Italian (kaikki.org)",
+      "language": "it",
+      "languages": [
+        "en",
+        "it"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 854,
+        "expressions": 1146
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Italian/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-it.json",
+      "bytes": 263699,
+      "sha256": "2fad8cd71029f552717aefadc287f90a29572f873d8af94fe7a534757ac00e6f",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-es",
+      "name": "Wiktionary Spanish (kaikki.org)",
+      "language": "es",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 607,
+        "expressions": 1393
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Spanish/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-es.json",
+      "bytes": 265909,
+      "sha256": "a8847fab6fe4f82395dc042f2286cd7ec87e6e076959b5b57d0c1aa839291ba7",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-fr",
+      "name": "Wiktionary French (kaikki.org)",
+      "language": "fr",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 639,
+        "expressions": 1361
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/French/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-fr.json",
+      "bytes": 277250,
+      "sha256": "96b3618bbb6e965d4d5bd40cb03d489b5bae7cd6ddd48e3ab0fc0f08e3d4f9d1",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-de",
+      "name": "Wiktionary German (kaikki.org)",
+      "language": "de",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 1382,
+        "expressions": 618
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/German/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-de.json",
+      "bytes": 298882,
+      "sha256": "1061242282fd212a3fd9b9bb090d9e583a6f58e96f3855816114c538f0336c31",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-ko",
+      "name": "Wiktionary Korean (kaikki.org)",
+      "language": "ko",
+      "languages": [
+        "en",
+        "ko"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 1947,
+        "expressions": 53
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Korean/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-ko.json",
+      "bytes": 311472,
+      "sha256": "c5a9806c4ebca9ab6b9c433ee6f6849c2d21085ce67ba84dec632d7851523712",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-ru",
+      "name": "Wiktionary Russian (kaikki.org)",
+      "language": "ru",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 1478,
+        "expressions": 522
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Russian/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-ru.json",
+      "bytes": 351080,
+      "sha256": "70d731fab99bb75022fb4fd8bc24498eecc056905ccd25565499a5ceba8d313b",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-ja",
+      "name": "Wiktionary Japanese (kaikki.org)",
+      "language": "ja",
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 2000,
+        "expressions": 0
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Japanese/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-ja.json",
+      "bytes": 288061,
+      "sha256": "d9808d0af15278ed132c360c5a118d448fddd17c0bfdcb64aee1a9e75c7b5313",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
+    },
+    {
+      "id": "kaikki-pt",
+      "name": "Wiktionary Portuguese (kaikki.org)",
+      "language": "pt",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "entries": 2000,
+      "record_types": {
+        "words": 1040,
+        "expressions": 960
+      },
+      "semantic_ids": "source-scoped; NOT cross-language concept IDs",
+      "license": "CC BY-SA 4.0 / GFDL (Wiktionary, via kaikki.org)",
+      "source": "https://kaikki.org/dictionary/Portuguese/",
+      "frequency": "wordfreq (Zipf), CC BY-SA 4.0",
+      "version": "2026-10-26",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/kaikki-pt.json",
+      "bytes": 318890,
+      "sha256": "98c8be11867ea15d90f308858059418aae0703ab921c7ac7862cbd8f3a0482b2",
+      "status": "needs-linguistic-review",
+      "verified_for_production": false,
+      "translation_coverage": "source-language to English gloss; no guaranteed pt-BR translation"
     }
   ]
 }
