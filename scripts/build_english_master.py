@@ -117,6 +117,119 @@ for idx,w in enumerate(words,1):
  "up":"Toward a higher position.",
  "down":"Toward a lower position."
  }
+ # Compact editorial definitions for common grammatical contractions.
+ function_words.update({
+ "his":"Belonging to a male person or animal.",
+ "her":"Belonging to or referring to a female person.",
+ "him":"Refers to a male person as an object.",
+ "them":"Refers to people or things as objects.",
+ "which":"Identifies or asks about one among alternatives.",
+ "into":"Moving toward the inside of something.",
+ "something":"A thing not specifically named.",
+ "anything":"Any thing, regardless of which.",
+ "everything":"All things in a particular group.",
+ "everyone":"Every person.",
+ "others":"Other people or things.",
+ "since":"From a past time or because.",
+ "during":"Throughout part or all of a period.",
+ "without":"Not having or using something.",
+ "against":"Opposing or touching something.",
+ "until":"Up to a specified time.",
+ "per":"For each; according to.",
+ "whose":"Belonging to which person.",
+ "whose":"Asks or states to whom something belongs.",
+ "anyone":"Any person.",
+ "someone":"An unspecified person.",
+ "nobody":"No person.",
+ "somewhere":"An unspecified place.",
+ "anywhere":"Any place.",
+ "everywhere":"In all places.",
+ "therefore":"For that reason; consequently.",
+ "however":"Introduces contrast or qualification.",
+ "although":"Introduces a contrasting statement.",
+ "unless":"Except when a condition holds.",
+ "whether":"Introduces alternatives or uncertainty.",
+ "within":"Inside a place, range or time limit.",
+ "between":"In the space separating two things.",
+ "among":"In or within a group.",
+ "through":"From one side to another.",
+ "throughout":"In every part or during the whole period.",
+ "onto":"Moving to a position on a surface.",
+ "upon":"On; often more formal.",
+ "either":"One of two alternatives.",
+ "neither":"Not one nor the other.",
+ "both":"The two people or things together.",
+ "each":"Every individual member of a group.",
+ "every":"All members considered individually.",
+ "several":"More than two but not many.",
+ "many":"A large number of.",
+ "much":"A large quantity or degree.",
+ "few":"A small number.",
+ "less":"A smaller amount.",
+ "fewer":"A smaller number.",
+ "enough":"As much or as many as needed.",
+ "another":"One more or a different one.",
+ "else":"Other than what was mentioned.",
+ "yet":"Up to now or nevertheless.",
+ "already":"Before now or earlier than expected.",
+ "still":"Continuing up to the present.",
+ "almost":"Very nearly, but not completely.",
+ "perhaps":"Possibly; maybe.",
+ "maybe":"Possibly, without certainty.",
+ "rather":"To a degree or instead.",
+ "quite":"To a considerable or complete degree.",
+ "okay":"Used to express agreement or acceptability.",
+ "ok":"Informal spelling of okay.",
+ })
+ contractions={
+ "it's":"It is, or it has.",
+ "don't":"Do not.",
+ "i'm":"I am.",
+ "you're":"You are.",
+ "that's":"That is, or that has.",
+ "can't":"Cannot.",
+ "i've":"I have.",
+ "didn't":"Did not.",
+ "he's":"He is, or he has.",
+ "there's":"There is, or there has.",
+ "doesn't":"Does not.",
+ "they're":"They are.",
+ "i'll":"I will, or I shall.",
+ "we're":"We are.",
+ "we've":"We have.",
+ "we'll":"We will.",
+ "she's":"She is, or she has.",
+ "isn't":"Is not.",
+ "aren't":"Are not.",
+ "wasn't":"Was not.",
+ "weren't":"Were not.",
+ "won't":"Will not.",
+ "wouldn't":"Would not.",
+ "shouldn't":"Should not.",
+ "couldn't":"Could not.",
+ "haven't":"Have not.",
+ "hasn't":"Has not.",
+ "hadn't":"Had not.",
+ "let's":"Let us.",
+ "what's":"What is, or what has.",
+ "who's":"Who is, or who has.",
+ "where's":"Where is, or where has.",
+ "how's":"How is, or how has.",
+ "they've":"They have.",
+ "they'll":"They will.",
+ "you've":"You have.",
+ "you'll":"You will.",
+ "i'd":"I would, or I had.",
+ "you'd":"You would, or you had.",
+ "we'd":"We would, or we had.",
+ "he'd":"He would, or he had.",
+ "she'd":"She would, or she had.",
+ "they'd":"They would, or they had.",
+ "could've":"Could have.",
+ "should've":"Should have.",
+ "would've":"Would have.",
+ }
+ function_words.update(contractions)
  if not synsets and w in function_words:
   e["short_description_en"]=function_words[w]
   e["definitions_en"]=[function_words[w]]
@@ -233,6 +346,14 @@ for i,(phrase,gloss,where,regions,definition) in enumerate(slang,1):
  key="slang:"+phrase
  # Separate entries with their own ids; equivalence to common headword not auto-assumed.
  prev=next((e for e in old.get("entries",[]) if e.get("slug")==key),None)
+ # If the standard dictionary already contains the identical spelling, attach the
+ # regional/colloquial sense to that lexeme instead of duplicating the headword.
+ if phrase.casefold() in existing:
+  standard=existing[phrase.casefold()]
+  alt={"kind":"regional-colloquial-sense","gloss_en":gloss,"definition_en":definition,"regions":regions,"region_note":where,"status":"needs-review"}
+  variants=standard.setdefault("regional_senses",[])
+  if not any(v.get("gloss_en")==gloss for v in variants):variants.append(alt)
+  continue
  out.append(prev or {"concept_id":new_id(),"lexeme_id":f"iml:en:slang:{i:06d}","slug":key,"headword":phrase,"category":"regional-colloquial","kind":"expression" if " " in phrase or "'" in phrase else "word","language":"en","definitions_en":[definition],"english_gloss":gloss,"register":"slang-or-informal","regions":regions,"regional_note":where,"cefr":None,"cefr_status":"unclassified","frequency":None,"mapping_status":"provisional-not-sense-verified","related_english_form":gloss,"source_review":"requires regional evidence review"})
 for e in out:
  if e.get("category")=="regional-colloquial":
