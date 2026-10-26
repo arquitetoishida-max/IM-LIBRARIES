@@ -265,7 +265,7 @@
     {
       "id": "ishida-en-master-v1",
       "version": "2026-10-26",
-      "name": "Ishida English Master — 3000 common + regional expressions (DRAFT)",
+      "name": "Ishida English Master — 3000 common + 25 regional expressions (DRAFT)",
       "kind": "lexical-master",
       "language": "en",
       "languages": [
@@ -275,8 +275,23 @@
       "status": "draft-unreviewed",
       "verified_for_production": false,
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json",
-      "sha256": "e13b905167ae9075e337849162a0e8fc9256a9d9c186c961dc84c04e643f5be7",
-      "description": "English pivot entries, ranks, provisional slang region tags; not certified cross-language sense mappings."
+      "sha256": "829e8bfa0cf15fd8a1689a13adb2ebebc434fe8506ab3e52656da4eef38dd06e",
+      "description": "Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."
+    },
+    {
+      "id": "ishida-en-frequency-v1",
+      "version": "2026-10-26",
+      "name": "English frequency rankings",
+      "kind": "frequency",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "entries": 3000,
+      "status": "source-ranked",
+      "verified_for_production": false,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/frequency/en.json",
+      "sha256": "3699c397afdcc94276ff0817878730b2a865af0becd96127d6de17a69bc634b8"
     }
   ]
 }
