@@ -230,7 +230,7 @@ for idx,w in enumerate(words,1):
  "would've":"Would have.",
  }
  function_words.update(contractions)
-  function_words.update({
+ function_words.update({
  "myself":"The speaker, used reflexively or for emphasis.","yourself":"The person addressed, used reflexively or emphatically.",
  "himself":"A male person, used reflexively or emphatically.","herself":"A female person, used reflexively or emphatically.",
  "itself":"The same thing or animal, reflexively.","themselves":"The same people or things, reflexively.",
