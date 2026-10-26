@@ -26,3 +26,11 @@ The ISHIDA app may provide **on-demand translation of the English explanatory te
 
 ## Publication status
 The data is a **draft source dictionary**, not approved automatic cross-language pairs. Dictionary sense alignment, CEFR validation, slang evidence, and missing WordNet coverage remain editorial tasks. Keep these statuses explicit in the catalog.
+
+## Refinamento funcional (2026-10-26)
+
+O objetivo pedagógico é ser utilizável, sem reivindicar certificação oficial. O gerador cobre os níveis de estudo **A1–C2 por aproximação de frequência**, com aviso ao usuário: *Níveis aproximados para orientar o estudo; não são classificações oficiais.* Níveis de homógrafos variam com o sentido e devem ser refinados quando possível. Registros sem WordNet recebem glossário editorial breve apenas quando a definição é conhecida e sustentada, e os demais mantêm um marcador de revisão, não definições inventadas.
+
+Toda entrada utiliza `description_short_english` com no máximo 12 palavras, quando existe material definicional; `short_description_en` pode preservar a definição mais longa. Gírias usam definição curta e múltiplas regiões, com status provisório. Frequência segue isolada em `frequency/en.json`, e o ID inglês não deve ser reordenado.
+
+**Nota de licença:** dados de WordNet 3.0 exigem crédito e a reprodução do aviso de licença nas cópias distribuídas. Referência: https://wordnet.princeton.edu/license-and-commercial-use .
