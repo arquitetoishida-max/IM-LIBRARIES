@@ -407,15 +407,23 @@ for e in out:
   e["description_short_english"]=" ".join(e["short_description_en"].split()[:12]) if e.get("short_description_en") else None
   e["cefr_status"]="not-applicable-regional-expression"
   e["frequency_reference"]="frequency/en.json"
+# Publish only entries with a usable monolingual explanation. Keep exclusions
+# in an auditable file instead of silently inventing a description.
+excluded=[{"english_id":e.get("english_id"),"headword":e.get("headword"),"reason":"no_verified_monolingual_definition"} for e in out if not e.get("description_short_english")]
+out=[e for e in out if e.get("description_short_english")]
+path_excluded=pathlib.Path("docs/ENGLISH_EXCLUDED_FOR_REVIEW.json")
+path_excluded.write_text(json.dumps({"status":"excluded-not-deleted-from-source","entries":excluded},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+live_ids={e.get("english_id") for e in out if e.get("category")=="common"}
+frequency_entries=[f for f in frequency_entries if f["english_id"] in live_ids]
 out.sort(key=lambda e:(0 if e.get("category")=="common" else 1,rank_lookup.get(e.get("headword"),100000),e.get("headword","")))
 FREQ_PATH.write_text(json.dumps({"schema_version":1,"language":"en","source":"wordfreq","frequency_scope":"mixed","independent_of_id":True,"entries":frequency_entries},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 # immutable IDs, top-level ordering can change by rank
-result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"draft-unreviewed","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["English monolingual dictionary, not bilingual translations.","WordNet senses identify English meanings; cross-language translation mapping is NOT done.","CEFR is an approximate learning tier based on word frequency, not an exam-certified word list.","Regional slang tags are provisional and require source review."],"entries":out}
+result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"editorially-curated-monolingual-v1","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["English monolingual dictionary, not bilingual translations.","WordNet senses identify English meanings; cross-language translation mapping is NOT done.","CEFR is an approximate learning tier based on word frequency, not an exam-certified word list.","Regional slang tags are provisional and require source review."],"entries":out}
 PATH.write_text(json.dumps(result,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 catpath=pathlib.Path("catalog.json")
 cat=json.loads(catpath.read_text(encoding="utf-8"))
 pkgs=[p for p in cat["packages"] if p.get("id") not in ("ishida-en-master-v1","ishida-en-frequency-v1")]
-pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"usable-monolingual-draft","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."})
+pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"editorially-curated-monolingual-v1","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."})
 pkgs.append({"id":"ishida-en-frequency-v1","version":result["version"],"name":"English frequency rankings","kind":"frequency","language":"en","languages":["en"],"entries":len(frequency_entries),"status":"source-ranked","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/frequency/en.json","sha256":hashlib.sha256(FREQ_PATH.read_bytes()).hexdigest()})
 cat["packages"]=pkgs
 catpath.write_text(json.dumps(cat,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
