@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-26",
+  "packages": [
+    {
+      "id": "core-multilingual-pilot-001",
+      "version": "2026-10-26.1",
+      "status": "pilot",
+      "name": "Ishida Multilang — Core Pilot (38 concepts)",
+      "kind": "multilingual-vocabulary",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/core-multilingual-pilot-001.json",
+      "entry_count": 38,
+      "languages": [
+        "pt-BR",
+        "pt-PT",
+        "en",
+        "ja",
+        "it",
+        "es",
+        "fr",
+        "de"
+      ],
+      "language_labels": {
+        "pt-BR": "Port. (Brasileiro)",
+        "pt-PT": "Portugues",
+        "en": "English",
+        "ja": "日本語",
+        "it": "Italiano",
+        "es": "Español",
+        "fr": "Français",
+        "de": "Deutsch"
+      },
+      "verified_for_production": false,
+      "frequency_available": false,
+      "proficiency_available": true,
+      "proficiency_note": "JLPT levels are community-derived from the existing app, not official JLPT vocabulary.",
+      "warning": "Pilot dataset, human language review required prior to public deployment."
+    }
+  ]
+}
