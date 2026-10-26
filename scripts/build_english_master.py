@@ -4,6 +4,9 @@ English surface forms are NOT asserted to be disambiguated international concept
 """
 import json, pathlib, re, datetime, hashlib
 from wordfreq import top_n_list, zipf_frequency
+from nltk.corpus import wordnet as wn
+FREQ_PATH=pathlib.Path("frequency/en.json")
+FREQ_PATH.parent.mkdir(exist_ok=True)
 ROOT=pathlib.Path("master"); ROOT.mkdir(exist_ok=True)
 PATH=ROOT/"en-master-v1.json"
 TARGET=3000
@@ -23,12 +26,26 @@ for w in top_n_list("en",10000):
  if valid(w) and w not in words:words.append(w)
  if len(words)>=TARGET:break
 if len(words)<TARGET:raise RuntimeError(f"Only {len(words)} candidates")
+frequency_entries=[]
 for idx,w in enumerate(words,1):
  e=existing.get(w)
  if e is None:
   e={"concept_id":new_id(),"headword":w,"category":"common","kind":"word","language":"en","senses":[],"definitions_en":[],"cefr":None,"cefr_status":"unclassified","variants":[],"mapping_status":"lexical-headword-unresolved"}
   existing[w]=e
- e["frequency"]={"rank":idx,"zipf":round(zipf_frequency(w,"en"),2),"language":"en","source":"wordfreq","frequency_scope":"mixed"}
+ e.pop("frequency",None)
+ frequency_entries.append({"english_id":e.get("english_id",f"en:{e['concept_id'].split(':')[-1]}"),"word":w,"rank":idx,"zipf":round(zipf_frequency(w,"en"),2)})
+ e["english_id"]=e.get("english_id",f"en:{e['concept_id'].split(':')[-1]}")
+ e["frequency_reference"]="frequency/en.json"
+ e["frequency_initial_rank"]=idx
+ # Retain all attested WordNet senses separately; never mark headword as one universal sense.
+ synsets=wn.synsets(w)
+ e["senses"]=[{"sense_id":e["english_id"]+":wn:"+x.name(),"pos":x.pos(),"definition_en":x.definition(),"source":"Princeton WordNet 3.0","status":"dictionary-sense-not-translation-reviewed"} for x in synsets[:12]]
+ e["definitions_en"]=[x.definition() for x in synsets[:3]]
+ e["short_description_en"]=(synsets[0].definition() if synsets else None)
+ e["definition_status"]="wordnet-attested" if synsets else "missing-dictionary-definition"
+ # CEFR tier here is a clearly marked starting estimate from rank, NOT an official CEFR list.
+ e["cefr"]=("A1" if idx<=500 else "A2" if idx<=1100 else "B1" if idx<=1800 else "B2" if idx<=2400 else "C1")
+ e["cefr_status"]="heuristic-frequency-only-unreviewed"
  e["initial_rank"]=e.get("initial_rank",idx)
  e["learning_band"]=("core" if idx<=500 else "high-frequency" if idx<=1500 else "extended")
  e["lexeme_id"]=e.get("lexeme_id",f"iml:en:{e['concept_id'].split(':')[1]}")
@@ -63,19 +80,28 @@ slang=[
  ("idk","I don't know","Online English",["internet"],"Short message meaning I don't know."),
 ]
 out=list(existing.values())
+rank_lookup={w:i for i,w in enumerate(words,1)}
 for i,(phrase,gloss,where,regions,definition) in enumerate(slang,1):
  key="slang:"+phrase
  # Separate entries with their own ids; equivalence to common headword not auto-assumed.
  prev=next((e for e in old.get("entries",[]) if e.get("slug")==key),None)
  out.append(prev or {"concept_id":new_id(),"lexeme_id":f"iml:en:slang:{i:06d}","slug":key,"headword":phrase,"category":"regional-colloquial","kind":"expression" if " " in phrase or "'" in phrase else "word","language":"en","definitions_en":[definition],"english_gloss":gloss,"register":"slang-or-informal","regions":regions,"regional_note":where,"cefr":None,"cefr_status":"unclassified","frequency":None,"mapping_status":"provisional-not-sense-verified","related_english_form":gloss,"source_review":"requires regional evidence review"})
-out.sort(key=lambda e:(0 if e.get("category")=="common" else 1,(e.get("frequency") or {}).get("rank",100000),e.get("headword","")))
+for e in out:
+ if e.get("category")=="regional-colloquial":
+  e["english_id"]=e.get("english_id",f"en:{e['concept_id'].split(':')[-1]}")
+  e["short_description_en"]=e["definitions_en"][0] if e.get("definitions_en") else None
+  e["cefr_status"]="not-applicable-regional-expression"
+  e["frequency_reference"]="frequency/en.json"
+out.sort(key=lambda e:(0 if e.get("category")=="common" else 1,rank_lookup.get(e.get("headword"),100000),e.get("headword","")))
+FREQ_PATH.write_text(json.dumps({"schema_version":1,"language":"en","source":"wordfreq","frequency_scope":"mixed","independent_of_id":True,"entries":frequency_entries},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 # immutable IDs, top-level ordering can change by rank
-result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"draft-unreviewed","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["Common entries are lexemes, NOT yet disambiguated into certified international senses.","CEFR is blank until an evidence-supported assignment.","Regional slang tags are provisional pending sources and human review.","Do not offer as verified cross-language dictionary."],"entries":out}
+result={"schema_version":1,"id":"ishida-en-master-v1","created_at":old.get("created_at",datetime.date.today().isoformat()),"version":datetime.date.today().isoformat(),"language":"en","pivot":"English first, but concepts may exist without English","status":"draft-unreviewed","counts":{"common":sum(e.get("category")=="common" for e in out),"slang":sum(e.get("category")=="regional-colloquial" for e in out)},"warnings":["English monolingual dictionary, not bilingual translations.","WordNet senses identify English meanings; cross-language translation mapping is NOT done.","CEFR is only a frequency-based preliminary estimate, not a validated CEFR word list.","Regional slang tags are provisional and require source review."],"entries":out}
 PATH.write_text(json.dumps(result,ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
 catpath=pathlib.Path("catalog.json")
 cat=json.loads(catpath.read_text(encoding="utf-8"))
-pkgs=[p for p in cat["packages"] if p.get("id")!="ishida-en-master-v1"]
-pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"draft-unreviewed","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"English pivot entries, ranks, provisional slang region tags; not certified cross-language sense mappings."})
+pkgs=[p for p in cat["packages"] if p.get("id") not in ("ishida-en-master-v1","ishida-en-frequency-v1")]
+pkgs.append({"id":"ishida-en-master-v1","version":result["version"],"name":"Ishida English Master — 3000 common + 25 regional expressions (DRAFT)","kind":"lexical-master","language":"en","languages":["en"],"entries":len(out),"status":"draft-unreviewed","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/master/en-master-v1.json","sha256":hashlib.sha256(PATH.read_bytes()).hexdigest(),"description":"Monolingual English entries with attested WordNet senses, provisional CEFR estimates and slang tags; NOT cross-language mappings."})
+pkgs.append({"id":"ishida-en-frequency-v1","version":result["version"],"name":"English frequency rankings","kind":"frequency","language":"en","languages":["en"],"entries":len(frequency_entries),"status":"source-ranked","verified_for_production":False,"url":"https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/frequency/en.json","sha256":hashlib.sha256(FREQ_PATH.read_bytes()).hexdigest()})
 cat["packages"]=pkgs
 catpath.write_text(json.dumps(cat,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print("Built",len(out),"entries (",result["counts"],")")
