@@ -1,0 +1,34 @@
+name: Build PT-BR and Japanese mapped dictionaries
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_mapped_languages.py
+      - .github/workflows/build-mapped-languages.yml
+permissions:
+  contents: write
+concurrency:
+  group: mapped-language-build
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install nltk
+      - run: python -m nltk.downloader wordnet omw-1.4
+      - run: python scripts/build_mapped_languages.py
+      - name: Commit mappings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add languages/pt-BR.json languages/ja.json catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish initial PT-BR and Japanese English-ID mappings"
+            git pull --rebase origin main
+            git push
+          fi
