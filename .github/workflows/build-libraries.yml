@@ -52,5 +52,6 @@ jobs:
           git add catalog.json packages/
           if ! git diff --cached --quiet; then
             git commit -m "Build 1500-entry sourced language packages and update catalog"
+            git pull --rebase origin main
             git push
           fi
