@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "concept_id": "imc:000000001",
+  "english_pivot": {
+    "gloss": "cat",
+    "definition": "A small domesticated feline mammal.",
+    "status": "editorial-example"
+  },
+  "labels": [
+    {
+      "language": "en",
+      "lexeme_id": "iml:en:000000001",
+      "sense_id": "ims:en:000000001",
+      "text": "cat",
+      "kind": "word",
+      "register": "neutral",
+      "regions": [],
+      "mapping_status": "example"
+    },
+    {
+      "language": "pt-BR",
+      "lexeme_id": "iml:pt-BR:000000001",
+      "sense_id": "ims:pt-BR:000000001",
+      "text": "gato",
+      "kind": "word",
+      "register": "neutral",
+      "regions": [],
+      "mapping_status": "example"
+    },
+    {
+      "language": "ja",
+      "lexeme_id": "iml:ja:000000001",
+      "sense_id": "ims:ja:000000001",
+      "text": "猫",
+      "reading": "ねこ",
+      "kind": "word",
+      "register": "neutral",
+      "regions": [],
+      "mapping_status": "example"
+    }
+  ],
+  "frequency": {
+    "en": {
+      "zipf": null,
+      "rank": null,
+      "source": null
+    },
+    "ja": {
+      "zipf": null,
+      "rank": null,
+      "source": null
+    }
+  },
+  "proficiency": {
+    "en": {
+      "cefr": null,
+      "status": "unclassified"
+    }
+  },
+  "notes": "SCHEMA EXAMPLE ONLY. Not a released vocabulary dictionary."
+}
