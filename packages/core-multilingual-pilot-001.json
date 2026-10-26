@@ -1,0 +1,858 @@
+{
+  "schema_version": 1,
+  "id": "core-multilingual-pilot-001",
+  "version": "2026-10-26.1",
+  "kind": "multilingual-vocabulary",
+  "status": "pilot",
+  "license": "Original curated translations — review before production use",
+  "source": "ISHIDA starterWords 1-38; additional translations drafted for pilot",
+  "languages": [
+    "pt-BR",
+    "pt-PT",
+    "en",
+    "ja",
+    "it",
+    "es",
+    "fr",
+    "de"
+  ],
+  "notes": "All 38 entries have all language fields. No claim of corpus frequency. JLPT labels inherited from original app and not official.",
+  "entries": [
+    {
+      "id": "starter:001",
+      "translations": {
+        "pt-BR": "comer",
+        "pt-PT": "comer",
+        "en": "eat",
+        "ja": "食べる",
+        "it": "mangiare",
+        "es": "comer",
+        "fr": "manger",
+        "de": "essen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:002",
+      "translations": {
+        "pt-BR": "beber",
+        "pt-PT": "beber",
+        "en": "drink",
+        "ja": "飲む",
+        "it": "bere",
+        "es": "beber",
+        "fr": "boire",
+        "de": "trinken"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:003",
+      "translations": {
+        "pt-BR": "dormir",
+        "pt-PT": "dormir",
+        "en": "sleep",
+        "ja": "寝る",
+        "it": "dormire",
+        "es": "dormir",
+        "fr": "dormir",
+        "de": "schlafen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:004",
+      "translations": {
+        "pt-BR": "ver",
+        "pt-PT": "ver",
+        "en": "see",
+        "ja": "見る",
+        "it": "vedere",
+        "es": "ver",
+        "fr": "voir",
+        "de": "sehen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:005",
+      "translations": {
+        "pt-BR": "ouvir",
+        "pt-PT": "ouvir",
+        "en": "hear",
+        "ja": "聞く",
+        "it": "sentire",
+        "es": "oír",
+        "fr": "entendre",
+        "de": "hören"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:006",
+      "translations": {
+        "pt-BR": "falar",
+        "pt-PT": "falar",
+        "en": "speak",
+        "ja": "話す",
+        "it": "parlare",
+        "es": "hablar",
+        "fr": "parler",
+        "de": "sprechen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:007",
+      "translations": {
+        "pt-BR": "comprar",
+        "pt-PT": "comprar",
+        "en": "buy",
+        "ja": "買う",
+        "it": "comprare",
+        "es": "comprar",
+        "fr": "acheter",
+        "de": "kaufen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:008",
+      "translations": {
+        "pt-BR": "vender",
+        "pt-PT": "vender",
+        "en": "sell",
+        "ja": "売る",
+        "it": "vendere",
+        "es": "vender",
+        "fr": "vendre",
+        "de": "verkaufen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:009",
+      "translations": {
+        "pt-BR": "ir",
+        "pt-PT": "ir",
+        "en": "go",
+        "ja": "行く",
+        "it": "andare",
+        "es": "ir",
+        "fr": "aller",
+        "de": "gehen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:010",
+      "translations": {
+        "pt-BR": "vir",
+        "pt-PT": "vir",
+        "en": "come",
+        "ja": "来る",
+        "it": "venire",
+        "es": "venir",
+        "fr": "venir",
+        "de": "kommen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:011",
+      "translations": {
+        "pt-BR": "água",
+        "pt-PT": "água",
+        "en": "water",
+        "ja": "水",
+        "it": "acqua",
+        "es": "agua",
+        "fr": "eau",
+        "de": "Wasser"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:012",
+      "translations": {
+        "pt-BR": "fogo",
+        "pt-PT": "fogo",
+        "en": "fire",
+        "ja": "火",
+        "it": "fuoco",
+        "es": "fuego",
+        "fr": "feu",
+        "de": "Feuer"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:013",
+      "translations": {
+        "pt-BR": "pessoa",
+        "pt-PT": "pessoa",
+        "en": "person",
+        "ja": "人",
+        "it": "persona",
+        "es": "persona",
+        "fr": "personne",
+        "de": "Person"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:014",
+      "translations": {
+        "pt-BR": "hoje",
+        "pt-PT": "hoje",
+        "en": "today",
+        "ja": "今日",
+        "it": "oggi",
+        "es": "hoy",
+        "fr": "aujourd'hui",
+        "de": "heute"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:015",
+      "translations": {
+        "pt-BR": "amanhã",
+        "pt-PT": "amanhã",
+        "en": "tomorrow",
+        "ja": "明日",
+        "it": "domani",
+        "es": "mañana",
+        "fr": "demain",
+        "de": "morgen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:016",
+      "translations": {
+        "pt-BR": "ontem",
+        "pt-PT": "ontem",
+        "en": "yesterday",
+        "ja": "昨日",
+        "it": "ieri",
+        "es": "ayer",
+        "fr": "hier",
+        "de": "gestern"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:017",
+      "translations": {
+        "pt-BR": "casa",
+        "pt-PT": "casa",
+        "en": "house",
+        "ja": "家",
+        "it": "casa",
+        "es": "casa",
+        "fr": "maison",
+        "de": "Haus"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:018",
+      "translations": {
+        "pt-BR": "gato",
+        "pt-PT": "gato",
+        "en": "cat",
+        "ja": "猫",
+        "it": "gatto",
+        "es": "gato",
+        "fr": "chat",
+        "de": "Katze"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:019",
+      "translations": {
+        "pt-BR": "cachorro",
+        "pt-PT": "cão",
+        "en": "dog",
+        "ja": "犬",
+        "it": "cane",
+        "es": "perro",
+        "fr": "chien",
+        "de": "Hund"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:020",
+      "translations": {
+        "pt-BR": "livro",
+        "pt-PT": "livro",
+        "en": "book",
+        "ja": "本",
+        "it": "libro",
+        "es": "libro",
+        "fr": "livre",
+        "de": "Buch"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:021",
+      "translations": {
+        "pt-BR": "trabalho",
+        "pt-PT": "trabalho",
+        "en": "work",
+        "ja": "仕事",
+        "it": "lavoro",
+        "es": "trabajo",
+        "fr": "travail",
+        "de": "Arbeit"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:022",
+      "translations": {
+        "pt-BR": "escola",
+        "pt-PT": "escola",
+        "en": "school",
+        "ja": "学校",
+        "it": "scuola",
+        "es": "escuela",
+        "fr": "école",
+        "de": "Schule"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:023",
+      "translations": {
+        "pt-BR": "amigo",
+        "pt-PT": "amigo",
+        "en": "friend",
+        "ja": "友達",
+        "it": "amico",
+        "es": "amigo",
+        "fr": "ami",
+        "de": "Freund"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:024",
+      "translations": {
+        "pt-BR": "dinheiro",
+        "pt-PT": "dinheiro",
+        "en": "money",
+        "ja": "お金",
+        "it": "denaro",
+        "es": "dinero",
+        "fr": "argent",
+        "de": "Geld"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:025",
+      "translations": {
+        "pt-BR": "carro",
+        "pt-PT": "carro",
+        "en": "car",
+        "ja": "車",
+        "it": "auto",
+        "es": "coche",
+        "fr": "voiture",
+        "de": "Auto"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:026",
+      "translations": {
+        "pt-BR": "rápido",
+        "pt-PT": "rápido",
+        "en": "fast",
+        "ja": "速い",
+        "it": "veloce",
+        "es": "rápido",
+        "fr": "rapide",
+        "de": "schnell"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:027",
+      "translations": {
+        "pt-BR": "grande",
+        "pt-PT": "grande",
+        "en": "big",
+        "ja": "大きい",
+        "it": "grande",
+        "es": "grande",
+        "fr": "grand",
+        "de": "groß"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:028",
+      "translations": {
+        "pt-BR": "pequeno",
+        "pt-PT": "pequeno",
+        "en": "small",
+        "ja": "小さい",
+        "it": "piccolo",
+        "es": "pequeño",
+        "fr": "petit",
+        "de": "klein"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:029",
+      "translations": {
+        "pt-BR": "interessante",
+        "pt-PT": "interessante",
+        "en": "interesting",
+        "ja": "面白い",
+        "it": "interessante",
+        "es": "interesante",
+        "fr": "intéressant",
+        "de": "interessant"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:030",
+      "translations": {
+        "pt-BR": "difícil",
+        "pt-PT": "difícil",
+        "en": "difficult",
+        "ja": "難しい",
+        "it": "difficile",
+        "es": "difícil",
+        "fr": "difficile",
+        "de": "schwierig"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N5",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:031",
+      "translations": {
+        "pt-BR": "experiência",
+        "pt-PT": "experiência",
+        "en": "experience",
+        "ja": "経験",
+        "it": "esperienza",
+        "es": "experiencia",
+        "fr": "expérience",
+        "de": "Erfahrung"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N3",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:032",
+      "translations": {
+        "pt-BR": "resultado",
+        "pt-PT": "resultado",
+        "en": "result",
+        "ja": "結果",
+        "it": "risultato",
+        "es": "resultado",
+        "fr": "résultat",
+        "de": "Ergebnis"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N3",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:033",
+      "translations": {
+        "pt-BR": "preparação",
+        "pt-PT": "preparação",
+        "en": "preparation",
+        "ja": "準備",
+        "it": "preparazione",
+        "es": "preparación",
+        "fr": "préparation",
+        "de": "Vorbereitung"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N3",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:034",
+      "translations": {
+        "pt-BR": "comparar",
+        "pt-PT": "comparar",
+        "en": "compare",
+        "ja": "比べる",
+        "it": "confrontare",
+        "es": "comparar",
+        "fr": "comparer",
+        "de": "vergleichen"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N3",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:035",
+      "translations": {
+        "pt-BR": "informação",
+        "pt-PT": "informação",
+        "en": "information",
+        "ja": "情報",
+        "it": "informazione",
+        "es": "información",
+        "fr": "information",
+        "de": "Information"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N2",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:036",
+      "translations": {
+        "pt-BR": "responsabilidade",
+        "pt-PT": "responsabilidade",
+        "en": "responsibility",
+        "ja": "責任",
+        "it": "responsabilità",
+        "es": "responsabilidad",
+        "fr": "responsabilité",
+        "de": "Verantwortung"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N2",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:037",
+      "translations": {
+        "pt-BR": "interpretação",
+        "pt-PT": "interpretação",
+        "en": "interpretation",
+        "ja": "解釈",
+        "it": "interpretazione",
+        "es": "interpretación",
+        "fr": "interprétation",
+        "de": "Interpretation"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N1",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    },
+    {
+      "id": "starter:038",
+      "translations": {
+        "pt-BR": "meticuloso",
+        "pt-PT": "meticuloso",
+        "en": "meticulous",
+        "ja": "綿密",
+        "it": "meticoloso",
+        "es": "meticuloso",
+        "fr": "méticuleux",
+        "de": "gewissenhaft"
+      },
+      "classifications": [
+        {
+          "system": "JLPT",
+          "level": "N1",
+          "status": "community-derived",
+          "source": "Original ISHIDA starterWords; not official JLPT list"
+        }
+      ],
+      "frequency": null
+    }
+  ]
+}
