@@ -1,0 +1,2 @@
+# ISHIDA-MULTILANG-LIBRARIES
+Lang library
