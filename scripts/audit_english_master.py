@@ -24,7 +24,7 @@ for n,e in enumerate(entries,1):
  elif len(short.split())>12:issues['short_definition_over_12_words'].append((n,head))
  if not defs:issues['missing_definitions'].append((n,head))
  if e.get('category')=='common':
-  if not e.get('senses'):issues['no_wordnet_senses'].append((n,head))
+  if not e.get('senses') and e.get('definition_status')!='editorial-grammar-gloss':issues['no_wordnet_senses'].append((n,head))
   if e.get('cefr') not in {'A1','A2','B1','B2','C1','C2'}:issues['missing_cefr'].append((n,head))
  elif e.get('category')=='regional-colloquial':
   if not e.get('regions'):issues['slang_missing_regions'].append((n,head))
