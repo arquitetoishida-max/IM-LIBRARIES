@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m pip install nltk
-      - run: python -m nltk.downloader wordnet omw-1.4
+      - run: python -m nltk.downloader wordnet omw-1.4 omw-2.0
       - run: python scripts/build_mapped_languages.py
       - name: Commit mappings
         run: |
