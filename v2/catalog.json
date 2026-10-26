@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "format": "ishida-monolingual-only",
+  "version": "1.0.0",
+  "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
+  "packages": [
+    {
+      "id": "en-core-v2",
+      "name": "English — core and expressions",
+      "language": "en",
+      "region": null,
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 3043,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
+      "sha256": "1a8b9156eb515d9c7165f3f74936978f290af24d2e32496e4c67ae48ddbc4a7d",
+      "version": "1.0.0"
+    },
+    {
+      "id": "pt-BR-core-v2",
+      "name": "Português brasileiro — vocabulário",
+      "language": "pt-BR",
+      "region": null,
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 2848,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
+      "sha256": "5a31ab4cfeaba38f881ea26b7c35f7863011526bdeb3dec339fafbd2ee17d1c4",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ja-core-v2",
+      "name": "日本語 — 語彙",
+      "language": "ja",
+      "region": null,
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 2846,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
+      "sha256": "40bdea571f9d5bc441340c3ec9e8dd8bd6beab02fa75532cb9b27e14d19c0210",
+      "version": "1.0.0"
+    },
+    {
+      "id": "en-US-NY-slang-v2",
+      "name": "New York — slang and expressions",
+      "language": "en",
+      "region": "en-US-NY",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 4,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-NY-slang-v2.json",
+      "sha256": "a1ffba9ce8b2fb777d0043a948e1cca93470de3389ec8a1796f263c73c16d877",
+      "version": "1.0.0"
+    },
+    {
+      "id": "en-US-CA-slang-v2",
+      "name": "California — slang and expressions",
+      "language": "en",
+      "region": "en-US-CA",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 4,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-CA-slang-v2.json",
+      "sha256": "f73ee327db7301f51ed6d9b10c20a62b4e87a20ed402065bc69b09728bb3ebd2",
+      "version": "1.0.0"
+    },
+    {
+      "id": "en-US-TX-slang-v2",
+      "name": "Texas — slang and expressions",
+      "language": "en",
+      "region": "en-US-TX",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 4,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-TX-slang-v2.json",
+      "sha256": "4ddb8fdc9509fe630e5f8fb8b4878eaae95eee75b8769080a4be36e42388b68b",
+      "version": "1.0.0"
+    },
+    {
+      "id": "en-GB-slang-v2",
+      "name": "United Kingdom — slang and expressions",
+      "language": "en",
+      "region": "en-GB",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 50,
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-GB-slang-v2.json",
+      "sha256": "8497a5df35505b10de601872748960b1c6f76def578ec144ea111dd3c6698439",
+      "version": "1.0.0"
+    }
+  ],
+  "notes": [
+    "Only these downloadable monolingual packages are supported.",
+    "Expressional descriptions in English may be translated on demand to native language.",
+    "Word cards require the same english_id in both installed language sets AND compatible meaning; unknown sense may be approximate.",
+    "Regional packs are content packs for an existing language, not new language codes.",
+    "Portuguese and Japanese are approximate lexical drafts."
+  ]
+}
