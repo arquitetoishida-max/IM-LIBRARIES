@@ -21,7 +21,7 @@ OUT = pathlib.Path("packages")
 OUT.mkdir(exist_ok=True)
 TODAY = datetime.date.today().isoformat()
 REPO_DL = "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/packages/"
-TOP_N = 1500
+TOP_N = 2000
 UA = {"User-Agent": "ishida-multilang-package-builder/1.0 (+https://github.com/arquitetoishida-max/ISHIDA-NIHONGO)"}
 
 try:
@@ -121,6 +121,7 @@ def build_cedict():
             continue
         e["zipf"] = z
         e["id"] = "cedict:" + simp + ":" + pin.replace(" ", "")
+        e["record_type"] = "word"
         entries.append(e)
     entries.sort(key=lambda e: -e["zipf"])
     entries = entries[:TOP_N]
@@ -191,7 +192,7 @@ def build_kaikki(code, name):
         z = zipf(e["word"], code)
         if z <= 0:
             continue
-        item = {"id": f"kaikki-{code}:{key}", code: e["word"], "en": "; ".join(e["glosses"]), "zipf": z}
+        item = {"id": f"kaikki-{code}:{key}", "record_type": "expression" if " " in e["word"].strip() else "word", code: e["word"], "en": "; ".join(e["glosses"]), "zipf": z}
         if e["reading"]:
             item[code + "_reading"] = e["reading"]
         entries.append(item)
@@ -216,7 +217,7 @@ def validate(pkg):
     for e in pkg["entries"]:
         if e["id"] in seen or not e.get(lang) or not e.get("en"):
             continue
-        if any(PREFIX.match(str(v)) and str(v)[:2].lower() in {"en", "pt", "ja"} for k, v in e.items() if k not in ("id", "zipf")):
+        if any(PREFIX.match(str(v)) and str(v)[:2].lower() in {"en", "pt", "ja"} for k, v in e.items() if k not in ("id", "zipf", "record_type")):
             continue
         seen.add(e["id"])
         good.append(e)
@@ -246,13 +247,15 @@ def main():
             z = e["zipf"]
             bands[0 if z >= 5 else 1 if z >= 4 else 2 if z >= 3 else 3 if z >= 2 else 4] += 1
         print(f"[ok] {pid}: {len(pkg['entries'])} entries, {len(data) // 1024} KB, zipf bands {bands}")
-        langs = sorted({k for e in pkg["entries"] for k in e if k not in ("id", "zipf") and not k.endswith("_reading")})
+        langs = sorted({k for e in pkg["entries"] for k in e if k not in ("id", "zipf", "record_type") and not k.endswith("_reading")})
         catalog.append({
             "id": pid,
             "name": pkg["name"],
             "language": pkg["language"],
             "languages": langs,
             "entries": len(pkg["entries"]),
+            "record_types": {"words": sum(e.get("record_type") == "word" for e in pkg["entries"]), "expressions": sum(e.get("record_type") == "expression" for e in pkg["entries"])},
+            "semantic_ids": "source-scoped; NOT cross-language concept IDs",
             "license": pkg["license"],
             "source": pkg["source"],
             "frequency": pkg.get("frequency"),
