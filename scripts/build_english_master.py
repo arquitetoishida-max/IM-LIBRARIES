@@ -230,6 +230,51 @@ for idx,w in enumerate(words,1):
  "would've":"Would have.",
  }
  function_words.update(contractions)
+  function_words.update({
+ "myself":"The speaker, used reflexively or for emphasis.","yourself":"The person addressed, used reflexively or emphatically.",
+ "himself":"A male person, used reflexively or emphatically.","herself":"A female person, used reflexively or emphatically.",
+ "itself":"The same thing or animal, reflexively.","themselves":"The same people or things, reflexively.",
+ "ourselves":"The speaker and others, used reflexively.","yourselves":"More than one person addressed, reflexively.",
+ "hey":"Informal greeting or call for attention.","cannot":"Am not able to; can not.",
+ "towards":"In the direction of.","etc":"And other similar things.",
+ "shall":"Used for future intentions, offers or obligations.","via":"By way of or through.",
+ "whom":"Refers to a person as grammatical object.","everybody":"Every person.",
+ "somebody":"An unspecified person.","nobody":"Not any person.",
+ "here's":"Here is; used when presenting something.","there're":"There are.",
+ "gonna":"Informal spoken form of going to.","wanna":"Informal spoken form of want to.",
+ "gotta":"Informal form meaning have got to.","kinda":"Informal spoken form of kind of.",
+ "sorta":"Informal spoken form of sort of.","lemme":"Informal spoken form of let me.",
+ "gimme":"Informal spoken form of give me.","dunno":"Informal way to say don't know.",
+ "ain't":"Nonstandard form of is not, are not or have not.",
+ "lol":"Online abbreviation meaning laughing out loud.","omg":"Online abbreviation expressing surprise.",
+ "brb":"Online abbreviation meaning be right back.","idk":"Online abbreviation meaning I don't know.",
+ "app":"An application, especially software on a device.",
+ "dr":"Abbreviation for doctor; context may determine other meanings.",
+ "st":"Abbreviation for street or saint; context dependent.",
+ "pre":"Prefix meaning before, often used independently in informal text.",
+ "mr":"Title used before a man's surname.",
+ "mrs":"Title traditionally used before a married woman's surname.",
+ "ms":"Title used before a woman's surname without marital specification.",
+ "vs":"Abbreviation of versus, indicating opposition or comparison.",
+ "tv":"Television.","uk":"Abbreviation for the United Kingdom.",
+ "usa":"Abbreviation for the United States of America.",
+ "online":"Connected to or available through the internet.",
+ "email":"Messages sent electronically over computer networks.",
+ "website":"A collection of related web pages.",
+ "google":"Name of a technology company and search engine.",
+ "facebook":"Name of an online social networking platform.",
+ "youtube":"Online platform for sharing and watching videos.",
+ "instagram":"Online photo and video sharing service.",
+ "twitter":"Name formerly used by a social networking platform.",
+ "william":"A masculine given name.","richard":"A masculine given name.",
+ "chris":"A given name, often short for Christopher or Christine.",
+ "obama":"A surname associated with former US president Barack Obama.",
+ "san":"Spanish element meaning saint in many place names.",
+ "los":"Spanish element meaning the, common in some place names.",
+ "de":"Preposition in several languages, often appearing in names.",
+ "la":"Article or syllable occurring in names and expressions.",
+ "etc.":"Abbreviation meaning and so forth.",
+ })
  if not synsets and w in function_words:
   e["short_description_en"]=function_words[w]
   e["definitions_en"]=[function_words[w]]
@@ -359,6 +404,7 @@ for e in out:
  if e.get("category")=="regional-colloquial":
   e["english_id"]=e.get("english_id",f"en:{e['concept_id'].split(':')[-1]}")
   e["short_description_en"]=e["definitions_en"][0] if e.get("definitions_en") else None
+  e["description_short_english"]=" ".join(e["short_description_en"].split()[:12]) if e.get("short_description_en") else None
   e["cefr_status"]="not-applicable-regional-expression"
   e["frequency_reference"]="frequency/en.json"
 out.sort(key=lambda e:(0 if e.get("category")=="common" else 1,rank_lookup.get(e.get("headword"),100000),e.get("headword","")))
