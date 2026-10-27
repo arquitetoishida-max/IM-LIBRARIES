@@ -1,0 +1,1555 @@
+{
+  "schema_version": 1,
+  "source": "curation/VCU14_EN_CANDIDATES_V3.json",
+  "status": "individual_lexical_drafts_not_in_production",
+  "count": 100,
+  "id_policy": "IDs 3092 onward are proposed and must be checked against any new production additions before merge.",
+  "records": [
+    {
+      "word": "backpack",
+      "english_id": "en:000003092",
+      "description_en": "A bag carried on the back using shoulder straps.",
+      "vcu14_rank": 970,
+      "environments": [
+        "clothes_personal",
+        "school",
+        "school_learning",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "desk",
+      "english_id": "en:000003093",
+      "description_en": "A table or work surface used for writing, studying, or office work.",
+      "vcu14_rank": 971,
+      "environments": [
+        "domestic",
+        "home",
+        "school",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "keyboard",
+      "english_id": "en:000003094",
+      "description_en": "A set of keys used to enter text or control a device.",
+      "vcu14_rank": 972,
+      "environments": [
+        "leisure",
+        "technology",
+        "technology_common",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "printer",
+      "english_id": "en:000003095",
+      "description_en": "A machine that produces text or images on paper.",
+      "vcu14_rank": 973,
+      "environments": [
+        "household_problems",
+        "technology",
+        "technology_common",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "receipt",
+      "english_id": "en:000003096",
+      "description_en": "A written or electronic record confirming a payment or purchase.",
+      "vcu14_rank": 974,
+      "environments": [
+        "food_market",
+        "shopping",
+        "travel_navigation",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "beside",
+      "english_id": "en:000003097",
+      "description_en": "Next to; at the side of.",
+      "vcu14_rank": 975,
+      "environments": [
+        "directions",
+        "functional_grammar",
+        "grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "rarely",
+      "english_id": "en:000003098",
+      "description_en": "Not often; infrequently.",
+      "vcu14_rank": 976,
+      "environments": [
+        "daily_communication",
+        "functional_grammar",
+        "weather_emotion_time"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "theirs",
+      "english_id": "en:000003099",
+      "description_en": "Belonging to them; an independent possessive pronoun.",
+      "vcu14_rank": 977,
+      "environments": [
+        "daily_communication",
+        "functional_grammar",
+        "grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": "Independent possessive pronoun; distinct function from attributive possessive."
+    },
+    {
+      "word": "yours",
+      "english_id": "en:000003100",
+      "description_en": "Belonging to you; an independent possessive pronoun.",
+      "vcu14_rank": 978,
+      "environments": [
+        "daily_communication",
+        "functional_grammar",
+        "grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": "Independent possessive pronoun; distinct function from attributive possessive."
+    },
+    {
+      "word": "bicycle",
+      "english_id": "en:000003101",
+      "description_en": "A two-wheeled vehicle propelled by pedals.",
+      "vcu14_rank": 979,
+      "environments": [
+        "leisure",
+        "play_nature",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "cashier",
+      "english_id": "en:000003102",
+      "description_en": "A person who receives payments at a store or other business.",
+      "vcu14_rank": 980,
+      "environments": [
+        "food_market",
+        "people",
+        "shopping",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "folder",
+      "english_id": "en:000003103",
+      "description_en": "A cover or digital directory used to organize documents or files.",
+      "vcu14_rank": 981,
+      "environments": [
+        "school",
+        "school_learning",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "mouse",
+      "english_id": "en:000003104",
+      "description_en": "A small rodent; also a handheld computer pointing device.",
+      "vcu14_rank": 982,
+      "environments": [
+        "nature",
+        "technology",
+        "technology_common",
+        "work"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "package",
+      "english_id": "en:000003105",
+      "description_en": "An item or collection of items wrapped or packed for transport.",
+      "vcu14_rank": 983,
+      "environments": [
+        "food_market",
+        "shopping",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "playground",
+      "english_id": "en:000003106",
+      "description_en": "An outdoor area equipped or designated for children's play.",
+      "vcu14_rank": 984,
+      "environments": [
+        "leisure",
+        "play_nature",
+        "school",
+        "school_learning"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "shelf",
+      "english_id": "en:000003107",
+      "description_en": "A flat horizontal surface used to hold or display objects.",
+      "vcu14_rank": 985,
+      "environments": [
+        "domestic",
+        "food_market",
+        "home",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "tap",
+      "english_id": "en:000003108",
+      "description_en": "A device controlling the flow of water; also a light touch.",
+      "vcu14_rank": 986,
+      "environments": [
+        "domestic",
+        "home",
+        "household_problems",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "ours",
+      "english_id": "en:000003109",
+      "description_en": "Belonging to us; an independent possessive pronoun.",
+      "vcu14_rank": 987,
+      "environments": [
+        "functional_grammar",
+        "grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": "Independent possessive pronoun; distinct function from attributive possessive."
+    },
+    {
+      "word": "whenever",
+      "english_id": "en:000003110",
+      "description_en": "At any time that; every time that.",
+      "vcu14_rank": 988,
+      "environments": [
+        "daily_communication",
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "aisle",
+      "english_id": "en:000003111",
+      "description_en": "A passage between rows of seats, shelves, or other objects.",
+      "vcu14_rank": 989,
+      "environments": [
+        "food_market",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "bakery",
+      "english_id": "en:000003112",
+      "description_en": "A place where bread, cakes, or pastries are made or sold.",
+      "vcu14_rank": 990,
+      "environments": [
+        "food_market",
+        "places",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "basket",
+      "english_id": "en:000003113",
+      "description_en": "A container, often with a handle, used to carry or hold items.",
+      "vcu14_rank": 991,
+      "environments": [
+        "domestic",
+        "food_market",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "blanket",
+      "english_id": "en:000003114",
+      "description_en": "A large piece of fabric used for warmth, especially in bed.",
+      "vcu14_rank": 992,
+      "environments": [
+        "domestic",
+        "home",
+        "leisure"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "cabinet",
+      "english_id": "en:000003115",
+      "description_en": "A piece of furniture with shelves or drawers for storage.",
+      "vcu14_rank": 993,
+      "environments": [
+        "domestic",
+        "home",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "charging",
+      "english_id": "en:000003116",
+      "description_en": "The act of supplying electrical energy to a battery.",
+      "vcu14_rank": 994,
+      "environments": [
+        "household_problems",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "checkout",
+      "english_id": "en:000003117",
+      "description_en": "A place or process where goods are paid for in a store.",
+      "vcu14_rank": 995,
+      "environments": [
+        "food_market",
+        "shopping",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "cinema",
+      "english_id": "en:000003118",
+      "description_en": "A movie theater; also the art or industry of film.",
+      "vcu14_rank": 996,
+      "environments": [
+        "leisure",
+        "places",
+        "play_nature"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "cloud",
+      "english_id": "en:000003119",
+      "description_en": "A visible mass of tiny water droplets or ice crystals in the sky.",
+      "vcu14_rank": 997,
+      "environments": [
+        "nature",
+        "weather",
+        "weather_emotion_time"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "collar",
+      "english_id": "en:000003120",
+      "description_en": "The part of a garment around the neck.",
+      "vcu14_rank": 998,
+      "environments": [
+        "clothes",
+        "clothes_personal",
+        "play_nature"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "colleague",
+      "english_id": "en:000003121",
+      "description_en": "A person one works with, especially in a profession.",
+      "vcu14_rank": 999,
+      "environments": [
+        "people",
+        "work",
+        "work_public"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "egg",
+      "english_id": "en:000003122",
+      "description_en": "An oval reproductive structure laid by birds; commonly eaten as food.",
+      "vcu14_rank": 1000,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "exit",
+      "english_id": "en:000003123",
+      "description_en": "A way out of a building or area; the act of leaving.",
+      "vcu14_rank": 1001,
+      "environments": [
+        "actions",
+        "directions",
+        "travel"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "faucet",
+      "english_id": "en:000003124",
+      "description_en": "A tap that controls water flowing from a pipe.",
+      "vcu14_rank": 1002,
+      "environments": [
+        "domestic",
+        "home",
+        "household_problems"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "flower",
+      "english_id": "en:000003125",
+      "description_en": "The blossom or reproductive part of a flowering plant.",
+      "vcu14_rank": 1003,
+      "environments": [
+        "home",
+        "nature",
+        "play_nature"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "fridge",
+      "english_id": "en:000003126",
+      "description_en": "A refrigerator used to keep food and drinks cold.",
+      "vcu14_rank": 1004,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "frozen",
+      "english_id": "en:000003127",
+      "description_en": "Made solid by cold; preserved below freezing temperature.",
+      "vcu14_rank": 1005,
+      "environments": [
+        "household_problems",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "garbage",
+      "english_id": "en:000003128",
+      "description_en": "Waste material that is thrown away.",
+      "vcu14_rank": 1006,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "gate",
+      "english_id": "en:000003129",
+      "description_en": "A movable barrier in a fence, wall, or entrance.",
+      "vcu14_rank": 1007,
+      "environments": [
+        "home",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "groceries",
+      "english_id": "en:000003130",
+      "description_en": "Food and household goods bought at a grocery store.",
+      "vcu14_rank": 1008,
+      "environments": [
+        "food_market",
+        "routine",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "grocery",
+      "english_id": "en:000003131",
+      "description_en": "A food item sold in a grocery store; groceries are provisions.",
+      "vcu14_rank": 1009,
+      "environments": [
+        "food_market",
+        "places",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "hallway",
+      "english_id": "en:000003132",
+      "description_en": "An interior passage connecting rooms or entrances.",
+      "vcu14_rank": 1010,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "homework",
+      "english_id": "en:000003133",
+      "description_en": "Schoolwork assigned to be completed outside class.",
+      "vcu14_rank": 1011,
+      "environments": [
+        "routine",
+        "school",
+        "school_learning"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "ink",
+      "english_id": "en:000003134",
+      "description_en": "A colored liquid or paste used for writing or printing.",
+      "vcu14_rank": 1012,
+      "environments": [
+        "household_problems",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "jam",
+      "english_id": "en:000003135",
+      "description_en": "A sweet fruit preserve; also a blockage or traffic congestion.",
+      "vcu14_rank": 1013,
+      "environments": [
+        "food",
+        "household_problems",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "juice",
+      "english_id": "en:000003136",
+      "description_en": "Liquid extracted from fruit or vegetables.",
+      "vcu14_rank": 1014,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "lamp",
+      "english_id": "en:000003137",
+      "description_en": "A device that produces light.",
+      "vcu14_rank": 1015,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "laptop",
+      "english_id": "en:000003138",
+      "description_en": "A portable computer with a folding screen and keyboard.",
+      "vcu14_rank": 1016,
+      "environments": [
+        "technology",
+        "technology_common",
+        "work"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "laundry",
+      "english_id": "en:000003139",
+      "description_en": "Clothing and linens to be washed or that have been washed.",
+      "vcu14_rank": 1017,
+      "environments": [
+        "domestic",
+        "home",
+        "routine"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "loose",
+      "english_id": "en:000003140",
+      "description_en": "Not firmly attached, tight, or securely fastened.",
+      "vcu14_rank": 1018,
+      "environments": [
+        "clothes",
+        "clothes_personal",
+        "household_problems"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "mop",
+      "english_id": "en:000003141",
+      "description_en": "A cleaning tool for washing floors with a handle and absorbent head.",
+      "vcu14_rank": 1019,
+      "environments": [
+        "actions",
+        "domestic",
+        "home"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "onion",
+      "english_id": "en:000003142",
+      "description_en": "An edible bulb vegetable with a pungent flavor.",
+      "vcu14_rank": 1020,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "passenger",
+      "english_id": "en:000003143",
+      "description_en": "A person traveling in a vehicle without operating it.",
+      "vcu14_rank": 1021,
+      "environments": [
+        "people",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "pasta",
+      "english_id": "en:000003144",
+      "description_en": "Food made from dough, commonly wheat, shaped and cooked in water.",
+      "vcu14_rank": 1022,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "paste",
+      "english_id": "en:000003145",
+      "description_en": "A thick soft mixture; also an action of inserting copied material.",
+      "vcu14_rank": 1023,
+      "environments": [
+        "actions",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "pavement",
+      "english_id": "en:000003146",
+      "description_en": "A hard paved surface; in British English, a sidewalk.",
+      "vcu14_rank": 1024,
+      "environments": [
+        "places",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "pharmacy",
+      "english_id": "en:000003147",
+      "description_en": "A store or department where medicines are prepared or dispensed.",
+      "vcu14_rank": 1025,
+      "environments": [
+        "body_health",
+        "places",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "potato",
+      "english_id": "en:000003148",
+      "description_en": "An edible starchy tuber commonly cooked as food.",
+      "vcu14_rank": 1026,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "remote",
+      "english_id": "en:000003149",
+      "description_en": "A handheld device used to control equipment from a distance; also far away.",
+      "vcu14_rank": 1027,
+      "environments": [
+        "domestic",
+        "home",
+        "household_problems"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "sidewalk",
+      "english_id": "en:000003150",
+      "description_en": "A paved path alongside a road for pedestrians.",
+      "vcu14_rank": 1028,
+      "environments": [
+        "places",
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "sink",
+      "english_id": "en:000003151",
+      "description_en": "A basin with a drain used for washing; also to move downward in a liquid.",
+      "vcu14_rank": 1029,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "soap",
+      "english_id": "en:000003152",
+      "description_en": "A substance used with water for washing and cleaning.",
+      "vcu14_rank": 1030,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "supermarket",
+      "english_id": "en:000003153",
+      "description_en": "A large self-service store selling food and household goods.",
+      "vcu14_rank": 1031,
+      "environments": [
+        "food_market",
+        "places",
+        "shopping"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "tablet",
+      "english_id": "en:000003154",
+      "description_en": "A portable touchscreen computer; also a small compressed pill.",
+      "vcu14_rank": 1032,
+      "environments": [
+        "body",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "theater",
+      "english_id": "en:000003155",
+      "description_en": "A building for plays, films, or other performances.",
+      "vcu14_rank": 1033,
+      "environments": [
+        "leisure",
+        "places",
+        "play_nature"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "tomato",
+      "english_id": "en:000003156",
+      "description_en": "A fleshy edible fruit commonly used as a vegetable in cooking.",
+      "vcu14_rank": 1034,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "umbrella",
+      "english_id": "en:000003157",
+      "description_en": "A folding canopy used for protection from rain or sun.",
+      "vcu14_rank": 1035,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "uniform",
+      "english_id": "en:000003158",
+      "description_en": "Clothing of a specified design worn by members of a group.",
+      "vcu14_rank": 1036,
+      "environments": [
+        "clothes",
+        "clothes_personal",
+        "school"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "upload",
+      "english_id": "en:000003159",
+      "description_en": "To transfer a file or data from a device to a remote system.",
+      "vcu14_rank": 1037,
+      "environments": [
+        "actions",
+        "technology",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "vegetable",
+      "english_id": "en:000003160",
+      "description_en": "A plant or part of a plant eaten as food.",
+      "vcu14_rank": 1038,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "wash",
+      "english_id": "en:000003161",
+      "description_en": "To clean something using water, often with soap.",
+      "vcu14_rank": 1039,
+      "environments": [
+        "actions",
+        "clothes",
+        "routine"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "a-little",
+      "english_id": "en:000003162",
+      "description_en": "A small amount or degree; usually written as two words.",
+      "vcu14_rank": 1040,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "expression",
+      "existing_exact": false,
+      "notes": "Normalize display spelling before package publication."
+    },
+    {
+      "word": "again-and-again",
+      "english_id": "en:000003163",
+      "description_en": "Repeatedly; over and over.",
+      "vcu14_rank": 1041,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "expression",
+      "existing_exact": false,
+      "notes": "Normalize display spelling before package publication."
+    },
+    {
+      "word": "anybody",
+      "english_id": "en:000003164",
+      "description_en": "Any person; anyone.",
+      "vcu14_rank": 1042,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "fewer",
+      "english_id": "en:000003165",
+      "description_en": "A smaller number of countable things.",
+      "vcu14_rank": 1043,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "hers",
+      "english_id": "en:000003166",
+      "description_en": "Belonging to her; an independent possessive pronoun.",
+      "vcu14_rank": 1044,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": "Independent possessive pronoun; distinct function from attributive possessive."
+    },
+    {
+      "word": "howcome",
+      "english_id": "en:000003167",
+      "description_en": "Informal expression asking why; conventionally written 'how come'.",
+      "vcu14_rank": 1045,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": "Normalize display spelling before package publication."
+    },
+    {
+      "word": "identical",
+      "english_id": "en:000003168",
+      "description_en": "Exactly alike in all relevant respects.",
+      "vcu14_rank": 1046,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "minus",
+      "english_id": "en:000003169",
+      "description_en": "Reduced by; less; also a subtraction sign.",
+      "vcu14_rank": 1047,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "nor",
+      "english_id": "en:000003170",
+      "description_en": "Used to continue a negative statement or alternative.",
+      "vcu14_rank": 1048,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "nowhere",
+      "english_id": "en:000003171",
+      "description_en": "Not in or to any place.",
+      "vcu14_rank": 1049,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "underneath",
+      "english_id": "en:000003172",
+      "description_en": "Directly below or on the lower side of.",
+      "vcu14_rank": 1050,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "whereas",
+      "english_id": "en:000003173",
+      "description_en": "In contrast; while on the other hand.",
+      "vcu14_rank": 1051,
+      "environments": [
+        "functional_grammar"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "airplane",
+      "english_id": "en:000003174",
+      "description_en": "A powered fixed-wing aircraft.",
+      "vcu14_rank": 1052,
+      "environments": [
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "alarm",
+      "english_id": "en:000003175",
+      "description_en": "A warning signal or device designed to alert people.",
+      "vcu14_rank": 1053,
+      "environments": [
+        "home",
+        "technology_common"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "allergy",
+      "english_id": "en:000003176",
+      "description_en": "An immune reaction to a substance usually harmless to others.",
+      "vcu14_rank": 1054,
+      "environments": [
+        "body",
+        "body_health"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "ankle",
+      "english_id": "en:000003177",
+      "description_en": "The joint connecting the foot and lower leg.",
+      "vcu14_rank": 1055,
+      "environments": [
+        "body",
+        "body_health"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "armrest",
+      "english_id": "en:000003178",
+      "description_en": "A support for the arm on a chair or seat.",
+      "vcu14_rank": 1056,
+      "environments": [
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "arrival",
+      "english_id": "en:000003179",
+      "description_en": "The act or time of reaching a destination.",
+      "vcu14_rank": 1057,
+      "environments": [
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "arrive",
+      "english_id": "en:000003180",
+      "description_en": "To reach a destination or a particular point in time.",
+      "vcu14_rank": 1058,
+      "environments": [
+        "actions",
+        "family_social"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "assignment",
+      "english_id": "en:000003181",
+      "description_en": "A task allocated to someone, particularly schoolwork.",
+      "vcu14_rank": 1059,
+      "environments": [
+        "school",
+        "school_learning"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "autumn",
+      "english_id": "en:000003182",
+      "description_en": "The season between summer and winter; fall.",
+      "vcu14_rank": 1060,
+      "environments": [
+        "weather",
+        "weather_emotion_time"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "backward",
+      "english_id": "en:000003183",
+      "description_en": "Directed toward the back or toward an earlier state.",
+      "vcu14_rank": 1061,
+      "environments": [
+        "directions",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "baggage",
+      "english_id": "en:000003184",
+      "description_en": "Bags and other possessions carried during travel.",
+      "vcu14_rank": 1062,
+      "environments": [
+        "travel",
+        "travel_navigation"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "balcony",
+      "english_id": "en:000003185",
+      "description_en": "A platform projecting from an upper floor and enclosed by a railing.",
+      "vcu14_rank": 1063,
+      "environments": [
+        "domestic",
+        "home"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "bandage",
+      "english_id": "en:000003186",
+      "description_en": "A strip of material used to cover or support an injury.",
+      "vcu14_rank": 1064,
+      "environments": [
+        "body",
+        "body_health"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "bathtub",
+      "english_id": "en:000003187",
+      "description_en": "A large container fitted for bathing.",
+      "vcu14_rank": 1065,
+      "environments": [
+        "domestic",
+        "home"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "belly",
+      "english_id": "en:000003188",
+      "description_en": "The abdomen or stomach area.",
+      "vcu14_rank": 1066,
+      "environments": [
+        "body",
+        "body_health"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "belt",
+      "english_id": "en:000003189",
+      "description_en": "A strip worn around the waist or used to transmit mechanical motion.",
+      "vcu14_rank": 1067,
+      "environments": [
+        "clothes",
+        "clothes_personal"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "blocked",
+      "english_id": "en:000003190",
+      "description_en": "Obstructed or prevented from passing; past participle of block.",
+      "vcu14_rank": 1068,
+      "environments": [
+        "domestic",
+        "household_problems"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    },
+    {
+      "word": "blouse",
+      "english_id": "en:000003191",
+      "description_en": "A loose upper garment, often worn by women.",
+      "vcu14_rank": 1069,
+      "environments": [
+        "clothes",
+        "clothes_personal"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "review_status": "editorial-gloss-draft",
+      "kind": "word",
+      "existing_exact": false,
+      "notes": null
+    }
+  ]
+}
