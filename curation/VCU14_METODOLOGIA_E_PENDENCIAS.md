@@ -31,3 +31,12 @@
 - **Importante:** candidatos sem ID NÃO são necessariamente palavras ausentes. Alguns são flexões, grafias variantes, locuções, expressões compostas ou duplicações; é obrigatório revisar/normalizar antes de inserir no dicionário.
 - A ordenação V2 é uma **pontuação editorial heurística provisória**: soma frequência geral Zipf e aparições em vários ambientes, sem alegar que foram medidos cinco textos por categoria ou corpus cultural Brasil/Japão/EUA. Não usar esta posição como classificação definitiva de uso.
 - Mantidos intactos catálogos e dicionários V2 publicados até QA e migração consistentes. O arquivo é uma **lista de trabalho pronta para a próxima etapa de curadoria**, não atualização automática do APK.
+
+
+
+## Publicação incremental real — English V2 1.1.1
+
+- **Publicado e conferido no catálogo**: `v2/en-core-v2.json` versão `1.1.1`, com campos `vcu14_rank`, `environments` e `vcu14_status=provisional-editorial` em **969 entradas inglesas já existentes**, mantendo os mesmos **3.043 IDs e registros**. Catálogo `v2/catalog.json` atualizado com novo SHA-256, versão 1.1.1 e `entry_count=3043`. Commits `76f61d9` e `1a8d7a6`.
+- **Isto NÃO conclui VCU14**: dos 1.872 candidatos editoriais, **903 não têm ID correspondente exato**. Precisam de normalização, dados lexicalmente fundamentados, criação de registros corretos, revisão e remapeamento PT-BR/JA. A ordem VCU14 das 969 está marcada provisional e NÃO foi medida por corpus cultural.
+- **Regra de QA**: não atribuir definições genéricas inventadas apenas para completar 903; não afirmar dicionários português e japonês refeitos, pois continuam nas versões anteriores. Não apagar listas pessoais ou renumerar IDs.
+- **Atenção ao build**: `scripts/build_monolingual_v2.py` pode reconstruir o pacote inglês a partir do master e sobrescrever os campos VCU14 se não for atualizado para incorporá-los. Integrar metadados editoriais na fonte de geração antes de nova compilação geral.
