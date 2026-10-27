@@ -134,6 +134,15 @@ def clean_gloss(g, limit=140):
 # ---------------------------------------------------------------- master
 EN = json.loads((R / "master/en-master-v1.json").read_text(encoding="utf-8"))
 MASTER = [e for e in EN["entries"] if e.get("english_id")]
+# Incorporate canonical released VCU14 entries before building any language package.
+_vcu14_additions = R / "curation/VCU14_PRODUCTION_ADDITIONS.json"
+if _vcu14_additions.exists():
+    _existing_ids = {e["english_id"] for e in MASTER}
+    for _entry in json.loads(_vcu14_additions.read_text(encoding="utf-8")).get("entries", []):
+        if _entry["english_id"] not in _existing_ids:
+            MASTER.append(_entry)
+            _existing_ids.add(_entry["english_id"])
+
 log("master entries", len(MASTER))
 
 def editorial(locale):
@@ -421,6 +430,10 @@ vcu14_file = R / "curation/VCU14_EN_CANDIDATES_V3.json"
 if vcu14_file.exists():
     vcu14 = json.loads(vcu14_file.read_text(encoding="utf-8"))
     vcu14_by_id = {r["id"]: r for r in vcu14.get("entries", []) if r.get("id")}
+    for _entry in MASTER:
+        if _entry.get("vcu14_rank") and _entry.get("english_id") not in vcu14_by_id:
+            vcu14_by_id[_entry["english_id"]] = {"rank": _entry["vcu14_rank"], "topics": _entry.get("environments", [])}
+
     vcu14_tagged = 0
     for row in en_rows:
         tag = vcu14_by_id.get(row["english_id"])
