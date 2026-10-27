@@ -22,7 +22,7 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "58093d90da8ca3dae2d71ae70c2dc934aa8a659790a45c04d6b49e005ed5b3ff",
+      "sha256": "1de913ae9bb9fbf92ab94b5990ae9ef2dc4b8b3a1991ecb8e6303a80340f26f3",
       "version": "1.1.1"
     },
     {
@@ -43,8 +43,8 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "d6d417ba3f7b39f5bbd59e5cf36be1457cb86cd8beffaa854698de6418391528",
-      "version": "1.1.0"
+      "sha256": "2a99e3780496fee0c732978f96616334e748dead18dfb8cdb484dba3030aae5b",
+      "version": "1.1.1"
     },
     {
       "id": "pt-PT-core-v2",
@@ -64,8 +64,8 @@
       "name_pt": "Português (Portugal)",
       "name_ja": "ポルトガル語（ポルトガル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-PT-core-v2.json",
-      "sha256": "7e8689c82ce0f59f08a82464ae94a904c21e5c0675dc1e82d314a78545b59366",
-      "version": "1.1.0"
+      "sha256": "721b036d94968b536ef8f910ac3c44d3be9a3ac7db2c9dcefe91b9fef7aea92d",
+      "version": "1.1.1"
     },
     {
       "id": "ja-core-v2",
@@ -85,8 +85,8 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "7d44c417740b82305a8136ff70782228bb600c522d72dfcee6d924e701f53598",
-      "version": "1.1.0"
+      "sha256": "8fd4df6e87b31debfa0129ddebc8cb405d7070b7985afae513628867074fdc64",
+      "version": "1.1.1"
     },
     {
       "id": "es-core-v2",
@@ -97,7 +97,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3034,
+      "entry_count": 3035,
       "has_ui": true,
       "flag": "🇪🇸",
       "locale": "es-ES",
@@ -106,8 +106,8 @@
       "name_pt": "Espanhol",
       "name_ja": "スペイン語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/es-core-v2.json",
-      "sha256": "57fd8971bba969bf4825d61fbe28feb99514995add4849b22da0a6bcbc17627d",
-      "version": "1.1.0"
+      "sha256": "cb35b6e60b28a6dae6603089f282fbc5c680eb26493a82d09c023e4ca4b944d4",
+      "version": "1.1.1"
     },
     {
       "id": "fr-core-v2",
@@ -127,8 +127,8 @@
       "name_pt": "Francês",
       "name_ja": "フランス語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/fr-core-v2.json",
-      "sha256": "ee6f5e940c04dbe869627f15f3f558528a22601aa92e8df4f4959a6a6a6a717d",
-      "version": "1.1.0"
+      "sha256": "8d63f5a1554dd5b42d8aa82ce783f0af1e3f89da8a3e7b393863bb832ef83d5f",
+      "version": "1.1.1"
     },
     {
       "id": "it-core-v2",
@@ -139,7 +139,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3020,
+      "entry_count": 3021,
       "has_ui": true,
       "flag": "🇮🇹",
       "locale": "it-IT",
@@ -148,8 +148,8 @@
       "name_pt": "Italiano",
       "name_ja": "イタリア語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/it-core-v2.json",
-      "sha256": "17800de4b94e7cdd13a17f72d719e8e7a28a6e3095c1e6305b41dabb6cdacd6e",
-      "version": "1.1.0"
+      "sha256": "d1d90ee4fb4287b705405ab207aa088be2dab9f08fa58e51007f079e32a031d5",
+      "version": "1.1.1"
     },
     {
       "id": "de-core-v2",
@@ -169,8 +169,8 @@
       "name_pt": "Alemão",
       "name_ja": "ドイツ語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/de-core-v2.json",
-      "sha256": "921927517dca3ee459c1ab6010a83ba4c1aaad8d2fcd3d3c00ff06b93a0c3b30",
-      "version": "1.1.0"
+      "sha256": "8d08b315366dca797ddeb189b5a6e87efe80a4bd4fcac0522798ff997c4379b0",
+      "version": "1.1.1"
     },
     {
       "id": "zh-core-v2",
@@ -190,8 +190,8 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "b4b7f4ff55c326f18f5a5f93c315c946ee2b5a45125035c44903a284ec2e540c",
-      "version": "1.1.0"
+      "sha256": "433747abd5953ad04c3cb65a7df8c0dacafa433030554e8a9f5700ec686281f2",
+      "version": "1.1.1"
     },
     {
       "id": "ko-core-v2",
@@ -202,7 +202,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 2998,
+      "entry_count": 2997,
       "has_ui": true,
       "flag": "🇰🇷",
       "locale": "ko-KR",
@@ -211,8 +211,8 @@
       "name_pt": "Coreano",
       "name_ja": "韓国語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ko-core-v2.json",
-      "sha256": "3d39f744abc7d6cf49b4d1a5e79d37bfb11bd332693ace4acdae874e3fed3f85",
-      "version": "1.1.0"
+      "sha256": "8fcc82f979014a710c02746ef1ac9d6b77deeda202f99432fb23218867116f47",
+      "version": "1.1.1"
     },
     {
       "id": "ru-core-v2",
@@ -232,8 +232,8 @@
       "name_pt": "Russo",
       "name_ja": "ロシア語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ru-core-v2.json",
-      "sha256": "4e9d90ec074b195e66f37cfbd819382927ded0cbbe1f415e1351bbc7633f71c6",
-      "version": "1.1.0"
+      "sha256": "c3e3750cd77e0c08638d142be2c1683667b6ac27b8fdf44ba2d864716b6a4954",
+      "version": "1.1.1"
     },
     {
       "id": "ar-core-v2",
@@ -244,7 +244,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 2948,
+      "entry_count": 2949,
       "has_ui": true,
       "flag": "🇸🇦",
       "locale": "ar-SA",
@@ -253,8 +253,8 @@
       "name_pt": "Árabe",
       "name_ja": "アラビア語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ar-core-v2.json",
-      "sha256": "09512497f2f32458d7fe0e261529c8031e81ad6256652d8be6dfbd12d261446d",
-      "version": "1.1.0"
+      "sha256": "2ca266a0777efce119062245d2f7828a130eda06c51bc83e43ef869de7c71adb",
+      "version": "1.1.1"
     },
     {
       "id": "hi-core-v2",
@@ -274,8 +274,8 @@
       "name_pt": "Hindi",
       "name_ja": "ヒンディー語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/hi-core-v2.json",
-      "sha256": "7cd19feabe7897315a0446b1be69fe75a6835310f0c46710693aa0e5d6456ebd",
-      "version": "1.1.0"
+      "sha256": "39100a6f1cba9ae09bb68c98a92d317516fc568098fa540f660a84b625b539a8",
+      "version": "1.1.1"
     },
     {
       "id": "en-US-NY-slang-v2",
@@ -295,8 +295,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-NY-slang-v2.json",
-      "sha256": "0efb707d24b5a35d08dfae690025dccc840e9fdf893ef9e332b40aeba8e7aed4",
-      "version": "1.1.0"
+      "sha256": "c60e9dc20b31673440de7dacc6b99e4a79b345fd7a51e411d0ff4aa6d74a33d2",
+      "version": "1.1.1"
     },
     {
       "id": "en-US-CA-slang-v2",
@@ -316,8 +316,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-CA-slang-v2.json",
-      "sha256": "a4179398cdae02766fa08a14bd331fc6c09c8f99e53c432e79123ad240fbec3f",
-      "version": "1.1.0"
+      "sha256": "234586809c42786271d719d810a3e5b6ffab22a3ad15921ff6f4ff96ac61a4a9",
+      "version": "1.1.1"
     },
     {
       "id": "en-US-TX-slang-v2",
@@ -337,8 +337,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-TX-slang-v2.json",
-      "sha256": "f7ce7fe04ddf0b8d59cd3a9f4900536de2500fd593bdcb6698615bc977bd63f9",
-      "version": "1.1.0"
+      "sha256": "063d7c52aa7715b6db93099f6fd0bc5b717f8491d9ffde60bc1fa680aa362291",
+      "version": "1.1.1"
     },
     {
       "id": "en-GB-slang-v2",
@@ -358,8 +358,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-GB-slang-v2.json",
-      "sha256": "a745faf1568404b1fc6344ac1f735e386c26237f4c60ad20205c8d01d12ce46f",
-      "version": "1.1.0"
+      "sha256": "1c5812da227f869d3255a8df11c65a42cfa7974567470bea7b1160b5e1f5221a",
+      "version": "1.1.1"
     }
   ],
   "notes": [
