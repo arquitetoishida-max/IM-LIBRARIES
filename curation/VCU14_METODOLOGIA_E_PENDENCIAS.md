@@ -19,3 +19,15 @@
 - SUBTLEX-US: https://github.com/chrplr/openlexicon/blob/master/datasets-info/SUBTLEX-US/README-SUBTLEXus.md
 
 **Status:** primeiro índice gerado e commitado, aguarda corpus/revisão; não é biblioteca pronta para usuários.
+
+
+
+## Atualização V2 — ampliação sem corte percentual
+
+**Decisão expressa do usuário:** não aplicar descarte automático de 5% superiores, inferiores ou de qualquer outra fatia percentual. Seleção e exclusão exclusivamente por relevância editorial, sentido, repetição e adequação de uso.
+
+- Arquivo novo: `curation/VCU14_EN_CANDIDATES_V2.json` com **1.855 candidatos** (dos quais **966** têm ID em `en-core-v2`; **889** ainda exigem análise de lema, flexão, expressão, duplicação e eventual novo ID).
+- A versão 2 reúne a primeira seleção de 1.000 candidatos com mais vocabulário cotidiano de gramática, comunicação, casa, higiene, mercados, roupas, escola, tecnologia, saúde, viagens, lazer, relações, trabalho e natureza. Não se limitou a 1.000 por conveniência.
+- **Importante:** candidatos sem ID NÃO são necessariamente palavras ausentes. Alguns são flexões, grafias variantes, locuções, expressões compostas ou duplicações; é obrigatório revisar/normalizar antes de inserir no dicionário.
+- A ordenação V2 é uma **pontuação editorial heurística provisória**: soma frequência geral Zipf e aparições em vários ambientes, sem alegar que foram medidos cinco textos por categoria ou corpus cultural Brasil/Japão/EUA. Não usar esta posição como classificação definitiva de uso.
+- Mantidos intactos catálogos e dicionários V2 publicados até QA e migração consistentes. O arquivo é uma **lista de trabalho pronta para a próxima etapa de curadoria**, não atualização automática do APK.
