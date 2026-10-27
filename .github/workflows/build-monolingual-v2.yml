@@ -9,27 +9,39 @@ on:
       - master/en-master-v1.json
       - languages/pt-BR.json
       - languages/ja.json
+      - ui/strings.json
 permissions:
   contents: write
 concurrency:
   group: monolingual-v2
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/build_monolingual_v2.py
+      - name: Install dictionary and frequency tools
+        run: |
+          pip install orjson pykakasi pypinyin
+          pip install "wordfreq[cjk]" || pip install wordfreq
+      - name: Install offline machine translation (Argos, CPU)
+        continue-on-error: true
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install argostranslate
+      - name: Build packages
+        run: python scripts/build_monolingual_v2.py
       - name: Commit packages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add v2/
+          git add v2/ docs/V2_BUILD_REPORT.json
           if ! git diff --cached --quiet; then
-            git commit -m "Publish unified monolingual V2 discovery catalog"
+            git commit -m "Rebuild monolingual V2 packages (Wiktionary senses, readings, frequency, UI)"
             git pull --rebase origin main
             git push
           fi
