@@ -253,15 +253,36 @@ def resolve(head, depth=0):
     if not rec:
         return None, None, None
     us = usable_senses(rec)
-    plain = [s for s in us if not s["form_of"]]
-    if plain:
-        return rec, plain[0], None
+    if us and not us[0]["form_of"]:
+        return rec, us[0], None
     lemma = us[0]["form_of"][0] if us and us[0]["form_of"] else None
     if lemma and depth == 0:
         lrec, lsense, _ = resolve(lemma, 1)
         if lrec:
             return lrec, lsense, lemma
     return rec, us[0] if us else None, None
+
+SCRIPT = {"ja": r"[\u3040-\u30ff\u4e00-\u9fff]", "zh": r"[\u4e00-\u9fff]", "ko": r"[\uac00-\ud7af]", "ru": r"[\u0400-\u04ff]",
+          "ar": r"[\u0600-\u06ff]", "hi": r"[\u0900-\u097f]"}
+NOTE = re.compile(r"\b(imperative|implied|literally|see|used|plural|singular|form of|abbreviation|informal|formal)\b", re.I)
+ARTICLELESS = {"zh", "ko", "ru", "hi", "ar"}
+
+def valid_for(locale, w, english=""):
+    """Reject affixes, notes, wrong scripts, untranslated English and junk symbols."""
+    if not w or len(w) > 50 or w.startswith("-") or w.endswith("-") or "#" in w or "…" in w or "..." in w:
+        return False
+    if english and w.strip().lower() == english.strip().lower() and locale not in ("pt-BR", "pt-PT", "es", "fr", "it", "de"):
+        return False
+    pat = SCRIPT.get(locale)
+    if pat:
+        if not re.search(pat, w) or re.search(r"[A-Za-z]", w):
+            return False
+        if locale == "zh" and re.search(r"[\u0400-\u04ff\U00020000-\U0002ffff]", w):
+            return False
+    else:
+        if not re.search(r"[A-Za-zÀ-ÿ]", w) or NOTE.search(w) or re.search(r"[\u0400-\u04ff\u3040-\u9fff]", w):
+            return False
+    return True
 
 TOKEN = re.compile(r"[a-z]+")
 STOP = set("a an the of to or and in on for with by as is be that this which something someone from at into".split())
@@ -280,7 +301,8 @@ def pick_translation(rec_list, sense_gloss, locale):
                 groups.setdefault(t["sense"], []).append(t)
         if not groups:
             continue
-        ranked = sorted(enumerate(groups.items()), key=lambda it: (-overlap(it[1][0], sense_gloss), it[0]))
+        sizes = collections.Counter(t["sense"] for t in rec["trans"])
+        ranked = sorted(enumerate(groups.items()), key=lambda it: (-overlap(it[1][0], sense_gloss), -min(sizes[it[1][0]], 12), it[0]))
         _, (sense, items) = ranked[0]
         def score(t):
             tags = {x.lower() for x in t["tags"]}
@@ -303,7 +325,9 @@ def pick_translation(rec_list, sense_gloss, locale):
             w = clean_word(t["word"])
             if locale == "ru":
                 w = strip_marks(w)
-            if not w or w.lower() in seen:
+            if locale == "zh" and "/" in w:
+                w = w.split("/")[-1].strip()  # "Traditional / Simplified" → simplified
+            if not valid_for(locale, w) or w.lower() in seen:
                 continue
             seen.add(w.lower())
             if best is None:
@@ -404,16 +428,17 @@ def build_language(locale):
         ed = EDITORIAL.get(locale, {}).get(eid)
         if ed:
             text, alts, conf, src = ed[0], ed[1:4], "editorial", "editorial"
-        elif rec:
+        elif rec and not (locale in ARTICLELESS and head.lower() in ("the", "a", "an")):
             pool = [rec] + [r for r in records.get(head.lower(), []) if r is not rec and r["pos"] not in BAD_POS]
             text, alts, best, tsense = pick_translation(pool, sense["gloss"] if sense else "", locale)
             if text:
                 conf, src = "approximate", "wiktionary"
                 roman_hint, alt_hint = best.get("roman", ""), best.get("alt", "")
-        if not text:
+        if not text and not (locale in ARTICLELESS and head.lower() in ("the", "a", "an")):
             m = mt(lemma or head, locale)
-            if m and len(m) <= 60:
-                text, conf, src = clean_word(m), "machine", "argos-translate"
+            m = clean_word(m) if m else None
+            if m and valid_for(locale, m, lemma or head):
+                text, conf, src = m, "machine", "argos-translate"
         if not text:
             stats["missing"] += 1
             continue
@@ -430,7 +455,8 @@ def build_language(locale):
                 kana = text
             hira, hep = ja_reading(text)
             row["reading"] = kana or hira or ""
-            row["romanization"] = roman_hint or hep or ""
+            rom = ja_reading(row["reading"])[1] if row["reading"] else ""
+            row["romanization"] = rom or hep or roman_hint or ""
             lv = JLPT.get(text) or (JLPT.get(row["reading"]) if row["reading"] and row["reading"] != text and not re.search(r"[一-鿿]", text) else None)
             if lv:
                 row["classifications"] = [{"system": "JLPT", "level": lv, "status": "community", "source": "OpenJLPT (CC BY-SA 4.0)"}]
@@ -462,10 +488,13 @@ def ui_for(locale):
         if not en.strip():
             continue
         core = en.strip()
+        caps = core.isupper() and len(core) > 3
         try:
-            t = tr.translate(core).strip()
+            t = tr.translate(core.capitalize() if caps else core).strip()
         except Exception:
             continue
+        if caps:
+            t = t.upper()
         if not t:
             continue
         lead = en[: len(en) - len(en.lstrip())]
