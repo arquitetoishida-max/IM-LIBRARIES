@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -13,7 +13,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3043,
+      "entry_count": 3140,
       "has_ui": false,
       "flag": "🇺🇸",
       "locale": "en-US",
@@ -22,8 +22,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "1de913ae9bb9fbf92ab94b5990ae9ef2dc4b8b3a1991ecb8e6303a80340f26f3",
-      "version": "1.1.1"
+      "sha256": "1da31db423814994a4b4ad357dbf6dfc82414b7b86cec882e8de3370b9546264",
+      "version": "1.1.2"
     },
     {
       "id": "pt-BR-core-v2",
