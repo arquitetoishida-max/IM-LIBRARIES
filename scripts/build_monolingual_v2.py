@@ -26,7 +26,7 @@ OUT.mkdir(exist_ok=True)
 RAW = "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/"
 KAIKKI = os.environ.get("KAIKKI_URL", "https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl")
 KAIKKI_FILE = os.environ.get("KAIKKI_FILE")  # local copy (tests / cache)
-VERSION = os.environ.get("PKG_VERSION", "1.1.0")
+VERSION = os.environ.get("PKG_VERSION", "1.1.1")
 UA = {"User-Agent": "ishida-multilang-library-builder/2.0 (+https://github.com/arquitetoishida-max/IM-LIBRARIES)"}
 T0 = time.time()
 
@@ -415,6 +415,22 @@ for e in MASTER:
     if z:
         row["frequency"] = {"zipf": z, "source": "wordfreq"}
     en_rows.append(row)
+# Preserve editorial VCU14 metadata on all future catalog rebuilds.
+# This overlay is independent of original English IDs and never adds unreviewed headwords.
+vcu14_file = R / "curation/VCU14_EN_CANDIDATES_V3.json"
+if vcu14_file.exists():
+    vcu14 = json.loads(vcu14_file.read_text(encoding="utf-8"))
+    vcu14_by_id = {r["id"]: r for r in vcu14.get("entries", []) if r.get("id")}
+    vcu14_tagged = 0
+    for row in en_rows:
+        tag = vcu14_by_id.get(row["english_id"])
+        if tag:
+            row["vcu14_rank"] = int(tag["rank"])
+            row["environments"] = sorted(set(tag.get("topics", [])))
+            row["vcu14_status"] = "provisional-editorial"
+            vcu14_tagged += 1
+    report["vcu14_tagged_existing"] = vcu14_tagged
+
 report["english_descriptions_replaced"] = fixed_desc
 EN_BY_ID = {r["english_id"]: r for r in en_rows}
 
