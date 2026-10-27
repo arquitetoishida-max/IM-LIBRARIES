@@ -1,0 +1,2902 @@
+{
+  "schema_version": 1,
+  "subject": "VCU14 editorial QA stage 1",
+  "status": "pre-publication",
+  "count_candidate": 1855,
+  "existing_ids": 966,
+  "candidate_without_exact_id": 889,
+  "suspicious_form_count": 287,
+  "suspicious_examples": [
+    "this",
+    "his",
+    "always",
+    "its",
+    "us",
+    "is",
+    "yes",
+    "less",
+    "something",
+    "was",
+    "sometimes",
+    "as",
+    "anything",
+    "nothing",
+    "everything",
+    "perhaps",
+    "morning",
+    "unless",
+    "has",
+    "across",
+    "themselves",
+    "evening",
+    "need",
+    "being",
+    "meeting",
+    "tired",
+    "that's",
+    "thanks",
+    "class",
+    "does",
+    "during",
+    "ourselves",
+    "address",
+    "previous",
+    "plus",
+    "bus",
+    "running",
+    "guess",
+    "boss",
+    "business",
+    "let's",
+    "reading",
+    "bed",
+    "pass",
+    "news",
+    "others",
+    "cross",
+    "interested",
+    "series",
+    "sports",
+    "spring",
+    "living",
+    "building",
+    "bring",
+    "glass",
+    "eyes",
+    "parents",
+    "ring",
+    "happened",
+    "what's"
+  ],
+  "missing_id_examples": [
+    "backpack",
+    "desk",
+    "keyboard",
+    "printer",
+    "receipt",
+    "beside",
+    "rarely",
+    "theirs",
+    "yours",
+    "bicycle",
+    "cashier",
+    "folder",
+    "mouse",
+    "package",
+    "playground",
+    "shelf",
+    "tap",
+    "ours",
+    "whenever",
+    "aisle",
+    "bakery",
+    "basket",
+    "blanket",
+    "cabinet",
+    "charging",
+    "checkout",
+    "cinema",
+    "cloud",
+    "collar",
+    "colleague",
+    "exit",
+    "faucet",
+    "flower",
+    "frozen",
+    "gate",
+    "groceries",
+    "grocery",
+    "homework",
+    "ink",
+    "jam",
+    "laptop",
+    "laundry",
+    "loose",
+    "mop",
+    "passenger",
+    "paste",
+    "pavement",
+    "pharmacy",
+    "remote",
+    "sidewalk",
+    "supermarket",
+    "tablet",
+    "theater",
+    "uniform",
+    "upload",
+    "wash",
+    "a-little",
+    "again-and-again",
+    "anybody",
+    "fewer",
+    "hers",
+    "howcome",
+    "identical",
+    "minus",
+    "nor",
+    "nowhere",
+    "underneath",
+    "whereas",
+    "airplane",
+    "alarm",
+    "allergy",
+    "ankle",
+    "armrest",
+    "arrival",
+    "arrive",
+    "assignment",
+    "autumn",
+    "backward",
+    "baggage",
+    "balcony"
+  ],
+  "topic_counts": {
+    "grammar": 208,
+    "routine": 44,
+    "functional_grammar": 186,
+    "communication": 70,
+    "quantities": 48,
+    "daily_communication": 90,
+    "weather_emotion_time": 108,
+    "time": 31,
+    "directions": 47,
+    "shopping": 54,
+    "body": 39,
+    "body_health": 100,
+    "actions": 143,
+    "school": 50,
+    "travel_navigation": 126,
+    "home": 61,
+    "travel": 82,
+    "work": 44,
+    "places": 53,
+    "school_learning": 114,
+    "work_public": 84,
+    "leisure": 40,
+    "play_nature": 129,
+    "technology": 50,
+    "household_problems": 31,
+    "technology_common": 135,
+    "clothes": 27,
+    "clothes_personal": 91,
+    "weather": 26,
+    "domestic": 144,
+    "feelings": 52,
+    "food_market": 108,
+    "food": 42,
+    "nature": 40,
+    "people": 43,
+    "family_social": 75
+  },
+  "priority_anchor_checks": {
+    "desired": 314,
+    "matched": 294,
+    "not_in_candidate_pool": [
+      "I",
+      "feel",
+      "meet",
+      "broke",
+      "lamp",
+      "fridge",
+      "sink",
+      "soap",
+      "garbage",
+      "juice",
+      "pasta",
+      "egg",
+      "meat",
+      "vegetable",
+      "tomato",
+      "potato",
+      "onion",
+      "umbrella"
+    ],
+    "entries": [
+      {
+        "word": "you",
+        "id": "en:000000009",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "we",
+        "id": "en:000000027",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "they",
+        "id": "en:000000033",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "he",
+        "id": "en:000000020",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "she",
+        "id": "en:000000062",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "it",
+        "id": "en:000000010",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "my",
+        "id": "en:000000025",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "your",
+        "id": "en:000000029",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "our",
+        "id": "en:000000074",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "this",
+        "id": "en:000000013",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "that",
+        "id": "en:000000008",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "what",
+        "id": "en:000000044",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "which",
+        "id": "en:000000057",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "who",
+        "id": "en:000000051",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "where",
+        "id": "en:000000103",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "when",
+        "id": "en:000000046",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "why",
+        "id": "en:000000121",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "how",
+        "id": "en:000000065",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "yes",
+        "id": "en:000000291",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "no",
+        "id": "en:000000049",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "not",
+        "id": "en:000000021",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "can",
+        "id": "en:000000037",
+        "topics": [
+          "grammar",
+          "shopping",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "could",
+        "id": "en:000000090",
+        "topics": [
+          "grammar",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "should",
+        "id": "en:000000105",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "would",
+        "id": "en:000000061",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "must",
+        "id": "en:000000190",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "have",
+        "id": "en:000000018",
+        "topics": [
+          "grammar",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "do",
+        "id": "en:000000048",
+        "topics": [
+          "grammar",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "be",
+        "id": "en:000000015",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "go",
+        "id": "en:000000096",
+        "topics": [
+          "actions",
+          "communication",
+          "directions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "come",
+        "id": "en:000000154",
+        "topics": [
+          "actions",
+          "communication",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "want",
+        "id": "en:000000094",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "need",
+        "id": "en:000000108",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "know",
+        "id": "en:000000082",
+        "topics": [
+          "actions",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "think",
+        "id": "en:000000087",
+        "topics": [
+          "actions",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "say",
+        "id": "en:000000130",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "tell",
+        "id": "en:000000267",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "ask",
+        "id": "en:000000436",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "answer",
+        "id": "en:000000663",
+        "topics": [
+          "actions",
+          "school",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "help",
+        "id": "en:000000163",
+        "topics": [
+          "actions",
+          "communication",
+          "work"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "find",
+        "id": "en:000000162",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "see",
+        "id": "en:000000083",
+        "topics": [
+          "actions",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "look",
+        "id": "en:000000145",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "watch",
+        "id": "en:000000444",
+        "topics": [
+          "actions",
+          "clothes",
+          "clothes_personal",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hear",
+        "id": "en:000000568",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "listen",
+        "id": "en:000000899",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "speak",
+        "id": "en:000000973",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "talk",
+        "id": "en:000000355",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "give",
+        "id": "en:000000177",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "take",
+        "id": "en:000000124",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "make",
+        "id": "en:000000085",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "put",
+        "id": "en:000000201",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "get",
+        "id": "en:000000059",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bring",
+        "id": "en:000000517",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "leave",
+        "id": "en:000000440",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "stay",
+        "id": "en:000000455",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wait",
+        "id": "en:000000434",
+        "topics": [
+          "actions",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "stop",
+        "id": "en:000000273",
+        "topics": [
+          "actions",
+          "travel"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "start",
+        "id": "en:000000239",
+        "topics": [
+          "actions",
+          "directions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "finish",
+        "id": "en:000001271",
+        "topics": [
+          "actions",
+          "directions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "buy",
+        "id": "en:000000458",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "pay",
+        "id": "en:000000376",
+        "topics": [
+          "actions",
+          "work",
+          "work_public"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "spend",
+        "id": "en:000001118",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cost",
+        "id": "en:000000548",
+        "topics": [
+          "actions",
+          "shopping"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "eat",
+        "id": "en:000000740",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "drink",
+        "id": "en:000001299",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cook",
+        "id": "en:000002209",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wash",
+        "id": null,
+        "topics": [
+          "actions",
+          "clothes",
+          "routine"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "clean",
+        "id": "en:000001101",
+        "topics": [
+          "actions",
+          "clothes",
+          "routine",
+          "domestic"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sleep",
+        "id": "en:000000926",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wake",
+        "id": "en:000001771",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "walk",
+        "id": "en:000000862",
+        "topics": [
+          "actions",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "run",
+        "id": "en:000000299",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "drive",
+        "id": "en:000000739",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "ride",
+        "id": "en:000001463",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "travel",
+        "id": "en:000001066",
+        "topics": [
+          "actions",
+          "travel",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "open",
+        "id": "en:000000303",
+        "topics": [
+          "actions",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "close",
+        "id": "en:000000416",
+        "topics": [
+          "actions",
+          "directions",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "remember",
+        "id": "en:000000402",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "forget",
+        "id": "en:000000895",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "understand",
+        "id": "en:000000412",
+        "topics": [
+          "actions",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "learn",
+        "id": "en:000000674",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "teach",
+        "id": "en:000002145",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "read",
+        "id": "en:000000256",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "write",
+        "id": "en:000000977",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "try",
+        "id": "en:000000289",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "choose",
+        "id": "en:000001262",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "prefer",
+        "id": "en:000002601",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "like",
+        "id": "en:000000040",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "love",
+        "id": "en:000000141",
+        "topics": [
+          "actions",
+          "feelings"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hate",
+        "id": "en:000000780",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hope",
+        "id": "en:000000334",
+        "topics": [
+          "actions",
+          "feelings"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "worry",
+        "id": "en:000001513",
+        "topics": [
+          "feelings"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "work",
+        "id": "en:000000112",
+        "topics": [
+          "work",
+          "routine",
+          "work_public"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "play",
+        "id": "en:000000214",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "visit",
+        "id": "en:000000949",
+        "topics": [
+          "family_social"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "call",
+        "id": "en:000000277",
+        "topics": [
+          "actions",
+          "technology",
+          "work"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "send",
+        "id": "en:000000790",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "use",
+        "id": "en:000000147",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "fix",
+        "id": "en:000001790",
+        "topics": [
+          "actions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "broken",
+        "id": "en:000001352",
+        "topics": [
+          "technology",
+          "household_problems"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "stuck",
+        "id": "en:000002093",
+        "topics": [
+          "technology",
+          "household_problems",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "printer",
+        "id": null,
+        "topics": [
+          "technology",
+          "work",
+          "household_problems",
+          "technology_common",
+          "work_public"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "computer",
+        "id": "en:000001102",
+        "topics": [
+          "school",
+          "technology",
+          "work",
+          "technology_common",
+          "work_public"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "keyboard",
+        "id": null,
+        "topics": [
+          "technology",
+          "leisure",
+          "work",
+          "technology_common",
+          "work_public"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "phone",
+        "id": "en:000000487",
+        "topics": [
+          "technology",
+          "work",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "charger",
+        "id": null,
+        "topics": [
+          "technology",
+          "technology_common"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "ticket",
+        "id": "en:000002429",
+        "topics": [
+          "travel",
+          "leisure",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "passport",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "suitcase",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "airport",
+        "id": "en:000001481",
+        "topics": [
+          "travel",
+          "places",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hotel",
+        "id": "en:000001157",
+        "topics": [
+          "travel",
+          "places",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "station",
+        "id": "en:000001029",
+        "topics": [
+          "travel",
+          "places",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bus",
+        "id": "en:000001518",
+        "topics": [
+          "travel",
+          "routine",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "train",
+        "id": "en:000001142",
+        "topics": [
+          "travel",
+          "routine",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "taxi",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "street",
+        "id": "en:000000515",
+        "topics": [
+          "travel",
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "road",
+        "id": "en:000000557",
+        "topics": [
+          "travel",
+          "places",
+          "directions"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sidewalk",
+        "id": null,
+        "topics": [
+          "travel",
+          "places",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "crossing",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "map",
+        "id": "en:000001762",
+        "topics": [
+          "travel",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "left",
+        "id": "en:000000207",
+        "topics": [
+          "directions",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "right",
+        "id": "en:000000111",
+        "topics": [
+          "school",
+          "communication",
+          "directions",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "straight",
+        "id": "en:000000948",
+        "topics": [
+          "directions",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "near",
+        "id": "en:000000495",
+        "topics": [
+          "grammar",
+          "directions",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "far",
+        "id": "en:000000285",
+        "topics": [
+          "directions",
+          "daily_communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "here",
+        "id": "en:000000107",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "there",
+        "id": "en:000000055",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "house",
+        "id": "en:000000178",
+        "topics": [
+          "home",
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "room",
+        "id": "en:000000388",
+        "topics": [
+          "home",
+          "travel",
+          "shopping",
+          "work",
+          "routine",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "kitchen",
+        "id": "en:000002218",
+        "topics": [
+          "home",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bathroom",
+        "id": "en:000002733",
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bedroom",
+        "id": null,
+        "topics": [
+          "home"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "bed",
+        "id": "en:000000864",
+        "topics": [
+          "home",
+          "routine"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "blanket",
+        "id": null,
+        "topics": [
+          "home",
+          "leisure",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "pillow",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "sofa",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "couch",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "chair",
+        "id": "en:000002029",
+        "topics": [
+          "home",
+          "school",
+          "domestic"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "table",
+        "id": "en:000000927",
+        "topics": [
+          "home"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "door",
+        "id": "en:000000841",
+        "topics": [
+          "home"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "window",
+        "id": "en:000001644",
+        "topics": [
+          "home",
+          "travel",
+          "domestic",
+          "travel_navigation",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wall",
+        "id": "en:000000950",
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "ceiling",
+        "id": null,
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "floor",
+        "id": "en:000001187",
+        "topics": [
+          "home",
+          "travel",
+          "domestic"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "stairs",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "cupboard",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "closet",
+        "id": null,
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "shelf",
+        "id": null,
+        "topics": [
+          "home",
+          "shopping",
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "drawer",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "broom",
+        "id": null,
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "mop",
+        "id": null,
+        "topics": [
+          "actions",
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "bucket",
+        "id": null,
+        "topics": [
+          "home",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "plate",
+        "id": "en:000002710",
+        "topics": [
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bowl",
+        "id": "en:000002293",
+        "topics": [
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cup",
+        "id": "en:000000778",
+        "topics": [
+          "quantities",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "glass",
+        "id": "en:000001450",
+        "topics": [
+          "household_problems",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "spoon",
+        "id": null,
+        "topics": [
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "fork",
+        "id": null,
+        "topics": [
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "knife",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "pan",
+        "id": null,
+        "topics": [
+          "domestic",
+          "food_market"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "pot",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "stove",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "refrigerator",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "towel",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "toothpaste",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "toothbrush",
+        "id": null,
+        "topics": [
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "laundry",
+        "id": null,
+        "topics": [
+          "home",
+          "routine",
+          "domestic"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "trash",
+        "id": null,
+        "topics": [
+          "home",
+          "routine"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "water",
+        "id": "en:000000274",
+        "topics": [
+          "food",
+          "nature",
+          "household_problems"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "coffee",
+        "id": "en:000001413",
+        "topics": [
+          "food",
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "tea",
+        "id": "en:000001888",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "milk",
+        "id": "en:000002185",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bread",
+        "id": "en:000002938",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "rice",
+        "id": "en:000002717",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cheese",
+        "id": "en:000002578",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "butter",
+        "id": null,
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "chicken",
+        "id": "en:000002295",
+        "topics": [
+          "food",
+          "nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "fish",
+        "id": "en:000001304",
+        "topics": [
+          "food",
+          "nature",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "fruit",
+        "id": "en:000002586",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "apple",
+        "id": "en:000001745",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "banana",
+        "id": null,
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "orange",
+        "id": "en:000002361",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "salt",
+        "id": "en:000002460",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sugar",
+        "id": "en:000002094",
+        "topics": [
+          "food"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "dinner",
+        "id": "en:000001680",
+        "topics": [
+          "food",
+          "routine",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "lunch",
+        "id": "en:000002183",
+        "topics": [
+          "food",
+          "food_market",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "breakfast",
+        "id": "en:000002387",
+        "topics": [
+          "food",
+          "routine",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "restaurant",
+        "id": "en:000002087",
+        "topics": [
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cafe",
+        "id": null,
+        "topics": [
+          "places"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "store",
+        "id": "en:000000998",
+        "topics": [
+          "shopping",
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "shop",
+        "id": "en:000001373",
+        "topics": [
+          "shopping",
+          "places"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "supermarket",
+        "id": null,
+        "topics": [
+          "shopping",
+          "places",
+          "food_market"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "market",
+        "id": "en:000000494",
+        "topics": [
+          "shopping",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "checkout",
+        "id": null,
+        "topics": [
+          "shopping",
+          "food_market",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "cashier",
+        "id": null,
+        "topics": [
+          "people",
+          "shopping",
+          "food_market",
+          "work_public"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "receipt",
+        "id": null,
+        "topics": [
+          "shopping",
+          "work",
+          "food_market",
+          "travel_navigation",
+          "work_public"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "cash",
+        "id": "en:000001230",
+        "topics": [
+          "shopping",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "card",
+        "id": "en:000000933",
+        "topics": [
+          "travel",
+          "shopping"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wallet",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "change",
+        "id": "en:000000249",
+        "topics": [
+          "actions",
+          "shopping",
+          "food_market"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "bag",
+        "id": "en:000001647",
+        "topics": [
+          "school",
+          "shopping",
+          "food_market",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "shoes",
+        "id": "en:000002142",
+        "topics": [
+          "clothes",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sneakers",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "sandals",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "slippers",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "shirt",
+        "id": "en:000002327",
+        "topics": [
+          "clothes",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "pants",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "jeans",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "skirt",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "dress",
+        "id": "en:000001753",
+        "topics": [
+          "clothes",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "socks",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "coat",
+        "id": null,
+        "topics": [
+          "clothes",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "hat",
+        "id": "en:000002793",
+        "topics": [
+          "clothes",
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sunglasses",
+        "id": null,
+        "topics": [
+          "clothes_personal"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "rain",
+        "id": "en:000001975",
+        "topics": [
+          "weather",
+          "nature",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "weather",
+        "id": "en:000001408",
+        "topics": [
+          "weather",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hot",
+        "id": "en:000000687",
+        "topics": [
+          "weather",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "cold",
+        "id": "en:000000981",
+        "topics": [
+          "weather",
+          "body_health",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "warm",
+        "id": "en:000001988",
+        "topics": [
+          "weather",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wet",
+        "id": "en:000002772",
+        "topics": [
+          "weather",
+          "household_problems",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sunny",
+        "id": null,
+        "topics": [
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "snow",
+        "id": "en:000002193",
+        "topics": [
+          "weather",
+          "nature",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "wind",
+        "id": "en:000001512",
+        "topics": [
+          "weather"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "storm",
+        "id": "en:000002194",
+        "topics": [
+          "weather",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "family",
+        "id": "en:000000197",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "mother",
+        "id": "en:000000556",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "father",
+        "id": "en:000000529",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "brother",
+        "id": "en:000000774",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sister",
+        "id": "en:000001173",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "friend",
+        "id": "en:000000405",
+        "topics": [
+          "people"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "neighbor",
+        "id": null,
+        "topics": [
+          "family_social"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "teacher",
+        "id": "en:000001376",
+        "topics": [
+          "people",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "school",
+        "id": "en:000000180",
+        "topics": [
+          "school",
+          "places",
+          "routine",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "classroom",
+        "id": null,
+        "topics": [
+          "school",
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "book",
+        "id": "en:000000341",
+        "topics": [
+          "school"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "pencil",
+        "id": null,
+        "topics": [
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "pen",
+        "id": null,
+        "topics": [
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "paper",
+        "id": "en:000000881",
+        "topics": [
+          "home",
+          "school",
+          "technology",
+          "household_problems",
+          "school_learning",
+          "technology_common"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "notebook",
+        "id": null,
+        "topics": [
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "homework",
+        "id": null,
+        "topics": [
+          "school",
+          "routine",
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "lesson",
+        "id": null,
+        "topics": [
+          "school_learning"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "class",
+        "id": "en:000000415",
+        "topics": [
+          "school",
+          "school_learning"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "playground",
+        "id": null,
+        "topics": [
+          "school",
+          "leisure",
+          "school_learning",
+          "play_nature"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "cinema",
+        "id": null,
+        "topics": [
+          "leisure",
+          "places",
+          "play_nature"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "movie",
+        "id": "en:000000691",
+        "topics": [
+          "leisure",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "music",
+        "id": "en:000000269",
+        "topics": [
+          "school",
+          "leisure",
+          "school_learning",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "song",
+        "id": "en:000000533",
+        "topics": [
+          "leisure",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "game",
+        "id": "en:000000174",
+        "topics": [
+          "leisure",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "beach",
+        "id": "en:000001229",
+        "topics": [
+          "travel",
+          "nature",
+          "places",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "park",
+        "id": "en:000000693",
+        "topics": [
+          "travel",
+          "leisure",
+          "places",
+          "play_nature"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "holiday",
+        "id": "en:000002169",
+        "topics": [
+          "travel",
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "vacation",
+        "id": null,
+        "topics": [
+          "travel_navigation"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "birthday",
+        "id": "en:000001747",
+        "topics": [
+          "time",
+          "leisure"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "gift",
+        "id": "en:000001685",
+        "topics": [
+          "leisure"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "time",
+        "id": "en:000000058",
+        "topics": [
+          "time",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "today",
+        "id": "en:000000248",
+        "topics": [
+          "grammar",
+          "time",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "tomorrow",
+        "id": "en:000001000",
+        "topics": [
+          "grammar",
+          "time",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "yesterday",
+        "id": "en:000001290",
+        "topics": [
+          "grammar",
+          "time",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "morning",
+        "id": "en:000000452",
+        "topics": [
+          "weather",
+          "time",
+          "communication",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "afternoon",
+        "id": "en:000001890",
+        "topics": [
+          "weather",
+          "communication",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "evening",
+        "id": "en:000001417",
+        "topics": [
+          "weather",
+          "time",
+          "communication",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "night",
+        "id": "en:000000213",
+        "topics": [
+          "weather",
+          "communication",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "now",
+        "id": "en:000000070",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "later",
+        "id": "en:000000294",
+        "topics": [
+          "time",
+          "communication",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "soon",
+        "id": "en:000000464",
+        "topics": [
+          "time",
+          "daily_communication",
+          "weather_emotion_time"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "always",
+        "id": "en:000000160",
+        "topics": [
+          "grammar",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sometimes",
+        "id": "en:000000513",
+        "topics": [
+          "grammar",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "never",
+        "id": "en:000000127",
+        "topics": [
+          "grammar",
+          "communication",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "often",
+        "id": "en:000000365",
+        "topics": [
+          "grammar",
+          "daily_communication",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "usually",
+        "id": "en:000000719",
+        "topics": [
+          "grammar",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "maybe",
+        "id": "en:000000326",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "really",
+        "id": "en:000000109",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "very",
+        "id": "en:000000102",
+        "topics": [
+          "grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "because",
+        "id": "en:000000095",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "but",
+        "id": "en:000000023",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "and",
+        "id": "en:000000003",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "if",
+        "id": "en:000000035",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "or",
+        "id": "en:000000026",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "although",
+        "id": "en:000000479",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "however",
+        "id": "en:000000228",
+        "topics": [
+          "grammar",
+          "daily_communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "so",
+        "id": "en:000000031",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "too",
+        "id": "en:000000117",
+        "topics": [
+          "grammar",
+          "quantities",
+          "daily_communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "also",
+        "id": "en:000000068",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "only",
+        "id": "en:000000077",
+        "topics": [
+          "grammar",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "just",
+        "id": "en:000000039",
+        "topics": [
+          "grammar",
+          "communication",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "already",
+        "id": "en:000000243",
+        "topics": [
+          "grammar",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "still",
+        "id": "en:000000123",
+        "topics": [
+          "grammar",
+          "weather_emotion_time",
+          "functional_grammar"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "please",
+        "id": "en:000000200",
+        "topics": [
+          "grammar",
+          "communication",
+          "daily_communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "thanks",
+        "id": "en:000000349",
+        "topics": [
+          "grammar",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "sorry",
+        "id": "en:000000658",
+        "topics": [
+          "grammar",
+          "feelings",
+          "communication",
+          "daily_communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "hello",
+        "id": "en:000001907",
+        "topics": [
+          "grammar",
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      },
+      {
+        "word": "goodbye",
+        "id": null,
+        "topics": [
+          "grammar",
+          "communication"
+        ],
+        "has_dictionary_entry": false
+      },
+      {
+        "word": "good",
+        "id": "en:000000076",
+        "topics": [
+          "communication"
+        ],
+        "has_dictionary_entry": true
+      }
+    ]
+  },
+  "warnings": [
+    "The V2 priority score is based on generic Zipf plus thematic count, not measured contextual frequency",
+    "A missing exact form is not proof of missing lexical concept (inflection, spelling, compounds)",
+    "Some candidates are duplicate spellings, unusual compounds or category noise; human review is required",
+    "Anchor list is a manual coverage sanity check, not empirical rank"
+  ],
+  "source_references": [
+    {
+      "name": "NGSL-Spoken",
+      "url": "https://www.newgeneralservicelist.com/ngsl-spoken",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "name": "New Dolch List",
+      "url": "https://www.newgeneralservicelist.com/new-dolch-list",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}
