@@ -116,7 +116,7 @@ def clean_word(w):
     w = re.sub(r"\[[^\]]*\]|\{[^}]*\}", "", w or "")
     w = re.sub(r"\s*\([^)]*\)\s*", " ", w)
     w = PREFIX.sub("", w)
-    w = re.sub(r"\s+", " ", w).strip(" ,;/")
+    w = re.sub(r"\s+", " ", w).strip(" ,;/.:!*–—-") if len(w) > 1 else w
     return w
 
 def clean_gloss(g, limit=140):
@@ -269,7 +269,9 @@ ARTICLELESS = {"zh", "ko", "ru", "hi", "ar"}
 
 def valid_for(locale, w, english=""):
     """Reject affixes, notes, wrong scripts, untranslated English and junk symbols."""
-    if not w or len(w) > 50 or w.startswith("-") or w.endswith("-") or "#" in w or "…" in w or "..." in w:
+    if not w or len(w) > 50 or w[0] in "-–—" or w.endswith("-") or any(c in w for c in "#*…") or "..." in w:
+        return False
+    if re.fullmatch(r"(.{1,3})\1{2,}", w.replace(" ", "")) or re.fullmatch(r"(\S+)( \1)+", w):  # "ママママ", "엄마 엄마"
         return False
     if english and w.strip().lower() == english.strip().lower() and locale not in ("pt-BR", "pt-PT", "es", "fr", "it", "de"):
         return False
