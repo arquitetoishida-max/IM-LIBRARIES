@@ -503,6 +503,35 @@ def build_language(locale):
             row["frequency"] = {"zipf": z, "source": "wordfreq"}
             stats["frequency"] += 1
         rows.append(row)
+    # Apply curated VCU14 translation overrides, preserving English IDs and metadata.
+    _vcu14_path = R / "curation/VCU14_PTBR_JA_TRANSLATIONS.json"
+    if locale in ("pt-BR", "ja") and _vcu14_path.exists():
+        _overrides = json.loads(_vcu14_path.read_text(encoding="utf-8")).get("entries", {})
+        _by_id = {r["english_id"]: r for r in rows}
+        for _eid, _item in _overrides.items():
+            _en = EN_BY_ID.get(_eid)
+            if _en is None:
+                continue
+            _translation = _item.get(locale)
+            if not _translation:
+                continue
+            _row = _by_id.get(_eid)
+            if _row is None:
+                _row = {"id": f"{locale}:{_eid}", "english_id": _eid, "english_sense_id": None,
+                        "kind": _en.get("kind", "word"), "description_en": _en["description_en"],
+                        "level": _en.get("level"), "alternatives": []}
+                rows.append(_row)
+                _by_id[_eid] = _row
+            _row["text"] = _translation
+            _row["source_status"] = "editorial-test"
+            _row["translation_confidence"] = "approximate"
+            if locale == "ja":
+                _hira, _roman = ja_reading(_translation)
+                _row["reading"] = _hira
+                _row["romanization"] = _roman
+            for _key in ("vcu14_rank", "environments", "vcu14_status"):
+                if _key in _en:
+                    _row[_key] = _en[_key]
     return rows, stats
 
 # ---------------------------------------------------------------- UI dictionaries
