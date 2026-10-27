@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,8 +22,8 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "c40fea5a5494d053b58ca8d5e75fd13898064346edbd313b17ee94482bb44866",
-      "version": "1.1.0"
+      "sha256": "58093d90da8ca3dae2d71ae70c2dc934aa8a659790a45c04d6b49e005ed5b3ff",
+      "version": "1.1.1"
     },
     {
       "id": "pt-BR-core-v2",
