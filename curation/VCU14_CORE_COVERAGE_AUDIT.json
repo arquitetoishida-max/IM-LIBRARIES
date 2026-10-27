@@ -1,0 +1,1473 @@
+{
+  "schema_version": 1,
+  "title": "VCU14 essential core coverage audit",
+  "status": "curation_only_not_published",
+  "date": "2026-10-27",
+  "source": "VCU14_EN_CANDIDATES_V3.json",
+  "method": "Editorial essential function and situation check; NOT measured corpus occurrence or native linguistic certification",
+  "group_count": 6,
+  "missing_total": 2,
+  "sections": {
+    "foundational_grammar": {
+      "present": [
+        {
+          "word": "you",
+          "id": "en:000000009",
+          "rank_provisional": 3
+        },
+        {
+          "word": "he",
+          "id": "en:000000020",
+          "rank_provisional": 24
+        },
+        {
+          "word": "she",
+          "id": "en:000000062",
+          "rank_provisional": 52
+        },
+        {
+          "word": "it",
+          "id": "en:000000010",
+          "rank_provisional": 6
+        },
+        {
+          "word": "we",
+          "id": "en:000000027",
+          "rank_provisional": 30
+        },
+        {
+          "word": "they",
+          "id": "en:000000033",
+          "rank_provisional": 35
+        },
+        {
+          "word": "me",
+          "id": "en:000000034",
+          "rank_provisional": 9
+        },
+        {
+          "word": "him",
+          "id": "en:000000080",
+          "rank_provisional": 71
+        },
+        {
+          "word": "her",
+          "id": "en:000000056",
+          "rank_provisional": 49
+        },
+        {
+          "word": "us",
+          "id": "en:000000093",
+          "rank_provisional": 80
+        },
+        {
+          "word": "them",
+          "id": "en:000000069",
+          "rank_provisional": 57
+        },
+        {
+          "word": "my",
+          "id": "en:000000025",
+          "rank_provisional": 28
+        },
+        {
+          "word": "your",
+          "id": "en:000000029",
+          "rank_provisional": 32
+        },
+        {
+          "word": "his",
+          "id": "en:000000032",
+          "rank_provisional": 34
+        },
+        {
+          "word": "our",
+          "id": "en:000000074",
+          "rank_provisional": 67
+        },
+        {
+          "word": "their",
+          "id": "en:000000054",
+          "rank_provisional": 45
+        },
+        {
+          "word": "this",
+          "id": "en:000000013",
+          "rank_provisional": 12
+        },
+        {
+          "word": "that",
+          "id": "en:000000008",
+          "rank_provisional": 5
+        },
+        {
+          "word": "these",
+          "id": "en:000000092",
+          "rank_provisional": 79
+        },
+        {
+          "word": "those",
+          "id": "en:000000128",
+          "rank_provisional": 95
+        },
+        {
+          "word": "who",
+          "id": "en:000000051",
+          "rank_provisional": 42
+        },
+        {
+          "word": "what",
+          "id": "en:000000044",
+          "rank_provisional": 15
+        },
+        {
+          "word": "where",
+          "id": "en:000000103",
+          "rank_provisional": 87
+        },
+        {
+          "word": "when",
+          "id": "en:000000046",
+          "rank_provisional": 40
+        },
+        {
+          "word": "why",
+          "id": "en:000000121",
+          "rank_provisional": 46
+        },
+        {
+          "word": "how",
+          "id": "en:000000065",
+          "rank_provisional": 25
+        },
+        {
+          "word": "yes",
+          "id": "en:000000291",
+          "rank_provisional": 97
+        },
+        {
+          "word": "no",
+          "id": "en:000000049",
+          "rank_provisional": 17
+        },
+        {
+          "word": "not",
+          "id": "en:000000021",
+          "rank_provisional": 4
+        },
+        {
+          "word": "please",
+          "id": "en:000000200",
+          "rank_provisional": 162
+        },
+        {
+          "word": "because",
+          "id": "en:000000095",
+          "rank_provisional": 81
+        },
+        {
+          "word": "if",
+          "id": "en:000000035",
+          "rank_provisional": 37
+        },
+        {
+          "word": "but",
+          "id": "en:000000023",
+          "rank_provisional": 26
+        },
+        {
+          "word": "and",
+          "id": "en:000000003",
+          "rank_provisional": 2
+        },
+        {
+          "word": "or",
+          "id": "en:000000026",
+          "rank_provisional": 29
+        },
+        {
+          "word": "to",
+          "id": "en:000000002",
+          "rank_provisional": 19
+        },
+        {
+          "word": "of",
+          "id": "en:000000004",
+          "rank_provisional": 22
+        },
+        {
+          "word": "with",
+          "id": "en:000000012",
+          "rank_provisional": 10
+        },
+        {
+          "word": "without",
+          "id": "en:000000185",
+          "rank_provisional": 122
+        },
+        {
+          "word": "from",
+          "id": "en:000000024",
+          "rank_provisional": 143
+        },
+        {
+          "word": "into",
+          "id": "en:000000081",
+          "rank_provisional": 72
+        },
+        {
+          "word": "up",
+          "id": "en:000000042",
+          "rank_provisional": 74
+        },
+        {
+          "word": "down",
+          "id": "en:000000132",
+          "rank_provisional": 277
+        },
+        {
+          "word": "before",
+          "id": "en:000000119",
+          "rank_provisional": 44
+        },
+        {
+          "word": "after",
+          "id": "en:000000078",
+          "rank_provisional": 33
+        },
+        {
+          "word": "can",
+          "id": "en:000000037",
+          "rank_provisional": 62
+        },
+        {
+          "word": "could",
+          "id": "en:000000090",
+          "rank_provisional": 160
+        },
+        {
+          "word": "should",
+          "id": "en:000000105",
+          "rank_provisional": 246
+        },
+        {
+          "word": "would",
+          "id": "en:000000061",
+          "rank_provisional": 194
+        },
+        {
+          "word": "need",
+          "id": "en:000000108",
+          "rank_provisional": 250
+        },
+        {
+          "word": "want",
+          "id": "en:000000094",
+          "rank_provisional": 233
+        },
+        {
+          "word": "have",
+          "id": "en:000000018",
+          "rank_provisional": 84
+        },
+        {
+          "word": "has",
+          "id": "en:000000045",
+          "rank_provisional": 174
+        },
+        {
+          "word": "is",
+          "id": "en:000000006",
+          "rank_provisional": 90
+        },
+        {
+          "word": "are",
+          "id": "en:000000017",
+          "rank_provisional": 78
+        },
+        {
+          "word": "be",
+          "id": "en:000000015",
+          "rank_provisional": 119
+        },
+        {
+          "word": "do",
+          "id": "en:000000048",
+          "rank_provisional": 127
+        },
+        {
+          "word": "did",
+          "id": "en:000000110",
+          "rank_provisional": 252
+        },
+        {
+          "word": "which",
+          "id": "en:000000057",
+          "rank_provisional": 23
+        }
+      ],
+      "not_in_candidate_pool": [
+        "i"
+      ]
+    },
+    "essential_actions": {
+      "present": [
+        {
+          "word": "go",
+          "id": "en:000000096",
+          "rank_provisional": 68
+        },
+        {
+          "word": "come",
+          "id": "en:000000154",
+          "rank_provisional": 145
+        },
+        {
+          "word": "get",
+          "id": "en:000000059",
+          "rank_provisional": 136
+        },
+        {
+          "word": "give",
+          "id": "en:000000177",
+          "rank_provisional": 332
+        },
+        {
+          "word": "take",
+          "id": "en:000000124",
+          "rank_provisional": 187
+        },
+        {
+          "word": "put",
+          "id": "en:000000201",
+          "rank_provisional": 351
+        },
+        {
+          "word": "make",
+          "id": "en:000000085",
+          "rank_provisional": 227
+        },
+        {
+          "word": "do",
+          "id": "en:000000048",
+          "rank_provisional": 127
+        },
+        {
+          "word": "have",
+          "id": "en:000000018",
+          "rank_provisional": 84
+        },
+        {
+          "word": "be",
+          "id": "en:000000015",
+          "rank_provisional": 119
+        },
+        {
+          "word": "want",
+          "id": "en:000000094",
+          "rank_provisional": 233
+        },
+        {
+          "word": "need",
+          "id": "en:000000108",
+          "rank_provisional": 250
+        },
+        {
+          "word": "know",
+          "id": "en:000000082",
+          "rank_provisional": 153
+        },
+        {
+          "word": "learn",
+          "id": "en:000000674",
+          "rank_provisional": 618
+        },
+        {
+          "word": "understand",
+          "id": "en:000000412",
+          "rank_provisional": 309
+        },
+        {
+          "word": "think",
+          "id": "en:000000087",
+          "rank_provisional": 158
+        },
+        {
+          "word": "say",
+          "id": "en:000000130",
+          "rank_provisional": 275
+        },
+        {
+          "word": "tell",
+          "id": "en:000000267",
+          "rank_provisional": 400
+        },
+        {
+          "word": "speak",
+          "id": "en:000000973",
+          "rank_provisional": 728
+        },
+        {
+          "word": "ask",
+          "id": "en:000000436",
+          "rank_provisional": 507
+        },
+        {
+          "word": "answer",
+          "id": "en:000000663",
+          "rank_provisional": 248
+        },
+        {
+          "word": "listen",
+          "id": "en:000000899",
+          "rank_provisional": 693
+        },
+        {
+          "word": "hear",
+          "id": "en:000000568",
+          "rank_provisional": 583
+        },
+        {
+          "word": "look",
+          "id": "en:000000145",
+          "rank_provisional": 297
+        },
+        {
+          "word": "see",
+          "id": "en:000000083",
+          "rank_provisional": 154
+        },
+        {
+          "word": "watch",
+          "id": "en:000000444",
+          "rank_provisional": 151
+        },
+        {
+          "word": "read",
+          "id": "en:000000256",
+          "rank_provisional": 393
+        },
+        {
+          "word": "write",
+          "id": "en:000000977",
+          "rank_provisional": 731
+        },
+        {
+          "word": "eat",
+          "id": "en:000000740",
+          "rank_provisional": 642
+        },
+        {
+          "word": "drink",
+          "id": "en:000001299",
+          "rank_provisional": 810
+        },
+        {
+          "word": "sleep",
+          "id": "en:000000926",
+          "rank_provisional": 705
+        },
+        {
+          "word": "wake",
+          "id": "en:000001771",
+          "rank_provisional": 627
+        },
+        {
+          "word": "wash",
+          "id": null,
+          "rank_provisional": 1039
+        },
+        {
+          "word": "clean",
+          "id": "en:000001101",
+          "rank_provisional": 210
+        },
+        {
+          "word": "cook",
+          "id": "en:000002209",
+          "rank_provisional": 698
+        },
+        {
+          "word": "open",
+          "id": "en:000000303",
+          "rank_provisional": 281
+        },
+        {
+          "word": "close",
+          "id": "en:000000416",
+          "rank_provisional": 213
+        },
+        {
+          "word": "find",
+          "id": "en:000000162",
+          "rank_provisional": 311
+        },
+        {
+          "word": "lose",
+          "id": "en:000000850",
+          "rank_provisional": 675
+        },
+        {
+          "word": "buy",
+          "id": "en:000000458",
+          "rank_provisional": 324
+        },
+        {
+          "word": "pay",
+          "id": "en:000000376",
+          "rank_provisional": 206
+        },
+        {
+          "word": "cost",
+          "id": "en:000000548",
+          "rank_provisional": 358
+        },
+        {
+          "word": "sell",
+          "id": "en:000001094",
+          "rank_provisional": 758
+        },
+        {
+          "word": "wait",
+          "id": "en:000000434",
+          "rank_provisional": 316
+        },
+        {
+          "word": "stay",
+          "id": "en:000000455",
+          "rank_provisional": 513
+        },
+        {
+          "word": "leave",
+          "id": "en:000000440",
+          "rank_provisional": 319
+        },
+        {
+          "word": "arrive",
+          "id": null,
+          "rank_provisional": 1058
+        },
+        {
+          "word": "help",
+          "id": "en:000000163",
+          "rank_provisional": 149
+        },
+        {
+          "word": "fix",
+          "id": "en:000001790",
+          "rank_provisional": 861
+        },
+        {
+          "word": "break",
+          "id": "en:000000647",
+          "rank_provisional": 123
+        },
+        {
+          "word": "work",
+          "id": "en:000000112",
+          "rank_provisional": 126
+        },
+        {
+          "word": "play",
+          "id": "en:000000214",
+          "rank_provisional": 368
+        },
+        {
+          "word": "move",
+          "id": "en:000000431",
+          "rank_provisional": 503
+        },
+        {
+          "word": "drive",
+          "id": "en:000000739",
+          "rank_provisional": 641
+        },
+        {
+          "word": "ride",
+          "id": "en:000001463",
+          "rank_provisional": 824
+        },
+        {
+          "word": "walk",
+          "id": "en:000000862",
+          "rank_provisional": 422
+        },
+        {
+          "word": "sit",
+          "id": "en:000001320",
+          "rank_provisional": 813
+        },
+        {
+          "word": "stand",
+          "id": "en:000000731",
+          "rank_provisional": 639
+        },
+        {
+          "word": "turn",
+          "id": "en:000000466",
+          "rank_provisional": 221
+        },
+        {
+          "word": "stop",
+          "id": "en:000000273",
+          "rank_provisional": 265
+        },
+        {
+          "word": "start",
+          "id": "en:000000239",
+          "rank_provisional": 253
+        }
+      ],
+      "not_in_candidate_pool": []
+    },
+    "high_impact_house": {
+      "present": [
+        {
+          "word": "house",
+          "id": "en:000000178",
+          "rank_provisional": 222
+        },
+        {
+          "word": "home",
+          "id": "en:000000143",
+          "rank_provisional": 203
+        },
+        {
+          "word": "room",
+          "id": "en:000000388",
+          "rank_provisional": 100
+        },
+        {
+          "word": "bedroom",
+          "id": null,
+          "rank_provisional": 1189
+        },
+        {
+          "word": "bathroom",
+          "id": "en:000002733",
+          "rank_provisional": 781
+        },
+        {
+          "word": "kitchen",
+          "id": "en:000002218",
+          "rank_provisional": 700
+        },
+        {
+          "word": "table",
+          "id": "en:000000927",
+          "rank_provisional": 706
+        },
+        {
+          "word": "chair",
+          "id": "en:000002029",
+          "rank_provisional": 414
+        },
+        {
+          "word": "bed",
+          "id": "en:000000864",
+          "rank_provisional": 423
+        },
+        {
+          "word": "pillow",
+          "id": null,
+          "rank_provisional": 1592
+        },
+        {
+          "word": "blanket",
+          "id": null,
+          "rank_provisional": 992
+        },
+        {
+          "word": "mattress",
+          "id": null,
+          "rank_provisional": 1516
+        },
+        {
+          "word": "wall",
+          "id": "en:000000950",
+          "rank_provisional": 445
+        },
+        {
+          "word": "ceiling",
+          "id": null,
+          "rank_provisional": 1089
+        },
+        {
+          "word": "floor",
+          "id": "en:000001187",
+          "rank_provisional": 318
+        },
+        {
+          "word": "door",
+          "id": "en:000000841",
+          "rank_provisional": 673
+        },
+        {
+          "word": "window",
+          "id": "en:000001644",
+          "rank_provisional": 171
+        },
+        {
+          "word": "key",
+          "id": "en:000000762",
+          "rank_provisional": 647
+        },
+        {
+          "word": "lock",
+          "id": "en:000002911",
+          "rank_provisional": 959
+        },
+        {
+          "word": "sink",
+          "id": null,
+          "rank_provisional": 1029
+        },
+        {
+          "word": "tap",
+          "id": null,
+          "rank_provisional": 986
+        },
+        {
+          "word": "faucet",
+          "id": null,
+          "rank_provisional": 1002
+        },
+        {
+          "word": "toilet",
+          "id": null,
+          "rank_provisional": 1799
+        },
+        {
+          "word": "shower",
+          "id": "en:000002983",
+          "rank_provisional": 534
+        },
+        {
+          "word": "towel",
+          "id": null,
+          "rank_provisional": 1807
+        },
+        {
+          "word": "soap",
+          "id": null,
+          "rank_provisional": 1030
+        },
+        {
+          "word": "plate",
+          "id": "en:000002710",
+          "rank_provisional": 775
+        },
+        {
+          "word": "bowl",
+          "id": "en:000002293",
+          "rank_provisional": 719
+        },
+        {
+          "word": "cup",
+          "id": "en:000000778",
+          "rank_provisional": 407
+        },
+        {
+          "word": "spoon",
+          "id": null,
+          "rank_provisional": 1125
+        },
+        {
+          "word": "fork",
+          "id": null,
+          "rank_provisional": 1115
+        },
+        {
+          "word": "knife",
+          "id": null,
+          "rank_provisional": 1481
+        },
+        {
+          "word": "glass",
+          "id": "en:000001450",
+          "rank_provisional": 570
+        },
+        {
+          "word": "bottle",
+          "id": "en:000002574",
+          "rank_provisional": 486
+        },
+        {
+          "word": "refrigerator",
+          "id": null,
+          "rank_provisional": 1640
+        },
+        {
+          "word": "fridge",
+          "id": null,
+          "rank_provisional": 1004
+        },
+        {
+          "word": "stove",
+          "id": null,
+          "rank_provisional": 1747
+        },
+        {
+          "word": "pan",
+          "id": null,
+          "rank_provisional": 1120
+        },
+        {
+          "word": "pot",
+          "id": null,
+          "rank_provisional": 1610
+        },
+        {
+          "word": "broom",
+          "id": null,
+          "rank_provisional": 1075
+        },
+        {
+          "word": "trash",
+          "id": null,
+          "rank_provisional": 1131
+        },
+        {
+          "word": "garbage",
+          "id": null,
+          "rank_provisional": 1006
+        },
+        {
+          "word": "laundry",
+          "id": null,
+          "rank_provisional": 1017
+        },
+        {
+          "word": "clothes",
+          "id": "en:000001895",
+          "rank_provisional": 867
+        },
+        {
+          "word": "shoes",
+          "id": "en:000002142",
+          "rank_provisional": 688
+        },
+        {
+          "word": "shirt",
+          "id": "en:000002327",
+          "rank_provisional": 727
+        },
+        {
+          "word": "pants",
+          "id": null,
+          "rank_provisional": 1572
+        }
+      ],
+      "not_in_candidate_pool": []
+    },
+    "daily_communication": {
+      "present": [
+        {
+          "word": "hello",
+          "id": "en:000001907",
+          "rank_provisional": 646
+        },
+        {
+          "word": "hi",
+          "id": "en:000001046",
+          "rank_provisional": 467
+        },
+        {
+          "word": "thanks",
+          "id": "en:000000349",
+          "rank_provisional": 290
+        },
+        {
+          "word": "thank",
+          "id": "en:000000306",
+          "rank_provisional": 283
+        },
+        {
+          "word": "sorry",
+          "id": "en:000000658",
+          "rank_provisional": 173
+        },
+        {
+          "word": "excuse",
+          "id": "en:000002637",
+          "rank_provisional": 494
+        },
+        {
+          "word": "yes",
+          "id": "en:000000291",
+          "rank_provisional": 97
+        },
+        {
+          "word": "no",
+          "id": "en:000000049",
+          "rank_provisional": 17
+        },
+        {
+          "word": "okay",
+          "id": "en:000000900",
+          "rank_provisional": 102
+        },
+        {
+          "word": "right",
+          "id": "en:000000111",
+          "rank_provisional": 77
+        },
+        {
+          "word": "wrong",
+          "id": "en:000000394",
+          "rank_provisional": 207
+        },
+        {
+          "word": "good",
+          "id": "en:000000076",
+          "rank_provisional": 219
+        },
+        {
+          "word": "fine",
+          "id": "en:000000566",
+          "rank_provisional": 363
+        },
+        {
+          "word": "great",
+          "id": "en:000000133",
+          "rank_provisional": 279
+        },
+        {
+          "word": "happy",
+          "id": "en:000000427",
+          "rank_provisional": 501
+        },
+        {
+          "word": "sad",
+          "id": "en:000001501",
+          "rank_provisional": 828
+        },
+        {
+          "word": "angry",
+          "id": "en:000002153",
+          "rank_provisional": 896
+        },
+        {
+          "word": "tired",
+          "id": "en:000001984",
+          "rank_provisional": 269
+        },
+        {
+          "word": "hungry",
+          "id": null,
+          "rank_provisional": 1451
+        },
+        {
+          "word": "thirsty",
+          "id": null,
+          "rank_provisional": 1788
+        },
+        {
+          "word": "sick",
+          "id": "en:000001375",
+          "rank_provisional": 549
+        },
+        {
+          "word": "scared",
+          "id": "en:000002461",
+          "rank_provisional": 924
+        },
+        {
+          "word": "worried",
+          "id": "en:000002337",
+          "rank_provisional": 730
+        },
+        {
+          "word": "today",
+          "id": "en:000000248",
+          "rank_provisional": 182
+        },
+        {
+          "word": "tomorrow",
+          "id": "en:000001000",
+          "rank_provisional": 293
+        },
+        {
+          "word": "yesterday",
+          "id": "en:000001290",
+          "rank_provisional": 333
+        },
+        {
+          "word": "morning",
+          "id": "en:000000452",
+          "rank_provisional": 152
+        },
+        {
+          "word": "afternoon",
+          "id": "en:000001890",
+          "rank_provisional": 402
+        },
+        {
+          "word": "evening",
+          "id": "en:000001417",
+          "rank_provisional": 230
+        },
+        {
+          "word": "night",
+          "id": "en:000000213",
+          "rank_provisional": 168
+        },
+        {
+          "word": "now",
+          "id": "en:000000070",
+          "rank_provisional": 208
+        },
+        {
+          "word": "later",
+          "id": "en:000000294",
+          "rank_provisional": 50
+        },
+        {
+          "word": "soon",
+          "id": "en:000000464",
+          "rank_provisional": 220
+        },
+        {
+          "word": "again",
+          "id": "en:000000181",
+          "rank_provisional": 118
+        },
+        {
+          "word": "always",
+          "id": "en:000000160",
+          "rank_provisional": 61
+        },
+        {
+          "word": "sometimes",
+          "id": "en:000000513",
+          "rank_provisional": 124
+        },
+        {
+          "word": "never",
+          "id": "en:000000127",
+          "rank_provisional": 21
+        },
+        {
+          "word": "often",
+          "id": "en:000000365",
+          "rank_provisional": 53
+        },
+        {
+          "word": "maybe",
+          "id": "en:000000326",
+          "rank_provisional": 104
+        },
+        {
+          "word": "really",
+          "id": "en:000000109",
+          "rank_provisional": 91
+        },
+        {
+          "word": "very",
+          "id": "en:000000102",
+          "rank_provisional": 243
+        },
+        {
+          "word": "enough",
+          "id": "en:000000250",
+          "rank_provisional": 41
+        },
+        {
+          "word": "already",
+          "id": "en:000000243",
+          "rank_provisional": 92
+        },
+        {
+          "word": "still",
+          "id": "en:000000123",
+          "rank_provisional": 47
+        },
+        {
+          "word": "almost",
+          "id": "en:000000381",
+          "rank_provisional": 109
+        },
+        {
+          "word": "only",
+          "id": "en:000000077",
+          "rank_provisional": 69
+        }
+      ],
+      "not_in_candidate_pool": [
+        "bad"
+      ]
+    },
+    "traveler_basic": {
+      "present": [
+        {
+          "word": "street",
+          "id": "en:000000515",
+          "rank_provisional": 343
+        },
+        {
+          "word": "road",
+          "id": "en:000000557",
+          "rank_provisional": 232
+        },
+        {
+          "word": "bus",
+          "id": "en:000001518",
+          "rank_provisional": 362
+        },
+        {
+          "word": "train",
+          "id": "en:000001142",
+          "rank_provisional": 313
+        },
+        {
+          "word": "car",
+          "id": "en:000000322",
+          "rank_provisional": 434
+        },
+        {
+          "word": "bike",
+          "id": "en:000002778",
+          "rank_provisional": 789
+        },
+        {
+          "word": "subway",
+          "id": null,
+          "rank_provisional": 1754
+        },
+        {
+          "word": "station",
+          "id": "en:000001029",
+          "rank_provisional": 298
+        },
+        {
+          "word": "airport",
+          "id": "en:000001481",
+          "rank_provisional": 356
+        },
+        {
+          "word": "flight",
+          "id": "en:000001418",
+          "rank_provisional": 565
+        },
+        {
+          "word": "ticket",
+          "id": "en:000002429",
+          "rank_provisional": 463
+        },
+        {
+          "word": "seat",
+          "id": "en:000001579",
+          "rank_provisional": 590
+        },
+        {
+          "word": "aisle",
+          "id": null,
+          "rank_provisional": 989
+        },
+        {
+          "word": "window",
+          "id": "en:000001644",
+          "rank_provisional": 171
+        },
+        {
+          "word": "passport",
+          "id": null,
+          "rank_provisional": 1578
+        },
+        {
+          "word": "luggage",
+          "id": null,
+          "rank_provisional": 1507
+        },
+        {
+          "word": "suitcase",
+          "id": null,
+          "rank_provisional": 1755
+        },
+        {
+          "word": "hotel",
+          "id": "en:000001157",
+          "rank_provisional": 314
+        },
+        {
+          "word": "room",
+          "id": "en:000000388",
+          "rank_provisional": 100
+        },
+        {
+          "word": "reservation",
+          "id": null,
+          "rank_provisional": 1645
+        },
+        {
+          "word": "key",
+          "id": "en:000000762",
+          "rank_provisional": 647
+        },
+        {
+          "word": "card",
+          "id": "en:000000933",
+          "rank_provisional": 438
+        },
+        {
+          "word": "cash",
+          "id": "en:000001230",
+          "rank_provisional": 517
+        },
+        {
+          "word": "wallet",
+          "id": null,
+          "rank_provisional": 1846
+        },
+        {
+          "word": "money",
+          "id": "en:000000202",
+          "rank_provisional": 360
+        },
+        {
+          "word": "payment",
+          "id": "en:000002187",
+          "rank_provisional": 694
+        },
+        {
+          "word": "restaurant",
+          "id": "en:000002087",
+          "rank_provisional": 891
+        },
+        {
+          "word": "menu",
+          "id": null,
+          "rank_provisional": 1522
+        },
+        {
+          "word": "water",
+          "id": "en:000000274",
+          "rank_provisional": 188
+        },
+        {
+          "word": "food",
+          "id": "en:000000372",
+          "rank_provisional": 466
+        },
+        {
+          "word": "breakfast",
+          "id": "en:000002387",
+          "rank_provisional": 457
+        },
+        {
+          "word": "lunch",
+          "id": "en:000002183",
+          "rank_provisional": 429
+        },
+        {
+          "word": "dinner",
+          "id": "en:000001680",
+          "rank_provisional": 375
+        },
+        {
+          "word": "bathroom",
+          "id": "en:000002733",
+          "rank_provisional": 781
+        },
+        {
+          "word": "toilet",
+          "id": null,
+          "rank_provisional": 1799
+        },
+        {
+          "word": "left",
+          "id": "en:000000207",
+          "rank_provisional": 235
+        },
+        {
+          "word": "right",
+          "id": "en:000000111",
+          "rank_provisional": 77
+        },
+        {
+          "word": "straight",
+          "id": "en:000000948",
+          "rank_provisional": 444
+        },
+        {
+          "word": "where",
+          "id": "en:000000103",
+          "rank_provisional": 87
+        },
+        {
+          "word": "when",
+          "id": "en:000000046",
+          "rank_provisional": 40
+        },
+        {
+          "word": "how",
+          "id": "en:000000065",
+          "rank_provisional": 25
+        },
+        {
+          "word": "much",
+          "id": "en:000000101",
+          "rank_provisional": 13
+        }
+      ],
+      "not_in_candidate_pool": []
+    },
+    "modern_daily": {
+      "present": [
+        {
+          "word": "phone",
+          "id": "en:000000487",
+          "rank_provisional": 224
+        },
+        {
+          "word": "cellphone",
+          "id": null,
+          "rank_provisional": 1090
+        },
+        {
+          "word": "smartphone",
+          "id": null,
+          "rank_provisional": 1710
+        },
+        {
+          "word": "charger",
+          "id": null,
+          "rank_provisional": 1092
+        },
+        {
+          "word": "cable",
+          "id": "en:000002735",
+          "rank_provisional": 782
+        },
+        {
+          "word": "battery",
+          "id": "en:000002835",
+          "rank_provisional": 516
+        },
+        {
+          "word": "screen",
+          "id": "en:000001466",
+          "rank_provisional": 573
+        },
+        {
+          "word": "computer",
+          "id": "en:000001102",
+          "rank_provisional": 146
+        },
+        {
+          "word": "laptop",
+          "id": null,
+          "rank_provisional": 1016
+        },
+        {
+          "word": "keyboard",
+          "id": null,
+          "rank_provisional": 972
+        },
+        {
+          "word": "mouse",
+          "id": null,
+          "rank_provisional": 982
+        },
+        {
+          "word": "printer",
+          "id": null,
+          "rank_provisional": 973
+        },
+        {
+          "word": "paper",
+          "id": "en:000000881",
+          "rank_provisional": 137
+        },
+        {
+          "word": "jammed",
+          "id": null,
+          "rank_provisional": 1467
+        },
+        {
+          "word": "stuck",
+          "id": "en:000002093",
+          "rank_provisional": 421
+        },
+        {
+          "word": "frozen",
+          "id": null,
+          "rank_provisional": 1005
+        },
+        {
+          "word": "error",
+          "id": "en:000002690",
+          "rank_provisional": 772
+        },
+        {
+          "word": "email",
+          "id": "en:000002069",
+          "rank_provisional": 278
+        },
+        {
+          "word": "message",
+          "id": "en:000001055",
+          "rank_provisional": 468
+        },
+        {
+          "word": "internet",
+          "id": "en:000000898",
+          "rank_provisional": 428
+        },
+        {
+          "word": "wifi",
+          "id": null,
+          "rank_provisional": 1857
+        },
+        {
+          "word": "password",
+          "id": null,
+          "rank_provisional": 1579
+        },
+        {
+          "word": "app",
+          "id": "en:000001410",
+          "rank_provisional": 559
+        },
+        {
+          "word": "website",
+          "id": "en:000000832",
+          "rank_provisional": 417
+        },
+        {
+          "word": "download",
+          "id": "en:000002068",
+          "rank_provisional": 419
+        },
+        {
+          "word": "upload",
+          "id": null,
+          "rank_provisional": 1037
+        },
+        {
+          "word": "photo",
+          "id": "en:000001111",
+          "rank_provisional": 211
+        },
+        {
+          "word": "video",
+          "id": "en:000000350",
+          "rank_provisional": 201
+        },
+        {
+          "word": "camera",
+          "id": "en:000001382",
+          "rank_provisional": 344
+        }
+      ],
+      "not_in_candidate_pool": []
+    }
+  },
+  "editorial_rules": [
+    "All key daily functions and essential concrete objects must be represented, regardless of global word frequency",
+    "A lexeme absent from v3 is not assumed absent from the published master; resolve normalization and senses first",
+    "Tags may overlap; VCU14 rank cannot be assigned solely from theme repetitions or overall Zipf",
+    "Prioritize tested natural collocations (printer is jammed, I lost my keys, where is the bathroom) over industrial or news-derived senses",
+    "Do not automatically delete any percentile, reassign existing IDs, or overwrite released libraries without validation"
+  ]
+}
