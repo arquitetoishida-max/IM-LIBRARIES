@@ -82,3 +82,11 @@
 - A duração deve considerar o **número de traços** do caractere: não usar uma duração total fixa que comprima caracteres complexos; idealmente duração por traço e pausa breve entre eles.
 - Permitir repetir o Play quantas vezes desejar; não mexer no progresso ou pontuação ao apenas assistir à animação.
 - Aplicar ao Hanzi se compartilhar motor de animação, sem alterar a verificação dos traços.
+
+## Revisão futura — Qualidade visual/caligrafia dos traços Kanji/Hanzi (28/10/2026)
+- Relato de teste: Kanji funciona, pacote pequeno e download rápido, porém os traços são visivelmente **quadrados, grosseiros e feios**. Melhorar representação sem aumentar significativamente os downloads.
+- Diagnóstico no código atual do APK (`ISHIDA-MULTILANG/lib/writing.dart`): `_StrokePainter` usa polilinhas de pontos normalizados em 0..1000, `lineTo` e largura fixa de ~48 unidades, inclusive na animação e no fantasma. Apesar de `StrokeCap.round` e `StrokeJoin.round`, a forma fica uniforme e grosseira. `lib/strokes.dart` pode continuar usando centerlines para reconhecimento: separar visualização e avaliação.
+- **Prioridade:** substituir a visualização do caractere por curvas vetoriais com contorno de traço mais natural, variável na espessura, pontas/terminações corretas e antialiasing. Preferir usar caminhos SVG originais de KanjiVG para a visualização onde disponíveis, preservando metadados de ordem, e, em Hanzi, contornos `strokes` nativos de Hanzi Writer; nunca extrapolar automaticamente curvas malformadas a partir de amostras muito grosseiras.
+- Manter as centerlines/polilinhas existentes para checagem de ordem/sensibilidade, sem regressão. Sincronizar a animação com o novo desenho sem perder sequência. Testar formas em caracteres simples e complexos, em diferentes tamanhos e densidades Android.
+- Opcional: oferecer aparência **Natural (padrão)** e **Traçado simples** nas preferências do treino. Preservar velocidade/tolerância configuráveis já solicitadas.
+- Avaliar tamanho extra real do pacote, cache e licenças dos dados vetoriais; manter disponibilidade offline, sem dependência de CDN. **Não trocar todo o motor por solução pesada sem necessidade**.
