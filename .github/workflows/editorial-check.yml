@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['curation/editorial/**', 'scripts/verify_editorial.py', 'scripts/build_editorial_core.py', '.github/workflows/editorial-check.yml']
+    paths: ['curation/editorial/**', 'v2/zh-core-v2.json', 'scripts/verify_editorial.py', 'scripts/build_editorial_core.py', '.github/workflows/editorial-check.yml']
 permissions:
   contents: write
 jobs:
@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install -q pykakasi
+      - run: pip install -q pykakasi pypinyin
       - name: Check readings
         run: python scripts/verify_editorial.py | while IFS= read -r l; do echo "::notice::$l"; done
       - name: Commit report

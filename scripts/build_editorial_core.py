@@ -28,7 +28,7 @@ if errs:
 def pkg(name):
     return json.loads((V2 / f'{name}-core-v2.json').read_text(encoding='utf-8'))
 
-en, pt, ja = pkg('en'), pkg('pt-BR'), pkg('ja')
+en, pt, ja, zh = pkg('en'), pkg('pt-BR'), pkg('ja'), pkg('zh')
 num = lambda eid: int(eid.split(':')[-1])
 old_pt = {num(e['english_id']): e for e in pt['entries']}
 old_ja = {num(e['english_id']): e for e in ja['entries']}
@@ -36,8 +36,17 @@ missing = [e['id'] for e in en['entries'] if num(e['id']) not in rows]
 if missing:
     sys.exit(f'not reviewed: {missing[:20]}')
 
-stats = {'kept': 0, 'excluded': 0, 'pt': 0, 'ja': 0}
-en_out, pt_out, ja_out = [], [], []
+stats = {'kept': 0, 'excluded': 0, 'pt': 0, 'ja': 0, 'zh': 0}
+en_out, pt_out, ja_out, zh_out = [], [], [], []
+# Mandarin (simplified): curation/editorial/zh/z*.txt — N|hanzi;alternatives|pinyin (tone marks); empty = no equivalent
+ZH = {}
+for f in sorted((R / 'curation/editorial/zh').glob('z*.txt')):
+    for line in f.read_text(encoding='utf-8').splitlines():
+        if not line.strip():
+            continue
+        n, hz, py = line.split('|')
+        ZH[int(n)] = ([x.strip() for x in hz.split(';') if x.strip()], py.strip())
+old_zh = {num(e['english_id']): e for e in zh['entries']}
 for e in en['entries']:
     n = num(e['id'])
     r = rows[n]
@@ -93,18 +102,32 @@ for e in en['entries']:
             j['frequency'] = {**e['frequency'], 'source': 'english-pivot'}
         ja_out.append(j)
         stats['ja'] += 1
+    if n not in ZH:
+        sys.exit(f'zh missing for {n}')
+    hz, py = ZH[n]
+    if hz:
+        o = old_zh.get(n, {})
+        z = {'id': f'zh:{e["id"]}', **base, 'text': hz[0], 'alternatives': hz[1:], 'reading': py, 'romanization': py}
+        if o.get('text') == hz[0] and o.get('frequency'):
+            z['frequency'] = o['frequency']
+        elif e.get('frequency'):
+            z['frequency'] = {**e['frequency'], 'source': 'english-pivot'}
+        zh_out.append(z)
+        stats['zh'] += 1
 
 NOTE = ('Editorial review 2.0 (2026-10-27): every English entry reviewed one by one from the pivot; one everyday sense and a '
         'short explanation per id; pt-BR and ja translated from that sense; vague entries, proper names, letter names, '
         'fragments and regular inflections removed (ids never reused). Source: curation/editorial/batches.')
-for p, rows_out in ((en, en_out), (pt, pt_out), (ja, ja_out)):
+for p, rows_out in ((en, en_out), (pt, pt_out), (ja, ja_out), (zh, zh_out)):
     p['entries'] = rows_out
     p['version'] = VERSION
     p['status'] = 'editorial-reviewed'
     p['notes'] = [NOTE] + [x for x in p.get('notes', []) if 'Editorial review' not in x]
 
 out = {}
-for name, p in (('en', en), ('pt-BR', pt), ('ja', ja)):
+zh['license'] = 'CC BY-SA 4.0 (ISHIDA MULTILANG editorial; English pivot ids)'
+zh['sources'] = ['ISHIDA editorial review 2.0 (English pivot, one sense per id)']
+for name, p in (('en', en), ('pt-BR', pt), ('ja', ja), ('zh', zh)):
     text = json.dumps(p, ensure_ascii=False, separators=(',', ':'))
     (V2 / f'{name}-core-v2.json').write_text(text, encoding='utf-8')
     out[f'{name}-core-v2'] = (hashlib.sha256(text.encode('utf-8')).hexdigest(), len(p['entries']), len(text.encode('utf-8')))
