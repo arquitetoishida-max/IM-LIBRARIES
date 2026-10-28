@@ -66,3 +66,11 @@
 - Exibir contador `usados/limite` em todos os campos e impedir envio acima do limite. Validar também no backend para não aceitar requisições adulteradas.
 - Se houver vários sentidos, abrir entradas/acepções separadas: **não ampliar o limite concatenando definições**. Não permitir anexos, HTML, links ou textos extensos em definições.
 - Aplicar aos envios e edições comunitárias; não truncar silenciosamente definições já existentes na biblioteca. Interface e validação aceitam idiomas com caracteres combinados e ideogramas.
+
+## Revisão futura — Sensibilidade do treino de escrita Kanji/Hanzi (28/10/2026)
+- Teste real do usuário: treinador Kanji **funciona bem**, porém a validação dos traços está **excessivamente rígida**; pequenos desvios de posição/forma no toque são rejeitados, dificultando a aprendizagem em tela sensível ao toque.
+- **Aumentar moderadamente a tolerância padrão** de reconhecimento para a prática inicial, sem deixar de avaliar o sentido e a sequência dos traços quando aplicável.
+- Adicionar opção persistente em **Settings → Writing Practice → Stroke Recognition Sensitivity / Tolerância dos traços** (por exemplo: Estrita, Normal [padrão mais flexível], Flexível), com descrição simples e efeito imediato na validação.
+- Se a biblioteca tiver controles diferentes para precisão geométrica, direção e sequência, priorizar tolerância geométrica; não desativar a verificação da sequência por acidente.
+- Aplicar também ao Hanzi se usar o mesmo motor; preservar configurações em backups e não comprometer progresso/sessão atual.
+- Incluir testes com dedo e stylus, incluindo traços curtos e caracteres complexos, para evitar aprovação indiscriminada.
