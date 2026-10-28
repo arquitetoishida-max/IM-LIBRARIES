@@ -57,3 +57,12 @@
 - Não pedir validação do usuário para cada palavra; automatizar auditoria objetiva.
 - Não iniciar versão Apple/iOS, não implementar Hangul ainda e deixar o mascote/gatinho adiado.
 - Produzir entregas verificáveis por commits, testes e APK instalável; comunicar somente o que realmente foi concluído e pendências concretas.
+
+### Limites obrigatórios para contribuições comunitárias
+- **Descrição/definição proposta:** máximo de **240 caracteres Unicode** por acepção, contados como caracteres visíveis (grapheme clusters), não bytes. Preferir texto curto e objetivo.
+- **Tradução proposta:** máximo de **100 caracteres** por campo.
+- **Exemplo de uso:** máximo de **160 caracteres** por exemplo, até **2 exemplos** por acepção.
+- **Justificativa da correção:** máximo de **500 caracteres**; não é texto publicado no Card.
+- Exibir contador `usados/limite` em todos os campos e impedir envio acima do limite. Validar também no backend para não aceitar requisições adulteradas.
+- Se houver vários sentidos, abrir entradas/acepções separadas: **não ampliar o limite concatenando definições**. Não permitir anexos, HTML, links ou textos extensos em definições.
+- Aplicar aos envios e edições comunitárias; não truncar silenciosamente definições já existentes na biblioteca. Interface e validação aceitam idiomas com caracteres combinados e ideogramas.
