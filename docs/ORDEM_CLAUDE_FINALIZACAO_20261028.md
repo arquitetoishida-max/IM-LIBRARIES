@@ -103,3 +103,17 @@
 - Aplicar esse estilo **a japonês (kanji) E chinês (hanzi)**, de maneira coerente. Espessura moderada, curvatura natural, geometria escolar refinada, não caligrafia pesada.
 - Para **coreano (hangul)**, em fase posterior, preferir estilo **técnico/geométrico limpo**, com traços mais regulares e cantos cuidadosamente desenhados; não forçar estilo pincel japonês/chinês. Não implementar Hangul agora.
 - A referência visual da imagem é orientação estética; recriar resultado por renderização vetorial adequada, mantendo ordem/animação, reconhecimento e compatibilidade offline. Testar visualmente caracteres japoneses e chineses simples e complexos. **Esta decisão prevalece sobre a instrução anterior de pincel forte como padrão.**
+
+## Revisão futura — STT mandarim indisponível + mensagem cortada (28/10/2026)
+**Teste do usuário no Android:** reconhecimento de voz em mandarim mostra “Idioma não disponível no reconhecimento de voz do Android”, e a mensagem de retorno aparece com a segunda linha parcialmente cortada.
+
+**Diagnóstico confirmado no código atual do app:**
+- `ISHIDA-MULTILANG/lib/study.dart`, `listen()`: após `speech.locales()`, compara `locale(target)` (esperado `zh-CN`) com `localeId` normalizado, depois busca prefixo linguístico; se nenhum corresponder, retorna mensagem e não inicia captação. É erro de disponibilidade/anúncio do mecanismo STT instalado, **não prova incapacidade geral do Android para mandarim**.
+- `lib/cards.dart` linha aproximada 221: mensagem `Text(feedback, maxLines: 2, overflow: TextOverflow.ellipsis, fontSize:12)`; verificar também as restrições verticais do contêiner, pois o usuário vê apenas parte da segunda linha.
+
+**Ajustes pedidos:**
+1. Mapear corretamente BCP-47 e variantes do mandarim: `zh-CN`, `zh_CN`, `cmn-Hans-CN` e variantes `zh`/ `cmn` efetivamente anunciadas. Não confundir automaticamente `zh-TW` com `zh-CN` sem explicar a diferença.
+2. Verificar disponibilidade do mecanismo Android/Google Speech Services e idioma solicitado; diagnosticar no app se o idioma não está instalado/ativado ou se o reconhecedor não o oferece. Oferecer mensagem clara e atalho/ajuda de configuração; não presumir nem inventar instalação automática do idioma. Solicitar permissões necessárias.
+3. Preservar funcionamento de outros idiomas; se STT nativo não oferecer mandarim, apresentar alternativa segura ou configurar motor STT local/offline compatível como melhoria opcional, avaliando tamanho e licenciamento, sem bloquear a sessão.
+4. Remover o truncamento de feedback e permitir mensagem **integral**, com texto multilinha, contêiner expansível ou rolável e padding suficiente; não cortar meia altura da segunda linha. Garantir boa visualização em celulares menores, fontes maiores e orientação diversa.
+5. Testar com aparelho que tenha e que não tenha STT mandarim disponível, inclusive erro de rede e falta de permissão; manter microfone, feedback, sessões e backup funcionando.
