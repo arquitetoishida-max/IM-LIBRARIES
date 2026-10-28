@@ -1,0 +1,32 @@
+name: Build writing packs (KanjiVG / Hanzi Writer)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/build_writing_packs.py', '.github/workflows/build-writing.yml', 'v2/ja-core-v2.json', 'v2/zh-core-v2.json']
+permissions:
+  contents: write
+concurrency:
+  group: writing-packs
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch stroke data
+        run: |
+          git clone -q --depth 1 https://github.com/KanjiVG/kanjivg.git /tmp/kanjivg
+          mkdir -p /tmp/hw && cd /tmp/hw && npm pack -s hanzi-writer-data@2 && tar xzf hanzi-writer-data-*.tgz
+          ls /tmp/hw/package | head -3
+      - name: Build packs
+        run: python scripts/build_writing_packs.py /tmp/kanjivg/kanji /tmp/hw/package | while IFS= read -r l; do echo "::notice::$l"; done
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add v2/writing v2/catalog.json
+          git commit -qm "Writing packs (KanjiVG / Hanzi Writer) [skip ci]" || exit 0
+          git pull -q --rebase origin main && git push -q origin HEAD:main
