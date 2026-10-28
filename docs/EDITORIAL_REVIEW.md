@@ -35,9 +35,9 @@ Pacotes `en`, `pt-BR`, `ja`, `zh` passam a 2.1.0, gerados só por `scripts/build
 `en:000000001` *the* e `en:000000028` *an* são artigos; japonês e mandarim não têm artigo, então não há par (sem card nesses idiomas). Não é perda de dados.
 
 ### Rollback
-- Tag `libraries-v2.0.0`: pacotes 2.0.0 (com `frequency` e metadados antigos).
-- Tag `libraries-pre-editorial`: última base antes da revisão editorial (definições Wiktionary).
-Para restaurar: `git checkout <tag> -- v2/<pacote>.json v2/catalog.json` e publicar.
+- Branch `rollback/libraries-v2.0.0`: pacotes 2.0.0 (com `frequency` e metadados antigos).
+- Branch `rollback/libraries-pre-editorial`: última base antes da revisão editorial (definições Wiktionary).
+Para restaurar: `git checkout origin/rollback/<nome> -- v2/<pacote>.json v2/catalog.json` e publicar.
 
 ### Dependências de terceiros que continuam (componentes, não o dicionário)
 - Pacotes de escrita `v2/writing/`: KanjiVG (CC BY-SA 3.0, Ulrich Apel) e hanzi-writer-data (Arphic Public License; dados derivados de Make Me a Hanzi) — licenças nos próprios pacotes.
