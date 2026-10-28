@@ -35,6 +35,8 @@ jobs:
           pip install argostranslate
       - name: Build packages
         run: python scripts/build_monolingual_v2.py
+      - name: Apply editorial review (en / pt-BR / ja)
+        run: python scripts/build_editorial_core.py
       - name: Commit packages
         run: |
           git config user.name "github-actions[bot]"

@@ -13,7 +13,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3140,
+      "entry_count": 2517,
       "has_ui": false,
       "flag": "🇺🇸",
       "locale": "en-US",
@@ -22,8 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "1da31db423814994a4b4ad357dbf6dfc82414b7b86cec882e8de3370b9546264",
-      "version": "1.1.2"
+      "sha256": "f2426e3234e727364675da4be7ae235b9800dce60c6782bd818fab897a3377ba",
+      "version": "2.0.0",
+      "size_bytes": 767739
     },
     {
       "id": "pt-BR-core-v2",
@@ -34,7 +35,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3140,
+      "entry_count": 2517,
       "has_ui": false,
       "flag": "🇧🇷",
       "locale": "pt-BR",
@@ -43,8 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "02efacf6b0b6e064e5b061b84f03f47716f4a7987059bfa8b15de5896e64f5c9",
-      "version": "1.1.2"
+      "sha256": "78b1dad2214a4f5c4fd6abad2d8be1ec0946418842a5aa680c826f0707e1abff",
+      "version": "2.0.0",
+      "size_bytes": 936724
     },
     {
       "id": "pt-PT-core-v2",
@@ -76,7 +78,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3140,
+      "entry_count": 2515,
       "has_ui": false,
       "flag": "🇯🇵",
       "locale": "ja-JP",
@@ -85,8 +87,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "eff4437e51815a5fc30719a5f461a68506ae063e04c0d1aa02fbe1a8ddc82144",
-      "version": "1.1.2"
+      "sha256": "d769d9bcf740a369ffdf5ad706461c6c11b90b678639b495e3625d338aa1db9e",
+      "version": "2.0.0",
+      "size_bytes": 1140675
     },
     {
       "id": "es-core-v2",
