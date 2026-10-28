@@ -1,6 +1,6 @@
 {
  "checked": 2515,
- "reading_mismatches": 64,
+ "reading_mismatches": 63,
  "items": [
   {
    "id": "en:000000032",
@@ -318,13 +318,6 @@
    "pykakasi": "ひるごめし"
   },
   {
-   "id": "en:000002362",
-   "en": "ourselves",
-   "ja": "私たち自身",
-   "reading": "じぶんたち",
-   "pykakasi": "わたしたちじしん"
-  },
-  {
    "id": "en:000002374",
    "en": "tiny",
    "ja": "とても小さい",
@@ -450,9 +443,5 @@
    "reading": "おなか",
    "pykakasi": "おはら"
   }
- ],
- "review": {
-  "date": "2026-10-27",
-  "result": "63 of 64 divergences are alternative/incorrect pykakasi readings (e.g. 人=ひと, お金=おかね, 小さい=ちいさい, 年下=としした); editorial readings kept. 1 real error fixed: en:000002362 ourselves 私たち自身 → わたしたちじしん."
- }
+ ]
 }
