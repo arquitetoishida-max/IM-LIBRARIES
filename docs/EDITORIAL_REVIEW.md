@@ -14,6 +14,9 @@ Formato: `N|classe|explicação curta EN|brasileiro;alternativas|japonês;altern
 ## Resultado
 3.140 ids revisados: 2.517 mantidos, 623 excluídos; 2.517 em brasileiro, 2.515 em japonês.
 
+## Conferência das leituras
+`docs/EDITORIAL_QA.json` (pykakasi, gerado no GitHub Actions): divergências conferidas uma a uma — eram leituras alternativas ou erradas do pykakasi (人=ひと, お金=おかね, 小さい=ちいさい, 年下=としした, 通り=とおり); 1 erro real corrigido (*ourselves* 私たち自身 = わたしたちじしん).
+
 ## Pendências
 - Revisão humana nativa (brasileiro e japonês), principalmente expressões/gírias.
 - Divergências de leitura apontadas por `docs/EDITORIAL_QA.json` (pykakasi) devem ser conferidas uma a uma.
