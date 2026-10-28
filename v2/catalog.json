@@ -364,6 +364,38 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-GB-slang-v2.json",
       "sha256": "1c5812da227f869d3255a8df11c65a42cfa7974567470bea7b1160b5e1f5221a",
       "version": "1.1.1"
+    },
+    {
+      "id": "ja-writing-kanjivg",
+      "name": "Japanese writing — KanjiVG stroke order",
+      "language": "ja",
+      "region": null,
+      "role": "writing",
+      "kind": "ishida-writing",
+      "schema_version": 1,
+      "available": true,
+      "entry_count": 1256,
+      "version": "1.0.0",
+      "license": "CC BY-SA 3.0 (KanjiVG, Ulrich Apel)",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/ja-writing-kanjivg.json",
+      "sha256": "173ab24e56c058f0f332c4d3bda960d9c323fcfa691b47934e588fb170254f02",
+      "size_bytes": 1502064
+    },
+    {
+      "id": "zh-writing-hanziwriter",
+      "name": "Mandarin writing — Hanzi Writer stroke data",
+      "language": "zh",
+      "region": null,
+      "role": "writing",
+      "kind": "ishida-writing",
+      "schema_version": 1,
+      "available": true,
+      "entry_count": 1507,
+      "version": "1.0.0",
+      "license": "Arphic Public License / LGPL (Make Me a Hanzi via hanzi-writer-data)",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/zh-writing-hanziwriter.json",
+      "sha256": "7e507d5ae85975aeb7b50969a4bfc9119fca932483d39f0effc14f9cf2d7bb36",
+      "size_bytes": 1735420
     }
   ],
   "notes": [
