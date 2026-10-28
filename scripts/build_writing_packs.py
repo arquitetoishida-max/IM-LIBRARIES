@@ -11,6 +11,7 @@ V2 = R / 'v2'
 OUT = V2 / 'writing'
 OUT.mkdir(exist_ok=True)
 POINTS = 16
+RDP_EPS = 0.3  # KanjiVG units (109 box): keeps corners and curves, drops redundant points
 
 def chars_of(pkg, test):
     d = json.loads((V2 / pkg).read_text(encoding='utf-8'))
@@ -39,6 +40,22 @@ def resample(pts, n=POINTS):
     out.append(pts[-1])
     return out
 
+def rdp(pts, eps=RDP_EPS):
+    """Ramer-Douglas-Peucker: shape-preserving simplification (corners and hooks are kept)."""
+    if len(pts) < 3:
+        return list(pts) if len(pts) == 2 else list(pts) * 2
+    a, b = pts[0], pts[-1]
+    dx, dy = b[0] - a[0], b[1] - a[1]
+    L = math.hypot(dx, dy) or 1e-9
+    best, idx = 0.0, 0
+    for i in range(1, len(pts) - 1):
+        d = abs(dy * (pts[i][0] - a[0]) - dx * (pts[i][1] - a[1])) / L if math.hypot(dx, dy) > 1e-9 else math.dist(pts[i], a)
+        if d > best:
+            best, idx = d, i
+    if best <= eps:
+        return [a, b]
+    return rdp(pts[:idx + 1], eps)[:-1] + rdp(pts[idx:], eps)
+
 def flat(pts, scale_x, scale_y, off_y=0.0, flip=False):
     r = []
     for x, y in pts:
@@ -56,8 +73,8 @@ def svg_path_points(d):
         nonlocal i
         v = float(toks[i]); i += 1; return v
     def cubic(p0, p1, p2, p3):
-        for k in range(1, 9):
-            t = k / 8
+        for k in range(1, 17):
+            t = k / 16
             mt = 1 - t
             pts.append((mt**3 * p0[0] + 3 * mt * mt * t * p1[0] + 3 * mt * t * t * p2[0] + t**3 * p3[0],
                         mt**3 * p0[1] + 3 * mt * mt * t * p1[1] + 3 * mt * t * t * p2[1] + t**3 * p3[1]))
@@ -100,7 +117,7 @@ def kanjivg(dirpath, chars):
         paths = re.findall(r'<path[^>]*\sid="kvg:[0-9a-f]+-s(\d+)"[^>]*\sd="([^"]+)"', svg)
         if not paths:
             paths = [(m[1], m[0]) for m in re.findall(r'<path[^>]*\sd="([^"]+)"[^>]*\sid="kvg:[0-9a-f]+-s(\d+)"', svg)]
-        strokes = [flat(resample(svg_path_points(d)), 1000 / 109, 1000 / 109) for _, d in sorted(paths, key=lambda p: int(p[0]))]
+        strokes = [flat(rdp(svg_path_points(d)), 1000 / 109, 1000 / 109) for _, d in sorted(paths, key=lambda p: int(p[0]))]
         if strokes:
             out[ch] = strokes
         else:
@@ -115,7 +132,7 @@ def hanziwriter(dirpath, chars):
         if not f.exists():
             missing.append(ch); continue
         d = json.loads(f.read_text(encoding='utf-8'))
-        strokes = [flat(resample([tuple(p) for p in m]), 1000 / 1024, 1000 / 1024, off_y=900, flip=True) for m in d.get('medians', [])]
+        strokes = [flat(rdp([tuple(map(float, p)) for p in m], eps=4.0), 1000 / 1024, 1000 / 1024, off_y=900, flip=True) for m in d.get('medians', [])]
         if strokes:
             out[ch] = strokes
         else:
@@ -123,13 +140,13 @@ def hanziwriter(dirpath, chars):
     return out, missing
 
 def save(pid, lang, name, chars, license_, source, missing):
-    pack = {'schema_version': 1, 'package_type': 'ishida-writing', 'package_id': pid, 'language': lang, 'name': name, 'version': '1.0.0',
-            'license': license_, 'source': source, 'format': 'strokes: ordered centerline polylines, flat [x,y,...] 0..1000, y down',
+    pack = {'schema_version': 1, 'package_type': 'ishida-writing', 'package_id': pid, 'language': lang, 'name': name, 'version': '1.1.0',
+            'license': license_, 'source': source, 'format': 'strokes: ordered centerline polylines (shape-preserving simplification, variable point count), flat [x,y,...] 0..1000, y down',
             'missing': ''.join(missing), 'chars': chars}
     text = json.dumps(pack, ensure_ascii=False, separators=(',', ':'))
     (OUT / f'{pid}.json').write_text(text, encoding='utf-8')
     return {'id': pid, 'name': name, 'language': lang, 'region': None, 'role': 'writing', 'kind': 'ishida-writing', 'schema_version': 1,
-            'available': True, 'entry_count': len(chars), 'version': '1.0.0', 'license': license_,
+            'available': True, 'entry_count': len(chars), 'version': '1.1.0', 'license': license_,
             'url': f'https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/{pid}.json',
             'sha256': hashlib.sha256(text.encode('utf-8')).hexdigest(), 'size_bytes': len(text.encode('utf-8'))}
 
