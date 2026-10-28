@@ -18,7 +18,7 @@ from kana_romaji import romaji, to_hira
 
 R = pathlib.Path(__file__).resolve().parents[1]
 V2 = R / 'v2'
-VERSION = '2.1.0'
+VERSION = '2.1.1'
 KANA_ONLY = re.compile(r'^[぀-ヿ〜ー・、。！？\s（）]+$')
 SPOKEN = {26: 'またわ', 53: 'それわだ', 292: 'じつわ', 719: 'ふつうわ', 2375: 'ふつうわ', 2594: 'ふつうわ', 1907: 'こんにちわ'}
 
@@ -39,6 +39,8 @@ if missing:
 
 stats = {'kept': 0, 'excluded': 0, 'pt': 0, 'ja': 0, 'zh': 0}
 en_out, pt_out, ja_out, zh_out = [], [], [], []
+_hsk = R / 'curation' / 'hsk' / 'hsk3-levels.json'
+HSK = json.loads(_hsk.read_text(encoding='utf-8'))['levels'] if _hsk.exists() else {}
 # Mandarin (simplified): curation/editorial/zh/z*.txt — N|hanzi;alternatives|pinyin (tone marks); empty = no equivalent
 ZH = {}
 for f in sorted((R / 'curation/editorial/zh').glob('z*.txt')):
@@ -103,6 +105,9 @@ for e in en['entries']:
     if hz:
         o = old_zh.get(n, {})
         z = {'id': f'zh:{e["id"]}', **base, 'text': hz[0], 'alternatives': hz[1:], 'reading': py, 'romanization': py}
+        lv = HSK.get(hz[0])
+        if lv:
+            z['classifications'] = [{'system': 'HSK', 'level': '7-9' if lv >= 7 else str(lv), 'status': 'reference', 'source': 'complete-hsk-vocabulary (MIT), HSK 3.0'}]
         zh_out.append(z)
         stats['zh'] += 1
 
@@ -112,7 +117,8 @@ NOTE = ('ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivo
 OWN_LICENSE = 'ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).'
 LEVEL_NOTE = ('level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; '
               'JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.')
-THIRD = {'ja': ['JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official.']}
+THIRD = {'ja': ['JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official.'],
+         'zh': ['HSK 3.0 levels (classifications field): complete-hsk-vocabulary by Yanis Zafirópulos, MIT License — approximate, not official.']}
 for p, rows_out in ((en, en_out), (pt, pt_out), (ja, ja_out), (zh, zh_out)):
     p['entries'] = rows_out
     p['version'] = VERSION

@@ -28,7 +28,7 @@ Pacotes `en`, `pt-BR`, `ja`, `zh` passam a 2.1.0, gerados só por `scripts/build
 - **Mantidos**: ids, `english_id`, ordem, `kind`, `part_of_speech`, `level`, `vcu14_rank` (1.062 en/pt-BR; 1.060 ja/zh), `environments`, `vcu14_status`, `lemma` (133 en), leituras/romanização/pinyin (escritas na revisão), `speech` (40 ja).
 - **JLPT** (703 entradas ja, campo `classifications`): vem das listas comunitárias OpenJLPT (CC BY-SA 4.0); a atribuição fica só em `third_party` do pacote ja e no próprio campo. Aproximado, não oficial.
 - **level**: faixa aproximada estilo CEFR (A1–C2), estimada originalmente pela posição da palavra na lista de seleção (lista de frequência); nenhum valor de frequência é distribuído. Isso está declarado em `notes`.
-- **HSK**: o zh antigo não tinha níveis HSK; nada foi apagado. Adicionar HSK exige uma fonte com licença compatível (pendência).
+- **HSK** (2.1.1): níveis HSK 3.0 em 1.583 das 2.515 entradas zh (1: 233, 2: 123, 3: 270, 4: 357, 5: 351, 6: 141, 7-9: 108), pela palavra principal, a partir de `curation/hsk/hsk3-levels.json` (derivado de complete-hsk-vocabulary, MIT; licença copiada ao lado). Referência aproximada, não oficial; entradas sem correspondência ficam sem nível.
 - Romanização japonesa: `scripts/kana_romaji.py` (próprio). Pinyin: escrito na revisão e conferido com pypinyin (apenas QA, não copiado).
 
 ### Diferença de 2 entradas (ja/zh × en/pt-BR)
