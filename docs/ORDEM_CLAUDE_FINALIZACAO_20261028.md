@@ -74,3 +74,11 @@
 - Se a biblioteca tiver controles diferentes para precisão geométrica, direção e sequência, priorizar tolerância geométrica; não desativar a verificação da sequência por acidente.
 - Aplicar também ao Hanzi se usar o mesmo motor; preservar configurações em backups e não comprometer progresso/sessão atual.
 - Incluir testes com dedo e stylus, incluindo traços curtos e caracteres complexos, para evitar aprovação indiscriminada.
+
+## Revisão futura — Velocidade da animação dos traços Kanji/Hanzi (28/10/2026)
+- Teste no celular: o botão **Play/Animate** executa a animação rápida demais (percebida como menos de meio segundo), impedindo observar a sequência dos traços.
+- **Reduzir significativamente a velocidade padrão** para uma demonstração didática legível, com intervalo perceptível entre os traços e animação gradual de cada um.
+- Adicionar em **Settings → Writing Practice → Animation Speed / Velocidade da animação** controle persistente, com pelo menos **Lenta / Normal (padrão) / Rápida**; permitir ajuste imediatamente sem sair do treino.
+- A duração deve considerar o **número de traços** do caractere: não usar uma duração total fixa que comprima caracteres complexos; idealmente duração por traço e pausa breve entre eles.
+- Permitir repetir o Play quantas vezes desejar; não mexer no progresso ou pontuação ao apenas assistir à animação.
+- Aplicar ao Hanzi se compartilhar motor de animação, sem alterar a verificação dos traços.
