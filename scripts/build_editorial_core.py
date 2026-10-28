@@ -2,7 +2,8 @@
 curation/editorial/batches/*.txt, keeping English ids as the semantic pivot.
 
 - English: headword unchanged; description_en = short everyday sense chosen by the review;
-  level / frequency / vcu14_rank / environments preserved from the previous package.
+  level / vcu14_rank / environments / vcu14_status preserved from the previous package; imported frequency
+  data, machine-translated UI strings and old third-party metadata are dropped.
 - pt-BR and ja: translation of THAT sense (same english_id); old entries are not reused.
 - Excluded ids (proper names, letter names, fragments, vague senses, regular inflections) are
   removed from the three packages; ids are never reassigned.
@@ -17,7 +18,7 @@ from kana_romaji import romaji, to_hira
 
 R = pathlib.Path(__file__).resolve().parents[1]
 V2 = R / 'v2'
-VERSION = '2.0.0'
+VERSION = '2.1.0'
 KANA_ONLY = re.compile(r'^[぀-ヿ〜ー・、。！？\s（）]+$')
 SPOKEN = {26: 'またわ', 53: 'それわだ', 292: 'じつわ', 719: 'ふつうわ', 2375: 'ふつうわ', 2594: 'ふつうわ', 1907: 'こんにちわ'}
 
@@ -54,7 +55,7 @@ for e in en['entries']:
         stats['excluded'] += 1
         continue
     stats['kept'] += 1
-    ne = {k: v for k, v in e.items() if k not in ('regional_senses',)}
+    ne = {k: v for k, v in e.items() if k not in ('regional_senses', 'frequency', 'zipf')}
     ne['description_en'] = r['desc']
     ne['part_of_speech'] = r['pos']
     ne['source_status'] = 'editorial-reviewed'
@@ -67,13 +68,11 @@ for e in en['entries']:
         base['vcu14_rank'] = e['vcu14_rank']
     if e.get('environments'):
         base['environments'] = e['environments']
+    if e.get('vcu14_status'):
+        base['vcu14_status'] = e['vcu14_status']
     if r['pt']:
         o = old_pt.get(n, {})
         p = {'id': f'pt-BR:{e["id"]}', **base, 'text': r['pt'][0], 'alternatives': r['pt'][1:]}
-        if o.get('text') == r['pt'][0] and o.get('frequency'):
-            p['frequency'] = o['frequency']
-        elif e.get('frequency'):
-            p['frequency'] = {**e['frequency'], 'source': 'english-pivot'}
         pt_out.append(p)
         stats['pt'] += 1
     if r['ja']:
@@ -96,10 +95,6 @@ for e in en['entries']:
         if o.get('text') == main:
             if o.get('classifications'):
                 j['classifications'] = o['classifications']
-            if o.get('frequency'):
-                j['frequency'] = o['frequency']
-        if 'frequency' not in j and e.get('frequency'):
-            j['frequency'] = {**e['frequency'], 'source': 'english-pivot'}
         ja_out.append(j)
         stats['ja'] += 1
     if n not in ZH:
@@ -108,25 +103,32 @@ for e in en['entries']:
     if hz:
         o = old_zh.get(n, {})
         z = {'id': f'zh:{e["id"]}', **base, 'text': hz[0], 'alternatives': hz[1:], 'reading': py, 'romanization': py}
-        if o.get('text') == hz[0] and o.get('frequency'):
-            z['frequency'] = o['frequency']
-        elif e.get('frequency'):
-            z['frequency'] = {**e['frequency'], 'source': 'english-pivot'}
         zh_out.append(z)
         stats['zh'] += 1
 
-NOTE = ('Editorial review 2.0 (2026-10-27): every English entry reviewed one by one from the pivot; one everyday sense and a '
-        'short explanation per id; pt-BR and ja translated from that sense; vague entries, proper names, letter names, '
-        'fragments and regular inflections removed (ids never reused). Source: curation/editorial/batches.')
+NOTE = ('ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday '
+        'sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. '
+        'Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.')
+OWN_LICENSE = 'ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).'
+LEVEL_NOTE = ('level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; '
+              'JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.')
+THIRD = {'ja': ['JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official.']}
 for p, rows_out in ((en, en_out), (pt, pt_out), (ja, ja_out), (zh, zh_out)):
     p['entries'] = rows_out
     p['version'] = VERSION
     p['status'] = 'editorial-reviewed'
-    p['notes'] = [NOTE] + [x for x in p.get('notes', []) if 'Editorial review' not in x]
+    p['license'] = OWN_LICENSE
+    p['sources'] = ['ISHIDA MULTILANG editorial review 2.0 (English pivot ids)', 'VCU14 everyday-vocabulary ranking and environments (ISHIDA MULTILANG)']
+    p['notes'] = [NOTE, LEVEL_NOTE]
+    tp = THIRD.get(p['language'])
+    if tp:
+        p['third_party'] = tp
+    else:
+        p.pop('third_party', None)
+    for k in ('english_explanations_source', 'frequency_source', 'ui', 'ui_status'):
+        p.pop(k, None)
 
 out = {}
-zh['license'] = 'CC BY-SA 4.0 (ISHIDA MULTILANG editorial; English pivot ids)'
-zh['sources'] = ['ISHIDA editorial review 2.0 (English pivot, one sense per id)']
 for name, p in (('en', en), ('pt-BR', pt), ('ja', ja), ('zh', zh)):
     text = json.dumps(p, ensure_ascii=False, separators=(',', ':'))
     (V2 / f'{name}-core-v2.json').write_text(text, encoding='utf-8')
@@ -138,5 +140,6 @@ for c in cat.get('packages', []):
     if c.get('id') in out:
         sha, count, size = out[c['id']]
         c['sha256'], c['entry_count'], c['version'], c['size_bytes'] = sha, count, VERSION, size
+        c['has_ui'] = False
 cat_path.write_text(json.dumps(cat, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(json.dumps(stats), {k: v[1] for k, v in out.items()})

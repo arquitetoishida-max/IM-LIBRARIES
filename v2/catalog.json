@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "f2426e3234e727364675da4be7ae235b9800dce60c6782bd818fab897a3377ba",
-      "version": "2.0.0",
-      "size_bytes": 767739
+      "sha256": "83b27f5b469de775e30ae9f5d26dc80ec7872ee3d475a49bd8dbe494c460bf6b",
+      "version": "2.1.0",
+      "size_bytes": 656912
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "78b1dad2214a4f5c4fd6abad2d8be1ec0946418842a5aa680c826f0707e1abff",
-      "version": "2.0.0",
-      "size_bytes": 936724
+      "sha256": "f0ea1260825939c028803ca799d85845e8d0c6414ff0451166916098a5ae06a6",
+      "version": "2.1.0",
+      "size_bytes": 862378
     },
     {
       "id": "pt-PT-core-v2",
@@ -87,9 +87,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "e2fa819582b90baf165dcdff7fb382a0bbceb2d97739671b457e0303328e9098",
-      "version": "2.0.0",
-      "size_bytes": 1140692
+      "sha256": "703ce9d3ddf516f85aee630526f0f55f725fbf1f012931867c6d0d94f4733ce4",
+      "version": "2.1.0",
+      "size_bytes": 1064065
     },
     {
       "id": "es-core-v2",
@@ -185,7 +185,7 @@
       "schema_version": 2,
       "available": true,
       "entry_count": 2515,
-      "has_ui": true,
+      "has_ui": false,
       "flag": "🇨🇳",
       "locale": "zh-CN",
       "name_native": "中文（普通话）",
@@ -193,9 +193,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "dd9d5da8121271ba98ea69e4e99c13a6c3e54d383e4e15e539cb401318144761",
-      "version": "2.0.0",
-      "size_bytes": 1072126
+      "sha256": "62c23383275cf9371455cee09cb6e10625036009660660e37570a5a4920d1d41",
+      "version": "2.1.0",
+      "size_bytes": 976395
     },
     {
       "id": "ko-core-v2",
