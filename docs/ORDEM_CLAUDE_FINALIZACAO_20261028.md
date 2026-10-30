@@ -117,3 +117,15 @@
 3. Preservar funcionamento de outros idiomas; se STT nativo não oferecer mandarim, apresentar alternativa segura ou configurar motor STT local/offline compatível como melhoria opcional, avaliando tamanho e licenciamento, sem bloquear a sessão.
 4. Remover o truncamento de feedback e permitir mensagem **integral**, com texto multilinha, contêiner expansível ou rolável e padding suficiente; não cortar meia altura da segunda linha. Garantir boa visualização em celulares menores, fontes maiores e orientação diversa.
 5. Testar com aparelho que tenha e que não tenha STT mandarim disponível, inclusive erro de rede e falta de permissão; manter microfone, feedback, sessões e backup funcionando.
+
+## Próxima revisão — Card deve sempre entrar na direção definida pelas bandeiras (30/10/2026)
+**Relato do proprietário (teste no Android, visto em chinês; provavelmente todos os idiomas):** ao passar para o próximo card, ele às vezes já entra **virado** (mostrando o verso). O card está “lembrando” o lado em que foi deixado.
+
+**Regra pedida:** todo card que entra na tela começa **sempre na frente**, isto é, no idioma que está por cima na ordem das bandeirinhas do topo (ex.: sempre português → outro idioma, ou sempre outro idioma → inglês). O card **não guarda memória** do lado em que foi deixado. Para estudar ao contrário, o usuário usa o botão das bandeiras (inverter direção), que vale para todos os cards seguintes.
+
+**Diagnóstico no código atual (`ISHIDA-MULTILANG/lib/study.dart`):**
+- `navigate()`: grava `faces[pos] = revealed` ao sair do card e, ao chegar, aplica `revealed = faces[pos]` — ao voltar e avançar pelo histórico, o card reaparece virado.
+- Troca de par de idiomas / retomada de sessão (`sessions[...]['faces']`, ~linha 352): restaura `revealed` a partir de `faces[pos]`, então um card pode abrir virado ao reabrir o app.
+- Cards inseridos pela busca (`revealFor(lang)` em `navigation.dart` / `faces.add(... revealFor(...))`): abrem virados quando o termo foi pesquisado no idioma de trás. Isso foi pedido antes (“aberto no lado pesquisado”); decidir na revisão se vale **só no momento da inserção (“Mostrar agora”)** e nunca depois, para não conflitar com a regra acima.
+
+**Correção prevista:** ao exibir qualquer card (avançar, voltar, retomar sessão, trocar idiomas), definir `revealed = false`; deixar de usar `faces` para restaurar o lado (pode continuar existindo só para compatibilidade de backups). Opcional, desligado por padrão: preferência “Lembrar o lado de cada card”. Testar avançar/voltar, retomar após fechar o app, inverter bandeiras no meio da sessão e cards vindos da busca, em pelo menos zh, ja e en.
