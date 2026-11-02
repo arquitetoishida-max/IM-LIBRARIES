@@ -278,3 +278,4 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 | 7 | Automático | Automatic | 自然に出る |
 
 - Uma linha de ajuda curta explicando a escala (ex.: “Marque quanto você lembra desta palavra: 0 = nova … 7 = sai sem pensar”). Manter o uso atual dos graus (6–7 = dominadas nas estatísticas).
+- **Correção do proprietário (14:42):** os **nomes** dos graus aparecem **só na aba Grupos**. Na **aba Cards**, os botões de MEMORIZAÇÃO ficam **só com os números**, em **botões quadrados do mesmo tamanho** dos botões quadrados do cabeçalho (áudio, adicionar a grupo, lupa).
