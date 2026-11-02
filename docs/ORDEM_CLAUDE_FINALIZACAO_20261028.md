@@ -158,3 +158,17 @@ Implementado nesta versão (aguarda teste do proprietário):
 - **Animação Kanji/Hanzi ~3× mais lenta** em todas as velocidades (Normal: ~2,5 s por traço + 0,65 s de pausa; Lenta ~3,6 s; Rápida ~1,3 s).
 
 Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo acima e das versões 0.9.110–0.9.112 (mandarim no microfone, treino de escrita, backup completo, arquivo único de backup); Drive HTTP 403 (enviar o texto de “Detalhes do último erro” se ocorrer); site jurídico (caminho da exclusão de conta “Opções → Legal e privacidade → Excluir conta e dados”, menção a MyMemory e reconhecimento de voz na privacidade, pasta `temp`); tradução revisada da interface em chinês; fila pública Firestore das sugestões (pós-lançamento); applicationId e chave de produção para o Google Play.
+
+## Teste v0.9.113 (02/11/2026) — direção dos cards e seta das bandeiras: NÃO resolvido
+**Relato do proprietário:** os cards continuam entrando **invertidos**, mostrando primeiro o idioma alvo em vez do nativo. A prioridade deve **sempre seguir a ordem das bandeiras** no topo. Além disso, o topo mostra uma **seta do idioma alvo apontando de volta para o nativo**, o que não faz sentido para quem fala o nativo e aprende o alvo.
+
+**Diagnóstico no código (`ISHIDA-MULTILANG/lib/main.dart`):**
+- O topo desenha sempre `bandeira nativa`, depois a seta, depois `bandeira alvo`; quando `reversed = true` a seta vira `arrow_back` (← ). Ou seja, as bandeiras **não mudam de lugar** ao inverter; só a seta muda. A frente do card segue `srcL` (`reversed ? studyL : nativeL`), então com `reversed = true` o card abre no idioma alvo enquanto a bandeira nativa continua à esquerda — exatamente o que o usuário viu.
+- `reversed` é persistido e pode ter sido ligado pelo botão ⇄ do cabeçalho do card ou pelo interruptor “Inverter direção” na janela Idiomas; a correção da v0.9.113 (`revealed = false`) só garante a frente do card, não a direção.
+
+**Correção pedida:**
+1. O topo mostra as bandeiras **na ordem real de estudo**: à esquerda o idioma da frente do card (`srcL`), à direita o do verso (`tgtL`), sempre com seta **→** (da esquerda para a direita). Inverter a direção **troca as bandeiras de lugar**, sem seta para trás.
+2. A frente de todo card = bandeira da esquerda. Sem exceções ao avançar, voltar, retomar sessão ou trocar idiomas.
+3. Revisar todos os lugares que mostram a direção (cabeçalho do card ⇄, janela Idiomas “Inverter direção dos cards”, linha “Idiomas de estudo” em Opções) para usarem a mesma representação `frente → verso`.
+4. Avaliar se a direção padrão ao escolher um novo par deve ser **nativo → alvo** (reversed = false) e se a inversão deve ser lembrada por par de idiomas; não deixar um estado invertido antigo “escondido”.
+5. Testar: abrir o app, avançar/voltar cards, inverter pelas bandeiras, inverter pelo botão do card, trocar idioma de estudo, fechar e reabrir — em zh, ja e en.
