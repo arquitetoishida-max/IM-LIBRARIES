@@ -357,3 +357,12 @@ Pendente: frases faladas — já implementadas na v0.9.113, aguardam teste; tipo
    - **Campo “Pesquisar grupos”** mais alto que os botões: mesma altura (40) e mesmos cantos.
    - **Linhas dos grupos** apertadas na vertical e com textos quebrando (“• 2 / blocos”): espaçamento uniforme entre itens, subtítulo numa linha (abreviar), alinhamento consistente do checkbox, ícone de divisão e menu ⋮.
    - Verificar também com zoom > 100% (o print parece estar com zoom maior): nada deve quebrar palavra no meio nem empurrar elementos.
+13. **Tela de Cards no tema escuro (print `docs/ref/v0.9.118-cards-escuro.jpg`):**
+   - **Botão ⇄ das bandeiras:** a bandeira da China aparece cortada (só um pedaço vermelho embaixo) — retângulo estreito/altura insuficiente para o emoji com zoom. Ajustar ao conteúdo (item 2), bandeiras centralizadas verticalmente.
+   - **Contraste dos ícones no escuro:** áudio, pasta, lupa, (i) e pincel aparecem em verde-escuro quase invisível sobre fundo escuro. No tema escuro a **cor de destaque precisa de uma variante clara** (ex.: tom claro do mesmo matiz, contraste ≥ 4,5:1 com o fundo) usada em ícones, bordas do card e botão selecionado. Grau **selecionado** (ex.: 6) hoje quase não se distingue dos demais.
+   - **Desalinhamentos no rodapé:**
+     - **GRAVAR** solto à direita, sem alinhamento com nada; a mensagem de retorno fica à esquerda vazia. Alinhar GRAVAR com a grade de memorização (mesma largura/coluna) ou centralizar a linha.
+     - **Rótulo MEMORIZAÇÃO e grade 0–7** alinhados à direita, mas a grade não tem a largura de “Próxima” (item 8); os botões **ocultar** e **pasta** à esquerda estão na altura da 2ª linha da grade, sem relação visual. Organizar em colunas: à esquerda (largura de “Anterior”) ocultar/pasta centralizados verticalmente no bloco; à direita (largura de “Próxima”) grade 4×2 de quadrados ocupando exatamente essa largura.
+     - **Anterior/Próxima:** seta de “Anterior” é um ‹ pequeno e deslocado para cima, “Próxima” usa →. Mesmo ícone (‹ ›) ou mesma seta (← →), mesmo tamanho e baseline (item 9).
+   - **Cores dos botões no escuro:** “Próxima” e “GRAVAR” em verde-claro com texto escuro destoam do resto; usar o mesmo esquema de botão preenchido (destaque + texto contrastante) em todo o app.
+   - Revisar todo o app no **tema escuro** com esses critérios (contraste, ícones visíveis, estados ligado/desligado claros).
