@@ -194,3 +194,11 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 - **Onde verificar (`ISHIDA-MULTILANG/lib/account.dart`, `languageStats()`):** hoje o idioma de cada nota é deduzido da chave `id:origem:destino` (`lang = src == nativeLang ? tgt : (tgt == nativeLang ? src : tgt)`), e `viewed` também é contado por idioma; há tratamento especial `s.lang.code == nativeLang` para “disponíveis”. Com cards invertidos (alvo → nativo) ou trocas de nativo, o nativo pode acabar listado como idioma estudado.
 - **Correção prevista:** contar um idioma como estudado somente quando ele foi o **idioma de estudo** (`studyLang`) da sessão/nota — independentemente da direção do card (normal ou invertida, o idioma estudado é o alvo do par). O nativo atual só aparece se houver notas/vistos registrados com ele como `studyLang` em algum par anterior. Revisar também outros lugares que listam idiomas estudados (janela Idiomas, página da biblioteca, backup/estatísticas de escrita).
 - Testar: estudar pt→zh normal e invertido (nativo não aparece), depois escolher pt como alvo de outro nativo e praticar (pt aparece com os dados dessa prática).
+
+### Treino de escrita: barras deslizantes para velocidade e tolerância (02/11/2026, 14:12)
+- **Velocidade da animação:** o proprietário pede animação **3 a 6 vezes mais lenta** (referência: versão anterior à v0.9.113). Na v0.9.113 já entrou ~3× (Normal ≈ 2,5 s por traço + 0,65 s de pausa); confirmar no teste e ampliar a faixa para chegar a ~6×.
+- **Trocar os 3 estados por barras deslizantes** (Opções → Treino de escrita e ajustes dentro do treino):
+  - **Velocidade:** slider contínuo, do mais lento (~6× a referência antiga: ≈ 5 s por traço) ao mais rápido (~1,3 s por traço), padrão no meio-lento (~3×); pausa entre traços proporcional. Mostrar o valor (ex.: “2,5 s por traço”).
+  - **Tolerância:** slider contínuo de Estrita a Flexível (leniência ≈ 1,0 a 2,0), padrão ≈ 1,35; ordem e direção continuam sempre conferidas.
+  - Migrar os valores salvos dos 3 estados para o slider (strict/normal/flexible e slow/normal/fast → posições equivalentes); persistir no perfil e no backup; efeito imediato no treino.
+- Aplicar a japonês e chinês. Testes unitários: limites do slider, migração dos valores antigos, duração por traço crescente com o comprimento.
