@@ -287,3 +287,4 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 - Pode **reduzir um pouco a barra superior** (cabeçalho do app).
 - **Remover o ícone de engrenagem** da barra superior: Opções já está na barra de navegação inferior.
 - Testar em telas pequenas (≈ 5") e grandes, com e sem os botões Anterior/Próxima, modo canhoto, e com a faixa de frase/chamada cultural visível.
+- **Ícones dentro do card (14:44):** o **pincel** do treino de escrita (kanji, hanzi e, no futuro, hangul) um pouco maior (hoje 22 → ~28 px); o botão **(i) de informações** ~20% maior (hoje 20 → 24 px). Manter alvos de toque confortáveis e sem invadir o texto do card.
