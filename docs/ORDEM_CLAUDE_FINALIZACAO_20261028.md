@@ -279,3 +279,11 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 
 - Uma linha de ajuda curta explicando a escala (ex.: “Marque quanto você lembra desta palavra: 0 = nova … 7 = sai sem pensar”). Manter o uso atual dos graus (6–7 = dominadas nas estatísticas).
 - **Correção do proprietário (14:42):** os **nomes** dos graus aparecem **só na aba Grupos**. Na **aba Cards**, os botões de MEMORIZAÇÃO ficam **só com os números**, em **botões quadrados do mesmo tamanho** dos botões quadrados do cabeçalho (áudio, adicionar a grupo, lupa).
+
+### Tela de Cards: alturas, espaços e cabeçalho (02/11/2026, 14:43)
+- **Padronizar a altura** de todos os botões da região do rodapé dos Cards (memorização 0–7, ocultar/adicionar a grupos, gravar, Anterior/Próxima, Parar/Segure para dica). Pode **aumentar o espaço entre eles** para evitar toque errado.
+- **Tudo continua cabendo na tela** (nada pode sair para fora/rolar). Se faltar espaço, **reduzir um pouco a área do card**.
+- Dar **respiro acima e abaixo da linha de botões quadrados** do cabeçalho do card (bandeiras ⇄ + áudio + adicionar a grupo + lupa).
+- Pode **reduzir um pouco a barra superior** (cabeçalho do app).
+- **Remover o ícone de engrenagem** da barra superior: Opções já está na barra de navegação inferior.
+- Testar em telas pequenas (≈ 5") e grandes, com e sem os botões Anterior/Próxima, modo canhoto, e com a faixa de frase/chamada cultural visível.
