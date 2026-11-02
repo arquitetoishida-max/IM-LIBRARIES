@@ -300,3 +300,7 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 1. **Primeiro Grupos e Cards** — telas com menos espaço sobrando, onde margens, botões e funções precisam funcionar juntos. É nelas que se definem os padrões (escala de fontes, espaçamentos, altura de botões, raio, divisórias, preenchimento).
 2. **Depois aplicar os mesmos padrões a Perfil e Opções** (e, na sequência, às subpáginas: Idiomas, Conta/backup, Legal, Treino de escrita, busca, diálogos).
 - Fazer uma revisão geral do APK com esses padrões; nada de estilos soltos por tela.
+
+### Aprovações e troca de ícone (02/11/2026, 14:49)
+- **Aprovado:** na aba Opções, separar os itens com **linhas horizontais** entre eles (v0.9.113) está correto — manter.
+- **Ícone do botão de áudio do card:** usar o **mesmo ícone de “Vozes” da aba Opções** (`Icons.record_voice_over`, cabeça de perfil falando) **em vez do desenho da referência** enviada antes (`docs/ref/icone-voz-referencia.png` fica só como inspiração). Ligado: cor normal do tema; desligado: **cinza** (pode usar `Icons.voice_over_off` em cinza, nunca vermelho). Botão quadrado do mesmo tamanho da lupa.
