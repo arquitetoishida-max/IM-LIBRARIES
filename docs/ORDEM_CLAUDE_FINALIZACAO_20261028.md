@@ -304,3 +304,12 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 ### Aprovações e troca de ícone (02/11/2026, 14:49)
 - **Aprovado:** na aba Opções, separar os itens com **linhas horizontais** entre eles (v0.9.113) está correto — manter.
 - **Ícone do botão de áudio do card:** usar o **mesmo ícone de “Vozes” da aba Opções** (`Icons.record_voice_over`, cabeça de perfil falando) **em vez do desenho da referência** enviada antes (`docs/ref/icone-voz-referencia.png` fica só como inspiração). Ligado: cor normal do tema; desligado: **cinza** (pode usar `Icons.voice_over_off` em cinza, nunca vermelho). Botão quadrado do mesmo tamanho da lupa.
+
+## Próxima revisão — Fontes para chinês e japonês (cards e treino de escrita) (02/11/2026, 15:01)
+- **Pedido:** letras chinesas e japonesas mais bonitas **nos cards e no treino de escrita** (ambos). No treino: a fonte vira a sombra-guia e o caractere final; a animação **revela a fonte traço a traço** usando as centerlines dos pacotes como máscara; o reconhecimento continua pelas centerlines. Fontes embutidas como **subconjunto** só dos caracteres dos dicionários (≈ 1 MB por fonte), ou como pacote baixável. **Opção nas Configurações de tema** para escolher a fonte de cada idioma (com prévia).
+- **Licenças das sugestões do proprietário** (sites japanesefonts.org / chinesefonts.org são agregadores que **não informam licença**; os direitos são das fundições):
+  - FZKai-Z03 (方正楷体, FounderType) — **comercial**; não pode ser embutida sem licença paga.
+  - A-OTF Folk Pro H, A-OTF Kanteiryu Std Ultra (Morisawa), G-OTF Antique Std AN B, FOT-Matisse Pro M (Fontworks) — **comerciais**; idem.
+  - Gen Jyuu Gothic (源柔ゴシック, derivada de Source Han Sans) — **livre (SIL OFL)**, uso comercial permitido; estilo gótico arredondado (sem pincel). Pode ser opção “moderna/legível”.
+  - 青柳隷書しも (autor SIMO, caligrafia de 青柳衡山) — **gratuita**; conferir no arquivo original os termos de redistribuição dentro de app antes de usar; estilo reisho (clerical, pincel pesado); cobre japonês (JIS 1º e 2º níveis), **não cobre todo o chinês simplificado**.
+- **Alternativas livres (OFL) com visual parecido aos estilos pedidos:** chinês kai (≈ FZKai): **LXGW WenKai 霞鹜文楷**; japonês escolar/pincel leve: **Klee One**, **Yuji Syuku / Yuji Boku** (pincel), **Kaisei Tokumin/Decol**; chinês pincel: **Ma Shan Zheng**, **Zhi Mang Xing**. Aguardando escolha do proprietário (pode haver mais de uma opção no app).
