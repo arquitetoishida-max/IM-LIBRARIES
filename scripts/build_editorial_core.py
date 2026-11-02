@@ -134,18 +134,38 @@ for p, rows_out in ((en, en_out), (pt, pt_out), (ja, ja_out), (zh, zh_out)):
     for k in ('english_explanations_source', 'frequency_source', 'ui', 'ui_status'):
         p.pop(k, None)
 
+# Edits made in the ISHIDA LEXICON ENGINE (curation/lexicon/<package>.overrides.json) win over the batch files,
+# so rebuilding never loses them. A value of null removes the field. The published version is kept when higher.
+for name, p in (('en', en), ('pt-BR', pt), ('ja', ja), ('zh', zh)):
+    ovf = R / 'curation' / 'lexicon' / f'{name}-core-v2.overrides.json'
+    if not ovf.exists():
+        continue
+    ov = json.loads(ovf.read_text(encoding='utf-8'))
+    byid = {e['id']: e for e in p['entries']}
+    for eid, fields in ov.get('overrides', {}).items():
+        e = byid.get(eid)
+        if e is None:
+            continue
+        for k, v in fields.items():
+            if v is None:
+                e.pop(k, None)
+            else:
+                e[k] = v
+    if tuple(int(x) for x in str(ov.get('version', '0')).split('.') if x.isdigit()) > tuple(int(x) for x in str(p['version']).split('.') if x.isdigit()):
+        p['version'] = ov['version']
+
 out = {}
 for name, p in (('en', en), ('pt-BR', pt), ('ja', ja), ('zh', zh)):
     text = json.dumps(p, ensure_ascii=False, separators=(',', ':'))
     (V2 / f'{name}-core-v2.json').write_text(text, encoding='utf-8')
-    out[f'{name}-core-v2'] = (hashlib.sha256(text.encode('utf-8')).hexdigest(), len(p['entries']), len(text.encode('utf-8')))
+    out[f'{name}-core-v2'] = (hashlib.sha256(text.encode('utf-8')).hexdigest(), len(p['entries']), len(text.encode('utf-8')), p['version'])
 
 cat_path = V2 / 'catalog.json'
 cat = json.loads(cat_path.read_text(encoding='utf-8'))
 for c in cat.get('packages', []):
     if c.get('id') in out:
-        sha, count, size = out[c['id']]
-        c['sha256'], c['entry_count'], c['version'], c['size_bytes'] = sha, count, VERSION, size
+        sha, count, size, ver = out[c['id']]
+        c['sha256'], c['entry_count'], c['version'], c['size_bytes'] = sha, count, ver, size
         c['has_ui'] = False
 cat_path.write_text(json.dumps(cat, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 print(json.dumps(stats), {k: v[1] for k, v in out.items()})
