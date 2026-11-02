@@ -172,3 +172,8 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 3. Revisar todos os lugares que mostram a direção (cabeçalho do card ⇄, janela Idiomas “Inverter direção dos cards”, linha “Idiomas de estudo” em Opções) para usarem a mesma representação `frente → verso`.
 4. Avaliar se a direção padrão ao escolher um novo par deve ser **nativo → alvo** (reversed = false) e se a inversão deve ser lembrada por par de idiomas; não deixar um estado invertido antigo “escondido”.
 5. Testar: abrir o app, avançar/voltar cards, inverter pelas bandeiras, inverter pelo botão do card, trocar idioma de estudo, fechar e reabrir — em zh, ja e en.
+
+### Complemento do proprietário (02/11/2026, 14:00)
+- Regra confirmada: bandeira do **nativo à esquerda**, **alvo à direita**, seta **→ apontando para o alvo**. A leitura automática (voz) é sempre do idioma alvo — está correta. Os cards **pararam de girar com o histórico** (correção da v0.9.113 aprovada).
+- Logo depois, o proprietário relatou que “agora está funcionando certo” na v0.9.113 (provavelmente após desfazer a inversão salva). Manter a regra acima como referência para testes.
+- Já enviado (commit `ee5c8e0`, v0.9.114 em compilação): o topo passa a mostrar as bandeiras na ordem real `frente → verso` (sem seta para trás; inverter troca as bandeiras de lugar); a inversão salva é zerada uma vez na atualização; trocar o par de idiomas volta para nativo → alvo. Com a direção normal, o topo fica idêntico ao descrito pelo proprietário.
