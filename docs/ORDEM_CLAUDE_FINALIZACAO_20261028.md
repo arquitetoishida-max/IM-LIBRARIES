@@ -244,3 +244,8 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 - Na tela inicial sem histórico (ex.: Grupos), o “voltar” não faz nada (ou mostra um aviso discreto “Use o botão de início ou de apps recentes para sair”), em vez de fechar. Sair do app continua possível pelo botão **início (meio)** ou **apps recentes (quadrado)** do Android.
 - Implementar com `PopScope(canPop: false, onPopInvokedWithResult: …)` na raiz + pilha de abas visitadas; manter funcionando o gesto de voltar das bordas (Android 10+) e o “predictive back” se ativo. Não perder sessão nem dados em nenhum caso (salvar estado ao ir para segundo plano já existe).
 - Testar: voltar a partir de cada aba, de subpáginas, do treino de escrita, da busca, de diálogos e folhas; durante sessão de Cards.
+
+### Complementos da padronização visual (02/11/2026, 14:33)
+- **Caixas dos idiomas** (cards de “Seus idiomas” no perfil e listas semelhantes): estão bonitas, mas com **espaço interno sobrando em cima (e embaixo)**. Reduzir um pouco o padding vertical interno na normalização; o **espaço entre as caixas** pode ficar como está.
+- **Referência aprovada de cor de caixa sem contorno:** a diferença caixa × fundo usada nas caixas dos idiomas estudados (um pouco mais clara que o fundo, em tema claro ou escuro) está ótima — usar como base para botões, campos e caixas sem moldura.
+- **Tema branco:** o preenchimento atual sai **amarelado** (cor estranha). Deve ser **tom sobre tom do próprio tema**: cinza bem claro, ou o fundo um pouco mais claro/escuro. Se for preciso matiz, usar **o matiz do tema** (ex.: derivado da cor de destaque ou do fundo), nunca uma cor alheia ao tema. Aplicar a mesma regra aos temas personalizados.
