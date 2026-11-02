@@ -142,3 +142,10 @@
 6. **Configurações (Opções → Frases durante a lição):** ligar/desligar, mínimo e máximo de cards, nível (automático/1/2/3), voz preferida, mostrar tradução automaticamente ou só ao tocar. Persistir no perfil e no backup.
 7. **Integração:** reaproveitar a faixa das chamadas culturais (`lib/community.dart`, `culturalStrip`) ou unificar as duas num mesmo espaço no topo, sem empilhar faixas. Não mexer em progresso, pontuação nem ordem dos cards.
 8. **Testes:** intervalo aleatório dentro dos limites (teste unitário), não repetir frase recente, não tocar durante gravação, replay/tradução, idiomas com e sem clipes, e funcionamento offline.
+
+## Nota de teste — Hanzi: velocidade da animação (02/11/2026)
+- Usuário testou o treinador **Hanzi (chinês)** e constatou que a animação Play está **aproximadamente 3 vezes mais rápida do que gostaria**.
+- **Ação pendente, não executar nesta anotação:** reduzir a velocidade padrão de animação do Hanzi para **1/3 da atual** (duração de cada traço ~3x maior), com pausa perceptível entre traços. Não confundir velocidade com atraso inicial.
+- Integrar com a tarefa anterior de configuração persistente **Settings → Writing Practice → Animation Speed** (Lenta / Normal / Rápida), aplicável a Kanji e Hanzi; preservar ordem dos traços e controles do treino.
+- Validar visualmente com caracteres simples e complexos, mantendo duração por traço e sem afetar pontuação.
+- Esta nota **soma-se às demais correções pendentes do treinador**: tolerância configurável, melhoria visual dos traços para japonês e chinês, ajuste da animação do Kanji, e às outras pendências no documento. **Não marcar nenhuma como concluída sem testar.**
