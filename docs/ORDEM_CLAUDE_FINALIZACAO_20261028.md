@@ -348,3 +348,12 @@ Pendente: frases faladas — já implementadas na v0.9.113, aguardam teste; tipo
    - **Nomes dos graus:** retirar a descrição de dentro dos botões **ou**, se mantida, os botões devem ocupar **toda a largura da tela** (4 por linha, larguras iguais) com fonte **condensada** (tipo Arial Narrow / Roboto Condensed, licença livre) e nomes reescritos para caber **sem reticências**. Sem texto cortado em hipótese alguma.
    - **Na tela de Cards:** apenas os números (sem nomes), como já pedido.
    - **Decisão (16:39):** manter os nomes, mas **melhorar o visual** (está feio). Primeiro **alargar os botões** para ocupar a largura da tela (4 por linha, iguais); **evitar fonte condensada**; só se ainda não couber, usar **fonte um pouco menor** dentro do botão. Nenhum nome cortado.
+12. **Topo da aba Grupos está feio (print `docs/ref/v0.9.118-grupos-topo.jpg`).** Problemas vistos:
+   - **Abas** quebrando palavra no meio (“Proficiênc / ia”, “GS — / Grupos”): usar “Níveis” e “Grupos salvos” (item 4), texto em **uma linha** com tamanho que caiba (ajuste automático/FittedBox), mesma altura das outras.
+   - **Linha do curso** (🇧🇷 Port. (Brasileiro) → 🇨🇳 Mandarim • 2515 itens no curso): quebra em 2 linhas e o sublinhado atravessa as bandeiras. Encurtar (ex.: “🇧🇷 → 🇨🇳 Mandarim · 2515 itens”), sem sublinhado nas bandeiras, numa linha, com o ícone (i) alinhado.
+   - **Botão “INICIAR CARDS ALEATÓRIOS (20)”** em duas linhas e muito alto: texto mais curto (ex.: “Iniciar cards (20)”), uma linha, altura padrão de botão (40); botão da **lupa quadrado** do mesmo tamanho e alinhado.
+   - **“Retomar sessão”**: botão cinza enorme de largura total; deve seguir o padrão (mesma altura, estilo contorno/preenchimento do tema), pode ficar ao lado do botão iniciar ou menor.
+   - **Título “GRUPOS DE ESTUDO”** grande demais para a tela; reduzir para o tamanho de título da escala.
+   - **Campo “Pesquisar grupos”** mais alto que os botões: mesma altura (40) e mesmos cantos.
+   - **Linhas dos grupos** apertadas na vertical e com textos quebrando (“• 2 / blocos”): espaçamento uniforme entre itens, subtítulo numa linha (abreviar), alinhamento consistente do checkbox, ícone de divisão e menu ⋮.
+   - Verificar também com zoom > 100% (o print parece estar com zoom maior): nada deve quebrar palavra no meio nem empurrar elementos.
