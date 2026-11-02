@@ -295,3 +295,8 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 
 ### Aba Perfil: padronizar textos (02/11/2026, 14:47)
 - Na aba **Perfil** (`lib/account.dart`: `profilePage`, `accountSection`, cards de idiomas, backup, conta) cada trecho usa um tamanho de fonte diferente (11, 12, 13, 14, 16, 17, 20, 22…). Aplicar a **escala tipográfica única** da padronização geral: título da página, título de seção, texto normal, texto secundário/legenda e números de destaque — no máximo 4–5 tamanhos no app inteiro, com pesos coerentes. Mesmos espaçamentos entre seções e mesmas divisórias do restante do app.
+
+### Ordem da padronização visual (02/11/2026, 14:48)
+1. **Primeiro Grupos e Cards** — telas com menos espaço sobrando, onde margens, botões e funções precisam funcionar juntos. É nelas que se definem os padrões (escala de fontes, espaçamentos, altura de botões, raio, divisórias, preenchimento).
+2. **Depois aplicar os mesmos padrões a Perfil e Opções** (e, na sequência, às subpáginas: Idiomas, Conta/backup, Legal, Treino de escrita, busca, diálogos).
+- Fazer uma revisão geral do APK com esses padrões; nada de estilos soltos por tela.
