@@ -261,3 +261,20 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 5. **Dica dentro de Grupos salvos** (aparece ao abrir a aba; pode ser recolhida), texto revisado:
    > *Estude em pequenos blocos: pratique um grupo pequeno de palavras até aprender e salve-o. Depois acrescente palavras novas e crie outro grupo pequeno, avançando aos poucos. De vez em quando, volte aos grupos antigos para revisar.*
 6. Testar em zh (HSK), ja (JLPT), en/pt (CEFR) e um idioma sem níveis; cada aba mostrando o rótulo certo no cabeçalho do card.
+
+### Graus de memorização com nome (02/11/2026, 14:41)
+- Os graus 0–7 hoje são só números; colocar **o nome de cada grau dentro do próprio botão** (número em cima, nome curto embaixo), mesmo que os botões fiquem maiores — todos com o **mesmo tamanho fixo** (regra da revisão de layout). Vale na tela de Grupos (filtro) e nos botões MEMORIZAÇÃO do card (no card, se faltar espaço, nome abreviado ou visível ao tocar e segurar).
+- Proposta de nomes (revisar com o proprietário):
+
+| Grau | pt-BR | en | ja |
+|---|---|---|---|
+| 0 | Nova | New | 新しい |
+| 1 | Vista | Seen | 見た |
+| 2 | Com dica | With hint | ヒントで |
+| 3 | Reconheço | Recognize | わかる |
+| 4 | Lembro com esforço | Recall (effort) | 思い出せる |
+| 5 | Lembro | Recall | 覚えた |
+| 6 | Domino | Mastered | 身についた |
+| 7 | Automático | Automatic | 自然に出る |
+
+- Uma linha de ajuda curta explicando a escala (ex.: “Marque quanto você lembra desta palavra: 0 = nova … 7 = sai sem pensar”). Manter o uso atual dos graus (6–7 = dominadas nas estatísticas).
