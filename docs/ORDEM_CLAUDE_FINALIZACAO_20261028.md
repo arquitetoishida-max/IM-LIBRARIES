@@ -288,3 +288,7 @@ Ainda pendente (depende de teste ou do proprietário): teste no aparelho de tudo
 - **Remover o ícone de engrenagem** da barra superior: Opções já está na barra de navegação inferior.
 - Testar em telas pequenas (≈ 5") e grandes, com e sem os botões Anterior/Próxima, modo canhoto, e com a faixa de frase/chamada cultural visível.
 - **Ícones dentro do card (14:44):** o **pincel** do treino de escrita (kanji, hanzi e, no futuro, hangul) um pouco maior (hoje 22 → ~28 px); o botão **(i) de informações** ~20% maior (hoje 20 → 24 px). Manter alvos de toque confortáveis e sem invadir o texto do card.
+
+### Barra de navegação inferior (02/11/2026, 14:46)
+- **Espaço entre ícone e texto** de cada destino (Grupos, Cards, Perfil, Opções — `NavigationBar` em `lib/main.dart`, altura 68): **reduzir em ~60% da altura de uma letra minúscula** (x-height) do texto da barra. Manter como está o espaço **acima do ícone**, **abaixo do texto** e o espaçamento horizontal. (Ajustar via `NavigationBarThemeData`/`labelPadding` ou destino personalizado; conferir que a barra não cresce.)
+- **Ícone de Cards** (`Icons.style`, leque de cartas): **inverter o leque** para ficar **aberto para cima**, como um baralho na mão (cartas abrindo em leque para o alto), e não como está hoje. Usar o ícone espelhado verticalmente (`Transform.flip(flipY: true)`) se ficar bom, ou desenhar um ícone próprio no mesmo estilo dos demais.
