@@ -38,6 +38,9 @@ def merge(base, delta):
         if eid in by_id:
             cur = by_id[eid]
             for k in IDENTITY:
+                # reclassifying an inflection as a form of an existing lemma keeps the id (and the grades)
+                if k == 'kind' and d.get(k) == 'form' and d.get('lemma_id') in by_id and d.get('lemma_id') != eid:
+                    continue
                 if k in d and d[k] != cur.get(k):
                     errors.append('%s: %s changed (%r → %r); use a new id + alias' % (eid, k, cur.get(k), d[k]))
             cur.update({k: v for k, v in d.items() if k not in ('approved_new',)})
