@@ -77,7 +77,7 @@ def bump(version, round_id):
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument('--lang', required=True)
-    ap.add_argument('--delta', required=True)
+    ap.add_argument('--delta', required=True, action='append', help='repeatable: applied in order')
     ap.add_argument('--lexicon', required=True, help='LEXICON checkout (unit validators)')
     ap.add_argument('--base', help='active package (default v2/<lang>-core-v2.json)')
     ap.add_argument('--out', default=os.path.join(ROOT, 'candidates'))
@@ -88,12 +88,21 @@ def main(argv=None):
     base_path = a.base or os.path.join(ROOT, 'v2', '%s-core-v2.json' % a.lang)
     raw = open(base_path, 'rb').read()
     base = json.loads(raw.decode('utf-8'))
-    delta = json.load(open(a.delta, encoding='utf-8'))
-    if delta.get('language') != base['language']:
-        raise SystemExit('delta language %r != %r' % (delta.get('language'), base['language']))
-    if delta.get('publication_status') == 'test-only' or delta.get('fixture'):
-        raise SystemExit('refusing a test-only fixture as candidate content')
-    cand, gate_errors, report = merge(base, delta)
+    cand, gate_errors, report, rounds = base, [], {}, []
+    for path in a.delta:
+        delta = json.load(open(path, encoding='utf-8'))
+        if delta.get('language') != base['language']:
+            raise SystemExit('delta language %r != %r' % (delta.get('language'), base['language']))
+        if delta.get('publication_status') == 'test-only' or delta.get('fixture'):
+            raise SystemExit('refusing a test-only fixture as candidate content')
+        cand, errs, rep = merge(cand, delta)
+        gate_errors += errs
+        report[delta.get('round_id') or path] = rep
+        rounds.append(delta.get('round_id') or 'x')
+    missing = [e['id'] for e in base['entries'] if e['id'] not in {x['id'] for x in cand['entries']}]
+    if missing:
+        gate_errors.append('ids lost vs active package: %s' % missing[:10])
+    delta = {'round_id': '.'.join(rounds)}
     cand['version'] = bump(base.get('version'), delta.get('round_id'))
     cand['status'] = 'candidate'
     unit_errors, unit_warnings, counts = validate(cand)

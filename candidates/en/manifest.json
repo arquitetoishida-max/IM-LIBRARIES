@@ -1,8 +1,8 @@
 {
  "package_id": "en-core-v2",
- "candidate_version": "2.2.0-candidate.EN-003",
- "round_id": "EN-003",
- "created": "2026-11-04T21:33:19Z",
+ "candidate_version": "2.2.0-candidate.EN-003.R137",
+ "round_id": "EN-003.R137",
+ "created": "2026-11-05T11:13:31Z",
  "publication": "not-published (needs owner authorization; catalog untouched)",
  "base": {
   "path": "v2/en-core-v2.json",
@@ -11,21 +11,29 @@
   "size_bytes": 656912
  },
  "candidate": {
-  "file": "en-core-v2-2.2.0-candidate.EN-003.json",
-  "sha256": "3d53731bc925ba0119024c5768e232e1ca1742a5b82acab7a260d278f3897913",
-  "size_bytes": 697878
+  "file": "en-core-v2-2.2.0-candidate.EN-003.R137.json",
+  "sha256": "d03903f7140fc93fad5426dc48f8b4109ec054f6ce7585c9b07fbd11c4d4094b",
+  "size_bytes": 714337
  },
  "rollback": "keep the base file/sha above in the catalog entry; promotion replaces url/sha/version only",
  "report": {
-  "base_entries": 2517,
-  "candidate_entries": 2517,
-  "patched": 610,
-  "added": 0
+  "EN-003": {
+   "base_entries": 2517,
+   "candidate_entries": 2517,
+   "patched": 610,
+   "added": 0
+  },
+  "R137": {
+   "base_entries": 2517,
+   "candidate_entries": 2532,
+   "patched": 101,
+   "added": 15
+  }
  },
  "counts": {
-  "lemmas": 2278,
-  "expressions": 68,
-  "forms": 171,
+  "lemmas": 2277,
+  "expressions": 69,
+  "forms": 188,
   "constructions": 0,
   "grammar_units": 0
  },
