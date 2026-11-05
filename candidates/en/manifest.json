@@ -1,8 +1,8 @@
 {
  "package_id": "en-core-v2",
- "candidate_version": "2.2.0-candidate.EN-003.R137",
- "round_id": "EN-003.R137",
- "created": "2026-11-05T11:13:31Z",
+ "candidate_version": "2.2.0-candidate.EN-003.R137.HINTS",
+ "round_id": "EN-003.R137.HINTS",
+ "created": "2026-11-05T11:46:15Z",
  "publication": "not-published (needs owner authorization; catalog untouched)",
  "base": {
   "path": "v2/en-core-v2.json",
@@ -11,9 +11,9 @@
   "size_bytes": 656912
  },
  "candidate": {
-  "file": "en-core-v2-2.2.0-candidate.EN-003.R137.json",
-  "sha256": "d03903f7140fc93fad5426dc48f8b4109ec054f6ce7585c9b07fbd11c4d4094b",
-  "size_bytes": 714337
+  "file": "en-core-v2-2.2.0-candidate.EN-003.R137.HINTS.json",
+  "sha256": "ed197a483b43df9b49a95be16cdfcedeb29a79571585cd89eaead424e36f9e03",
+  "size_bytes": 731634
  },
  "rollback": "keep the base file/sha above in the catalog entry; promotion replaces url/sha/version only",
  "report": {
@@ -28,6 +28,12 @@
    "candidate_entries": 2532,
    "patched": 101,
    "added": 15
+  },
+  "HINTS": {
+   "base_entries": 2532,
+   "candidate_entries": 2532,
+   "patched": 384,
+   "added": 0
   }
  },
  "counts": {

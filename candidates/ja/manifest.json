@@ -1,8 +1,8 @@
 {
  "package_id": "ja-core-v2",
- "candidate_version": "2.2.0-candidate.JA-001.R137.JA-UNITS",
- "round_id": "JA-001.R137.JA-UNITS",
- "created": "2026-11-05T11:13:31Z",
+ "candidate_version": "2.2.0-candidate.JA-001.R137.JA-UNITS.HINTS",
+ "round_id": "JA-001.R137.JA-UNITS.HINTS",
+ "created": "2026-11-05T11:46:15Z",
  "publication": "not-published (needs owner authorization; catalog untouched)",
  "base": {
   "path": "v2/ja-core-v2.json",
@@ -11,9 +11,9 @@
   "size_bytes": 1064065
  },
  "candidate": {
-  "file": "ja-core-v2-2.2.0-candidate.JA-001.R137.JA-UNITS.json",
-  "sha256": "327f7cd9f0f2d977247a9ae6f961ed61a4917dcd0da3c6535c1fad5633255a83",
-  "size_bytes": 2261802
+  "file": "ja-core-v2-2.2.0-candidate.JA-001.R137.JA-UNITS.HINTS.json",
+  "sha256": "33a33bdf6a82a338d58cb65c2af78c05bd12a838c5f34eb26e913f54df227e24",
+  "size_bytes": 2279474
  },
  "rollback": "keep the base file/sha above in the catalog entry; promotion replaces url/sha/version only",
  "report": {
@@ -33,6 +33,12 @@
    "base_entries": 2528,
    "candidate_entries": 2528,
    "patched": 551,
+   "added": 0
+  },
+  "HINTS": {
+   "base_entries": 2528,
+   "candidate_entries": 2528,
+   "patched": 391,
    "added": 0
   }
  },
