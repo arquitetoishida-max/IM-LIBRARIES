@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -818,6 +818,59 @@
       "vcu_family": "VCU100",
       "domain": "brazil_tourism",
       "companion_of": "vcu100-pt-br-tourism"
+    },
+    {
+      "id": "vcu100-es-adventure",
+      "name": "VCU100 — Español para Turismo de Aventura (América do Sul)",
+      "language": "es",
+      "region": "es-419-VCU100-adventure",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 175,
+      "has_ui": false,
+      "flag": "🌎",
+      "locale": "es-419",
+      "name_native": "Español",
+      "name_en": "South American Adventure Spanish",
+      "name_pt": "Espanhol para Aventura na América do Sul",
+      "name_ja": "南米の冒険スペイン語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-es-adventure.json",
+      "sha256": "8c44b39829186ff86c55e1d7f1b8033ef377b9a55d2cafc2210d836622216e10",
+      "size_bytes": 88538,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "south_america_adventure",
+      "companion_package_id": "vcu100-pt-br-es-adventure-companion",
+      "requires": [
+        "vcu100-pt-br-es-adventure-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-es-adventure-companion",
+      "name": "VCU100 — Espanhol de Aventura (PT-BR, par)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-es-adventure",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 175,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Adventure Spanish Portuguese Companion",
+      "name_pt": "Português para Espanhol de Aventura",
+      "name_ja": "南米のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-es-adventure-companion.json",
+      "sha256": "c9eeb29002451d865395eb071c63a84cb7c5954c06dee25d6cebe209dd7245f6",
+      "size_bytes": 89417,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "south_america_adventure",
+      "companion_of": "vcu100-es-adventure"
     }
   ],
   "notes": [
@@ -832,6 +885,7 @@
     "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending.",
     "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending.",
     "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending.",
-    "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated."
+    "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated.",
+    "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending."
   ]
 }
