@@ -1,0 +1,2661 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-es-adventure-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-es-adventure",
+  "name": "VCU100 — Espanhol de Aventura (par PT-BR)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "south_america_adventure",
+  "companion_package_id": "vcu100-es-adventure",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/adventure-es-pt-BR-001.json"
+  ],
+  "notes": [
+    "175 Latin American Spanish terms and phrases, regional readings and senses where relevant.",
+    "Matched PT-BR companion needed for direct Portuguese cards.",
+    "Trekking/altitude phrases are for learning language, not a safety protocol."
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:adventure:000001",
+      "english_id": "en:vcu100:adventure:000001",
+      "english_sense_id": "adventure-000001",
+      "kind": "expression",
+      "text": "bom dia",
+      "description_en": "Morning greeting in Spanish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000002",
+      "english_id": "en:vcu100:adventure:000002",
+      "english_sense_id": "adventure-000002",
+      "kind": "expression",
+      "text": "boa tarde",
+      "description_en": "Afternoon greeting in Spanish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000003",
+      "english_id": "en:vcu100:adventure:000003",
+      "english_sense_id": "adventure-000003",
+      "kind": "expression",
+      "text": "boa noite",
+      "description_en": "Evening greeting or good night.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000004",
+      "english_id": "en:vcu100:adventure:000004",
+      "english_sense_id": "adventure-000004",
+      "kind": "expression",
+      "text": "muito obrigado",
+      "description_en": "Polite expression of gratitude.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000005",
+      "english_id": "en:vcu100:adventure:000005",
+      "english_sense_id": "adventure-000005",
+      "kind": "expression",
+      "text": "por favor",
+      "description_en": "Polite expression accompanying a request.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000006",
+      "english_id": "en:vcu100:adventure:000006",
+      "english_sense_id": "adventure-000006",
+      "kind": "expression",
+      "text": "com licença ou desculpe",
+      "description_en": "Polite expression to interrupt or apologize.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000007",
+      "english_id": "en:vcu100:adventure:000007",
+      "english_sense_id": "adventure-000007",
+      "kind": "expression",
+      "text": "onde fica?",
+      "description_en": "Question asking where a place is located.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000008",
+      "english_id": "en:vcu100:adventure:000008",
+      "english_sense_id": "adventure-000008",
+      "kind": "expression",
+      "text": "quanto custa?",
+      "description_en": "Question asking the price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000009",
+      "english_id": "en:vcu100:adventure:000009",
+      "english_sense_id": "adventure-000009",
+      "kind": "expression",
+      "text": "como chego?",
+      "description_en": "Question asking for directions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000010",
+      "english_id": "en:vcu100:adventure:000010",
+      "english_sense_id": "adventure-000010",
+      "kind": "expression",
+      "text": "você fala português?",
+      "description_en": "Question asking whether someone speaks Portuguese.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000011",
+      "english_id": "en:vcu100:adventure:000011",
+      "english_sense_id": "adventure-000011",
+      "kind": "expression",
+      "text": "não entendo",
+      "description_en": "Statement indicating lack of understanding.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000012",
+      "english_id": "en:vcu100:adventure:000012",
+      "english_sense_id": "adventure-000012",
+      "kind": "expression",
+      "text": "pode repetir?",
+      "description_en": "Polite request to repeat something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000013",
+      "english_id": "en:vcu100:adventure:000013",
+      "english_sense_id": "adventure-000013",
+      "kind": "expression",
+      "text": "mais devagar, por favor",
+      "description_en": "Request that someone speak or act more slowly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000014",
+      "english_id": "en:vcu100:adventure:000014",
+      "english_sense_id": "adventure-000014",
+      "kind": "expression",
+      "text": "preciso de ajuda",
+      "description_en": "Request for assistance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000015",
+      "english_id": "en:vcu100:adventure:000015",
+      "english_sense_id": "adventure-000015",
+      "kind": "expression",
+      "text": "estou de férias",
+      "description_en": "Statement that one is traveling on vacation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:essentials",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Comunicação essencial"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000016",
+      "english_id": "en:vcu100:adventure:000016",
+      "english_sense_id": "adventure-000016",
+      "kind": "word",
+      "text": "rodoviária",
+      "description_en": "Station for intercity buses.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000017",
+      "english_id": "en:vcu100:adventure:000017",
+      "english_sense_id": "adventure-000017",
+      "kind": "word",
+      "text": "estação de trem",
+      "description_en": "Railway station.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000018",
+      "english_id": "en:vcu100:adventure:000018",
+      "english_sense_id": "adventure-000018",
+      "kind": "word",
+      "text": "ponto de ônibus",
+      "description_en": "Bus stop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000019",
+      "english_id": "en:vcu100:adventure:000019",
+      "english_sense_id": "adventure-000019",
+      "kind": "word",
+      "text": "bilhete ou passagem",
+      "description_en": "Ticket for a service or journey, common in Latin America.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000020",
+      "english_id": "en:vcu100:adventure:000020",
+      "english_sense_id": "adventure-000020",
+      "kind": "word",
+      "text": "passagem",
+      "description_en": "Ticket or fare for transportation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000021",
+      "english_id": "en:vcu100:adventure:000021",
+      "english_sense_id": "adventure-000021",
+      "kind": "word",
+      "text": "ida e volta",
+      "description_en": "Round-trip journey.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000022",
+      "english_id": "en:vcu100:adventure:000022",
+      "english_sense_id": "adventure-000022",
+      "kind": "word",
+      "text": "só ida",
+      "description_en": "One-way journey.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000023",
+      "english_id": "en:vcu100:adventure:000023",
+      "english_sense_id": "adventure-000023",
+      "kind": "word",
+      "text": "horário de partida",
+      "description_en": "Time when transportation departs.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000024",
+      "english_id": "en:vcu100:adventure:000024",
+      "english_sense_id": "adventure-000024",
+      "kind": "word",
+      "text": "horário de chegada",
+      "description_en": "Time when transportation arrives.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000025",
+      "english_id": "en:vcu100:adventure:000025",
+      "english_sense_id": "adventure-000025",
+      "kind": "word",
+      "text": "atraso ou demora",
+      "description_en": "Delay in a service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000026",
+      "english_id": "en:vcu100:adventure:000026",
+      "english_sense_id": "adventure-000026",
+      "kind": "word",
+      "text": "baldeação",
+      "description_en": "Change from one transport service to another.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000027",
+      "english_id": "en:vcu100:adventure:000027",
+      "english_sense_id": "adventure-000027",
+      "kind": "word",
+      "text": "bagagem",
+      "description_en": "Luggage carried on a journey.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000028",
+      "english_id": "en:vcu100:adventure:000028",
+      "english_sense_id": "adventure-000028",
+      "kind": "word",
+      "text": "mochila",
+      "description_en": "Bag carried on the back.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000029",
+      "english_id": "en:vcu100:adventure:000029",
+      "english_sense_id": "adventure-000029",
+      "kind": "word",
+      "text": "mala de viagem",
+      "description_en": "Suitcase used for travel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000030",
+      "english_id": "en:vcu100:adventure:000030",
+      "english_sense_id": "adventure-000030",
+      "kind": "word",
+      "text": "táxi compartilhado",
+      "description_en": "Taxi shared by several passengers.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000031",
+      "english_id": "en:vcu100:adventure:000031",
+      "english_sense_id": "adventure-000031",
+      "kind": "word",
+      "text": "van de transporte compartilhado",
+      "description_en": "Small van used for passenger transport in parts of South America.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000032",
+      "english_id": "en:vcu100:adventure:000032",
+      "english_sense_id": "adventure-000032",
+      "kind": "word",
+      "text": "transporte coletivo ou ônibus",
+      "description_en": "Regionally used word for a passenger bus or shared vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000033",
+      "english_id": "en:vcu100:adventure:000033",
+      "english_sense_id": "adventure-000033",
+      "kind": "word",
+      "text": "caminhonete ou van",
+      "description_en": "Vehicle term whose meaning varies by region.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000034",
+      "english_id": "en:vcu100:adventure:000034",
+      "english_sense_id": "adventure-000034",
+      "kind": "word",
+      "text": "rodovia",
+      "description_en": "Road connecting cities.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000035",
+      "english_id": "en:vcu100:adventure:000035",
+      "english_sense_id": "adventure-000035",
+      "kind": "word",
+      "text": "estrada de terra",
+      "description_en": "Unpaved road.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000036",
+      "english_id": "en:vcu100:adventure:000036",
+      "english_sense_id": "adventure-000036",
+      "kind": "word",
+      "text": "pedágio",
+      "description_en": "Road toll charged for passing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000037",
+      "english_id": "en:vcu100:adventure:000037",
+      "english_sense_id": "adventure-000037",
+      "kind": "word",
+      "text": "fronteira",
+      "description_en": "Border separating countries.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000038",
+      "english_id": "en:vcu100:adventure:000038",
+      "english_sense_id": "adventure-000038",
+      "kind": "word",
+      "text": "passaporte",
+      "description_en": "Travel document used for international travel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000039",
+      "english_id": "en:vcu100:adventure:000039",
+      "english_sense_id": "adventure-000039",
+      "kind": "word",
+      "text": "controle de imigração",
+      "description_en": "Border procedure checking permission to enter a country.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000040",
+      "english_id": "en:vcu100:adventure:000040",
+      "english_sense_id": "adventure-000040",
+      "kind": "word",
+      "text": "alfândega",
+      "description_en": "Authority inspecting goods crossing borders.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000041",
+      "english_id": "en:vcu100:adventure:000041",
+      "english_sense_id": "adventure-000041",
+      "kind": "word",
+      "text": "câmbio de moeda",
+      "description_en": "Exchange of one currency for another.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000042",
+      "english_id": "en:vcu100:adventure:000042",
+      "english_sense_id": "adventure-000042",
+      "kind": "word",
+      "text": "taxa de câmbio",
+      "description_en": "Rate used to exchange currencies.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000043",
+      "english_id": "en:vcu100:adventure:000043",
+      "english_sense_id": "adventure-000043",
+      "kind": "word",
+      "text": "dinheiro em espécie",
+      "description_en": "Physical cash rather than card payment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000044",
+      "english_id": "en:vcu100:adventure:000044",
+      "english_sense_id": "adventure-000044",
+      "kind": "word",
+      "text": "cartão de crédito",
+      "description_en": "Credit card.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000045",
+      "english_id": "en:vcu100:adventure:000045",
+      "english_sense_id": "adventure-000045",
+      "kind": "word",
+      "text": "sinal de celular",
+      "description_en": "Mobile phone reception.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000046",
+      "english_id": "en:vcu100:adventure:000046",
+      "english_sense_id": "adventure-000046",
+      "kind": "word",
+      "text": "sem conexão",
+      "description_en": "State of lacking a network connection.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:transport",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Transporte e fronteira"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000047",
+      "english_id": "en:vcu100:adventure:000047",
+      "english_sense_id": "adventure-000047",
+      "kind": "word",
+      "text": "hospedagem",
+      "description_en": "Place where travelers stay overnight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000048",
+      "english_id": "en:vcu100:adventure:000048",
+      "english_sense_id": "adventure-000048",
+      "kind": "word",
+      "text": "hostel ou pousada simples",
+      "description_en": "Budget lodging establishment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000049",
+      "english_id": "en:vcu100:adventure:000049",
+      "english_sense_id": "adventure-000049",
+      "kind": "word",
+      "text": "albergue",
+      "description_en": "Simple lodging used by hikers or travelers.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000050",
+      "english_id": "en:vcu100:adventure:000050",
+      "english_sense_id": "adventure-000050",
+      "kind": "word",
+      "text": "abrigo de montanha",
+      "description_en": "Mountain shelter providing basic protection or accommodation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000051",
+      "english_id": "en:vcu100:adventure:000051",
+      "english_sense_id": "adventure-000051",
+      "kind": "word",
+      "text": "acampamento",
+      "description_en": "Place where people stay in tents.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000052",
+      "english_id": "en:vcu100:adventure:000052",
+      "english_sense_id": "adventure-000052",
+      "kind": "word",
+      "text": "área de camping",
+      "description_en": "Designated area for camping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000053",
+      "english_id": "en:vcu100:adventure:000053",
+      "english_sense_id": "adventure-000053",
+      "kind": "word",
+      "text": "reserva",
+      "description_en": "Booking made in advance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000054",
+      "english_id": "en:vcu100:adventure:000054",
+      "english_sense_id": "adventure-000054",
+      "kind": "word",
+      "text": "quarto duplo",
+      "description_en": "Room intended for two people.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000055",
+      "english_id": "en:vcu100:adventure:000055",
+      "english_sense_id": "adventure-000055",
+      "kind": "word",
+      "text": "quarto individual",
+      "description_en": "Room intended for one person.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000056",
+      "english_id": "en:vcu100:adventure:000056",
+      "english_sense_id": "adventure-000056",
+      "kind": "word",
+      "text": "café da manhã incluído",
+      "description_en": "Accommodation including breakfast.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000057",
+      "english_id": "en:vcu100:adventure:000057",
+      "english_sense_id": "adventure-000057",
+      "kind": "word",
+      "text": "água quente",
+      "description_en": "Hot water, often important in mountain lodging.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000058",
+      "english_id": "en:vcu100:adventure:000058",
+      "english_sense_id": "adventure-000058",
+      "kind": "word",
+      "text": "sem aquecimento",
+      "description_en": "Accommodation without room heating.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000059",
+      "english_id": "en:vcu100:adventure:000059",
+      "english_sense_id": "adventure-000059",
+      "kind": "word",
+      "text": "chuveiro",
+      "description_en": "Bathroom fixture used for showering.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000060",
+      "english_id": "en:vcu100:adventure:000060",
+      "english_sense_id": "adventure-000060",
+      "kind": "word",
+      "text": "banheiro compartilhado",
+      "description_en": "Bathroom used by several guests.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000061",
+      "english_id": "en:vcu100:adventure:000061",
+      "english_sense_id": "adventure-000061",
+      "kind": "word",
+      "text": "cama extra",
+      "description_en": "Additional bed provided in a room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:lodging",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Hospedagem de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000062",
+      "english_id": "en:vcu100:adventure:000062",
+      "english_sense_id": "adventure-000062",
+      "kind": "word",
+      "text": "trilha",
+      "description_en": "Narrow path used for hiking.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000063",
+      "english_id": "en:vcu100:adventure:000063",
+      "english_sense_id": "adventure-000063",
+      "kind": "word",
+      "text": "rota de caminhada",
+      "description_en": "Marked hiking route.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000064",
+      "english_id": "en:vcu100:adventure:000064",
+      "english_sense_id": "adventure-000064",
+      "kind": "word",
+      "text": "caminhada",
+      "description_en": "Walk or hike.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000065",
+      "english_id": "en:vcu100:adventure:000065",
+      "english_sense_id": "adventure-000065",
+      "kind": "word",
+      "text": "excursão",
+      "description_en": "Trip made for recreation or sightseeing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000066",
+      "english_id": "en:vcu100:adventure:000066",
+      "english_sense_id": "adventure-000066",
+      "kind": "word",
+      "text": "guia de montanha",
+      "description_en": "Person guiding a mountain excursion.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000067",
+      "english_id": "en:vcu100:adventure:000067",
+      "english_sense_id": "adventure-000067",
+      "kind": "word",
+      "text": "grupo de caminhantes",
+      "description_en": "Group of people traveling on a hike.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000068",
+      "english_id": "en:vcu100:adventure:000068",
+      "english_sense_id": "adventure-000068",
+      "kind": "word",
+      "text": "mapa topográfico",
+      "description_en": "Map showing elevation and landforms.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000069",
+      "english_id": "en:vcu100:adventure:000069",
+      "english_sense_id": "adventure-000069",
+      "kind": "word",
+      "text": "bússola",
+      "description_en": "Instrument used to find directions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000070",
+      "english_id": "en:vcu100:adventure:000070",
+      "english_sense_id": "adventure-000070",
+      "kind": "word",
+      "text": "ponto de encontro",
+      "description_en": "Place where group members agree to meet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000071",
+      "english_id": "en:vcu100:adventure:000071",
+      "english_sense_id": "adventure-000071",
+      "kind": "word",
+      "text": "sinalização",
+      "description_en": "Signs marking a trail or route.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000072",
+      "english_id": "en:vcu100:adventure:000072",
+      "english_sense_id": "adventure-000072",
+      "kind": "word",
+      "text": "bifurcação",
+      "description_en": "Point where a path divides.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000073",
+      "english_id": "en:vcu100:adventure:000073",
+      "english_sense_id": "adventure-000073",
+      "kind": "word",
+      "text": "desvio",
+      "description_en": "Alternative path or change of route.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000074",
+      "english_id": "en:vcu100:adventure:000074",
+      "english_sense_id": "adventure-000074",
+      "kind": "word",
+      "text": "mirante",
+      "description_en": "Place with a view of the surrounding landscape.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000075",
+      "english_id": "en:vcu100:adventure:000075",
+      "english_sense_id": "adventure-000075",
+      "kind": "word",
+      "text": "cume",
+      "description_en": "Highest point of a mountain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000076",
+      "english_id": "en:vcu100:adventure:000076",
+      "english_sense_id": "adventure-000076",
+      "kind": "word",
+      "text": "subida",
+      "description_en": "Uphill section of a trail.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000077",
+      "english_id": "en:vcu100:adventure:000077",
+      "english_sense_id": "adventure-000077",
+      "kind": "word",
+      "text": "descida",
+      "description_en": "Downward section of a route.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000078",
+      "english_id": "en:vcu100:adventure:000078",
+      "english_sense_id": "adventure-000078",
+      "kind": "word",
+      "text": "inclinação",
+      "description_en": "Slope of a surface.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000079",
+      "english_id": "en:vcu100:adventure:000079",
+      "english_sense_id": "adventure-000079",
+      "kind": "word",
+      "text": "crista de montanha",
+      "description_en": "Narrow high ridge of a mountain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000080",
+      "english_id": "en:vcu100:adventure:000080",
+      "english_sense_id": "adventure-000080",
+      "kind": "word",
+      "text": "garganta ou vale estreito",
+      "description_en": "Ravine or narrow valley, with regional differences.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000081",
+      "english_id": "en:vcu100:adventure:000081",
+      "english_sense_id": "adventure-000081",
+      "kind": "word",
+      "text": "passagem de montanha",
+      "description_en": "Mountain pass in Andean Spanish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000082",
+      "english_id": "en:vcu100:adventure:000082",
+      "english_sense_id": "adventure-000082",
+      "kind": "word",
+      "text": "vale",
+      "description_en": "Low ground between mountains.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000083",
+      "english_id": "en:vcu100:adventure:000083",
+      "english_sense_id": "adventure-000083",
+      "kind": "word",
+      "text": "planalto",
+      "description_en": "Elevated flat area of land.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000084",
+      "english_id": "en:vcu100:adventure:000084",
+      "english_sense_id": "adventure-000084",
+      "kind": "word",
+      "text": "altiplano",
+      "description_en": "High plateau of the Andes.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000085",
+      "english_id": "en:vcu100:adventure:000085",
+      "english_sense_id": "adventure-000085",
+      "kind": "word",
+      "text": "lagoa",
+      "description_en": "Small lake, often at high altitude.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000086",
+      "english_id": "en:vcu100:adventure:000086",
+      "english_sense_id": "adventure-000086",
+      "kind": "word",
+      "text": "cachoeira",
+      "description_en": "Waterfall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000087",
+      "english_id": "en:vcu100:adventure:000087",
+      "english_sense_id": "adventure-000087",
+      "kind": "word",
+      "text": "geleira",
+      "description_en": "Mass of moving land ice.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000088",
+      "english_id": "en:vcu100:adventure:000088",
+      "english_sense_id": "adventure-000088",
+      "kind": "word",
+      "text": "montanha nevada",
+      "description_en": "Snow-covered mountain or summit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000089",
+      "english_id": "en:vcu100:adventure:000089",
+      "english_sense_id": "adventure-000089",
+      "kind": "word",
+      "text": "vulcão",
+      "description_en": "Mountain or vent producing volcanic material.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000090",
+      "english_id": "en:vcu100:adventure:000090",
+      "english_sense_id": "adventure-000090",
+      "kind": "word",
+      "text": "deserto de sal",
+      "description_en": "Large salt flat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000091",
+      "english_id": "en:vcu100:adventure:000091",
+      "english_sense_id": "adventure-000091",
+      "kind": "word",
+      "text": "deserto",
+      "description_en": "Dry region with little rainfall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000092",
+      "english_id": "en:vcu100:adventure:000092",
+      "english_sense_id": "adventure-000092",
+      "kind": "word",
+      "text": "floresta tropical",
+      "description_en": "Dense tropical forest.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:trekking",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Trilhas e terreno"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000093",
+      "english_id": "en:vcu100:adventure:000093",
+      "english_sense_id": "adventure-000093",
+      "kind": "word",
+      "text": "botas de trilha",
+      "description_en": "Boots designed for hiking.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000094",
+      "english_id": "en:vcu100:adventure:000094",
+      "english_sense_id": "adventure-000094",
+      "kind": "word",
+      "text": "bastões de caminhada",
+      "description_en": "Poles used to support walking on trails.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000095",
+      "english_id": "en:vcu100:adventure:000095",
+      "english_sense_id": "adventure-000095",
+      "kind": "word",
+      "text": "jaqueta impermeável",
+      "description_en": "Jacket protecting against rain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000096",
+      "english_id": "en:vcu100:adventure:000096",
+      "english_sense_id": "adventure-000096",
+      "kind": "word",
+      "text": "corta-vento",
+      "description_en": "Garment blocking wind.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000097",
+      "english_id": "en:vcu100:adventure:000097",
+      "english_sense_id": "adventure-000097",
+      "kind": "word",
+      "text": "roupa térmica",
+      "description_en": "Clothing intended to retain warmth.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000098",
+      "english_id": "en:vcu100:adventure:000098",
+      "english_sense_id": "adventure-000098",
+      "kind": "word",
+      "text": "luvas",
+      "description_en": "Hand coverings.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000099",
+      "english_id": "en:vcu100:adventure:000099",
+      "english_sense_id": "adventure-000099",
+      "kind": "word",
+      "text": "gorro",
+      "description_en": "Warm cap for the head.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000100",
+      "english_id": "en:vcu100:adventure:000100",
+      "english_sense_id": "adventure-000100",
+      "kind": "word",
+      "text": "lanterna de cabeça",
+      "description_en": "Light worn on a headband.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000101",
+      "english_id": "en:vcu100:adventure:000101",
+      "english_sense_id": "adventure-000101",
+      "kind": "word",
+      "text": "garrafa de água",
+      "description_en": "Container carrying drinking water.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000102",
+      "english_id": "en:vcu100:adventure:000102",
+      "english_sense_id": "adventure-000102",
+      "kind": "word",
+      "text": "pastilhas purificadoras de água",
+      "description_en": "Tablets used in water treatment according to their instructions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000103",
+      "english_id": "en:vcu100:adventure:000103",
+      "english_sense_id": "adventure-000103",
+      "kind": "word",
+      "text": "kit de primeiros socorros",
+      "description_en": "First-aid kit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000104",
+      "english_id": "en:vcu100:adventure:000104",
+      "english_sense_id": "adventure-000104",
+      "kind": "word",
+      "text": "protetor solar",
+      "description_en": "Product applied to reduce UV exposure.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000105",
+      "english_id": "en:vcu100:adventure:000105",
+      "english_sense_id": "adventure-000105",
+      "kind": "word",
+      "text": "óculos de sol",
+      "description_en": "Eyewear shielding eyes from sunlight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000106",
+      "english_id": "en:vcu100:adventure:000106",
+      "english_sense_id": "adventure-000106",
+      "kind": "word",
+      "text": "saco de dormir",
+      "description_en": "Insulated bedding for camping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000107",
+      "english_id": "en:vcu100:adventure:000107",
+      "english_sense_id": "adventure-000107",
+      "kind": "word",
+      "text": "barraca de camping",
+      "description_en": "Tent, common term in much of South America.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000108",
+      "english_id": "en:vcu100:adventure:000108",
+      "english_sense_id": "adventure-000108",
+      "kind": "word",
+      "text": "barraca de camping",
+      "description_en": "Tent, widely understood Spanish expression.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000109",
+      "english_id": "en:vcu100:adventure:000109",
+      "english_sense_id": "adventure-000109",
+      "kind": "word",
+      "text": "isolante de camping",
+      "description_en": "Sleeping mat used under a sleeping bag.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000110",
+      "english_id": "en:vcu100:adventure:000110",
+      "english_sense_id": "adventure-000110",
+      "kind": "word",
+      "text": "cantil",
+      "description_en": "Reusable water container for hiking.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000111",
+      "english_id": "en:vcu100:adventure:000111",
+      "english_sense_id": "adventure-000111",
+      "kind": "word",
+      "text": "mosquetão",
+      "description_en": "Metal connector with a gate, commonly used in climbing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000112",
+      "english_id": "en:vcu100:adventure:000112",
+      "english_sense_id": "adventure-000112",
+      "kind": "word",
+      "text": "corda de escalada",
+      "description_en": "Rope designed for climbing systems.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000113",
+      "english_id": "en:vcu100:adventure:000113",
+      "english_sense_id": "adventure-000113",
+      "kind": "word",
+      "text": "cadeirinha de escalada",
+      "description_en": "Harness used in climbing or rope activities.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000114",
+      "english_id": "en:vcu100:adventure:000114",
+      "english_sense_id": "adventure-000114",
+      "kind": "word",
+      "text": "capacete de proteção",
+      "description_en": "Protective helmet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000115",
+      "english_id": "en:vcu100:adventure:000115",
+      "english_sense_id": "adventure-000115",
+      "kind": "word",
+      "text": "piqueta de gelo",
+      "description_en": "Ice axe for mountaineering.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000116",
+      "english_id": "en:vcu100:adventure:000116",
+      "english_sense_id": "adventure-000116",
+      "kind": "word",
+      "text": "grampos de gelo para botas",
+      "description_en": "Metal spikes attached to boots for traction on ice.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:equipment",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Equipamentos de trilha"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000117",
+      "english_id": "en:vcu100:adventure:000117",
+      "english_sense_id": "adventure-000117",
+      "kind": "word",
+      "text": "altitude",
+      "description_en": "Height above sea level in mountain travel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000118",
+      "english_id": "en:vcu100:adventure:000118",
+      "english_sense_id": "adventure-000118",
+      "kind": "word",
+      "text": "mal de altitude",
+      "description_en": "Illness associated with reduced oxygen availability at high altitude.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000119",
+      "english_id": "en:vcu100:adventure:000119",
+      "english_sense_id": "adventure-000119",
+      "kind": "word",
+      "text": "mal de altitude (uso andino)",
+      "description_en": "Regional Andean name for altitude sickness.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000120",
+      "english_id": "en:vcu100:adventure:000120",
+      "english_sense_id": "adventure-000120",
+      "kind": "word",
+      "text": "mal-estar pela altitude",
+      "description_en": "Regional term for altitude-related discomfort.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000121",
+      "english_id": "en:vcu100:adventure:000121",
+      "english_sense_id": "adventure-000121",
+      "kind": "word",
+      "text": "aclimatação",
+      "description_en": "Adjustment to conditions at higher elevation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000122",
+      "english_id": "en:vcu100:adventure:000122",
+      "english_sense_id": "adventure-000122",
+      "kind": "word",
+      "text": "falta de ar",
+      "description_en": "Sensation of difficulty breathing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000123",
+      "english_id": "en:vcu100:adventure:000123",
+      "english_sense_id": "adventure-000123",
+      "kind": "word",
+      "text": "dor de cabeça",
+      "description_en": "Headache.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000124",
+      "english_id": "en:vcu100:adventure:000124",
+      "english_sense_id": "adventure-000124",
+      "kind": "word",
+      "text": "tontura",
+      "description_en": "Feeling dizzy or lightheaded.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000125",
+      "english_id": "en:vcu100:adventure:000125",
+      "english_sense_id": "adventure-000125",
+      "kind": "word",
+      "text": "náuseas",
+      "description_en": "Feeling that one may vomit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000126",
+      "english_id": "en:vcu100:adventure:000126",
+      "english_sense_id": "adventure-000126",
+      "kind": "word",
+      "text": "cansaço",
+      "description_en": "Physical fatigue.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000127",
+      "english_id": "en:vcu100:adventure:000127",
+      "english_sense_id": "adventure-000127",
+      "kind": "word",
+      "text": "desidratação",
+      "description_en": "Loss of body fluids causing insufficient hydration.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000128",
+      "english_id": "en:vcu100:adventure:000128",
+      "english_sense_id": "adventure-000128",
+      "kind": "word",
+      "text": "hipotermia",
+      "description_en": "Dangerous reduction in body temperature.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000129",
+      "english_id": "en:vcu100:adventure:000129",
+      "english_sense_id": "adventure-000129",
+      "kind": "word",
+      "text": "radiação solar",
+      "description_en": "Energy from the sun reaching a place.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000130",
+      "english_id": "en:vcu100:adventure:000130",
+      "english_sense_id": "adventure-000130",
+      "kind": "word",
+      "text": "vento forte",
+      "description_en": "Strong wind.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000131",
+      "english_id": "en:vcu100:adventure:000131",
+      "english_sense_id": "adventure-000131",
+      "kind": "word",
+      "text": "tempestade",
+      "description_en": "Weather event with strong wind or rain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000132",
+      "english_id": "en:vcu100:adventure:000132",
+      "english_sense_id": "adventure-000132",
+      "kind": "word",
+      "text": "nevasca",
+      "description_en": "Occurrence of falling snow.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000133",
+      "english_id": "en:vcu100:adventure:000133",
+      "english_sense_id": "adventure-000133",
+      "kind": "word",
+      "text": "neblina",
+      "description_en": "Cloud near ground reducing visibility.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000134",
+      "english_id": "en:vcu100:adventure:000134",
+      "english_sense_id": "adventure-000134",
+      "kind": "word",
+      "text": "granizo",
+      "description_en": "Frozen precipitation in small balls.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000135",
+      "english_id": "en:vcu100:adventure:000135",
+      "english_sense_id": "adventure-000135",
+      "kind": "word",
+      "text": "avalanche",
+      "description_en": "Mass of snow or debris moving down a slope.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000136",
+      "english_id": "en:vcu100:adventure:000136",
+      "english_sense_id": "adventure-000136",
+      "kind": "word",
+      "text": "queda de pedras",
+      "description_en": "Rockfall on a mountain slope.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000137",
+      "english_id": "en:vcu100:adventure:000137",
+      "english_sense_id": "adventure-000137",
+      "kind": "word",
+      "text": "escorregadio",
+      "description_en": "Surface on which one can easily slip.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000138",
+      "english_id": "en:vcu100:adventure:000138",
+      "english_sense_id": "adventure-000138",
+      "kind": "word",
+      "text": "perigoso",
+      "description_en": "Containing a risk of harm.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000139",
+      "english_id": "en:vcu100:adventure:000139",
+      "english_sense_id": "adventure-000139",
+      "kind": "word",
+      "text": "área segura",
+      "description_en": "Area selected to reduce exposure to hazards.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000140",
+      "english_id": "en:vcu100:adventure:000140",
+      "english_sense_id": "adventure-000140",
+      "kind": "word",
+      "text": "emergência",
+      "description_en": "Serious event requiring urgent attention.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000141",
+      "english_id": "en:vcu100:adventure:000141",
+      "english_sense_id": "adventure-000141",
+      "kind": "word",
+      "text": "resgate",
+      "description_en": "Operation to save people from danger.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:altitude",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Altitude e emergências"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000142",
+      "english_id": "en:vcu100:adventure:000142",
+      "english_sense_id": "adventure-000142",
+      "kind": "word",
+      "text": "Machu Picchu",
+      "description_en": "Inca archaeological site in Peru.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000143",
+      "english_id": "en:vcu100:adventure:000143",
+      "english_sense_id": "adventure-000143",
+      "kind": "word",
+      "text": "Cusco",
+      "description_en": "City in Peru used as a gateway to Andean attractions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000144",
+      "english_id": "en:vcu100:adventure:000144",
+      "english_sense_id": "adventure-000144",
+      "kind": "word",
+      "text": "Trilha Inca",
+      "description_en": "Historic Andean route to Machu Picchu.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000145",
+      "english_id": "en:vcu100:adventure:000145",
+      "english_sense_id": "adventure-000145",
+      "kind": "word",
+      "text": "Vale Sagrado",
+      "description_en": "Andean valley region near Cusco.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000146",
+      "english_id": "en:vcu100:adventure:000146",
+      "english_sense_id": "adventure-000146",
+      "kind": "word",
+      "text": "lago Titicaca",
+      "description_en": "High-elevation lake between Peru and Bolivia.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000147",
+      "english_id": "en:vcu100:adventure:000147",
+      "english_sense_id": "adventure-000147",
+      "kind": "word",
+      "text": "Salar de Uyuni",
+      "description_en": "Extensive salt flat in Bolivia.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000148",
+      "english_id": "en:vcu100:adventure:000148",
+      "english_sense_id": "adventure-000148",
+      "kind": "word",
+      "text": "Laguna Colorada",
+      "description_en": "High-altitude lake in Bolivia known for reddish tones.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000149",
+      "english_id": "en:vcu100:adventure:000149",
+      "english_sense_id": "adventure-000149",
+      "kind": "word",
+      "text": "La Paz",
+      "description_en": "City in Bolivia.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000150",
+      "english_id": "en:vcu100:adventure:000150",
+      "english_sense_id": "adventure-000150",
+      "kind": "word",
+      "text": "San Pedro de Atacama",
+      "description_en": "Town in northern Chile used to visit the Atacama Desert.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000151",
+      "english_id": "en:vcu100:adventure:000151",
+      "english_sense_id": "adventure-000151",
+      "kind": "word",
+      "text": "deserto do Atacama",
+      "description_en": "Desert region in northern Chile.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000152",
+      "english_id": "en:vcu100:adventure:000152",
+      "english_sense_id": "adventure-000152",
+      "kind": "word",
+      "text": "Patagônia",
+      "description_en": "Region in southern Chile and Argentina.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000153",
+      "english_id": "en:vcu100:adventure:000153",
+      "english_sense_id": "adventure-000153",
+      "kind": "word",
+      "text": "Torres del Paine",
+      "description_en": "National park area in Chilean Patagonia.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000154",
+      "english_id": "en:vcu100:adventure:000154",
+      "english_sense_id": "adventure-000154",
+      "kind": "word",
+      "text": "El Chaltén",
+      "description_en": "Argentine town known for trekking.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000155",
+      "english_id": "en:vcu100:adventure:000155",
+      "english_sense_id": "adventure-000155",
+      "kind": "word",
+      "text": "Aconcágua",
+      "description_en": "High mountain in the Argentine Andes.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000156",
+      "english_id": "en:vcu100:adventure:000156",
+      "english_sense_id": "adventure-000156",
+      "kind": "word",
+      "text": "geleira Perito Moreno",
+      "description_en": "Large glacier in Argentine Patagonia.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000157",
+      "english_id": "en:vcu100:adventure:000157",
+      "english_sense_id": "adventure-000157",
+      "kind": "word",
+      "text": "Terra do Fogo",
+      "description_en": "Archipelago at the southern end of South America.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:places",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Destinos andinos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000158",
+      "english_id": "en:vcu100:adventure:000158",
+      "english_sense_id": "adventure-000158",
+      "kind": "expression",
+      "text": "Quanto falta?",
+      "description_en": "Question about remaining time or distance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000159",
+      "english_id": "en:vcu100:adventure:000159",
+      "english_sense_id": "adventure-000159",
+      "kind": "expression",
+      "text": "É perigoso?",
+      "description_en": "Question asking if a place or activity is hazardous.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000160",
+      "english_id": "en:vcu100:adventure:000160",
+      "english_sense_id": "adventure-000160",
+      "kind": "expression",
+      "text": "Estou tonto (homem)",
+      "description_en": "Male speaker reporting dizziness.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000161",
+      "english_id": "en:vcu100:adventure:000161",
+      "english_sense_id": "adventure-000161",
+      "kind": "expression",
+      "text": "Estou tonta (mulher)",
+      "description_en": "Female speaker reporting dizziness.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000162",
+      "english_id": "en:vcu100:adventure:000162",
+      "english_sense_id": "adventure-000162",
+      "kind": "expression",
+      "text": "Estou com mal de altitude",
+      "description_en": "Andean expression for altitude sickness.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000163",
+      "english_id": "en:vcu100:adventure:000163",
+      "english_sense_id": "adventure-000163",
+      "kind": "expression",
+      "text": "Preciso descansar",
+      "description_en": "Statement of needing rest.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000164",
+      "english_id": "en:vcu100:adventure:000164",
+      "english_sense_id": "adventure-000164",
+      "kind": "expression",
+      "text": "Vamos mais devagar",
+      "description_en": "Request to reduce walking speed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000165",
+      "english_id": "en:vcu100:adventure:000165",
+      "english_sense_id": "adventure-000165",
+      "kind": "expression",
+      "text": "Preciso de água",
+      "description_en": "Request for drinking water.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000166",
+      "english_id": "en:vcu100:adventure:000166",
+      "english_sense_id": "adventure-000166",
+      "kind": "expression",
+      "text": "Onde fica o abrigo?",
+      "description_en": "Question asking for a mountain shelter.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000167",
+      "english_id": "en:vcu100:adventure:000167",
+      "english_sense_id": "adventure-000167",
+      "kind": "expression",
+      "text": "Tem sinal aqui?",
+      "description_en": "Question asking for mobile network coverage.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000168",
+      "english_id": "en:vcu100:adventure:000168",
+      "english_sense_id": "adventure-000168",
+      "kind": "expression",
+      "text": "A que altitude estamos?",
+      "description_en": "Question asking the current elevation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000169",
+      "english_id": "en:vcu100:adventure:000169",
+      "english_sense_id": "adventure-000169",
+      "kind": "expression",
+      "text": "Há um guia disponível?",
+      "description_en": "Question asking for a guide.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000170",
+      "english_id": "en:vcu100:adventure:000170",
+      "english_sense_id": "adventure-000170",
+      "kind": "expression",
+      "text": "Pode acampar aqui?",
+      "description_en": "Question asking whether camping is permitted.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000171",
+      "english_id": "en:vcu100:adventure:000171",
+      "english_sense_id": "adventure-000171",
+      "kind": "expression",
+      "text": "Quando voltamos?",
+      "description_en": "Question asking for the return time.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000172",
+      "english_id": "en:vcu100:adventure:000172",
+      "english_sense_id": "adventure-000172",
+      "kind": "expression",
+      "text": "Onde fica a saída?",
+      "description_en": "Question asking where the exit is.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000173",
+      "english_id": "en:vcu100:adventure:000173",
+      "english_sense_id": "adventure-000173",
+      "kind": "expression",
+      "text": "Estou perdido (homem)",
+      "description_en": "Male speaker saying he is lost.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000174",
+      "english_id": "en:vcu100:adventure:000174",
+      "english_sense_id": "adventure-000174",
+      "kind": "expression",
+      "text": "Estou perdida (mulher)",
+      "description_en": "Female speaker saying she is lost.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:adventure:000175",
+      "english_id": "en:vcu100:adventure:000175",
+      "english_sense_id": "adventure-000175",
+      "kind": "expression",
+      "text": "Chamem a emergência",
+      "description_en": "Request for someone to contact emergency services.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:adventure:phrases",
+      "topics": [
+        "VCU100 · Turismo de Aventura",
+        "Aventura · Frases de aventura"
+      ]
+    }
+  ]
+}
