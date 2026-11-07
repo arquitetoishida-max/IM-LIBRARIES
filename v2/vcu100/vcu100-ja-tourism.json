@@ -1,0 +1,3011 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-ja-tourism",
+  "package_type": "ishida-monolingual",
+  "language": "ja",
+  "region": "ja-JP-VCU100-tourism",
+  "name": "VCU100 — 観光の日本語 (Japan Travel)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "ja",
+    "flag": "🇯🇵",
+    "locale": "ja-JP",
+    "name_native": "日本語",
+    "name_en": "Japanese",
+    "name_pt": "Japonês",
+    "name_ja": "日本語",
+    "script": "japanese"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "japan_tourism",
+  "companion_package_id": "vcu100-pt-br-ja-tourism-companion",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/tourism-ja-pt-BR-001.json"
+  ],
+  "notes": [
+    "175 Japanese travel terms and expressions with kana and romaji.",
+    "PT-BR companion necessary for paired Portuguese cards.",
+    "Locale and terms are for language practice, not instructions for etiquette or fares."
+  ],
+  "entries": [
+    {
+      "id": "ja:vcu100:japan-tourism:000001",
+      "english_id": "en:vcu100:japan-tourism:000001",
+      "english_sense_id": "japan-tourism-000001",
+      "kind": "word",
+      "text": "駅",
+      "description_en": "Train station.",
+      "reading": "えき",
+      "romanization": "eki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000002",
+      "english_id": "en:vcu100:japan-tourism:000002",
+      "english_sense_id": "japan-tourism-000002",
+      "kind": "word",
+      "text": "電車",
+      "description_en": "Train used for local transportation.",
+      "reading": "でんしゃ",
+      "romanization": "densha",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000003",
+      "english_id": "en:vcu100:japan-tourism:000003",
+      "english_sense_id": "japan-tourism-000003",
+      "kind": "word",
+      "text": "地下鉄",
+      "description_en": "Subway system.",
+      "reading": "ちかてつ",
+      "romanization": "chikatetsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000004",
+      "english_id": "en:vcu100:japan-tourism:000004",
+      "english_sense_id": "japan-tourism-000004",
+      "kind": "word",
+      "text": "新幹線",
+      "description_en": "High-speed train in Japan.",
+      "reading": "しんかんせん",
+      "romanization": "shinkansen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000005",
+      "english_id": "en:vcu100:japan-tourism:000005",
+      "english_sense_id": "japan-tourism-000005",
+      "kind": "word",
+      "text": "特急",
+      "description_en": "Limited express train service.",
+      "reading": "とっきゅう",
+      "romanization": "tokkyū",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000006",
+      "english_id": "en:vcu100:japan-tourism:000006",
+      "english_sense_id": "japan-tourism-000006",
+      "kind": "word",
+      "text": "普通列車",
+      "description_en": "Train stopping at regular stations.",
+      "reading": "ふつうれっしゃ",
+      "romanization": "futsū ressha",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000007",
+      "english_id": "en:vcu100:japan-tourism:000007",
+      "english_sense_id": "japan-tourism-000007",
+      "kind": "word",
+      "text": "乗り換え",
+      "description_en": "Transfer from one train or line to another.",
+      "reading": "のりかえ",
+      "romanization": "norikae",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000008",
+      "english_id": "en:vcu100:japan-tourism:000008",
+      "english_sense_id": "japan-tourism-000008",
+      "kind": "word",
+      "text": "改札口",
+      "description_en": "Ticket gate at a railway station.",
+      "reading": "かいさつぐち",
+      "romanization": "kaisatsuguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000009",
+      "english_id": "en:vcu100:japan-tourism:000009",
+      "english_sense_id": "japan-tourism-000009",
+      "kind": "word",
+      "text": "切符",
+      "description_en": "Ticket for travel.",
+      "reading": "きっぷ",
+      "romanization": "kippu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000010",
+      "english_id": "en:vcu100:japan-tourism:000010",
+      "english_sense_id": "japan-tourism-000010",
+      "kind": "word",
+      "text": "券売機",
+      "description_en": "Ticket vending machine.",
+      "reading": "けんばいき",
+      "romanization": "kenbaiki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000011",
+      "english_id": "en:vcu100:japan-tourism:000011",
+      "english_sense_id": "japan-tourism-000011",
+      "kind": "word",
+      "text": "運賃",
+      "description_en": "Fare charged for transportation.",
+      "reading": "うんちん",
+      "romanization": "unchin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000012",
+      "english_id": "en:vcu100:japan-tourism:000012",
+      "english_sense_id": "japan-tourism-000012",
+      "kind": "word",
+      "text": "料金",
+      "description_en": "Charge for a service.",
+      "reading": "りょうきん",
+      "romanization": "ryōkin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000013",
+      "english_id": "en:vcu100:japan-tourism:000013",
+      "english_sense_id": "japan-tourism-000013",
+      "kind": "word",
+      "text": "時刻表",
+      "description_en": "Timetable.",
+      "reading": "じこくひょう",
+      "romanization": "jikokuhyō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000014",
+      "english_id": "en:vcu100:japan-tourism:000014",
+      "english_sense_id": "japan-tourism-000014",
+      "kind": "word",
+      "text": "路線図",
+      "description_en": "Route map of a transport system.",
+      "reading": "ろせんず",
+      "romanization": "rosenzu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000015",
+      "english_id": "en:vcu100:japan-tourism:000015",
+      "english_sense_id": "japan-tourism-000015",
+      "kind": "word",
+      "text": "ホーム",
+      "description_en": "Platform where a train stops.",
+      "reading": "ホーム",
+      "romanization": "hōmu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000016",
+      "english_id": "en:vcu100:japan-tourism:000016",
+      "english_sense_id": "japan-tourism-000016",
+      "kind": "word",
+      "text": "乗り場",
+      "description_en": "Boarding area.",
+      "reading": "のりば",
+      "romanization": "noriba",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000017",
+      "english_id": "en:vcu100:japan-tourism:000017",
+      "english_sense_id": "japan-tourism-000017",
+      "kind": "word",
+      "text": "出口",
+      "description_en": "Exit from a station or building.",
+      "reading": "でぐち",
+      "romanization": "deguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000018",
+      "english_id": "en:vcu100:japan-tourism:000018",
+      "english_sense_id": "japan-tourism-000018",
+      "kind": "word",
+      "text": "入口",
+      "description_en": "Entrance to a place.",
+      "reading": "いりぐち",
+      "romanization": "iriguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000019",
+      "english_id": "en:vcu100:japan-tourism:000019",
+      "english_sense_id": "japan-tourism-000019",
+      "kind": "word",
+      "text": "北口",
+      "description_en": "North exit.",
+      "reading": "きたぐち",
+      "romanization": "kitaguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000020",
+      "english_id": "en:vcu100:japan-tourism:000020",
+      "english_sense_id": "japan-tourism-000020",
+      "kind": "word",
+      "text": "南口",
+      "description_en": "South exit.",
+      "reading": "みなみぐち",
+      "romanization": "minamiguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000021",
+      "english_id": "en:vcu100:japan-tourism:000021",
+      "english_sense_id": "japan-tourism-000021",
+      "kind": "word",
+      "text": "東口",
+      "description_en": "East exit.",
+      "reading": "ひがしぐち",
+      "romanization": "higashiguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000022",
+      "english_id": "en:vcu100:japan-tourism:000022",
+      "english_sense_id": "japan-tourism-000022",
+      "kind": "word",
+      "text": "西口",
+      "description_en": "West exit.",
+      "reading": "にしぐち",
+      "romanization": "nishiguchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000023",
+      "english_id": "en:vcu100:japan-tourism:000023",
+      "english_sense_id": "japan-tourism-000023",
+      "kind": "word",
+      "text": "階段",
+      "description_en": "Stairs.",
+      "reading": "かいだん",
+      "romanization": "kaidan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000024",
+      "english_id": "en:vcu100:japan-tourism:000024",
+      "english_sense_id": "japan-tourism-000024",
+      "kind": "word",
+      "text": "エスカレーター",
+      "description_en": "Escalator.",
+      "reading": "エスカレーター",
+      "romanization": "esukarētā",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000025",
+      "english_id": "en:vcu100:japan-tourism:000025",
+      "english_sense_id": "japan-tourism-000025",
+      "kind": "word",
+      "text": "エレベーター",
+      "description_en": "Elevator.",
+      "reading": "エレベーター",
+      "romanization": "erebētā",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000026",
+      "english_id": "en:vcu100:japan-tourism:000026",
+      "english_sense_id": "japan-tourism-000026",
+      "kind": "word",
+      "text": "バス停",
+      "description_en": "Bus stop.",
+      "reading": "バスてい",
+      "romanization": "basu tei",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000027",
+      "english_id": "en:vcu100:japan-tourism:000027",
+      "english_sense_id": "japan-tourism-000027",
+      "kind": "word",
+      "text": "タクシー",
+      "description_en": "Taxi.",
+      "reading": "タクシー",
+      "romanization": "takushī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000028",
+      "english_id": "en:vcu100:japan-tourism:000028",
+      "english_sense_id": "japan-tourism-000028",
+      "kind": "word",
+      "text": "交通系ICカード",
+      "description_en": "Stored-value transport IC card.",
+      "reading": "こうつうけいアイシーカード",
+      "romanization": "kōtsūkei ai shī kādo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000029",
+      "english_id": "en:vcu100:japan-tourism:000029",
+      "english_sense_id": "japan-tourism-000029",
+      "kind": "word",
+      "text": "片道",
+      "description_en": "One-way trip.",
+      "reading": "かたみち",
+      "romanization": "katamichi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000030",
+      "english_id": "en:vcu100:japan-tourism:000030",
+      "english_sense_id": "japan-tourism-000030",
+      "kind": "word",
+      "text": "往復",
+      "description_en": "Round-trip journey.",
+      "reading": "おうふく",
+      "romanization": "ōfuku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000031",
+      "english_id": "en:vcu100:japan-tourism:000031",
+      "english_sense_id": "japan-tourism-000031",
+      "kind": "word",
+      "text": "指定席",
+      "description_en": "Assigned train seat.",
+      "reading": "していせき",
+      "romanization": "shiteiseki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000032",
+      "english_id": "en:vcu100:japan-tourism:000032",
+      "english_sense_id": "japan-tourism-000032",
+      "kind": "word",
+      "text": "自由席",
+      "description_en": "Unreserved train seat.",
+      "reading": "じゆうせき",
+      "romanization": "jiyūseki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000033",
+      "english_id": "en:vcu100:japan-tourism:000033",
+      "english_sense_id": "japan-tourism-000033",
+      "kind": "word",
+      "text": "満席",
+      "description_en": "All seats occupied.",
+      "reading": "まんせき",
+      "romanization": "manseki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000034",
+      "english_id": "en:vcu100:japan-tourism:000034",
+      "english_sense_id": "japan-tourism-000034",
+      "kind": "word",
+      "text": "遅延",
+      "description_en": "Service delay.",
+      "reading": "ちえん",
+      "romanization": "chien",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000035",
+      "english_id": "en:vcu100:japan-tourism:000035",
+      "english_sense_id": "japan-tourism-000035",
+      "kind": "word",
+      "text": "終電",
+      "description_en": "Last train of the day.",
+      "reading": "しゅうでん",
+      "romanization": "shūden",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000036",
+      "english_id": "en:vcu100:japan-tourism:000036",
+      "english_sense_id": "japan-tourism-000036",
+      "kind": "word",
+      "text": "始発",
+      "description_en": "First train of a route or day.",
+      "reading": "しはつ",
+      "romanization": "shihatsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Trens e transporte"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000037",
+      "english_id": "en:vcu100:japan-tourism:000037",
+      "english_sense_id": "japan-tourism-000037",
+      "kind": "word",
+      "text": "地図",
+      "description_en": "Map used to find places.",
+      "reading": "ちず",
+      "romanization": "chizu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000038",
+      "english_id": "en:vcu100:japan-tourism:000038",
+      "english_sense_id": "japan-tourism-000038",
+      "kind": "word",
+      "text": "道",
+      "description_en": "Path or road.",
+      "reading": "みち",
+      "romanization": "michi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000039",
+      "english_id": "en:vcu100:japan-tourism:000039",
+      "english_sense_id": "japan-tourism-000039",
+      "kind": "word",
+      "text": "交差点",
+      "description_en": "Road intersection.",
+      "reading": "こうさてん",
+      "romanization": "kōsaten",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000040",
+      "english_id": "en:vcu100:japan-tourism:000040",
+      "english_sense_id": "japan-tourism-000040",
+      "kind": "word",
+      "text": "信号",
+      "description_en": "Traffic light.",
+      "reading": "しんごう",
+      "romanization": "shingō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000041",
+      "english_id": "en:vcu100:japan-tourism:000041",
+      "english_sense_id": "japan-tourism-000041",
+      "kind": "word",
+      "text": "右",
+      "description_en": "Right-hand direction.",
+      "reading": "みぎ",
+      "romanization": "migi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000042",
+      "english_id": "en:vcu100:japan-tourism:000042",
+      "english_sense_id": "japan-tourism-000042",
+      "kind": "word",
+      "text": "左",
+      "description_en": "Left-hand direction.",
+      "reading": "ひだり",
+      "romanization": "hidari",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000043",
+      "english_id": "en:vcu100:japan-tourism:000043",
+      "english_sense_id": "japan-tourism-000043",
+      "kind": "word",
+      "text": "まっすぐ",
+      "description_en": "Straight ahead.",
+      "reading": "まっすぐ",
+      "romanization": "massugu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000044",
+      "english_id": "en:vcu100:japan-tourism:000044",
+      "english_sense_id": "japan-tourism-000044",
+      "kind": "word",
+      "text": "近く",
+      "description_en": "Nearby location.",
+      "reading": "ちかく",
+      "romanization": "chikaku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000045",
+      "english_id": "en:vcu100:japan-tourism:000045",
+      "english_sense_id": "japan-tourism-000045",
+      "kind": "word",
+      "text": "遠い",
+      "description_en": "Far away.",
+      "reading": "とおい",
+      "romanization": "tōi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000046",
+      "english_id": "en:vcu100:japan-tourism:000046",
+      "english_sense_id": "japan-tourism-000046",
+      "kind": "word",
+      "text": "徒歩",
+      "description_en": "Going on foot.",
+      "reading": "とほ",
+      "romanization": "toho",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000047",
+      "english_id": "en:vcu100:japan-tourism:000047",
+      "english_sense_id": "japan-tourism-000047",
+      "kind": "word",
+      "text": "所要時間",
+      "description_en": "Time required for travel or an activity.",
+      "reading": "しょようじかん",
+      "romanization": "shoyō jikan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000048",
+      "english_id": "en:vcu100:japan-tourism:000048",
+      "english_sense_id": "japan-tourism-000048",
+      "kind": "word",
+      "text": "観光案内所",
+      "description_en": "Tourist information office.",
+      "reading": "かんこうあんないじょ",
+      "romanization": "kankō annaijo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000049",
+      "english_id": "en:vcu100:japan-tourism:000049",
+      "english_sense_id": "japan-tourism-000049",
+      "kind": "word",
+      "text": "案内板",
+      "description_en": "Information board.",
+      "reading": "あんないばん",
+      "romanization": "annaiban",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000050",
+      "english_id": "en:vcu100:japan-tourism:000050",
+      "english_sense_id": "japan-tourism-000050",
+      "kind": "word",
+      "text": "交番",
+      "description_en": "Small neighborhood police station.",
+      "reading": "こうばん",
+      "romanization": "kōban",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000051",
+      "english_id": "en:vcu100:japan-tourism:000051",
+      "english_sense_id": "japan-tourism-000051",
+      "kind": "word",
+      "text": "住所",
+      "description_en": "Street address.",
+      "reading": "じゅうしょ",
+      "romanization": "jūsho",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000052",
+      "english_id": "en:vcu100:japan-tourism:000052",
+      "english_sense_id": "japan-tourism-000052",
+      "kind": "word",
+      "text": "目的地",
+      "description_en": "Destination.",
+      "reading": "もくてきち",
+      "romanization": "mokutekichi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000053",
+      "english_id": "en:vcu100:japan-tourism:000053",
+      "english_sense_id": "japan-tourism-000053",
+      "kind": "word",
+      "text": "現在地",
+      "description_en": "Current location.",
+      "reading": "げんざいち",
+      "romanization": "genzaichi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000054",
+      "english_id": "en:vcu100:japan-tourism:000054",
+      "english_sense_id": "japan-tourism-000054",
+      "kind": "word",
+      "text": "予約",
+      "description_en": "Advance booking.",
+      "reading": "よやく",
+      "romanization": "yoyaku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000055",
+      "english_id": "en:vcu100:japan-tourism:000055",
+      "english_sense_id": "japan-tourism-000055",
+      "kind": "word",
+      "text": "観光",
+      "description_en": "Tourism and sightseeing.",
+      "reading": "かんこう",
+      "romanization": "kankō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:directions",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Orientação e direções"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000056",
+      "english_id": "en:vcu100:japan-tourism:000056",
+      "english_sense_id": "japan-tourism-000056",
+      "kind": "word",
+      "text": "ホテル",
+      "description_en": "Hotel offering paid lodging.",
+      "reading": "ホテル",
+      "romanization": "hoteru",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000057",
+      "english_id": "en:vcu100:japan-tourism:000057",
+      "english_sense_id": "japan-tourism-000057",
+      "kind": "word",
+      "text": "旅館",
+      "description_en": "Traditional Japanese inn.",
+      "reading": "りょかん",
+      "romanization": "ryokan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000058",
+      "english_id": "en:vcu100:japan-tourism:000058",
+      "english_sense_id": "japan-tourism-000058",
+      "kind": "word",
+      "text": "民宿",
+      "description_en": "Small family-operated inn.",
+      "reading": "みんしゅく",
+      "romanization": "minshuku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000059",
+      "english_id": "en:vcu100:japan-tourism:000059",
+      "english_sense_id": "japan-tourism-000059",
+      "kind": "word",
+      "text": "宿泊",
+      "description_en": "Staying overnight at accommodation.",
+      "reading": "しゅくはく",
+      "romanization": "shukuhaku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000060",
+      "english_id": "en:vcu100:japan-tourism:000060",
+      "english_sense_id": "japan-tourism-000060",
+      "kind": "word",
+      "text": "部屋",
+      "description_en": "Room in a building.",
+      "reading": "へや",
+      "romanization": "heya",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000061",
+      "english_id": "en:vcu100:japan-tourism:000061",
+      "english_sense_id": "japan-tourism-000061",
+      "kind": "word",
+      "text": "空室",
+      "description_en": "Unoccupied room available for booking.",
+      "reading": "くうしつ",
+      "romanization": "kūshitsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000062",
+      "english_id": "en:vcu100:japan-tourism:000062",
+      "english_sense_id": "japan-tourism-000062",
+      "kind": "word",
+      "text": "満室",
+      "description_en": "All guest rooms occupied or booked.",
+      "reading": "まんしつ",
+      "romanization": "manshitsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000063",
+      "english_id": "en:vcu100:japan-tourism:000063",
+      "english_sense_id": "japan-tourism-000063",
+      "kind": "word",
+      "text": "受付",
+      "description_en": "Reception desk or acceptance counter.",
+      "reading": "うけつけ",
+      "romanization": "uketsuke",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000064",
+      "english_id": "en:vcu100:japan-tourism:000064",
+      "english_sense_id": "japan-tourism-000064",
+      "kind": "word",
+      "text": "フロント",
+      "description_en": "Front desk of a hotel.",
+      "reading": "フロント",
+      "romanization": "furonto",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000065",
+      "english_id": "en:vcu100:japan-tourism:000065",
+      "english_sense_id": "japan-tourism-000065",
+      "kind": "word",
+      "text": "チェックイン",
+      "description_en": "Checking into accommodation.",
+      "reading": "チェックイン",
+      "romanization": "chekku in",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000066",
+      "english_id": "en:vcu100:japan-tourism:000066",
+      "english_sense_id": "japan-tourism-000066",
+      "kind": "word",
+      "text": "チェックアウト",
+      "description_en": "Checking out of accommodation.",
+      "reading": "チェックアウト",
+      "romanization": "chekku auto",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000067",
+      "english_id": "en:vcu100:japan-tourism:000067",
+      "english_sense_id": "japan-tourism-000067",
+      "kind": "word",
+      "text": "鍵",
+      "description_en": "Key to a room or door.",
+      "reading": "かぎ",
+      "romanization": "kagi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000068",
+      "english_id": "en:vcu100:japan-tourism:000068",
+      "english_sense_id": "japan-tourism-000068",
+      "kind": "word",
+      "text": "客室",
+      "description_en": "Guest room.",
+      "reading": "きゃくしつ",
+      "romanization": "kyakushitsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000069",
+      "english_id": "en:vcu100:japan-tourism:000069",
+      "english_sense_id": "japan-tourism-000069",
+      "kind": "word",
+      "text": "浴衣",
+      "description_en": "Light cotton robe often provided at inns.",
+      "reading": "ゆかた",
+      "romanization": "yukata",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000070",
+      "english_id": "en:vcu100:japan-tourism:000070",
+      "english_sense_id": "japan-tourism-000070",
+      "kind": "word",
+      "text": "布団",
+      "description_en": "Japanese bedding placed on the floor.",
+      "reading": "ふとん",
+      "romanization": "futon",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000071",
+      "english_id": "en:vcu100:japan-tourism:000071",
+      "english_sense_id": "japan-tourism-000071",
+      "kind": "word",
+      "text": "大浴場",
+      "description_en": "Large communal bath at an inn.",
+      "reading": "だいよくじょう",
+      "romanization": "daiyokujō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000072",
+      "english_id": "en:vcu100:japan-tourism:000072",
+      "english_sense_id": "japan-tourism-000072",
+      "kind": "word",
+      "text": "朝食付き",
+      "description_en": "Accommodation including breakfast.",
+      "reading": "ちょうしょくつき",
+      "romanization": "chōshoku tsuki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000073",
+      "english_id": "en:vcu100:japan-tourism:000073",
+      "english_sense_id": "japan-tourism-000073",
+      "kind": "word",
+      "text": "禁煙室",
+      "description_en": "Non-smoking room.",
+      "reading": "きんえんしつ",
+      "romanization": "kin'enshitsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000074",
+      "english_id": "en:vcu100:japan-tourism:000074",
+      "english_sense_id": "japan-tourism-000074",
+      "kind": "word",
+      "text": "喫煙室",
+      "description_en": "Smoking room.",
+      "reading": "きつえんしつ",
+      "romanization": "kitsuenshitsu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000075",
+      "english_id": "en:vcu100:japan-tourism:000075",
+      "english_sense_id": "japan-tourism-000075",
+      "kind": "word",
+      "text": "荷物預かり",
+      "description_en": "Service storing luggage temporarily.",
+      "reading": "にもつあずかり",
+      "romanization": "nimotsu azukari",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Hotéis e pousadas"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000076",
+      "english_id": "en:vcu100:japan-tourism:000076",
+      "english_sense_id": "japan-tourism-000076",
+      "kind": "word",
+      "text": "レストラン",
+      "description_en": "Restaurant.",
+      "reading": "レストラン",
+      "romanization": "resutoran",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000077",
+      "english_id": "en:vcu100:japan-tourism:000077",
+      "english_sense_id": "japan-tourism-000077",
+      "kind": "word",
+      "text": "食堂",
+      "description_en": "Casual eating place or cafeteria.",
+      "reading": "しょくどう",
+      "romanization": "shokudō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000078",
+      "english_id": "en:vcu100:japan-tourism:000078",
+      "english_sense_id": "japan-tourism-000078",
+      "kind": "word",
+      "text": "居酒屋",
+      "description_en": "Casual Japanese pub serving drinks and food.",
+      "reading": "いざかや",
+      "romanization": "izakaya",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000079",
+      "english_id": "en:vcu100:japan-tourism:000079",
+      "english_sense_id": "japan-tourism-000079",
+      "kind": "word",
+      "text": "喫茶店",
+      "description_en": "Café serving coffee and light foods.",
+      "reading": "きっさてん",
+      "romanization": "kissaten",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000080",
+      "english_id": "en:vcu100:japan-tourism:000080",
+      "english_sense_id": "japan-tourism-000080",
+      "kind": "word",
+      "text": "ラーメン",
+      "description_en": "Japanese noodle soup dish.",
+      "reading": "ラーメン",
+      "romanization": "rāmen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000081",
+      "english_id": "en:vcu100:japan-tourism:000081",
+      "english_sense_id": "japan-tourism-000081",
+      "kind": "word",
+      "text": "うどん",
+      "description_en": "Thick wheat-flour noodles.",
+      "reading": "うどん",
+      "romanization": "udon",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000082",
+      "english_id": "en:vcu100:japan-tourism:000082",
+      "english_sense_id": "japan-tourism-000082",
+      "kind": "word",
+      "text": "そば",
+      "description_en": "Buckwheat noodles.",
+      "reading": "そば",
+      "romanization": "soba",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000083",
+      "english_id": "en:vcu100:japan-tourism:000083",
+      "english_sense_id": "japan-tourism-000083",
+      "kind": "word",
+      "text": "寿司",
+      "description_en": "Japanese rice-based food often served with seafood.",
+      "reading": "すし",
+      "romanization": "sushi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000084",
+      "english_id": "en:vcu100:japan-tourism:000084",
+      "english_sense_id": "japan-tourism-000084",
+      "kind": "word",
+      "text": "刺身",
+      "description_en": "Sliced raw seafood served without rice.",
+      "reading": "さしみ",
+      "romanization": "sashimi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000085",
+      "english_id": "en:vcu100:japan-tourism:000085",
+      "english_sense_id": "japan-tourism-000085",
+      "kind": "word",
+      "text": "天ぷら",
+      "description_en": "Food coated in light batter and fried.",
+      "reading": "てんぷら",
+      "romanization": "tenpura",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000086",
+      "english_id": "en:vcu100:japan-tourism:000086",
+      "english_sense_id": "japan-tourism-000086",
+      "kind": "word",
+      "text": "焼き鳥",
+      "description_en": "Grilled chicken skewers.",
+      "reading": "やきとり",
+      "romanization": "yakitori",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000087",
+      "english_id": "en:vcu100:japan-tourism:000087",
+      "english_sense_id": "japan-tourism-000087",
+      "kind": "word",
+      "text": "お好み焼き",
+      "description_en": "Japanese savory griddle dish with various ingredients.",
+      "reading": "おこのみやき",
+      "romanization": "okonomiyaki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000088",
+      "english_id": "en:vcu100:japan-tourism:000088",
+      "english_sense_id": "japan-tourism-000088",
+      "kind": "word",
+      "text": "たこ焼き",
+      "description_en": "Grilled octopus-filled batter balls.",
+      "reading": "たこやき",
+      "romanization": "takoyaki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000089",
+      "english_id": "en:vcu100:japan-tourism:000089",
+      "english_sense_id": "japan-tourism-000089",
+      "kind": "word",
+      "text": "丼",
+      "description_en": "Rice bowl topped with various foods.",
+      "reading": "どんぶり",
+      "romanization": "donburi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000090",
+      "english_id": "en:vcu100:japan-tourism:000090",
+      "english_sense_id": "japan-tourism-000090",
+      "kind": "word",
+      "text": "弁当",
+      "description_en": "Packed Japanese meal.",
+      "reading": "べんとう",
+      "romanization": "bentō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000091",
+      "english_id": "en:vcu100:japan-tourism:000091",
+      "english_sense_id": "japan-tourism-000091",
+      "kind": "word",
+      "text": "定食",
+      "description_en": "Set meal served with rice and side dishes.",
+      "reading": "ていしょく",
+      "romanization": "teishoku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000092",
+      "english_id": "en:vcu100:japan-tourism:000092",
+      "english_sense_id": "japan-tourism-000092",
+      "kind": "word",
+      "text": "食券",
+      "description_en": "Ticket purchased for food at a vending machine or counter.",
+      "reading": "しょっけん",
+      "romanization": "shokken",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000093",
+      "english_id": "en:vcu100:japan-tourism:000093",
+      "english_sense_id": "japan-tourism-000093",
+      "kind": "word",
+      "text": "メニュー",
+      "description_en": "Menu listing food choices.",
+      "reading": "メニュー",
+      "romanization": "menyū",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000094",
+      "english_id": "en:vcu100:japan-tourism:000094",
+      "english_sense_id": "japan-tourism-000094",
+      "kind": "word",
+      "text": "注文",
+      "description_en": "Order placed for food or goods.",
+      "reading": "ちゅうもん",
+      "romanization": "chūmon",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000095",
+      "english_id": "en:vcu100:japan-tourism:000095",
+      "english_sense_id": "japan-tourism-000095",
+      "kind": "word",
+      "text": "会計",
+      "description_en": "Billing and payment at a restaurant.",
+      "reading": "かいけい",
+      "romanization": "kaikei",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000096",
+      "english_id": "en:vcu100:japan-tourism:000096",
+      "english_sense_id": "japan-tourism-000096",
+      "kind": "word",
+      "text": "現金",
+      "description_en": "Cash.",
+      "reading": "げんきん",
+      "romanization": "genkin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000097",
+      "english_id": "en:vcu100:japan-tourism:000097",
+      "english_sense_id": "japan-tourism-000097",
+      "kind": "word",
+      "text": "クレジットカード",
+      "description_en": "Credit card.",
+      "reading": "クレジットカード",
+      "romanization": "kurejitto kādo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000098",
+      "english_id": "en:vcu100:japan-tourism:000098",
+      "english_sense_id": "japan-tourism-000098",
+      "kind": "word",
+      "text": "電子マネー",
+      "description_en": "Electronic stored-value payment.",
+      "reading": "でんしマネー",
+      "romanization": "denshi manē",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000099",
+      "english_id": "en:vcu100:japan-tourism:000099",
+      "english_sense_id": "japan-tourism-000099",
+      "kind": "word",
+      "text": "水",
+      "description_en": "Water.",
+      "reading": "みず",
+      "romanization": "mizu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000100",
+      "english_id": "en:vcu100:japan-tourism:000100",
+      "english_sense_id": "japan-tourism-000100",
+      "kind": "word",
+      "text": "お茶",
+      "description_en": "Japanese tea.",
+      "reading": "おちゃ",
+      "romanization": "ocha",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000101",
+      "english_id": "en:vcu100:japan-tourism:000101",
+      "english_sense_id": "japan-tourism-000101",
+      "kind": "word",
+      "text": "生ビール",
+      "description_en": "Beer served on draft.",
+      "reading": "なまビール",
+      "romanization": "nama bīru",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000102",
+      "english_id": "en:vcu100:japan-tourism:000102",
+      "english_sense_id": "japan-tourism-000102",
+      "kind": "word",
+      "text": "日本酒",
+      "description_en": "Japanese alcoholic rice beverage.",
+      "reading": "にほんしゅ",
+      "romanization": "nihonshu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000103",
+      "english_id": "en:vcu100:japan-tourism:000103",
+      "english_sense_id": "japan-tourism-000103",
+      "kind": "word",
+      "text": "お箸",
+      "description_en": "Chopsticks.",
+      "reading": "おはし",
+      "romanization": "ohashi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000104",
+      "english_id": "en:vcu100:japan-tourism:000104",
+      "english_sense_id": "japan-tourism-000104",
+      "kind": "word",
+      "text": "スプーン",
+      "description_en": "Spoon.",
+      "reading": "スプーン",
+      "romanization": "supūn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000105",
+      "english_id": "en:vcu100:japan-tourism:000105",
+      "english_sense_id": "japan-tourism-000105",
+      "kind": "word",
+      "text": "辛い",
+      "description_en": "Spicy-hot in flavor.",
+      "reading": "からい",
+      "romanization": "karai",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000106",
+      "english_id": "en:vcu100:japan-tourism:000106",
+      "english_sense_id": "japan-tourism-000106",
+      "kind": "word",
+      "text": "甘い",
+      "description_en": "Sweet tasting.",
+      "reading": "あまい",
+      "romanization": "amai",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000107",
+      "english_id": "en:vcu100:japan-tourism:000107",
+      "english_sense_id": "japan-tourism-000107",
+      "kind": "word",
+      "text": "塩",
+      "description_en": "Salt.",
+      "reading": "しお",
+      "romanization": "shio",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000108",
+      "english_id": "en:vcu100:japan-tourism:000108",
+      "english_sense_id": "japan-tourism-000108",
+      "kind": "word",
+      "text": "醤油",
+      "description_en": "Soy sauce.",
+      "reading": "しょうゆ",
+      "romanization": "shōyu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000109",
+      "english_id": "en:vcu100:japan-tourism:000109",
+      "english_sense_id": "japan-tourism-000109",
+      "kind": "word",
+      "text": "大盛り",
+      "description_en": "Large serving size.",
+      "reading": "おおもり",
+      "romanization": "ōmori",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000110",
+      "english_id": "en:vcu100:japan-tourism:000110",
+      "english_sense_id": "japan-tourism-000110",
+      "kind": "word",
+      "text": "持ち帰り",
+      "description_en": "Carrying purchased food away.",
+      "reading": "もちかえり",
+      "romanization": "mochikaeri",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000111",
+      "english_id": "en:vcu100:japan-tourism:000111",
+      "english_sense_id": "japan-tourism-000111",
+      "kind": "word",
+      "text": "アレルギー",
+      "description_en": "Allergy to a substance.",
+      "reading": "アレルギー",
+      "romanization": "arerugī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000112",
+      "english_id": "en:vcu100:japan-tourism:000112",
+      "english_sense_id": "japan-tourism-000112",
+      "kind": "word",
+      "text": "ベジタリアン",
+      "description_en": "Person who does not eat meat.",
+      "reading": "ベジタリアン",
+      "romanization": "bejitarian",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000113",
+      "english_id": "en:vcu100:japan-tourism:000113",
+      "english_sense_id": "japan-tourism-000113",
+      "kind": "word",
+      "text": "いただきます",
+      "description_en": "Conventional phrase said before eating.",
+      "reading": "いただきます",
+      "romanization": "itadakimasu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000114",
+      "english_id": "en:vcu100:japan-tourism:000114",
+      "english_sense_id": "japan-tourism-000114",
+      "kind": "word",
+      "text": "ごちそうさま",
+      "description_en": "Conventional thanks after a meal.",
+      "reading": "ごちそうさま",
+      "romanization": "gochisōsama",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Restaurantes e comida"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000115",
+      "english_id": "en:vcu100:japan-tourism:000115",
+      "english_sense_id": "japan-tourism-000115",
+      "kind": "word",
+      "text": "神社",
+      "description_en": "Shinto shrine.",
+      "reading": "じんじゃ",
+      "romanization": "jinja",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000116",
+      "english_id": "en:vcu100:japan-tourism:000116",
+      "english_sense_id": "japan-tourism-000116",
+      "kind": "word",
+      "text": "お寺",
+      "description_en": "Buddhist temple.",
+      "reading": "おてら",
+      "romanization": "otera",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000117",
+      "english_id": "en:vcu100:japan-tourism:000117",
+      "english_sense_id": "japan-tourism-000117",
+      "kind": "word",
+      "text": "鳥居",
+      "description_en": "Traditional gate marking a shrine entrance.",
+      "reading": "とりい",
+      "romanization": "torii",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000118",
+      "english_id": "en:vcu100:japan-tourism:000118",
+      "english_sense_id": "japan-tourism-000118",
+      "kind": "word",
+      "text": "本殿",
+      "description_en": "Inner shrine building where a deity is enshrined.",
+      "reading": "ほんでん",
+      "romanization": "honden",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000119",
+      "english_id": "en:vcu100:japan-tourism:000119",
+      "english_sense_id": "japan-tourism-000119",
+      "kind": "word",
+      "text": "拝殿",
+      "description_en": "Prayer hall at a shrine.",
+      "reading": "はいでん",
+      "romanization": "haiden",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000120",
+      "english_id": "en:vcu100:japan-tourism:000120",
+      "english_sense_id": "japan-tourism-000120",
+      "kind": "word",
+      "text": "手水舎",
+      "description_en": "Pavilion for ritual hand washing at a shrine.",
+      "reading": "てみずや",
+      "romanization": "temizuya",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000121",
+      "english_id": "en:vcu100:japan-tourism:000121",
+      "english_sense_id": "japan-tourism-000121",
+      "kind": "word",
+      "text": "お守り",
+      "description_en": "Charm offered at shrines or temples.",
+      "reading": "おまもり",
+      "romanization": "omamori",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000122",
+      "english_id": "en:vcu100:japan-tourism:000122",
+      "english_sense_id": "japan-tourism-000122",
+      "kind": "word",
+      "text": "おみくじ",
+      "description_en": "Fortune slip drawn at a shrine or temple.",
+      "reading": "おみくじ",
+      "romanization": "omikuji",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000123",
+      "english_id": "en:vcu100:japan-tourism:000123",
+      "english_sense_id": "japan-tourism-000123",
+      "kind": "word",
+      "text": "御朱印",
+      "description_en": "Calligraphic seal received at a shrine or temple.",
+      "reading": "ごしゅいん",
+      "romanization": "goshuin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000124",
+      "english_id": "en:vcu100:japan-tourism:000124",
+      "english_sense_id": "japan-tourism-000124",
+      "kind": "word",
+      "text": "御朱印帳",
+      "description_en": "Book used to collect shrine and temple seals.",
+      "reading": "ごしゅいんちょう",
+      "romanization": "goshuinchō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000125",
+      "english_id": "en:vcu100:japan-tourism:000125",
+      "english_sense_id": "japan-tourism-000125",
+      "kind": "word",
+      "text": "賽銭箱",
+      "description_en": "Box for monetary offerings at a shrine or temple.",
+      "reading": "さいせんばこ",
+      "romanization": "saisenbako",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000126",
+      "english_id": "en:vcu100:japan-tourism:000126",
+      "english_sense_id": "japan-tourism-000126",
+      "kind": "word",
+      "text": "お参り",
+      "description_en": "Visit to pray or pay respects at a sacred place.",
+      "reading": "おまいり",
+      "romanization": "omairi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000127",
+      "english_id": "en:vcu100:japan-tourism:000127",
+      "english_sense_id": "japan-tourism-000127",
+      "kind": "word",
+      "text": "庭園",
+      "description_en": "Designed garden.",
+      "reading": "ていえん",
+      "romanization": "teien",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000128",
+      "english_id": "en:vcu100:japan-tourism:000128",
+      "english_sense_id": "japan-tourism-000128",
+      "kind": "word",
+      "text": "公園",
+      "description_en": "Public park.",
+      "reading": "こうえん",
+      "romanization": "kōen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000129",
+      "english_id": "en:vcu100:japan-tourism:000129",
+      "english_sense_id": "japan-tourism-000129",
+      "kind": "word",
+      "text": "博物館",
+      "description_en": "Museum.",
+      "reading": "はくぶつかん",
+      "romanization": "hakubutsukan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000130",
+      "english_id": "en:vcu100:japan-tourism:000130",
+      "english_sense_id": "japan-tourism-000130",
+      "kind": "word",
+      "text": "美術館",
+      "description_en": "Art museum.",
+      "reading": "びじゅつかん",
+      "romanization": "bijutsukan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000131",
+      "english_id": "en:vcu100:japan-tourism:000131",
+      "english_sense_id": "japan-tourism-000131",
+      "kind": "word",
+      "text": "水族館",
+      "description_en": "Aquarium open to visitors.",
+      "reading": "すいぞくかん",
+      "romanization": "suizokukan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000132",
+      "english_id": "en:vcu100:japan-tourism:000132",
+      "english_sense_id": "japan-tourism-000132",
+      "kind": "word",
+      "text": "動物園",
+      "description_en": "Zoo.",
+      "reading": "どうぶつえん",
+      "romanization": "dōbutsuen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000133",
+      "english_id": "en:vcu100:japan-tourism:000133",
+      "english_sense_id": "japan-tourism-000133",
+      "kind": "word",
+      "text": "温泉",
+      "description_en": "Hot spring bathing facility.",
+      "reading": "おんせん",
+      "romanization": "onsen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000134",
+      "english_id": "en:vcu100:japan-tourism:000134",
+      "english_sense_id": "japan-tourism-000134",
+      "kind": "word",
+      "text": "露天風呂",
+      "description_en": "Outdoor bath.",
+      "reading": "ろてんぶろ",
+      "romanization": "rotenburo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000135",
+      "english_id": "en:vcu100:japan-tourism:000135",
+      "english_sense_id": "japan-tourism-000135",
+      "kind": "word",
+      "text": "銭湯",
+      "description_en": "Neighborhood public bathhouse.",
+      "reading": "せんとう",
+      "romanization": "sentō",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000136",
+      "english_id": "en:vcu100:japan-tourism:000136",
+      "english_sense_id": "japan-tourism-000136",
+      "kind": "word",
+      "text": "遊園地",
+      "description_en": "Amusement park.",
+      "reading": "ゆうえんち",
+      "romanization": "yūenchi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000137",
+      "english_id": "en:vcu100:japan-tourism:000137",
+      "english_sense_id": "japan-tourism-000137",
+      "kind": "word",
+      "text": "展望台",
+      "description_en": "Observation deck or lookout.",
+      "reading": "てんぼうだい",
+      "romanization": "tenbōdai",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000138",
+      "english_id": "en:vcu100:japan-tourism:000138",
+      "english_sense_id": "japan-tourism-000138",
+      "kind": "word",
+      "text": "景色",
+      "description_en": "View or scenery.",
+      "reading": "けしき",
+      "romanization": "keshiki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:sights",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Templos e atrações"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000139",
+      "english_id": "en:vcu100:japan-tourism:000139",
+      "english_sense_id": "japan-tourism-000139",
+      "kind": "word",
+      "text": "お土産",
+      "description_en": "Gift or souvenir brought from a trip.",
+      "reading": "おみやげ",
+      "romanization": "omiyage",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000140",
+      "english_id": "en:vcu100:japan-tourism:000140",
+      "english_sense_id": "japan-tourism-000140",
+      "kind": "word",
+      "text": "お土産屋",
+      "description_en": "Shop selling travel souvenirs.",
+      "reading": "おみやげや",
+      "romanization": "omiyageya",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000141",
+      "english_id": "en:vcu100:japan-tourism:000141",
+      "english_sense_id": "japan-tourism-000141",
+      "kind": "word",
+      "text": "売り場",
+      "description_en": "Area in a store where goods are sold.",
+      "reading": "うりば",
+      "romanization": "uriba",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000142",
+      "english_id": "en:vcu100:japan-tourism:000142",
+      "english_sense_id": "japan-tourism-000142",
+      "kind": "word",
+      "text": "値段",
+      "description_en": "Price of an item.",
+      "reading": "ねだん",
+      "romanization": "nedan",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000143",
+      "english_id": "en:vcu100:japan-tourism:000143",
+      "english_sense_id": "japan-tourism-000143",
+      "kind": "word",
+      "text": "割引",
+      "description_en": "Reduction in price.",
+      "reading": "わりびき",
+      "romanization": "waribiki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000144",
+      "english_id": "en:vcu100:japan-tourism:000144",
+      "english_sense_id": "japan-tourism-000144",
+      "kind": "word",
+      "text": "免税",
+      "description_en": "Tax exemption under applicable shopping rules.",
+      "reading": "めんぜい",
+      "romanization": "menzei",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000145",
+      "english_id": "en:vcu100:japan-tourism:000145",
+      "english_sense_id": "japan-tourism-000145",
+      "kind": "word",
+      "text": "領収書",
+      "description_en": "Formal receipt.",
+      "reading": "りょうしゅうしょ",
+      "romanization": "ryōshūsho",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000146",
+      "english_id": "en:vcu100:japan-tourism:000146",
+      "english_sense_id": "japan-tourism-000146",
+      "kind": "word",
+      "text": "レシート",
+      "description_en": "Store register receipt.",
+      "reading": "レシート",
+      "romanization": "reshīto",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000147",
+      "english_id": "en:vcu100:japan-tourism:000147",
+      "english_sense_id": "japan-tourism-000147",
+      "kind": "word",
+      "text": "袋",
+      "description_en": "Bag or sack.",
+      "reading": "ふくろ",
+      "romanization": "fukuro",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000148",
+      "english_id": "en:vcu100:japan-tourism:000148",
+      "english_sense_id": "japan-tourism-000148",
+      "kind": "word",
+      "text": "試着",
+      "description_en": "Trying clothing on before purchase.",
+      "reading": "しちゃく",
+      "romanization": "shichaku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000149",
+      "english_id": "en:vcu100:japan-tourism:000149",
+      "english_sense_id": "japan-tourism-000149",
+      "kind": "word",
+      "text": "在庫",
+      "description_en": "Stock of products for sale.",
+      "reading": "ざいこ",
+      "romanization": "zaiko",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000150",
+      "english_id": "en:vcu100:japan-tourism:000150",
+      "english_sense_id": "japan-tourism-000150",
+      "kind": "word",
+      "text": "売り切れ",
+      "description_en": "Sold out item.",
+      "reading": "うりきれ",
+      "romanization": "urikire",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000151",
+      "english_id": "en:vcu100:japan-tourism:000151",
+      "english_sense_id": "japan-tourism-000151",
+      "kind": "word",
+      "text": "中古品",
+      "description_en": "Secondhand goods.",
+      "reading": "ちゅうこひん",
+      "romanization": "chūkohin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000152",
+      "english_id": "en:vcu100:japan-tourism:000152",
+      "english_sense_id": "japan-tourism-000152",
+      "kind": "word",
+      "text": "新品",
+      "description_en": "Brand-new item.",
+      "reading": "しんぴん",
+      "romanization": "shinpin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000153",
+      "english_id": "en:vcu100:japan-tourism:000153",
+      "english_sense_id": "japan-tourism-000153",
+      "kind": "word",
+      "text": "限定品",
+      "description_en": "Limited-edition item.",
+      "reading": "げんていひん",
+      "romanization": "genteihin",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000154",
+      "english_id": "en:vcu100:japan-tourism:000154",
+      "english_sense_id": "japan-tourism-000154",
+      "kind": "word",
+      "text": "模型",
+      "description_en": "Model or miniature.",
+      "reading": "もけい",
+      "romanization": "mokei",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000155",
+      "english_id": "en:vcu100:japan-tourism:000155",
+      "english_sense_id": "japan-tourism-000155",
+      "kind": "word",
+      "text": "プラモデル",
+      "description_en": "Plastic model kit.",
+      "reading": "プラモデル",
+      "romanization": "puramoderu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000156",
+      "english_id": "en:vcu100:japan-tourism:000156",
+      "english_sense_id": "japan-tourism-000156",
+      "kind": "word",
+      "text": "フィギュア",
+      "description_en": "Collectible character figure.",
+      "reading": "フィギュア",
+      "romanization": "figyua",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000157",
+      "english_id": "en:vcu100:japan-tourism:000157",
+      "english_sense_id": "japan-tourism-000157",
+      "kind": "word",
+      "text": "ガチャガチャ",
+      "description_en": "Capsule-toy vending machine.",
+      "reading": "ガチャガチャ",
+      "romanization": "gachagacha",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000158",
+      "english_id": "en:vcu100:japan-tourism:000158",
+      "english_sense_id": "japan-tourism-000158",
+      "kind": "word",
+      "text": "アニメ",
+      "description_en": "Japanese animation.",
+      "reading": "アニメ",
+      "romanization": "anime",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000159",
+      "english_id": "en:vcu100:japan-tourism:000159",
+      "english_sense_id": "japan-tourism-000159",
+      "kind": "word",
+      "text": "漫画",
+      "description_en": "Japanese comics.",
+      "reading": "まんが",
+      "romanization": "manga",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000160",
+      "english_id": "en:vcu100:japan-tourism:000160",
+      "english_sense_id": "japan-tourism-000160",
+      "kind": "word",
+      "text": "コスプレ",
+      "description_en": "Costume role-play based on characters.",
+      "reading": "コスプレ",
+      "romanization": "kosupure",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000161",
+      "english_id": "en:vcu100:japan-tourism:000161",
+      "english_sense_id": "japan-tourism-000161",
+      "kind": "word",
+      "text": "原宿",
+      "description_en": "Tokyo area known for youth fashion and shopping.",
+      "reading": "はらじゅく",
+      "romanization": "Harajuku",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000162",
+      "english_id": "en:vcu100:japan-tourism:000162",
+      "english_sense_id": "japan-tourism-000162",
+      "kind": "word",
+      "text": "秋葉原",
+      "description_en": "Tokyo district known for electronics and pop culture.",
+      "reading": "あきはばら",
+      "romanization": "Akihabara",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000163",
+      "english_id": "en:vcu100:japan-tourism:000163",
+      "english_sense_id": "japan-tourism-000163",
+      "kind": "word",
+      "text": "浅草",
+      "description_en": "Tokyo neighborhood famous for older streets and temples.",
+      "reading": "あさくさ",
+      "romanization": "Asakusa",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000164",
+      "english_id": "en:vcu100:japan-tourism:000164",
+      "english_sense_id": "japan-tourism-000164",
+      "kind": "word",
+      "text": "カメラ",
+      "description_en": "Camera used for photography.",
+      "reading": "カメラ",
+      "romanization": "kamera",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000165",
+      "english_id": "en:vcu100:japan-tourism:000165",
+      "english_sense_id": "japan-tourism-000165",
+      "kind": "word",
+      "text": "充電器",
+      "description_en": "Device used to charge electronics.",
+      "reading": "じゅうでんき",
+      "romanization": "jūdenki",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:shopping",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Compras e colecionáveis"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000166",
+      "english_id": "en:vcu100:japan-tourism:000166",
+      "english_sense_id": "japan-tourism-000166",
+      "kind": "expression",
+      "text": "これはいくらですか",
+      "description_en": "Polite question asking an item's price.",
+      "reading": "これはいくらですか",
+      "romanization": "kore wa ikura desu ka",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000167",
+      "english_id": "en:vcu100:japan-tourism:000167",
+      "english_sense_id": "japan-tourism-000167",
+      "kind": "expression",
+      "text": "トイレはどこですか",
+      "description_en": "Polite question asking where a restroom is.",
+      "reading": "トイレはどこですか",
+      "romanization": "toire wa doko desu ka",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000168",
+      "english_id": "en:vcu100:japan-tourism:000168",
+      "english_sense_id": "japan-tourism-000168",
+      "kind": "expression",
+      "text": "写真を撮ってもいいですか",
+      "description_en": "Polite request for permission to photograph.",
+      "reading": "しゃしんをとってもいいですか",
+      "romanization": "shashin o totte mo ii desu ka",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000169",
+      "english_id": "en:vcu100:japan-tourism:000169",
+      "english_sense_id": "japan-tourism-000169",
+      "kind": "expression",
+      "text": "道に迷いました",
+      "description_en": "Polite statement that one has lost the way.",
+      "reading": "みちにまよいました",
+      "romanization": "michi ni mayoimashita",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000170",
+      "english_id": "en:vcu100:japan-tourism:000170",
+      "english_sense_id": "japan-tourism-000170",
+      "kind": "expression",
+      "text": "助けてください",
+      "description_en": "Request for assistance.",
+      "reading": "たすけてください",
+      "romanization": "tasukete kudasai",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000171",
+      "english_id": "en:vcu100:japan-tourism:000171",
+      "english_sense_id": "japan-tourism-000171",
+      "kind": "expression",
+      "text": "予約しています",
+      "description_en": "Polite statement that a booking exists.",
+      "reading": "よやくしています",
+      "romanization": "yoyaku shite imasu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000172",
+      "english_id": "en:vcu100:japan-tourism:000172",
+      "english_sense_id": "japan-tourism-000172",
+      "kind": "expression",
+      "text": "日本語が少し分かります",
+      "description_en": "Polite statement of limited Japanese comprehension.",
+      "reading": "にほんごがすこしわかります",
+      "romanization": "nihongo ga sukoshi wakarimasu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000173",
+      "english_id": "en:vcu100:japan-tourism:000173",
+      "english_sense_id": "japan-tourism-000173",
+      "kind": "expression",
+      "text": "ゆっくり話してください",
+      "description_en": "Polite request for slower speech.",
+      "reading": "ゆっくりはなしてください",
+      "romanization": "yukkuri hanashite kudasai",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000174",
+      "english_id": "en:vcu100:japan-tourism:000174",
+      "english_sense_id": "japan-tourism-000174",
+      "kind": "expression",
+      "text": "ありがとうございます",
+      "description_en": "Standard polite expression of thanks.",
+      "reading": "ありがとうございます",
+      "romanization": "arigatō gozaimasu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    },
+    {
+      "id": "ja:vcu100:japan-tourism:000175",
+      "english_id": "en:vcu100:japan-tourism:000175",
+      "english_sense_id": "japan-tourism-000175",
+      "kind": "expression",
+      "text": "すみません",
+      "description_en": "Polite way to get attention or apologize.",
+      "reading": "すみません",
+      "romanization": "sumimasen",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:japan_tourism:phrases",
+      "topics": [
+        "VCU100 · Turismo no Japão",
+        "Turismo · Frases de viagem"
+      ]
+    }
+  ]
+}
