@@ -1,0 +1,2755 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-en-us-healthcare",
+  "package_type": "ishida-monolingual",
+  "language": "en",
+  "region": "en-US-VCU100-healthcare",
+  "name": "VCU100 — Healthcare English International (US)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "editorial-original-vcu100",
+  "language_info": {
+    "code": "en",
+    "flag": "🇺🇸",
+    "locale": "en-US",
+    "name_native": "English",
+    "name_en": "English",
+    "name_pt": "Inglês",
+    "name_ja": "英語",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "healthcare_nursing",
+  "companion_package_id": "vcu100-pt-br-healthcare-companion",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "editorial/vcu100/aligned/healthcare-en-US-pt-BR-001.json"
+  ],
+  "notes": [
+    "Education and professional vocabulary only; definitions are not clinical advice.",
+    "Independent from VCU14. PT-BR companion is required for paired word cards."
+  ],
+  "entries": [
+    {
+      "id": "en:vcu100:healthcare:000001",
+      "english_id": "en:vcu100:healthcare:000001",
+      "english_sense_id": "healthcare-000001",
+      "kind": "word",
+      "text": "reception desk",
+      "description_en": "The place where patients first check in.",
+      "example_en": "Please go to the reception desk.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000002",
+      "english_id": "en:vcu100:healthcare:000002",
+      "english_sense_id": "healthcare-000002",
+      "kind": "word",
+      "text": "patient registration",
+      "description_en": "The process of recording patient details before care.",
+      "example_en": "Complete patient registration before your appointment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000003",
+      "english_id": "en:vcu100:healthcare:000003",
+      "english_sense_id": "healthcare-000003",
+      "kind": "word",
+      "text": "appointment",
+      "description_en": "A scheduled visit for medical care.",
+      "example_en": "Your appointment is at ten.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000004",
+      "english_id": "en:vcu100:healthcare:000004",
+      "english_sense_id": "healthcare-000004",
+      "kind": "word",
+      "text": "walk-in patient",
+      "description_en": "A patient arriving without an appointment.",
+      "example_en": "Walk-in patients may need to wait.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000005",
+      "english_id": "en:vcu100:healthcare:000005",
+      "english_sense_id": "healthcare-000005",
+      "kind": "word",
+      "text": "waiting room",
+      "description_en": "The area where patients wait to be seen.",
+      "example_en": "Please take a seat in the waiting room.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000006",
+      "english_id": "en:vcu100:healthcare:000006",
+      "english_sense_id": "healthcare-000006",
+      "kind": "word",
+      "text": "check-in",
+      "description_en": "Confirming arrival for a medical appointment.",
+      "example_en": "Check-in is required before the visit.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000007",
+      "english_id": "en:vcu100:healthcare:000007",
+      "english_sense_id": "healthcare-000007",
+      "kind": "word",
+      "text": "health insurance card",
+      "description_en": "A card containing health plan details.",
+      "example_en": "Bring your health insurance card.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000008",
+      "english_id": "en:vcu100:healthcare:000008",
+      "english_sense_id": "healthcare-000008",
+      "kind": "word",
+      "text": "insurance coverage",
+      "description_en": "Medical services a health plan agrees to pay for.",
+      "example_en": "Confirm insurance coverage before scheduling.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000009",
+      "english_id": "en:vcu100:healthcare:000009",
+      "english_sense_id": "healthcare-000009",
+      "kind": "word",
+      "text": "referral",
+      "description_en": "A request or recommendation to see another healthcare professional.",
+      "example_en": "The specialist requires a referral.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000010",
+      "english_id": "en:vcu100:healthcare:000010",
+      "english_sense_id": "healthcare-000010",
+      "kind": "word",
+      "text": "patient identification",
+      "description_en": "Checking a patient's identity before care.",
+      "example_en": "Confirm patient identification before the procedure.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000011",
+      "english_id": "en:vcu100:healthcare:000011",
+      "english_sense_id": "healthcare-000011",
+      "kind": "word",
+      "text": "consent form",
+      "description_en": "A document recording a patient's consent.",
+      "example_en": "Explain the consent form before signing.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000012",
+      "english_id": "en:vcu100:healthcare:000012",
+      "english_sense_id": "healthcare-000012",
+      "kind": "word",
+      "text": "emergency contact",
+      "description_en": "A person to notify if an emergency occurs.",
+      "example_en": "Update your emergency contact.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:registration",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Recepção e cadastro"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000013",
+      "english_id": "en:vcu100:healthcare:000013",
+      "english_sense_id": "healthcare-000013",
+      "kind": "word",
+      "text": "triage",
+      "description_en": "A process to prioritize patients by urgency.",
+      "example_en": "The nurse performs triage on arrival.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000014",
+      "english_id": "en:vcu100:healthcare:000014",
+      "english_sense_id": "healthcare-000014",
+      "kind": "word",
+      "text": "chief complaint",
+      "description_en": "The main problem that brought a patient for care.",
+      "example_en": "Document the chief complaint.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000015",
+      "english_id": "en:vcu100:healthcare:000015",
+      "english_sense_id": "healthcare-000015",
+      "kind": "word",
+      "text": "medical history",
+      "description_en": "A record of past illnesses and treatments.",
+      "example_en": "Review the patient's medical history.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000016",
+      "english_id": "en:vcu100:healthcare:000016",
+      "english_sense_id": "healthcare-000016",
+      "kind": "word",
+      "text": "allergy history",
+      "description_en": "Information about allergies and reactions.",
+      "example_en": "Ask about allergy history.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000017",
+      "english_id": "en:vcu100:healthcare:000017",
+      "english_sense_id": "healthcare-000017",
+      "kind": "word",
+      "text": "current medications",
+      "description_en": "Medicines a patient is currently taking.",
+      "example_en": "Record all current medications.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000018",
+      "english_id": "en:vcu100:healthcare:000018",
+      "english_sense_id": "healthcare-000018",
+      "kind": "word",
+      "text": "pain scale",
+      "description_en": "A numerical or descriptive way to report pain.",
+      "example_en": "Ask the patient to rate pain on the pain scale.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000019",
+      "english_id": "en:vcu100:healthcare:000019",
+      "english_sense_id": "healthcare-000019",
+      "kind": "word",
+      "text": "urgency level",
+      "description_en": "A category reflecting how quickly a patient needs attention.",
+      "example_en": "Assign an urgency level after triage.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000020",
+      "english_id": "en:vcu100:healthcare:000020",
+      "english_sense_id": "healthcare-000020",
+      "kind": "word",
+      "text": "initial assessment",
+      "description_en": "The first evaluation of a patient's condition.",
+      "example_en": "Complete an initial assessment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000021",
+      "english_id": "en:vcu100:healthcare:000021",
+      "english_sense_id": "healthcare-000021",
+      "kind": "word",
+      "text": "risk factor",
+      "description_en": "A characteristic associated with increased likelihood of a condition.",
+      "example_en": "Record the relevant risk factors.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000022",
+      "english_id": "en:vcu100:healthcare:000022",
+      "english_sense_id": "healthcare-000022",
+      "kind": "word",
+      "text": "symptom onset",
+      "description_en": "When a symptom first appeared.",
+      "example_en": "Ask about symptom onset.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000023",
+      "english_id": "en:vcu100:healthcare:000023",
+      "english_sense_id": "healthcare-000023",
+      "kind": "word",
+      "text": "severity",
+      "description_en": "The degree of seriousness of a symptom or condition.",
+      "example_en": "Assess the severity of the complaint.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000024",
+      "english_id": "en:vcu100:healthcare:000024",
+      "english_sense_id": "healthcare-000024",
+      "kind": "word",
+      "text": "patient priority",
+      "description_en": "The relative order of attention based on need.",
+      "example_en": "Triage determines patient priority.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:triage",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Triagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000025",
+      "english_id": "en:vcu100:healthcare:000025",
+      "english_sense_id": "healthcare-000025",
+      "kind": "word",
+      "text": "registered nurse (RN)",
+      "description_en": "An officially licensed professional nurse in the US.",
+      "example_en": "The registered nurse assessed the patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000026",
+      "english_id": "en:vcu100:healthcare:000026",
+      "english_sense_id": "healthcare-000026",
+      "kind": "word",
+      "text": "licensed practical nurse (LPN)",
+      "description_en": "A nursing professional licensed for a jurisdiction-defined scope of practice.",
+      "example_en": "The LPN assisted with patient care.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000027",
+      "english_id": "en:vcu100:healthcare:000027",
+      "english_sense_id": "healthcare-000027",
+      "kind": "word",
+      "text": "nursing assistant",
+      "description_en": "A worker who assists nursing staff with routine care.",
+      "example_en": "The nursing assistant helped the patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000028",
+      "english_id": "en:vcu100:healthcare:000028",
+      "english_sense_id": "healthcare-000028",
+      "kind": "word",
+      "text": "attending physician",
+      "description_en": "A physician responsible for a patient's overall care.",
+      "example_en": "The attending physician reviewed the results.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000029",
+      "english_id": "en:vcu100:healthcare:000029",
+      "english_sense_id": "healthcare-000029",
+      "kind": "word",
+      "text": "resident physician",
+      "description_en": "A doctor receiving supervised specialty training.",
+      "example_en": "The resident physician examined the patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000030",
+      "english_id": "en:vcu100:healthcare:000030",
+      "english_sense_id": "healthcare-000030",
+      "kind": "word",
+      "text": "physician assistant (PA)",
+      "description_en": "An authorized healthcare professional whose scope varies by jurisdiction.",
+      "example_en": "The physician assistant evaluated the patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000031",
+      "english_id": "en:vcu100:healthcare:000031",
+      "english_sense_id": "healthcare-000031",
+      "kind": "word",
+      "text": "nurse practitioner (NP)",
+      "description_en": "An advanced-practice nurse with jurisdiction-dependent authority.",
+      "example_en": "The nurse practitioner provided follow-up care.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000032",
+      "english_id": "en:vcu100:healthcare:000032",
+      "english_sense_id": "healthcare-000032",
+      "kind": "word",
+      "text": "phlebotomist",
+      "description_en": "A worker trained to draw blood specimens.",
+      "example_en": "The phlebotomist collected the blood sample.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000033",
+      "english_id": "en:vcu100:healthcare:000033",
+      "english_sense_id": "healthcare-000033",
+      "kind": "word",
+      "text": "radiologic technologist",
+      "description_en": "A professional who operates diagnostic imaging equipment.",
+      "example_en": "The radiologic technologist prepared the room.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000034",
+      "english_id": "en:vcu100:healthcare:000034",
+      "english_sense_id": "healthcare-000034",
+      "kind": "word",
+      "text": "physical therapist",
+      "description_en": "A professional who helps restore movement and physical function.",
+      "example_en": "The physical therapist developed a mobility plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000035",
+      "english_id": "en:vcu100:healthcare:000035",
+      "english_sense_id": "healthcare-000035",
+      "kind": "word",
+      "text": "medical interpreter",
+      "description_en": "A professional who interprets between patient and care team.",
+      "example_en": "Request a medical interpreter.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000036",
+      "english_id": "en:vcu100:healthcare:000036",
+      "english_sense_id": "healthcare-000036",
+      "kind": "word",
+      "text": "charge nurse",
+      "description_en": "A nurse coordinating staff and patient flow on a unit.",
+      "example_en": "Notify the charge nurse about the change.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:staff",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Profissionais de saúde"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000037",
+      "english_id": "en:vcu100:healthcare:000037",
+      "english_sense_id": "healthcare-000037",
+      "kind": "word",
+      "text": "stethoscope",
+      "description_en": "A medical instrument used to listen to body sounds.",
+      "example_en": "The nurse used a stethoscope.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000038",
+      "english_id": "en:vcu100:healthcare:000038",
+      "english_sense_id": "healthcare-000038",
+      "kind": "word",
+      "text": "blood pressure cuff",
+      "description_en": "An inflatable cuff for measuring blood pressure.",
+      "example_en": "Use the correct blood pressure cuff size.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000039",
+      "english_id": "en:vcu100:healthcare:000039",
+      "english_sense_id": "healthcare-000039",
+      "kind": "word",
+      "text": "thermometer",
+      "description_en": "A device used to measure temperature.",
+      "example_en": "Clean the thermometer after use.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000040",
+      "english_id": "en:vcu100:healthcare:000040",
+      "english_sense_id": "healthcare-000040",
+      "kind": "word",
+      "text": "pulse oximeter",
+      "description_en": "A sensor that estimates blood oxygen saturation.",
+      "example_en": "Attach the pulse oximeter to a finger.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000041",
+      "english_id": "en:vcu100:healthcare:000041",
+      "english_sense_id": "healthcare-000041",
+      "kind": "word",
+      "text": "exam table",
+      "description_en": "A padded surface for patient examination.",
+      "example_en": "Ask the patient to sit on the exam table.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000042",
+      "english_id": "en:vcu100:healthcare:000042",
+      "english_sense_id": "healthcare-000042",
+      "kind": "word",
+      "text": "stretcher",
+      "description_en": "A wheeled or carried platform for transporting patients.",
+      "example_en": "Move the stretcher carefully.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000043",
+      "english_id": "en:vcu100:healthcare:000043",
+      "english_sense_id": "healthcare-000043",
+      "kind": "word",
+      "text": "wheelchair",
+      "description_en": "A chair with wheels used for mobility.",
+      "example_en": "Bring a wheelchair to the entrance.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000044",
+      "english_id": "en:vcu100:healthcare:000044",
+      "english_sense_id": "healthcare-000044",
+      "kind": "word",
+      "text": "IV pole",
+      "description_en": "A stand that holds intravenous fluid bags.",
+      "example_en": "Adjust the IV pole height.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000045",
+      "english_id": "en:vcu100:healthcare:000045",
+      "english_sense_id": "healthcare-000045",
+      "kind": "word",
+      "text": "syringe",
+      "description_en": "A device with a plunger used to draw up or inject liquids.",
+      "example_en": "Dispose of the syringe according to protocol.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000046",
+      "english_id": "en:vcu100:healthcare:000046",
+      "english_sense_id": "healthcare-000046",
+      "kind": "word",
+      "text": "needle",
+      "description_en": "A sharp hollow instrument used in medical procedures.",
+      "example_en": "Never recap a used needle.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000047",
+      "english_id": "en:vcu100:healthcare:000047",
+      "english_sense_id": "healthcare-000047",
+      "kind": "word",
+      "text": "sharps container",
+      "description_en": "A puncture-resistant container for used sharp objects.",
+      "example_en": "Put the used needle in the sharps container.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000048",
+      "english_id": "en:vcu100:healthcare:000048",
+      "english_sense_id": "healthcare-000048",
+      "kind": "word",
+      "text": "exam gloves",
+      "description_en": "Disposable gloves used during clinical tasks.",
+      "example_en": "Put on exam gloves before the procedure.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000049",
+      "english_id": "en:vcu100:healthcare:000049",
+      "english_sense_id": "healthcare-000049",
+      "kind": "word",
+      "text": "medical gown",
+      "description_en": "A protective garment worn by staff or patients.",
+      "example_en": "Wear a medical gown when indicated.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000050",
+      "english_id": "en:vcu100:healthcare:000050",
+      "english_sense_id": "healthcare-000050",
+      "kind": "word",
+      "text": "lab coat",
+      "description_en": "A coat worn by healthcare or laboratory personnel.",
+      "example_en": "Hang the lab coat in the designated area.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000051",
+      "english_id": "en:vcu100:healthcare:000051",
+      "english_sense_id": "healthcare-000051",
+      "kind": "word",
+      "text": "face mask",
+      "description_en": "A covering worn over the nose and mouth.",
+      "example_en": "Use the face mask as required.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000052",
+      "english_id": "en:vcu100:healthcare:000052",
+      "english_sense_id": "healthcare-000052",
+      "kind": "word",
+      "text": "bed rail",
+      "description_en": "A rail on a hospital bed.",
+      "example_en": "Check the bed rail position.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:equipment",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Equipamentos e materiais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000053",
+      "english_id": "en:vcu100:healthcare:000053",
+      "english_sense_id": "healthcare-000053",
+      "kind": "word",
+      "text": "vital signs",
+      "description_en": "Basic measurements of body function.",
+      "example_en": "Record the patient's vital signs.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000054",
+      "english_id": "en:vcu100:healthcare:000054",
+      "english_sense_id": "healthcare-000054",
+      "kind": "word",
+      "text": "blood pressure",
+      "description_en": "The pressure of blood against artery walls.",
+      "example_en": "Measure blood pressure while the patient is resting.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000055",
+      "english_id": "en:vcu100:healthcare:000055",
+      "english_sense_id": "healthcare-000055",
+      "kind": "word",
+      "text": "heart rate",
+      "description_en": "The number of heartbeats per minute.",
+      "example_en": "Check the patient's heart rate.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000056",
+      "english_id": "en:vcu100:healthcare:000056",
+      "english_sense_id": "healthcare-000056",
+      "kind": "word",
+      "text": "respiratory rate",
+      "description_en": "The number of breaths per minute.",
+      "example_en": "Count the respiratory rate.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000057",
+      "english_id": "en:vcu100:healthcare:000057",
+      "english_sense_id": "healthcare-000057",
+      "kind": "word",
+      "text": "body temperature",
+      "description_en": "The measured temperature of the body.",
+      "example_en": "Record the body temperature.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000058",
+      "english_id": "en:vcu100:healthcare:000058",
+      "english_sense_id": "healthcare-000058",
+      "kind": "word",
+      "text": "oxygen saturation",
+      "description_en": "The estimated share of hemoglobin carrying oxygen.",
+      "example_en": "The monitor displays oxygen saturation.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000059",
+      "english_id": "en:vcu100:healthcare:000059",
+      "english_sense_id": "healthcare-000059",
+      "kind": "word",
+      "text": "height",
+      "description_en": "The distance from the bottom to the top of a person's body.",
+      "example_en": "Measure the patient's height.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000060",
+      "english_id": "en:vcu100:healthcare:000060",
+      "english_sense_id": "healthcare-000060",
+      "kind": "word",
+      "text": "weight",
+      "description_en": "A person's body weight.",
+      "example_en": "Record the patient's weight.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000061",
+      "english_id": "en:vcu100:healthcare:000061",
+      "english_sense_id": "healthcare-000061",
+      "kind": "word",
+      "text": "pulse",
+      "description_en": "The rhythmic expansion of an artery with each heartbeat.",
+      "example_en": "Check the radial pulse.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000062",
+      "english_id": "en:vcu100:healthcare:000062",
+      "english_sense_id": "healthcare-000062",
+      "kind": "word",
+      "text": "blood glucose",
+      "description_en": "The concentration of glucose in blood.",
+      "example_en": "The test measures blood glucose.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000063",
+      "english_id": "en:vcu100:healthcare:000063",
+      "english_sense_id": "healthcare-000063",
+      "kind": "word",
+      "text": "fasting",
+      "description_en": "Not eating for a specified period before a procedure.",
+      "example_en": "Confirm whether the patient is fasting.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000064",
+      "english_id": "en:vcu100:healthcare:000064",
+      "english_sense_id": "healthcare-000064",
+      "kind": "word",
+      "text": "hydration state",
+      "description_en": "The body's level of fluid balance.",
+      "example_en": "Assess the patient's hydration state.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:vitals",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sinais vitais"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000065",
+      "english_id": "en:vcu100:healthcare:000065",
+      "english_sense_id": "healthcare-000065",
+      "kind": "word",
+      "text": "fever",
+      "description_en": "An elevated body temperature.",
+      "example_en": "The patient reported a fever.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000066",
+      "english_id": "en:vcu100:healthcare:000066",
+      "english_sense_id": "healthcare-000066",
+      "kind": "word",
+      "text": "cough",
+      "description_en": "A sudden expulsion of air from the lungs.",
+      "example_en": "Ask how long the cough has lasted.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000067",
+      "english_id": "en:vcu100:healthcare:000067",
+      "english_sense_id": "healthcare-000067",
+      "kind": "word",
+      "text": "shortness of breath",
+      "description_en": "A feeling of difficulty breathing.",
+      "example_en": "Report shortness of breath promptly.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000068",
+      "english_id": "en:vcu100:healthcare:000068",
+      "english_sense_id": "healthcare-000068",
+      "kind": "word",
+      "text": "chest pain",
+      "description_en": "Pain or discomfort in the chest area.",
+      "example_en": "Ask about chest pain.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000069",
+      "english_id": "en:vcu100:healthcare:000069",
+      "english_sense_id": "healthcare-000069",
+      "kind": "word",
+      "text": "headache",
+      "description_en": "Pain felt in the head.",
+      "example_en": "The patient complained of a headache.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000070",
+      "english_id": "en:vcu100:healthcare:000070",
+      "english_sense_id": "healthcare-000070",
+      "kind": "word",
+      "text": "dizziness",
+      "description_en": "A feeling of lightheadedness or imbalance.",
+      "example_en": "The patient reported dizziness.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000071",
+      "english_id": "en:vcu100:healthcare:000071",
+      "english_sense_id": "healthcare-000071",
+      "kind": "word",
+      "text": "nausea",
+      "description_en": "A feeling that vomiting may occur.",
+      "example_en": "Record the patient's nausea.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000072",
+      "english_id": "en:vcu100:healthcare:000072",
+      "english_sense_id": "healthcare-000072",
+      "kind": "word",
+      "text": "vomiting",
+      "description_en": "The act of expelling stomach contents through the mouth.",
+      "example_en": "The patient experienced vomiting.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000073",
+      "english_id": "en:vcu100:healthcare:000073",
+      "english_sense_id": "healthcare-000073",
+      "kind": "word",
+      "text": "swelling",
+      "description_en": "An increase in size due to fluid or inflammation.",
+      "example_en": "The nurse noted swelling near the ankle.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000074",
+      "english_id": "en:vcu100:healthcare:000074",
+      "english_sense_id": "healthcare-000074",
+      "kind": "word",
+      "text": "rash",
+      "description_en": "A visible change in the skin's appearance.",
+      "example_en": "The patient developed a rash.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000075",
+      "english_id": "en:vcu100:healthcare:000075",
+      "english_sense_id": "healthcare-000075",
+      "kind": "word",
+      "text": "numbness",
+      "description_en": "A reduced ability to feel sensation.",
+      "example_en": "Ask where the numbness started.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000076",
+      "english_id": "en:vcu100:healthcare:000076",
+      "english_sense_id": "healthcare-000076",
+      "kind": "word",
+      "text": "fatigue",
+      "description_en": "A persistent feeling of tiredness or low energy.",
+      "example_en": "The patient reported fatigue.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:symptoms",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Sintomas"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000077",
+      "english_id": "en:vcu100:healthcare:000077",
+      "english_sense_id": "healthcare-000077",
+      "kind": "word",
+      "text": "bedside care",
+      "description_en": "Direct care provided at a patient's bed.",
+      "example_en": "Provide bedside care according to the care plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000078",
+      "english_id": "en:vcu100:healthcare:000078",
+      "english_sense_id": "healthcare-000078",
+      "kind": "word",
+      "text": "patient transfer",
+      "description_en": "Moving a patient between beds units or facilities.",
+      "example_en": "Coordinate the patient transfer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000079",
+      "english_id": "en:vcu100:healthcare:000079",
+      "english_sense_id": "healthcare-000079",
+      "kind": "word",
+      "text": "position change",
+      "description_en": "Changing a patient's body position.",
+      "example_en": "Document the position change.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000080",
+      "english_id": "en:vcu100:healthcare:000080",
+      "english_sense_id": "healthcare-000080",
+      "kind": "word",
+      "text": "personal hygiene",
+      "description_en": "Cleaning and grooming activities for a patient.",
+      "example_en": "Assist with personal hygiene.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000081",
+      "english_id": "en:vcu100:healthcare:000081",
+      "english_sense_id": "healthcare-000081",
+      "kind": "word",
+      "text": "feeding assistance",
+      "description_en": "Helping a patient eat or drink safely.",
+      "example_en": "Provide feeding assistance as prescribed.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000082",
+      "english_id": "en:vcu100:healthcare:000082",
+      "english_sense_id": "healthcare-000082",
+      "kind": "word",
+      "text": "mobility assistance",
+      "description_en": "Helping a patient move or walk.",
+      "example_en": "Request mobility assistance.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000083",
+      "english_id": "en:vcu100:healthcare:000083",
+      "english_sense_id": "healthcare-000083",
+      "kind": "word",
+      "text": "fall prevention",
+      "description_en": "Measures to reduce patient falls.",
+      "example_en": "Review the fall prevention plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000084",
+      "english_id": "en:vcu100:healthcare:000084",
+      "english_sense_id": "healthcare-000084",
+      "kind": "word",
+      "text": "wound dressing",
+      "description_en": "A covering applied over a wound.",
+      "example_en": "Change the wound dressing as ordered.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000085",
+      "english_id": "en:vcu100:healthcare:000085",
+      "english_sense_id": "healthcare-000085",
+      "kind": "word",
+      "text": "pressure injury",
+      "description_en": "A skin and tissue injury caused by prolonged pressure.",
+      "example_en": "Check areas at risk of pressure injury.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000086",
+      "english_id": "en:vcu100:healthcare:000086",
+      "english_sense_id": "healthcare-000086",
+      "kind": "word",
+      "text": "pain management",
+      "description_en": "Methods used to assess and reduce pain.",
+      "example_en": "Discuss the pain management plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000087",
+      "english_id": "en:vcu100:healthcare:000087",
+      "english_sense_id": "healthcare-000087",
+      "kind": "word",
+      "text": "intake and output",
+      "description_en": "Tracking fluids taken in and expelled from the body.",
+      "example_en": "Record intake and output.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000088",
+      "english_id": "en:vcu100:healthcare:000088",
+      "english_sense_id": "healthcare-000088",
+      "kind": "word",
+      "text": "care plan",
+      "description_en": "A documented plan for meeting a patient's care needs.",
+      "example_en": "Update the care plan after assessment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:care",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Cuidados ao paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000089",
+      "english_id": "en:vcu100:healthcare:000089",
+      "english_sense_id": "healthcare-000089",
+      "kind": "word",
+      "text": "blood test",
+      "description_en": "A laboratory analysis of a blood sample.",
+      "example_en": "The clinician ordered a blood test.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000090",
+      "english_id": "en:vcu100:healthcare:000090",
+      "english_sense_id": "healthcare-000090",
+      "kind": "word",
+      "text": "urine sample",
+      "description_en": "Urine collected for laboratory testing.",
+      "example_en": "Label the urine sample correctly.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000091",
+      "english_id": "en:vcu100:healthcare:000091",
+      "english_sense_id": "healthcare-000091",
+      "kind": "word",
+      "text": "swab sample",
+      "description_en": "Material collected using a swab.",
+      "example_en": "Place the swab sample in the transport tube.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000092",
+      "english_id": "en:vcu100:healthcare:000092",
+      "english_sense_id": "healthcare-000092",
+      "kind": "word",
+      "text": "specimen label",
+      "description_en": "A label identifying the patient and sample.",
+      "example_en": "Check the specimen label.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000093",
+      "english_id": "en:vcu100:healthcare:000093",
+      "english_sense_id": "healthcare-000093",
+      "kind": "word",
+      "text": "laboratory result",
+      "description_en": "The reported outcome of a laboratory test.",
+      "example_en": "The laboratory result is available.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000094",
+      "english_id": "en:vcu100:healthcare:000094",
+      "english_sense_id": "healthcare-000094",
+      "kind": "word",
+      "text": "X-ray",
+      "description_en": "An image made using X-ray radiation.",
+      "example_en": "The patient was sent for an X-ray.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000095",
+      "english_id": "en:vcu100:healthcare:000095",
+      "english_sense_id": "healthcare-000095",
+      "kind": "word",
+      "text": "ultrasound",
+      "description_en": "An imaging examination using sound waves.",
+      "example_en": "The ultrasound appointment is tomorrow.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000096",
+      "english_id": "en:vcu100:healthcare:000096",
+      "english_sense_id": "healthcare-000096",
+      "kind": "word",
+      "text": "CT scan",
+      "description_en": "Computed tomography imaging.",
+      "example_en": "The physician requested a CT scan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000097",
+      "english_id": "en:vcu100:healthcare:000097",
+      "english_sense_id": "healthcare-000097",
+      "kind": "word",
+      "text": "MRI",
+      "description_en": "Magnetic resonance imaging.",
+      "example_en": "The MRI is scheduled for Friday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000098",
+      "english_id": "en:vcu100:healthcare:000098",
+      "english_sense_id": "healthcare-000098",
+      "kind": "word",
+      "text": "electrocardiogram (ECG)",
+      "description_en": "A recording of the heart's electrical activity.",
+      "example_en": "Prepare the patient for an ECG.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000099",
+      "english_id": "en:vcu100:healthcare:000099",
+      "english_sense_id": "healthcare-000099",
+      "kind": "word",
+      "text": "biopsy",
+      "description_en": "Removal of tissue for examination.",
+      "example_en": "The specimen came from a biopsy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000100",
+      "english_id": "en:vcu100:healthcare:000100",
+      "english_sense_id": "healthcare-000100",
+      "kind": "word",
+      "text": "culture test",
+      "description_en": "A laboratory test used to grow and identify microorganisms.",
+      "example_en": "The culture test is pending.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:tests",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Exames"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000101",
+      "english_id": "en:vcu100:healthcare:000101",
+      "english_sense_id": "healthcare-000101",
+      "kind": "word",
+      "text": "medication order",
+      "description_en": "An authorized order for a medicine.",
+      "example_en": "Verify the medication order.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000102",
+      "english_id": "en:vcu100:healthcare:000102",
+      "english_sense_id": "healthcare-000102",
+      "kind": "word",
+      "text": "medication dosage",
+      "description_en": "The prescribed amount of a medicine to be given.",
+      "example_en": "Confirm the medication dosage before administration.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000103",
+      "english_id": "en:vcu100:healthcare:000103",
+      "english_sense_id": "healthcare-000103",
+      "kind": "word",
+      "text": "route of administration",
+      "description_en": "The method by which a medicine enters the body.",
+      "example_en": "Confirm the route of administration.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000104",
+      "english_id": "en:vcu100:healthcare:000104",
+      "english_sense_id": "healthcare-000104",
+      "kind": "word",
+      "text": "oral medication",
+      "description_en": "A medicine taken through the mouth.",
+      "example_en": "The patient received an oral medication.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000105",
+      "english_id": "en:vcu100:healthcare:000105",
+      "english_sense_id": "healthcare-000105",
+      "kind": "word",
+      "text": "intravenous (IV)",
+      "description_en": "Delivered directly into a vein.",
+      "example_en": "The medicine was given intravenously.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000106",
+      "english_id": "en:vcu100:healthcare:000106",
+      "english_sense_id": "healthcare-000106",
+      "kind": "word",
+      "text": "IV infusion",
+      "description_en": "Delivery of fluid or medicine into a vein over time.",
+      "example_en": "Monitor the IV infusion.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000107",
+      "english_id": "en:vcu100:healthcare:000107",
+      "english_sense_id": "healthcare-000107",
+      "kind": "word",
+      "text": "medication allergy",
+      "description_en": "An immune reaction to a medicine.",
+      "example_en": "Check for any medication allergy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000108",
+      "english_id": "en:vcu100:healthcare:000108",
+      "english_sense_id": "healthcare-000108",
+      "kind": "word",
+      "text": "drug interaction",
+      "description_en": "An effect caused when medicines or substances interact.",
+      "example_en": "Review potential drug interactions.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000109",
+      "english_id": "en:vcu100:healthcare:000109",
+      "english_sense_id": "healthcare-000109",
+      "kind": "word",
+      "text": "medication reconciliation",
+      "description_en": "Checking a patient's medicine list during care transitions.",
+      "example_en": "Perform medication reconciliation.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000110",
+      "english_id": "en:vcu100:healthcare:000110",
+      "english_sense_id": "healthcare-000110",
+      "kind": "word",
+      "text": "pharmacy",
+      "description_en": "A service that dispenses and manages medicines.",
+      "example_en": "Contact the pharmacy for availability.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:medications",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Medicamentos"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000111",
+      "english_id": "en:vcu100:healthcare:000111",
+      "english_sense_id": "healthcare-000111",
+      "kind": "word",
+      "text": "hand hygiene",
+      "description_en": "Cleaning hands to reduce germ transmission.",
+      "example_en": "Perform hand hygiene before care.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000112",
+      "english_id": "en:vcu100:healthcare:000112",
+      "english_sense_id": "healthcare-000112",
+      "kind": "word",
+      "text": "hand sanitizer",
+      "description_en": "A product used to disinfect hands.",
+      "example_en": "Use hand sanitizer when appropriate.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000113",
+      "english_id": "en:vcu100:healthcare:000113",
+      "english_sense_id": "healthcare-000113",
+      "kind": "word",
+      "text": "infection control",
+      "description_en": "Practices that reduce spread of infections.",
+      "example_en": "Follow infection control procedures.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000114",
+      "english_id": "en:vcu100:healthcare:000114",
+      "english_sense_id": "healthcare-000114",
+      "kind": "word",
+      "text": "isolation precautions",
+      "description_en": "Additional measures used for certain infection risks.",
+      "example_en": "Check the isolation precautions sign.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000115",
+      "english_id": "en:vcu100:healthcare:000115",
+      "english_sense_id": "healthcare-000115",
+      "kind": "word",
+      "text": "personal protective equipment (PPE)",
+      "description_en": "Protective items used against workplace exposures.",
+      "example_en": "Select the required PPE.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000116",
+      "english_id": "en:vcu100:healthcare:000116",
+      "english_sense_id": "healthcare-000116",
+      "kind": "word",
+      "text": "sterile field",
+      "description_en": "An area kept free from contamination for a procedure.",
+      "example_en": "Protect the sterile field.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000117",
+      "english_id": "en:vcu100:healthcare:000117",
+      "english_sense_id": "healthcare-000117",
+      "kind": "word",
+      "text": "disinfection",
+      "description_en": "A process that reduces harmful microorganisms on objects.",
+      "example_en": "Complete disinfection of the equipment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000118",
+      "english_id": "en:vcu100:healthcare:000118",
+      "english_sense_id": "healthcare-000118",
+      "kind": "word",
+      "text": "sterilization",
+      "description_en": "A process intended to eliminate all viable microorganisms.",
+      "example_en": "Send the instruments for sterilization.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000119",
+      "english_id": "en:vcu100:healthcare:000119",
+      "english_sense_id": "healthcare-000119",
+      "kind": "word",
+      "text": "single-use item",
+      "description_en": "An item intended for one use only.",
+      "example_en": "Dispose of the single-use item correctly.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000120",
+      "english_id": "en:vcu100:healthcare:000120",
+      "english_sense_id": "healthcare-000120",
+      "kind": "word",
+      "text": "contaminated material",
+      "description_en": "Material that may contain infectious agents.",
+      "example_en": "Handle contaminated material according to protocol.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000121",
+      "english_id": "en:vcu100:healthcare:000121",
+      "english_sense_id": "healthcare-000121",
+      "kind": "word",
+      "text": "biohazard warning",
+      "description_en": "A warning of potential infectious biological material.",
+      "example_en": "Respect the biohazard warning.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000122",
+      "english_id": "en:vcu100:healthcare:000122",
+      "english_sense_id": "healthcare-000122",
+      "kind": "word",
+      "text": "cleaning protocol",
+      "description_en": "The specified procedure for cleaning an area or object.",
+      "example_en": "Follow the cleaning protocol.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:infection",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Controle de infecções"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000123",
+      "english_id": "en:vcu100:healthcare:000123",
+      "english_sense_id": "healthcare-000123",
+      "kind": "word",
+      "text": "emergency department (ED)",
+      "description_en": "A hospital unit providing urgent medical care.",
+      "example_en": "The patient arrived at the emergency department.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000124",
+      "english_id": "en:vcu100:healthcare:000124",
+      "english_sense_id": "healthcare-000124",
+      "kind": "word",
+      "text": "urgent care",
+      "description_en": "A facility treating illnesses or injuries that need prompt attention.",
+      "example_en": "The patient visited urgent care.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000125",
+      "english_id": "en:vcu100:healthcare:000125",
+      "english_sense_id": "healthcare-000125",
+      "kind": "word",
+      "text": "resuscitation team",
+      "description_en": "A team responding to a critical emergency.",
+      "example_en": "Call the resuscitation team.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000126",
+      "english_id": "en:vcu100:healthcare:000126",
+      "english_sense_id": "healthcare-000126",
+      "kind": "word",
+      "text": "emergency call",
+      "description_en": "A request for urgent assistance.",
+      "example_en": "Place an emergency call.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000127",
+      "english_id": "en:vcu100:healthcare:000127",
+      "english_sense_id": "healthcare-000127",
+      "kind": "word",
+      "text": "unresponsive patient",
+      "description_en": "A patient not responding to attempts at interaction.",
+      "example_en": "The team found an unresponsive patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000128",
+      "english_id": "en:vcu100:healthcare:000128",
+      "english_sense_id": "healthcare-000128",
+      "kind": "word",
+      "text": "cardiac arrest",
+      "description_en": "Sudden loss of effective heart pumping.",
+      "example_en": "The emergency team responded to cardiac arrest.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000129",
+      "english_id": "en:vcu100:healthcare:000129",
+      "english_sense_id": "healthcare-000129",
+      "kind": "word",
+      "text": "airway obstruction",
+      "description_en": "A blockage that impairs airflow through the airway.",
+      "example_en": "The clinician assessed possible airway obstruction.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000130",
+      "english_id": "en:vcu100:healthcare:000130",
+      "english_sense_id": "healthcare-000130",
+      "kind": "word",
+      "text": "breathing difficulty",
+      "description_en": "Trouble breathing normally.",
+      "example_en": "Report breathing difficulty immediately.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000131",
+      "english_id": "en:vcu100:healthcare:000131",
+      "english_sense_id": "healthcare-000131",
+      "kind": "word",
+      "text": "trauma patient",
+      "description_en": "A patient with an injury caused by an external event.",
+      "example_en": "The trauma patient was transferred.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000132",
+      "english_id": "en:vcu100:healthcare:000132",
+      "english_sense_id": "healthcare-000132",
+      "kind": "word",
+      "text": "ambulance",
+      "description_en": "A vehicle equipped for transporting patients who need care.",
+      "example_en": "An ambulance brought the patient.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000133",
+      "english_id": "en:vcu100:healthcare:000133",
+      "english_sense_id": "healthcare-000133",
+      "kind": "word",
+      "text": "oxygen supply",
+      "description_en": "The source of oxygen used for patient care.",
+      "example_en": "Check the oxygen supply.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000134",
+      "english_id": "en:vcu100:healthcare:000134",
+      "english_sense_id": "healthcare-000134",
+      "kind": "word",
+      "text": "emergency cart",
+      "description_en": "A cart containing supplies and equipment for critical events.",
+      "example_en": "Keep the emergency cart accessible.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:emergency",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Emergências"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000135",
+      "english_id": "en:vcu100:healthcare:000135",
+      "english_sense_id": "healthcare-000135",
+      "kind": "word",
+      "text": "patient chart",
+      "description_en": "The record of a patient's medical care.",
+      "example_en": "Enter the findings in the patient chart.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000136",
+      "english_id": "en:vcu100:healthcare:000136",
+      "english_sense_id": "healthcare-000136",
+      "kind": "word",
+      "text": "nursing note",
+      "description_en": "A written nursing record of care or observations.",
+      "example_en": "Write a nursing note.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000137",
+      "english_id": "en:vcu100:healthcare:000137",
+      "english_sense_id": "healthcare-000137",
+      "kind": "word",
+      "text": "progress note",
+      "description_en": "A clinical note describing progress or changes.",
+      "example_en": "Complete a progress note.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000138",
+      "english_id": "en:vcu100:healthcare:000138",
+      "english_sense_id": "healthcare-000138",
+      "kind": "word",
+      "text": "medication administration record (MAR)",
+      "description_en": "A chart listing administered medicines and related details.",
+      "example_en": "Update the MAR after administration.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000139",
+      "english_id": "en:vcu100:healthcare:000139",
+      "english_sense_id": "healthcare-000139",
+      "kind": "word",
+      "text": "vital signs chart",
+      "description_en": "A form or screen storing vital sign measurements.",
+      "example_en": "Enter values on the vital signs chart.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000140",
+      "english_id": "en:vcu100:healthcare:000140",
+      "english_sense_id": "healthcare-000140",
+      "kind": "word",
+      "text": "incident report",
+      "description_en": "A report describing an unexpected event.",
+      "example_en": "Complete an incident report.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000141",
+      "english_id": "en:vcu100:healthcare:000141",
+      "english_sense_id": "healthcare-000141",
+      "kind": "word",
+      "text": "handoff report",
+      "description_en": "A transfer of patient information between care teams.",
+      "example_en": "Give the handoff report to the next shift.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000142",
+      "english_id": "en:vcu100:healthcare:000142",
+      "english_sense_id": "healthcare-000142",
+      "kind": "word",
+      "text": "shift report",
+      "description_en": "A summary of work and patient status for a shift.",
+      "example_en": "The shift report includes new admissions.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000143",
+      "english_id": "en:vcu100:healthcare:000143",
+      "english_sense_id": "healthcare-000143",
+      "kind": "word",
+      "text": "discharge summary",
+      "description_en": "A summary of a patient's hospital stay and follow-up needs.",
+      "example_en": "Read the discharge summary.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000144",
+      "english_id": "en:vcu100:healthcare:000144",
+      "english_sense_id": "healthcare-000144",
+      "kind": "word",
+      "text": "confidentiality",
+      "description_en": "The duty to protect private patient information.",
+      "example_en": "Maintain confidentiality at all times.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000145",
+      "english_id": "en:vcu100:healthcare:000145",
+      "english_sense_id": "healthcare-000145",
+      "kind": "word",
+      "text": "electronic health record (EHR)",
+      "description_en": "A digital record of health information.",
+      "example_en": "Open the EHR using authorized access.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000146",
+      "english_id": "en:vcu100:healthcare:000146",
+      "english_sense_id": "healthcare-000146",
+      "kind": "word",
+      "text": "patient privacy",
+      "description_en": "The protection of a patient's personal health information.",
+      "example_en": "Respect patient privacy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:documentation",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Prontuário e registros"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000147",
+      "english_id": "en:vcu100:healthcare:000147",
+      "english_sense_id": "healthcare-000147",
+      "kind": "word",
+      "text": "discharge instructions",
+      "description_en": "Information given to patients when leaving care.",
+      "example_en": "Review the discharge instructions.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000148",
+      "english_id": "en:vcu100:healthcare:000148",
+      "english_sense_id": "healthcare-000148",
+      "kind": "word",
+      "text": "follow-up appointment",
+      "description_en": "A later visit to review recovery or treatment.",
+      "example_en": "Schedule a follow-up appointment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000149",
+      "english_id": "en:vcu100:healthcare:000149",
+      "english_sense_id": "healthcare-000149",
+      "kind": "word",
+      "text": "home care",
+      "description_en": "Medical or supportive care provided at home.",
+      "example_en": "The patient will receive home care.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000150",
+      "english_id": "en:vcu100:healthcare:000150",
+      "english_sense_id": "healthcare-000150",
+      "kind": "word",
+      "text": "home medication list",
+      "description_en": "A list of medicines to take after discharge.",
+      "example_en": "Check the home medication list.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000151",
+      "english_id": "en:vcu100:healthcare:000151",
+      "english_sense_id": "healthcare-000151",
+      "kind": "word",
+      "text": "transport arrangement",
+      "description_en": "Planning how the patient will travel after discharge.",
+      "example_en": "Confirm the transport arrangement.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000152",
+      "english_id": "en:vcu100:healthcare:000152",
+      "english_sense_id": "healthcare-000152",
+      "kind": "word",
+      "text": "discharge date",
+      "description_en": "The date a patient leaves the facility.",
+      "example_en": "The discharge date is Friday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000153",
+      "english_id": "en:vcu100:healthcare:000153",
+      "english_sense_id": "healthcare-000153",
+      "kind": "word",
+      "text": "caregiver",
+      "description_en": "A person helping someone with daily health needs.",
+      "example_en": "Explain the plan to the caregiver.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000154",
+      "english_id": "en:vcu100:healthcare:000154",
+      "english_sense_id": "healthcare-000154",
+      "kind": "word",
+      "text": "recovery plan",
+      "description_en": "A plan for care and activities during recovery.",
+      "example_en": "Review the recovery plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000155",
+      "english_id": "en:vcu100:healthcare:000155",
+      "english_sense_id": "healthcare-000155",
+      "kind": "word",
+      "text": "rehabilitation",
+      "description_en": "Treatment intended to restore function or independence.",
+      "example_en": "The patient began rehabilitation.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000156",
+      "english_id": "en:vcu100:healthcare:000156",
+      "english_sense_id": "healthcare-000156",
+      "kind": "word",
+      "text": "mobility aid",
+      "description_en": "An item that helps a person move safely.",
+      "example_en": "Select the mobility aid.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000157",
+      "english_id": "en:vcu100:healthcare:000157",
+      "english_sense_id": "healthcare-000157",
+      "kind": "word",
+      "text": "warning signs",
+      "description_en": "Symptoms or changes that may require renewed attention.",
+      "example_en": "Discuss the warning signs before discharge.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000158",
+      "english_id": "en:vcu100:healthcare:000158",
+      "english_sense_id": "healthcare-000158",
+      "kind": "word",
+      "text": "patient education",
+      "description_en": "Information and instruction that help a patient understand care.",
+      "example_en": "Provide patient education in clear language.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:discharge",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Alta e acompanhamento"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000159",
+      "english_id": "en:vcu100:healthcare:000159",
+      "english_sense_id": "healthcare-000159",
+      "kind": "expression",
+      "text": "How can I help you?",
+      "description_en": "A polite question offering assistance.",
+      "example_en": "At reception ask: How can I help you?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000160",
+      "english_id": "en:vcu100:healthcare:000160",
+      "english_sense_id": "healthcare-000160",
+      "kind": "expression",
+      "text": "Where does it hurt?",
+      "description_en": "A question asking the location of pain.",
+      "example_en": "The nurse asked: Where does it hurt?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000161",
+      "english_id": "en:vcu100:healthcare:000161",
+      "english_sense_id": "healthcare-000161",
+      "kind": "expression",
+      "text": "Do you have allergies?",
+      "description_en": "A question checking for known allergies.",
+      "example_en": "Ask: Do you have allergies?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000162",
+      "english_id": "en:vcu100:healthcare:000162",
+      "english_sense_id": "healthcare-000162",
+      "kind": "expression",
+      "text": "Please take a seat.",
+      "description_en": "A polite request to sit down.",
+      "example_en": "Say: Please take a seat.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000163",
+      "english_id": "en:vcu100:healthcare:000163",
+      "english_sense_id": "healthcare-000163",
+      "kind": "expression",
+      "text": "Please wait here.",
+      "description_en": "A polite request to stay in a place.",
+      "example_en": "At triage say: Please wait here.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000164",
+      "english_id": "en:vcu100:healthcare:000164",
+      "english_sense_id": "healthcare-000164",
+      "kind": "expression",
+      "text": "Breathe normally.",
+      "description_en": "An instruction to keep normal breathing.",
+      "example_en": "The nurse said: Breathe normally.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000165",
+      "english_id": "en:vcu100:healthcare:000165",
+      "english_sense_id": "healthcare-000165",
+      "kind": "expression",
+      "text": "Do not move yet.",
+      "description_en": "A request to remain still temporarily.",
+      "example_en": "During examination say: Do not move yet.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000166",
+      "english_id": "en:vcu100:healthcare:000166",
+      "english_sense_id": "healthcare-000166",
+      "kind": "expression",
+      "text": "Are you feeling dizzy?",
+      "description_en": "A question about dizziness.",
+      "example_en": "Ask: Are you feeling dizzy?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000167",
+      "english_id": "en:vcu100:healthcare:000167",
+      "english_sense_id": "healthcare-000167",
+      "kind": "expression",
+      "text": "When did it start?",
+      "description_en": "A question about symptom onset.",
+      "example_en": "Ask: When did it start?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000168",
+      "english_id": "en:vcu100:healthcare:000168",
+      "english_sense_id": "healthcare-000168",
+      "kind": "expression",
+      "text": "Please describe the pain.",
+      "description_en": "A request for details about pain.",
+      "example_en": "Ask: Please describe the pain.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000169",
+      "english_id": "en:vcu100:healthcare:000169",
+      "english_sense_id": "healthcare-000169",
+      "kind": "expression",
+      "text": "Do you need an interpreter?",
+      "description_en": "A question about language assistance.",
+      "example_en": "Ask: Do you need an interpreter?",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    },
+    {
+      "id": "en:vcu100:healthcare:000170",
+      "english_id": "en:vcu100:healthcare:000170",
+      "english_sense_id": "healthcare-000170",
+      "kind": "expression",
+      "text": "We will call your name.",
+      "description_en": "A statement explaining how a patient will be called.",
+      "example_en": "Tell the patient: We will call your name.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:healthcare:communication",
+      "topics": [
+        "VCU100 · Saúde e Enfermagem",
+        "Saúde · Comunicação com o paciente"
+      ]
+    }
+  ]
+}
