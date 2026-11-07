@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -871,6 +871,59 @@
       "vcu_family": "VCU100",
       "domain": "south_america_adventure",
       "companion_of": "vcu100-es-adventure"
+    },
+    {
+      "id": "vcu100-zh-tourism-sourcing",
+      "name": "VCU100 — Chinês para Turismo e Negócios",
+      "language": "zh",
+      "region": "zh-CN-VCU100-sourcing",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 168,
+      "has_ui": false,
+      "flag": "🇨🇳",
+      "locale": "zh-CN",
+      "name_native": "简体中文",
+      "name_en": "Chinese Tourism and Sourcing",
+      "name_pt": "Chinês Turismo e Negócios",
+      "name_ja": "観光と調達の中国語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-zh-tourism-sourcing.json",
+      "sha256": "d0732f8cce17dcc71ebfbc8e462fb4fb6fbdb15cdde252200fdc0682f1a0fd26",
+      "size_bytes": 99764,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "china_tourism_sourcing",
+      "companion_package_id": "vcu100-pt-br-zh-sourcing-companion",
+      "requires": [
+        "vcu100-pt-br-zh-sourcing-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-zh-sourcing-companion",
+      "name": "VCU100 — Chinês para Turismo e Negócios (par PT-BR)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-zh-sourcing",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 168,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Chinese Tourism Portuguese companion",
+      "name_pt": "Português para Chinês Turismo e Negócios",
+      "name_ja": "観光と調達のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-zh-sourcing-companion.json",
+      "sha256": "278df35b1edc684ab5e498da77bbd148b282a9c408f722435f1d818035827b76",
+      "size_bytes": 89797,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "china_tourism_sourcing",
+      "companion_of": "vcu100-zh-tourism-sourcing"
     }
   ],
   "notes": [
@@ -886,6 +939,7 @@
     "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending.",
     "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending.",
     "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated.",
-    "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending."
+    "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending.",
+    "Chinese Tourism/Sourcing (Simplified Mandarin) 168 entries with pinyin plus PT-BR companion; verify Mandarin TTS/STT, native reading and per-package UI in Android."
   ]
 }
