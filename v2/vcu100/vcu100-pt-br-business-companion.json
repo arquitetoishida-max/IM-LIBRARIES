@@ -1,0 +1,2531 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-business-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-business",
+  "name": "VCU100 — Negócios e finanças: par em português",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "editorial-original-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "business_finance",
+  "companion_package_id": "vcu100-en-us-business",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/business-en-US-pt-BR-001.json"
+  ],
+  "notes": [
+    "Separate semantic IDs from the VCU14 core; PT-BR companion required for native PT-BR word cards.",
+    "Technical terms defined with general meanings; jurisdiction-specific legal consequences are not claimed."
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:business:000001",
+      "english_id": "en:vcu100:business:000001",
+      "english_sense_id": "business-000001",
+      "kind": "word",
+      "text": "pauta da reunião",
+      "description_en": "A list of subjects for a meeting.",
+      "example_en": "Send the agenda before the meeting.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000002",
+      "english_id": "en:vcu100:business:000002",
+      "english_sense_id": "business-000002",
+      "kind": "word",
+      "text": "ata da reunião",
+      "description_en": "A written record of what was discussed and decided.",
+      "example_en": "Share the meeting minutes with the team.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000003",
+      "english_id": "en:vcu100:business:000003",
+      "english_sense_id": "business-000003",
+      "kind": "word",
+      "text": "ação pendente",
+      "description_en": "A task assigned during a meeting.",
+      "example_en": "Each action item needs an owner.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000004",
+      "english_id": "en:vcu100:business:000004",
+      "english_sense_id": "business-000004",
+      "kind": "word",
+      "text": "reunião de acompanhamento",
+      "description_en": "A meeting to review progress after an earlier discussion.",
+      "example_en": "Schedule a follow-up meeting next week.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000005",
+      "english_id": "en:vcu100:business:000005",
+      "english_sense_id": "business-000005",
+      "kind": "word",
+      "text": "participante da reunião",
+      "description_en": "A person present at a meeting.",
+      "example_en": "Each attendee introduced themselves.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000006",
+      "english_id": "en:vcu100:business:000006",
+      "english_sense_id": "business-000006",
+      "kind": "word",
+      "text": "tomador de decisão",
+      "description_en": "A person authorized to make a business decision.",
+      "example_en": "We need approval from the decision maker.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000007",
+      "english_id": "en:vcu100:business:000007",
+      "english_sense_id": "business-000007",
+      "kind": "word",
+      "text": "principal conclusão",
+      "description_en": "The main point to remember from a discussion.",
+      "example_en": "Summarize the key takeaway at the end.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000008",
+      "english_id": "en:vcu100:business:000008",
+      "english_sense_id": "business-000008",
+      "kind": "word",
+      "text": "sessão de ideias",
+      "description_en": "A group session for generating possible ideas.",
+      "example_en": "The team held a brainstorming session.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000009",
+      "english_id": "en:vcu100:business:000009",
+      "english_sense_id": "business-000009",
+      "kind": "word",
+      "text": "teleconferência",
+      "description_en": "A meeting held by telephone or online audio.",
+      "example_en": "Join the conference call at nine.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000010",
+      "english_id": "en:vcu100:business:000010",
+      "english_sense_id": "business-000010",
+      "kind": "word",
+      "text": "compartilhamento de tela",
+      "description_en": "Showing a device screen to meeting participants.",
+      "example_en": "Use screen sharing to present the report.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000011",
+      "english_id": "en:vcu100:business:000011",
+      "english_sense_id": "business-000011",
+      "kind": "word",
+      "text": "quórum",
+      "description_en": "The minimum attendance needed for a valid decision.",
+      "example_en": "Check whether the meeting has a quorum.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000012",
+      "english_id": "en:vcu100:business:000012",
+      "english_sense_id": "business-000012",
+      "kind": "word",
+      "text": "presidente da reunião",
+      "description_en": "The person leading the meeting.",
+      "example_en": "The chairperson opened the discussion.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:meetings",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Reuniões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000013",
+      "english_id": "en:vcu100:business:000013",
+      "english_sense_id": "business-000013",
+      "kind": "word",
+      "text": "contato comercial em potencial",
+      "description_en": "A person or organization that might become a customer.",
+      "example_en": "Follow up with the new sales lead.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000014",
+      "english_id": "en:vcu100:business:000014",
+      "english_sense_id": "business-000014",
+      "kind": "word",
+      "text": "cliente em potencial",
+      "description_en": "A possible customer being qualified by sales.",
+      "example_en": "Contact the prospect this afternoon.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000015",
+      "english_id": "en:vcu100:business:000015",
+      "english_sense_id": "business-000015",
+      "kind": "word",
+      "text": "apresentação de venda",
+      "description_en": "A short persuasive presentation of an offer.",
+      "example_en": "Prepare a sales pitch for the client.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000016",
+      "english_id": "en:vcu100:business:000016",
+      "english_sense_id": "business-000016",
+      "kind": "word",
+      "text": "cotação de preço",
+      "description_en": "A formal statement of an offered price.",
+      "example_en": "Send the quotation before Friday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000017",
+      "english_id": "en:vcu100:business:000017",
+      "english_sense_id": "business-000017",
+      "kind": "word",
+      "text": "lista de preços",
+      "description_en": "A document listing prices for products or services.",
+      "example_en": "Update the price list this month.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000018",
+      "english_id": "en:vcu100:business:000018",
+      "english_sense_id": "business-000018",
+      "kind": "word",
+      "text": "funil de vendas",
+      "description_en": "The stages a potential customer passes through before buying.",
+      "example_en": "Review the sales funnel every Monday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000019",
+      "english_id": "en:vcu100:business:000019",
+      "english_sense_id": "business-000019",
+      "kind": "word",
+      "text": "taxa de conversão",
+      "description_en": "The share of prospects who complete a desired action.",
+      "example_en": "Our conversion rate improved this quarter.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000020",
+      "english_id": "en:vcu100:business:000020",
+      "english_sense_id": "business-000020",
+      "kind": "word",
+      "text": "venda cruzada",
+      "description_en": "Selling a related product to an existing customer.",
+      "example_en": "The store uses cross-selling at checkout.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000021",
+      "english_id": "en:vcu100:business:000021",
+      "english_sense_id": "business-000021",
+      "kind": "word",
+      "text": "venda de versão superior",
+      "description_en": "Offering a higher-priced version or upgrade.",
+      "example_en": "Use upselling only when the upgrade adds value.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000022",
+      "english_id": "en:vcu100:business:000022",
+      "english_sense_id": "business-000022",
+      "kind": "expression",
+      "text": "fechamento de negócio",
+      "description_en": "Finalizing a business agreement or sale.",
+      "example_en": "Closing a deal requires customer approval.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000023",
+      "english_id": "en:vcu100:business:000023",
+      "english_sense_id": "business-000023",
+      "kind": "word",
+      "text": "retenção de clientes",
+      "description_en": "Keeping customers over time.",
+      "example_en": "Customer retention is part of the sales plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000024",
+      "english_id": "en:vcu100:business:000024",
+      "english_sense_id": "business-000024",
+      "kind": "word",
+      "text": "meta de vendas",
+      "description_en": "The amount of sales a team aims to achieve.",
+      "example_en": "The sales target is set for this month.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:sales",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Vendas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000025",
+      "english_id": "en:vcu100:business:000025",
+      "english_sense_id": "business-000025",
+      "kind": "word",
+      "text": "contraproposta",
+      "description_en": "A new offer made in response to another offer.",
+      "example_en": "The buyer made a counteroffer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000026",
+      "english_id": "en:vcu100:business:000026",
+      "english_sense_id": "business-000026",
+      "kind": "word",
+      "text": "concessão",
+      "description_en": "Something a party agrees to give up in a negotiation.",
+      "example_en": "We offered a small concession on delivery time.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000027",
+      "english_id": "en:vcu100:business:000027",
+      "english_sense_id": "business-000027",
+      "kind": "word",
+      "text": "condições da negociação",
+      "description_en": "The conditions being discussed before agreement.",
+      "example_en": "Review the negotiation terms carefully.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000028",
+      "english_id": "en:vcu100:business:000028",
+      "english_sense_id": "business-000028",
+      "kind": "word",
+      "text": "poder de negociação",
+      "description_en": "The ability to influence a negotiated outcome.",
+      "example_en": "Multiple suppliers improve bargaining power.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000029",
+      "english_id": "en:vcu100:business:000029",
+      "english_sense_id": "business-000029",
+      "kind": "word",
+      "text": "inegociável",
+      "description_en": "A condition that cannot be changed.",
+      "example_en": "The safety requirement is non-negotiable.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000030",
+      "english_id": "en:vcu100:business:000030",
+      "english_sense_id": "business-000030",
+      "kind": "expression",
+      "text": "desistir de uma negociação",
+      "description_en": "Stop negotiating without accepting the offer.",
+      "example_en": "We may walk away from a deal with unacceptable risk.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000031",
+      "english_id": "en:vcu100:business:000031",
+      "english_sense_id": "business-000031",
+      "kind": "word",
+      "text": "acordo mútuo",
+      "description_en": "An arrangement accepted by all parties.",
+      "example_en": "They reached a mutual agreement.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000032",
+      "english_id": "en:vcu100:business:000032",
+      "english_sense_id": "business-000032",
+      "kind": "word",
+      "text": "melhor proposta final",
+      "description_en": "The final and most favorable offer presented.",
+      "example_en": "Please submit your best and final offer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000033",
+      "english_id": "en:vcu100:business:000033",
+      "english_sense_id": "business-000033",
+      "kind": "word",
+      "text": "resumo de condições comerciais",
+      "description_en": "A document outlining key deal terms before a definitive agreement.",
+      "example_en": "The investors reviewed the term sheet.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000034",
+      "english_id": "en:vcu100:business:000034",
+      "english_sense_id": "business-000034",
+      "kind": "word",
+      "text": "carta de intenções",
+      "description_en": "A document expressing an intention to negotiate or transact.",
+      "example_en": "The parties signed a letter of intent.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:negotiation",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negociação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000035",
+      "english_id": "en:vcu100:business:000035",
+      "english_sense_id": "business-000035",
+      "kind": "word",
+      "text": "solicitação de cotação",
+      "description_en": "A request for suppliers to quote prices for defined goods or services.",
+      "example_en": "Send the RFQ to three suppliers.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000036",
+      "english_id": "en:vcu100:business:000036",
+      "english_sense_id": "business-000036",
+      "kind": "word",
+      "text": "solicitação de proposta",
+      "description_en": "A request for suppliers to propose a solution to business needs.",
+      "example_en": "The team issued an RFP for the new system.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000037",
+      "english_id": "en:vcu100:business:000037",
+      "english_sense_id": "business-000037",
+      "kind": "word",
+      "text": "requisição de compra",
+      "description_en": "An internal request asking purchasing to obtain goods or services.",
+      "example_en": "Submit a purchase requisition first.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000038",
+      "english_id": "en:vcu100:business:000038",
+      "english_sense_id": "business-000038",
+      "kind": "word",
+      "text": "pedido de compra",
+      "description_en": "A buyer's document specifying goods or services ordered.",
+      "example_en": "The supplier confirmed the purchase order.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000039",
+      "english_id": "en:vcu100:business:000039",
+      "english_sense_id": "business-000039",
+      "kind": "word",
+      "text": "política de compras",
+      "description_en": "The rules a company follows when purchasing.",
+      "example_en": "Follow the procurement policy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000040",
+      "english_id": "en:vcu100:business:000040",
+      "english_sense_id": "business-000040",
+      "kind": "word",
+      "text": "fornecedor",
+      "description_en": "A person or business supplying goods or services.",
+      "example_en": "Compare offers from each vendor.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000041",
+      "english_id": "en:vcu100:business:000041",
+      "english_sense_id": "business-000041",
+      "kind": "word",
+      "text": "aprovação de fornecedor",
+      "description_en": "The process of accepting a supplier for use.",
+      "example_en": "Vendor approval requires the required documents.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000042",
+      "english_id": "en:vcu100:business:000042",
+      "english_sense_id": "business-000042",
+      "kind": "word",
+      "text": "avaliação de fornecedor",
+      "description_en": "Assessing a supplier's quality reliability and terms.",
+      "example_en": "Complete the supplier evaluation annually.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000043",
+      "english_id": "en:vcu100:business:000043",
+      "english_sense_id": "business-000043",
+      "kind": "word",
+      "text": "prazo de fornecimento",
+      "description_en": "The time between placing an order and receiving it.",
+      "example_en": "Ask about lead time before ordering.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000044",
+      "english_id": "en:vcu100:business:000044",
+      "english_sense_id": "business-000044",
+      "kind": "word",
+      "text": "quantidade mínima de pedido",
+      "description_en": "The smallest quantity a supplier will sell in one order.",
+      "example_en": "Check the minimum order quantity.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000045",
+      "english_id": "en:vcu100:business:000045",
+      "english_sense_id": "business-000045",
+      "kind": "word",
+      "text": "desconto por volume",
+      "description_en": "A lower unit price for buying larger quantities.",
+      "example_en": "Ask for a bulk discount.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000046",
+      "english_id": "en:vcu100:business:000046",
+      "english_sense_id": "business-000046",
+      "kind": "word",
+      "text": "prospecção de fornecedores",
+      "description_en": "Finding and evaluating sources of goods or services.",
+      "example_en": "Global sourcing can affect delivery time.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:procurement",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Compras e fornecedores"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000047",
+      "english_id": "en:vcu100:business:000047",
+      "english_sense_id": "business-000047",
+      "kind": "word",
+      "text": "remessa",
+      "description_en": "A batch of goods being transported.",
+      "example_en": "Track the shipment online.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000048",
+      "english_id": "en:vcu100:business:000048",
+      "english_sense_id": "business-000048",
+      "kind": "word",
+      "text": "frete",
+      "description_en": "Cargo transport or its cost.",
+      "example_en": "The quotation excludes freight.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000049",
+      "english_id": "en:vcu100:business:000049",
+      "english_sense_id": "business-000049",
+      "kind": "word",
+      "text": "etiqueta de remessa",
+      "description_en": "A label showing where a parcel should be delivered.",
+      "example_en": "Print the shipping label.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000050",
+      "english_id": "en:vcu100:business:000050",
+      "english_sense_id": "business-000050",
+      "kind": "word",
+      "text": "código de rastreamento",
+      "description_en": "A code used to track a package or shipment.",
+      "example_en": "Send the customer the tracking number.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000051",
+      "english_id": "en:vcu100:business:000051",
+      "english_sense_id": "business-000051",
+      "kind": "word",
+      "text": "conhecimento de embarque",
+      "description_en": "A transport document describing cargo received for shipment.",
+      "example_en": "Check the bill of lading.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000052",
+      "english_id": "en:vcu100:business:000052",
+      "english_sense_id": "business-000052",
+      "kind": "word",
+      "text": "nota de entrega",
+      "description_en": "A document accompanying delivered goods.",
+      "example_en": "Sign the delivery note after inspection.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000053",
+      "english_id": "en:vcu100:business:000053",
+      "english_sense_id": "business-000053",
+      "kind": "word",
+      "text": "armazém",
+      "description_en": "A building used to store inventory.",
+      "example_en": "The goods are in the warehouse.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000054",
+      "english_id": "en:vcu100:business:000054",
+      "english_sense_id": "business-000054",
+      "kind": "word",
+      "text": "contagem de estoque",
+      "description_en": "Counting goods physically held in inventory.",
+      "example_en": "Perform the inventory count today.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000055",
+      "english_id": "en:vcu100:business:000055",
+      "english_sense_id": "business-000055",
+      "kind": "word",
+      "text": "ruptura de estoque",
+      "description_en": "A situation where an item is unavailable from stock.",
+      "example_en": "The stockout delayed the order.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000056",
+      "english_id": "en:vcu100:business:000056",
+      "english_sense_id": "business-000056",
+      "kind": "word",
+      "text": "atendimento de pedidos",
+      "description_en": "The process of preparing and delivering customer orders.",
+      "example_en": "Order fulfillment starts after payment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000057",
+      "english_id": "en:vcu100:business:000057",
+      "english_sense_id": "business-000057",
+      "kind": "word",
+      "text": "entrega de última milha",
+      "description_en": "The final delivery stage to the customer.",
+      "example_en": "Last-mile delivery costs increased.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000058",
+      "english_id": "en:vcu100:business:000058",
+      "english_sense_id": "business-000058",
+      "kind": "word",
+      "text": "desembaraço aduaneiro",
+      "description_en": "The formal process of clearing imported or exported goods.",
+      "example_en": "Customs clearance may take several days.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:logistics",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Logística e transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000059",
+      "english_id": "en:vcu100:business:000059",
+      "english_sense_id": "business-000059",
+      "kind": "word",
+      "text": "transferência bancária",
+      "description_en": "Moving money from one bank account to another.",
+      "example_en": "Pay by bank transfer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000060",
+      "english_id": "en:vcu100:business:000060",
+      "english_sense_id": "business-000060",
+      "kind": "word",
+      "text": "transferência bancária eletrônica",
+      "description_en": "A bank-to-bank electronic transfer often used internationally.",
+      "example_en": "We sent the deposit by wire transfer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000061",
+      "english_id": "en:vcu100:business:000061",
+      "english_sense_id": "business-000061",
+      "kind": "word",
+      "text": "condições de pagamento",
+      "description_en": "The agreed rules for when and how payment occurs.",
+      "example_en": "The invoice states the payment terms.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000062",
+      "english_id": "en:vcu100:business:000062",
+      "english_sense_id": "business-000062",
+      "kind": "word",
+      "text": "data de vencimento",
+      "description_en": "The date by which payment is required.",
+      "example_en": "The due date is next Tuesday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000063",
+      "english_id": "en:vcu100:business:000063",
+      "english_sense_id": "business-000063",
+      "kind": "word",
+      "text": "entrada de pagamento",
+      "description_en": "An initial amount paid before the full price is due.",
+      "example_en": "The buyer made a down payment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000064",
+      "english_id": "en:vcu100:business:000064",
+      "english_sense_id": "business-000064",
+      "kind": "word",
+      "text": "parcela",
+      "description_en": "One of several payments toward a total amount.",
+      "example_en": "The second installment is due in June.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000065",
+      "english_id": "en:vcu100:business:000065",
+      "english_sense_id": "business-000065",
+      "kind": "word",
+      "text": "pagamento em atraso",
+      "description_en": "A payment received after its due date.",
+      "example_en": "The company charged interest on the late payment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000066",
+      "english_id": "en:vcu100:business:000066",
+      "english_sense_id": "business-000066",
+      "kind": "word",
+      "text": "multa por atraso",
+      "description_en": "An extra charge for paying late.",
+      "example_en": "The contract specifies a late fee.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000067",
+      "english_id": "en:vcu100:business:000067",
+      "english_sense_id": "business-000067",
+      "kind": "word",
+      "text": "reembolso",
+      "description_en": "Money returned after a payment.",
+      "example_en": "The customer requested a refund.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000068",
+      "english_id": "en:vcu100:business:000068",
+      "english_sense_id": "business-000068",
+      "kind": "word",
+      "text": "contestação de transação com estorno",
+      "description_en": "A card payment reversal initiated through the issuer.",
+      "example_en": "The merchant disputed the chargeback.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000069",
+      "english_id": "en:vcu100:business:000069",
+      "english_sense_id": "business-000069",
+      "kind": "word",
+      "text": "gateway de pagamento",
+      "description_en": "A service that processes online payment information.",
+      "example_en": "The store uses a payment gateway.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000070",
+      "english_id": "en:vcu100:business:000070",
+      "english_sense_id": "business-000070",
+      "kind": "word",
+      "text": "comprovante de pagamento enviado ao credor",
+      "description_en": "A notice explaining what an incoming payment covers.",
+      "example_en": "Send the remittance advice with the transfer.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:payments",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000071",
+      "english_id": "en:vcu100:business:000071",
+      "english_sense_id": "business-000071",
+      "kind": "word",
+      "text": "fatura comercial",
+      "description_en": "A document requesting payment for goods or services.",
+      "example_en": "Issue the invoice after delivery.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000072",
+      "english_id": "en:vcu100:business:000072",
+      "english_sense_id": "business-000072",
+      "kind": "word",
+      "text": "número da fatura",
+      "description_en": "A unique number identifying an invoice.",
+      "example_en": "Enter the invoice number correctly.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000073",
+      "english_id": "en:vcu100:business:000073",
+      "english_sense_id": "business-000073",
+      "kind": "word",
+      "text": "fatura pro forma",
+      "description_en": "A preliminary invoice used before final billing or shipment.",
+      "example_en": "The importer requested a pro forma invoice.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000074",
+      "english_id": "en:vcu100:business:000074",
+      "english_sense_id": "business-000074",
+      "kind": "word",
+      "text": "nota de crédito",
+      "description_en": "A document reducing an amount previously invoiced.",
+      "example_en": "Issue a credit note for the returned goods.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000075",
+      "english_id": "en:vcu100:business:000075",
+      "english_sense_id": "business-000075",
+      "kind": "word",
+      "text": "nota de débito",
+      "description_en": "A document recording an additional amount claimed.",
+      "example_en": "The supplier sent a debit note.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000076",
+      "english_id": "en:vcu100:business:000076",
+      "english_sense_id": "business-000076",
+      "kind": "word",
+      "text": "fatura discriminada",
+      "description_en": "An invoice listing individual items and amounts.",
+      "example_en": "Send an itemized invoice for the project.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000077",
+      "english_id": "en:vcu100:business:000077",
+      "english_sense_id": "business-000077",
+      "kind": "word",
+      "text": "endereço de cobrança",
+      "description_en": "The address used for invoicing a customer.",
+      "example_en": "Confirm the billing address.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000078",
+      "english_id": "en:vcu100:business:000078",
+      "english_sense_id": "business-000078",
+      "kind": "word",
+      "text": "fatura vencida",
+      "description_en": "An invoice not paid by the due date.",
+      "example_en": "Contact the customer about the overdue invoice.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000079",
+      "english_id": "en:vcu100:business:000079",
+      "english_sense_id": "business-000079",
+      "kind": "word",
+      "text": "saldo em aberto",
+      "description_en": "An amount still unpaid or unsettled.",
+      "example_en": "The statement shows an outstanding balance.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000080",
+      "english_id": "en:vcu100:business:000080",
+      "english_sense_id": "business-000080",
+      "kind": "word",
+      "text": "recibo de pagamento",
+      "description_en": "A document confirming a payment was received.",
+      "example_en": "Email the payment receipt to the client.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:invoicing",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Faturamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000081",
+      "english_id": "en:vcu100:business:000081",
+      "english_sense_id": "business-000081",
+      "kind": "word",
+      "text": "contas a pagar",
+      "description_en": "Money a business owes its suppliers and other creditors.",
+      "example_en": "Accounts payable are reviewed every week.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000082",
+      "english_id": "en:vcu100:business:000082",
+      "english_sense_id": "business-000082",
+      "kind": "word",
+      "text": "contas a receber",
+      "description_en": "Money owed to a business by customers.",
+      "example_en": "Accounts receivable increased this month.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000083",
+      "english_id": "en:vcu100:business:000083",
+      "english_sense_id": "business-000083",
+      "kind": "word",
+      "text": "razão geral",
+      "description_en": "The main record of a company's accounting transactions.",
+      "example_en": "Post the entries to the general ledger.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000084",
+      "english_id": "en:vcu100:business:000084",
+      "english_sense_id": "business-000084",
+      "kind": "word",
+      "text": "balancete de verificação",
+      "description_en": "A list of ledger account balances used to check accounting records.",
+      "example_en": "Prepare the trial balance before closing.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000085",
+      "english_id": "en:vcu100:business:000085",
+      "english_sense_id": "business-000085",
+      "kind": "word",
+      "text": "lançamento contábil",
+      "description_en": "A transaction recorded in the accounting journal.",
+      "example_en": "Record a journal entry for the adjustment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000086",
+      "english_id": "en:vcu100:business:000086",
+      "english_sense_id": "business-000086",
+      "kind": "word",
+      "text": "regime de competência ou apropriação",
+      "description_en": "The recognition of amounts as earned or incurred rather than when paid.",
+      "example_en": "Record the expense as an accrual.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000087",
+      "english_id": "en:vcu100:business:000087",
+      "english_sense_id": "business-000087",
+      "kind": "word",
+      "text": "depreciação",
+      "description_en": "The allocation of a tangible asset's cost over its useful life.",
+      "example_en": "Calculate depreciation for the machine.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000088",
+      "english_id": "en:vcu100:business:000088",
+      "english_sense_id": "business-000088",
+      "kind": "word",
+      "text": "amortização",
+      "description_en": "The gradual allocation or repayment of an amount.",
+      "example_en": "The accountant reviewed intangible asset amortization.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000089",
+      "english_id": "en:vcu100:business:000089",
+      "english_sense_id": "business-000089",
+      "kind": "word",
+      "text": "conciliação",
+      "description_en": "The comparison of records to find discrepancies.",
+      "example_en": "Complete the bank reconciliation.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000090",
+      "english_id": "en:vcu100:business:000090",
+      "english_sense_id": "business-000090",
+      "kind": "word",
+      "text": "trilha de auditoria",
+      "description_en": "A record showing who changed data and when.",
+      "example_en": "The system keeps an audit trail.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000091",
+      "english_id": "en:vcu100:business:000091",
+      "english_sense_id": "business-000091",
+      "kind": "word",
+      "text": "lançamentos de encerramento",
+      "description_en": "Entries made when closing an accounting period.",
+      "example_en": "Review the closing entries.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000092",
+      "english_id": "en:vcu100:business:000092",
+      "english_sense_id": "business-000092",
+      "kind": "word",
+      "text": "demonstração financeira",
+      "description_en": "A formal report of a company's financial position or performance.",
+      "example_en": "The financial statement was approved.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:accounting",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Contabilidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000093",
+      "english_id": "en:vcu100:business:000093",
+      "english_sense_id": "business-000093",
+      "kind": "word",
+      "text": "fluxo de caixa",
+      "description_en": "Movement of money into and out of a business.",
+      "example_en": "Forecast cash flow for the next quarter.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000094",
+      "english_id": "en:vcu100:business:000094",
+      "english_sense_id": "business-000094",
+      "kind": "word",
+      "text": "capital de giro",
+      "description_en": "Short-term funds used to run business operations.",
+      "example_en": "The company needs more working capital.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000095",
+      "english_id": "en:vcu100:business:000095",
+      "english_sense_id": "business-000095",
+      "kind": "word",
+      "text": "margem bruta",
+      "description_en": "Revenue minus direct cost of goods sold expressed as an amount or rate.",
+      "example_en": "Gross margin improved this year.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000096",
+      "english_id": "en:vcu100:business:000096",
+      "english_sense_id": "business-000096",
+      "kind": "word",
+      "text": "lucro líquido",
+      "description_en": "Profit remaining after all recognized expenses and taxes.",
+      "example_en": "The company reported a net profit.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000097",
+      "english_id": "en:vcu100:business:000097",
+      "english_sense_id": "business-000097",
+      "kind": "word",
+      "text": "ponto de equilíbrio",
+      "description_en": "The sales level where total revenue equals total costs.",
+      "example_en": "Estimate the break-even point.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000098",
+      "english_id": "en:vcu100:business:000098",
+      "english_sense_id": "business-000098",
+      "kind": "word",
+      "text": "despesa operacional",
+      "description_en": "A cost incurred in running normal operations.",
+      "example_en": "Rent is an operating expense.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000099",
+      "english_id": "en:vcu100:business:000099",
+      "english_sense_id": "business-000099",
+      "kind": "word",
+      "text": "despesa de capital",
+      "description_en": "Money spent to acquire or improve long-term assets.",
+      "example_en": "The new machines are a capital expenditure.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000100",
+      "english_id": "en:vcu100:business:000100",
+      "english_sense_id": "business-000100",
+      "kind": "word",
+      "text": "retorno sobre o investimento",
+      "description_en": "A measure comparing gains with invested resources.",
+      "example_en": "Estimate the return on investment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000101",
+      "english_id": "en:vcu100:business:000101",
+      "english_sense_id": "business-000101",
+      "kind": "word",
+      "text": "taxa de juros",
+      "description_en": "The rate charged or earned on money over time.",
+      "example_en": "The loan has a variable interest rate.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000102",
+      "english_id": "en:vcu100:business:000102",
+      "english_sense_id": "business-000102",
+      "kind": "word",
+      "text": "linha de crédito",
+      "description_en": "An approved borrowing limit available to a customer.",
+      "example_en": "We requested a credit line.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000103",
+      "english_id": "en:vcu100:business:000103",
+      "english_sense_id": "business-000103",
+      "kind": "word",
+      "text": "garantia real ou bem dado em garantia",
+      "description_en": "Property pledged to secure repayment of a loan.",
+      "example_en": "The lender requested collateral.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000104",
+      "english_id": "en:vcu100:business:000104",
+      "english_sense_id": "business-000104",
+      "kind": "word",
+      "text": "taxa de câmbio",
+      "description_en": "The value of one currency expressed in another currency.",
+      "example_en": "Confirm the exchange rate before payment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:finance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Finanças"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000105",
+      "english_id": "en:vcu100:business:000105",
+      "english_sense_id": "business-000105",
+      "kind": "word",
+      "text": "plano de negócios",
+      "description_en": "A document outlining business goals and how to achieve them.",
+      "example_en": "Update the business plan.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000106",
+      "english_id": "en:vcu100:business:000106",
+      "english_sense_id": "business-000106",
+      "kind": "word",
+      "text": "previsão orçamentária",
+      "description_en": "An estimate of future income and expenses.",
+      "example_en": "The budget forecast covers next year.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000107",
+      "english_id": "en:vcu100:business:000107",
+      "english_sense_id": "business-000107",
+      "kind": "word",
+      "text": "meta trimestral",
+      "description_en": "A goal set for a three-month period.",
+      "example_en": "We reached the quarterly target.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000108",
+      "english_id": "en:vcu100:business:000108",
+      "english_sense_id": "business-000108",
+      "kind": "word",
+      "text": "participação de mercado",
+      "description_en": "A company's percentage of sales in a defined market.",
+      "example_en": "Market share increased.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000109",
+      "english_id": "en:vcu100:business:000109",
+      "english_sense_id": "business-000109",
+      "kind": "word",
+      "text": "vantagem competitiva",
+      "description_en": "An attribute that helps a business outperform competitors.",
+      "example_en": "Service quality is a competitive advantage.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000110",
+      "english_id": "en:vcu100:business:000110",
+      "english_sense_id": "business-000110",
+      "kind": "word",
+      "text": "indicador-chave de desempenho",
+      "description_en": "A measurable sign of progress toward a goal.",
+      "example_en": "Choose a KPI for delivery time.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000111",
+      "english_id": "en:vcu100:business:000111",
+      "english_sense_id": "business-000111",
+      "kind": "word",
+      "text": "roteiro de implementação",
+      "description_en": "A plan showing expected stages and priorities.",
+      "example_en": "The product roadmap includes three releases.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000112",
+      "english_id": "en:vcu100:business:000112",
+      "english_sense_id": "business-000112",
+      "kind": "word",
+      "text": "marco do projeto",
+      "description_en": "An important planned achievement in a project.",
+      "example_en": "The pilot launch is our next milestone.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000113",
+      "english_id": "en:vcu100:business:000113",
+      "english_sense_id": "business-000113",
+      "kind": "word",
+      "text": "plano de contingência",
+      "description_en": "A plan for dealing with unexpected events.",
+      "example_en": "Prepare a contingency plan for delays.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000114",
+      "english_id": "en:vcu100:business:000114",
+      "english_sense_id": "business-000114",
+      "kind": "word",
+      "text": "estudo de viabilidade",
+      "description_en": "An assessment of whether a project can be carried out.",
+      "example_en": "The feasibility study found high costs.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000115",
+      "english_id": "en:vcu100:business:000115",
+      "english_sense_id": "business-000115",
+      "kind": "word",
+      "text": "avaliação de riscos",
+      "description_en": "A systematic review of possible threats and their consequences.",
+      "example_en": "Complete the risk assessment first.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000116",
+      "english_id": "en:vcu100:business:000116",
+      "english_sense_id": "business-000116",
+      "kind": "word",
+      "text": "parte interessada",
+      "description_en": "A person or organization affected by a project or decision.",
+      "example_en": "Inform each stakeholder about the change.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:strategy",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Estratégia e planejamento"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000117",
+      "english_id": "en:vcu100:business:000117",
+      "english_sense_id": "business-000117",
+      "kind": "word",
+      "text": "anúncio de vaga",
+      "description_en": "A public advertisement for an open job.",
+      "example_en": "Publish the job posting online.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000118",
+      "english_id": "en:vcu100:business:000118",
+      "english_sense_id": "business-000118",
+      "kind": "word",
+      "text": "entrevista de emprego",
+      "description_en": "A meeting to assess an employment candidate.",
+      "example_en": "The job interview is scheduled for Monday.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000119",
+      "english_id": "en:vcu100:business:000119",
+      "english_sense_id": "business-000119",
+      "kind": "word",
+      "text": "integração de novo funcionário",
+      "description_en": "The process of introducing a new worker to the organization.",
+      "example_en": "Onboarding starts on the first day.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000120",
+      "english_id": "en:vcu100:business:000120",
+      "english_sense_id": "business-000120",
+      "kind": "word",
+      "text": "folha de pagamento",
+      "description_en": "The process or list of employees' compensation.",
+      "example_en": "Payroll is processed twice a month.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000121",
+      "english_id": "en:vcu100:business:000121",
+      "english_sense_id": "business-000121",
+      "kind": "word",
+      "text": "hora extra",
+      "description_en": "Work performed beyond the normal scheduled hours.",
+      "example_en": "The supervisor approved overtime.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000122",
+      "english_id": "en:vcu100:business:000122",
+      "english_sense_id": "business-000122",
+      "kind": "word",
+      "text": "licença remunerada",
+      "description_en": "Time away from work while still receiving pay.",
+      "example_en": "She requested paid leave.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000123",
+      "english_id": "en:vcu100:business:000123",
+      "english_sense_id": "business-000123",
+      "kind": "word",
+      "text": "avaliação de desempenho",
+      "description_en": "A formal assessment of an employee's work.",
+      "example_en": "The performance review is annual.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000124",
+      "english_id": "en:vcu100:business:000124",
+      "english_sense_id": "business-000124",
+      "kind": "word",
+      "text": "escala de trabalho",
+      "description_en": "A plan showing when employees are expected to work.",
+      "example_en": "Share the work schedule with the team.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000125",
+      "english_id": "en:vcu100:business:000125",
+      "english_sense_id": "business-000125",
+      "kind": "word",
+      "text": "contratado autônomo ou prestador de serviços",
+      "description_en": "A person or company hired for specified services.",
+      "example_en": "The contractor sent an invoice.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000126",
+      "english_id": "en:vcu100:business:000126",
+      "english_sense_id": "business-000126",
+      "kind": "word",
+      "text": "conflito de interesses",
+      "description_en": "A situation where personal interests could interfere with professional duties.",
+      "example_en": "Disclose any conflict of interest.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:human_resources",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Recursos humanos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000127",
+      "english_id": "en:vcu100:business:000127",
+      "english_sense_id": "business-000127",
+      "kind": "word",
+      "text": "política de conformidade",
+      "description_en": "Company rules intended to meet applicable obligations.",
+      "example_en": "Read the compliance policy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000128",
+      "english_id": "en:vcu100:business:000128",
+      "english_sense_id": "business-000128",
+      "kind": "word",
+      "text": "proteção de dados",
+      "description_en": "Practices for safeguarding personal or sensitive information.",
+      "example_en": "Data protection is part of the contract.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000129",
+      "english_id": "en:vcu100:business:000129",
+      "english_sense_id": "business-000129",
+      "kind": "word",
+      "text": "acordo de confidencialidade",
+      "description_en": "An agreement to keep specified information confidential.",
+      "example_en": "Sign the NDA before receiving the designs.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000130",
+      "english_id": "en:vcu100:business:000130",
+      "english_sense_id": "business-000130",
+      "kind": "word",
+      "text": "política antissuborno",
+      "description_en": "Rules intended to prevent improper payments or gifts.",
+      "example_en": "Follow the anti-bribery policy.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000131",
+      "english_id": "en:vcu100:business:000131",
+      "english_sense_id": "business-000131",
+      "kind": "word",
+      "text": "diligência prévia",
+      "description_en": "A careful investigation before a business decision.",
+      "example_en": "Conduct due diligence on the supplier.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000132",
+      "english_id": "en:vcu100:business:000132",
+      "english_sense_id": "business-000132",
+      "kind": "word",
+      "text": "cláusula contratual",
+      "description_en": "A specific provision in a contract.",
+      "example_en": "Review the contract clause with counsel.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000133",
+      "english_id": "en:vcu100:business:000133",
+      "english_sense_id": "business-000133",
+      "kind": "word",
+      "text": "responsabilidade legal",
+      "description_en": "The legal responsibility for an obligation or loss.",
+      "example_en": "The agreement limits certain liability.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000134",
+      "english_id": "en:vcu100:business:000134",
+      "english_sense_id": "business-000134",
+      "kind": "word",
+      "text": "garantia contratual",
+      "description_en": "A promise about a product or service's performance.",
+      "example_en": "The warranty covers manufacturing defects.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000135",
+      "english_id": "en:vcu100:business:000135",
+      "english_sense_id": "business-000135",
+      "kind": "word",
+      "text": "termos e condições",
+      "description_en": "The rules governing a business transaction or service.",
+      "example_en": "Read the terms and conditions.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000136",
+      "english_id": "en:vcu100:business:000136",
+      "english_sense_id": "business-000136",
+      "kind": "word",
+      "text": "constatação de auditoria",
+      "description_en": "An issue identified during an audit.",
+      "example_en": "Address the audit finding promptly.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:compliance",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Conformidade e contratos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000137",
+      "english_id": "en:vcu100:business:000137",
+      "english_sense_id": "business-000137",
+      "kind": "word",
+      "text": "consulta de cliente",
+      "description_en": "A question or request sent by a customer.",
+      "example_en": "Answer the customer inquiry today.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000138",
+      "english_id": "en:vcu100:business:000138",
+      "english_sense_id": "business-000138",
+      "kind": "word",
+      "text": "chamado de suporte",
+      "description_en": "A tracked request for customer assistance.",
+      "example_en": "Open a support ticket for the defect.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000139",
+      "english_id": "en:vcu100:business:000139",
+      "english_sense_id": "business-000139",
+      "kind": "word",
+      "text": "acordo de nível de serviço",
+      "description_en": "An agreement specifying service commitments.",
+      "example_en": "The SLA defines response times.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000140",
+      "english_id": "en:vcu100:business:000140",
+      "english_sense_id": "business-000140",
+      "kind": "word",
+      "text": "escalonamento de atendimento",
+      "description_en": "Passing an issue to a higher support level.",
+      "example_en": "Escalation is required for urgent cases.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000141",
+      "english_id": "en:vcu100:business:000141",
+      "english_sense_id": "business-000141",
+      "kind": "word",
+      "text": "reclamação",
+      "description_en": "A statement expressing dissatisfaction.",
+      "example_en": "The manager responded to the complaint.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000142",
+      "english_id": "en:vcu100:business:000142",
+      "english_sense_id": "business-000142",
+      "kind": "word",
+      "text": "tempo de resolução",
+      "description_en": "The time needed to solve a reported problem.",
+      "example_en": "Track resolution time by team.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000143",
+      "english_id": "en:vcu100:business:000143",
+      "english_sense_id": "business-000143",
+      "kind": "word",
+      "text": "opinião do cliente",
+      "description_en": "Comments about a customer's experience.",
+      "example_en": "Collect customer feedback after delivery.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000144",
+      "english_id": "en:vcu100:business:000144",
+      "english_sense_id": "business-000144",
+      "kind": "word",
+      "text": "devolução de produto",
+      "description_en": "A customer's return of a purchased product.",
+      "example_en": "Process the product return.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000145",
+      "english_id": "en:vcu100:business:000145",
+      "english_sense_id": "business-000145",
+      "kind": "word",
+      "text": "item de substituição",
+      "description_en": "A new item provided to replace another.",
+      "example_en": "Ship the replacement item tomorrow.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000146",
+      "english_id": "en:vcu100:business:000146",
+      "english_sense_id": "business-000146",
+      "kind": "word",
+      "text": "agendamento de atendimento",
+      "description_en": "A scheduled time for service or support.",
+      "example_en": "Confirm the service appointment.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:customer_service",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Atendimento ao cliente"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000147",
+      "english_id": "en:vcu100:business:000147",
+      "english_sense_id": "business-000147",
+      "kind": "word",
+      "text": "assinatura digital",
+      "description_en": "A cryptographic signature used to authenticate electronic data.",
+      "example_en": "Verify the digital signature on the document.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000148",
+      "english_id": "en:vcu100:business:000148",
+      "english_sense_id": "business-000148",
+      "kind": "word",
+      "text": "assinatura eletrônica",
+      "description_en": "An electronic indication of agreement or intent.",
+      "example_en": "The contract was signed with an electronic signature.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000149",
+      "english_id": "en:vcu100:business:000149",
+      "english_sense_id": "business-000149",
+      "kind": "word",
+      "text": "credenciais de acesso",
+      "description_en": "Information used to authenticate an account.",
+      "example_en": "Never share access credentials.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000150",
+      "english_id": "en:vcu100:business:000150",
+      "english_sense_id": "business-000150",
+      "kind": "word",
+      "text": "autenticação de dois fatores",
+      "description_en": "An extra verification step used when signing in.",
+      "example_en": "Enable two-factor authentication.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000151",
+      "english_id": "en:vcu100:business:000151",
+      "english_sense_id": "business-000151",
+      "kind": "word",
+      "text": "renovação de assinatura",
+      "description_en": "Extending a paid service subscription for another term.",
+      "example_en": "Check the subscription renewal date.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000152",
+      "english_id": "en:vcu100:business:000152",
+      "english_sense_id": "business-000152",
+      "kind": "word",
+      "text": "indisponibilidade do serviço",
+      "description_en": "A period when a service cannot be used.",
+      "example_en": "The service outage affected customers.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000153",
+      "english_id": "en:vcu100:business:000153",
+      "english_sense_id": "business-000153",
+      "kind": "word",
+      "text": "integração de sistemas",
+      "description_en": "Connecting systems to exchange data or perform work together.",
+      "example_en": "System integration requires testing.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000154",
+      "english_id": "en:vcu100:business:000154",
+      "english_sense_id": "business-000154",
+      "kind": "word",
+      "text": "exportação de dados",
+      "description_en": "Producing data in a format that can be transferred.",
+      "example_en": "Request a data export.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000155",
+      "english_id": "en:vcu100:business:000155",
+      "english_sense_id": "business-000155",
+      "kind": "word",
+      "text": "cópia de segurança",
+      "description_en": "A duplicate of data kept for recovery.",
+      "example_en": "Store a backup copy securely.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:business:000156",
+      "english_id": "en:vcu100:business:000156",
+      "english_sense_id": "business-000156",
+      "kind": "word",
+      "text": "permissão de acesso",
+      "description_en": "Authorization to view or change information.",
+      "example_en": "Grant the minimum access permission needed.",
+      "source_status": "original-editorial-candidate-reviewed",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:business:digital",
+      "topics": [
+        "VCU100 · Business & Finanças",
+        "Negócios · Negócios digitais"
+      ]
+    }
+  ]
+}
