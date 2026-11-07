@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -765,6 +765,59 @@
       "vcu_family": "VCU100",
       "domain": "japan_tourism",
       "companion_of": "vcu100-ja-tourism"
+    },
+    {
+      "id": "vcu100-pt-br-tourism",
+      "name": "VCU100 — Português Brasileiro para Turismo",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-tourism",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 176,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Brazilian Portuguese for Tourism",
+      "name_pt": "Português Brasileiro para Turismo",
+      "name_ja": "観光のブラジル・ポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-tourism.json",
+      "sha256": "aead6430397d53e4fea0b1e6142fc50d173913c030ba92f0cc20475911b70e77",
+      "size_bytes": 98047,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "brazil_tourism",
+      "companion_package_id": "vcu100-en-us-brazil-tourism-companion",
+      "requires": [
+        "vcu100-en-us-brazil-tourism-companion"
+      ]
+    },
+    {
+      "id": "vcu100-en-us-brazil-tourism-companion",
+      "name": "VCU100 — Brazil Tourism (US English Companion)",
+      "language": "en",
+      "region": "en-US-VCU100-brazil-tourism",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 176,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "Brazil Travel English Companion",
+      "name_pt": "Inglês — apoio ao Turismo Brasileiro",
+      "name_ja": "ブラジル観光英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-brazil-tourism-companion.json",
+      "sha256": "b1b21070574684eb3bec8663452435a95e39ee4649930f7ece64affd834fe970",
+      "size_bytes": 97951,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "brazil_tourism",
+      "companion_of": "vcu100-pt-br-tourism"
     }
   ],
   "notes": [
@@ -778,6 +831,7 @@
     "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending.",
     "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending.",
     "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending.",
-    "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending."
+    "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending.",
+    "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated."
   ]
 }
