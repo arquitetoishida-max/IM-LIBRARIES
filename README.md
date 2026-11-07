@@ -18,4 +18,6 @@
 
 O arquivo da raiz `catalog.json` é **pesquisa antiga em schema 1** e **não é o catálogo do APK**. O experimento de 38 conceitos `core-multilingual-pilot-001` foi removido do ramo ativo em 06/11/2026 por ser obsoleto (permanece recuperável pelo histórico do Git). Os demais conjuntos herdados de fontes externas continuam como materiais históricos não distribuídos pelo app; a existência deles não comprova alinhamento semântico, revisão linguística nem autorização de publicação.
 
+O workflow legado `.github/workflows/build-libraries.yml` (geração automática apenas de schema 1) foi excluído em 07/11/2026, pois não gera pacotes do catálogo ativo. O código `scripts/build_packages.py` e arquivos históricos de fontes públicas foram preservados para auditoria e eventual reaproveitamento; não são instalados pelo APK.
+
 Os fluxos antigos da pasta `packages/` não devem modificar `v2/catalog.json`. Publicações novas passam por LEXICON → pacotes V2 → validação → catálogo V2 e testes Android. Não preencher contagens mínimas com traduções inventadas.
