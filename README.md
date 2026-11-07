@@ -8,9 +8,11 @@
 
 - `v2/*-core-v2.json`: bibliotecas básicas VCU14 por idioma. Não alterar núcleos públicos sem auditoria específica.
 - `v2/vcu100/`: vocabulários profissionais especializados, separados do VCU14 e disponíveis por pacote. Para palavras traduzidas entre dois idiomas, o par usa o mesmo `english_id` e `english_sense_id` e IDs independentes dos núcleos.
-- Primeiras publicações VCU100 (06/11/2026): Construction Site English (US) e acompanhante PT-BR, **178** entradas cada; Business & Finance English (US) e acompanhante PT-BR, **156** entradas cada.
+- **Nove publicações VCU100 (06/11/2026)** em [v2/vcu100](v2/vcu100) — cada uma possui pacote-par alinhado semanticamente, separado do VCU14: Construction Site EN **178**; Business EN **156**; Healthcare EN **170**; Architecture & Interiors EN **180**; Factory JA **179**; Japanese Tourism JA **175**; Brazil Tourism PT-BR **176**; South America Adventure ES **175**; Mandarin Tourism/Sourcing ZH **168**. Total **1.557 entradas principais + 1.557 pares**, catálogo V2 versão **1.1.11**.
 - *Compatibilidade*: o app atual ainda precisa completar instalação automática de dependências, classificação VCU100 e testes de progresso/temas; consultar ISHIDA-MULTILANG #35/#38/#39.
 - Pacotes de gírias regionais (`role=regional`) são distintos de VCU100 (`role=specialized`). Não renomear pacotes para fingir independência sem suporte no Flutter.
+
+**Estado:** publicadas em repositório por autorização específica do proprietário. Ainda não homologadas na versão Android; instalação do par, classificação VCU100, TTS/STT, notas e rollback dependem dos testes ISHIDA-MULTILANG #35/#38/#39. Gírias regionais NY/CA/TX/Sul/Blues continuam em curadoria; não inflar o catálogo com termos sem comprovação regional.
 
 ## Arquivo histórico
 
