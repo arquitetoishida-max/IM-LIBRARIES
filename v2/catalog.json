@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -510,7 +510,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 156,
+      "entry_count": 301,
       "has_ui": false,
       "flag": "🇺🇸",
       "locale": "en-US",
@@ -519,9 +519,9 @@
       "name_pt": "Inglês de Negócios e Finanças",
       "name_ja": "ビジネス英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-business.json",
-      "sha256": "6bb3c30f1664defb1c2f6d684e387ef49203673d9fd004a6d376f32860c7a6cf",
-      "size_bytes": 92841,
-      "version": "1.0.0",
+      "sha256": "e2c5fd17fc20120278092694e7619a39f95ef262b1555575c039dd1d0c88b0e3",
+      "size_bytes": 182305,
+      "version": "1.1.0",
       "vcu_family": "VCU100",
       "domain": "business_finance",
       "companion_package_id": "vcu100-pt-br-business-companion",
@@ -538,7 +538,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 156,
+      "entry_count": 301,
       "has_ui": false,
       "flag": "🇧🇷",
       "locale": "pt-BR",
@@ -547,9 +547,9 @@
       "name_pt": "Português para Negócios e Finanças",
       "name_ja": "ビジネス・ポルトガル語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-business-companion.json",
-      "sha256": "8d5ea40de6aba1dd0f529e94d250ad4f5eb5c6df32151372857573500748412e",
-      "size_bytes": 94349,
-      "version": "1.0.0",
+      "sha256": "1ab7bd3d8d9883a2d3e557639680c7dae3604edac3f99b3d5bb564f22f1221f7",
+      "size_bytes": 185369,
+      "version": "1.1.0",
       "vcu_family": "VCU100",
       "domain": "business_finance",
       "companion_of": "vcu100-en-us-business"
@@ -969,6 +969,7 @@
     "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated.",
     "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending.",
     "Chinese Tourism/Sourcing (Simplified Mandarin) 168 entries with pinyin plus PT-BR companion; verify Mandarin TTS/STT, native reading and per-package UI in Android.",
-    "South American Adventure English: 172 unique terms, sharing 172 semantic IDs with preexisting Spanish Adventure/PT-BR companion (175); distinct English study pack, Android validation pending."
+    "South American Adventure English: 172 unique terms, sharing 172 semantic IDs with preexisting Spanish Adventure/PT-BR companion (175); distinct English study pack, Android validation pending.",
+    "Business US v1.1.0: 301 aligned entries, append-only IDs 157–301. Android QA pending."
   ]
 }
