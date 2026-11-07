@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -712,6 +712,59 @@
       "vcu_family": "VCU100",
       "domain": "factory_workplace",
       "companion_of": "vcu100-ja-factory"
+    },
+    {
+      "id": "vcu100-ja-tourism",
+      "name": "VCU100 — Japanese for Tourism / 観光の日本語",
+      "language": "ja",
+      "region": "ja-JP-VCU100-tourism",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 175,
+      "has_ui": false,
+      "flag": "🇯🇵",
+      "locale": "ja-JP",
+      "name_native": "日本語",
+      "name_en": "Japanese for Tourism",
+      "name_pt": "Japonês para Turismo",
+      "name_ja": "観光の日本語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-ja-tourism.json",
+      "sha256": "92648efb87eb5cb2f044750af07984b5dfa2a7ea584ee53634f1b7ed8a79f0b6",
+      "size_bytes": 100713,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "japan_tourism",
+      "companion_package_id": "vcu100-pt-br-ja-tourism-companion",
+      "requires": [
+        "vcu100-pt-br-ja-tourism-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-ja-tourism-companion",
+      "name": "VCU100 — Turismo no Japão (PT-BR, par do japonês)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-ja-tourism",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 175,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Japanese Tourism Portuguese companion",
+      "name_pt": "Português para Turismo no Japão",
+      "name_ja": "観光のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-ja-tourism-companion.json",
+      "sha256": "584e5e80e19b94218775513b95043ee1bd1ad284e9de7dfc55ee3001d5b2bdab",
+      "size_bytes": 90282,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "japan_tourism",
+      "companion_of": "vcu100-ja-tourism"
     }
   ],
   "notes": [
@@ -724,6 +777,7 @@
     "VCU100 Business English US: 156 aligned English and PT-BR entries with unique per-package semantic IDs. Android companion auto-install remains pending code support.",
     "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending.",
     "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending.",
-    "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending."
+    "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending.",
+    "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending."
   ]
 }
