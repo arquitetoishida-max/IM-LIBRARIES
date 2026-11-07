@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -447,6 +447,59 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/fonts/im-font-zh-kai.ttf",
       "sha256": "df65df9a9210f5829c730c8fdaf626ee822ef5dcf502b417114a61c2733a498d",
       "size_bytes": 907288
+    },
+    {
+      "id": "vcu100-en-us-construction-site",
+      "name": "VCU100 — Construction Site English (US)",
+      "language": "en",
+      "region": "en-US-VCU100-construction",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 178,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "Construction Site English",
+      "name_pt": "Inglês de Canteiro de Obras",
+      "name_ja": "建設現場の英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-construction-site.json",
+      "sha256": "7f73e40494c13db2e41bb33d8737ab43c9ee31b6e908fcd2f25994f85412b9fa",
+      "size_bytes": 117101,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "construction_site",
+      "companion_package_id": "vcu100-pt-br-construction-companion",
+      "requires": [
+        "vcu100-pt-br-construction-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-construction-companion",
+      "name": "VCU100 — Construção civil (PT-BR, par do inglês)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-construction",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 178,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Construction Site Portuguese (companion)",
+      "name_pt": "Português para Canteiro de Obras",
+      "name_ja": "建設現場のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-construction-companion.json",
+      "sha256": "7e3b1b3329b913c6f870d9fd7acbc7a16141c1be455e2dc3aab662de189fb5c8",
+      "size_bytes": 118887,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "construction_site",
+      "companion_of": "vcu100-en-us-construction-site"
     }
   ],
   "notes": [
@@ -454,6 +507,7 @@
     "English explanations (description_en) are translated on demand by the app into the native language.",
     "Word cards require the same english_id in both languages; meanings are approximate.",
     "Regional packs are content packs of an existing language, not new language codes.",
-    "Packages with has_ui=true also provide interface translations (machine translated)."
+    "Packages with has_ui=true also provide interface translations (machine translated).",
+    "New VCU100 construction English package has 178 dedicated semantic IDs and a separate 178-entry PT-BR companion; both packages must be installed for EN/PT bilingual study in current app builds. APK installation/dependency and UI regression tests remain pending."
   ]
 }
