@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -606,6 +606,59 @@
       "vcu_family": "VCU100",
       "domain": "healthcare_nursing",
       "companion_of": "vcu100-en-us-healthcare"
+    },
+    {
+      "id": "vcu100-en-us-architecture-interiors",
+      "name": "VCU100 — Architecture & Interior Design English (US)",
+      "language": "en",
+      "region": "en-US-VCU100-architecture",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 180,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "Architecture & Interior Design English",
+      "name_pt": "Inglês de Arquitetura, Interiores e Marcenaria",
+      "name_ja": "建築とインテリアの英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-architecture-interiors.json",
+      "sha256": "c268841fdbdf34b32215f889acfca5c23f640e280eb83d21f400ae80ccb85602",
+      "size_bytes": 113920,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "architecture_interiors",
+      "companion_package_id": "vcu100-pt-br-architecture-companion",
+      "requires": [
+        "vcu100-pt-br-architecture-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-architecture-companion",
+      "name": "VCU100 — Arquitetura e Interiores (PT-BR, par do inglês)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-architecture",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 180,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Architecture & Interior Portuguese Companion",
+      "name_pt": "Português para Arquitetura e Interiores",
+      "name_ja": "建築とインテリアのポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-architecture-companion.json",
+      "sha256": "cd26cd8c361c2fa12bc8cd8c193fd6392591971dbdce12b764512330e5151b3c",
+      "size_bytes": 115762,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "architecture_interiors",
+      "companion_of": "vcu100-en-us-architecture-interiors"
     }
   ],
   "notes": [
@@ -616,6 +669,7 @@
     "Packages with has_ui=true also provide interface translations (machine translated).",
     "New VCU100 construction English package has 178 dedicated semantic IDs and a separate 178-entry PT-BR companion; both packages must be installed for EN/PT bilingual study in current app builds. APK installation/dependency and UI regression tests remain pending.",
     "VCU100 Business English US: 156 aligned English and PT-BR entries with unique per-package semantic IDs. Android companion auto-install remains pending code support.",
-    "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending."
+    "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending.",
+    "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending."
   ]
 }
