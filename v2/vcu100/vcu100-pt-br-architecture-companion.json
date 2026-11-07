@@ -1,0 +1,2916 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-architecture-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-architecture",
+  "name": "VCU100 — Arquitetura, Interiores e Marcenaria (par PT-BR)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "editorial-original-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "architecture_interiors",
+  "companion_package_id": "vcu100-en-us-architecture-interiors",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/architecture-interiors-en-US-pt-BR-001.json"
+  ],
+  "notes": [
+    "Semantic IDs independent from general VCU14",
+    "PT-BR companion required for PT→EN and EN→PT flashcards",
+    "Specialized UI and progress isolation await Android validation"
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000001",
+      "english_id": "en:vcu100:architecture-interiors:000001",
+      "english_sense_id": "architecture-interiors-000001",
+      "kind": "word",
+      "text": "planta baixa",
+      "description_en": "A plan view of rooms walls and openings in a building.",
+      "example_en": "Check the floor plan before ordering furniture.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000002",
+      "english_id": "en:vcu100:architecture-interiors:000002",
+      "english_sense_id": "architecture-interiors-000002",
+      "kind": "word",
+      "text": "vista de elevação",
+      "description_en": "A drawing of a building or interior wall viewed straight on.",
+      "example_en": "The elevation drawing shows cabinet heights.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000003",
+      "english_id": "en:vcu100:architecture-interiors:000003",
+      "english_sense_id": "architecture-interiors-000003",
+      "kind": "word",
+      "text": "corte arquitetônico",
+      "description_en": "A drawing showing a vertical cut through a building or room.",
+      "example_en": "Use the section drawing to check ceiling levels.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000004",
+      "english_id": "en:vcu100:architecture-interiors:000004",
+      "english_sense_id": "architecture-interiors-000004",
+      "kind": "word",
+      "text": "planta de forro",
+      "description_en": "A plan showing ceiling features as viewed from below.",
+      "example_en": "The reflected ceiling plan locates the lights.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000005",
+      "english_id": "en:vcu100:architecture-interiors:000005",
+      "english_sense_id": "architecture-interiors-000005",
+      "kind": "word",
+      "text": "conceito de projeto",
+      "description_en": "The central idea guiding a design.",
+      "example_en": "The design concept uses warm wood and neutral tones.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000006",
+      "english_id": "en:vcu100:architecture-interiors:000006",
+      "english_sense_id": "architecture-interiors-000006",
+      "kind": "word",
+      "text": "imagem renderizada",
+      "description_en": "A computer-generated image of a proposed design.",
+      "example_en": "Send the rendering to the client.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000007",
+      "english_id": "en:vcu100:architecture-interiors:000007",
+      "english_sense_id": "architecture-interiors-000007",
+      "kind": "word",
+      "text": "painel de materiais",
+      "description_en": "A display of selected material and color samples.",
+      "example_en": "The material board includes stone and veneer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000008",
+      "english_id": "en:vcu100:architecture-interiors:000008",
+      "english_sense_id": "architecture-interiors-000008",
+      "kind": "word",
+      "text": "quadro de acabamentos",
+      "description_en": "A document listing finish materials for building surfaces.",
+      "example_en": "The finish schedule identifies every room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000009",
+      "english_id": "en:vcu100:architecture-interiors:000009",
+      "english_sense_id": "architecture-interiors-000009",
+      "kind": "word",
+      "text": "desenho de fabricação",
+      "description_en": "A detailed drawing prepared for production or installation.",
+      "example_en": "The cabinet maker reviewed the shop drawing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000010",
+      "english_id": "en:vcu100:architecture-interiors:000010",
+      "english_sense_id": "architecture-interiors-000010",
+      "kind": "word",
+      "text": "desenho conforme executado",
+      "description_en": "A record of how construction was actually completed.",
+      "example_en": "Update the as-built drawing after installation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000011",
+      "english_id": "en:vcu100:architecture-interiors:000011",
+      "english_sense_id": "architecture-interiors-000011",
+      "kind": "word",
+      "text": "levantamento do local",
+      "description_en": "An inspection and measurement of the existing site.",
+      "example_en": "A site survey found an uneven wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000012",
+      "english_id": "en:vcu100:architecture-interiors:000012",
+      "english_sense_id": "architecture-interiors-000012",
+      "kind": "word",
+      "text": "linha de cota",
+      "description_en": "A drafting line showing a measured distance.",
+      "example_en": "Place the dimension line outside the object.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:design",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Projeto e desenho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000013",
+      "english_id": "en:vcu100:architecture-interiors:000013",
+      "english_sense_id": "architecture-interiors-000013",
+      "kind": "word",
+      "text": "sala de estar",
+      "description_en": "A room used for relaxing and socializing.",
+      "example_en": "The living room has a large sofa.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000014",
+      "english_id": "en:vcu100:architecture-interiors:000014",
+      "english_sense_id": "architecture-interiors-000014",
+      "kind": "word",
+      "text": "sala de jantar",
+      "description_en": "A room primarily used for meals.",
+      "example_en": "The dining room connects to the kitchen.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000015",
+      "english_id": "en:vcu100:architecture-interiors:000015",
+      "english_sense_id": "architecture-interiors-000015",
+      "kind": "word",
+      "text": "quarto principal",
+      "description_en": "The main bedroom of a home.",
+      "example_en": "The primary bedroom has an ensuite bathroom.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000016",
+      "english_id": "en:vcu100:architecture-interiors:000016",
+      "english_sense_id": "architecture-interiors-000016",
+      "kind": "word",
+      "text": "quarto de hóspedes",
+      "description_en": "A bedroom intended for visitors.",
+      "example_en": "The guest bedroom has a wall closet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000017",
+      "english_id": "en:vcu100:architecture-interiors:000017",
+      "english_sense_id": "architecture-interiors-000017",
+      "kind": "word",
+      "text": "closet com espaço de circulação",
+      "description_en": "A closet large enough to walk into.",
+      "example_en": "The walk-in closet includes drawers and shelves.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000018",
+      "english_id": "en:vcu100:architecture-interiors:000018",
+      "english_sense_id": "architecture-interiors-000018",
+      "kind": "word",
+      "text": "escritório residencial",
+      "description_en": "A room or work area for tasks done at home.",
+      "example_en": "The home office needs good task lighting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000019",
+      "english_id": "en:vcu100:architecture-interiors:000019",
+      "english_sense_id": "architecture-interiors-000019",
+      "kind": "word",
+      "text": "lavabo",
+      "description_en": "A small bathroom usually without a shower or bathtub.",
+      "example_en": "The powder room is near the foyer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000020",
+      "english_id": "en:vcu100:architecture-interiors:000020",
+      "english_sense_id": "architecture-interiors-000020",
+      "kind": "word",
+      "text": "hall de entrada",
+      "description_en": "An entrance hall inside a home.",
+      "example_en": "The foyer opens into the living room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000021",
+      "english_id": "en:vcu100:architecture-interiors:000021",
+      "english_sense_id": "architecture-interiors-000021",
+      "kind": "word",
+      "text": "lavanderia",
+      "description_en": "A room for washing and drying clothes.",
+      "example_en": "The laundry room needs storage cabinets.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000022",
+      "english_id": "en:vcu100:architecture-interiors:000022",
+      "english_sense_id": "architecture-interiors-000022",
+      "kind": "word",
+      "text": "vestíbulo de serviço",
+      "description_en": "A practical entry area for coats shoes and outdoor items.",
+      "example_en": "The mudroom has a built-in bench.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000023",
+      "english_id": "en:vcu100:architecture-interiors:000023",
+      "english_sense_id": "architecture-interiors-000023",
+      "kind": "word",
+      "text": "canto de refeições",
+      "description_en": "A small informal dining area often near the kitchen.",
+      "example_en": "The breakfast nook has a round table.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000024",
+      "english_id": "en:vcu100:architecture-interiors:000024",
+      "english_sense_id": "architecture-interiors-000024",
+      "kind": "word",
+      "text": "ambiente integrado",
+      "description_en": "A floor layout with few interior partitions.",
+      "example_en": "The open-plan layout connects the living and dining areas.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:rooms",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ambientes"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000025",
+      "english_id": "en:vcu100:architecture-interiors:000025",
+      "english_sense_id": "architecture-interiors-000025",
+      "kind": "word",
+      "text": "sofá",
+      "description_en": "A long upholstered seat for multiple people.",
+      "example_en": "The sofa faces the television.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000026",
+      "english_id": "en:vcu100:architecture-interiors:000026",
+      "english_sense_id": "architecture-interiors-000026",
+      "kind": "word",
+      "text": "sofá modular em L",
+      "description_en": "A multi-piece sofa arranged in sections.",
+      "example_en": "The sectional sofa fits the corner.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000027",
+      "english_id": "en:vcu100:architecture-interiors:000027",
+      "english_sense_id": "architecture-interiors-000027",
+      "kind": "word",
+      "text": "sofá de dois lugares",
+      "description_en": "A compact sofa designed for two people.",
+      "example_en": "Place the loveseat near the window.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000028",
+      "english_id": "en:vcu100:architecture-interiors:000028",
+      "english_sense_id": "architecture-interiors-000028",
+      "kind": "word",
+      "text": "poltrona",
+      "description_en": "A padded chair with arms.",
+      "example_en": "The armchair has a wooden frame.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000029",
+      "english_id": "en:vcu100:architecture-interiors:000029",
+      "english_sense_id": "architecture-interiors-000029",
+      "kind": "word",
+      "text": "poltrona reclinável",
+      "description_en": "An armchair with an adjustable back and footrest.",
+      "example_en": "The recliner needs extra clearance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000030",
+      "english_id": "en:vcu100:architecture-interiors:000030",
+      "english_sense_id": "architecture-interiors-000030",
+      "kind": "word",
+      "text": "espreguiçadeira estofada",
+      "description_en": "A long seat supporting extended legs.",
+      "example_en": "The chaise longue goes beside the window.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000031",
+      "english_id": "en:vcu100:architecture-interiors:000031",
+      "english_sense_id": "architecture-interiors-000031",
+      "kind": "word",
+      "text": "recamier",
+      "description_en": "A backless or partly backed upholstered daybed or bench.",
+      "example_en": "The récamier is placed at the foot of the bed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000032",
+      "english_id": "en:vcu100:architecture-interiors:000032",
+      "english_sense_id": "architecture-interiors-000032",
+      "kind": "word",
+      "text": "pufe estofado",
+      "description_en": "A padded seat or footrest without a back.",
+      "example_en": "Use the ottoman as a footrest.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000033",
+      "english_id": "en:vcu100:architecture-interiors:000033",
+      "english_sense_id": "architecture-interiors-000033",
+      "kind": "word",
+      "text": "mesa de centro",
+      "description_en": "A low table placed in front of a sofa.",
+      "example_en": "The coffee table has a stone top.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000034",
+      "english_id": "en:vcu100:architecture-interiors:000034",
+      "english_sense_id": "architecture-interiors-000034",
+      "kind": "word",
+      "text": "mesa lateral",
+      "description_en": "A small table placed beside seating.",
+      "example_en": "Put a lamp on the end table.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000035",
+      "english_id": "en:vcu100:architecture-interiors:000035",
+      "english_sense_id": "architecture-interiors-000035",
+      "kind": "word",
+      "text": "aparador estreito",
+      "description_en": "A narrow table often placed against a wall.",
+      "example_en": "The console table fits the entryway.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000036",
+      "english_id": "en:vcu100:architecture-interiors:000036",
+      "english_sense_id": "architecture-interiors-000036",
+      "kind": "word",
+      "text": "balcão aparador",
+      "description_en": "A storage cabinet traditionally used in dining rooms.",
+      "example_en": "The sideboard stores dishes and linens.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000037",
+      "english_id": "en:vcu100:architecture-interiors:000037",
+      "english_sense_id": "architecture-interiors-000037",
+      "kind": "word",
+      "text": "mesa de cabeceira",
+      "description_en": "A small bedside table.",
+      "example_en": "The nightstand has a drawer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000038",
+      "english_id": "en:vcu100:architecture-interiors:000038",
+      "english_sense_id": "architecture-interiors-000038",
+      "kind": "word",
+      "text": "banqueta alta",
+      "description_en": "A tall seat used at a bar or counter.",
+      "example_en": "Choose a bar stool at the right height.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000039",
+      "english_id": "en:vcu100:architecture-interiors:000039",
+      "english_sense_id": "architecture-interiors-000039",
+      "kind": "word",
+      "text": "guarda-roupa",
+      "description_en": "A piece of furniture used to store clothing.",
+      "example_en": "The wardrobe has sliding doors.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:furniture",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Móveis"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000040",
+      "english_id": "en:vcu100:architecture-interiors:000040",
+      "english_sense_id": "architecture-interiors-000040",
+      "kind": "word",
+      "text": "armário suspenso",
+      "description_en": "A cabinet mounted above the floor.",
+      "example_en": "The wall cabinet is attached to wall studs.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000041",
+      "english_id": "en:vcu100:architecture-interiors:000041",
+      "english_sense_id": "architecture-interiors-000041",
+      "kind": "word",
+      "text": "armário inferior apoiado no piso",
+      "description_en": "A cabinet installed under a countertop.",
+      "example_en": "Install the base cabinet first.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000042",
+      "english_id": "en:vcu100:architecture-interiors:000042",
+      "english_sense_id": "architecture-interiors-000042",
+      "kind": "word",
+      "text": "armário torre",
+      "description_en": "A floor-to-ceiling or tall storage cabinet.",
+      "example_en": "The tall cabinet holds cleaning supplies.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000043",
+      "english_id": "en:vcu100:architecture-interiors:000043",
+      "english_sense_id": "architecture-interiors-000043",
+      "kind": "word",
+      "text": "armário despensa",
+      "description_en": "A cabinet used for food and kitchen supplies.",
+      "example_en": "The pantry cabinet has pull-out shelves.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000044",
+      "english_id": "en:vcu100:architecture-interiors:000044",
+      "english_sense_id": "architecture-interiors-000044",
+      "kind": "word",
+      "text": "caixa estrutural do armário",
+      "description_en": "The box structure of a cabinet excluding doors and fittings.",
+      "example_en": "Assemble the cabinet carcass square.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000045",
+      "english_id": "en:vcu100:architecture-interiors:000045",
+      "english_sense_id": "architecture-interiors-000045",
+      "kind": "word",
+      "text": "moldura frontal do armário",
+      "description_en": "A frame fixed to the front of some cabinet boxes.",
+      "example_en": "The face frame covers the panel edges.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000046",
+      "english_id": "en:vcu100:architecture-interiors:000046",
+      "english_sense_id": "architecture-interiors-000046",
+      "kind": "word",
+      "text": "armário sem moldura frontal",
+      "description_en": "A cabinet design without a front face frame.",
+      "example_en": "Frameless cabinets need precise panel edges.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000047",
+      "english_id": "en:vcu100:architecture-interiors:000047",
+      "english_sense_id": "architecture-interiors-000047",
+      "kind": "word",
+      "text": "rodapé recuado do armário",
+      "description_en": "The recessed base space for a person's toes.",
+      "example_en": "Leave enough depth for the toe kick.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000048",
+      "english_id": "en:vcu100:architecture-interiors:000048",
+      "english_sense_id": "architecture-interiors-000048",
+      "kind": "word",
+      "text": "porta de armário",
+      "description_en": "A movable panel closing a cabinet opening.",
+      "example_en": "Align the cabinet door.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000049",
+      "english_id": "en:vcu100:architecture-interiors:000049",
+      "english_sense_id": "architecture-interiors-000049",
+      "kind": "word",
+      "text": "frente de gaveta",
+      "description_en": "The visible front panel of a drawer.",
+      "example_en": "Replace the damaged drawer front.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000050",
+      "english_id": "en:vcu100:architecture-interiors:000050",
+      "english_sense_id": "architecture-interiors-000050",
+      "kind": "word",
+      "text": "prateleira regulável",
+      "description_en": "A shelf that can be moved to different heights.",
+      "example_en": "Move the adjustable shelf up one hole.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000051",
+      "english_id": "en:vcu100:architecture-interiors:000051",
+      "english_sense_id": "architecture-interiors-000051",
+      "kind": "word",
+      "text": "prateleira deslizante",
+      "description_en": "A shelf mounted on slides that extends outward.",
+      "example_en": "The pull-out shelf holds the cookware.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000052",
+      "english_id": "en:vcu100:architecture-interiors:000052",
+      "english_sense_id": "architecture-interiors-000052",
+      "kind": "word",
+      "text": "dobradiça com amortecimento",
+      "description_en": "A hinge that slows the closing movement.",
+      "example_en": "Install a soft-close hinge.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000053",
+      "english_id": "en:vcu100:architecture-interiors:000053",
+      "english_sense_id": "architecture-interiors-000053",
+      "kind": "word",
+      "text": "corrediça de gaveta",
+      "description_en": "A fitting that allows a drawer to open and close.",
+      "example_en": "Choose a full-extension drawer slide.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000054",
+      "english_id": "en:vcu100:architecture-interiors:000054",
+      "english_sense_id": "architecture-interiors-000054",
+      "kind": "word",
+      "text": "puxador de armário",
+      "description_en": "A handle used to open a cabinet door or drawer.",
+      "example_en": "Position the cabinet pull consistently.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:cabinetry",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Marcenaria e armários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000055",
+      "english_id": "en:vcu100:architecture-interiors:000055",
+      "english_sense_id": "architecture-interiors-000055",
+      "kind": "word",
+      "text": "dobradiça oculta",
+      "description_en": "A hinge largely hidden when the door is closed.",
+      "example_en": "Install the concealed hinge inside the cabinet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000056",
+      "english_id": "en:vcu100:architecture-interiors:000056",
+      "english_sense_id": "architecture-interiors-000056",
+      "kind": "word",
+      "text": "puxador tipo botão",
+      "description_en": "A small round handle on a cabinet.",
+      "example_en": "Choose a cabinet knob for each drawer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000057",
+      "english_id": "en:vcu100:architecture-interiors:000057",
+      "english_sense_id": "architecture-interiors-000057",
+      "kind": "word",
+      "text": "puxador de porta",
+      "description_en": "A handle pulled to open a cabinet or door.",
+      "example_en": "The door pull has a brushed metal finish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000058",
+      "english_id": "en:vcu100:architecture-interiors:000058",
+      "english_sense_id": "architecture-interiors-000058",
+      "kind": "word",
+      "text": "fecho magnético",
+      "description_en": "A magnetic fitting that holds a door closed.",
+      "example_en": "Fit a magnetic catch inside the cabinet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000059",
+      "english_id": "en:vcu100:architecture-interiors:000059",
+      "english_sense_id": "architecture-interiors-000059",
+      "kind": "word",
+      "text": "fecho toque para abrir",
+      "description_en": "A mechanism that opens a panel when pressed.",
+      "example_en": "Install a push-to-open latch on the door.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000060",
+      "english_id": "en:vcu100:architecture-interiors:000060",
+      "english_sense_id": "architecture-interiors-000060",
+      "kind": "word",
+      "text": "articulador de porta basculante",
+      "description_en": "A fitting supporting an upward-opening cabinet flap.",
+      "example_en": "Adjust the lift-up flap stay.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000061",
+      "english_id": "en:vcu100:architecture-interiors:000061",
+      "english_sense_id": "architecture-interiors-000061",
+      "kind": "word",
+      "text": "pino de apoio de prateleira",
+      "description_en": "A small pin holding an adjustable shelf.",
+      "example_en": "Insert four shelf support pins.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000062",
+      "english_id": "en:vcu100:architecture-interiors:000062",
+      "english_sense_id": "architecture-interiors-000062",
+      "kind": "word",
+      "text": "guia de gaveta",
+      "description_en": "A track or slide guiding a drawer.",
+      "example_en": "Replace the damaged drawer runner.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000063",
+      "english_id": "en:vcu100:architecture-interiors:000063",
+      "english_sense_id": "architecture-interiors-000063",
+      "kind": "word",
+      "text": "amortecedor de fechamento",
+      "description_en": "A fitting that slows a door or drawer near closing.",
+      "example_en": "The soft-close damper prevents slamming.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000064",
+      "english_id": "en:vcu100:architecture-interiors:000064",
+      "english_sense_id": "architecture-interiors-000064",
+      "kind": "word",
+      "text": "trilho de porta de correr embutida",
+      "description_en": "A track that supports a sliding door hidden in a wall.",
+      "example_en": "Level the pocket door track.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000065",
+      "english_id": "en:vcu100:architecture-interiors:000065",
+      "english_sense_id": "architecture-interiors-000065",
+      "kind": "word",
+      "text": "batente limitador de porta",
+      "description_en": "A device preventing a door from opening too far.",
+      "example_en": "Fix the door stopper to the wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000066",
+      "english_id": "en:vcu100:architecture-interiors:000066",
+      "english_sense_id": "architecture-interiors-000066",
+      "kind": "word",
+      "text": "contra-testa da fechadura",
+      "description_en": "The metal plate receiving a door latch.",
+      "example_en": "Align the strike plate with the latch.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:hardware",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Ferragens"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000067",
+      "english_id": "en:vcu100:architecture-interiors:000067",
+      "english_sense_id": "architecture-interiors-000067",
+      "kind": "word",
+      "text": "plafon de sobrepor",
+      "description_en": "A light fixture mounted close to the ceiling.",
+      "example_en": "The flush-mount ceiling light fits a low ceiling.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000068",
+      "english_id": "en:vcu100:architecture-interiors:000068",
+      "english_sense_id": "architecture-interiors-000068",
+      "kind": "word",
+      "text": "spot embutido no teto",
+      "description_en": "A small ceiling fixture mounted within the ceiling opening.",
+      "example_en": "Install the recessed downlight above the counter.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000069",
+      "english_id": "en:vcu100:architecture-interiors:000069",
+      "english_sense_id": "architecture-interiors-000069",
+      "kind": "word",
+      "text": "spot de sobrepor",
+      "description_en": "A directional spot fixture fixed onto a surface.",
+      "example_en": "A surface-mounted spotlight illuminates the painting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000070",
+      "english_id": "en:vcu100:architecture-interiors:000070",
+      "english_sense_id": "architecture-interiors-000070",
+      "kind": "word",
+      "text": "iluminação em trilho",
+      "description_en": "Lights mounted on a ceiling track.",
+      "example_en": "Use track lighting along the corridor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000071",
+      "english_id": "en:vcu100:architecture-interiors:000071",
+      "english_sense_id": "architecture-interiors-000071",
+      "kind": "word",
+      "text": "luminária pendente",
+      "description_en": "A light hanging from the ceiling.",
+      "example_en": "The pendant light is centered over the table.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000072",
+      "english_id": "en:vcu100:architecture-interiors:000072",
+      "english_sense_id": "architecture-interiors-000072",
+      "kind": "word",
+      "text": "arandela",
+      "description_en": "A light fixture attached to a wall.",
+      "example_en": "Install wall sconces beside the mirror.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000073",
+      "english_id": "en:vcu100:architecture-interiors:000073",
+      "english_sense_id": "architecture-interiors-000073",
+      "kind": "word",
+      "text": "fita de LED",
+      "description_en": "A flexible strip of small LED light sources.",
+      "example_en": "Hide the LED strip beneath the shelf.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000074",
+      "english_id": "en:vcu100:architecture-interiors:000074",
+      "english_sense_id": "architecture-interiors-000074",
+      "kind": "word",
+      "text": "iluminação indireta em sanca",
+      "description_en": "Indirect lighting hidden in a ceiling recess.",
+      "example_en": "Cove lighting softens the room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000075",
+      "english_id": "en:vcu100:architecture-interiors:000075",
+      "english_sense_id": "architecture-interiors-000075",
+      "kind": "word",
+      "text": "iluminação sob armário",
+      "description_en": "A light placed beneath a cabinet.",
+      "example_en": "Under-cabinet lighting illuminates the worktop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000076",
+      "english_id": "en:vcu100:architecture-interiors:000076",
+      "english_sense_id": "architecture-interiors-000076",
+      "kind": "word",
+      "text": "dimmer de iluminação",
+      "description_en": "A control that adjusts light intensity.",
+      "example_en": "Install a compatible dimmer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000077",
+      "english_id": "en:vcu100:architecture-interiors:000077",
+      "english_sense_id": "architecture-interiors-000077",
+      "kind": "word",
+      "text": "temperatura de cor",
+      "description_en": "The warm or cool appearance of light measured in kelvin.",
+      "example_en": "Choose a warm color temperature.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000078",
+      "english_id": "en:vcu100:architecture-interiors:000078",
+      "english_sense_id": "architecture-interiors-000078",
+      "kind": "word",
+      "text": "fluxo luminoso em lúmens",
+      "description_en": "A measure of the total light emitted by a source.",
+      "example_en": "Compare luminous flux when choosing lamps.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000079",
+      "english_id": "en:vcu100:architecture-interiors:000079",
+      "english_sense_id": "architecture-interiors-000079",
+      "kind": "word",
+      "text": "ângulo de abertura do facho",
+      "description_en": "The spread angle of a beam of light.",
+      "example_en": "Check the beam angle of the spotlight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000080",
+      "english_id": "en:vcu100:architecture-interiors:000080",
+      "english_sense_id": "architecture-interiors-000080",
+      "kind": "word",
+      "text": "ofuscamento",
+      "description_en": "Discomfort or reduced visibility from excessive brightness.",
+      "example_en": "Reduce glare near the desk.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000081",
+      "english_id": "en:vcu100:architecture-interiors:000081",
+      "english_sense_id": "architecture-interiors-000081",
+      "kind": "word",
+      "text": "fonte de alimentação para LED",
+      "description_en": "Electronics that supply suitable power to LED lighting.",
+      "example_en": "Hide the LED driver in a ventilated place.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:lighting",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Iluminação"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000082",
+      "english_id": "en:vcu100:architecture-interiors:000082",
+      "english_sense_id": "architecture-interiors-000082",
+      "kind": "word",
+      "text": "batente de porta",
+      "description_en": "The side or top members of a doorway frame.",
+      "example_en": "Measure the door jamb before ordering trim.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000083",
+      "english_id": "en:vcu100:architecture-interiors:000083",
+      "english_sense_id": "architecture-interiors-000083",
+      "kind": "word",
+      "text": "guarnição de porta",
+      "description_en": "Decorative trim covering the gap around a door frame.",
+      "example_en": "Install door casing after the wall finish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000084",
+      "english_id": "en:vcu100:architecture-interiors:000084",
+      "english_sense_id": "architecture-interiors-000084",
+      "kind": "word",
+      "text": "soleira de porta",
+      "description_en": "The bottom transition piece across a doorway.",
+      "example_en": "Choose a non-slip door threshold.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000085",
+      "english_id": "en:vcu100:architecture-interiors:000085",
+      "english_sense_id": "architecture-interiors-000085",
+      "kind": "word",
+      "text": "peitoril da janela",
+      "description_en": "The horizontal ledge at the bottom of a window.",
+      "example_en": "Clean the window sill before installation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000086",
+      "english_id": "en:vcu100:architecture-interiors:000086",
+      "english_sense_id": "architecture-interiors-000086",
+      "kind": "word",
+      "text": "esquadria da janela",
+      "description_en": "The frame holding a window sash or glazing.",
+      "example_en": "Check the window frame dimensions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000087",
+      "english_id": "en:vcu100:architecture-interiors:000087",
+      "english_sense_id": "architecture-interiors-000087",
+      "kind": "word",
+      "text": "folha móvel da janela",
+      "description_en": "The part of a window that holds glass and may move.",
+      "example_en": "Adjust the window sash.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000088",
+      "english_id": "en:vcu100:architecture-interiors:000088",
+      "english_sense_id": "architecture-interiors-000088",
+      "kind": "word",
+      "text": "porta de correr",
+      "description_en": "A door that moves sideways on tracks.",
+      "example_en": "The sliding door saves space.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000089",
+      "english_id": "en:vcu100:architecture-interiors:000089",
+      "english_sense_id": "architecture-interiors-000089",
+      "kind": "word",
+      "text": "porta de correr embutida na parede",
+      "description_en": "A sliding door that disappears into a wall cavity.",
+      "example_en": "The pocket door needs a clear wall cavity.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000090",
+      "english_id": "en:vcu100:architecture-interiors:000090",
+      "english_sense_id": "architecture-interiors-000090",
+      "kind": "word",
+      "text": "porta de abrir",
+      "description_en": "A door that swings on hinges.",
+      "example_en": "The hinged door opens inward.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000091",
+      "english_id": "en:vcu100:architecture-interiors:000091",
+      "english_sense_id": "architecture-interiors-000091",
+      "kind": "word",
+      "text": "folha da porta",
+      "description_en": "The moving panel of a doorway.",
+      "example_en": "Hang the door leaf after the frame is level.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000092",
+      "english_id": "en:vcu100:architecture-interiors:000092",
+      "english_sense_id": "architecture-interiors-000092",
+      "kind": "word",
+      "text": "borracha de vedação",
+      "description_en": "A strip sealing gaps around windows or doors.",
+      "example_en": "Replace the weatherstripping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000093",
+      "english_id": "en:vcu100:architecture-interiors:000093",
+      "english_sense_id": "architecture-interiors-000093",
+      "kind": "word",
+      "text": "persiana de rolo",
+      "description_en": "A shade that rolls up around a top tube.",
+      "example_en": "Fit the roller blind inside the window opening.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000094",
+      "english_id": "en:vcu100:architecture-interiors:000094",
+      "english_sense_id": "architecture-interiors-000094",
+      "kind": "word",
+      "text": "veneziana de madeira",
+      "description_en": "A shutter with wood panels or louvers.",
+      "example_en": "Paint the wooden shutter.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000095",
+      "english_id": "en:vcu100:architecture-interiors:000095",
+      "english_sense_id": "architecture-interiors-000095",
+      "kind": "word",
+      "text": "vidraça ou envidraçamento",
+      "description_en": "Glass installed in a door or window.",
+      "example_en": "The glazing needs safety glass.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:doors",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Portas e janelas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000096",
+      "english_id": "en:vcu100:architecture-interiors:000096",
+      "english_sense_id": "architecture-interiors-000096",
+      "kind": "word",
+      "text": "lâmina de madeira",
+      "description_en": "A thin decorative layer of natural wood.",
+      "example_en": "Apply wood veneer to the cabinet door.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000097",
+      "english_id": "en:vcu100:architecture-interiors:000097",
+      "english_sense_id": "architecture-interiors-000097",
+      "kind": "word",
+      "text": "painel revestido de melamina",
+      "description_en": "A board with a factory-applied melamine surface.",
+      "example_en": "Use melamine-faced board for the shelves.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000098",
+      "english_id": "en:vcu100:architecture-interiors:000098",
+      "english_sense_id": "architecture-interiors-000098",
+      "kind": "word",
+      "text": "laminado melamínico de alta pressão",
+      "description_en": "A durable decorative sheet bonded to a substrate.",
+      "example_en": "Specify HPL for the countertop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000099",
+      "english_id": "en:vcu100:architecture-interiors:000099",
+      "english_sense_id": "architecture-interiors-000099",
+      "kind": "word",
+      "text": "fita de borda",
+      "description_en": "A strip covering the exposed edge of a panel.",
+      "example_en": "Apply edge banding after cutting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000100",
+      "english_id": "en:vcu100:architecture-interiors:000100",
+      "english_sense_id": "architecture-interiors-000100",
+      "kind": "word",
+      "text": "tingidor para madeira",
+      "description_en": "A coloring product used before wood finishing.",
+      "example_en": "Test the wood stain on a sample.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000101",
+      "english_id": "en:vcu100:architecture-interiors:000101",
+      "english_sense_id": "architecture-interiors-000101",
+      "kind": "word",
+      "text": "verniz poliuretano",
+      "description_en": "A protective finish based on polyurethane.",
+      "example_en": "Apply polyurethane varnish evenly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000102",
+      "english_id": "en:vcu100:architecture-interiors:000102",
+      "english_sense_id": "architecture-interiors-000102",
+      "kind": "word",
+      "text": "acabamento fosco",
+      "description_en": "A low-sheen surface finish.",
+      "example_en": "The client selected a matte finish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000103",
+      "english_id": "en:vcu100:architecture-interiors:000103",
+      "english_sense_id": "architecture-interiors-000103",
+      "kind": "word",
+      "text": "acabamento acetinado",
+      "description_en": "A finish with a soft intermediate sheen.",
+      "example_en": "The door has a satin finish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000104",
+      "english_id": "en:vcu100:architecture-interiors:000104",
+      "english_sense_id": "architecture-interiors-000104",
+      "kind": "word",
+      "text": "acabamento alto brilho",
+      "description_en": "A highly reflective surface finish.",
+      "example_en": "A high-gloss finish shows fingerprints easily.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000105",
+      "english_id": "en:vcu100:architecture-interiors:000105",
+      "english_sense_id": "architecture-interiors-000105",
+      "kind": "word",
+      "text": "rejunte de revestimento",
+      "description_en": "Material filling joints between tiles.",
+      "example_en": "Seal the tile grout as specified.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000106",
+      "english_id": "en:vcu100:architecture-interiors:000106",
+      "english_sense_id": "architecture-interiors-000106",
+      "kind": "word",
+      "text": "selante de silicone",
+      "description_en": "A flexible sealant for gaps and joints.",
+      "example_en": "Apply silicone sealant along the sink.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000107",
+      "english_id": "en:vcu100:architecture-interiors:000107",
+      "english_sense_id": "architecture-interiors-000107",
+      "kind": "word",
+      "text": "reboco de parede",
+      "description_en": "A plaster or mortar coat applied to a wall.",
+      "example_en": "Wait for the wall plaster to cure.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000108",
+      "english_id": "en:vcu100:architecture-interiors:000108",
+      "english_sense_id": "architecture-interiors-000108",
+      "kind": "word",
+      "text": "camada fina de massa niveladora",
+      "description_en": "A thin coat applied to smooth a wall surface.",
+      "example_en": "Apply a skim coat before painting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000109",
+      "english_id": "en:vcu100:architecture-interiors:000109",
+      "english_sense_id": "architecture-interiors-000109",
+      "kind": "word",
+      "text": "massa para juntas de drywall",
+      "description_en": "A compound used to finish joints in gypsum board.",
+      "example_en": "Sand the joint compound after drying.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000110",
+      "english_id": "en:vcu100:architecture-interiors:000110",
+      "english_sense_id": "architecture-interiors-000110",
+      "kind": "word",
+      "text": "fundo preparador para pintura",
+      "description_en": "A preparatory coat that helps finish paint adhere.",
+      "example_en": "Use paint primer on the repaired wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:finishes",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Acabamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000111",
+      "english_id": "en:vcu100:architecture-interiors:000111",
+      "english_sense_id": "architecture-interiors-000111",
+      "kind": "word",
+      "text": "cortina de tecido",
+      "description_en": "A fabric curtain used at a window.",
+      "example_en": "The drapery reaches the floor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000112",
+      "english_id": "en:vcu100:architecture-interiors:000112",
+      "english_sense_id": "architecture-interiors-000112",
+      "kind": "word",
+      "text": "cortina de voil",
+      "description_en": "A light curtain that lets daylight through.",
+      "example_en": "The sheer curtain softens the sunlight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000113",
+      "english_id": "en:vcu100:architecture-interiors:000113",
+      "english_sense_id": "architecture-interiors-000113",
+      "kind": "word",
+      "text": "cortina blackout",
+      "description_en": "A curtain designed to block most incoming light.",
+      "example_en": "The blackout curtain darkens the bedroom.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000114",
+      "english_id": "en:vcu100:architecture-interiors:000114",
+      "english_sense_id": "architecture-interiors-000114",
+      "kind": "word",
+      "text": "varão de cortina",
+      "description_en": "A horizontal pole supporting a curtain.",
+      "example_en": "Mount the curtain rod above the window.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000115",
+      "english_id": "en:vcu100:architecture-interiors:000115",
+      "english_sense_id": "architecture-interiors-000115",
+      "kind": "word",
+      "text": "trilho de cortina",
+      "description_en": "A track along which curtains slide.",
+      "example_en": "Hide the curtain track in the ceiling recess.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000116",
+      "english_id": "en:vcu100:architecture-interiors:000116",
+      "english_sense_id": "architecture-interiors-000116",
+      "kind": "word",
+      "text": "estofamento",
+      "description_en": "The fabric or covering applied to furniture.",
+      "example_en": "Choose a durable upholstery material.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000117",
+      "english_id": "en:vcu100:architecture-interiors:000117",
+      "english_sense_id": "architecture-interiors-000117",
+      "kind": "word",
+      "text": "tecido de alto desempenho",
+      "description_en": "A textile designed for improved durability or cleaning.",
+      "example_en": "Use performance fabric on the dining chairs.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000118",
+      "english_id": "en:vcu100:architecture-interiors:000118",
+      "english_sense_id": "architecture-interiors-000118",
+      "kind": "word",
+      "text": "tapete solto",
+      "description_en": "A movable floor rug that covers part of a room.",
+      "example_en": "Place the area rug under the coffee table.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000119",
+      "english_id": "en:vcu100:architecture-interiors:000119",
+      "english_sense_id": "architecture-interiors-000119",
+      "kind": "word",
+      "text": "carpete de parede a parede",
+      "description_en": "Carpet covering almost the entire floor.",
+      "example_en": "The bedroom has wall-to-wall carpet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000120",
+      "english_id": "en:vcu100:architecture-interiors:000120",
+      "english_sense_id": "architecture-interiors-000120",
+      "kind": "word",
+      "text": "almofada decorativa",
+      "description_en": "A small cushion used for decoration or comfort.",
+      "example_en": "Add a throw pillow to the sofa.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000121",
+      "english_id": "en:vcu100:architecture-interiors:000121",
+      "english_sense_id": "architecture-interiors-000121",
+      "kind": "word",
+      "text": "almofada de assento",
+      "description_en": "A padded cushion used on a seat.",
+      "example_en": "Replace the seat cushion cover.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000122",
+      "english_id": "en:vcu100:architecture-interiors:000122",
+      "english_sense_id": "architecture-interiors-000122",
+      "kind": "word",
+      "text": "revestimento de couro para estofado",
+      "description_en": "Leather material covering upholstered furniture.",
+      "example_en": "The armchair has leather upholstery.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:textiles",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Tecidos e estofados"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000123",
+      "english_id": "en:vcu100:architecture-interiors:000123",
+      "english_sense_id": "architecture-interiors-000123",
+      "kind": "word",
+      "text": "piso vinílico em réguas",
+      "description_en": "A floor covering made from vinyl planks.",
+      "example_en": "Install vinyl plank flooring in the corridor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000124",
+      "english_id": "en:vcu100:architecture-interiors:000124",
+      "english_sense_id": "architecture-interiors-000124",
+      "kind": "word",
+      "text": "piso de madeira engenheirada",
+      "description_en": "A layered wood flooring product with a real wood top.",
+      "example_en": "The room uses engineered hardwood flooring.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000125",
+      "english_id": "en:vcu100:architecture-interiors:000125",
+      "english_sense_id": "architecture-interiors-000125",
+      "kind": "word",
+      "text": "piso de madeira maciça",
+      "description_en": "A floor made from solid wood pieces.",
+      "example_en": "Refinish the solid hardwood flooring.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000126",
+      "english_id": "en:vcu100:architecture-interiors:000126",
+      "english_sense_id": "architecture-interiors-000126",
+      "kind": "word",
+      "text": "piso laminado",
+      "description_en": "A layered flooring product with a printed decorative surface.",
+      "example_en": "Use a suitable underlayment below laminate flooring.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000127",
+      "english_id": "en:vcu100:architecture-interiors:000127",
+      "english_sense_id": "architecture-interiors-000127",
+      "kind": "word",
+      "text": "porcelanato",
+      "description_en": "A dense ceramic tile often used for floors and walls.",
+      "example_en": "Lay porcelain tile with consistent joints.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000128",
+      "english_id": "en:vcu100:architecture-interiors:000128",
+      "english_sense_id": "architecture-interiors-000128",
+      "kind": "word",
+      "text": "revestimento cerâmico",
+      "description_en": "A fired ceramic covering for floors or walls.",
+      "example_en": "Select ceramic tile for the laundry area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000129",
+      "english_id": "en:vcu100:architecture-interiors:000129",
+      "english_sense_id": "architecture-interiors-000129",
+      "kind": "word",
+      "text": "marmorite ou granilite",
+      "description_en": "A composite flooring finish with chips in a binder.",
+      "example_en": "The terrazzo floor was polished.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000130",
+      "english_id": "en:vcu100:architecture-interiors:000130",
+      "english_sense_id": "architecture-interiors-000130",
+      "kind": "word",
+      "text": "placa de carpete",
+      "description_en": "A modular carpet square.",
+      "example_en": "Replace the damaged carpet tile.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000131",
+      "english_id": "en:vcu100:architecture-interiors:000131",
+      "english_sense_id": "architecture-interiors-000131",
+      "kind": "word",
+      "text": "rodapé",
+      "description_en": "A finishing strip along the bottom of a wall.",
+      "example_en": "Install the baseboard after painting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000132",
+      "english_id": "en:vcu100:architecture-interiors:000132",
+      "english_sense_id": "architecture-interiors-000132",
+      "kind": "word",
+      "text": "moldura de quarto de círculo",
+      "description_en": "A small rounded trim covering an edge or gap.",
+      "example_en": "Fit quarter-round molding along the floor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000133",
+      "english_id": "en:vcu100:architecture-interiors:000133",
+      "english_sense_id": "architecture-interiors-000133",
+      "kind": "word",
+      "text": "perfil de transição de pisos",
+      "description_en": "A strip covering the joint between different floor materials.",
+      "example_en": "Install a transition strip at the doorway.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000134",
+      "english_id": "en:vcu100:architecture-interiors:000134",
+      "english_sense_id": "architecture-interiors-000134",
+      "kind": "word",
+      "text": "manta sob o piso",
+      "description_en": "A layer installed beneath flooring for support or insulation.",
+      "example_en": "Use the specified floor underlayment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:flooring",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Pisos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000135",
+      "english_id": "en:vcu100:architecture-interiors:000135",
+      "english_sense_id": "architecture-interiors-000135",
+      "kind": "word",
+      "text": "pia de cozinha",
+      "description_en": "A basin used for washing dishes and food items.",
+      "example_en": "Measure the opening for the kitchen sink.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000136",
+      "english_id": "en:vcu100:architecture-interiors:000136",
+      "english_sense_id": "architecture-interiors-000136",
+      "kind": "word",
+      "text": "gabinete de banheiro com bancada",
+      "description_en": "A bathroom cabinet combined with a sink or countertop.",
+      "example_en": "The bathroom vanity includes two drawers.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000137",
+      "english_id": "en:vcu100:architecture-interiors:000137",
+      "english_sense_id": "architecture-interiors-000137",
+      "kind": "word",
+      "text": "torneira",
+      "description_en": "A device controlling water flow from a supply pipe.",
+      "example_en": "Install the faucet after the countertop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000138",
+      "english_id": "en:vcu100:architecture-interiors:000138",
+      "english_sense_id": "architecture-interiors-000138",
+      "kind": "word",
+      "text": "torneira misturadora",
+      "description_en": "A faucet that mixes hot and cold water.",
+      "example_en": "Connect the mixing faucet to both supplies.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000139",
+      "english_id": "en:vcu100:architecture-interiors:000139",
+      "english_sense_id": "architecture-interiors-000139",
+      "kind": "word",
+      "text": "válvula de escoamento click",
+      "description_en": "A drain fitting that opens or closes by pressing.",
+      "example_en": "Replace the pop-up drain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000140",
+      "english_id": "en:vcu100:architecture-interiors:000140",
+      "english_sense_id": "architecture-interiors-000140",
+      "kind": "word",
+      "text": "sifão em U",
+      "description_en": "A curved pipe fitting that blocks sewer gases with water.",
+      "example_en": "Check the P-trap under the sink.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000141",
+      "english_id": "en:vcu100:architecture-interiors:000141",
+      "english_sense_id": "architecture-interiors-000141",
+      "kind": "word",
+      "text": "flange do ralo",
+      "description_en": "A fitting connecting a drain to a surface or pipe.",
+      "example_en": "Seal the drain flange correctly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000142",
+      "english_id": "en:vcu100:architecture-interiors:000142",
+      "english_sense_id": "architecture-interiors-000142",
+      "kind": "word",
+      "text": "box de banho",
+      "description_en": "A partition or cabin enclosing the shower area.",
+      "example_en": "The shower enclosure has sliding glass panels.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000143",
+      "english_id": "en:vcu100:architecture-interiors:000143",
+      "english_sense_id": "architecture-interiors-000143",
+      "kind": "word",
+      "text": "ducha do chuveiro",
+      "description_en": "The fitting that sprays water in a shower.",
+      "example_en": "Adjust the showerhead position.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000144",
+      "english_id": "en:vcu100:architecture-interiors:000144",
+      "english_sense_id": "architecture-interiors-000144",
+      "kind": "word",
+      "text": "bancada",
+      "description_en": "A horizontal work surface over cabinets or supports.",
+      "example_en": "The countertop will be made of stone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000145",
+      "english_id": "en:vcu100:architecture-interiors:000145",
+      "english_sense_id": "architecture-interiors-000145",
+      "kind": "word",
+      "text": "revestimento da parede atrás da bancada",
+      "description_en": "A protective wall surface behind a countertop.",
+      "example_en": "Install the backsplash after the countertop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000146",
+      "english_id": "en:vcu100:architecture-interiors:000146",
+      "english_sense_id": "architecture-interiors-000146",
+      "kind": "word",
+      "text": "cuba de apoio",
+      "description_en": "A basin installed above the countertop surface.",
+      "example_en": "The vessel sink needs a taller faucet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:plumbing",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Louças, metais e hidráulica"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000147",
+      "english_id": "en:vcu100:architecture-interiors:000147",
+      "english_sense_id": "architecture-interiors-000147",
+      "kind": "word",
+      "text": "tomada de parede",
+      "description_en": "A socket fixed in a wall for electrical devices.",
+      "example_en": "Place the wall outlet above the desk.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000148",
+      "english_id": "en:vcu100:architecture-interiors:000148",
+      "english_sense_id": "architecture-interiors-000148",
+      "kind": "word",
+      "text": "interruptor de luz",
+      "description_en": "A control used to turn lighting on or off.",
+      "example_en": "Put the light switch near the door.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000149",
+      "english_id": "en:vcu100:architecture-interiors:000149",
+      "english_sense_id": "architecture-interiors-000149",
+      "kind": "word",
+      "text": "tomada com porta USB",
+      "description_en": "A power outlet with a USB charging connection.",
+      "example_en": "Install a USB outlet beside the bed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000150",
+      "english_id": "en:vcu100:architecture-interiors:000150",
+      "english_sense_id": "architecture-interiors-000150",
+      "kind": "word",
+      "text": "caixa de passagem elétrica",
+      "description_en": "An enclosure housing electrical connections.",
+      "example_en": "Keep the junction box accessible.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000151",
+      "english_id": "en:vcu100:architecture-interiors:000151",
+      "english_sense_id": "architecture-interiors-000151",
+      "kind": "word",
+      "text": "eletroduto",
+      "description_en": "A tube that protects electrical cables.",
+      "example_en": "Route the conduit inside the wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000152",
+      "english_id": "en:vcu100:architecture-interiors:000152",
+      "english_sense_id": "architecture-interiors-000152",
+      "kind": "word",
+      "text": "quadro elétrico",
+      "description_en": "A cabinet containing electrical protective and distribution devices.",
+      "example_en": "The electrical panel is in the service area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000153",
+      "english_id": "en:vcu100:architecture-interiors:000153",
+      "english_sense_id": "architecture-interiors-000153",
+      "kind": "word",
+      "text": "disjuntor",
+      "description_en": "A protective device that interrupts excess current.",
+      "example_en": "Identify the circuit breaker for this circuit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000154",
+      "english_id": "en:vcu100:architecture-interiors:000154",
+      "english_sense_id": "architecture-interiors-000154",
+      "kind": "word",
+      "text": "caixa de tomada de piso",
+      "description_en": "An electrical socket installed in a floor box.",
+      "example_en": "The meeting room needs a floor outlet.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000155",
+      "english_id": "en:vcu100:architecture-interiors:000155",
+      "english_sense_id": "architecture-interiors-000155",
+      "kind": "word",
+      "text": "interruptor inteligente",
+      "description_en": "A switch that can be controlled electronically or remotely.",
+      "example_en": "The smart switch connects to the home network.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000156",
+      "english_id": "en:vcu100:architecture-interiors:000156",
+      "english_sense_id": "architecture-interiors-000156",
+      "kind": "word",
+      "text": "cabeamento de baixa tensão",
+      "description_en": "Wiring used for low-voltage signals or devices.",
+      "example_en": "Run the low-voltage wiring separately as designed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:electrical",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalações elétricas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000157",
+      "english_id": "en:vcu100:architecture-interiors:000157",
+      "english_sense_id": "architecture-interiors-000157",
+      "kind": "word",
+      "text": "parede divisória",
+      "description_en": "A wall separating spaces without necessarily carrying structural loads.",
+      "example_en": "The partition wall separates the office.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000158",
+      "english_id": "en:vcu100:architecture-interiors:000158",
+      "english_sense_id": "architecture-interiors-000158",
+      "kind": "word",
+      "text": "perfil montante metálico",
+      "description_en": "A thin steel framing member used in interior partitions.",
+      "example_en": "Space the metal studs evenly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000159",
+      "english_id": "en:vcu100:architecture-interiors:000159",
+      "english_sense_id": "architecture-interiors-000159",
+      "kind": "word",
+      "text": "perfil guia metálica",
+      "description_en": "A channel-shaped member holding metal studs in place.",
+      "example_en": "Fix the metal track to the floor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000160",
+      "english_id": "en:vcu100:architecture-interiors:000160",
+      "english_sense_id": "architecture-interiors-000160",
+      "kind": "word",
+      "text": "forro suspenso",
+      "description_en": "A ceiling supported below the structural slab.",
+      "example_en": "The suspended ceiling conceals services.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000161",
+      "english_id": "en:vcu100:architecture-interiors:000161",
+      "english_sense_id": "architecture-interiors-000161",
+      "kind": "word",
+      "text": "forro de gesso",
+      "description_en": "A ceiling surface formed with gypsum panels or plaster.",
+      "example_en": "Paint the gypsum ceiling after finishing the joints.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000162",
+      "english_id": "en:vcu100:architecture-interiors:000162",
+      "english_sense_id": "architecture-interiors-000162",
+      "kind": "word",
+      "text": "impermeabilização",
+      "description_en": "Measures or materials that prevent unwanted water penetration.",
+      "example_en": "Check waterproofing in the shower area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000163",
+      "english_id": "en:vcu100:architecture-interiors:000163",
+      "english_sense_id": "architecture-interiors-000163",
+      "kind": "word",
+      "text": "contrapiso nivelador",
+      "description_en": "A leveling layer beneath the final floor covering.",
+      "example_en": "Allow the floor screed to dry.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000164",
+      "english_id": "en:vcu100:architecture-interiors:000164",
+      "english_sense_id": "architecture-interiors-000164",
+      "kind": "word",
+      "text": "massa fina de regularização",
+      "description_en": "A thin plaster coat used to smooth a surface.",
+      "example_en": "Apply skim plaster before painting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000165",
+      "english_id": "en:vcu100:architecture-interiors:000165",
+      "english_sense_id": "architecture-interiors-000165",
+      "kind": "word",
+      "text": "argamassa colante",
+      "description_en": "A bonding product for installing tiles.",
+      "example_en": "Use the correct tile adhesive.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000166",
+      "english_id": "en:vcu100:architecture-interiors:000166",
+      "english_sense_id": "architecture-interiors-000166",
+      "kind": "word",
+      "text": "camada de argamassa de assentamento",
+      "description_en": "A layer of mortar supporting or bonding a finish.",
+      "example_en": "Set the stone on the mortar bed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000167",
+      "english_id": "en:vcu100:architecture-interiors:000167",
+      "english_sense_id": "architecture-interiors-000167",
+      "kind": "word",
+      "text": "rasgo de forro para iluminação",
+      "description_en": "A ceiling recess built to conceal lighting.",
+      "example_en": "Measure the recessed ceiling pocket.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000168",
+      "english_id": "en:vcu100:architecture-interiors:000168",
+      "english_sense_id": "architecture-interiors-000168",
+      "kind": "word",
+      "text": "nicho de parede",
+      "description_en": "A recessed shelf or opening within a wall.",
+      "example_en": "The wall niche holds toiletries.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:construction",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Obra interna"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000169",
+      "english_id": "en:vcu100:architecture-interiors:000169",
+      "english_sense_id": "architecture-interiors-000169",
+      "kind": "word",
+      "text": "medição no local",
+      "description_en": "Measuring actual built dimensions before manufacture.",
+      "example_en": "Carry out site measurement before production.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000170",
+      "english_id": "en:vcu100:architecture-interiors:000170",
+      "english_sense_id": "architecture-interiors-000170",
+      "kind": "word",
+      "text": "folga para montagem",
+      "description_en": "The space required for fitting or moving an element.",
+      "example_en": "Leave installation clearance beside the wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000171",
+      "english_id": "en:vcu100:architecture-interiors:000171",
+      "english_sense_id": "architecture-interiors-000171",
+      "kind": "word",
+      "text": "fazer ajuste seguindo irregularidade da parede",
+      "description_en": "Marking a piece to fit an irregular wall or surface.",
+      "example_en": "Use scribing to fit the filler panel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000172",
+      "english_id": "en:vcu100:architecture-interiors:000172",
+      "english_sense_id": "architecture-interiors-000172",
+      "kind": "word",
+      "text": "painel de arremate",
+      "description_en": "A narrow panel filling a gap beside cabinetry.",
+      "example_en": "Cut the filler panel to match the wall.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000173",
+      "english_id": "en:vcu100:architecture-interiors:000173",
+      "english_sense_id": "architecture-interiors-000173",
+      "kind": "word",
+      "text": "lista de corte",
+      "description_en": "A list of pieces and dimensions needed for production.",
+      "example_en": "Check the cutting list before cutting panels.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000174",
+      "english_id": "en:vcu100:architecture-interiors:000174",
+      "english_sense_id": "architecture-interiors-000174",
+      "kind": "word",
+      "text": "usinagem em CNC",
+      "description_en": "The cutting or shaping of materials using a CNC router.",
+      "example_en": "CNC routing creates the hinge recesses.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000175",
+      "english_id": "en:vcu100:architecture-interiors:000175",
+      "english_sense_id": "architecture-interiors-000175",
+      "kind": "word",
+      "text": "furo-guia",
+      "description_en": "A small drilled hole that guides a screw.",
+      "example_en": "Drill a pilot hole near the panel edge.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000176",
+      "english_id": "en:vcu100:architecture-interiors:000176",
+      "english_sense_id": "architecture-interiors-000176",
+      "kind": "word",
+      "text": "bucha de fixação na parede",
+      "description_en": "A fixing inserted into a wall to hold a screw.",
+      "example_en": "Choose the wall anchor for the substrate.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000177",
+      "english_id": "en:vcu100:architecture-interiors:000177",
+      "english_sense_id": "architecture-interiors-000177",
+      "kind": "word",
+      "text": "trilho de suspensão do armário",
+      "description_en": "A rail used to support wall-hung cabinets.",
+      "example_en": "Level the cabinet hanging rail.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000178",
+      "english_id": "en:vcu100:architecture-interiors:000178",
+      "english_sense_id": "architecture-interiors-000178",
+      "kind": "word",
+      "text": "pé regulável de armário",
+      "description_en": "A height-adjustable support beneath a cabinet.",
+      "example_en": "Turn the adjustable cabinet foot to level the base.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000179",
+      "english_id": "en:vcu100:architecture-interiors:000179",
+      "english_sense_id": "architecture-interiors-000179",
+      "kind": "word",
+      "text": "desenho de montagem",
+      "description_en": "A drawing showing how components fit together.",
+      "example_en": "Follow the assembly drawing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:architecture-interiors:000180",
+      "english_id": "en:vcu100:architecture-interiors:000180",
+      "english_sense_id": "architecture-interiors-000180",
+      "kind": "word",
+      "text": "marcenaria de encaixes",
+      "description_en": "The craft or method of connecting wood pieces.",
+      "example_en": "The joinery is visible at the corner.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:architecture_interiors:installation",
+      "topics": [
+        "VCU100 · Arquitetura & Interiores",
+        "Arquitetura · Instalação e medições"
+      ]
+    }
+  ]
+}
