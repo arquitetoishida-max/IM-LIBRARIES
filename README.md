@@ -1,24 +1,19 @@
-# ISHIDA MULTILANG — Bibliotecas de idiomas
+# ISHIDA MULTILANG — Distribuição de bibliotecas
 
-Este repositório público distribui pacotes de vocabulário para o aplicativo ISHIDA MULTILANG.
+**Catálogo público ativo do APK:** [v2/catalog.json](v2/catalog.json) (`schema_version=2`, `kind=ishida-monolingual`). Os arquivos deste catálogo são os únicos que o aplicativo instalado deve interpretar; cada pacote declara URL, versão, contagem e SHA-256.
 
-## Piloto publicado
-- **38 conceitos** com campos completos em 8 idiomas/variantes: `pt-BR`, `pt-PT`, `en`, `ja`, `it`, `es`, `fr` e `de`.
-- `pt-BR`: **Port. (Brasileiro)**, bandeira Brasil.
-- `pt-PT`: **Portugues**, bandeira Portugal.
-- Não há frequência real ainda; níveis JLPT herdados da base do aplicativo são comunitários, não oficiais.
-- **Status: piloto técnico, não validado para distribuição geral**. Traduções complementares exigem revisão linguística.
+**LEXICON** é a fonte editorial e de curadoria; **IM-LIBRARIES** guarda os arquivos versionados e seus metadados. O aplicativo consome os pacotes publicados. Os IDs semânticos, classes e relações entre idiomas precisam permanecer estáveis para preservar notas, grupos e histórico.
 
-Arquivos:
-- [catalog.json](catalog.json): índice de pacotes realmente presentes.
-- [packages/core-multilingual-pilot-001.json](packages/core-multilingual-pilot-001.json): pacote inicial de 38 conceitos.
+## Núcleo e VCU100
 
-As entradas de partida derivam do `starterWords` do aplicativo; traduções para outros idiomas foram acrescentadas como piloto para testar o formato. Nenhum dicionário externo ou corpus de frequência foi redistribuído aqui.
+- `v2/*-core-v2.json`: bibliotecas básicas VCU14 por idioma. Não alterar núcleos públicos sem auditoria específica.
+- `v2/vcu100/`: vocabulários profissionais especializados, separados do VCU14 e disponíveis por pacote. Para palavras traduzidas entre dois idiomas, o par usa o mesmo `english_id` e `english_sense_id` e IDs independentes dos núcleos.
+- Primeiras publicações VCU100 (06/11/2026): Construction Site English (US) e acompanhante PT-BR, **178** entradas cada; Business & Finance English (US) e acompanhante PT-BR, **156** entradas cada.
+- *Compatibilidade*: o app atual ainda precisa completar instalação automática de dependências, classificação VCU100 e testes de progresso/temas; consultar ISHIDA-MULTILANG #35/#38/#39.
+- Pacotes de gírias regionais (`role=regional`) são distintos de VCU100 (`role=specialized`). Não renomear pacotes para fingir independência sem suporte no Flutter.
 
-O código atual do aplicativo pode precisar de um adaptador ao novo esquema de conceitos. **Não habilitar este pacote para usuários finais antes de validar o importador e a revisão das traduções.** Futuros pacotes de até 2.000 entradas (palavras e expressões) por idioma serão construídos após seleção e verificação de fontes e licenças.
+## Arquivo histórico
 
-## Expansão automática — meta 2.000
+O arquivo da raiz `catalog.json` é **pesquisa antiga em schema 1** e **não é o catálogo do APK**. O experimento de 38 conceitos `core-multilingual-pilot-001` foi removido do ramo ativo em 06/11/2026 por ser obsoleto (permanece recuperável pelo histórico do Git). Os demais conjuntos herdados de fontes externas continuam como materiais históricos não distribuídos pelo app; a existência deles não comprova alinhamento semântico, revisão linguística nem autorização de publicação.
 
-O fluxo em `.github/workflows/build-libraries.yml` utiliza `scripts/build_packages.py` para preparar até 2.000 registros de fontes públicas por idioma. Os IDs `kaikki-<idioma>:<lema>` e `cedict:<termo>:<leitura>` são identificadores **de fonte**, não identificadores internacionais de conceitos. Correspondência entre idiomas exige revisão por sentido.
-
-A expansão automática tem, inicialmente, traduções/definições **para o inglês**, não traduções completas entre quaisquer dois idiomas. Aplicar filtro estrito por par no aplicativo. Só considerar um pacote publicável após conferir integralidade, licenças, legibilidade das traduções e compatibilidade com o schema do app. A geração em Actions não garante disponibilidade dos arquivos até o workflow terminar e comitar os resultados.
+Os fluxos antigos da pasta `packages/` não devem modificar `v2/catalog.json`. Publicações novas passam por LEXICON → pacotes V2 → validação → catálogo V2 e testes Android. Não preencher contagens mínimas com traduções inventadas.
