@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -924,6 +924,34 @@
       "vcu_family": "VCU100",
       "domain": "china_tourism_sourcing",
       "companion_of": "vcu100-zh-tourism-sourcing"
+    },
+    {
+      "id": "vcu100-en-us-adventure",
+      "name": "VCU100 — South American Adventure English (US)",
+      "language": "en",
+      "region": "en-US-VCU100-adventure",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 172,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "South American Adventure English",
+      "name_pt": "Inglês de Turismo de Aventura (América do Sul)",
+      "name_ja": "南米の冒険英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-adventure.json",
+      "sha256": "87577750c60c571b6baaf537ec389399754cd6053b2fef32abe7c7c89e38c66f",
+      "size_bytes": 87156,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "south_america_adventure",
+      "companion_package_id": "vcu100-pt-br-es-adventure-companion",
+      "requires": [
+        "vcu100-pt-br-es-adventure-companion"
+      ]
     }
   ],
   "notes": [
@@ -940,6 +968,7 @@
     "Japanese Tourism 175 original Japanese terms with kana/romaji and matched PT-BR companion; Android integration testing pending.",
     "Brazil Tourism PT-BR: 176 regional/cultural entries paired with en-US. Android specialized pair installer not yet validated.",
     "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending.",
-    "Chinese Tourism/Sourcing (Simplified Mandarin) 168 entries with pinyin plus PT-BR companion; verify Mandarin TTS/STT, native reading and per-package UI in Android."
+    "Chinese Tourism/Sourcing (Simplified Mandarin) 168 entries with pinyin plus PT-BR companion; verify Mandarin TTS/STT, native reading and per-package UI in Android.",
+    "South American Adventure English: 172 unique terms, sharing 172 semantic IDs with preexisting Spanish Adventure/PT-BR companion (175); distinct English study pack, Android validation pending."
   ]
 }
