@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -553,6 +553,59 @@
       "vcu_family": "VCU100",
       "domain": "business_finance",
       "companion_of": "vcu100-en-us-business"
+    },
+    {
+      "id": "vcu100-en-us-healthcare",
+      "name": "VCU100 — Healthcare English International (US)",
+      "language": "en",
+      "region": "en-US-VCU100-healthcare",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 170,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "Healthcare English International",
+      "name_pt": "Inglês Médico e Enfermagem",
+      "name_ja": "医療英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-healthcare.json",
+      "sha256": "5bfbb93afc6098dca4aef6d6da0cb816ee1c78af37902fae6f0e308c6618d159",
+      "size_bytes": 101167,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "healthcare_nursing",
+      "companion_package_id": "vcu100-pt-br-healthcare-companion",
+      "requires": [
+        "vcu100-pt-br-healthcare-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-healthcare-companion",
+      "name": "VCU100 — Saúde e Enfermagem (PT-BR, par do inglês)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-healthcare",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 170,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Healthcare Portuguese companion",
+      "name_pt": "Português para Saúde e Enfermagem",
+      "name_ja": "医療ポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-healthcare-companion.json",
+      "sha256": "bb8d78ea0a0df3b4d952604f4c4fc04589d611d5e925c40653ae8f48147d36f3",
+      "size_bytes": 102551,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "healthcare_nursing",
+      "companion_of": "vcu100-en-us-healthcare"
     }
   ],
   "notes": [
@@ -562,6 +615,7 @@
     "Regional packs are content packs of an existing language, not new language codes.",
     "Packages with has_ui=true also provide interface translations (machine translated).",
     "New VCU100 construction English package has 178 dedicated semantic IDs and a separate 178-entry PT-BR companion; both packages must be installed for EN/PT bilingual study in current app builds. APK installation/dependency and UI regression tests remain pending.",
-    "VCU100 Business English US: 156 aligned English and PT-BR entries with unique per-package semantic IDs. Android companion auto-install remains pending code support."
+    "VCU100 Business English US: 156 aligned English and PT-BR entries with unique per-package semantic IDs. Android companion auto-install remains pending code support.",
+    "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending."
   ]
 }
