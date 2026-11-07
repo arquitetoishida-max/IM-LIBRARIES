@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -952,6 +952,59 @@
       "requires": [
         "vcu100-pt-br-es-adventure-companion"
       ]
+    },
+    {
+      "id": "vcu100-en-us-blues-culture",
+      "name": "VCU100 — Blues Music & Culture English (US)",
+      "language": "en",
+      "region": "en-US-VCU100-blues-culture",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 221,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "Blues Music & Culture English",
+      "name_pt": "Inglês para Blues e Cultura Musical",
+      "name_ja": "ブルース音楽の英語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-en-us-blues-culture.json",
+      "sha256": "549f01407a1e53708e68a9544b24171673cd0c6f9f2523dfaa319cc964ff600f",
+      "size_bytes": 126813,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "blues_music_culture",
+      "companion_package_id": "vcu100-pt-br-blues-companion",
+      "requires": [
+        "vcu100-pt-br-blues-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-blues-companion",
+      "name": "VCU100 — Blues Música e Cultura (par PT-BR)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-blues-culture",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 221,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Blues Cultural Portuguese Companion",
+      "name_pt": "Português para Blues e Cultura Musical",
+      "name_ja": "ブルース音楽のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-blues-companion.json",
+      "sha256": "adbcd5c4de2ad43353f3f0e7d351708659fe5997158d623ed0deab83255e422a",
+      "size_bytes": 129389,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "blues_music_culture",
+      "companion_of": "vcu100-en-us-blues-culture"
     }
   ],
   "notes": [
@@ -970,6 +1023,7 @@
     "South American adventure Spanish VCU100: 175 terms with Brazilian Portuguese counterpart, Android integration pending.",
     "Chinese Tourism/Sourcing (Simplified Mandarin) 168 entries with pinyin plus PT-BR companion; verify Mandarin TTS/STT, native reading and per-package UI in Android.",
     "South American Adventure English: 172 unique terms, sharing 172 semantic IDs with preexisting Spanish Adventure/PT-BR companion (175); distinct English study pack, Android validation pending.",
-    "Business US v1.1.0: 301 aligned entries, append-only IDs 157–301. Android QA pending."
+    "Business US v1.1.0: 301 aligned entries, append-only IDs 157–301. Android QA pending.",
+    "Blues Music & Culture 221 EN-US entries and PT-BR equivalents; cultural/music terminology rather than strictly region-specific slang. Android QA required."
   ]
 }
