@@ -1,0 +1,2976 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-en-us-brazil-tourism-companion",
+  "package_type": "ishida-monolingual",
+  "language": "en",
+  "region": "en-US-VCU100-brazil-tourism",
+  "name": "VCU100 — Brazil Tourism: English Companion",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "en",
+    "flag": "🇺🇸",
+    "locale": "en-US",
+    "name_native": "English",
+    "name_en": "English",
+    "name_pt": "Inglês",
+    "name_ja": "英語",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "brazil_tourism",
+  "companion_package_id": "vcu100-pt-br-tourism",
+  "license": "Original ISHIDA MULTILANG editorial content (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/brazil-tourism-pt-BR-en-US-001.json"
+  ],
+  "notes": [
+    "176 context-marked Brazilian Portuguese tourism terms and phrases, plus American English interpretation.",
+    "Terms from Rio, Northeast, São Paulo and South marked by region where relevant.",
+    "English companion needed for native English paired cards."
+  ],
+  "entries": [
+    {
+      "id": "en:vcu100:brazil-tourism:000001",
+      "english_id": "en:vcu100:brazil-tourism:000001",
+      "english_sense_id": "brazil-tourism-000001",
+      "kind": "expression",
+      "text": "good morning",
+      "description_en": "Morning greeting.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000002",
+      "english_id": "en:vcu100:brazil-tourism:000002",
+      "english_sense_id": "brazil-tourism-000002",
+      "kind": "expression",
+      "text": "good afternoon",
+      "description_en": "Afternoon greeting.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000003",
+      "english_id": "en:vcu100:brazil-tourism:000003",
+      "english_sense_id": "brazil-tourism-000003",
+      "kind": "expression",
+      "text": "good evening",
+      "description_en": "Evening greeting or good night.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000004",
+      "english_id": "en:vcu100:brazil-tourism:000004",
+      "english_sense_id": "brazil-tourism-000004",
+      "kind": "expression",
+      "text": "excuse me",
+      "description_en": "Polite request for attention or passage.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000005",
+      "english_id": "en:vcu100:brazil-tourism:000005",
+      "english_sense_id": "brazil-tourism-000005",
+      "kind": "expression",
+      "text": "please",
+      "description_en": "Polite expression for a request.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000006",
+      "english_id": "en:vcu100:brazil-tourism:000006",
+      "english_sense_id": "brazil-tourism-000006",
+      "kind": "expression",
+      "text": "thank you (male speaker)",
+      "description_en": "Thanks said by a male speaker.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000007",
+      "english_id": "en:vcu100:brazil-tourism:000007",
+      "english_sense_id": "brazil-tourism-000007",
+      "kind": "expression",
+      "text": "thank you (female speaker)",
+      "description_en": "Thanks said by a female speaker.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000008",
+      "english_id": "en:vcu100:brazil-tourism:000008",
+      "english_sense_id": "brazil-tourism-000008",
+      "kind": "expression",
+      "text": "sorry",
+      "description_en": "Informal apology.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000009",
+      "english_id": "en:vcu100:brazil-tourism:000009",
+      "english_sense_id": "brazil-tourism-000009",
+      "kind": "expression",
+      "text": "I did not understand",
+      "description_en": "Statement that something was not understood.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000010",
+      "english_id": "en:vcu100:brazil-tourism:000010",
+      "english_sense_id": "brazil-tourism-000010",
+      "kind": "expression",
+      "text": "can you repeat that?",
+      "description_en": "Request to say something again.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000011",
+      "english_id": "en:vcu100:brazil-tourism:000011",
+      "english_sense_id": "brazil-tourism-000011",
+      "kind": "expression",
+      "text": "where is it?",
+      "description_en": "Question about a place's location.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000012",
+      "english_id": "en:vcu100:brazil-tourism:000012",
+      "english_sense_id": "brazil-tourism-000012",
+      "kind": "expression",
+      "text": "how much does it cost?",
+      "description_en": "Question asking for a price.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000013",
+      "english_id": "en:vcu100:brazil-tourism:000013",
+      "english_sense_id": "brazil-tourism-000013",
+      "kind": "expression",
+      "text": "do you take cards?",
+      "description_en": "Question about accepting card payments.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000014",
+      "english_id": "en:vcu100:brazil-tourism:000014",
+      "english_sense_id": "brazil-tourism-000014",
+      "kind": "expression",
+      "text": "I need help",
+      "description_en": "Request for assistance.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000015",
+      "english_id": "en:vcu100:brazil-tourism:000015",
+      "english_sense_id": "brazil-tourism-000015",
+      "kind": "expression",
+      "text": "I am a tourist",
+      "description_en": "Statement that the speaker is visiting as a tourist.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000016",
+      "english_id": "en:vcu100:brazil-tourism:000016",
+      "english_sense_id": "brazil-tourism-000016",
+      "kind": "expression",
+      "text": "where is a restroom?",
+      "description_en": "Question asking for the nearest restroom.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:essentials",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Frases essenciais"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000017",
+      "english_id": "en:vcu100:brazil-tourism:000017",
+      "english_sense_id": "brazil-tourism-000017",
+      "kind": "word",
+      "text": "intercity bus terminal",
+      "description_en": "Station for long-distance buses.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000018",
+      "english_id": "en:vcu100:brazil-tourism:000018",
+      "english_sense_id": "brazil-tourism-000018",
+      "kind": "word",
+      "text": "bus stop",
+      "description_en": "Place where local buses pick up passengers.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000019",
+      "english_id": "en:vcu100:brazil-tourism:000019",
+      "english_sense_id": "brazil-tourism-000019",
+      "kind": "word",
+      "text": "taxi stand",
+      "description_en": "Place where taxis wait for passengers.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000020",
+      "english_id": "en:vcu100:brazil-tourism:000020",
+      "english_sense_id": "brazil-tourism-000020",
+      "kind": "word",
+      "text": "subway station",
+      "description_en": "Station used to board the metropolitan rail system.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000021",
+      "english_id": "en:vcu100:brazil-tourism:000021",
+      "english_sense_id": "brazil-tourism-000021",
+      "kind": "word",
+      "text": "train station",
+      "description_en": "Station used to board trains.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000022",
+      "english_id": "en:vcu100:brazil-tourism:000022",
+      "english_sense_id": "brazil-tourism-000022",
+      "kind": "word",
+      "text": "travel ticket",
+      "description_en": "Ticket for a journey by bus or other transport.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000023",
+      "english_id": "en:vcu100:brazil-tourism:000023",
+      "english_sense_id": "brazil-tourism-000023",
+      "kind": "word",
+      "text": "electronic ticket",
+      "description_en": "Digital travel ticket.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000024",
+      "english_id": "en:vcu100:brazil-tourism:000024",
+      "english_sense_id": "brazil-tourism-000024",
+      "kind": "word",
+      "text": "turnstile",
+      "description_en": "Rotating barrier used to control entry.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000025",
+      "english_id": "en:vcu100:brazil-tourism:000025",
+      "english_sense_id": "brazil-tourism-000025",
+      "kind": "word",
+      "text": "transfer between lines",
+      "description_en": "Change from one transportation line to another.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000026",
+      "english_id": "en:vcu100:brazil-tourism:000026",
+      "english_sense_id": "brazil-tourism-000026",
+      "kind": "word",
+      "text": "fare",
+      "description_en": "Price charged for a ride.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000027",
+      "english_id": "en:vcu100:brazil-tourism:000027",
+      "english_sense_id": "brazil-tourism-000027",
+      "kind": "word",
+      "text": "one-way journey",
+      "description_en": "Trip in one direction.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000028",
+      "english_id": "en:vcu100:brazil-tourism:000028",
+      "english_sense_id": "brazil-tourism-000028",
+      "kind": "word",
+      "text": "round trip",
+      "description_en": "Trip returning to the original point.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000029",
+      "english_id": "en:vcu100:brazil-tourism:000029",
+      "english_sense_id": "brazil-tourism-000029",
+      "kind": "word",
+      "text": "departure time",
+      "description_en": "Scheduled time a service leaves.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000030",
+      "english_id": "en:vcu100:brazil-tourism:000030",
+      "english_sense_id": "brazil-tourism-000030",
+      "kind": "word",
+      "text": "delay",
+      "description_en": "Departure or arrival later than planned.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000031",
+      "english_id": "en:vcu100:brazil-tourism:000031",
+      "english_sense_id": "brazil-tourism-000031",
+      "kind": "word",
+      "text": "boarding",
+      "description_en": "Getting onto a vehicle or aircraft.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000032",
+      "english_id": "en:vcu100:brazil-tourism:000032",
+      "english_sense_id": "brazil-tourism-000032",
+      "kind": "word",
+      "text": "disembarkation",
+      "description_en": "Getting off a vehicle or aircraft.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000033",
+      "english_id": "en:vcu100:brazil-tourism:000033",
+      "english_sense_id": "brazil-tourism-000033",
+      "kind": "word",
+      "text": "entrance",
+      "description_en": "Way into a place.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000034",
+      "english_id": "en:vcu100:brazil-tourism:000034",
+      "english_sense_id": "brazil-tourism-000034",
+      "kind": "word",
+      "text": "exit",
+      "description_en": "Way out of a place.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000035",
+      "english_id": "en:vcu100:brazil-tourism:000035",
+      "english_sense_id": "brazil-tourism-000035",
+      "kind": "word",
+      "text": "suitcase",
+      "description_en": "Bag used to carry belongings during travel.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000036",
+      "english_id": "en:vcu100:brazil-tourism:000036",
+      "english_sense_id": "brazil-tourism-000036",
+      "kind": "word",
+      "text": "carry-on luggage",
+      "description_en": "Bag kept with the passenger.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000037",
+      "english_id": "en:vcu100:brazil-tourism:000037",
+      "english_sense_id": "brazil-tourism-000037",
+      "kind": "word",
+      "text": "ride-hailing app",
+      "description_en": "App used to request a private driver.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000038",
+      "english_id": "en:vcu100:brazil-tourism:000038",
+      "english_sense_id": "brazil-tourism-000038",
+      "kind": "word",
+      "text": "ride-hailing trip",
+      "description_en": "Trip with a car booked using an app.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:transport",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Transportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000039",
+      "english_id": "en:vcu100:brazil-tourism:000039",
+      "english_sense_id": "brazil-tourism-000039",
+      "kind": "word",
+      "text": "guesthouse",
+      "description_en": "Small hotel-like lodging often serving tourists.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000040",
+      "english_id": "en:vcu100:brazil-tourism:000040",
+      "english_sense_id": "brazil-tourism-000040",
+      "kind": "word",
+      "text": "hotel",
+      "description_en": "Business offering paid accommodation.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000041",
+      "english_id": "en:vcu100:brazil-tourism:000041",
+      "english_sense_id": "brazil-tourism-000041",
+      "kind": "word",
+      "text": "double room",
+      "description_en": "Hotel room for two guests sharing one bed.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000042",
+      "english_id": "en:vcu100:brazil-tourism:000042",
+      "english_sense_id": "brazil-tourism-000042",
+      "kind": "word",
+      "text": "single room",
+      "description_en": "Hotel room intended for one guest.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000043",
+      "english_id": "en:vcu100:brazil-tourism:000043",
+      "english_sense_id": "brazil-tourism-000043",
+      "kind": "word",
+      "text": "nightly rate",
+      "description_en": "Amount charged for one night's lodging.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000044",
+      "english_id": "en:vcu100:brazil-tourism:000044",
+      "english_sense_id": "brazil-tourism-000044",
+      "kind": "word",
+      "text": "breakfast included",
+      "description_en": "Accommodation package including breakfast.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000045",
+      "english_id": "en:vcu100:brazil-tourism:000045",
+      "english_sense_id": "brazil-tourism-000045",
+      "kind": "word",
+      "text": "check-in",
+      "description_en": "Registration at arrival in a hotel.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000046",
+      "english_id": "en:vcu100:brazil-tourism:000046",
+      "english_sense_id": "brazil-tourism-000046",
+      "kind": "word",
+      "text": "check-out",
+      "description_en": "Leaving and settling a hotel stay.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000047",
+      "english_id": "en:vcu100:brazil-tourism:000047",
+      "english_sense_id": "brazil-tourism-000047",
+      "kind": "word",
+      "text": "booking",
+      "description_en": "Arrangement made in advance for a room or service.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000048",
+      "english_id": "en:vcu100:brazil-tourism:000048",
+      "english_sense_id": "brazil-tourism-000048",
+      "kind": "word",
+      "text": "reception desk",
+      "description_en": "Service counter where guests check in.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000049",
+      "english_id": "en:vcu100:brazil-tourism:000049",
+      "english_sense_id": "brazil-tourism-000049",
+      "kind": "word",
+      "text": "room key",
+      "description_en": "Key giving access to a guest room.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000050",
+      "english_id": "en:vcu100:brazil-tourism:000050",
+      "english_sense_id": "brazil-tourism-000050",
+      "kind": "word",
+      "text": "safe",
+      "description_en": "Secured container for storing valuables.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000051",
+      "english_id": "en:vcu100:brazil-tourism:000051",
+      "english_sense_id": "brazil-tourism-000051",
+      "kind": "word",
+      "text": "air conditioning",
+      "description_en": "Equipment for cooling indoor air.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000052",
+      "english_id": "en:vcu100:brazil-tourism:000052",
+      "english_sense_id": "brazil-tourism-000052",
+      "kind": "word",
+      "text": "bath towel",
+      "description_en": "Towel for drying after bathing.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000053",
+      "english_id": "en:vcu100:brazil-tourism:000053",
+      "english_sense_id": "brazil-tourism-000053",
+      "kind": "word",
+      "text": "private bathroom",
+      "description_en": "Bathroom reserved for the room's guests.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000054",
+      "english_id": "en:vcu100:brazil-tourism:000054",
+      "english_sense_id": "brazil-tourism-000054",
+      "kind": "word",
+      "text": "hammock",
+      "description_en": "Hanging fabric or net used for relaxation.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000055",
+      "english_id": "en:vcu100:brazil-tourism:000055",
+      "english_sense_id": "brazil-tourism-000055",
+      "kind": "word",
+      "text": "voltage",
+      "description_en": "Electrical voltage available at an outlet.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:lodging",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Hospedagem"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000056",
+      "english_id": "en:vcu100:brazil-tourism:000056",
+      "english_sense_id": "brazil-tourism-000056",
+      "kind": "word",
+      "text": "fixed lunch plate",
+      "description_en": "Complete individual meal often abbreviated PF.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000057",
+      "english_id": "en:vcu100:brazil-tourism:000057",
+      "english_sense_id": "brazil-tourism-000057",
+      "kind": "word",
+      "text": "prato feito abbreviation",
+      "description_en": "Common abbreviation for a fixed lunch plate.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000058",
+      "english_id": "en:vcu100:brazil-tourism:000058",
+      "english_sense_id": "brazil-tourism-000058",
+      "kind": "word",
+      "text": "pay-by-weight buffet restaurant",
+      "description_en": "Self-service restaurant charging according to the food's weight.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000059",
+      "english_id": "en:vcu100:brazil-tourism:000059",
+      "english_sense_id": "brazil-tourism-000059",
+      "kind": "word",
+      "text": "food sold by weight",
+      "description_en": "Food priced according to its weight on the plate.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000060",
+      "english_id": "en:vcu100:brazil-tourism:000060",
+      "english_sense_id": "brazil-tourism-000060",
+      "kind": "word",
+      "text": "self-service restaurant",
+      "description_en": "Brazilian restaurant where customers serve themselves.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000061",
+      "english_id": "en:vcu100:brazil-tourism:000061",
+      "english_sense_id": "brazil-tourism-000061",
+      "kind": "word",
+      "text": "all-you-can-eat buffet",
+      "description_en": "Buffet where the amount eaten is not weighed for pricing.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000062",
+      "english_id": "en:vcu100:brazil-tourism:000062",
+      "english_sense_id": "brazil-tourism-000062",
+      "kind": "word",
+      "text": "unlimited servings",
+      "description_en": "Expression indicating no fixed limit on portions in a meal offer.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000063",
+      "english_id": "en:vcu100:brazil-tourism:000063",
+      "english_sense_id": "brazil-tourism-000063",
+      "kind": "word",
+      "text": "packed meal",
+      "description_en": "Prepared meal carried in a container.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000064",
+      "english_id": "en:vcu100:brazil-tourism:000064",
+      "english_sense_id": "brazil-tourism-000064",
+      "kind": "word",
+      "text": "takeaway hot meal",
+      "description_en": "Regional colloquial name for a ready meal to take away.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000065",
+      "english_id": "en:vcu100:brazil-tourism:000065",
+      "english_sense_id": "brazil-tourism-000065",
+      "kind": "word",
+      "text": "takeaway meal container",
+      "description_en": "Informal commercial term for a ready meal packed to go.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000066",
+      "english_id": "en:vcu100:brazil-tourism:000066",
+      "english_sense_id": "brazil-tourism-000066",
+      "kind": "word",
+      "text": "order slip",
+      "description_en": "Slip or account recording purchases in a restaurant.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000067",
+      "english_id": "en:vcu100:brazil-tourism:000067",
+      "english_sense_id": "brazil-tourism-000067",
+      "kind": "word",
+      "text": "scale",
+      "description_en": "Device used to weigh food in a pay-by-weight restaurant.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000068",
+      "english_id": "en:vcu100:brazil-tourism:000068",
+      "english_sense_id": "brazil-tourism-000068",
+      "kind": "word",
+      "text": "queue",
+      "description_en": "Line of people waiting.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000069",
+      "english_id": "en:vcu100:brazil-tourism:000069",
+      "english_sense_id": "brazil-tourism-000069",
+      "kind": "word",
+      "text": "checkout counter",
+      "description_en": "Place where a customer pays.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000070",
+      "english_id": "en:vcu100:brazil-tourism:000070",
+      "english_sense_id": "brazil-tourism-000070",
+      "kind": "word",
+      "text": "menu",
+      "description_en": "List of food and drinks offered.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000071",
+      "english_id": "en:vcu100:brazil-tourism:000071",
+      "english_sense_id": "brazil-tourism-000071",
+      "kind": "word",
+      "text": "breakfast",
+      "description_en": "First meal of the day.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000072",
+      "english_id": "en:vcu100:brazil-tourism:000072",
+      "english_sense_id": "brazil-tourism-000072",
+      "kind": "word",
+      "text": "lunch",
+      "description_en": "Main midday meal.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000073",
+      "english_id": "en:vcu100:brazil-tourism:000073",
+      "english_sense_id": "brazil-tourism-000073",
+      "kind": "word",
+      "text": "dinner",
+      "description_en": "Evening meal.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000074",
+      "english_id": "en:vcu100:brazil-tourism:000074",
+      "english_sense_id": "brazil-tourism-000074",
+      "kind": "word",
+      "text": "snack",
+      "description_en": "Small meal between main meals.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000075",
+      "english_id": "en:vcu100:brazil-tourism:000075",
+      "english_sense_id": "brazil-tourism-000075",
+      "kind": "word",
+      "text": "Brazilian cheese bread",
+      "description_en": "Small baked cheese-and-starch roll.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000076",
+      "english_id": "en:vcu100:brazil-tourism:000076",
+      "english_sense_id": "brazil-tourism-000076",
+      "kind": "word",
+      "text": "chicken-filled fried snack",
+      "description_en": "Teardrop-shaped savory snack usually filled with shredded chicken.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000077",
+      "english_id": "en:vcu100:brazil-tourism:000077",
+      "english_sense_id": "brazil-tourism-000077",
+      "kind": "word",
+      "text": "Brazilian fried pastry",
+      "description_en": "Thin fried pastry with savory or sweet filling.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000078",
+      "english_id": "en:vcu100:brazil-tourism:000078",
+      "english_sense_id": "brazil-tourism-000078",
+      "kind": "word",
+      "text": "açaí bowl",
+      "description_en": "Cold bowl made from blended açaí pulp.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000079",
+      "english_id": "en:vcu100:brazil-tourism:000079",
+      "english_sense_id": "brazil-tourism-000079",
+      "kind": "word",
+      "text": "Brazilian bean and meat stew",
+      "description_en": "Bean stew commonly made with pork cuts.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000080",
+      "english_id": "en:vcu100:brazil-tourism:000080",
+      "english_sense_id": "brazil-tourism-000080",
+      "kind": "word",
+      "text": "Brazilian fish stew",
+      "description_en": "Regional stew usually featuring fish or seafood.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000081",
+      "english_id": "en:vcu100:brazil-tourism:000081",
+      "english_sense_id": "brazil-tourism-000081",
+      "kind": "word",
+      "text": "acarajé",
+      "description_en": "Bahian fritter made from beans and commonly filled with savory ingredients.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000082",
+      "english_id": "en:vcu100:brazil-tourism:000082",
+      "english_sense_id": "brazil-tourism-000082",
+      "kind": "word",
+      "text": "vatapá",
+      "description_en": "Thick Bahian dish commonly made with bread or flour, coconut milk and seasonings.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000083",
+      "english_id": "en:vcu100:brazil-tourism:000083",
+      "english_sense_id": "brazil-tourism-000083",
+      "kind": "word",
+      "text": "tapioca crepe",
+      "description_en": "Brazilian griddle preparation made from hydrated cassava starch.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000084",
+      "english_id": "en:vcu100:brazil-tourism:000084",
+      "english_sense_id": "brazil-tourism-000084",
+      "kind": "word",
+      "text": "toasted cassava-flour side dish",
+      "description_en": "Seasoned toasted cassava flour served with meals.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000085",
+      "english_id": "en:vcu100:brazil-tourism:000085",
+      "english_sense_id": "brazil-tourism-000085",
+      "kind": "word",
+      "text": "Brazilian barbecue",
+      "description_en": "Grilled meat meal or event.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000086",
+      "english_id": "en:vcu100:brazil-tourism:000086",
+      "english_sense_id": "brazil-tourism-000086",
+      "kind": "word",
+      "text": "all-you-can-eat table service",
+      "description_en": "Restaurant service offering repeated servings of items.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000087",
+      "english_id": "en:vcu100:brazil-tourism:000087",
+      "english_sense_id": "brazil-tourism-000087",
+      "kind": "word",
+      "text": "fresh fruit juice",
+      "description_en": "Drink prepared from fruit.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000088",
+      "english_id": "en:vcu100:brazil-tourism:000088",
+      "english_sense_id": "brazil-tourism-000088",
+      "kind": "word",
+      "text": "coconut water",
+      "description_en": "Liquid from a coconut served as a drink.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000089",
+      "english_id": "en:vcu100:brazil-tourism:000089",
+      "english_sense_id": "brazil-tourism-000089",
+      "kind": "word",
+      "text": "sugarcane",
+      "description_en": "Plant used for producing sugar and sugarcane juice.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000090",
+      "english_id": "en:vcu100:brazil-tourism:000090",
+      "english_sense_id": "brazil-tourism-000090",
+      "kind": "word",
+      "text": "sugarcane juice",
+      "description_en": "Sweet drink extracted from sugarcane.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000091",
+      "english_id": "en:vcu100:brazil-tourism:000091",
+      "english_sense_id": "brazil-tourism-000091",
+      "kind": "word",
+      "text": "draft beer",
+      "description_en": "Beer served from a tap.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000092",
+      "english_id": "en:vcu100:brazil-tourism:000092",
+      "english_sense_id": "brazil-tourism-000092",
+      "kind": "word",
+      "text": "cold beer",
+      "description_en": "Chilled beer.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000093",
+      "english_id": "en:vcu100:brazil-tourism:000093",
+      "english_sense_id": "brazil-tourism-000093",
+      "kind": "word",
+      "text": "no ice",
+      "description_en": "Request for a drink without ice.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000094",
+      "english_id": "en:vcu100:brazil-tourism:000094",
+      "english_sense_id": "brazil-tourism-000094",
+      "kind": "word",
+      "text": "without sugar",
+      "description_en": "Request for food or drink containing no added sugar.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000095",
+      "english_id": "en:vcu100:brazil-tourism:000095",
+      "english_sense_id": "brazil-tourism-000095",
+      "kind": "word",
+      "text": "does it contain peanuts?",
+      "description_en": "Question about a peanut ingredient.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000096",
+      "english_id": "en:vcu100:brazil-tourism:000096",
+      "english_sense_id": "brazil-tourism-000096",
+      "kind": "word",
+      "text": "I am vegetarian (male)",
+      "description_en": "Statement of a man's vegetarian dietary preference.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000097",
+      "english_id": "en:vcu100:brazil-tourism:000097",
+      "english_sense_id": "brazil-tourism-000097",
+      "kind": "word",
+      "text": "I am vegetarian (female)",
+      "description_en": "Statement of a woman's vegetarian dietary preference.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:food",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Comida brasileira"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000098",
+      "english_id": "en:vcu100:brazil-tourism:000098",
+      "english_sense_id": "brazil-tourism-000098",
+      "kind": "word",
+      "text": "beach",
+      "description_en": "Sandy or rocky shoreline used for recreation.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000099",
+      "english_id": "en:vcu100:brazil-tourism:000099",
+      "english_sense_id": "brazil-tourism-000099",
+      "kind": "word",
+      "text": "beach kiosk",
+      "description_en": "Small beachside stall serving food and drinks.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000100",
+      "english_id": "en:vcu100:brazil-tourism:000100",
+      "english_sense_id": "brazil-tourism-000100",
+      "kind": "word",
+      "text": "beachfront promenade",
+      "description_en": "Paved walkway along a beach or urban waterfront.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000101",
+      "english_id": "en:vcu100:brazil-tourism:000101",
+      "english_sense_id": "brazil-tourism-000101",
+      "kind": "word",
+      "text": "waterfront",
+      "description_en": "Coastal or lakeside strip near the water.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000102",
+      "english_id": "en:vcu100:brazil-tourism:000102",
+      "english_sense_id": "brazil-tourism-000102",
+      "kind": "word",
+      "text": "beach umbrella",
+      "description_en": "Umbrella providing shade on the sand.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000103",
+      "english_id": "en:vcu100:brazil-tourism:000103",
+      "english_sense_id": "brazil-tourism-000103",
+      "kind": "word",
+      "text": "beach chair",
+      "description_en": "Portable chair intended for use at a beach.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000104",
+      "english_id": "en:vcu100:brazil-tourism:000104",
+      "english_sense_id": "brazil-tourism-000104",
+      "kind": "word",
+      "text": "beach wrap",
+      "description_en": "Light cloth used at the beach as a wrap or mat.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000105",
+      "english_id": "en:vcu100:brazil-tourism:000105",
+      "english_sense_id": "brazil-tourism-000105",
+      "kind": "word",
+      "text": "sunscreen",
+      "description_en": "Product applied to protect skin from sunlight.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000106",
+      "english_id": "en:vcu100:brazil-tourism:000106",
+      "english_sense_id": "brazil-tourism-000106",
+      "kind": "word",
+      "text": "high tide",
+      "description_en": "Period when sea level is higher.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000107",
+      "english_id": "en:vcu100:brazil-tourism:000107",
+      "english_sense_id": "brazil-tourism-000107",
+      "kind": "word",
+      "text": "low tide",
+      "description_en": "Period when sea level is lower.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000108",
+      "english_id": "en:vcu100:brazil-tourism:000108",
+      "english_sense_id": "brazil-tourism-000108",
+      "kind": "word",
+      "text": "wave",
+      "description_en": "Moving swell of water on the surface.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000109",
+      "english_id": "en:vcu100:brazil-tourism:000109",
+      "english_sense_id": "brazil-tourism-000109",
+      "kind": "word",
+      "text": "water current",
+      "description_en": "Flow of moving water.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000110",
+      "english_id": "en:vcu100:brazil-tourism:000110",
+      "english_sense_id": "brazil-tourism-000110",
+      "kind": "word",
+      "text": "keep-up beach ball game",
+      "description_en": "Brazilian beach game where players keep a ball airborne without using their hands.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000111",
+      "english_id": "en:vcu100:brazil-tourism:000111",
+      "english_sense_id": "brazil-tourism-000111",
+      "kind": "word",
+      "text": "beach paddle game",
+      "description_en": "Brazilian cooperative paddle game played by keeping a ball in motion.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000112",
+      "english_id": "en:vcu100:brazil-tourism:000112",
+      "english_sense_id": "brazil-tourism-000112",
+      "kind": "word",
+      "text": "footvolley",
+      "description_en": "Beach sport combining football touches and volleyball-like court play.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000113",
+      "english_id": "en:vcu100:brazil-tourism:000113",
+      "english_sense_id": "brazil-tourism-000113",
+      "kind": "word",
+      "text": "beach volleyball",
+      "description_en": "Volleyball played on sand.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000114",
+      "english_id": "en:vcu100:brazil-tourism:000114",
+      "english_sense_id": "brazil-tourism-000114",
+      "kind": "word",
+      "text": "stand-up paddleboarding",
+      "description_en": "Water sport practiced on a board while standing with a paddle.",
+      "source_status": "original-editorial",
+      "region_tags": [],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:beach",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Praia e esportes"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000115",
+      "english_id": "en:vcu100:brazil-tourism:000115",
+      "english_sense_id": "brazil-tourism-000115",
+      "kind": "word",
+      "text": "Christ the Redeemer statue",
+      "description_en": "Monument on Corcovado mountain in Rio de Janeiro.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000116",
+      "english_id": "en:vcu100:brazil-tourism:000116",
+      "english_sense_id": "brazil-tourism-000116",
+      "kind": "word",
+      "text": "Sugarloaf Mountain",
+      "description_en": "Granite peak and tourist destination in Rio de Janeiro.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000117",
+      "english_id": "en:vcu100:brazil-tourism:000117",
+      "english_sense_id": "brazil-tourism-000117",
+      "kind": "word",
+      "text": "cable car",
+      "description_en": "Colloquial Brazilian term for a small cable-car vehicle, especially Rio's Sugarloaf service.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000118",
+      "english_id": "en:vcu100:brazil-tourism:000118",
+      "english_sense_id": "brazil-tourism-000118",
+      "kind": "word",
+      "text": "streetcar",
+      "description_en": "Rail vehicle operating on city streets, such as the Santa Teresa tram.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000119",
+      "english_id": "en:vcu100:brazil-tourism:000119",
+      "english_sense_id": "brazil-tourism-000119",
+      "kind": "word",
+      "text": "Lapa Arches",
+      "description_en": "Historic aqueduct landmark in central Rio de Janeiro.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000120",
+      "english_id": "en:vcu100:brazil-tourism:000120",
+      "english_sense_id": "brazil-tourism-000120",
+      "kind": "word",
+      "text": "Copacabana promenade",
+      "description_en": "Beachfront walkway with mosaic pavement.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000121",
+      "english_id": "en:vcu100:brazil-tourism:000121",
+      "english_sense_id": "brazil-tourism-000121",
+      "kind": "word",
+      "text": "Ipanema neighborhood",
+      "description_en": "Rio de Janeiro neighborhood and beach.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000122",
+      "english_id": "en:vcu100:brazil-tourism:000122",
+      "english_sense_id": "brazil-tourism-000122",
+      "kind": "word",
+      "text": "Maracanã stadium",
+      "description_en": "Major football stadium in Rio de Janeiro.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000123",
+      "english_id": "en:vcu100:brazil-tourism:000123",
+      "english_sense_id": "brazil-tourism-000123",
+      "kind": "word",
+      "text": "Pedra Bonita hiking trail",
+      "description_en": "Hiking route in Rio's Tijuca massif.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000124",
+      "english_id": "en:vcu100:brazil-tourism:000124",
+      "english_sense_id": "brazil-tourism-000124",
+      "kind": "word",
+      "text": "hang gliding",
+      "description_en": "Unpowered flight using a rigid-frame glider.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000125",
+      "english_id": "en:vcu100:brazil-tourism:000125",
+      "english_sense_id": "brazil-tourism-000125",
+      "kind": "word",
+      "text": "paragliding",
+      "description_en": "Free-flight sport using a paraglider.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000126",
+      "english_id": "en:vcu100:brazil-tourism:000126",
+      "english_sense_id": "brazil-tourism-000126",
+      "kind": "word",
+      "text": "viewpoint",
+      "description_en": "Elevated location used for observing scenery.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000127",
+      "english_id": "en:vcu100:brazil-tourism:000127",
+      "english_sense_id": "brazil-tourism-000127",
+      "kind": "word",
+      "text": "nature trail",
+      "description_en": "Hiking path through a natural environment.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000128",
+      "english_id": "en:vcu100:brazil-tourism:000128",
+      "english_sense_id": "brazil-tourism-000128",
+      "kind": "word",
+      "text": "Selarón Steps",
+      "description_en": "Colorful tiled staircase in Rio de Janeiro.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-RJ"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:rio",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000129",
+      "english_id": "en:vcu100:brazil-tourism:000129",
+      "english_sense_id": "brazil-tourism-000129",
+      "kind": "word",
+      "text": "Brazilian Northeast",
+      "description_en": "Brazilian macroregion comprising nine states.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000130",
+      "english_id": "en:vcu100:brazil-tourism:000130",
+      "english_sense_id": "brazil-tourism-000130",
+      "kind": "word",
+      "text": "sand dune",
+      "description_en": "Hill or ridge of sand formed by wind.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000131",
+      "english_id": "en:vcu100:brazil-tourism:000131",
+      "english_sense_id": "brazil-tourism-000131",
+      "kind": "word",
+      "text": "dune buggy tour",
+      "description_en": "Sightseeing ride in a small off-road buggy.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000132",
+      "english_id": "en:vcu100:brazil-tourism:000132",
+      "english_sense_id": "brazil-tourism-000132",
+      "kind": "word",
+      "text": "traditional sailing raft",
+      "description_en": "Small traditional fishing raft associated with Brazil's Northeast coast.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000133",
+      "english_id": "en:vcu100:brazil-tourism:000133",
+      "english_sense_id": "brazil-tourism-000133",
+      "kind": "word",
+      "text": "maracatu performance",
+      "description_en": "Afro-Brazilian musical and cultural tradition, especially in Pernambuco.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000134",
+      "english_id": "en:vcu100:brazil-tourism:000134",
+      "english_sense_id": "brazil-tourism-000134",
+      "kind": "word",
+      "text": "forró music and dance",
+      "description_en": "Music and partner dancing strongly associated with northeastern Brazil.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000135",
+      "english_id": "en:vcu100:brazil-tourism:000135",
+      "english_sense_id": "brazil-tourism-000135",
+      "kind": "word",
+      "text": "frevo dance and music",
+      "description_en": "Fast-paced musical and dance tradition from Pernambuco.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000136",
+      "english_id": "en:vcu100:brazil-tourism:000136",
+      "english_sense_id": "brazil-tourism-000136",
+      "kind": "word",
+      "text": "cordel folk poetry",
+      "description_en": "Popular Brazilian verse literature traditionally printed in booklets.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000137",
+      "english_id": "en:vcu100:brazil-tourism:000137",
+      "english_sense_id": "brazil-tourism-000137",
+      "kind": "word",
+      "text": "crab",
+      "description_en": "Crustacean commonly served in coastal regional cuisine.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000138",
+      "english_id": "en:vcu100:brazil-tourism:000138",
+      "english_sense_id": "brazil-tourism-000138",
+      "kind": "word",
+      "text": "sun-dried salted beef",
+      "description_en": "Partially salted and dried beef traditional in the Northeast.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000139",
+      "english_id": "en:vcu100:brazil-tourism:000139",
+      "english_sense_id": "brazil-tourism-000139",
+      "kind": "word",
+      "text": "rice and beans dish",
+      "description_en": "Northeastern dish combining rice and beans, often with other ingredients.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000140",
+      "english_id": "en:vcu100:brazil-tourism:000140",
+      "english_sense_id": "brazil-tourism-000140",
+      "kind": "word",
+      "text": "northeastern corn couscous",
+      "description_en": "Steamed corn-flour dish common in the Northeast.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000141",
+      "english_id": "en:vcu100:brazil-tourism:000141",
+      "english_sense_id": "brazil-tourism-000141",
+      "kind": "word",
+      "text": "sleeping hammock",
+      "description_en": "Hammock used as a bed in tropical regions.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000142",
+      "english_id": "en:vcu100:brazil-tourism:000142",
+      "english_sense_id": "brazil-tourism-000142",
+      "kind": "word",
+      "text": "handicraft market",
+      "description_en": "Market selling handmade goods and regional crafts.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-NE"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:northeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Nordeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000143",
+      "english_id": "en:vcu100:brazil-tourism:000143",
+      "english_sense_id": "brazil-tourism-000143",
+      "kind": "word",
+      "text": "Paulista Avenue",
+      "description_en": "Major avenue and visitor attraction in São Paulo.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000144",
+      "english_id": "en:vcu100:brazil-tourism:000144",
+      "english_sense_id": "brazil-tourism-000144",
+      "kind": "word",
+      "text": "municipal market",
+      "description_en": "Public market building selling food and produce; name may refer to many cities.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000145",
+      "english_id": "en:vcu100:brazil-tourism:000145",
+      "english_sense_id": "brazil-tourism-000145",
+      "kind": "word",
+      "text": "Liberdade district",
+      "description_en": "São Paulo neighborhood known for Asian cultural influence.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000146",
+      "english_id": "en:vcu100:brazil-tourism:000146",
+      "english_sense_id": "brazil-tourism-000146",
+      "kind": "word",
+      "text": "metro system",
+      "description_en": "Urban rapid transit rail network.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000147",
+      "english_id": "en:vcu100:brazil-tourism:000147",
+      "english_sense_id": "brazil-tourism-000147",
+      "kind": "word",
+      "text": "urban park",
+      "description_en": "Public green area within a city.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000148",
+      "english_id": "en:vcu100:brazil-tourism:000148",
+      "english_sense_id": "brazil-tourism-000148",
+      "kind": "word",
+      "text": "historic center",
+      "description_en": "Older central district with historic architecture.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000149",
+      "english_id": "en:vcu100:brazil-tourism:000149",
+      "english_sense_id": "brazil-tourism-000149",
+      "kind": "word",
+      "text": "art museum",
+      "description_en": "Museum exhibiting artworks.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000150",
+      "english_id": "en:vcu100:brazil-tourism:000150",
+      "english_sense_id": "brazil-tourism-000150",
+      "kind": "word",
+      "text": "bar snacks",
+      "description_en": "Small savory dishes commonly served at Brazilian bars.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-SP"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:southeast",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · São Paulo e Sudeste"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000151",
+      "english_id": "en:vcu100:brazil-tourism:000151",
+      "english_sense_id": "brazil-tourism-000151",
+      "kind": "word",
+      "text": "Southern Brazil",
+      "description_en": "Brazilian macroregion comprising Paraná, Santa Catarina and Rio Grande do Sul.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000152",
+      "english_id": "en:vcu100:brazil-tourism:000152",
+      "english_sense_id": "brazil-tourism-000152",
+      "kind": "word",
+      "text": "steakhouse",
+      "description_en": "Restaurant specializing in grilled meat.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000153",
+      "english_id": "en:vcu100:brazil-tourism:000153",
+      "english_sense_id": "brazil-tourism-000153",
+      "kind": "word",
+      "text": "chimarrão mate drink",
+      "description_en": "Hot yerba mate drink traditionally sipped through a metal straw.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000154",
+      "english_id": "en:vcu100:brazil-tourism:000154",
+      "english_sense_id": "brazil-tourism-000154",
+      "kind": "word",
+      "text": "mate gourd",
+      "description_en": "Vessel traditionally used for drinking chimarrão.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000155",
+      "english_id": "en:vcu100:brazil-tourism:000155",
+      "english_sense_id": "brazil-tourism-000155",
+      "kind": "word",
+      "text": "mate drinking straw",
+      "description_en": "Metal straw with filter used in chimarrão.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000156",
+      "english_id": "en:vcu100:brazil-tourism:000156",
+      "english_sense_id": "brazil-tourism-000156",
+      "kind": "word",
+      "text": "Serra Gaúcha region",
+      "description_en": "Highland wine and tourism region in Rio Grande do Sul.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000157",
+      "english_id": "en:vcu100:brazil-tourism:000157",
+      "english_sense_id": "brazil-tourism-000157",
+      "kind": "word",
+      "text": "canyon",
+      "description_en": "Deep gorge between high cliffs.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000158",
+      "english_id": "en:vcu100:brazil-tourism:000158",
+      "english_sense_id": "brazil-tourism-000158",
+      "kind": "word",
+      "text": "waterfall",
+      "description_en": "Water falling over a rock ledge.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000159",
+      "english_id": "en:vcu100:brazil-tourism:000159",
+      "english_sense_id": "brazil-tourism-000159",
+      "kind": "word",
+      "text": "Foz do Iguaçu city",
+      "description_en": "Paraná city associated with the Iguazu Falls.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000160",
+      "english_id": "en:vcu100:brazil-tourism:000160",
+      "english_sense_id": "brazil-tourism-000160",
+      "kind": "word",
+      "text": "waterfalls",
+      "description_en": "Series of large falling water cascades.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR-S"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:south",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Sul do Brasil"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000161",
+      "english_id": "en:vcu100:brazil-tourism:000161",
+      "english_sense_id": "brazil-tourism-000161",
+      "kind": "word",
+      "text": "abseiling",
+      "description_en": "Controlled descent down a wall or cliff using ropes.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000162",
+      "english_id": "en:vcu100:brazil-tourism:000162",
+      "english_sense_id": "brazil-tourism-000162",
+      "kind": "word",
+      "text": "zip line",
+      "description_en": "Cable attraction using a suspended pulley for travel.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000163",
+      "english_id": "en:vcu100:brazil-tourism:000163",
+      "english_sense_id": "brazil-tourism-000163",
+      "kind": "word",
+      "text": "whitewater rafting",
+      "description_en": "Navigation down a river in an inflatable raft.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000164",
+      "english_id": "en:vcu100:brazil-tourism:000164",
+      "english_sense_id": "brazil-tourism-000164",
+      "kind": "word",
+      "text": "scuba diving",
+      "description_en": "Underwater diving using carried breathing equipment.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000165",
+      "english_id": "en:vcu100:brazil-tourism:000165",
+      "english_sense_id": "brazil-tourism-000165",
+      "kind": "word",
+      "text": "snorkeling or freediving",
+      "description_en": "Underwater activity without scuba breathing equipment.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000166",
+      "english_id": "en:vcu100:brazil-tourism:000166",
+      "english_sense_id": "brazil-tourism-000166",
+      "kind": "word",
+      "text": "life jacket",
+      "description_en": "Buoyancy garment used on water.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000167",
+      "english_id": "en:vcu100:brazil-tourism:000167",
+      "english_sense_id": "brazil-tourism-000167",
+      "kind": "word",
+      "text": "tour guide",
+      "description_en": "Professional who leads visitors and explains a destination.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000168",
+      "english_id": "en:vcu100:brazil-tourism:000168",
+      "english_sense_id": "brazil-tourism-000168",
+      "kind": "word",
+      "text": "boat tour",
+      "description_en": "Sightseeing trip on a boat.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000169",
+      "english_id": "en:vcu100:brazil-tourism:000169",
+      "english_sense_id": "brazil-tourism-000169",
+      "kind": "word",
+      "text": "schooner excursion",
+      "description_en": "Tourist boat excursion commonly called escuna in Brazil.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000170",
+      "english_id": "en:vcu100:brazil-tourism:000170",
+      "english_sense_id": "brazil-tourism-000170",
+      "kind": "word",
+      "text": "horseback riding tour",
+      "description_en": "Guided ride on horseback.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000171",
+      "english_id": "en:vcu100:brazil-tourism:000171",
+      "english_sense_id": "brazil-tourism-000171",
+      "kind": "word",
+      "text": "safety equipment",
+      "description_en": "Protective gear used during an activity.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000172",
+      "english_id": "en:vcu100:brazil-tourism:000172",
+      "english_sense_id": "brazil-tourism-000172",
+      "kind": "word",
+      "text": "admission ticket",
+      "description_en": "Ticket granting access to an attraction.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000173",
+      "english_id": "en:vcu100:brazil-tourism:000173",
+      "english_sense_id": "brazil-tourism-000173",
+      "kind": "word",
+      "text": "reduced-price admission",
+      "description_en": "Discounted admission for eligible categories where applicable.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000174",
+      "english_id": "en:vcu100:brazil-tourism:000174",
+      "english_sense_id": "brazil-tourism-000174",
+      "kind": "word",
+      "text": "ticket office",
+      "description_en": "Counter where tickets are sold.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000175",
+      "english_id": "en:vcu100:brazil-tourism:000175",
+      "english_sense_id": "brazil-tourism-000175",
+      "kind": "word",
+      "text": "opening hours",
+      "description_en": "Times when a business or attraction is open.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    },
+    {
+      "id": "en:vcu100:brazil-tourism:000176",
+      "english_id": "en:vcu100:brazil-tourism:000176",
+      "english_sense_id": "brazil-tourism-000176",
+      "kind": "word",
+      "text": "meeting point",
+      "description_en": "Place agreed upon for participants to gather.",
+      "source_status": "original-editorial",
+      "region_tags": [
+        "BR"
+      ],
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:brazil_tourism:adventure",
+      "topics": [
+        "VCU100 · Turismo no Brasil",
+        "Brasil · Aventura"
+      ]
+    }
+  ]
+}
