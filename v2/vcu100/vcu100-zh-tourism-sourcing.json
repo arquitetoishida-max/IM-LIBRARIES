@@ -1,0 +1,2892 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-zh-tourism-sourcing",
+  "package_type": "ishida-monolingual",
+  "language": "zh",
+  "region": "zh-CN-VCU100-sourcing",
+  "name": "VCU100 — 简体中文 旅游与采购",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "zh",
+    "flag": "🇨🇳",
+    "locale": "zh-CN",
+    "name_native": "简体中文",
+    "name_en": "Mandarin Chinese",
+    "name_pt": "Chinês mandarim",
+    "name_ja": "中国語",
+    "script": "hanzi"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "china_tourism_sourcing",
+  "companion_package_id": "vcu100-pt-br-zh-sourcing-companion",
+  "license": "Original ISHIDA MULTILANG editorial content (2026); business terminology checked against public references.",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/china-tourism-sourcing-zh-pt-BR-001.json"
+  ],
+  "notes": [
+    "168 simplified Mandarin terms with tone-marked Pinyin and PT-BR equivalents.",
+    "Business/financial phrases are vocabulary not trade legal advice.",
+    "PT-BR companion is needed to study directly from Brazilian Portuguese."
+  ],
+  "entries": [
+    {
+      "id": "zh:vcu100:china-sourcing:000001",
+      "english_id": "en:vcu100:china-sourcing:000001",
+      "english_sense_id": "china-sourcing-000001",
+      "kind": "word",
+      "text": "你好",
+      "description_en": "Standard greeting.",
+      "romanization": "nǐ hǎo",
+      "reading": "nǐ hǎo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000002",
+      "english_id": "en:vcu100:china-sourcing:000002",
+      "english_sense_id": "china-sourcing-000002",
+      "kind": "word",
+      "text": "谢谢",
+      "description_en": "Polite expression of thanks.",
+      "romanization": "xièxie",
+      "reading": "xièxie",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000003",
+      "english_id": "en:vcu100:china-sourcing:000003",
+      "english_sense_id": "china-sourcing-000003",
+      "kind": "word",
+      "text": "对不起",
+      "description_en": "Apology.",
+      "romanization": "duìbuqǐ",
+      "reading": "duìbuqǐ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000004",
+      "english_id": "en:vcu100:china-sourcing:000004",
+      "english_sense_id": "china-sourcing-000004",
+      "kind": "word",
+      "text": "不好意思",
+      "description_en": "Mild apology or request to get attention.",
+      "romanization": "bù hǎoyìsi",
+      "reading": "bù hǎoyìsi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000005",
+      "english_id": "en:vcu100:china-sourcing:000005",
+      "english_sense_id": "china-sourcing-000005",
+      "kind": "word",
+      "text": "请问",
+      "description_en": "Polite way to introduce a question.",
+      "romanization": "qǐngwèn",
+      "reading": "qǐngwèn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000006",
+      "english_id": "en:vcu100:china-sourcing:000006",
+      "english_sense_id": "china-sourcing-000006",
+      "kind": "word",
+      "text": "请",
+      "description_en": "Polite word for requesting or inviting.",
+      "romanization": "qǐng",
+      "reading": "qǐng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000007",
+      "english_id": "en:vcu100:china-sourcing:000007",
+      "english_sense_id": "china-sourcing-000007",
+      "kind": "word",
+      "text": "再见",
+      "description_en": "Expression used when saying goodbye.",
+      "romanization": "zàijiàn",
+      "reading": "zàijiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000008",
+      "english_id": "en:vcu100:china-sourcing:000008",
+      "english_sense_id": "china-sourcing-000008",
+      "kind": "word",
+      "text": "听不懂",
+      "description_en": "Statement that spoken words cannot be understood.",
+      "romanization": "tīng bu dǒng",
+      "reading": "tīng bu dǒng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000009",
+      "english_id": "en:vcu100:china-sourcing:000009",
+      "english_sense_id": "china-sourcing-000009",
+      "kind": "word",
+      "text": "慢一点",
+      "description_en": "Request for slower speech or movement.",
+      "romanization": "màn yìdiǎn",
+      "reading": "màn yìdiǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000010",
+      "english_id": "en:vcu100:china-sourcing:000010",
+      "english_sense_id": "china-sourcing-000010",
+      "kind": "word",
+      "text": "多少钱",
+      "description_en": "Question asking the price.",
+      "romanization": "duōshao qián",
+      "reading": "duōshao qián",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000011",
+      "english_id": "en:vcu100:china-sourcing:000011",
+      "english_sense_id": "china-sourcing-000011",
+      "kind": "word",
+      "text": "在哪里",
+      "description_en": "Question asking location.",
+      "romanization": "zài nǎlǐ",
+      "reading": "zài nǎlǐ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000012",
+      "english_id": "en:vcu100:china-sourcing:000012",
+      "english_sense_id": "china-sourcing-000012",
+      "kind": "word",
+      "text": "为什么",
+      "description_en": "Question asking for a reason.",
+      "romanization": "wèishénme",
+      "reading": "wèishénme",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000013",
+      "english_id": "en:vcu100:china-sourcing:000013",
+      "english_sense_id": "china-sourcing-000013",
+      "kind": "word",
+      "text": "怎么走",
+      "description_en": "Question asking for directions.",
+      "romanization": "zěnme zǒu",
+      "reading": "zěnme zǒu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000014",
+      "english_id": "en:vcu100:china-sourcing:000014",
+      "english_sense_id": "china-sourcing-000014",
+      "kind": "word",
+      "text": "帮忙",
+      "description_en": "To give assistance.",
+      "romanization": "bāngmáng",
+      "reading": "bāngmáng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000015",
+      "english_id": "en:vcu100:china-sourcing:000015",
+      "english_sense_id": "china-sourcing-000015",
+      "kind": "word",
+      "text": "翻译",
+      "description_en": "Translation or the act of translating.",
+      "romanization": "fānyì",
+      "reading": "fānyì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000016",
+      "english_id": "en:vcu100:china-sourcing:000016",
+      "english_sense_id": "china-sourcing-000016",
+      "kind": "word",
+      "text": "机场",
+      "description_en": "Airport.",
+      "romanization": "jīchǎng",
+      "reading": "jīchǎng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000017",
+      "english_id": "en:vcu100:china-sourcing:000017",
+      "english_sense_id": "china-sourcing-000017",
+      "kind": "word",
+      "text": "飞机",
+      "description_en": "Airplane.",
+      "romanization": "fēijī",
+      "reading": "fēijī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000018",
+      "english_id": "en:vcu100:china-sourcing:000018",
+      "english_sense_id": "china-sourcing-000018",
+      "kind": "word",
+      "text": "航班",
+      "description_en": "Scheduled airline flight.",
+      "romanization": "hángbān",
+      "reading": "hángbān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000019",
+      "english_id": "en:vcu100:china-sourcing:000019",
+      "english_sense_id": "china-sourcing-000019",
+      "kind": "word",
+      "text": "机票",
+      "description_en": "Airline ticket.",
+      "romanization": "jīpiào",
+      "reading": "jīpiào",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000020",
+      "english_id": "en:vcu100:china-sourcing:000020",
+      "english_sense_id": "china-sourcing-000020",
+      "kind": "word",
+      "text": "登机牌",
+      "description_en": "Boarding pass.",
+      "romanization": "dēngjīpái",
+      "reading": "dēngjīpái",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000021",
+      "english_id": "en:vcu100:china-sourcing:000021",
+      "english_sense_id": "china-sourcing-000021",
+      "kind": "word",
+      "text": "安检",
+      "description_en": "Security screening.",
+      "romanization": "ānjiǎn",
+      "reading": "ānjiǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000022",
+      "english_id": "en:vcu100:china-sourcing:000022",
+      "english_sense_id": "china-sourcing-000022",
+      "kind": "word",
+      "text": "行李",
+      "description_en": "Luggage.",
+      "romanization": "xíngli",
+      "reading": "xíngli",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000023",
+      "english_id": "en:vcu100:china-sourcing:000023",
+      "english_sense_id": "china-sourcing-000023",
+      "kind": "word",
+      "text": "托运行李",
+      "description_en": "Checked luggage.",
+      "romanization": "tuōyùn xíngli",
+      "reading": "tuōyùn xíngli",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000024",
+      "english_id": "en:vcu100:china-sourcing:000024",
+      "english_sense_id": "china-sourcing-000024",
+      "kind": "word",
+      "text": "海关",
+      "description_en": "Customs authority.",
+      "romanization": "hǎiguān",
+      "reading": "hǎiguān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000025",
+      "english_id": "en:vcu100:china-sourcing:000025",
+      "english_sense_id": "china-sourcing-000025",
+      "kind": "word",
+      "text": "护照",
+      "description_en": "Travel passport.",
+      "romanization": "hùzhào",
+      "reading": "hùzhào",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000026",
+      "english_id": "en:vcu100:china-sourcing:000026",
+      "english_sense_id": "china-sourcing-000026",
+      "kind": "word",
+      "text": "签证",
+      "description_en": "Visa authorizing entry under given conditions.",
+      "romanization": "qiānzhèng",
+      "reading": "qiānzhèng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000027",
+      "english_id": "en:vcu100:china-sourcing:000027",
+      "english_sense_id": "china-sourcing-000027",
+      "kind": "word",
+      "text": "火车站",
+      "description_en": "Railway station.",
+      "romanization": "huǒchēzhàn",
+      "reading": "huǒchēzhàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000028",
+      "english_id": "en:vcu100:china-sourcing:000028",
+      "english_sense_id": "china-sourcing-000028",
+      "kind": "word",
+      "text": "高铁",
+      "description_en": "High-speed rail service.",
+      "romanization": "gāotiě",
+      "reading": "gāotiě",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000029",
+      "english_id": "en:vcu100:china-sourcing:000029",
+      "english_sense_id": "china-sourcing-000029",
+      "kind": "word",
+      "text": "地铁",
+      "description_en": "Urban subway service.",
+      "romanization": "dìtiě",
+      "reading": "dìtiě",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000030",
+      "english_id": "en:vcu100:china-sourcing:000030",
+      "english_sense_id": "china-sourcing-000030",
+      "kind": "word",
+      "text": "公交车",
+      "description_en": "Public city bus.",
+      "romanization": "gōngjiāochē",
+      "reading": "gōngjiāochē",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000031",
+      "english_id": "en:vcu100:china-sourcing:000031",
+      "english_sense_id": "china-sourcing-000031",
+      "kind": "word",
+      "text": "出租车",
+      "description_en": "Taxi.",
+      "romanization": "chūzūchē",
+      "reading": "chūzūchē",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000032",
+      "english_id": "en:vcu100:china-sourcing:000032",
+      "english_sense_id": "china-sourcing-000032",
+      "kind": "word",
+      "text": "网约车",
+      "description_en": "Ride-hailing vehicle booked online.",
+      "romanization": "wǎngyuēchē",
+      "reading": "wǎngyuēchē",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000033",
+      "english_id": "en:vcu100:china-sourcing:000033",
+      "english_sense_id": "china-sourcing-000033",
+      "kind": "word",
+      "text": "车站",
+      "description_en": "Station or transport stop.",
+      "romanization": "chēzhàn",
+      "reading": "chēzhàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000034",
+      "english_id": "en:vcu100:china-sourcing:000034",
+      "english_sense_id": "china-sourcing-000034",
+      "kind": "word",
+      "text": "车票",
+      "description_en": "Ticket for a ride.",
+      "romanization": "chēpiào",
+      "reading": "chēpiào",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000035",
+      "english_id": "en:vcu100:china-sourcing:000035",
+      "english_sense_id": "china-sourcing-000035",
+      "kind": "word",
+      "text": "售票处",
+      "description_en": "Ticket sales counter.",
+      "romanization": "shòupiàochù",
+      "reading": "shòupiàochù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000036",
+      "english_id": "en:vcu100:china-sourcing:000036",
+      "english_sense_id": "china-sourcing-000036",
+      "kind": "word",
+      "text": "站台",
+      "description_en": "Platform at a train station.",
+      "romanization": "zhàntái",
+      "reading": "zhàntái",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000037",
+      "english_id": "en:vcu100:china-sourcing:000037",
+      "english_sense_id": "china-sourcing-000037",
+      "kind": "word",
+      "text": "出口",
+      "description_en": "Exit from a building or station.",
+      "romanization": "chūkǒu",
+      "reading": "chūkǒu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000038",
+      "english_id": "en:vcu100:china-sourcing:000038",
+      "english_sense_id": "china-sourcing-000038",
+      "kind": "word",
+      "text": "入口",
+      "description_en": "Entrance to a place.",
+      "romanization": "rùkǒu",
+      "reading": "rùkǒu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000039",
+      "english_id": "en:vcu100:china-sourcing:000039",
+      "english_sense_id": "china-sourcing-000039",
+      "kind": "word",
+      "text": "换乘",
+      "description_en": "Transfer from one transport service to another.",
+      "romanization": "huànchéng",
+      "reading": "huànchéng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000040",
+      "english_id": "en:vcu100:china-sourcing:000040",
+      "english_sense_id": "china-sourcing-000040",
+      "kind": "word",
+      "text": "地图",
+      "description_en": "Map.",
+      "romanization": "dìtú",
+      "reading": "dìtú",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000041",
+      "english_id": "en:vcu100:china-sourcing:000041",
+      "english_sense_id": "china-sourcing-000041",
+      "kind": "word",
+      "text": "路线",
+      "description_en": "Route of travel.",
+      "romanization": "lùxiàn",
+      "reading": "lùxiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000042",
+      "english_id": "en:vcu100:china-sourcing:000042",
+      "english_sense_id": "china-sourcing-000042",
+      "kind": "word",
+      "text": "方向",
+      "description_en": "Direction of movement.",
+      "romanization": "fāngxiàng",
+      "reading": "fāngxiàng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000043",
+      "english_id": "en:vcu100:china-sourcing:000043",
+      "english_sense_id": "china-sourcing-000043",
+      "kind": "word",
+      "text": "左边",
+      "description_en": "Left side.",
+      "romanization": "zuǒbian",
+      "reading": "zuǒbian",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000044",
+      "english_id": "en:vcu100:china-sourcing:000044",
+      "english_sense_id": "china-sourcing-000044",
+      "kind": "word",
+      "text": "右边",
+      "description_en": "Right side.",
+      "romanization": "yòubian",
+      "reading": "yòubian",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000045",
+      "english_id": "en:vcu100:china-sourcing:000045",
+      "english_sense_id": "china-sourcing-000045",
+      "kind": "word",
+      "text": "前面",
+      "description_en": "Place in front of something.",
+      "romanization": "qiánmiàn",
+      "reading": "qiánmiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000046",
+      "english_id": "en:vcu100:china-sourcing:000046",
+      "english_sense_id": "china-sourcing-000046",
+      "kind": "word",
+      "text": "后面",
+      "description_en": "Place behind something.",
+      "romanization": "hòumiàn",
+      "reading": "hòumiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000047",
+      "english_id": "en:vcu100:china-sourcing:000047",
+      "english_sense_id": "china-sourcing-000047",
+      "kind": "word",
+      "text": "附近",
+      "description_en": "Area near a location.",
+      "romanization": "fùjìn",
+      "reading": "fùjìn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000048",
+      "english_id": "en:vcu100:china-sourcing:000048",
+      "english_sense_id": "china-sourcing-000048",
+      "kind": "word",
+      "text": "酒店",
+      "description_en": "Hotel offering accommodation.",
+      "romanization": "jiǔdiàn",
+      "reading": "jiǔdiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000049",
+      "english_id": "en:vcu100:china-sourcing:000049",
+      "english_sense_id": "china-sourcing-000049",
+      "kind": "word",
+      "text": "宾馆",
+      "description_en": "Hotel or guesthouse, depending on context.",
+      "romanization": "bīnguǎn",
+      "reading": "bīnguǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000050",
+      "english_id": "en:vcu100:china-sourcing:000050",
+      "english_sense_id": "china-sourcing-000050",
+      "kind": "word",
+      "text": "房间",
+      "description_en": "Room.",
+      "romanization": "fángjiān",
+      "reading": "fángjiān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000051",
+      "english_id": "en:vcu100:china-sourcing:000051",
+      "english_sense_id": "china-sourcing-000051",
+      "kind": "word",
+      "text": "预订",
+      "description_en": "Reservation made in advance.",
+      "romanization": "yùdìng",
+      "reading": "yùdìng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000052",
+      "english_id": "en:vcu100:china-sourcing:000052",
+      "english_sense_id": "china-sourcing-000052",
+      "kind": "word",
+      "text": "入住",
+      "description_en": "Checking into accommodation.",
+      "romanization": "rùzhù",
+      "reading": "rùzhù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000053",
+      "english_id": "en:vcu100:china-sourcing:000053",
+      "english_sense_id": "china-sourcing-000053",
+      "kind": "word",
+      "text": "退房",
+      "description_en": "Checking out and leaving a room.",
+      "romanization": "tuìfáng",
+      "reading": "tuìfáng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000054",
+      "english_id": "en:vcu100:china-sourcing:000054",
+      "english_sense_id": "china-sourcing-000054",
+      "kind": "word",
+      "text": "前台",
+      "description_en": "Hotel reception desk.",
+      "romanization": "qiántái",
+      "reading": "qiántái",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000055",
+      "english_id": "en:vcu100:china-sourcing:000055",
+      "english_sense_id": "china-sourcing-000055",
+      "kind": "word",
+      "text": "钥匙",
+      "description_en": "Key to a room or door.",
+      "romanization": "yàoshi",
+      "reading": "yàoshi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000056",
+      "english_id": "en:vcu100:china-sourcing:000056",
+      "english_sense_id": "china-sourcing-000056",
+      "kind": "word",
+      "text": "空调",
+      "description_en": "Air conditioning system.",
+      "romanization": "kōngtiáo",
+      "reading": "kōngtiáo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000057",
+      "english_id": "en:vcu100:china-sourcing:000057",
+      "english_sense_id": "china-sourcing-000057",
+      "kind": "word",
+      "text": "热水",
+      "description_en": "Hot water.",
+      "romanization": "rèshuǐ",
+      "reading": "rèshuǐ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000058",
+      "english_id": "en:vcu100:china-sourcing:000058",
+      "english_sense_id": "china-sourcing-000058",
+      "kind": "word",
+      "text": "商店",
+      "description_en": "Retail shop.",
+      "romanization": "shāngdiàn",
+      "reading": "shāngdiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000059",
+      "english_id": "en:vcu100:china-sourcing:000059",
+      "english_sense_id": "china-sourcing-000059",
+      "kind": "word",
+      "text": "市场",
+      "description_en": "Market where goods are sold.",
+      "romanization": "shìchǎng",
+      "reading": "shìchǎng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000060",
+      "english_id": "en:vcu100:china-sourcing:000060",
+      "english_sense_id": "china-sourcing-000060",
+      "kind": "word",
+      "text": "超市",
+      "description_en": "Supermarket.",
+      "romanization": "chāoshì",
+      "reading": "chāoshì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000061",
+      "english_id": "en:vcu100:china-sourcing:000061",
+      "english_sense_id": "china-sourcing-000061",
+      "kind": "word",
+      "text": "商场",
+      "description_en": "Large shopping complex.",
+      "romanization": "shāngchǎng",
+      "reading": "shāngchǎng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000062",
+      "english_id": "en:vcu100:china-sourcing:000062",
+      "english_sense_id": "china-sourcing-000062",
+      "kind": "word",
+      "text": "价格",
+      "description_en": "Price of a product or service.",
+      "romanization": "jiàgé",
+      "reading": "jiàgé",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000063",
+      "english_id": "en:vcu100:china-sourcing:000063",
+      "english_sense_id": "china-sourcing-000063",
+      "kind": "word",
+      "text": "便宜",
+      "description_en": "Low in price.",
+      "romanization": "piányi",
+      "reading": "piányi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000064",
+      "english_id": "en:vcu100:china-sourcing:000064",
+      "english_sense_id": "china-sourcing-000064",
+      "kind": "word",
+      "text": "贵",
+      "description_en": "High in price.",
+      "romanization": "guì",
+      "reading": "guì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000065",
+      "english_id": "en:vcu100:china-sourcing:000065",
+      "english_sense_id": "china-sourcing-000065",
+      "kind": "word",
+      "text": "折扣",
+      "description_en": "Reduction from a listed price.",
+      "romanization": "zhékòu",
+      "reading": "zhékòu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000066",
+      "english_id": "en:vcu100:china-sourcing:000066",
+      "english_sense_id": "china-sourcing-000066",
+      "kind": "word",
+      "text": "优惠",
+      "description_en": "Preferential price or benefit.",
+      "romanization": "yōuhuì",
+      "reading": "yōuhuì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000067",
+      "english_id": "en:vcu100:china-sourcing:000067",
+      "english_sense_id": "china-sourcing-000067",
+      "kind": "word",
+      "text": "现金",
+      "description_en": "Physical cash.",
+      "romanization": "xiànjīn",
+      "reading": "xiànjīn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000068",
+      "english_id": "en:vcu100:china-sourcing:000068",
+      "english_sense_id": "china-sourcing-000068",
+      "kind": "word",
+      "text": "信用卡",
+      "description_en": "Credit card.",
+      "romanization": "xìnyòngkǎ",
+      "reading": "xìnyòngkǎ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000069",
+      "english_id": "en:vcu100:china-sourcing:000069",
+      "english_sense_id": "china-sourcing-000069",
+      "kind": "word",
+      "text": "二维码",
+      "description_en": "Two-dimensional machine-readable code.",
+      "romanization": "èrwéimǎ",
+      "reading": "èrwéimǎ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000070",
+      "english_id": "en:vcu100:china-sourcing:000070",
+      "english_sense_id": "china-sourcing-000070",
+      "kind": "word",
+      "text": "扫码支付",
+      "description_en": "Payment made by scanning a code.",
+      "romanization": "sǎomǎ zhīfù",
+      "reading": "sǎomǎ zhīfù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000071",
+      "english_id": "en:vcu100:china-sourcing:000071",
+      "english_sense_id": "china-sourcing-000071",
+      "kind": "word",
+      "text": "微信支付",
+      "description_en": "Mobile payment service.",
+      "romanization": "Wēixìn Zhīfù",
+      "reading": "Wēixìn Zhīfù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000072",
+      "english_id": "en:vcu100:china-sourcing:000072",
+      "english_sense_id": "china-sourcing-000072",
+      "kind": "word",
+      "text": "支付宝",
+      "description_en": "Mobile payment service.",
+      "romanization": "Zhīfùbǎo",
+      "reading": "Zhīfùbǎo",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000073",
+      "english_id": "en:vcu100:china-sourcing:000073",
+      "english_sense_id": "china-sourcing-000073",
+      "kind": "word",
+      "text": "发票",
+      "description_en": "Official tax invoice under Chinese invoicing systems.",
+      "romanization": "fāpiào",
+      "reading": "fāpiào",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000074",
+      "english_id": "en:vcu100:china-sourcing:000074",
+      "english_sense_id": "china-sourcing-000074",
+      "kind": "word",
+      "text": "收据",
+      "description_en": "Receipt recording a payment.",
+      "romanization": "shōujù",
+      "reading": "shōujù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000075",
+      "english_id": "en:vcu100:china-sourcing:000075",
+      "english_sense_id": "china-sourcing-000075",
+      "kind": "word",
+      "text": "退款",
+      "description_en": "Return of money to a customer.",
+      "romanization": "tuìkuǎn",
+      "reading": "tuìkuǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000076",
+      "english_id": "en:vcu100:china-sourcing:000076",
+      "english_sense_id": "china-sourcing-000076",
+      "kind": "word",
+      "text": "退货",
+      "description_en": "Returning purchased goods to a seller.",
+      "romanization": "tuìhuò",
+      "reading": "tuìhuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000077",
+      "english_id": "en:vcu100:china-sourcing:000077",
+      "english_sense_id": "china-sourcing-000077",
+      "kind": "word",
+      "text": "换货",
+      "description_en": "Exchanging a purchased item.",
+      "romanization": "huànhuò",
+      "reading": "huànhuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000078",
+      "english_id": "en:vcu100:china-sourcing:000078",
+      "english_sense_id": "china-sourcing-000078",
+      "kind": "word",
+      "text": "商品",
+      "description_en": "Goods offered for sale.",
+      "romanization": "shāngpǐn",
+      "reading": "shāngpǐn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000079",
+      "english_id": "en:vcu100:china-sourcing:000079",
+      "english_sense_id": "china-sourcing-000079",
+      "kind": "word",
+      "text": "产品",
+      "description_en": "Product created or offered by a company.",
+      "romanization": "chǎnpǐn",
+      "reading": "chǎnpǐn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000080",
+      "english_id": "en:vcu100:china-sourcing:000080",
+      "english_sense_id": "china-sourcing-000080",
+      "kind": "word",
+      "text": "质量",
+      "description_en": "Degree to which a product meets requirements.",
+      "romanization": "zhìliàng",
+      "reading": "zhìliàng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000081",
+      "english_id": "en:vcu100:china-sourcing:000081",
+      "english_sense_id": "china-sourcing-000081",
+      "kind": "word",
+      "text": "尺寸",
+      "description_en": "Physical size.",
+      "romanization": "chǐcùn",
+      "reading": "chǐcùn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000082",
+      "english_id": "en:vcu100:china-sourcing:000082",
+      "english_sense_id": "china-sourcing-000082",
+      "kind": "word",
+      "text": "颜色",
+      "description_en": "Color of an item.",
+      "romanization": "yánsè",
+      "reading": "yánsè",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000083",
+      "english_id": "en:vcu100:china-sourcing:000083",
+      "english_sense_id": "china-sourcing-000083",
+      "kind": "word",
+      "text": "采购",
+      "description_en": "Procurement or sourcing of goods.",
+      "romanization": "cǎigòu",
+      "reading": "cǎigòu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000084",
+      "english_id": "en:vcu100:china-sourcing:000084",
+      "english_sense_id": "china-sourcing-000084",
+      "kind": "word",
+      "text": "供应商",
+      "description_en": "Supplier of goods or services.",
+      "romanization": "gōngyìngshāng",
+      "reading": "gōngyìngshāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000085",
+      "english_id": "en:vcu100:china-sourcing:000085",
+      "english_sense_id": "china-sourcing-000085",
+      "kind": "word",
+      "text": "工厂",
+      "description_en": "Factory producing goods.",
+      "romanization": "gōngchǎng",
+      "reading": "gōngchǎng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000086",
+      "english_id": "en:vcu100:china-sourcing:000086",
+      "english_sense_id": "china-sourcing-000086",
+      "kind": "word",
+      "text": "制造商",
+      "description_en": "Manufacturer of products.",
+      "romanization": "zhìzàoshāng",
+      "reading": "zhìzàoshāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000087",
+      "english_id": "en:vcu100:china-sourcing:000087",
+      "english_sense_id": "china-sourcing-000087",
+      "kind": "word",
+      "text": "贸易公司",
+      "description_en": "Trading company buying and selling goods.",
+      "romanization": "màoyì gōngsī",
+      "reading": "màoyì gōngsī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000088",
+      "english_id": "en:vcu100:china-sourcing:000088",
+      "english_sense_id": "china-sourcing-000088",
+      "kind": "word",
+      "text": "批发",
+      "description_en": "Wholesale trade.",
+      "romanization": "pīfā",
+      "reading": "pīfā",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000089",
+      "english_id": "en:vcu100:china-sourcing:000089",
+      "english_sense_id": "china-sourcing-000089",
+      "kind": "word",
+      "text": "零售",
+      "description_en": "Retail trade.",
+      "romanization": "língshòu",
+      "reading": "língshòu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000090",
+      "english_id": "en:vcu100:china-sourcing:000090",
+      "english_sense_id": "china-sourcing-000090",
+      "kind": "word",
+      "text": "批发商",
+      "description_en": "Wholesale merchant.",
+      "romanization": "pīfāshāng",
+      "reading": "pīfāshāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000091",
+      "english_id": "en:vcu100:china-sourcing:000091",
+      "english_sense_id": "china-sourcing-000091",
+      "kind": "word",
+      "text": "买方",
+      "description_en": "Buying party in a transaction.",
+      "romanization": "mǎifāng",
+      "reading": "mǎifāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000092",
+      "english_id": "en:vcu100:china-sourcing:000092",
+      "english_sense_id": "china-sourcing-000092",
+      "kind": "word",
+      "text": "卖方",
+      "description_en": "Selling party in a transaction.",
+      "romanization": "màifāng",
+      "reading": "màifāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000093",
+      "english_id": "en:vcu100:china-sourcing:000093",
+      "english_sense_id": "china-sourcing-000093",
+      "kind": "word",
+      "text": "报价",
+      "description_en": "Quoted price or offer.",
+      "romanization": "bàojià",
+      "reading": "bàojià",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000094",
+      "english_id": "en:vcu100:china-sourcing:000094",
+      "english_sense_id": "china-sourcing-000094",
+      "kind": "word",
+      "text": "单价",
+      "description_en": "Price for one unit of a product.",
+      "romanization": "dānjià",
+      "reading": "dānjià",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000095",
+      "english_id": "en:vcu100:china-sourcing:000095",
+      "english_sense_id": "china-sourcing-000095",
+      "kind": "word",
+      "text": "总价",
+      "description_en": "Total price of an order.",
+      "romanization": "zǒngjià",
+      "reading": "zǒngjià",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000096",
+      "english_id": "en:vcu100:china-sourcing:000096",
+      "english_sense_id": "china-sourcing-000096",
+      "kind": "word",
+      "text": "样品",
+      "description_en": "Product sample for inspection.",
+      "romanization": "yàngpǐn",
+      "reading": "yàngpǐn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000097",
+      "english_id": "en:vcu100:china-sourcing:000097",
+      "english_sense_id": "china-sourcing-000097",
+      "kind": "word",
+      "text": "样品费",
+      "description_en": "Charge for producing or sending a sample.",
+      "romanization": "yàngpǐnfèi",
+      "reading": "yàngpǐnfèi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000098",
+      "english_id": "en:vcu100:china-sourcing:000098",
+      "english_sense_id": "china-sourcing-000098",
+      "kind": "word",
+      "text": "起订量",
+      "description_en": "Minimum amount that can be ordered.",
+      "romanization": "qǐdìngliàng",
+      "reading": "qǐdìngliàng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000099",
+      "english_id": "en:vcu100:china-sourcing:000099",
+      "english_sense_id": "china-sourcing-000099",
+      "kind": "word",
+      "text": "最低起订量",
+      "description_en": "Supplier's minimum order quantity.",
+      "romanization": "zuìdī qǐdìngliàng",
+      "reading": "zuìdī qǐdìngliàng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000100",
+      "english_id": "en:vcu100:china-sourcing:000100",
+      "english_sense_id": "china-sourcing-000100",
+      "kind": "word",
+      "text": "订购",
+      "description_en": "Place an order for goods.",
+      "romanization": "dìnggòu",
+      "reading": "dìnggòu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000101",
+      "english_id": "en:vcu100:china-sourcing:000101",
+      "english_sense_id": "china-sourcing-000101",
+      "kind": "word",
+      "text": "订单",
+      "description_en": "Commercial order.",
+      "romanization": "dìngdān",
+      "reading": "dìngdān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000102",
+      "english_id": "en:vcu100:china-sourcing:000102",
+      "english_sense_id": "china-sourcing-000102",
+      "kind": "word",
+      "text": "合同",
+      "description_en": "Contract between parties.",
+      "romanization": "hétong",
+      "reading": "hétong",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000103",
+      "english_id": "en:vcu100:china-sourcing:000103",
+      "english_sense_id": "china-sourcing-000103",
+      "kind": "word",
+      "text": "付款",
+      "description_en": "Payment for an order.",
+      "romanization": "fùkuǎn",
+      "reading": "fùkuǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000104",
+      "english_id": "en:vcu100:china-sourcing:000104",
+      "english_sense_id": "china-sourcing-000104",
+      "kind": "word",
+      "text": "定金",
+      "description_en": "Deposit made as part of an agreement.",
+      "romanization": "dìngjīn",
+      "reading": "dìngjīn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000105",
+      "english_id": "en:vcu100:china-sourcing:000105",
+      "english_sense_id": "china-sourcing-000105",
+      "kind": "word",
+      "text": "尾款",
+      "description_en": "Remaining amount to be paid.",
+      "romanization": "wěikuǎn",
+      "reading": "wěikuǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000106",
+      "english_id": "en:vcu100:china-sourcing:000106",
+      "english_sense_id": "china-sourcing-000106",
+      "kind": "word",
+      "text": "交货期",
+      "description_en": "Agreed delivery date or lead time.",
+      "romanization": "jiāohuòqī",
+      "reading": "jiāohuòqī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000107",
+      "english_id": "en:vcu100:china-sourcing:000107",
+      "english_sense_id": "china-sourcing-000107",
+      "kind": "word",
+      "text": "交期",
+      "description_en": "Shortened business term for delivery schedule.",
+      "romanization": "jiāoqī",
+      "reading": "jiāoqī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000108",
+      "english_id": "en:vcu100:china-sourcing:000108",
+      "english_sense_id": "china-sourcing-000108",
+      "kind": "word",
+      "text": "库存",
+      "description_en": "Goods held in stock.",
+      "romanization": "kùcún",
+      "reading": "kùcún",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000109",
+      "english_id": "en:vcu100:china-sourcing:000109",
+      "english_sense_id": "china-sourcing-000109",
+      "kind": "word",
+      "text": "缺货",
+      "description_en": "Out-of-stock condition.",
+      "romanization": "quēhuò",
+      "reading": "quēhuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000110",
+      "english_id": "en:vcu100:china-sourcing:000110",
+      "english_sense_id": "china-sourcing-000110",
+      "kind": "word",
+      "text": "包装",
+      "description_en": "Packing of a product.",
+      "romanization": "bāozhuāng",
+      "reading": "bāozhuāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000111",
+      "english_id": "en:vcu100:china-sourcing:000111",
+      "english_sense_id": "china-sourcing-000111",
+      "kind": "word",
+      "text": "定制",
+      "description_en": "Making a product to a customer's specifications.",
+      "romanization": "dìngzhì",
+      "reading": "dìngzhì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000112",
+      "english_id": "en:vcu100:china-sourcing:000112",
+      "english_sense_id": "china-sourcing-000112",
+      "kind": "word",
+      "text": "贴牌",
+      "description_en": "Private-label branding.",
+      "romanization": "tiēpái",
+      "reading": "tiēpái",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000113",
+      "english_id": "en:vcu100:china-sourcing:000113",
+      "english_sense_id": "china-sourcing-000113",
+      "kind": "word",
+      "text": "展会",
+      "description_en": "Business trade exhibition.",
+      "romanization": "zhǎnhuì",
+      "reading": "zhǎnhuì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000114",
+      "english_id": "en:vcu100:china-sourcing:000114",
+      "english_sense_id": "china-sourcing-000114",
+      "kind": "word",
+      "text": "展览",
+      "description_en": "Public or commercial exhibition.",
+      "romanization": "zhǎnlǎn",
+      "reading": "zhǎnlǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000115",
+      "english_id": "en:vcu100:china-sourcing:000115",
+      "english_sense_id": "china-sourcing-000115",
+      "kind": "word",
+      "text": "展馆",
+      "description_en": "Building hosting exhibitions.",
+      "romanization": "zhǎnguǎn",
+      "reading": "zhǎnguǎn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000116",
+      "english_id": "en:vcu100:china-sourcing:000116",
+      "english_sense_id": "china-sourcing-000116",
+      "kind": "word",
+      "text": "展位",
+      "description_en": "Booth or exhibition stand.",
+      "romanization": "zhǎnwèi",
+      "reading": "zhǎnwèi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000117",
+      "english_id": "en:vcu100:china-sourcing:000117",
+      "english_sense_id": "china-sourcing-000117",
+      "kind": "word",
+      "text": "参展商",
+      "description_en": "Company participating as an exhibitor.",
+      "romanization": "cānzhǎnshāng",
+      "reading": "cānzhǎnshāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000118",
+      "english_id": "en:vcu100:china-sourcing:000118",
+      "english_sense_id": "china-sourcing-000118",
+      "kind": "word",
+      "text": "采购商",
+      "description_en": "Commercial buyer attending a trade show.",
+      "romanization": "cǎigòushāng",
+      "reading": "cǎigòushāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000119",
+      "english_id": "en:vcu100:china-sourcing:000119",
+      "english_sense_id": "china-sourcing-000119",
+      "kind": "word",
+      "text": "名片",
+      "description_en": "Business card.",
+      "romanization": "míngpiàn",
+      "reading": "míngpiàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000120",
+      "english_id": "en:vcu100:china-sourcing:000120",
+      "english_sense_id": "china-sourcing-000120",
+      "kind": "word",
+      "text": "联系方式",
+      "description_en": "Means of contacting someone.",
+      "romanization": "liánxì fāngshì",
+      "reading": "liánxì fāngshì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000121",
+      "english_id": "en:vcu100:china-sourcing:000121",
+      "english_sense_id": "china-sourcing-000121",
+      "kind": "word",
+      "text": "公司",
+      "description_en": "Business company.",
+      "romanization": "gōngsī",
+      "reading": "gōngsī",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000122",
+      "english_id": "en:vcu100:china-sourcing:000122",
+      "english_sense_id": "china-sourcing-000122",
+      "kind": "word",
+      "text": "经理",
+      "description_en": "Manager in an organization.",
+      "romanization": "jīnglǐ",
+      "reading": "jīnglǐ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000123",
+      "english_id": "en:vcu100:china-sourcing:000123",
+      "english_sense_id": "china-sourcing-000123",
+      "kind": "word",
+      "text": "业务员",
+      "description_en": "Sales or business representative.",
+      "romanization": "yèwùyuán",
+      "reading": "yèwùyuán",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000124",
+      "english_id": "en:vcu100:china-sourcing:000124",
+      "english_sense_id": "china-sourcing-000124",
+      "kind": "word",
+      "text": "经理办公室",
+      "description_en": "Manager's office.",
+      "romanization": "jīnglǐ bàngōngshì",
+      "reading": "jīnglǐ bàngōngshì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000125",
+      "english_id": "en:vcu100:china-sourcing:000125",
+      "english_sense_id": "china-sourcing-000125",
+      "kind": "word",
+      "text": "商务谈判",
+      "description_en": "Negotiation over business terms.",
+      "romanization": "shāngwù tánpàn",
+      "reading": "shāngwù tánpàn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000126",
+      "english_id": "en:vcu100:china-sourcing:000126",
+      "english_sense_id": "china-sourcing-000126",
+      "kind": "word",
+      "text": "合作",
+      "description_en": "Working together in business.",
+      "romanization": "hézuò",
+      "reading": "hézuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000127",
+      "english_id": "en:vcu100:china-sourcing:000127",
+      "english_sense_id": "china-sourcing-000127",
+      "kind": "word",
+      "text": "协议",
+      "description_en": "Agreement between parties.",
+      "romanization": "xiéyì",
+      "reading": "xiéyì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000128",
+      "english_id": "en:vcu100:china-sourcing:000128",
+      "english_sense_id": "china-sourcing-000128",
+      "kind": "word",
+      "text": "签字",
+      "description_en": "To sign a document.",
+      "romanization": "qiānzì",
+      "reading": "qiānzì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000129",
+      "english_id": "en:vcu100:china-sourcing:000129",
+      "english_sense_id": "china-sourcing-000129",
+      "kind": "word",
+      "text": "货物",
+      "description_en": "Goods being transported.",
+      "romanization": "huòwù",
+      "reading": "huòwù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000130",
+      "english_id": "en:vcu100:china-sourcing:000130",
+      "english_sense_id": "china-sourcing-000130",
+      "kind": "word",
+      "text": "货柜",
+      "description_en": "Shipping container, common in commerce.",
+      "romanization": "huòguì",
+      "reading": "huòguì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000131",
+      "english_id": "en:vcu100:china-sourcing:000131",
+      "english_sense_id": "china-sourcing-000131",
+      "kind": "word",
+      "text": "集装箱",
+      "description_en": "Standard freight container.",
+      "romanization": "jízhuāngxiāng",
+      "reading": "jízhuāngxiāng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000132",
+      "english_id": "en:vcu100:china-sourcing:000132",
+      "english_sense_id": "china-sourcing-000132",
+      "kind": "word",
+      "text": "海运",
+      "description_en": "Transporting goods by sea.",
+      "romanization": "hǎiyùn",
+      "reading": "hǎiyùn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000133",
+      "english_id": "en:vcu100:china-sourcing:000133",
+      "english_sense_id": "china-sourcing-000133",
+      "kind": "word",
+      "text": "空运",
+      "description_en": "Transporting goods by air.",
+      "romanization": "kōngyùn",
+      "reading": "kōngyùn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000134",
+      "english_id": "en:vcu100:china-sourcing:000134",
+      "english_sense_id": "china-sourcing-000134",
+      "kind": "word",
+      "text": "陆运",
+      "description_en": "Transporting goods by land.",
+      "romanization": "lùyùn",
+      "reading": "lùyùn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000135",
+      "english_id": "en:vcu100:china-sourcing:000135",
+      "english_sense_id": "china-sourcing-000135",
+      "kind": "word",
+      "text": "物流",
+      "description_en": "Movement and management of goods.",
+      "romanization": "wùliú",
+      "reading": "wùliú",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000136",
+      "english_id": "en:vcu100:china-sourcing:000136",
+      "english_sense_id": "china-sourcing-000136",
+      "kind": "word",
+      "text": "运输",
+      "description_en": "Movement of goods or people.",
+      "romanization": "yùnshū",
+      "reading": "yùnshū",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000137",
+      "english_id": "en:vcu100:china-sourcing:000137",
+      "english_sense_id": "china-sourcing-000137",
+      "kind": "word",
+      "text": "快递",
+      "description_en": "Courier or express delivery service.",
+      "romanization": "kuàidì",
+      "reading": "kuàidì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000138",
+      "english_id": "en:vcu100:china-sourcing:000138",
+      "english_sense_id": "china-sourcing-000138",
+      "kind": "word",
+      "text": "仓库",
+      "description_en": "Warehouse for storing products.",
+      "romanization": "cāngkù",
+      "reading": "cāngkù",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000139",
+      "english_id": "en:vcu100:china-sourcing:000139",
+      "english_sense_id": "china-sourcing-000139",
+      "kind": "word",
+      "text": "发货",
+      "description_en": "Send ordered goods for delivery.",
+      "romanization": "fāhuò",
+      "reading": "fāhuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000140",
+      "english_id": "en:vcu100:china-sourcing:000140",
+      "english_sense_id": "china-sourcing-000140",
+      "kind": "word",
+      "text": "收货",
+      "description_en": "Receive a delivery of goods.",
+      "romanization": "shōuhuò",
+      "reading": "shōuhuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000141",
+      "english_id": "en:vcu100:china-sourcing:000141",
+      "english_sense_id": "china-sourcing-000141",
+      "kind": "word",
+      "text": "目的地",
+      "description_en": "Destination for travel or shipping.",
+      "romanization": "mùdìdì",
+      "reading": "mùdìdì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000142",
+      "english_id": "en:vcu100:china-sourcing:000142",
+      "english_sense_id": "china-sourcing-000142",
+      "kind": "word",
+      "text": "地址",
+      "description_en": "Address of a place.",
+      "romanization": "dìzhǐ",
+      "reading": "dìzhǐ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000143",
+      "english_id": "en:vcu100:china-sourcing:000143",
+      "english_sense_id": "china-sourcing-000143",
+      "kind": "word",
+      "text": "邮政编码",
+      "description_en": "Postal code.",
+      "romanization": "yóuzhèng biānmǎ",
+      "reading": "yóuzhèng biānmǎ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000144",
+      "english_id": "en:vcu100:china-sourcing:000144",
+      "english_sense_id": "china-sourcing-000144",
+      "kind": "word",
+      "text": "进口",
+      "description_en": "Importation of goods.",
+      "romanization": "jìnkǒu",
+      "reading": "jìnkǒu",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000145",
+      "english_id": "en:vcu100:china-sourcing:000145",
+      "english_sense_id": "china-sourcing-000145",
+      "kind": "word",
+      "text": "出口贸易",
+      "description_en": "Trade involving exported goods.",
+      "romanization": "chūkǒu màoyì",
+      "reading": "chūkǒu màoyì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000146",
+      "english_id": "en:vcu100:china-sourcing:000146",
+      "english_sense_id": "china-sourcing-000146",
+      "kind": "word",
+      "text": "清关",
+      "description_en": "Customs clearance procedure.",
+      "romanization": "qīngguān",
+      "reading": "qīngguān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000147",
+      "english_id": "en:vcu100:china-sourcing:000147",
+      "english_sense_id": "china-sourcing-000147",
+      "kind": "word",
+      "text": "报关",
+      "description_en": "Customs declaration.",
+      "romanization": "bàoguān",
+      "reading": "bàoguān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000148",
+      "english_id": "en:vcu100:china-sourcing:000148",
+      "english_sense_id": "china-sourcing-000148",
+      "kind": "word",
+      "text": "关税",
+      "description_en": "Customs duty.",
+      "romanization": "guānshuì",
+      "reading": "guānshuì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000149",
+      "english_id": "en:vcu100:china-sourcing:000149",
+      "english_sense_id": "china-sourcing-000149",
+      "kind": "word",
+      "text": "运费",
+      "description_en": "Freight transportation cost.",
+      "romanization": "yùnfèi",
+      "reading": "yùnfèi",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000150",
+      "english_id": "en:vcu100:china-sourcing:000150",
+      "english_sense_id": "china-sourcing-000150",
+      "kind": "word",
+      "text": "提单",
+      "description_en": "Bill of lading.",
+      "romanization": "tídān",
+      "reading": "tídān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000151",
+      "english_id": "en:vcu100:china-sourcing:000151",
+      "english_sense_id": "china-sourcing-000151",
+      "kind": "word",
+      "text": "装箱单",
+      "description_en": "Packing list for shipment.",
+      "romanization": "zhuāngxiāngdān",
+      "reading": "zhuāngxiāngdān",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000152",
+      "english_id": "en:vcu100:china-sourcing:000152",
+      "english_sense_id": "china-sourcing-000152",
+      "kind": "word",
+      "text": "发票号码",
+      "description_en": "Invoice number.",
+      "romanization": "fāpiào hàomǎ",
+      "reading": "fāpiào hàomǎ",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000153",
+      "english_id": "en:vcu100:china-sourcing:000153",
+      "english_sense_id": "china-sourcing-000153",
+      "kind": "word",
+      "text": "交货",
+      "description_en": "Delivery of ordered goods.",
+      "romanization": "jiāohuò",
+      "reading": "jiāohuò",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000154",
+      "english_id": "en:vcu100:china-sourcing:000154",
+      "english_sense_id": "china-sourcing-000154",
+      "kind": "word",
+      "text": "延迟",
+      "description_en": "Delay in an action or delivery.",
+      "romanization": "yánchí",
+      "reading": "yánchí",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000155",
+      "english_id": "en:vcu100:china-sourcing:000155",
+      "english_sense_id": "china-sourcing-000155",
+      "kind": "expression",
+      "text": "我想看样品",
+      "description_en": "Request to inspect a sample.",
+      "romanization": "wǒ xiǎng kàn yàngpǐn",
+      "reading": "wǒ xiǎng kàn yàngpǐn",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000156",
+      "english_id": "en:vcu100:china-sourcing:000156",
+      "english_sense_id": "china-sourcing-000156",
+      "kind": "expression",
+      "text": "可以便宜一点吗？",
+      "description_en": "Question asking for a lower price.",
+      "romanization": "kěyǐ piányi yìdiǎn ma?",
+      "reading": "kěyǐ piányi yìdiǎn ma?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000157",
+      "english_id": "en:vcu100:china-sourcing:000157",
+      "english_sense_id": "china-sourcing-000157",
+      "kind": "expression",
+      "text": "最低起订量是多少？",
+      "description_en": "Question asking minimum order quantity.",
+      "romanization": "zuìdī qǐdìngliàng shì duōshao?",
+      "reading": "zuìdī qǐdìngliàng shì duōshao?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000158",
+      "english_id": "en:vcu100:china-sourcing:000158",
+      "english_sense_id": "china-sourcing-000158",
+      "kind": "expression",
+      "text": "交货期是多久？",
+      "description_en": "Question asking lead time.",
+      "romanization": "jiāohuòqī shì duōjiǔ?",
+      "reading": "jiāohuòqī shì duōjiǔ?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000159",
+      "english_id": "en:vcu100:china-sourcing:000159",
+      "english_sense_id": "china-sourcing-000159",
+      "kind": "expression",
+      "text": "可以用信用卡吗？",
+      "description_en": "Question about card payment.",
+      "romanization": "kěyǐ yòng xìnyòngkǎ ma?",
+      "reading": "kěyǐ yòng xìnyòngkǎ ma?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000160",
+      "english_id": "en:vcu100:china-sourcing:000160",
+      "english_sense_id": "china-sourcing-000160",
+      "kind": "expression",
+      "text": "请给我报价",
+      "description_en": "Request for a price quotation.",
+      "romanization": "qǐng gěi wǒ bàojià",
+      "reading": "qǐng gěi wǒ bàojià",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000161",
+      "english_id": "en:vcu100:china-sourcing:000161",
+      "english_sense_id": "china-sourcing-000161",
+      "kind": "expression",
+      "text": "你们是制造商吗？",
+      "description_en": "Question asking whether seller manufactures products.",
+      "romanization": "nǐmen shì zhìzàoshāng ma?",
+      "reading": "nǐmen shì zhìzàoshāng ma?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000162",
+      "english_id": "en:vcu100:china-sourcing:000162",
+      "english_sense_id": "china-sourcing-000162",
+      "kind": "expression",
+      "text": "我想参观工厂",
+      "description_en": "Request to visit a production facility.",
+      "romanization": "wǒ xiǎng cānguān gōngchǎng",
+      "reading": "wǒ xiǎng cānguān gōngchǎng",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000163",
+      "english_id": "en:vcu100:china-sourcing:000163",
+      "english_sense_id": "china-sourcing-000163",
+      "kind": "expression",
+      "text": "请写下来",
+      "description_en": "Request for someone to write something down.",
+      "romanization": "qǐng xiě xiàlái",
+      "reading": "qǐng xiě xiàlái",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000164",
+      "english_id": "en:vcu100:china-sourcing:000164",
+      "english_sense_id": "china-sourcing-000164",
+      "kind": "expression",
+      "text": "有英文说明吗？",
+      "description_en": "Question asking for English instructions.",
+      "romanization": "yǒu Yīngwén shuōmíng ma?",
+      "reading": "yǒu Yīngwén shuōmíng ma?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000165",
+      "english_id": "en:vcu100:china-sourcing:000165",
+      "english_sense_id": "china-sourcing-000165",
+      "kind": "expression",
+      "text": "我需要翻译",
+      "description_en": "Statement of requiring translation assistance.",
+      "romanization": "wǒ xūyào fānyì",
+      "reading": "wǒ xūyào fānyì",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000166",
+      "english_id": "en:vcu100:china-sourcing:000166",
+      "english_sense_id": "china-sourcing-000166",
+      "kind": "expression",
+      "text": "能发邮件吗？",
+      "description_en": "Question asking to send an email.",
+      "romanization": "néng fā yóujiàn ma?",
+      "reading": "néng fā yóujiàn ma?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000167",
+      "english_id": "en:vcu100:china-sourcing:000167",
+      "english_sense_id": "china-sourcing-000167",
+      "kind": "expression",
+      "text": "这个在哪里？",
+      "description_en": "Question asking where an item is.",
+      "romanization": "zhège zài nǎlǐ?",
+      "reading": "zhège zài nǎlǐ?",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "zh:vcu100:china-sourcing:000168",
+      "english_id": "en:vcu100:china-sourcing:000168",
+      "english_sense_id": "china-sourcing-000168",
+      "kind": "expression",
+      "text": "请帮我叫车",
+      "description_en": "Request for transportation assistance.",
+      "romanization": "qǐng bāng wǒ jiào chē",
+      "reading": "qǐng bāng wǒ jiào chē",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    }
+  ]
+}
