@@ -1,0 +1,2556 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-zh-sourcing-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-zh-sourcing",
+  "name": "VCU100 — Mandarim para Turismo e Negócios (par PT-BR)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "china_tourism_sourcing",
+  "companion_package_id": "vcu100-zh-tourism-sourcing",
+  "license": "Original ISHIDA MULTILANG editorial content (2026); business terminology checked against public references.",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/china-tourism-sourcing-zh-pt-BR-001.json"
+  ],
+  "notes": [
+    "168 simplified Mandarin terms with tone-marked Pinyin and PT-BR equivalents.",
+    "Business/financial phrases are vocabulary not trade legal advice.",
+    "PT-BR companion is needed to study directly from Brazilian Portuguese."
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000001",
+      "english_id": "en:vcu100:china-sourcing:000001",
+      "english_sense_id": "china-sourcing-000001",
+      "kind": "word",
+      "text": "olá",
+      "description_en": "Standard greeting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000002",
+      "english_id": "en:vcu100:china-sourcing:000002",
+      "english_sense_id": "china-sourcing-000002",
+      "kind": "word",
+      "text": "obrigado",
+      "description_en": "Polite expression of thanks.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000003",
+      "english_id": "en:vcu100:china-sourcing:000003",
+      "english_sense_id": "china-sourcing-000003",
+      "kind": "word",
+      "text": "desculpe",
+      "description_en": "Apology.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000004",
+      "english_id": "en:vcu100:china-sourcing:000004",
+      "english_sense_id": "china-sourcing-000004",
+      "kind": "word",
+      "text": "com licença ou desculpe",
+      "description_en": "Mild apology or request to get attention.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000005",
+      "english_id": "en:vcu100:china-sourcing:000005",
+      "english_sense_id": "china-sourcing-000005",
+      "kind": "word",
+      "text": "posso perguntar?",
+      "description_en": "Polite way to introduce a question.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000006",
+      "english_id": "en:vcu100:china-sourcing:000006",
+      "english_sense_id": "china-sourcing-000006",
+      "kind": "word",
+      "text": "por favor",
+      "description_en": "Polite word for requesting or inviting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000007",
+      "english_id": "en:vcu100:china-sourcing:000007",
+      "english_sense_id": "china-sourcing-000007",
+      "kind": "word",
+      "text": "até logo",
+      "description_en": "Expression used when saying goodbye.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000008",
+      "english_id": "en:vcu100:china-sourcing:000008",
+      "english_sense_id": "china-sourcing-000008",
+      "kind": "word",
+      "text": "não consigo entender",
+      "description_en": "Statement that spoken words cannot be understood.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000009",
+      "english_id": "en:vcu100:china-sourcing:000009",
+      "english_sense_id": "china-sourcing-000009",
+      "kind": "word",
+      "text": "mais devagar",
+      "description_en": "Request for slower speech or movement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000010",
+      "english_id": "en:vcu100:china-sourcing:000010",
+      "english_sense_id": "china-sourcing-000010",
+      "kind": "word",
+      "text": "quanto custa?",
+      "description_en": "Question asking the price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000011",
+      "english_id": "en:vcu100:china-sourcing:000011",
+      "english_sense_id": "china-sourcing-000011",
+      "kind": "word",
+      "text": "onde fica?",
+      "description_en": "Question asking location.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000012",
+      "english_id": "en:vcu100:china-sourcing:000012",
+      "english_sense_id": "china-sourcing-000012",
+      "kind": "word",
+      "text": "por quê?",
+      "description_en": "Question asking for a reason.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000013",
+      "english_id": "en:vcu100:china-sourcing:000013",
+      "english_sense_id": "china-sourcing-000013",
+      "kind": "word",
+      "text": "como chegar?",
+      "description_en": "Question asking for directions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000014",
+      "english_id": "en:vcu100:china-sourcing:000014",
+      "english_sense_id": "china-sourcing-000014",
+      "kind": "word",
+      "text": "ajudar",
+      "description_en": "To give assistance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000015",
+      "english_id": "en:vcu100:china-sourcing:000015",
+      "english_sense_id": "china-sourcing-000015",
+      "kind": "word",
+      "text": "tradução ou traduzir",
+      "description_en": "Translation or the act of translating.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:travel",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Comunicação de viagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000016",
+      "english_id": "en:vcu100:china-sourcing:000016",
+      "english_sense_id": "china-sourcing-000016",
+      "kind": "word",
+      "text": "aeroporto",
+      "description_en": "Airport.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000017",
+      "english_id": "en:vcu100:china-sourcing:000017",
+      "english_sense_id": "china-sourcing-000017",
+      "kind": "word",
+      "text": "avião",
+      "description_en": "Airplane.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000018",
+      "english_id": "en:vcu100:china-sourcing:000018",
+      "english_sense_id": "china-sourcing-000018",
+      "kind": "word",
+      "text": "voo comercial",
+      "description_en": "Scheduled airline flight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000019",
+      "english_id": "en:vcu100:china-sourcing:000019",
+      "english_sense_id": "china-sourcing-000019",
+      "kind": "word",
+      "text": "passagem aérea",
+      "description_en": "Airline ticket.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000020",
+      "english_id": "en:vcu100:china-sourcing:000020",
+      "english_sense_id": "china-sourcing-000020",
+      "kind": "word",
+      "text": "cartão de embarque",
+      "description_en": "Boarding pass.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000021",
+      "english_id": "en:vcu100:china-sourcing:000021",
+      "english_sense_id": "china-sourcing-000021",
+      "kind": "word",
+      "text": "inspeção de segurança",
+      "description_en": "Security screening.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000022",
+      "english_id": "en:vcu100:china-sourcing:000022",
+      "english_sense_id": "china-sourcing-000022",
+      "kind": "word",
+      "text": "bagagem",
+      "description_en": "Luggage.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000023",
+      "english_id": "en:vcu100:china-sourcing:000023",
+      "english_sense_id": "china-sourcing-000023",
+      "kind": "word",
+      "text": "bagagem despachada",
+      "description_en": "Checked luggage.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000024",
+      "english_id": "en:vcu100:china-sourcing:000024",
+      "english_sense_id": "china-sourcing-000024",
+      "kind": "word",
+      "text": "alfândega",
+      "description_en": "Customs authority.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000025",
+      "english_id": "en:vcu100:china-sourcing:000025",
+      "english_sense_id": "china-sourcing-000025",
+      "kind": "word",
+      "text": "passaporte",
+      "description_en": "Travel passport.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000026",
+      "english_id": "en:vcu100:china-sourcing:000026",
+      "english_sense_id": "china-sourcing-000026",
+      "kind": "word",
+      "text": "visto",
+      "description_en": "Visa authorizing entry under given conditions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000027",
+      "english_id": "en:vcu100:china-sourcing:000027",
+      "english_sense_id": "china-sourcing-000027",
+      "kind": "word",
+      "text": "estação de trem",
+      "description_en": "Railway station.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000028",
+      "english_id": "en:vcu100:china-sourcing:000028",
+      "english_sense_id": "china-sourcing-000028",
+      "kind": "word",
+      "text": "trem de alta velocidade",
+      "description_en": "High-speed rail service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000029",
+      "english_id": "en:vcu100:china-sourcing:000029",
+      "english_sense_id": "china-sourcing-000029",
+      "kind": "word",
+      "text": "metrô",
+      "description_en": "Urban subway service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000030",
+      "english_id": "en:vcu100:china-sourcing:000030",
+      "english_sense_id": "china-sourcing-000030",
+      "kind": "word",
+      "text": "ônibus urbano",
+      "description_en": "Public city bus.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000031",
+      "english_id": "en:vcu100:china-sourcing:000031",
+      "english_sense_id": "china-sourcing-000031",
+      "kind": "word",
+      "text": "táxi",
+      "description_en": "Taxi.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000032",
+      "english_id": "en:vcu100:china-sourcing:000032",
+      "english_sense_id": "china-sourcing-000032",
+      "kind": "word",
+      "text": "carro solicitado por aplicativo",
+      "description_en": "Ride-hailing vehicle booked online.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000033",
+      "english_id": "en:vcu100:china-sourcing:000033",
+      "english_sense_id": "china-sourcing-000033",
+      "kind": "word",
+      "text": "estação ou terminal",
+      "description_en": "Station or transport stop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000034",
+      "english_id": "en:vcu100:china-sourcing:000034",
+      "english_sense_id": "china-sourcing-000034",
+      "kind": "word",
+      "text": "bilhete de transporte",
+      "description_en": "Ticket for a ride.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000035",
+      "english_id": "en:vcu100:china-sourcing:000035",
+      "english_sense_id": "china-sourcing-000035",
+      "kind": "word",
+      "text": "bilheteria",
+      "description_en": "Ticket sales counter.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000036",
+      "english_id": "en:vcu100:china-sourcing:000036",
+      "english_sense_id": "china-sourcing-000036",
+      "kind": "word",
+      "text": "plataforma de embarque",
+      "description_en": "Platform at a train station.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000037",
+      "english_id": "en:vcu100:china-sourcing:000037",
+      "english_sense_id": "china-sourcing-000037",
+      "kind": "word",
+      "text": "saída",
+      "description_en": "Exit from a building or station.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000038",
+      "english_id": "en:vcu100:china-sourcing:000038",
+      "english_sense_id": "china-sourcing-000038",
+      "kind": "word",
+      "text": "entrada",
+      "description_en": "Entrance to a place.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000039",
+      "english_id": "en:vcu100:china-sourcing:000039",
+      "english_sense_id": "china-sourcing-000039",
+      "kind": "word",
+      "text": "baldeação",
+      "description_en": "Transfer from one transport service to another.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000040",
+      "english_id": "en:vcu100:china-sourcing:000040",
+      "english_sense_id": "china-sourcing-000040",
+      "kind": "word",
+      "text": "mapa",
+      "description_en": "Map.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000041",
+      "english_id": "en:vcu100:china-sourcing:000041",
+      "english_sense_id": "china-sourcing-000041",
+      "kind": "word",
+      "text": "rota",
+      "description_en": "Route of travel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000042",
+      "english_id": "en:vcu100:china-sourcing:000042",
+      "english_sense_id": "china-sourcing-000042",
+      "kind": "word",
+      "text": "direção",
+      "description_en": "Direction of movement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000043",
+      "english_id": "en:vcu100:china-sourcing:000043",
+      "english_sense_id": "china-sourcing-000043",
+      "kind": "word",
+      "text": "lado esquerdo",
+      "description_en": "Left side.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000044",
+      "english_id": "en:vcu100:china-sourcing:000044",
+      "english_sense_id": "china-sourcing-000044",
+      "kind": "word",
+      "text": "lado direito",
+      "description_en": "Right side.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000045",
+      "english_id": "en:vcu100:china-sourcing:000045",
+      "english_sense_id": "china-sourcing-000045",
+      "kind": "word",
+      "text": "à frente",
+      "description_en": "Place in front of something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000046",
+      "english_id": "en:vcu100:china-sourcing:000046",
+      "english_sense_id": "china-sourcing-000046",
+      "kind": "word",
+      "text": "atrás",
+      "description_en": "Place behind something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000047",
+      "english_id": "en:vcu100:china-sourcing:000047",
+      "english_sense_id": "china-sourcing-000047",
+      "kind": "word",
+      "text": "nas proximidades",
+      "description_en": "Area near a location.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:transport",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Transporte"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000048",
+      "english_id": "en:vcu100:china-sourcing:000048",
+      "english_sense_id": "china-sourcing-000048",
+      "kind": "word",
+      "text": "hotel",
+      "description_en": "Hotel offering accommodation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000049",
+      "english_id": "en:vcu100:china-sourcing:000049",
+      "english_sense_id": "china-sourcing-000049",
+      "kind": "word",
+      "text": "hotel ou pousada",
+      "description_en": "Hotel or guesthouse, depending on context.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000050",
+      "english_id": "en:vcu100:china-sourcing:000050",
+      "english_sense_id": "china-sourcing-000050",
+      "kind": "word",
+      "text": "quarto",
+      "description_en": "Room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000051",
+      "english_id": "en:vcu100:china-sourcing:000051",
+      "english_sense_id": "china-sourcing-000051",
+      "kind": "word",
+      "text": "reserva",
+      "description_en": "Reservation made in advance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000052",
+      "english_id": "en:vcu100:china-sourcing:000052",
+      "english_sense_id": "china-sourcing-000052",
+      "kind": "word",
+      "text": "check-in de hotel",
+      "description_en": "Checking into accommodation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000053",
+      "english_id": "en:vcu100:china-sourcing:000053",
+      "english_sense_id": "china-sourcing-000053",
+      "kind": "word",
+      "text": "check-out de hotel",
+      "description_en": "Checking out and leaving a room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000054",
+      "english_id": "en:vcu100:china-sourcing:000054",
+      "english_sense_id": "china-sourcing-000054",
+      "kind": "word",
+      "text": "recepção do hotel",
+      "description_en": "Hotel reception desk.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000055",
+      "english_id": "en:vcu100:china-sourcing:000055",
+      "english_sense_id": "china-sourcing-000055",
+      "kind": "word",
+      "text": "chave",
+      "description_en": "Key to a room or door.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000056",
+      "english_id": "en:vcu100:china-sourcing:000056",
+      "english_sense_id": "china-sourcing-000056",
+      "kind": "word",
+      "text": "ar-condicionado",
+      "description_en": "Air conditioning system.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000057",
+      "english_id": "en:vcu100:china-sourcing:000057",
+      "english_sense_id": "china-sourcing-000057",
+      "kind": "word",
+      "text": "água quente",
+      "description_en": "Hot water.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:lodging",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Hospedagem"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000058",
+      "english_id": "en:vcu100:china-sourcing:000058",
+      "english_sense_id": "china-sourcing-000058",
+      "kind": "word",
+      "text": "loja",
+      "description_en": "Retail shop.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000059",
+      "english_id": "en:vcu100:china-sourcing:000059",
+      "english_sense_id": "china-sourcing-000059",
+      "kind": "word",
+      "text": "mercado",
+      "description_en": "Market where goods are sold.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000060",
+      "english_id": "en:vcu100:china-sourcing:000060",
+      "english_sense_id": "china-sourcing-000060",
+      "kind": "word",
+      "text": "supermercado",
+      "description_en": "Supermarket.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000061",
+      "english_id": "en:vcu100:china-sourcing:000061",
+      "english_sense_id": "china-sourcing-000061",
+      "kind": "word",
+      "text": "shopping center",
+      "description_en": "Large shopping complex.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000062",
+      "english_id": "en:vcu100:china-sourcing:000062",
+      "english_sense_id": "china-sourcing-000062",
+      "kind": "word",
+      "text": "preço",
+      "description_en": "Price of a product or service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000063",
+      "english_id": "en:vcu100:china-sourcing:000063",
+      "english_sense_id": "china-sourcing-000063",
+      "kind": "word",
+      "text": "barato",
+      "description_en": "Low in price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000064",
+      "english_id": "en:vcu100:china-sourcing:000064",
+      "english_sense_id": "china-sourcing-000064",
+      "kind": "word",
+      "text": "caro",
+      "description_en": "High in price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000065",
+      "english_id": "en:vcu100:china-sourcing:000065",
+      "english_sense_id": "china-sourcing-000065",
+      "kind": "word",
+      "text": "desconto",
+      "description_en": "Reduction from a listed price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000066",
+      "english_id": "en:vcu100:china-sourcing:000066",
+      "english_sense_id": "china-sourcing-000066",
+      "kind": "word",
+      "text": "oferta ou desconto",
+      "description_en": "Preferential price or benefit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000067",
+      "english_id": "en:vcu100:china-sourcing:000067",
+      "english_sense_id": "china-sourcing-000067",
+      "kind": "word",
+      "text": "dinheiro em espécie",
+      "description_en": "Physical cash.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000068",
+      "english_id": "en:vcu100:china-sourcing:000068",
+      "english_sense_id": "china-sourcing-000068",
+      "kind": "word",
+      "text": "cartão de crédito",
+      "description_en": "Credit card.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000069",
+      "english_id": "en:vcu100:china-sourcing:000069",
+      "english_sense_id": "china-sourcing-000069",
+      "kind": "word",
+      "text": "código QR",
+      "description_en": "Two-dimensional machine-readable code.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000070",
+      "english_id": "en:vcu100:china-sourcing:000070",
+      "english_sense_id": "china-sourcing-000070",
+      "kind": "word",
+      "text": "pagar escaneando QR",
+      "description_en": "Payment made by scanning a code.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000071",
+      "english_id": "en:vcu100:china-sourcing:000071",
+      "english_sense_id": "china-sourcing-000071",
+      "kind": "word",
+      "text": "WeChat Pay",
+      "description_en": "Mobile payment service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000072",
+      "english_id": "en:vcu100:china-sourcing:000072",
+      "english_sense_id": "china-sourcing-000072",
+      "kind": "word",
+      "text": "Alipay",
+      "description_en": "Mobile payment service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000073",
+      "english_id": "en:vcu100:china-sourcing:000073",
+      "english_sense_id": "china-sourcing-000073",
+      "kind": "word",
+      "text": "fatura fiscal chinesa",
+      "description_en": "Official tax invoice under Chinese invoicing systems.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000074",
+      "english_id": "en:vcu100:china-sourcing:000074",
+      "english_sense_id": "china-sourcing-000074",
+      "kind": "word",
+      "text": "recibo",
+      "description_en": "Receipt recording a payment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000075",
+      "english_id": "en:vcu100:china-sourcing:000075",
+      "english_sense_id": "china-sourcing-000075",
+      "kind": "word",
+      "text": "reembolso",
+      "description_en": "Return of money to a customer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000076",
+      "english_id": "en:vcu100:china-sourcing:000076",
+      "english_sense_id": "china-sourcing-000076",
+      "kind": "word",
+      "text": "devolução de mercadoria",
+      "description_en": "Returning purchased goods to a seller.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000077",
+      "english_id": "en:vcu100:china-sourcing:000077",
+      "english_sense_id": "china-sourcing-000077",
+      "kind": "word",
+      "text": "troca de produto",
+      "description_en": "Exchanging a purchased item.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000078",
+      "english_id": "en:vcu100:china-sourcing:000078",
+      "english_sense_id": "china-sourcing-000078",
+      "kind": "word",
+      "text": "mercadoria ou produto",
+      "description_en": "Goods offered for sale.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000079",
+      "english_id": "en:vcu100:china-sourcing:000079",
+      "english_sense_id": "china-sourcing-000079",
+      "kind": "word",
+      "text": "produto",
+      "description_en": "Product created or offered by a company.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000080",
+      "english_id": "en:vcu100:china-sourcing:000080",
+      "english_sense_id": "china-sourcing-000080",
+      "kind": "word",
+      "text": "qualidade",
+      "description_en": "Degree to which a product meets requirements.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000081",
+      "english_id": "en:vcu100:china-sourcing:000081",
+      "english_sense_id": "china-sourcing-000081",
+      "kind": "word",
+      "text": "tamanho ou dimensões",
+      "description_en": "Physical size.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000082",
+      "english_id": "en:vcu100:china-sourcing:000082",
+      "english_sense_id": "china-sourcing-000082",
+      "kind": "word",
+      "text": "cor",
+      "description_en": "Color of an item.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:shopping",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Compras e pagamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000083",
+      "english_id": "en:vcu100:china-sourcing:000083",
+      "english_sense_id": "china-sourcing-000083",
+      "kind": "word",
+      "text": "compras empresariais",
+      "description_en": "Procurement or sourcing of goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000084",
+      "english_id": "en:vcu100:china-sourcing:000084",
+      "english_sense_id": "china-sourcing-000084",
+      "kind": "word",
+      "text": "fornecedor",
+      "description_en": "Supplier of goods or services.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000085",
+      "english_id": "en:vcu100:china-sourcing:000085",
+      "english_sense_id": "china-sourcing-000085",
+      "kind": "word",
+      "text": "fábrica",
+      "description_en": "Factory producing goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000086",
+      "english_id": "en:vcu100:china-sourcing:000086",
+      "english_sense_id": "china-sourcing-000086",
+      "kind": "word",
+      "text": "fabricante",
+      "description_en": "Manufacturer of products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000087",
+      "english_id": "en:vcu100:china-sourcing:000087",
+      "english_sense_id": "china-sourcing-000087",
+      "kind": "word",
+      "text": "empresa comercial",
+      "description_en": "Trading company buying and selling goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000088",
+      "english_id": "en:vcu100:china-sourcing:000088",
+      "english_sense_id": "china-sourcing-000088",
+      "kind": "word",
+      "text": "atacado",
+      "description_en": "Wholesale trade.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000089",
+      "english_id": "en:vcu100:china-sourcing:000089",
+      "english_sense_id": "china-sourcing-000089",
+      "kind": "word",
+      "text": "varejo",
+      "description_en": "Retail trade.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000090",
+      "english_id": "en:vcu100:china-sourcing:000090",
+      "english_sense_id": "china-sourcing-000090",
+      "kind": "word",
+      "text": "atacadista",
+      "description_en": "Wholesale merchant.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000091",
+      "english_id": "en:vcu100:china-sourcing:000091",
+      "english_sense_id": "china-sourcing-000091",
+      "kind": "word",
+      "text": "comprador",
+      "description_en": "Buying party in a transaction.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000092",
+      "english_id": "en:vcu100:china-sourcing:000092",
+      "english_sense_id": "china-sourcing-000092",
+      "kind": "word",
+      "text": "vendedor",
+      "description_en": "Selling party in a transaction.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000093",
+      "english_id": "en:vcu100:china-sourcing:000093",
+      "english_sense_id": "china-sourcing-000093",
+      "kind": "word",
+      "text": "cotação ou orçamento",
+      "description_en": "Quoted price or offer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000094",
+      "english_id": "en:vcu100:china-sourcing:000094",
+      "english_sense_id": "china-sourcing-000094",
+      "kind": "word",
+      "text": "preço unitário",
+      "description_en": "Price for one unit of a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000095",
+      "english_id": "en:vcu100:china-sourcing:000095",
+      "english_sense_id": "china-sourcing-000095",
+      "kind": "word",
+      "text": "preço total",
+      "description_en": "Total price of an order.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000096",
+      "english_id": "en:vcu100:china-sourcing:000096",
+      "english_sense_id": "china-sourcing-000096",
+      "kind": "word",
+      "text": "amostra",
+      "description_en": "Product sample for inspection.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000097",
+      "english_id": "en:vcu100:china-sourcing:000097",
+      "english_sense_id": "china-sourcing-000097",
+      "kind": "word",
+      "text": "custo de amostra",
+      "description_en": "Charge for producing or sending a sample.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000098",
+      "english_id": "en:vcu100:china-sourcing:000098",
+      "english_sense_id": "china-sourcing-000098",
+      "kind": "word",
+      "text": "quantidade mínima de pedido",
+      "description_en": "Minimum amount that can be ordered.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000099",
+      "english_id": "en:vcu100:china-sourcing:000099",
+      "english_sense_id": "china-sourcing-000099",
+      "kind": "word",
+      "text": "pedido mínimo do fornecedor",
+      "description_en": "Supplier's minimum order quantity.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000100",
+      "english_id": "en:vcu100:china-sourcing:000100",
+      "english_sense_id": "china-sourcing-000100",
+      "kind": "word",
+      "text": "encomendar",
+      "description_en": "Place an order for goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000101",
+      "english_id": "en:vcu100:china-sourcing:000101",
+      "english_sense_id": "china-sourcing-000101",
+      "kind": "word",
+      "text": "pedido",
+      "description_en": "Commercial order.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000102",
+      "english_id": "en:vcu100:china-sourcing:000102",
+      "english_sense_id": "china-sourcing-000102",
+      "kind": "word",
+      "text": "contrato",
+      "description_en": "Contract between parties.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000103",
+      "english_id": "en:vcu100:china-sourcing:000103",
+      "english_sense_id": "china-sourcing-000103",
+      "kind": "word",
+      "text": "pagamento",
+      "description_en": "Payment for an order.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000104",
+      "english_id": "en:vcu100:china-sourcing:000104",
+      "english_sense_id": "china-sourcing-000104",
+      "kind": "word",
+      "text": "sinal ou depósito contratual",
+      "description_en": "Deposit made as part of an agreement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000105",
+      "english_id": "en:vcu100:china-sourcing:000105",
+      "english_sense_id": "china-sourcing-000105",
+      "kind": "word",
+      "text": "saldo final de pagamento",
+      "description_en": "Remaining amount to be paid.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000106",
+      "english_id": "en:vcu100:china-sourcing:000106",
+      "english_sense_id": "china-sourcing-000106",
+      "kind": "word",
+      "text": "prazo de entrega",
+      "description_en": "Agreed delivery date or lead time.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000107",
+      "english_id": "en:vcu100:china-sourcing:000107",
+      "english_sense_id": "china-sourcing-000107",
+      "kind": "word",
+      "text": "prazo de entrega comercial",
+      "description_en": "Shortened business term for delivery schedule.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000108",
+      "english_id": "en:vcu100:china-sourcing:000108",
+      "english_sense_id": "china-sourcing-000108",
+      "kind": "word",
+      "text": "estoque",
+      "description_en": "Goods held in stock.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000109",
+      "english_id": "en:vcu100:china-sourcing:000109",
+      "english_sense_id": "china-sourcing-000109",
+      "kind": "word",
+      "text": "falta de estoque",
+      "description_en": "Out-of-stock condition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000110",
+      "english_id": "en:vcu100:china-sourcing:000110",
+      "english_sense_id": "china-sourcing-000110",
+      "kind": "word",
+      "text": "embalagem",
+      "description_en": "Packing of a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000111",
+      "english_id": "en:vcu100:china-sourcing:000111",
+      "english_sense_id": "china-sourcing-000111",
+      "kind": "word",
+      "text": "personalização de produto",
+      "description_en": "Making a product to a customer's specifications.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000112",
+      "english_id": "en:vcu100:china-sourcing:000112",
+      "english_sense_id": "china-sourcing-000112",
+      "kind": "word",
+      "text": "marca própria aplicada ao produto",
+      "description_en": "Private-label branding.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:sourcing",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Fornecedores e compras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000113",
+      "english_id": "en:vcu100:china-sourcing:000113",
+      "english_sense_id": "china-sourcing-000113",
+      "kind": "word",
+      "text": "feira comercial",
+      "description_en": "Business trade exhibition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000114",
+      "english_id": "en:vcu100:china-sourcing:000114",
+      "english_sense_id": "china-sourcing-000114",
+      "kind": "word",
+      "text": "exposição",
+      "description_en": "Public or commercial exhibition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000115",
+      "english_id": "en:vcu100:china-sourcing:000115",
+      "english_sense_id": "china-sourcing-000115",
+      "kind": "word",
+      "text": "pavilhão de exposições",
+      "description_en": "Building hosting exhibitions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000116",
+      "english_id": "en:vcu100:china-sourcing:000116",
+      "english_sense_id": "china-sourcing-000116",
+      "kind": "word",
+      "text": "estande de feira",
+      "description_en": "Booth or exhibition stand.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000117",
+      "english_id": "en:vcu100:china-sourcing:000117",
+      "english_sense_id": "china-sourcing-000117",
+      "kind": "word",
+      "text": "empresa expositora",
+      "description_en": "Company participating as an exhibitor.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000118",
+      "english_id": "en:vcu100:china-sourcing:000118",
+      "english_sense_id": "china-sourcing-000118",
+      "kind": "word",
+      "text": "comprador profissional",
+      "description_en": "Commercial buyer attending a trade show.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000119",
+      "english_id": "en:vcu100:china-sourcing:000119",
+      "english_sense_id": "china-sourcing-000119",
+      "kind": "word",
+      "text": "cartão de visitas",
+      "description_en": "Business card.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000120",
+      "english_id": "en:vcu100:china-sourcing:000120",
+      "english_sense_id": "china-sourcing-000120",
+      "kind": "word",
+      "text": "dados de contato",
+      "description_en": "Means of contacting someone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000121",
+      "english_id": "en:vcu100:china-sourcing:000121",
+      "english_sense_id": "china-sourcing-000121",
+      "kind": "word",
+      "text": "empresa",
+      "description_en": "Business company.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000122",
+      "english_id": "en:vcu100:china-sourcing:000122",
+      "english_sense_id": "china-sourcing-000122",
+      "kind": "word",
+      "text": "gerente",
+      "description_en": "Manager in an organization.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000123",
+      "english_id": "en:vcu100:china-sourcing:000123",
+      "english_sense_id": "china-sourcing-000123",
+      "kind": "word",
+      "text": "representante comercial",
+      "description_en": "Sales or business representative.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000124",
+      "english_id": "en:vcu100:china-sourcing:000124",
+      "english_sense_id": "china-sourcing-000124",
+      "kind": "word",
+      "text": "escritório do gerente",
+      "description_en": "Manager's office.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000125",
+      "english_id": "en:vcu100:china-sourcing:000125",
+      "english_sense_id": "china-sourcing-000125",
+      "kind": "word",
+      "text": "negociação comercial",
+      "description_en": "Negotiation over business terms.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000126",
+      "english_id": "en:vcu100:china-sourcing:000126",
+      "english_sense_id": "china-sourcing-000126",
+      "kind": "word",
+      "text": "cooperação",
+      "description_en": "Working together in business.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000127",
+      "english_id": "en:vcu100:china-sourcing:000127",
+      "english_sense_id": "china-sourcing-000127",
+      "kind": "word",
+      "text": "acordo",
+      "description_en": "Agreement between parties.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000128",
+      "english_id": "en:vcu100:china-sourcing:000128",
+      "english_sense_id": "china-sourcing-000128",
+      "kind": "word",
+      "text": "assinar",
+      "description_en": "To sign a document.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:trade",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Feiras comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000129",
+      "english_id": "en:vcu100:china-sourcing:000129",
+      "english_sense_id": "china-sourcing-000129",
+      "kind": "word",
+      "text": "mercadorias",
+      "description_en": "Goods being transported.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000130",
+      "english_id": "en:vcu100:china-sourcing:000130",
+      "english_sense_id": "china-sourcing-000130",
+      "kind": "word",
+      "text": "contêiner de carga",
+      "description_en": "Shipping container, common in commerce.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000131",
+      "english_id": "en:vcu100:china-sourcing:000131",
+      "english_sense_id": "china-sourcing-000131",
+      "kind": "word",
+      "text": "contêiner de transporte",
+      "description_en": "Standard freight container.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000132",
+      "english_id": "en:vcu100:china-sourcing:000132",
+      "english_sense_id": "china-sourcing-000132",
+      "kind": "word",
+      "text": "frete marítimo",
+      "description_en": "Transporting goods by sea.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000133",
+      "english_id": "en:vcu100:china-sourcing:000133",
+      "english_sense_id": "china-sourcing-000133",
+      "kind": "word",
+      "text": "frete aéreo",
+      "description_en": "Transporting goods by air.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000134",
+      "english_id": "en:vcu100:china-sourcing:000134",
+      "english_sense_id": "china-sourcing-000134",
+      "kind": "word",
+      "text": "transporte terrestre",
+      "description_en": "Transporting goods by land.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000135",
+      "english_id": "en:vcu100:china-sourcing:000135",
+      "english_sense_id": "china-sourcing-000135",
+      "kind": "word",
+      "text": "logística",
+      "description_en": "Movement and management of goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000136",
+      "english_id": "en:vcu100:china-sourcing:000136",
+      "english_sense_id": "china-sourcing-000136",
+      "kind": "word",
+      "text": "transporte de mercadorias",
+      "description_en": "Movement of goods or people.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000137",
+      "english_id": "en:vcu100:china-sourcing:000137",
+      "english_sense_id": "china-sourcing-000137",
+      "kind": "word",
+      "text": "entrega expressa",
+      "description_en": "Courier or express delivery service.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000138",
+      "english_id": "en:vcu100:china-sourcing:000138",
+      "english_sense_id": "china-sourcing-000138",
+      "kind": "word",
+      "text": "armazém",
+      "description_en": "Warehouse for storing products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000139",
+      "english_id": "en:vcu100:china-sourcing:000139",
+      "english_sense_id": "china-sourcing-000139",
+      "kind": "word",
+      "text": "despachar mercadorias",
+      "description_en": "Send ordered goods for delivery.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000140",
+      "english_id": "en:vcu100:china-sourcing:000140",
+      "english_sense_id": "china-sourcing-000140",
+      "kind": "word",
+      "text": "receber mercadorias",
+      "description_en": "Receive a delivery of goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000141",
+      "english_id": "en:vcu100:china-sourcing:000141",
+      "english_sense_id": "china-sourcing-000141",
+      "kind": "word",
+      "text": "destino",
+      "description_en": "Destination for travel or shipping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000142",
+      "english_id": "en:vcu100:china-sourcing:000142",
+      "english_sense_id": "china-sourcing-000142",
+      "kind": "word",
+      "text": "endereço",
+      "description_en": "Address of a place.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000143",
+      "english_id": "en:vcu100:china-sourcing:000143",
+      "english_sense_id": "china-sourcing-000143",
+      "kind": "word",
+      "text": "CEP ou código postal",
+      "description_en": "Postal code.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000144",
+      "english_id": "en:vcu100:china-sourcing:000144",
+      "english_sense_id": "china-sourcing-000144",
+      "kind": "word",
+      "text": "importação",
+      "description_en": "Importation of goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000145",
+      "english_id": "en:vcu100:china-sourcing:000145",
+      "english_sense_id": "china-sourcing-000145",
+      "kind": "word",
+      "text": "comércio de exportação",
+      "description_en": "Trade involving exported goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000146",
+      "english_id": "en:vcu100:china-sourcing:000146",
+      "english_sense_id": "china-sourcing-000146",
+      "kind": "word",
+      "text": "desembaraço aduaneiro",
+      "description_en": "Customs clearance procedure.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000147",
+      "english_id": "en:vcu100:china-sourcing:000147",
+      "english_sense_id": "china-sourcing-000147",
+      "kind": "word",
+      "text": "declaração aduaneira",
+      "description_en": "Customs declaration.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000148",
+      "english_id": "en:vcu100:china-sourcing:000148",
+      "english_sense_id": "china-sourcing-000148",
+      "kind": "word",
+      "text": "tarifa alfandegária",
+      "description_en": "Customs duty.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000149",
+      "english_id": "en:vcu100:china-sourcing:000149",
+      "english_sense_id": "china-sourcing-000149",
+      "kind": "word",
+      "text": "custo do frete",
+      "description_en": "Freight transportation cost.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000150",
+      "english_id": "en:vcu100:china-sourcing:000150",
+      "english_sense_id": "china-sourcing-000150",
+      "kind": "word",
+      "text": "conhecimento de embarque",
+      "description_en": "Bill of lading.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000151",
+      "english_id": "en:vcu100:china-sourcing:000151",
+      "english_sense_id": "china-sourcing-000151",
+      "kind": "word",
+      "text": "romaneio de carga",
+      "description_en": "Packing list for shipment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000152",
+      "english_id": "en:vcu100:china-sourcing:000152",
+      "english_sense_id": "china-sourcing-000152",
+      "kind": "word",
+      "text": "número da fatura",
+      "description_en": "Invoice number.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000153",
+      "english_id": "en:vcu100:china-sourcing:000153",
+      "english_sense_id": "china-sourcing-000153",
+      "kind": "word",
+      "text": "entregar mercadorias",
+      "description_en": "Delivery of ordered goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000154",
+      "english_id": "en:vcu100:china-sourcing:000154",
+      "english_sense_id": "china-sourcing-000154",
+      "kind": "word",
+      "text": "atraso",
+      "description_en": "Delay in an action or delivery.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:logistics",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Importação e logística"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000155",
+      "english_id": "en:vcu100:china-sourcing:000155",
+      "english_sense_id": "china-sourcing-000155",
+      "kind": "expression",
+      "text": "quero ver uma amostra",
+      "description_en": "Request to inspect a sample.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000156",
+      "english_id": "en:vcu100:china-sourcing:000156",
+      "english_sense_id": "china-sourcing-000156",
+      "kind": "expression",
+      "text": "pode fazer um preço melhor?",
+      "description_en": "Question asking for a lower price.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000157",
+      "english_id": "en:vcu100:china-sourcing:000157",
+      "english_sense_id": "china-sourcing-000157",
+      "kind": "expression",
+      "text": "qual é o pedido mínimo?",
+      "description_en": "Question asking minimum order quantity.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000158",
+      "english_id": "en:vcu100:china-sourcing:000158",
+      "english_sense_id": "china-sourcing-000158",
+      "kind": "expression",
+      "text": "qual é o prazo de entrega?",
+      "description_en": "Question asking lead time.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000159",
+      "english_id": "en:vcu100:china-sourcing:000159",
+      "english_sense_id": "china-sourcing-000159",
+      "kind": "expression",
+      "text": "posso usar cartão de crédito?",
+      "description_en": "Question about card payment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000160",
+      "english_id": "en:vcu100:china-sourcing:000160",
+      "english_sense_id": "china-sourcing-000160",
+      "kind": "expression",
+      "text": "mande uma cotação por favor",
+      "description_en": "Request for a price quotation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000161",
+      "english_id": "en:vcu100:china-sourcing:000161",
+      "english_sense_id": "china-sourcing-000161",
+      "kind": "expression",
+      "text": "vocês são fabricantes?",
+      "description_en": "Question asking whether seller manufactures products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000162",
+      "english_id": "en:vcu100:china-sourcing:000162",
+      "english_sense_id": "china-sourcing-000162",
+      "kind": "expression",
+      "text": "quero visitar a fábrica",
+      "description_en": "Request to visit a production facility.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000163",
+      "english_id": "en:vcu100:china-sourcing:000163",
+      "english_sense_id": "china-sourcing-000163",
+      "kind": "expression",
+      "text": "por favor escreva",
+      "description_en": "Request for someone to write something down.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000164",
+      "english_id": "en:vcu100:china-sourcing:000164",
+      "english_sense_id": "china-sourcing-000164",
+      "kind": "expression",
+      "text": "tem explicação em inglês?",
+      "description_en": "Question asking for English instructions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000165",
+      "english_id": "en:vcu100:china-sourcing:000165",
+      "english_sense_id": "china-sourcing-000165",
+      "kind": "expression",
+      "text": "preciso de tradução",
+      "description_en": "Statement of requiring translation assistance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000166",
+      "english_id": "en:vcu100:china-sourcing:000166",
+      "english_sense_id": "china-sourcing-000166",
+      "kind": "expression",
+      "text": "pode enviar e-mail?",
+      "description_en": "Question asking to send an email.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000167",
+      "english_id": "en:vcu100:china-sourcing:000167",
+      "english_sense_id": "china-sourcing-000167",
+      "kind": "expression",
+      "text": "onde fica isto?",
+      "description_en": "Question asking where an item is.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:china-sourcing:000168",
+      "english_id": "en:vcu100:china-sourcing:000168",
+      "english_sense_id": "china-sourcing-000168",
+      "kind": "expression",
+      "text": "por favor chame um carro",
+      "description_en": "Request for transportation assistance.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:china_tourism_sourcing:phrases",
+      "topics": [
+        "VCU100 · Chinês Turismo & Negócios",
+        "China · Frases comerciais"
+      ]
+    }
+  ]
+}
