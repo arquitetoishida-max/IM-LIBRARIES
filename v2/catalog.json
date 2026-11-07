@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -659,6 +659,59 @@
       "vcu_family": "VCU100",
       "domain": "architecture_interiors",
       "companion_of": "vcu100-en-us-architecture-interiors"
+    },
+    {
+      "id": "vcu100-ja-factory",
+      "name": "VCU100 — Japonês de Fábrica / 工場の日本語",
+      "language": "ja",
+      "region": "ja-JP-VCU100-factory",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 179,
+      "has_ui": false,
+      "flag": "🇯🇵",
+      "locale": "ja-JP",
+      "name_native": "日本語",
+      "name_en": "Factory Japanese",
+      "name_pt": "Japonês de Fábrica e Trabalho",
+      "name_ja": "工場の日本語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-ja-factory.json",
+      "sha256": "4a0c6ca25ae51ad8442486946045191bcb3c9af9f017ab10af286017bb87c777",
+      "size_bytes": 101686,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "factory_workplace",
+      "companion_package_id": "vcu100-pt-br-factory-companion",
+      "requires": [
+        "vcu100-pt-br-factory-companion"
+      ]
+    },
+    {
+      "id": "vcu100-pt-br-factory-companion",
+      "name": "VCU100 — Fábrica japonesa (PT-BR, par do japonês)",
+      "language": "pt-BR",
+      "region": "pt-BR-VCU100-factory",
+      "role": "specialized",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 179,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Factory Japanese Portuguese companion",
+      "name_pt": "Português para Japonês de Fábrica",
+      "name_ja": "工場のポルトガル語",
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/vcu100/vcu100-pt-br-factory-companion.json",
+      "sha256": "a56a4d04d60b170f637c63ee244c8f0b305ab94cc404497b1f6087f9ffabaf2b",
+      "size_bytes": 91041,
+      "version": "1.0.0",
+      "vcu_family": "VCU100",
+      "domain": "factory_workplace",
+      "companion_of": "vcu100-ja-factory"
     }
   ],
   "notes": [
@@ -670,6 +723,7 @@
     "New VCU100 construction English package has 178 dedicated semantic IDs and a separate 178-entry PT-BR companion; both packages must be installed for EN/PT bilingual study in current app builds. APK installation/dependency and UI regression tests remain pending.",
     "VCU100 Business English US: 156 aligned English and PT-BR entries with unique per-package semantic IDs. Android companion auto-install remains pending code support.",
     "Healthcare English International VCU100: 170 professional vocabulary entries paired with PT-BR; clinical definitions are for language study, not medical advice. Manual Android test remains pending.",
-    "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending."
+    "Architecture & Interior Design English VCU100 has 180 unique aligned en-US and pt-BR entries; mobile installation and per-package isolation tests remain pending.",
+    "Factory Japanese 179 original terms with kana, romaji and PT-BR companion. Android dependency/UI/progress testing pending."
   ]
 }
