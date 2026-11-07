@@ -1,0 +1,2722 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-factory-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-factory",
+  "name": "VCU100 — Japonês de fábrica (par português)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "factory_workplace",
+  "companion_package_id": "vcu100-ja-factory",
+  "license": "Original ISHIDA MULTILANG editorial text (2026); industrial vocabulary cross-checked with MHLW glossary.",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/factory-ja-pt-BR-001.json",
+    "https://www.mhlw.go.jp/yougosyu/portuguese/index.html"
+  ],
+  "notes": [
+    "179 factory Japanese terms with kana and romanization; independent from the core JA vocabulary.",
+    "PT-BR companion required for study in Brazilian Portuguese.",
+    "Grammar/politeness of operational phrases needs further native-language QA, not auto-conjugated."
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:factory:000001",
+      "english_id": "en:vcu100:factory:000001",
+      "english_sense_id": "factory-000001",
+      "kind": "word",
+      "text": "fábrica",
+      "description_en": "Factory building where products are manufactured.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000002",
+      "english_id": "en:vcu100:factory:000002",
+      "english_sense_id": "factory-000002",
+      "kind": "word",
+      "text": "local de trabalho",
+      "description_en": "Workplace or assigned work area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000003",
+      "english_id": "en:vcu100:factory:000003",
+      "english_sense_id": "factory-000003",
+      "kind": "word",
+      "text": "chão de fábrica ou local operacional",
+      "description_en": "Actual place where the work is performed.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000004",
+      "english_id": "en:vcu100:factory:000004",
+      "english_sense_id": "factory-000004",
+      "kind": "word",
+      "text": "área de trabalho",
+      "description_en": "Area where a practical task is carried out.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000005",
+      "english_id": "en:vcu100:factory:000005",
+      "english_sense_id": "factory-000005",
+      "kind": "word",
+      "text": "fabricação",
+      "description_en": "Manufacturing of products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000006",
+      "english_id": "en:vcu100:factory:000006",
+      "english_sense_id": "factory-000006",
+      "kind": "word",
+      "text": "produção",
+      "description_en": "Production of goods or output.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000007",
+      "english_id": "en:vcu100:factory:000007",
+      "english_sense_id": "factory-000007",
+      "kind": "word",
+      "text": "linha de produção",
+      "description_en": "Production line where products move through processing stages.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000008",
+      "english_id": "en:vcu100:factory:000008",
+      "english_sense_id": "factory-000008",
+      "kind": "word",
+      "text": "setor ou departamento",
+      "description_en": "Department within the organization.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000009",
+      "english_id": "en:vcu100:factory:000009",
+      "english_sense_id": "factory-000009",
+      "kind": "word",
+      "text": "operário",
+      "description_en": "Worker carrying out operational tasks.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000010",
+      "english_id": "en:vcu100:factory:000010",
+      "english_sense_id": "factory-000010",
+      "kind": "word",
+      "text": "responsável",
+      "description_en": "Person accountable for a task or area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000011",
+      "english_id": "en:vcu100:factory:000011",
+      "english_sense_id": "factory-000011",
+      "kind": "word",
+      "text": "líder de equipe",
+      "description_en": "Leader of a workplace team.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000012",
+      "english_id": "en:vcu100:factory:000012",
+      "english_sense_id": "factory-000012",
+      "kind": "word",
+      "text": "superior hierárquico",
+      "description_en": "Supervisor at work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000013",
+      "english_id": "en:vcu100:factory:000013",
+      "english_sense_id": "factory-000013",
+      "kind": "word",
+      "text": "colega de trabalho",
+      "description_en": "Person working alongside another.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000014",
+      "english_id": "en:vcu100:factory:000014",
+      "english_sense_id": "factory-000014",
+      "kind": "word",
+      "text": "novato ou recém-contratado",
+      "description_en": "Person new to the workplace.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000015",
+      "english_id": "en:vcu100:factory:000015",
+      "english_sense_id": "factory-000015",
+      "kind": "word",
+      "text": "treinamento",
+      "description_en": "Training before or during work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000016",
+      "english_id": "en:vcu100:factory:000016",
+      "english_sense_id": "factory-000016",
+      "kind": "word",
+      "text": "reunião rápida da manhã",
+      "description_en": "Short meeting before a work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:workplace",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Equipe e local de trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000017",
+      "english_id": "en:vcu100:factory:000017",
+      "english_sense_id": "factory-000017",
+      "kind": "word",
+      "text": "turno diurno",
+      "description_en": "Daytime work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000018",
+      "english_id": "en:vcu100:factory:000018",
+      "english_sense_id": "factory-000018",
+      "kind": "word",
+      "text": "turno noturno",
+      "description_en": "Nighttime work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000019",
+      "english_id": "en:vcu100:factory:000019",
+      "english_sense_id": "factory-000019",
+      "kind": "word",
+      "text": "turno cedo",
+      "description_en": "Early work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000020",
+      "english_id": "en:vcu100:factory:000020",
+      "english_sense_id": "factory-000020",
+      "kind": "word",
+      "text": "turno tardio",
+      "description_en": "Late work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000021",
+      "english_id": "en:vcu100:factory:000021",
+      "english_sense_id": "factory-000021",
+      "kind": "word",
+      "text": "sistema de dois turnos",
+      "description_en": "Two-shift work system.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000022",
+      "english_id": "en:vcu100:factory:000022",
+      "english_sense_id": "factory-000022",
+      "kind": "word",
+      "text": "sistema de três turnos",
+      "description_en": "Three-shift work system.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000023",
+      "english_id": "en:vcu100:factory:000023",
+      "english_sense_id": "factory-000023",
+      "kind": "word",
+      "text": "troca de turno ou substituição",
+      "description_en": "Replacement of workers or change of shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000024",
+      "english_id": "en:vcu100:factory:000024",
+      "english_sense_id": "factory-000024",
+      "kind": "word",
+      "text": "hora extra",
+      "description_en": "Work beyond the normal scheduled hours.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000025",
+      "english_id": "en:vcu100:factory:000025",
+      "english_sense_id": "factory-000025",
+      "kind": "word",
+      "text": "intervalo para descanso",
+      "description_en": "Break taken during a work shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000026",
+      "english_id": "en:vcu100:factory:000026",
+      "english_sense_id": "factory-000026",
+      "kind": "word",
+      "text": "intervalo de almoço",
+      "description_en": "Midday break at work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000027",
+      "english_id": "en:vcu100:factory:000027",
+      "english_sense_id": "factory-000027",
+      "kind": "word",
+      "text": "comparecimento ao trabalho",
+      "description_en": "Going to work for a scheduled shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000028",
+      "english_id": "en:vcu100:factory:000028",
+      "english_sense_id": "factory-000028",
+      "kind": "word",
+      "text": "saída do trabalho",
+      "description_en": "Leaving work at the end of a shift.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000029",
+      "english_id": "en:vcu100:factory:000029",
+      "english_sense_id": "factory-000029",
+      "kind": "word",
+      "text": "falta ao trabalho",
+      "description_en": "Absence from a scheduled workday.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000030",
+      "english_id": "en:vcu100:factory:000030",
+      "english_sense_id": "factory-000030",
+      "kind": "word",
+      "text": "atraso ao trabalho",
+      "description_en": "Arriving late for work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000031",
+      "english_id": "en:vcu100:factory:000031",
+      "english_sense_id": "factory-000031",
+      "kind": "word",
+      "text": "licença remunerada",
+      "description_en": "Paid leave from work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000032",
+      "english_id": "en:vcu100:factory:000032",
+      "english_sense_id": "factory-000032",
+      "kind": "word",
+      "text": "escala de turnos",
+      "description_en": "Work shift assignment or schedule.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:schedule",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Turnos e horários"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000033",
+      "english_id": "en:vcu100:factory:000033",
+      "english_sense_id": "factory-000033",
+      "kind": "word",
+      "text": "etapa do processo",
+      "description_en": "Manufacturing step or process stage.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000034",
+      "english_id": "en:vcu100:factory:000034",
+      "english_sense_id": "factory-000034",
+      "kind": "word",
+      "text": "tarefa operacional",
+      "description_en": "Work task being carried out.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000035",
+      "english_id": "en:vcu100:factory:000035",
+      "english_sense_id": "factory-000035",
+      "kind": "word",
+      "text": "preparação da operação",
+      "description_en": "Preparation of tools and sequence before a task.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000036",
+      "english_id": "en:vcu100:factory:000036",
+      "english_sense_id": "factory-000036",
+      "kind": "word",
+      "text": "troca de preparação da máquina",
+      "description_en": "Changeover between product types or machine setups.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000037",
+      "english_id": "en:vcu100:factory:000037",
+      "english_sense_id": "factory-000037",
+      "kind": "word",
+      "text": "usinagem ou processamento",
+      "description_en": "Processing material into the required form.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000038",
+      "english_id": "en:vcu100:factory:000038",
+      "english_sense_id": "factory-000038",
+      "kind": "word",
+      "text": "montagem",
+      "description_en": "Assembly of components.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000039",
+      "english_id": "en:vcu100:factory:000039",
+      "english_sense_id": "factory-000039",
+      "kind": "word",
+      "text": "soldagem",
+      "description_en": "Joining materials by welding.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000040",
+      "english_id": "en:vcu100:factory:000040",
+      "english_sense_id": "factory-000040",
+      "kind": "word",
+      "text": "pintura industrial",
+      "description_en": "Applying paint or a coating.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000041",
+      "english_id": "en:vcu100:factory:000041",
+      "english_sense_id": "factory-000041",
+      "kind": "word",
+      "text": "moldagem",
+      "description_en": "Forming material to a desired shape.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000042",
+      "english_id": "en:vcu100:factory:000042",
+      "english_sense_id": "factory-000042",
+      "kind": "word",
+      "text": "corte",
+      "description_en": "Separating material by cutting.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000043",
+      "english_id": "en:vcu100:factory:000043",
+      "english_sense_id": "factory-000043",
+      "kind": "word",
+      "text": "polimento ou abrasão",
+      "description_en": "Finishing a surface by polishing or grinding.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000044",
+      "english_id": "en:vcu100:factory:000044",
+      "english_sense_id": "factory-000044",
+      "kind": "word",
+      "text": "embalagem para transporte",
+      "description_en": "Packing goods for shipping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000045",
+      "english_id": "en:vcu100:factory:000045",
+      "english_sense_id": "factory-000045",
+      "kind": "word",
+      "text": "expedição de mercadorias",
+      "description_en": "Shipping finished goods to customers.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000046",
+      "english_id": "en:vcu100:factory:000046",
+      "english_sense_id": "factory-000046",
+      "kind": "word",
+      "text": "entrega de produto ao cliente",
+      "description_en": "Delivery of ordered products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000047",
+      "english_id": "en:vcu100:factory:000047",
+      "english_sense_id": "factory-000047",
+      "kind": "word",
+      "text": "inspeção",
+      "description_en": "Checking products or parts against requirements.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000048",
+      "english_id": "en:vcu100:factory:000048",
+      "english_sense_id": "factory-000048",
+      "kind": "word",
+      "text": "controle de qualidade",
+      "description_en": "Organized monitoring of product quality.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000049",
+      "english_id": "en:vcu100:factory:000049",
+      "english_sense_id": "factory-000049",
+      "kind": "word",
+      "text": "produto fabricado",
+      "description_en": "Finished manufactured product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000050",
+      "english_id": "en:vcu100:factory:000050",
+      "english_sense_id": "factory-000050",
+      "kind": "word",
+      "text": "produto semielaborado",
+      "description_en": "Partly finished product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000051",
+      "english_id": "en:vcu100:factory:000051",
+      "english_sense_id": "factory-000051",
+      "kind": "word",
+      "text": "peça ou componente",
+      "description_en": "Component used in a manufactured product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000052",
+      "english_id": "en:vcu100:factory:000052",
+      "english_sense_id": "factory-000052",
+      "kind": "word",
+      "text": "material",
+      "description_en": "Material used to manufacture a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000053",
+      "english_id": "en:vcu100:factory:000053",
+      "english_sense_id": "factory-000053",
+      "kind": "word",
+      "text": "matéria-prima",
+      "description_en": "Raw material used in production.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000054",
+      "english_id": "en:vcu100:factory:000054",
+      "english_sense_id": "factory-000054",
+      "kind": "word",
+      "text": "produto em processo",
+      "description_en": "Work in progress before completion.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000055",
+      "english_id": "en:vcu100:factory:000055",
+      "english_sense_id": "factory-000055",
+      "kind": "word",
+      "text": "produto acabado",
+      "description_en": "Product that has completed manufacturing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000056",
+      "english_id": "en:vcu100:factory:000056",
+      "english_sense_id": "factory-000056",
+      "kind": "word",
+      "text": "sequência de trabalho",
+      "description_en": "Defined order of steps for a task.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000057",
+      "english_id": "en:vcu100:factory:000057",
+      "english_sense_id": "factory-000057",
+      "kind": "word",
+      "text": "trabalho padronizado",
+      "description_en": "Standardized way of carrying out a process.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000058",
+      "english_id": "en:vcu100:factory:000058",
+      "english_sense_id": "factory-000058",
+      "kind": "word",
+      "text": "ordem ou instrução de trabalho",
+      "description_en": "Written directions for operational work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:process",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Produção e processos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000059",
+      "english_id": "en:vcu100:factory:000059",
+      "english_sense_id": "factory-000059",
+      "kind": "word",
+      "text": "máquina",
+      "description_en": "Machine used to perform work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000060",
+      "english_id": "en:vcu100:factory:000060",
+      "english_sense_id": "factory-000060",
+      "kind": "word",
+      "text": "equipamentos ou instalações",
+      "description_en": "Equipment and facilities used in production.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000061",
+      "english_id": "en:vcu100:factory:000061",
+      "english_sense_id": "factory-000061",
+      "kind": "word",
+      "text": "dispositivo ou equipamento",
+      "description_en": "Device or machine apparatus.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000062",
+      "english_id": "en:vcu100:factory:000062",
+      "english_sense_id": "factory-000062",
+      "kind": "word",
+      "text": "esteira transportadora",
+      "description_en": "Conveyor that moves products through a process.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000063",
+      "english_id": "en:vcu100:factory:000063",
+      "english_sense_id": "factory-000063",
+      "kind": "word",
+      "text": "empilhadeira",
+      "description_en": "Forklift used for lifting and transporting loads.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000064",
+      "english_id": "en:vcu100:factory:000064",
+      "english_sense_id": "factory-000064",
+      "kind": "word",
+      "text": "carrinho de transporte",
+      "description_en": "Hand-pushed cart for moving parts or boxes.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000065",
+      "english_id": "en:vcu100:factory:000065",
+      "english_sense_id": "factory-000065",
+      "kind": "word",
+      "text": "palete",
+      "description_en": "Platform for storing and transporting goods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000066",
+      "english_id": "en:vcu100:factory:000066",
+      "english_sense_id": "factory-000066",
+      "kind": "word",
+      "text": "guindaste ou ponte rolante",
+      "description_en": "Lifting crane used to move loads.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000067",
+      "english_id": "en:vcu100:factory:000067",
+      "english_sense_id": "factory-000067",
+      "kind": "word",
+      "text": "robô industrial",
+      "description_en": "Robot used in an automated production operation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000068",
+      "english_id": "en:vcu100:factory:000068",
+      "english_sense_id": "factory-000068",
+      "kind": "word",
+      "text": "sensor",
+      "description_en": "Device detecting a condition or position.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000069",
+      "english_id": "en:vcu100:factory:000069",
+      "english_sense_id": "factory-000069",
+      "kind": "word",
+      "text": "painel de controle",
+      "description_en": "Panel containing machine control equipment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000070",
+      "english_id": "en:vcu100:factory:000070",
+      "english_sense_id": "factory-000070",
+      "kind": "word",
+      "text": "painel de operação",
+      "description_en": "Panel used by an operator to control a machine.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000071",
+      "english_id": "en:vcu100:factory:000071",
+      "english_sense_id": "factory-000071",
+      "kind": "word",
+      "text": "alimentação elétrica",
+      "description_en": "Electrical power supply.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000072",
+      "english_id": "en:vcu100:factory:000072",
+      "english_sense_id": "factory-000072",
+      "kind": "word",
+      "text": "interruptor ou chave",
+      "description_en": "Switch used to turn a device on or off.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000073",
+      "english_id": "en:vcu100:factory:000073",
+      "english_sense_id": "factory-000073",
+      "kind": "word",
+      "text": "botão de parada de emergência",
+      "description_en": "Button used to stop equipment in an emergency.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000074",
+      "english_id": "en:vcu100:factory:000074",
+      "english_sense_id": "factory-000074",
+      "kind": "word",
+      "text": "molde industrial",
+      "description_en": "Mold or die used to shape material.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000075",
+      "english_id": "en:vcu100:factory:000075",
+      "english_sense_id": "factory-000075",
+      "kind": "word",
+      "text": "dispositivo de fixação ou gabarito",
+      "description_en": "Jig or fixture used to position a part.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000076",
+      "english_id": "en:vcu100:factory:000076",
+      "english_sense_id": "factory-000076",
+      "kind": "word",
+      "text": "ferramenta",
+      "description_en": "Tool used for a practical operation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000077",
+      "english_id": "en:vcu100:factory:000077",
+      "english_sense_id": "factory-000077",
+      "kind": "word",
+      "text": "ferramenta de corte",
+      "description_en": "Cutting blade or tool.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000078",
+      "english_id": "en:vcu100:factory:000078",
+      "english_sense_id": "factory-000078",
+      "kind": "word",
+      "text": "broca ou furadeira conforme contexto",
+      "description_en": "Drill tool or drill bit depending on context.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000079",
+      "english_id": "en:vcu100:factory:000079",
+      "english_sense_id": "factory-000079",
+      "kind": "word",
+      "text": "torno mecânico",
+      "description_en": "Lathe machine for turning parts.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000080",
+      "english_id": "en:vcu100:factory:000080",
+      "english_sense_id": "factory-000080",
+      "kind": "word",
+      "text": "fresadora",
+      "description_en": "Milling machine used for cutting metal.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000081",
+      "english_id": "en:vcu100:factory:000081",
+      "english_sense_id": "factory-000081",
+      "kind": "word",
+      "text": "usinagem por corte",
+      "description_en": "Cutting or machining that removes material.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000082",
+      "english_id": "en:vcu100:factory:000082",
+      "english_sense_id": "factory-000082",
+      "kind": "word",
+      "text": "cavaco de usinagem",
+      "description_en": "Chips produced by cutting or machining.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000083",
+      "english_id": "en:vcu100:factory:000083",
+      "english_sense_id": "factory-000083",
+      "kind": "word",
+      "text": "óleo lubrificante",
+      "description_en": "Oil used to reduce friction.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000084",
+      "english_id": "en:vcu100:factory:000084",
+      "english_sense_id": "factory-000084",
+      "kind": "word",
+      "text": "água de resfriamento",
+      "description_en": "Water used to remove heat from equipment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000085",
+      "english_id": "en:vcu100:factory:000085",
+      "english_sense_id": "factory-000085",
+      "kind": "word",
+      "text": "pressão pneumática",
+      "description_en": "Compressed-air pressure in a machine.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000086",
+      "english_id": "en:vcu100:factory:000086",
+      "english_sense_id": "factory-000086",
+      "kind": "word",
+      "text": "pressão hidráulica",
+      "description_en": "Pressure transmitted by hydraulic fluid.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000087",
+      "english_id": "en:vcu100:factory:000087",
+      "english_sense_id": "factory-000087",
+      "kind": "word",
+      "text": "motor elétrico",
+      "description_en": "Motor that drives equipment.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000088",
+      "english_id": "en:vcu100:factory:000088",
+      "english_sense_id": "factory-000088",
+      "kind": "word",
+      "text": "correia de transmissão",
+      "description_en": "Belt used in a machine mechanism.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:machinery",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Máquinas e equipamentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000089",
+      "english_id": "en:vcu100:factory:000089",
+      "english_sense_id": "factory-000089",
+      "kind": "word",
+      "text": "segurança",
+      "description_en": "Freedom from workplace hazards.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000090",
+      "english_id": "en:vcu100:factory:000090",
+      "english_sense_id": "factory-000090",
+      "kind": "word",
+      "text": "perigo",
+      "description_en": "Hazardous or dangerous situation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000091",
+      "english_id": "en:vcu100:factory:000091",
+      "english_sense_id": "factory-000091",
+      "kind": "word",
+      "text": "atenção ou cuidado",
+      "description_en": "Warning to be careful.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000092",
+      "english_id": "en:vcu100:factory:000092",
+      "english_sense_id": "factory-000092",
+      "kind": "word",
+      "text": "entrada proibida",
+      "description_en": "Sign prohibiting entry to an area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000093",
+      "english_id": "en:vcu100:factory:000093",
+      "english_sense_id": "factory-000093",
+      "kind": "word",
+      "text": "equipamento de proteção",
+      "description_en": "Item worn to protect a worker.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000094",
+      "english_id": "en:vcu100:factory:000094",
+      "english_sense_id": "factory-000094",
+      "kind": "word",
+      "text": "calçado de segurança",
+      "description_en": "Protective shoes worn at work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000095",
+      "english_id": "en:vcu100:factory:000095",
+      "english_sense_id": "factory-000095",
+      "kind": "word",
+      "text": "óculos de proteção",
+      "description_en": "Glasses that protect the eyes.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000096",
+      "english_id": "en:vcu100:factory:000096",
+      "english_sense_id": "factory-000096",
+      "kind": "word",
+      "text": "luvas",
+      "description_en": "Gloves used to protect hands.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000097",
+      "english_id": "en:vcu100:factory:000097",
+      "english_sense_id": "factory-000097",
+      "kind": "word",
+      "text": "capacete",
+      "description_en": "Protective headgear.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000098",
+      "english_id": "en:vcu100:factory:000098",
+      "english_sense_id": "factory-000098",
+      "kind": "word",
+      "text": "protetor auricular tipo plug",
+      "description_en": "Earplugs used against loud noise.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000099",
+      "english_id": "en:vcu100:factory:000099",
+      "english_sense_id": "factory-000099",
+      "kind": "word",
+      "text": "máscara contra poeira",
+      "description_en": "Mask intended to protect against dust.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000100",
+      "english_id": "en:vcu100:factory:000100",
+      "english_sense_id": "factory-000100",
+      "kind": "word",
+      "text": "dispositivo de segurança",
+      "description_en": "Device that reduces risk during machine operation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000101",
+      "english_id": "en:vcu100:factory:000101",
+      "english_sense_id": "factory-000101",
+      "kind": "word",
+      "text": "inspeção antes do trabalho",
+      "description_en": "Inspection before a work task begins.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000102",
+      "english_id": "en:vcu100:factory:000102",
+      "english_sense_id": "factory-000102",
+      "kind": "word",
+      "text": "apontar e confirmar verbalmente",
+      "description_en": "Safety practice of pointing at and calling out checks.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000103",
+      "english_id": "en:vcu100:factory:000103",
+      "english_sense_id": "factory-000103",
+      "kind": "word",
+      "text": "rota de evacuação",
+      "description_en": "Path used to evacuate a building.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000104",
+      "english_id": "en:vcu100:factory:000104",
+      "english_sense_id": "factory-000104",
+      "kind": "word",
+      "text": "saída de emergência",
+      "description_en": "Exit used during emergencies.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000105",
+      "english_id": "en:vcu100:factory:000105",
+      "english_sense_id": "factory-000105",
+      "kind": "word",
+      "text": "extintor de incêndio",
+      "description_en": "Equipment used to put out small fires.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000106",
+      "english_id": "en:vcu100:factory:000106",
+      "english_sense_id": "factory-000106",
+      "kind": "word",
+      "text": "ferimento",
+      "description_en": "Injury to the body.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000107",
+      "english_id": "en:vcu100:factory:000107",
+      "english_sense_id": "factory-000107",
+      "kind": "word",
+      "text": "acidente",
+      "description_en": "Unexpected event causing harm or damage.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000108",
+      "english_id": "en:vcu100:factory:000108",
+      "english_sense_id": "factory-000108",
+      "kind": "word",
+      "text": "acidente de trabalho",
+      "description_en": "Work-related injury or incident.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000109",
+      "english_id": "en:vcu100:factory:000109",
+      "english_sense_id": "factory-000109",
+      "kind": "word",
+      "text": "caixa de primeiros socorros",
+      "description_en": "Box containing first-aid supplies.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000110",
+      "english_id": "en:vcu100:factory:000110",
+      "english_sense_id": "factory-000110",
+      "kind": "word",
+      "text": "contato de emergência",
+      "description_en": "Urgent notification or communication.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000111",
+      "english_id": "en:vcu100:factory:000111",
+      "english_sense_id": "factory-000111",
+      "kind": "word",
+      "text": "exame médico periódico",
+      "description_en": "Health examination used at work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000112",
+      "english_id": "en:vcu100:factory:000112",
+      "english_sense_id": "factory-000112",
+      "kind": "word",
+      "text": "doença causada pelo calor",
+      "description_en": "Heat-related illness from high temperatures.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:safety",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Segurança"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000113",
+      "english_id": "en:vcu100:factory:000113",
+      "english_sense_id": "factory-000113",
+      "kind": "word",
+      "text": "produto aprovado",
+      "description_en": "Product that meets quality requirements.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000114",
+      "english_id": "en:vcu100:factory:000114",
+      "english_sense_id": "factory-000114",
+      "kind": "word",
+      "text": "produto defeituoso",
+      "description_en": "Product that fails a quality requirement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000115",
+      "english_id": "en:vcu100:factory:000115",
+      "english_sense_id": "factory-000115",
+      "kind": "word",
+      "text": "defeito ou não conformidade",
+      "description_en": "Defective condition of a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000116",
+      "english_id": "en:vcu100:factory:000116",
+      "english_sense_id": "factory-000116",
+      "kind": "word",
+      "text": "arranhão ou dano",
+      "description_en": "Visible scratch or damage on a part.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000117",
+      "english_id": "en:vcu100:factory:000117",
+      "english_sense_id": "factory-000117",
+      "kind": "word",
+      "text": "sujeira",
+      "description_en": "Something that makes a surface dirty.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000118",
+      "english_id": "en:vcu100:factory:000118",
+      "english_sense_id": "factory-000118",
+      "kind": "word",
+      "text": "corpo estranho",
+      "description_en": "Unwanted foreign material in a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000119",
+      "english_id": "en:vcu100:factory:000119",
+      "english_sense_id": "factory-000119",
+      "kind": "word",
+      "text": "deformação",
+      "description_en": "Unwanted change in a part's shape.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000120",
+      "english_id": "en:vcu100:factory:000120",
+      "english_sense_id": "factory-000120",
+      "kind": "word",
+      "text": "dimensão",
+      "description_en": "Measured size of a part.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000121",
+      "english_id": "en:vcu100:factory:000121",
+      "english_sense_id": "factory-000121",
+      "kind": "word",
+      "text": "tolerância dimensional",
+      "description_en": "Permitted variation from a specified dimension.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000122",
+      "english_id": "en:vcu100:factory:000122",
+      "english_sense_id": "factory-000122",
+      "kind": "word",
+      "text": "medição",
+      "description_en": "Process of determining a quantity using instruments.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000123",
+      "english_id": "en:vcu100:factory:000123",
+      "english_sense_id": "factory-000123",
+      "kind": "word",
+      "text": "inspetor de qualidade",
+      "description_en": "Person assigned to inspect products.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000124",
+      "english_id": "en:vcu100:factory:000124",
+      "english_sense_id": "factory-000124",
+      "kind": "word",
+      "text": "inspeção visual",
+      "description_en": "Inspection by looking at a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000125",
+      "english_id": "en:vcu100:factory:000125",
+      "english_sense_id": "factory-000125",
+      "kind": "word",
+      "text": "inspeção por amostragem",
+      "description_en": "Inspection of selected items from a batch.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000126",
+      "english_id": "en:vcu100:factory:000126",
+      "english_sense_id": "factory-000126",
+      "kind": "word",
+      "text": "inspeção de 100% das peças",
+      "description_en": "Inspection of every unit in a lot.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000127",
+      "english_id": "en:vcu100:factory:000127",
+      "english_sense_id": "factory-000127",
+      "kind": "word",
+      "text": "aprovado ou aprovado no teste",
+      "description_en": "Passing a required standard or check.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000128",
+      "english_id": "en:vcu100:factory:000128",
+      "english_sense_id": "factory-000128",
+      "kind": "word",
+      "text": "reprovado",
+      "description_en": "Result that fails a requirement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000129",
+      "english_id": "en:vcu100:factory:000129",
+      "english_sense_id": "factory-000129",
+      "kind": "word",
+      "text": "nova inspeção",
+      "description_en": "Repeat inspection of an item.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000130",
+      "english_id": "en:vcu100:factory:000130",
+      "english_sense_id": "factory-000130",
+      "kind": "word",
+      "text": "retrabalho corretivo",
+      "description_en": "Correcting an imperfection in work.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000131",
+      "english_id": "en:vcu100:factory:000131",
+      "english_sense_id": "factory-000131",
+      "kind": "word",
+      "text": "registro",
+      "description_en": "Information written or saved for later use.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000132",
+      "english_id": "en:vcu100:factory:000132",
+      "english_sense_id": "factory-000132",
+      "kind": "word",
+      "text": "relatório ou comunicação",
+      "description_en": "Communication of a work result or problem.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:quality",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Inspeção e qualidade"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000133",
+      "english_id": "en:vcu100:factory:000133",
+      "english_sense_id": "factory-000133",
+      "kind": "word",
+      "text": "automóvel",
+      "description_en": "Car or motor vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000134",
+      "english_id": "en:vcu100:factory:000134",
+      "english_sense_id": "factory-000134",
+      "kind": "word",
+      "text": "motor automotivo",
+      "description_en": "Engine that drives a vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000135",
+      "english_id": "en:vcu100:factory:000135",
+      "english_sense_id": "factory-000135",
+      "kind": "word",
+      "text": "carroceria",
+      "description_en": "Body structure of a vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000136",
+      "english_id": "en:vcu100:factory:000136",
+      "english_sense_id": "factory-000136",
+      "kind": "word",
+      "text": "para-choque",
+      "description_en": "Impact bumper of a vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000137",
+      "english_id": "en:vcu100:factory:000137",
+      "english_sense_id": "factory-000137",
+      "kind": "word",
+      "text": "pneu",
+      "description_en": "Tire fitted to a vehicle wheel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000138",
+      "english_id": "en:vcu100:factory:000138",
+      "english_sense_id": "factory-000138",
+      "kind": "word",
+      "text": "roda automotiva",
+      "description_en": "Wheel of a vehicle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000139",
+      "english_id": "en:vcu100:factory:000139",
+      "english_sense_id": "factory-000139",
+      "kind": "word",
+      "text": "freio",
+      "description_en": "System used to slow or stop motion.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000140",
+      "english_id": "en:vcu100:factory:000140",
+      "english_sense_id": "factory-000140",
+      "kind": "word",
+      "text": "bateria",
+      "description_en": "Battery supplying electrical energy.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000141",
+      "english_id": "en:vcu100:factory:000141",
+      "english_sense_id": "factory-000141",
+      "kind": "word",
+      "text": "chicote ou instalação elétrica",
+      "description_en": "Arrangement of electrical wiring.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000142",
+      "english_id": "en:vcu100:factory:000142",
+      "english_sense_id": "factory-000142",
+      "kind": "word",
+      "text": "linha de montagem",
+      "description_en": "Line on which products are assembled.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000143",
+      "english_id": "en:vcu100:factory:000143",
+      "english_sense_id": "factory-000143",
+      "kind": "word",
+      "text": "parafuso",
+      "description_en": "Screw used to fasten parts.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000144",
+      "english_id": "en:vcu100:factory:000144",
+      "english_sense_id": "factory-000144",
+      "kind": "word",
+      "text": "parafuso com porca ou parafuso de máquina",
+      "description_en": "Bolt used to fasten machine components.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000145",
+      "english_id": "en:vcu100:factory:000145",
+      "english_sense_id": "factory-000145",
+      "kind": "word",
+      "text": "porca de fixação",
+      "description_en": "Nut used with a bolt.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000146",
+      "english_id": "en:vcu100:factory:000146",
+      "english_sense_id": "factory-000146",
+      "kind": "word",
+      "text": "aperto de fixação",
+      "description_en": "Tightening of fasteners to a required condition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000147",
+      "english_id": "en:vcu100:factory:000147",
+      "english_sense_id": "factory-000147",
+      "kind": "word",
+      "text": "torque",
+      "description_en": "Twisting force used in tightening.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:auto",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Indústria automotiva"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000148",
+      "english_id": "en:vcu100:factory:000148",
+      "english_sense_id": "factory-000148",
+      "kind": "word",
+      "text": "fábrica de alimentos",
+      "description_en": "Factory producing foods.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000149",
+      "english_id": "en:vcu100:factory:000149",
+      "english_sense_id": "factory-000149",
+      "kind": "word",
+      "text": "marmita japonesa",
+      "description_en": "Prepared meal packed in a box.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000150",
+      "english_id": "en:vcu100:factory:000150",
+      "english_sense_id": "factory-000150",
+      "kind": "word",
+      "text": "comida pronta ou acompanhamento",
+      "description_en": "Prepared dishes sold ready to eat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000151",
+      "english_id": "en:vcu100:factory:000151",
+      "english_sense_id": "factory-000151",
+      "kind": "word",
+      "text": "fermentação",
+      "description_en": "Process in which microorganisms transform food materials.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000152",
+      "english_id": "en:vcu100:factory:000152",
+      "english_sense_id": "factory-000152",
+      "kind": "word",
+      "text": "refrigeração",
+      "description_en": "Storing food at low refrigerated temperature.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000153",
+      "english_id": "en:vcu100:factory:000153",
+      "english_sense_id": "factory-000153",
+      "kind": "word",
+      "text": "congelamento",
+      "description_en": "Storing food in a frozen condition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000154",
+      "english_id": "en:vcu100:factory:000154",
+      "english_sense_id": "factory-000154",
+      "kind": "word",
+      "text": "descongelamento",
+      "description_en": "Thawing a frozen product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000155",
+      "english_id": "en:vcu100:factory:000155",
+      "english_sense_id": "factory-000155",
+      "kind": "word",
+      "text": "aquecimento",
+      "description_en": "Heating a material or food.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000156",
+      "english_id": "en:vcu100:factory:000156",
+      "english_sense_id": "factory-000156",
+      "kind": "word",
+      "text": "eliminação de microrganismos patogênicos",
+      "description_en": "Treatment reducing or killing microorganisms.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000157",
+      "english_id": "en:vcu100:factory:000157",
+      "english_sense_id": "factory-000157",
+      "kind": "word",
+      "text": "desinfecção",
+      "description_en": "Disinfection of an item or area.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000158",
+      "english_id": "en:vcu100:factory:000158",
+      "english_sense_id": "factory-000158",
+      "kind": "word",
+      "text": "controle de higiene",
+      "description_en": "Management of hygienic conditions.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000159",
+      "english_id": "en:vcu100:factory:000159",
+      "english_sense_id": "factory-000159",
+      "kind": "word",
+      "text": "prazo de melhor qualidade",
+      "description_en": "Best-before date indicating expected food quality, distinct from a safety-focused use-by date.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000160",
+      "english_id": "en:vcu100:factory:000160",
+      "english_sense_id": "factory-000160",
+      "kind": "word",
+      "text": "data-limite de consumo",
+      "description_en": "Use-by date for food safety.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000161",
+      "english_id": "en:vcu100:factory:000161",
+      "english_sense_id": "factory-000161",
+      "kind": "word",
+      "text": "pesagem ou medição de ingredientes",
+      "description_en": "Measuring ingredients by amount or weight.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000162",
+      "english_id": "en:vcu100:factory:000162",
+      "english_sense_id": "factory-000162",
+      "kind": "word",
+      "text": "montagem ou apresentação do prato",
+      "description_en": "Arranging food in a container or dish.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000163",
+      "english_id": "en:vcu100:factory:000163",
+      "english_sense_id": "factory-000163",
+      "kind": "word",
+      "text": "embalagem",
+      "description_en": "Wrapping or packing a product.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000164",
+      "english_id": "en:vcu100:factory:000164",
+      "english_sense_id": "factory-000164",
+      "kind": "word",
+      "text": "etiqueta",
+      "description_en": "Label affixed to a package.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:food",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Fábrica de alimentos"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000165",
+      "english_id": "en:vcu100:factory:000165",
+      "english_sense_id": "factory-000165",
+      "kind": "expression",
+      "text": "por favor confira",
+      "description_en": "A polite request to check something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000166",
+      "english_id": "en:vcu100:factory:000166",
+      "english_sense_id": "factory-000166",
+      "kind": "expression",
+      "text": "mais uma vez por favor",
+      "description_en": "A request to repeat an action or explanation.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000167",
+      "english_id": "en:vcu100:factory:000167",
+      "english_sense_id": "factory-000167",
+      "kind": "expression",
+      "text": "não entendi ou não sei",
+      "description_en": "A polite statement of not understanding.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000168",
+      "english_id": "en:vcu100:factory:000168",
+      "english_sense_id": "factory-000168",
+      "kind": "expression",
+      "text": "por favor me ensine",
+      "description_en": "A request for instruction.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000169",
+      "english_id": "en:vcu100:factory:000169",
+      "english_sense_id": "factory-000169",
+      "kind": "expression",
+      "text": "por favor me ajude",
+      "description_en": "A request for help with a task.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000170",
+      "english_id": "en:vcu100:factory:000170",
+      "english_sense_id": "factory-000170",
+      "kind": "expression",
+      "text": "por favor pare",
+      "description_en": "A request to stop a machine or action.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000171",
+      "english_id": "en:vcu100:factory:000171",
+      "english_sense_id": "factory-000171",
+      "kind": "expression",
+      "text": "por favor desligue a energia",
+      "description_en": "A request to switch power off.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000172",
+      "english_id": "en:vcu100:factory:000172",
+      "english_sense_id": "factory-000172",
+      "kind": "expression",
+      "text": "não toque por favor",
+      "description_en": "A request not to touch something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000173",
+      "english_id": "en:vcu100:factory:000173",
+      "english_sense_id": "factory-000173",
+      "kind": "expression",
+      "text": "tenha cuidado por favor",
+      "description_en": "A warning to be careful.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000174",
+      "english_id": "en:vcu100:factory:000174",
+      "english_sense_id": "factory-000174",
+      "kind": "expression",
+      "text": "terminei",
+      "description_en": "Polite statement that a task is finished.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000175",
+      "english_id": "en:vcu100:factory:000175",
+      "english_sense_id": "factory-000175",
+      "kind": "expression",
+      "text": "ainda não terminei",
+      "description_en": "Polite statement that a task is not finished.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000176",
+      "english_id": "en:vcu100:factory:000176",
+      "english_sense_id": "factory-000176",
+      "kind": "expression",
+      "text": "há um problema",
+      "description_en": "Polite report that something is wrong.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000177",
+      "english_id": "en:vcu100:factory:000177",
+      "english_sense_id": "factory-000177",
+      "kind": "expression",
+      "text": "por favor substitua",
+      "description_en": "A request to replace an item.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000178",
+      "english_id": "en:vcu100:factory:000178",
+      "english_sense_id": "factory-000178",
+      "kind": "expression",
+      "text": "por favor conserte",
+      "description_en": "A request to repair something.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:factory:000179",
+      "english_id": "en:vcu100:factory:000179",
+      "english_sense_id": "factory-000179",
+      "kind": "expression",
+      "text": "confira a quantidade por favor",
+      "description_en": "A request to verify an item count.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:factory:instructions",
+      "topics": [
+        "VCU100 · Japonês de Fábrica",
+        "Fábrica · Frases úteis no trabalho"
+      ]
+    }
+  ]
+}
