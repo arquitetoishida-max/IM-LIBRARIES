@@ -1,0 +1,3573 @@
+{
+  "schema_version": 2,
+  "package_id": "vcu100-pt-br-blues-companion",
+  "package_type": "ishida-monolingual",
+  "language": "pt-BR",
+  "region": "pt-BR-VCU100-blues-culture",
+  "name": "VCU100 — Vocabulário de Blues (par português)",
+  "version": "1.0.0",
+  "english_explanations": true,
+  "status": "original-editorial-vcu100",
+  "language_info": {
+    "code": "pt-BR",
+    "flag": "🇧🇷",
+    "locale": "pt-BR",
+    "name_native": "Português (Brasil)",
+    "name_en": "Portuguese (Brazil)",
+    "name_pt": "Português (Brasil)",
+    "name_ja": "ポルトガル語（ブラジル）",
+    "script": "latin"
+  },
+  "role": "specialized",
+  "vcu_family": "VCU100",
+  "domain": "blues_music_culture",
+  "companion_package_id": "vcu100-en-us-blues-culture",
+  "license": "Original ISHIDA MULTILANG lexical descriptions and examples (2026).",
+  "sources": [
+    "LEXICON/editorial/vcu100/aligned/blues-culture-en-US-pt-BR-001.json",
+    "https://www.pbs.org/theblues/classroom/glossary.html"
+  ],
+  "notes": [
+    "221 authentic Blues music and cultural terms with original examples.",
+    "Domain vocabulary relevant to Blues, not all terms are exclusive regional slang.",
+    "Paired PT-BR meanings; independent course and progress namespace from VCU14 and regional Slang."
+  ],
+  "entries": [
+    {
+      "id": "pt-BR:vcu100:blues:000001",
+      "english_id": "en:vcu100:blues:000001",
+      "english_sense_id": "blues-000001",
+      "kind": "word",
+      "text": "blues de doze compassos",
+      "description_en": "A common blues form built around a repeating twelve-bar chord sequence.",
+      "example_en": "The band played a twelve-bar blues in E.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000002",
+      "english_id": "en:vcu100:blues:000002",
+      "english_sense_id": "blues-000002",
+      "kind": "word",
+      "text": "blues de oito compassos",
+      "description_en": "A blues form whose recurring harmonic pattern lasts eight bars.",
+      "example_en": "She chose an eight-bar blues for the set.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000003",
+      "english_id": "en:vcu100:blues:000003",
+      "english_sense_id": "blues-000003",
+      "kind": "word",
+      "text": "blues de dezesseis compassos",
+      "description_en": "A blues form with a sixteen-bar recurring structure.",
+      "example_en": "The guitarist arranged a sixteen-bar blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000004",
+      "english_id": "en:vcu100:blues:000004",
+      "english_sense_id": "blues-000004",
+      "kind": "word",
+      "text": "progressão harmônica de blues",
+      "description_en": "A recurring chord sequence characteristic of blues music.",
+      "example_en": "Learn the blues progression before the solo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000005",
+      "english_id": "en:vcu100:blues:000005",
+      "english_sense_id": "blues-000005",
+      "kind": "word",
+      "text": "virada harmônica de blues",
+      "description_en": "A short phrase marking the end of a cycle and leading back to its start.",
+      "example_en": "The piano played a turnaround at the end.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000006",
+      "english_id": "en:vcu100:blues:000006",
+      "english_sense_id": "blues-000006",
+      "kind": "word",
+      "text": "blues com passagem precoce ao acorde IV",
+      "description_en": "A twelve-bar form that moves to the IV chord in bar two.",
+      "example_en": "Use a quick-change blues for the next tune.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000007",
+      "english_id": "en:vcu100:blues:000007",
+      "english_sense_id": "blues-000007",
+      "kind": "word",
+      "text": "estrutura de letra AAB",
+      "description_en": "A form with two related opening lines followed by a contrasting third line.",
+      "example_en": "The singer used the AAB lyric form.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000008",
+      "english_id": "en:vcu100:blues:000008",
+      "english_sense_id": "blues-000008",
+      "kind": "word",
+      "text": "estrofe de blues",
+      "description_en": "A recurring unit of sung text in a blues composition.",
+      "example_en": "Each blues verse tells part of the story.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000009",
+      "english_id": "en:vcu100:blues:000009",
+      "english_sense_id": "blues-000009",
+      "kind": "word",
+      "text": "ciclo de blues",
+      "description_en": "A complete recurring harmonic cycle, often twelve bars, over which a soloist plays.",
+      "example_en": "The solo continued for two blues choruses.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000010",
+      "english_id": "en:vcu100:blues:000010",
+      "english_sense_id": "blues-000010",
+      "kind": "word",
+      "text": "refrão",
+      "description_en": "A recurring lyric or musical phrase.",
+      "example_en": "The crowd sang the refrain.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000011",
+      "english_id": "en:vcu100:blues:000011",
+      "english_sense_id": "blues-000011",
+      "kind": "word",
+      "text": "ponte musical",
+      "description_en": "A contrasting section connecting parts of a song.",
+      "example_en": "The arrangement adds a bridge after the second verse.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000012",
+      "english_id": "en:vcu100:blues:000012",
+      "english_sense_id": "blues-000012",
+      "kind": "word",
+      "text": "introdução de blues",
+      "description_en": "The opening passage before the main blues cycle.",
+      "example_en": "Count the blues intro before coming in.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000013",
+      "english_id": "en:vcu100:blues:000013",
+      "english_sense_id": "blues-000013",
+      "kind": "word",
+      "text": "finalização de blues",
+      "description_en": "The concluding passage of a blues performance.",
+      "example_en": "The drummer signaled the blues outro.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000014",
+      "english_id": "en:vcu100:blues:000014",
+      "english_sense_id": "blues-000014",
+      "kind": "word",
+      "text": "blues com pausas rítmicas",
+      "description_en": "Blues arrangement with accented stops leaving room for vocal or instrumental phrases.",
+      "example_en": "The band used stop-time blues behind the singer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000015",
+      "english_id": "en:vcu100:blues:000015",
+      "english_sense_id": "blues-000015",
+      "kind": "word",
+      "text": "compasso quaternário",
+      "description_en": "Time signature with four quarter-note beats per bar.",
+      "example_en": "This blues uses four-four time.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000016",
+      "english_id": "en:vcu100:blues:000016",
+      "english_sense_id": "blues-000016",
+      "kind": "word",
+      "text": "blues em seis por oito",
+      "description_en": "A blues feel organized around six eighth-note pulses per measure.",
+      "example_en": "The ballad uses a slow six-eight blues feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000017",
+      "english_id": "en:vcu100:blues:000017",
+      "english_sense_id": "blues-000017",
+      "kind": "word",
+      "text": "blues em doze por oito",
+      "description_en": "A blues feel with four groups of three eighth notes in a bar.",
+      "example_en": "The slow song has a twelve-eight blues groove.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000018",
+      "english_id": "en:vcu100:blues:000018",
+      "english_sense_id": "blues-000018",
+      "kind": "word",
+      "text": "estrutura estrofe-refrão",
+      "description_en": "Song structure alternating verses and choruses.",
+      "example_en": "The song uses verse-chorus form.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000019",
+      "english_id": "en:vcu100:blues:000019",
+      "english_sense_id": "blues-000019",
+      "kind": "word",
+      "text": "trecho instrumental sem voz",
+      "description_en": "A passage performed by instruments between sung sections.",
+      "example_en": "The harmonica plays an instrumental break.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000020",
+      "english_id": "en:vcu100:blues:000020",
+      "english_sense_id": "blues-000020",
+      "kind": "word",
+      "text": "frase final repetida",
+      "description_en": "A short ending phrase repeated or extended to close a song.",
+      "example_en": "Add an ending tag after the final turnaround.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000021",
+      "english_id": "en:vcu100:blues:000021",
+      "english_sense_id": "blues-000021",
+      "kind": "word",
+      "text": "clássico do repertório de blues",
+      "description_en": "A widely known piece often played by blues performers.",
+      "example_en": "The quartet performed a blues standard.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000022",
+      "english_id": "en:vcu100:blues:000022",
+      "english_sense_id": "blues-000022",
+      "kind": "word",
+      "text": "ciclo de doze compassos",
+      "description_en": "One full pass through a twelve-bar structure.",
+      "example_en": "Improvise over two twelve-bar cycles.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:form",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Formas e progressões"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000023",
+      "english_id": "en:vcu100:blues:000023",
+      "english_sense_id": "blues-000023",
+      "kind": "word",
+      "text": "ritmo shuffle",
+      "description_en": "A loping rhythm with uneven long-short subdivisions.",
+      "example_en": "The drummer switched to a shuffle rhythm.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000024",
+      "english_id": "en:vcu100:blues:000024",
+      "english_sense_id": "blues-000024",
+      "kind": "word",
+      "text": "colcheias swingadas",
+      "description_en": "Eighth notes performed with a long-short rhythmic feel.",
+      "example_en": "Play the eighth notes with a swing feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000025",
+      "english_id": "en:vcu100:blues:000025",
+      "english_sense_id": "blues-000025",
+      "kind": "word",
+      "text": "colcheias retas",
+      "description_en": "Evenly spaced eighth-note subdivisions.",
+      "example_en": "The band used straight eighth notes for this song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000026",
+      "english_id": "en:vcu100:blues:000026",
+      "english_sense_id": "blues-000026",
+      "kind": "word",
+      "text": "subdivisão ternária do pulso",
+      "description_en": "Rhythmic feel dividing beats into three parts.",
+      "example_en": "Keep the triplet feel steady.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000027",
+      "english_id": "en:vcu100:blues:000027",
+      "english_sense_id": "blues-000027",
+      "kind": "word",
+      "text": "acento nos tempos dois e quatro",
+      "description_en": "Strong emphasis on beats two and four in common time.",
+      "example_en": "The snare drum drives the backbeat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000028",
+      "english_id": "en:vcu100:blues:000028",
+      "english_sense_id": "blues-000028",
+      "kind": "word",
+      "text": "primeiro tempo do compasso",
+      "description_en": "The first beat of a measure.",
+      "example_en": "Enter on the downbeat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000029",
+      "english_id": "en:vcu100:blues:000029",
+      "english_sense_id": "blues-000029",
+      "kind": "word",
+      "text": "contratempo",
+      "description_en": "A beat subdivision between main pulses.",
+      "example_en": "Accent the offbeat with the guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000030",
+      "english_id": "en:vcu100:blues:000030",
+      "english_sense_id": "blues-000030",
+      "kind": "word",
+      "text": "síncope",
+      "description_en": "Accents placed away from expected strong beats.",
+      "example_en": "Syncopation gives the riff energy.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000031",
+      "english_id": "en:vcu100:blues:000031",
+      "english_sense_id": "blues-000031",
+      "kind": "word",
+      "text": "levada rítmica",
+      "description_en": "The combined rhythmic feel produced by the musicians.",
+      "example_en": "The band found a relaxed groove.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000032",
+      "english_id": "en:vcu100:blues:000032",
+      "english_sense_id": "blues-000032",
+      "kind": "word",
+      "text": "encaixado no tempo",
+      "description_en": "Playing with precise shared timing and rhythmic feel.",
+      "example_en": "The bassist stayed in the pocket.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000033",
+      "english_id": "en:vcu100:blues:000033",
+      "english_sense_id": "blues-000033",
+      "kind": "word",
+      "text": "levada rítmica relaxada",
+      "description_en": "A rhythm played with a relaxed placement against the pulse.",
+      "example_en": "The slow blues needs a laid-back groove.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000034",
+      "english_id": "en:vcu100:blues:000034",
+      "english_sense_id": "blues-000034",
+      "kind": "word",
+      "text": "linha de baixo caminhante",
+      "description_en": "A bass line moving steadily through successive notes.",
+      "example_en": "The bassist played a walking bass.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000035",
+      "english_id": "en:vcu100:blues:000035",
+      "english_sense_id": "blues-000035",
+      "kind": "word",
+      "text": "ritmo boogie",
+      "description_en": "A repetitive dance-oriented rhythmic pattern common in blues and boogie-woogie.",
+      "example_en": "The piano established a boogie rhythm.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000036",
+      "english_id": "en:vcu100:blues:000036",
+      "english_sense_id": "blues-000036",
+      "kind": "word",
+      "text": "shuffle texano",
+      "description_en": "A shuffle style associated with Texas blues performance.",
+      "example_en": "The guitarist called for a Texas shuffle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000037",
+      "english_id": "en:vcu100:blues:000037",
+      "english_sense_id": "blues-000037",
+      "kind": "word",
+      "text": "shuffle de Chicago",
+      "description_en": "A driving shuffle commonly associated with Chicago blues.",
+      "example_en": "The drummer played a Chicago shuffle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000038",
+      "english_id": "en:vcu100:blues:000038",
+      "english_sense_id": "blues-000038",
+      "kind": "word",
+      "text": "blues lento",
+      "description_en": "Blues performance at a slow tempo.",
+      "example_en": "The singer chose a slow blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000039",
+      "english_id": "en:vcu100:blues:000039",
+      "english_sense_id": "blues-000039",
+      "kind": "word",
+      "text": "batida marcada de blues",
+      "description_en": "A strong repeated foot-driven or percussive blues rhythm.",
+      "example_en": "The stomp gave the song momentum.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000040",
+      "english_id": "en:vcu100:blues:000040",
+      "english_sense_id": "blues-000040",
+      "kind": "word",
+      "text": "ostinato rítmico repetido",
+      "description_en": "A short rhythm or chord figure repeated behind improvisation.",
+      "example_en": "Keep the rhythmic vamp going.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000041",
+      "english_id": "en:vcu100:blues:000041",
+      "english_sense_id": "blues-000041",
+      "kind": "word",
+      "text": "sensação rítmica de meio tempo",
+      "description_en": "Rhythmic placement creating the impression of half the tempo.",
+      "example_en": "The bridge drops into a half-time feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000042",
+      "english_id": "en:vcu100:blues:000042",
+      "english_sense_id": "blues-000042",
+      "kind": "word",
+      "text": "sensação rítmica de tempo dobrado",
+      "description_en": "Rhythmic placement creating the impression of twice the tempo.",
+      "example_en": "The solo uses a double-time feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000043",
+      "english_id": "en:vcu100:blues:000043",
+      "english_sense_id": "blues-000043",
+      "kind": "word",
+      "text": "velocidade musical",
+      "description_en": "The speed of a musical performance.",
+      "example_en": "Set the tempo before counting in.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000044",
+      "english_id": "en:vcu100:blues:000044",
+      "english_sense_id": "blues-000044",
+      "kind": "word",
+      "text": "contagem para iniciar",
+      "description_en": "Spoken or played beats that prepare a band to start together.",
+      "example_en": "The drummer gave a four-beat count-in.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000045",
+      "english_id": "en:vcu100:blues:000045",
+      "english_sense_id": "blues-000045",
+      "kind": "word",
+      "text": "pausa coletiva da banda",
+      "description_en": "A short interruption in the ensemble's regular pattern.",
+      "example_en": "The guitarist filled the rhythm break.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000046",
+      "english_id": "en:vcu100:blues:000046",
+      "english_sense_id": "blues-000046",
+      "kind": "word",
+      "text": "balanço de swing",
+      "description_en": "Rhythmic feel based on uneven subdivisions and forward motion.",
+      "example_en": "The song has a light swing feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:rhythm",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Ritmos e levadas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000047",
+      "english_id": "en:vcu100:blues:000047",
+      "english_sense_id": "blues-000047",
+      "kind": "word",
+      "text": "nota blue",
+      "description_en": "A pitch used expressively between or around the conventional scale tones.",
+      "example_en": "Hold the blue note during the bend.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000048",
+      "english_id": "en:vcu100:blues:000048",
+      "english_sense_id": "blues-000048",
+      "kind": "word",
+      "text": "terça menor",
+      "description_en": "The third scale degree lowered by a semitone relative to a major scale.",
+      "example_en": "The solo emphasizes the flat third.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000049",
+      "english_id": "en:vcu100:blues:000049",
+      "english_sense_id": "blues-000049",
+      "kind": "word",
+      "text": "quinta diminuta",
+      "description_en": "The fifth scale degree lowered by a semitone.",
+      "example_en": "Use the flat fifth as a passing tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000050",
+      "english_id": "en:vcu100:blues:000050",
+      "english_sense_id": "blues-000050",
+      "kind": "word",
+      "text": "sétima menor",
+      "description_en": "The seventh scale degree lowered relative to the major scale.",
+      "example_en": "The flat seventh adds blues color.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000051",
+      "english_id": "en:vcu100:blues:000051",
+      "english_sense_id": "blues-000051",
+      "kind": "word",
+      "text": "escala blues",
+      "description_en": "A scale commonly built from minor pentatonic notes plus a chromatic passing tone.",
+      "example_en": "Practice the blues scale in A.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000052",
+      "english_id": "en:vcu100:blues:000052",
+      "english_sense_id": "blues-000052",
+      "kind": "word",
+      "text": "escala pentatônica menor",
+      "description_en": "A five-note scale widely used in blues solos.",
+      "example_en": "Start with the minor pentatonic scale.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000053",
+      "english_id": "en:vcu100:blues:000053",
+      "english_sense_id": "blues-000053",
+      "kind": "word",
+      "text": "escala pentatônica maior",
+      "description_en": "A five-note major-type scale used in blues phrasing.",
+      "example_en": "Mix major and minor pentatonic colors.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000054",
+      "english_id": "en:vcu100:blues:000054",
+      "english_sense_id": "blues-000054",
+      "kind": "word",
+      "text": "acorde de sétima dominante",
+      "description_en": "A major triad with a minor seventh, commonly used in blues harmony.",
+      "example_en": "The V chord is a dominant seventh chord.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000055",
+      "english_id": "en:vcu100:blues:000055",
+      "english_sense_id": "blues-000055",
+      "kind": "word",
+      "text": "acorde de nona dominante",
+      "description_en": "A dominant seventh harmony with an added ninth.",
+      "example_en": "Play a dominant ninth chord at the turnaround.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000056",
+      "english_id": "en:vcu100:blues:000056",
+      "english_sense_id": "blues-000056",
+      "kind": "word",
+      "text": "acorde de décima terceira dominante",
+      "description_en": "A dominant chord extended to the thirteenth.",
+      "example_en": "The pianist voiced a dominant thirteenth chord.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000057",
+      "english_id": "en:vcu100:blues:000057",
+      "english_sense_id": "blues-000057",
+      "kind": "word",
+      "text": "acorde de tônica",
+      "description_en": "The chord built on the home key's tonic.",
+      "example_en": "The progression returns to the tonic chord.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000058",
+      "english_id": "en:vcu100:blues:000058",
+      "english_sense_id": "blues-000058",
+      "kind": "word",
+      "text": "acorde subdominante",
+      "description_en": "The chord on the fourth scale degree in conventional blues harmony.",
+      "example_en": "The subdominant chord appears in bar five.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000059",
+      "english_id": "en:vcu100:blues:000059",
+      "english_sense_id": "blues-000059",
+      "kind": "word",
+      "text": "acorde dominante",
+      "description_en": "The chord on the fifth scale degree in conventional blues harmony.",
+      "example_en": "The dominant chord leads back to the tonic.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000060",
+      "english_id": "en:vcu100:blues:000060",
+      "english_sense_id": "blues-000060",
+      "kind": "word",
+      "text": "substituição de acordes",
+      "description_en": "Using a different harmony in place of an expected chord.",
+      "example_en": "The pianist added a chord substitution.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000061",
+      "english_id": "en:vcu100:blues:000061",
+      "english_sense_id": "blues-000061",
+      "kind": "word",
+      "text": "nota cromática de passagem",
+      "description_en": "A note outside the main scale used to connect nearby pitches.",
+      "example_en": "Add a chromatic passing note between phrases.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000062",
+      "english_id": "en:vcu100:blues:000062",
+      "english_sense_id": "blues-000062",
+      "kind": "word",
+      "text": "nota fundamental",
+      "description_en": "The pitch naming a chord or serving as its harmonic base.",
+      "example_en": "Play the root note on beat one.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000063",
+      "english_id": "en:vcu100:blues:000063",
+      "english_sense_id": "blues-000063",
+      "kind": "word",
+      "text": "blues em tonalidade menor",
+      "description_en": "Blues based on a minor-key harmonic framework.",
+      "example_en": "The second song is a minor blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000064",
+      "english_id": "en:vcu100:blues:000064",
+      "english_sense_id": "blues-000064",
+      "kind": "word",
+      "text": "blues em tonalidade maior",
+      "description_en": "Blues centered on a major key, often using blue notes.",
+      "example_en": "The singer favors major-key blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000065",
+      "english_id": "en:vcu100:blues:000065",
+      "english_sense_id": "blues-000065",
+      "kind": "word",
+      "text": "tensão e resolução",
+      "description_en": "Movement from musical instability toward rest.",
+      "example_en": "Build tension and release in the solo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000066",
+      "english_id": "en:vcu100:blues:000066",
+      "english_sense_id": "blues-000066",
+      "kind": "word",
+      "text": "frase curta de blues",
+      "description_en": "A short melodic figure characteristic of blues phrasing.",
+      "example_en": "Practice the blues lick slowly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmony",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Harmonia e escalas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000067",
+      "english_id": "en:vcu100:blues:000067",
+      "english_sense_id": "blues-000067",
+      "kind": "word",
+      "text": "guitarra com slide",
+      "description_en": "A style of guitar playing using a smooth object to change string pitch.",
+      "example_en": "The solo features slide guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000068",
+      "english_id": "en:vcu100:blues:000068",
+      "english_sense_id": "blues-000068",
+      "kind": "word",
+      "text": "slide de gargalo de garrafa",
+      "description_en": "A glass or metal tube worn on a finger to slide along guitar strings.",
+      "example_en": "He used a bottleneck slide.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000069",
+      "english_id": "en:vcu100:blues:000069",
+      "english_sense_id": "blues-000069",
+      "kind": "word",
+      "text": "afinação aberta",
+      "description_en": "Guitar tuning that forms a chord on unfretted strings.",
+      "example_en": "Open tuning works well for slide guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000070",
+      "english_id": "en:vcu100:blues:000070",
+      "english_sense_id": "blues-000070",
+      "kind": "word",
+      "text": "afinação aberta em sol",
+      "description_en": "Guitar tuning whose open strings form a G chord.",
+      "example_en": "The guitarist played in open G tuning.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000071",
+      "english_id": "en:vcu100:blues:000071",
+      "english_sense_id": "blues-000071",
+      "kind": "word",
+      "text": "afinação aberta em ré",
+      "description_en": "Guitar tuning whose open strings form a D chord.",
+      "example_en": "The song uses open D tuning.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000072",
+      "english_id": "en:vcu100:blues:000072",
+      "english_sense_id": "blues-000072",
+      "kind": "word",
+      "text": "violão ressonador",
+      "description_en": "A guitar with a metal resonator cone that amplifies string vibration acoustically.",
+      "example_en": "The resonator guitar has a metallic tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000073",
+      "english_id": "en:vcu100:blues:000073",
+      "english_sense_id": "blues-000073",
+      "kind": "word",
+      "text": "violão acústico de blues",
+      "description_en": "Acoustic guitar used for blues performance.",
+      "example_en": "She performed on acoustic blues guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000074",
+      "english_id": "en:vcu100:blues:000074",
+      "english_sense_id": "blues-000074",
+      "kind": "word",
+      "text": "guitarra elétrica de blues",
+      "description_en": "Amplified electric guitar used for blues performance.",
+      "example_en": "The electric blues guitar leads the band.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000075",
+      "english_id": "en:vcu100:blues:000075",
+      "english_sense_id": "blues-000075",
+      "kind": "word",
+      "text": "dedilhado com os dedos",
+      "description_en": "Guitar technique plucking strings with individual fingers.",
+      "example_en": "Fingerpicking makes the bass line move.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000076",
+      "english_id": "en:vcu100:blues:000076",
+      "english_sense_id": "blues-000076",
+      "kind": "word",
+      "text": "baixo alternado no violão",
+      "description_en": "A guitar pattern alternating low notes beneath a melody.",
+      "example_en": "Use alternating bass with the thumb.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000077",
+      "english_id": "en:vcu100:blues:000077",
+      "english_sense_id": "blues-000077",
+      "kind": "word",
+      "text": "baixo tocado pelo polegar",
+      "description_en": "Low guitar notes plucked by the picking-hand thumb.",
+      "example_en": "Keep the thumb-picked bass steady.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000078",
+      "english_id": "en:vcu100:blues:000078",
+      "english_sense_id": "blues-000078",
+      "kind": "word",
+      "text": "violão fingerstyle",
+      "description_en": "Playing guitar strings with the fingers rather than mainly a pick.",
+      "example_en": "The guitarist teaches fingerstyle guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000079",
+      "english_id": "en:vcu100:blues:000079",
+      "english_sense_id": "blues-000079",
+      "kind": "word",
+      "text": "palhetada com palheta plana",
+      "description_en": "Playing individual guitar notes using a flat pick.",
+      "example_en": "Flatpicking gives the phrase a sharp attack.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000080",
+      "english_id": "en:vcu100:blues:000080",
+      "english_sense_id": "blues-000080",
+      "kind": "word",
+      "text": "bend de corda",
+      "description_en": "Changing a guitar note's pitch by pushing or pulling a string.",
+      "example_en": "The solo ends with a long string bend.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000081",
+      "english_id": "en:vcu100:blues:000081",
+      "english_sense_id": "blues-000081",
+      "kind": "word",
+      "text": "bend com duas notas",
+      "description_en": "A guitar bend involving two-note phrasing.",
+      "example_en": "Practice the double-stop bend carefully.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000082",
+      "english_id": "en:vcu100:blues:000082",
+      "english_sense_id": "blues-000082",
+      "kind": "word",
+      "text": "vibrato",
+      "description_en": "Repeated small changes in pitch that give a sustained note expression.",
+      "example_en": "Slow vibrato makes the note sing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000083",
+      "english_id": "en:vcu100:blues:000083",
+      "english_sense_id": "blues-000083",
+      "kind": "word",
+      "text": "ligado ascendente na guitarra",
+      "description_en": "Sounding a higher note by striking a finger onto a fret.",
+      "example_en": "Use a hammer-on in the opening lick.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000084",
+      "english_id": "en:vcu100:blues:000084",
+      "english_sense_id": "blues-000084",
+      "kind": "word",
+      "text": "ligado descendente na guitarra",
+      "description_en": "Sounding a lower note by removing a fretting finger.",
+      "example_en": "Add a pull-off after the bend.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000085",
+      "english_id": "en:vcu100:blues:000085",
+      "english_sense_id": "blues-000085",
+      "kind": "word",
+      "text": "deslizamento entre notas",
+      "description_en": "A continuous slide in pitch between notes.",
+      "example_en": "The phrase ends with a glissando.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000086",
+      "english_id": "en:vcu100:blues:000086",
+      "english_sense_id": "blues-000086",
+      "kind": "word",
+      "text": "abafamento com a palma",
+      "description_en": "Reducing string resonance with the side of the picking hand.",
+      "example_en": "Use palm muting on the bass strings.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000087",
+      "english_id": "en:vcu100:blues:000087",
+      "english_sense_id": "blues-000087",
+      "kind": "word",
+      "text": "ataque da palheta",
+      "description_en": "The way a pick initially strikes a string.",
+      "example_en": "A softer pick attack changes the tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000088",
+      "english_id": "en:vcu100:blues:000088",
+      "english_sense_id": "blues-000088",
+      "kind": "word",
+      "text": "riff de guitarra",
+      "description_en": "A repeating short guitar figure.",
+      "example_en": "The guitar riff drives the song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000089",
+      "english_id": "en:vcu100:blues:000089",
+      "english_sense_id": "blues-000089",
+      "kind": "word",
+      "text": "solo de guitarra",
+      "description_en": "An extended passage led by a guitarist.",
+      "example_en": "The guitar solo begins after the second verse.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000090",
+      "english_id": "en:vcu100:blues:000090",
+      "english_sense_id": "blues-000090",
+      "kind": "word",
+      "text": "frase de preenchimento na guitarra",
+      "description_en": "A short guitar passage played between vocal lines.",
+      "example_en": "Play a guitar fill after the singer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000091",
+      "english_id": "en:vcu100:blues:000091",
+      "english_sense_id": "blues-000091",
+      "kind": "word",
+      "text": "afinação precisa do slide",
+      "description_en": "Accuracy of pitch when using a guitar slide.",
+      "example_en": "Practice slide intonation against the chord.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000092",
+      "english_id": "en:vcu100:blues:000092",
+      "english_sense_id": "blues-000092",
+      "kind": "word",
+      "text": "mão que pressiona as cordas",
+      "description_en": "The guitar hand pressing strings against frets.",
+      "example_en": "Relax the fretting hand.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000093",
+      "english_id": "en:vcu100:blues:000093",
+      "english_sense_id": "blues-000093",
+      "kind": "word",
+      "text": "mão de ataque das cordas",
+      "description_en": "The hand that plucks or strikes guitar strings.",
+      "example_en": "Keep the picking hand loose.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000094",
+      "english_id": "en:vcu100:blues:000094",
+      "english_sense_id": "blues-000094",
+      "kind": "word",
+      "text": "saturação do amplificador",
+      "description_en": "The sound produced when a guitar amplifier is driven into mild distortion.",
+      "example_en": "Use light amp overdrive for the solo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000095",
+      "english_id": "en:vcu100:blues:000095",
+      "english_sense_id": "blues-000095",
+      "kind": "word",
+      "text": "amplificador valvulado",
+      "description_en": "Amplifier using vacuum tubes in its circuits.",
+      "example_en": "The tube amplifier gives a warm sound.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000096",
+      "english_id": "en:vcu100:blues:000096",
+      "english_sense_id": "blues-000096",
+      "kind": "word",
+      "text": "timbre da guitarra",
+      "description_en": "The overall sound color and character of the guitar.",
+      "example_en": "Adjust the controls for a cleaner guitar tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:guitar",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Guitarra e violão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000097",
+      "english_id": "en:vcu100:blues:000097",
+      "english_sense_id": "blues-000097",
+      "kind": "word",
+      "text": "gaita de blues",
+      "description_en": "A harmonica used for blues melodies and riffs.",
+      "example_en": "He played blues harmonica between verses.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000098",
+      "english_id": "en:vcu100:blues:000098",
+      "english_sense_id": "blues-000098",
+      "kind": "word",
+      "text": "gaita diatônica",
+      "description_en": "A harmonica primarily laid out for a major diatonic scale.",
+      "example_en": "The player selected a diatonic harmonica.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000099",
+      "english_id": "en:vcu100:blues:000099",
+      "english_sense_id": "blues-000099",
+      "kind": "word",
+      "text": "gaita cromática",
+      "description_en": "A harmonica designed to play all chromatic notes.",
+      "example_en": "The chromatic harmonica has a slide button.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000100",
+      "english_id": "en:vcu100:blues:000100",
+      "english_sense_id": "blues-000100",
+      "kind": "word",
+      "text": "harpa de blues (gaita)",
+      "description_en": "Informal name for the harmonica in blues music.",
+      "example_en": "The band needs a blues harp player.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000101",
+      "english_id": "en:vcu100:blues:000101",
+      "english_sense_id": "blues-000101",
+      "kind": "word",
+      "text": "gaita em segunda posição",
+      "description_en": "Playing diatonic harmonica in second position relative to its labeled key.",
+      "example_en": "Use cross harp for a classic blues feel.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000102",
+      "english_id": "en:vcu100:blues:000102",
+      "english_sense_id": "blues-000102",
+      "kind": "word",
+      "text": "gaita em primeira posição",
+      "description_en": "Playing a harmonica in first position, centered on its labeled key.",
+      "example_en": "The melody uses straight harp.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000103",
+      "english_id": "en:vcu100:blues:000103",
+      "english_sense_id": "blues-000103",
+      "kind": "word",
+      "text": "gaita em terceira posição",
+      "description_en": "Playing harmonica in third position relative to its labeled key.",
+      "example_en": "Third-position harp suits many minor sounds.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000104",
+      "english_id": "en:vcu100:blues:000104",
+      "english_sense_id": "blues-000104",
+      "kind": "word",
+      "text": "bend na nota aspirada",
+      "description_en": "Lowering the pitch of a draw note by changing airflow and embouchure.",
+      "example_en": "Practice the draw bend slowly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000105",
+      "english_id": "en:vcu100:blues:000105",
+      "english_sense_id": "blues-000105",
+      "kind": "word",
+      "text": "bend na nota soprada",
+      "description_en": "Lowering the pitch of a blow note on suitable harmonica holes.",
+      "example_en": "Use a blow bend in the high register.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000106",
+      "english_id": "en:vcu100:blues:000106",
+      "english_sense_id": "blues-000106",
+      "kind": "word",
+      "text": "overblow na gaita",
+      "description_en": "Advanced harmonica technique sounding a reed not normally heard on that breath direction.",
+      "example_en": "The solo includes an overblow.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000107",
+      "english_id": "en:vcu100:blues:000107",
+      "english_sense_id": "blues-000107",
+      "kind": "word",
+      "text": "bloqueio com a língua na gaita",
+      "description_en": "Technique using the tongue to block holes while sounding others.",
+      "example_en": "Tongue blocking creates a full chord effect.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000108",
+      "english_id": "en:vcu100:blues:000108",
+      "english_sense_id": "blues-000108",
+      "kind": "word",
+      "text": "efeito uá com as mãos",
+      "description_en": "Expressive tonal change made by opening and closing cupped hands around a harmonica.",
+      "example_en": "Use a hand wah to shape the note.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000109",
+      "english_id": "en:vcu100:blues:000109",
+      "english_sense_id": "blues-000109",
+      "kind": "word",
+      "text": "microfone para gaita",
+      "description_en": "Microphone used to amplify a harmonica.",
+      "example_en": "The harp microphone feeds a small amplifier.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000110",
+      "english_id": "en:vcu100:blues:000110",
+      "english_sense_id": "blues-000110",
+      "kind": "word",
+      "text": "gaita com as mãos em concha",
+      "description_en": "Playing a harmonica while cupping hands around it and a microphone.",
+      "example_en": "The player used a cupped harmonica tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000111",
+      "english_id": "en:vcu100:blues:000111",
+      "english_sense_id": "blues-000111",
+      "kind": "word",
+      "text": "amplificador para gaita",
+      "description_en": "Amplifier chosen for a harmonica's electric blues sound.",
+      "example_en": "The harp amplifier is turned down.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:harmonica",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Gaita"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000112",
+      "english_id": "en:vcu100:blues:000112",
+      "english_sense_id": "blues-000112",
+      "kind": "word",
+      "text": "piano boogie-woogie",
+      "description_en": "A blues-related piano style with strong repeating left-hand bass figures.",
+      "example_en": "The pianist opened with boogie-woogie piano.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000113",
+      "english_id": "en:vcu100:blues:000113",
+      "english_sense_id": "blues-000113",
+      "kind": "word",
+      "text": "piano de estilo barrelhouse",
+      "description_en": "A forceful rhythmic piano style associated with early blues bars.",
+      "example_en": "The barrelhouse piano echoed through the room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000114",
+      "english_id": "en:vcu100:blues:000114",
+      "english_sense_id": "blues-000114",
+      "kind": "word",
+      "text": "ostinato da mão esquerda",
+      "description_en": "A musical pattern repeated by the left hand on piano.",
+      "example_en": "The left-hand ostinato continues under the melody.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000115",
+      "english_id": "en:vcu100:blues:000115",
+      "english_sense_id": "blues-000115",
+      "kind": "word",
+      "text": "baixo caminhante ao piano",
+      "description_en": "A piano left-hand pattern outlining moving bass notes.",
+      "example_en": "The pianist added walking bass piano.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000116",
+      "english_id": "en:vcu100:blues:000116",
+      "english_sense_id": "blues-000116",
+      "kind": "word",
+      "text": "riff de piano",
+      "description_en": "A short repeated figure played on piano.",
+      "example_en": "The piano riff opens the arrangement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000117",
+      "english_id": "en:vcu100:blues:000117",
+      "english_sense_id": "blues-000117",
+      "kind": "word",
+      "text": "piano stride",
+      "description_en": "A style alternating bass notes and chords between left-hand beats.",
+      "example_en": "Stride piano influenced early blues players.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000118",
+      "english_id": "en:vcu100:blues:000118",
+      "english_sense_id": "blues-000118",
+      "kind": "word",
+      "text": "trêmolo no piano",
+      "description_en": "Rapid alternation or repetition that creates a trembling effect.",
+      "example_en": "The piano tremolo builds intensity.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000119",
+      "english_id": "en:vcu100:blues:000119",
+      "english_sense_id": "blues-000119",
+      "kind": "word",
+      "text": "nota de apogiatura rápida",
+      "description_en": "A short ornamental note played near a main note.",
+      "example_en": "The pianist added a grace note.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000120",
+      "english_id": "en:vcu100:blues:000120",
+      "english_sense_id": "blues-000120",
+      "kind": "word",
+      "text": "linha de baixo rolante",
+      "description_en": "A flowing repeating bass accompaniment pattern.",
+      "example_en": "The rolling bass line supports the shuffle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000121",
+      "english_id": "en:vcu100:blues:000121",
+      "english_sense_id": "blues-000121",
+      "kind": "word",
+      "text": "frase da mão direita no piano",
+      "description_en": "A short melodic phrase between vocal or instrumental lines.",
+      "example_en": "The right-hand fill answers the singer.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000122",
+      "english_id": "en:vcu100:blues:000122",
+      "english_sense_id": "blues-000122",
+      "kind": "word",
+      "text": "acompanhamento harmônico ao piano",
+      "description_en": "Playing rhythmic chords to support other performers.",
+      "example_en": "The pianist focused on piano comping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000123",
+      "english_id": "en:vcu100:blues:000123",
+      "english_sense_id": "blues-000123",
+      "kind": "word",
+      "text": "oitava em trêmolo",
+      "description_en": "Rapid alternation between octave notes on piano.",
+      "example_en": "The ending features a tremolo octave.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000124",
+      "english_id": "en:vcu100:blues:000124",
+      "english_sense_id": "blues-000124",
+      "kind": "word",
+      "text": "linha de baixo boogie",
+      "description_en": "A repeating rhythmic bass line associated with boogie-woogie.",
+      "example_en": "Play the boogie bass line in C.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000125",
+      "english_id": "en:vcu100:blues:000125",
+      "english_sense_id": "blues-000125",
+      "kind": "word",
+      "text": "intervenção de piano",
+      "description_en": "A short featured piano passage while other instruments step back.",
+      "example_en": "The piano break comes after the chorus.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000126",
+      "english_id": "en:vcu100:blues:000126",
+      "english_sense_id": "blues-000126",
+      "kind": "word",
+      "text": "solo de piano blues",
+      "description_en": "Improvised or prepared passage led by a blues pianist.",
+      "example_en": "The blues piano solo lasted one chorus.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:piano",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Piano e teclas"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000127",
+      "english_id": "en:vcu100:blues:000127",
+      "english_sense_id": "blues-000127",
+      "kind": "word",
+      "text": "batida shuffle na bateria",
+      "description_en": "A drumbeat creating a long-short swing pulse.",
+      "example_en": "The drummer played a shuffle beat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000128",
+      "english_id": "en:vcu100:blues:000128",
+      "english_sense_id": "blues-000128",
+      "kind": "word",
+      "text": "acentuação da caixa nos tempos fracos",
+      "description_en": "Snare accents on beats two and four in common time.",
+      "example_en": "The snare backbeat anchors the song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000129",
+      "english_id": "en:vcu100:blues:000129",
+      "english_sense_id": "blues-000129",
+      "kind": "word",
+      "text": "prato de condução",
+      "description_en": "A cymbal used to maintain a repeated rhythm.",
+      "example_en": "Play the pulse on the ride cymbal.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000130",
+      "english_id": "en:vcu100:blues:000130",
+      "english_sense_id": "blues-000130",
+      "kind": "word",
+      "text": "chimbal",
+      "description_en": "A pair of cymbals played with a pedal or sticks.",
+      "example_en": "Close the hi-hat on beat two.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000131",
+      "english_id": "en:vcu100:blues:000131",
+      "english_sense_id": "blues-000131",
+      "kind": "word",
+      "text": "bumbo",
+      "description_en": "A large bass drum played using a pedal.",
+      "example_en": "The kick drum follows the bass guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000132",
+      "english_id": "en:vcu100:blues:000132",
+      "english_sense_id": "blues-000132",
+      "kind": "word",
+      "text": "virada de bateria",
+      "description_en": "A short drum phrase connecting song sections.",
+      "example_en": "A drum fill introduces the solo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000133",
+      "english_id": "en:vcu100:blues:000133",
+      "english_sense_id": "blues-000133",
+      "kind": "word",
+      "text": "vassourinhas de bateria",
+      "description_en": "Wire brushes used instead of drumsticks for softer playing.",
+      "example_en": "Use brushes for the slow blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000134",
+      "english_id": "en:vcu100:blues:000134",
+      "english_sense_id": "blues-000134",
+      "kind": "word",
+      "text": "rimshot (ataque simultâneo de pele e aro)",
+      "description_en": "A snare stroke contacting the drumhead and rim at once.",
+      "example_en": "The rimshot accents the backbeat.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000135",
+      "english_id": "en:vcu100:blues:000135",
+      "english_sense_id": "blues-000135",
+      "kind": "word",
+      "text": "notas fantasma na bateria",
+      "description_en": "Very soft drum strokes between louder accents.",
+      "example_en": "Ghost notes make the groove lively.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000136",
+      "english_id": "en:vcu100:blues:000136",
+      "english_sense_id": "blues-000136",
+      "kind": "word",
+      "text": "ataque de prato de efeito",
+      "description_en": "A strong cymbal strike highlighting a transition.",
+      "example_en": "The cymbal crash marks the final bar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000137",
+      "english_id": "en:vcu100:blues:000137",
+      "english_sense_id": "blues-000137",
+      "kind": "word",
+      "text": "padrão shuffle de bateria",
+      "description_en": "A recurring pattern used to maintain a shuffle.",
+      "example_en": "The drummer varied the drum shuffle pattern.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000138",
+      "english_id": "en:vcu100:blues:000138",
+      "english_sense_id": "blues-000138",
+      "kind": "word",
+      "text": "contagem inicial do baterista",
+      "description_en": "A count given by the drummer to start together.",
+      "example_en": "The drum count-off was too fast.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:drums",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Bateria e percussão"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000139",
+      "english_id": "en:vcu100:blues:000139",
+      "english_sense_id": "blues-000139",
+      "kind": "word",
+      "text": "baixo elétrico",
+      "description_en": "Amplified low-pitched guitar used for bass lines.",
+      "example_en": "The electric bass guitar supports the groove.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000140",
+      "english_id": "en:vcu100:blues:000140",
+      "english_sense_id": "blues-000140",
+      "kind": "word",
+      "text": "contrabaixo acústico vertical",
+      "description_en": "Large acoustic bass instrument held upright.",
+      "example_en": "The upright bass gives the song a woody tone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000141",
+      "english_id": "en:vcu100:blues:000141",
+      "english_sense_id": "blues-000141",
+      "kind": "word",
+      "text": "linha de baixo",
+      "description_en": "The sequence of notes played in the bass register.",
+      "example_en": "Keep the bass line steady.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000142",
+      "english_id": "en:vcu100:blues:000142",
+      "english_sense_id": "blues-000142",
+      "kind": "word",
+      "text": "padrão fundamental-quinta",
+      "description_en": "A bass figure alternating root and fifth scale degrees.",
+      "example_en": "The root-fifth pattern drives the rhythm.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000143",
+      "english_id": "en:vcu100:blues:000143",
+      "english_sense_id": "blues-000143",
+      "kind": "word",
+      "text": "deslizamento no baixo",
+      "description_en": "A smooth move between bass notes.",
+      "example_en": "The player added a bass slide.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000144",
+      "english_id": "en:vcu100:blues:000144",
+      "english_sense_id": "blues-000144",
+      "kind": "word",
+      "text": "virada da linha de baixo",
+      "description_en": "A short bass pattern leading into the next harmonic cycle.",
+      "example_en": "The bass turnaround signals the next verse.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000145",
+      "english_id": "en:vcu100:blues:000145",
+      "english_sense_id": "blues-000145",
+      "kind": "word",
+      "text": "levada do baixo",
+      "description_en": "The characteristic rhythm and feel of the bass part.",
+      "example_en": "The bass groove locks with the drums.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000146",
+      "english_id": "en:vcu100:blues:000146",
+      "english_sense_id": "blues-000146",
+      "kind": "word",
+      "text": "anacruse do baixo",
+      "description_en": "A short bass phrase leading into a new section.",
+      "example_en": "The bass pickup starts the song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:bass",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Contrabaixo"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000147",
+      "english_id": "en:vcu100:blues:000147",
+      "english_sense_id": "blues-000147",
+      "kind": "word",
+      "text": "grito melódico do trabalho",
+      "description_en": "A solo vocal cry used in field work, historically linked to blues traditions.",
+      "example_en": "The recording preserves a field holler.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000148",
+      "english_id": "en:vcu100:blues:000148",
+      "english_sense_id": "blues-000148",
+      "kind": "word",
+      "text": "canto de trabalho",
+      "description_en": "A song used to coordinate or accompany collective labor.",
+      "example_en": "The archive contains a work song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000149",
+      "english_id": "en:vcu100:blues:000149",
+      "english_sense_id": "blues-000149",
+      "kind": "word",
+      "text": "chamada e resposta",
+      "description_en": "Alternation between a musical phrase and an answering phrase.",
+      "example_en": "The guitar answers the vocal in call and response.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000150",
+      "english_id": "en:vcu100:blues:000150",
+      "english_sense_id": "blues-000150",
+      "kind": "word",
+      "text": "canto de blues em voz potente",
+      "description_en": "A forceful projected vocal style heard in some blues traditions.",
+      "example_en": "The singer gave a powerful blues shout.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000151",
+      "english_id": "en:vcu100:blues:000151",
+      "english_sense_id": "blues-000151",
+      "kind": "word",
+      "text": "voz rouca ou rugida",
+      "description_en": "A rough vocal effect used for expression.",
+      "example_en": "The singer added a vocal growl.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000152",
+      "english_id": "en:vcu100:blues:000152",
+      "english_sense_id": "blues-000152",
+      "kind": "word",
+      "text": "melisma",
+      "description_en": "Several sung notes performed on one syllable.",
+      "example_en": "The final word contains a melisma.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000153",
+      "english_id": "en:vcu100:blues:000153",
+      "english_sense_id": "blues-000153",
+      "kind": "word",
+      "text": "quebra intencional da voz",
+      "description_en": "A deliberate change or break in vocal register.",
+      "example_en": "The vocal break adds intensity.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000154",
+      "english_id": "en:vcu100:blues:000154",
+      "english_sense_id": "blues-000154",
+      "kind": "word",
+      "text": "falsete",
+      "description_en": "A high vocal register with a distinctive lighter quality.",
+      "example_en": "The singer used falsetto in the chorus.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000155",
+      "english_id": "en:vcu100:blues:000155",
+      "english_sense_id": "blues-000155",
+      "kind": "word",
+      "text": "lamento vocal de blues",
+      "description_en": "A sustained expressive vocal sound suggesting lament or longing.",
+      "example_en": "The blues moan followed the guitar lick.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000156",
+      "english_id": "en:vcu100:blues:000156",
+      "english_sense_id": "blues-000156",
+      "kind": "word",
+      "text": "inflexão vocal blues",
+      "description_en": "The expressive bending or coloring of pitches in blues singing.",
+      "example_en": "Her blue vocal inflection shapes the phrase.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000157",
+      "english_id": "en:vcu100:blues:000157",
+      "english_sense_id": "blues-000157",
+      "kind": "word",
+      "text": "improvisação da letra",
+      "description_en": "Making or changing words spontaneously during performance.",
+      "example_en": "Lyric improvisation kept the set lively.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000158",
+      "english_id": "en:vcu100:blues:000158",
+      "english_sense_id": "blues-000158",
+      "kind": "word",
+      "text": "estrofe narrativa",
+      "description_en": "A verse that tells part of a story.",
+      "example_en": "The narrative verse describes the journey.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000159",
+      "english_id": "en:vcu100:blues:000159",
+      "english_sense_id": "blues-000159",
+      "kind": "word",
+      "text": "duplo sentido",
+      "description_en": "Words carrying two meanings, often playful or suggestive.",
+      "example_en": "The lyric uses a double entendre.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000160",
+      "english_id": "en:vcu100:blues:000160",
+      "english_sense_id": "blues-000160",
+      "kind": "word",
+      "text": "fraseado vocal",
+      "description_en": "The placement and shape of sung notes and words.",
+      "example_en": "The vocalist has relaxed vocal phrasing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000161",
+      "english_id": "en:vcu100:blues:000161",
+      "english_sense_id": "blues-000161",
+      "kind": "word",
+      "text": "improvisação breve",
+      "description_en": "Spontaneous musical or spoken addition during a performance.",
+      "example_en": "She added an ad lib at the end.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000162",
+      "english_id": "en:vcu100:blues:000162",
+      "english_sense_id": "blues-000162",
+      "kind": "word",
+      "text": "canto scat",
+      "description_en": "Improvised singing using nonlexical syllables, more common in jazz but heard in blues-related music.",
+      "example_en": "The singer tried scat singing.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000163",
+      "english_id": "en:vcu100:blues:000163",
+      "english_sense_id": "blues-000163",
+      "kind": "word",
+      "text": "entrar deslizando na nota",
+      "description_en": "Approaching a sung pitch gradually from nearby pitch.",
+      "example_en": "Slide into a note rather than striking it directly.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000164",
+      "english_id": "en:vcu100:blues:000164",
+      "english_sense_id": "blues-000164",
+      "kind": "word",
+      "text": "resposta cantada",
+      "description_en": "A short sung phrase answering another voice or instrument.",
+      "example_en": "The backing singer provided a vocal response.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000165",
+      "english_id": "en:vcu100:blues:000165",
+      "english_sense_id": "blues-000165",
+      "kind": "word",
+      "text": "balada de blues",
+      "description_en": "A slow narrative or emotional song with blues elements.",
+      "example_en": "The set ended with a blues ballad.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000166",
+      "english_id": "en:vcu100:blues:000166",
+      "english_sense_id": "blues-000166",
+      "kind": "word",
+      "text": "canto com influência gospel",
+      "description_en": "A blues vocal style borrowing expressive practices from gospel music.",
+      "example_en": "Her gospel-influenced singing fills the room.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:vocals",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Voz e letras"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000167",
+      "english_id": "en:vcu100:blues:000167",
+      "english_sense_id": "blues-000167",
+      "kind": "word",
+      "text": "banda fixa da casa",
+      "description_en": "A regular group playing at a venue.",
+      "example_en": "The house band backs visiting singers.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000168",
+      "english_id": "en:vcu100:blues:000168",
+      "english_sense_id": "blues-000168",
+      "kind": "word",
+      "text": "seção rítmica",
+      "description_en": "The musicians providing the main rhythmic and harmonic foundation.",
+      "example_en": "The rhythm section kept the tempo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000169",
+      "english_id": "en:vcu100:blues:000169",
+      "english_sense_id": "blues-000169",
+      "kind": "word",
+      "text": "guitarrista solista",
+      "description_en": "Guitarist who plays featured melodic parts.",
+      "example_en": "The lead guitarist took the next solo.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000170",
+      "english_id": "en:vcu100:blues:000170",
+      "english_sense_id": "blues-000170",
+      "kind": "word",
+      "text": "guitarrista base",
+      "description_en": "Guitarist mainly providing chordal or rhythmic accompaniment.",
+      "example_en": "The rhythm guitarist held the shuffle.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000171",
+      "english_id": "en:vcu100:blues:000171",
+      "english_sense_id": "blues-000171",
+      "kind": "word",
+      "text": "vocalista principal à frente da banda",
+      "description_en": "The performer who leads a band on stage.",
+      "example_en": "The frontperson introduced the musicians.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000172",
+      "english_id": "en:vcu100:blues:000172",
+      "english_sense_id": "blues-000172",
+      "kind": "word",
+      "text": "líder musical da banda",
+      "description_en": "Person directing or organizing a band.",
+      "example_en": "The bandleader counted off the song.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000173",
+      "english_id": "en:vcu100:blues:000173",
+      "english_sense_id": "blues-000173",
+      "kind": "word",
+      "text": "naipes de instrumentos de sopro",
+      "description_en": "A group of brass or reed instruments playing arranged parts.",
+      "example_en": "The horn section played a short riff.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000174",
+      "english_id": "en:vcu100:blues:000174",
+      "english_sense_id": "blues-000174",
+      "kind": "word",
+      "text": "riff de sopros",
+      "description_en": "A short recurring phrase played by wind instruments.",
+      "example_en": "The horn riff follows the vocal line.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000175",
+      "english_id": "en:vcu100:blues:000175",
+      "english_sense_id": "blues-000175",
+      "kind": "word",
+      "text": "sessão de improvisação",
+      "description_en": "Informal gathering where musicians improvise together.",
+      "example_en": "They met for a jam session.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000176",
+      "english_id": "en:vcu100:blues:000176",
+      "english_sense_id": "blues-000176",
+      "kind": "word",
+      "text": "participação especial informal",
+      "description_en": "A guest appearance with another band for a song or set.",
+      "example_en": "The guitarist did a sit-in at the club.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000177",
+      "english_id": "en:vcu100:blues:000177",
+      "english_sense_id": "blues-000177",
+      "kind": "word",
+      "text": "repertório planejado do show",
+      "description_en": "The ordered list of songs planned for a performance.",
+      "example_en": "The set list includes three shuffles.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000178",
+      "english_id": "en:vcu100:blues:000178",
+      "english_sense_id": "blues-000178",
+      "kind": "word",
+      "text": "passagem de som",
+      "description_en": "Testing instruments and microphones before a show.",
+      "example_en": "The sound check starts at six.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000179",
+      "english_id": "en:vcu100:blues:000179",
+      "english_sense_id": "blues-000179",
+      "kind": "word",
+      "text": "bis",
+      "description_en": "An additional performance after the planned set ends.",
+      "example_en": "The audience asked for an encore.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000180",
+      "english_id": "en:vcu100:blues:000180",
+      "english_sense_id": "blues-000180",
+      "kind": "word",
+      "text": "noite de microfone aberto",
+      "description_en": "An event allowing audience members or guests to perform.",
+      "example_en": "The club holds an open mic night.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000181",
+      "english_id": "en:vcu100:blues:000181",
+      "english_sense_id": "blues-000181",
+      "kind": "word",
+      "text": "jam de blues",
+      "description_en": "An informal blues-focused improvisation session.",
+      "example_en": "The club hosts a blues jam every Thursday.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:performance",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Banda e palco"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000182",
+      "english_id": "en:vcu100:blues:000182",
+      "english_sense_id": "blues-000182",
+      "kind": "word",
+      "text": "blues do Delta do Mississippi",
+      "description_en": "Blues tradition associated with the Mississippi Delta, often featuring expressive guitar and voice.",
+      "example_en": "The playlist starts with Delta blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000183",
+      "english_id": "en:vcu100:blues:000183",
+      "english_sense_id": "blues-000183",
+      "kind": "word",
+      "text": "blues de Chicago",
+      "description_en": "Urban blues tradition known for amplified small-band performances.",
+      "example_en": "The band plays Chicago blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000184",
+      "english_id": "en:vcu100:blues:000184",
+      "english_sense_id": "blues-000184",
+      "kind": "word",
+      "text": "blues texano",
+      "description_en": "Blues styles associated with Texas, including guitar-driven and shuffle approaches.",
+      "example_en": "The guitarist specializes in Texas blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000185",
+      "english_id": "en:vcu100:blues:000185",
+      "english_sense_id": "blues-000185",
+      "kind": "word",
+      "text": "blues do Piedmont",
+      "description_en": "Eastern US guitar-blues tradition often using alternating bass and fingerpicking.",
+      "example_en": "Piedmont blues influenced the arrangement.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000186",
+      "english_id": "en:vcu100:blues:000186",
+      "english_sense_id": "blues-000186",
+      "kind": "word",
+      "text": "blues de Memphis",
+      "description_en": "Blues traditions connected to Memphis and its musical history.",
+      "example_en": "The musician studied Memphis blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000187",
+      "english_id": "en:vcu100:blues:000187",
+      "english_sense_id": "blues-000187",
+      "kind": "word",
+      "text": "blues da Louisiana",
+      "description_en": "A group of blues styles associated with Louisiana's regional rhythms and artists.",
+      "example_en": "The harmonica part suggests Louisiana blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000188",
+      "english_id": "en:vcu100:blues:000188",
+      "english_sense_id": "blues-000188",
+      "kind": "word",
+      "text": "blues de Nova Orleans",
+      "description_en": "Blues influenced by New Orleans musical traditions and rhythms.",
+      "example_en": "The piano plays New Orleans blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000189",
+      "english_id": "en:vcu100:blues:000189",
+      "english_sense_id": "blues-000189",
+      "kind": "word",
+      "text": "blues da Costa Oeste",
+      "description_en": "A West Coast US style often influenced by jazz and smoother guitar phrasing.",
+      "example_en": "West Coast blues appears on the set list.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000190",
+      "english_id": "en:vcu100:blues:000190",
+      "english_sense_id": "blues-000190",
+      "kind": "word",
+      "text": "jump blues",
+      "description_en": "A lively horn-driven blues style associated with the 1940s.",
+      "example_en": "The band plays jump blues with saxophone.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000191",
+      "english_id": "en:vcu100:blues:000191",
+      "english_sense_id": "blues-000191",
+      "kind": "word",
+      "text": "blues rural",
+      "description_en": "Broad category of rural acoustic blues traditions.",
+      "example_en": "The recording documents country blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000192",
+      "english_id": "en:vcu100:blues:000192",
+      "english_sense_id": "blues-000192",
+      "kind": "word",
+      "text": "blues elétrico",
+      "description_en": "Blues performed with amplified instruments.",
+      "example_en": "The venue specializes in electric blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000193",
+      "english_id": "en:vcu100:blues:000193",
+      "english_sense_id": "blues-000193",
+      "kind": "word",
+      "text": "blues acústico",
+      "description_en": "Blues mainly using unamplified acoustic instruments.",
+      "example_en": "She recorded an acoustic blues album.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000194",
+      "english_id": "en:vcu100:blues:000194",
+      "english_sense_id": "blues-000194",
+      "kind": "word",
+      "text": "blues urbano",
+      "description_en": "Blues forms developed in urban music scenes.",
+      "example_en": "Urban blues changed the sound of guitar bands.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000195",
+      "english_id": "en:vcu100:blues:000195",
+      "english_sense_id": "blues-000195",
+      "kind": "word",
+      "text": "blues-rock",
+      "description_en": "Rock music strongly influenced by blues patterns and phrasing.",
+      "example_en": "The group plays blues rock.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000196",
+      "english_id": "en:vcu100:blues:000196",
+      "english_sense_id": "blues-000196",
+      "kind": "word",
+      "text": "swamp blues",
+      "description_en": "A Louisiana-associated blues style with a relaxed rhythmic feel.",
+      "example_en": "Swamp blues shaped the guitarist's sound.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000197",
+      "english_id": "en:vcu100:blues:000197",
+      "english_sense_id": "blues-000197",
+      "kind": "word",
+      "text": "blues das colinas do Mississippi",
+      "description_en": "North Mississippi blues style often using hypnotically repeated rhythmic figures.",
+      "example_en": "The band studies hill country blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000198",
+      "english_id": "en:vcu100:blues:000198",
+      "english_sense_id": "blues-000198",
+      "kind": "word",
+      "text": "blues britânico",
+      "description_en": "Blues performed in the British revival and its later traditions.",
+      "example_en": "The guitarist grew up listening to British blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000199",
+      "english_id": "en:vcu100:blues:000199",
+      "english_sense_id": "blues-000199",
+      "kind": "word",
+      "text": "blues contemporâneo",
+      "description_en": "Present-day blues incorporating traditional and modern influences.",
+      "example_en": "The festival includes contemporary blues artists.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000200",
+      "english_id": "en:vcu100:blues:000200",
+      "english_sense_id": "blues-000200",
+      "kind": "word",
+      "text": "blues clássico feminino",
+      "description_en": "Historical recorded blues style associated with leading women singers of the 1920s.",
+      "example_en": "The lecture covers classic female blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000201",
+      "english_id": "en:vcu100:blues:000201",
+      "english_sense_id": "blues-000201",
+      "kind": "word",
+      "text": "boogie-woogie",
+      "description_en": "Fast driving blues-related piano style with repeated bass patterns.",
+      "example_en": "He played a boogie-woogie number.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:styles",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · Estilos do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000202",
+      "english_id": "en:vcu100:blues:000202",
+      "english_sense_id": "blues-000202",
+      "kind": "word",
+      "text": "bar popular tradicional de blues",
+      "description_en": "A small informal venue historically linked to African American southern blues culture.",
+      "example_en": "Many traveling players performed at a juke joint.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000203",
+      "english_id": "en:vcu100:blues:000203",
+      "english_sense_id": "blues-000203",
+      "kind": "word",
+      "text": "bar rústico com música ao vivo",
+      "description_en": "A rough informal drinking venue associated with early piano blues.",
+      "example_en": "The story takes place in a barrelhouse.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000204",
+      "english_id": "en:vcu100:blues:000204",
+      "english_sense_id": "blues-000204",
+      "kind": "word",
+      "text": "festa para arrecadar aluguel",
+      "description_en": "A paid private gathering historically helping hosts meet rent and fostering music.",
+      "example_en": "The pianist played at a rent party.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000205",
+      "english_id": "en:vcu100:blues:000205",
+      "english_sense_id": "blues-000205",
+      "kind": "word",
+      "text": "bar de estrada com música",
+      "description_en": "A roadside drinking and entertainment venue.",
+      "example_en": "The trio performed at a roadhouse.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000206",
+      "english_id": "en:vcu100:blues:000206",
+      "english_sense_id": "blues-000206",
+      "kind": "word",
+      "text": "circuito histórico de casas de show negras",
+      "description_en": "A network of performance venues serving Black audiences during segregation.",
+      "example_en": "Many artists toured the chitlin' circuit.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000207",
+      "english_id": "en:vcu100:blues:000207",
+      "english_sense_id": "blues-000207",
+      "kind": "word",
+      "text": "rua Beale em Memphis",
+      "description_en": "Historic Memphis street central to blues and African American music.",
+      "example_en": "The visitors walked along Beale Street.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000208",
+      "english_id": "en:vcu100:blues:000208",
+      "english_sense_id": "blues-000208",
+      "kind": "word",
+      "text": "Delta do Mississippi",
+      "description_en": "A region of northwestern Mississippi with a major blues heritage.",
+      "example_en": "The musician was raised in the Mississippi Delta.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000209",
+      "english_id": "en:vcu100:blues:000209",
+      "english_sense_id": "blues-000209",
+      "kind": "word",
+      "text": "Clarksdale (cidade do Mississippi)",
+      "description_en": "Mississippi city closely associated with blues heritage.",
+      "example_en": "The band stopped in Clarksdale.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000210",
+      "english_id": "en:vcu100:blues:000210",
+      "english_sense_id": "blues-000210",
+      "kind": "word",
+      "text": "Rodovia 61 (rota histórica do blues)",
+      "description_en": "US highway associated with the Mississippi blues tradition.",
+      "example_en": "The itinerary follows Highway 61.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000211",
+      "english_id": "en:vcu100:blues:000211",
+      "english_sense_id": "blues-000211",
+      "kind": "word",
+      "text": "lenda da encruzilhada",
+      "description_en": "A famous blues-related folklore motif about supernatural bargains.",
+      "example_en": "The guide explained the crossroads legend.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000212",
+      "english_id": "en:vcu100:blues:000212",
+      "english_sense_id": "blues-000212",
+      "kind": "word",
+      "text": "casa noturna de blues",
+      "description_en": "A venue featuring blues performances.",
+      "example_en": "They booked a table at the blues club.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000213",
+      "english_id": "en:vcu100:blues:000213",
+      "english_sense_id": "blues-000213",
+      "kind": "word",
+      "text": "festival de blues",
+      "description_en": "An event with blues concerts and activities.",
+      "example_en": "The blues festival runs all weekend.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000214",
+      "english_id": "en:vcu100:blues:000214",
+      "english_sense_id": "blues-000214",
+      "kind": "word",
+      "text": "renascimento do interesse pelo blues",
+      "description_en": "A renewed period of attention to blues traditions.",
+      "example_en": "The blues revival brought older recordings back.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000215",
+      "english_id": "en:vcu100:blues:000215",
+      "english_sense_id": "blues-000215",
+      "kind": "word",
+      "text": "músico itinerante",
+      "description_en": "A performer who moves between towns and venues.",
+      "example_en": "The traveling musician carried a guitar.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000216",
+      "english_id": "en:vcu100:blues:000216",
+      "english_sense_id": "blues-000216",
+      "kind": "word",
+      "text": "cantor de repertório variado tradicional",
+      "description_en": "A traditional performer singing blues and other popular song forms.",
+      "example_en": "The songster performed several dance tunes.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000217",
+      "english_id": "en:vcu100:blues:000217",
+      "english_sense_id": "blues-000217",
+      "kind": "word",
+      "text": "tradição do blues",
+      "description_en": "The history and practices passed among blues performers.",
+      "example_en": "She studies the blues tradition.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000218",
+      "english_id": "en:vcu100:blues:000218",
+      "english_sense_id": "blues-000218",
+      "kind": "word",
+      "text": "disco de blues",
+      "description_en": "A recording of a blues performance.",
+      "example_en": "The collector bought a rare blues record.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000219",
+      "english_id": "en:vcu100:blues:000219",
+      "english_sense_id": "blues-000219",
+      "kind": "word",
+      "text": "sentimento do blues",
+      "description_en": "The expressive mood associated with blues music.",
+      "example_en": "The singer captured a genuine blues feeling.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000220",
+      "english_id": "en:vcu100:blues:000220",
+      "english_sense_id": "blues-000220",
+      "kind": "word",
+      "text": "estar triste ou melancólico",
+      "description_en": "An idiom meaning to feel sad or down.",
+      "example_en": "After a hard day, he said he had the blues.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    },
+    {
+      "id": "pt-BR:vcu100:blues:000221",
+      "english_id": "en:vcu100:blues:000221",
+      "english_sense_id": "blues-000221",
+      "kind": "word",
+      "text": "marcar o ritmo batendo o pé",
+      "description_en": "Keeping or emphasizing rhythm by striking the floor with a foot.",
+      "example_en": "The audience joined in the foot stomping.",
+      "source_status": "original-editorial",
+      "vcu_family": "VCU100",
+      "topic_id": "vcu100:blues_culture:culture",
+      "topics": [
+        "VCU100 · Blues Music & Culture",
+        "Blues · História e cultura do blues"
+      ]
+    }
+  ]
+}
