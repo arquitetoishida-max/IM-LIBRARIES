@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "8d240aa56f4cd0c5b2fb6e5b4e9333ee80f405bbc5b62b07712c2421b53503c1",
-      "version": "2.2.0",
-      "size_bytes": 1461365
+      "sha256": "c0eb02eaf925db3ecb60473a4e13cbe4cd8f892482547645c713d35becfcaf54",
+      "version": "2.2.1",
+      "size_bytes": 1486857
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "71a0ac9486e28aedfaa09f66f98ccbf7da893fe9f6d4788e7d395e24da7f6398",
-      "version": "2.2.0",
-      "size_bytes": 1606173
+      "sha256": "57ce3a361881b08586fdc084bc6f223aea3e0af6095bea35ac85d1c838196725",
+      "version": "2.2.1",
+      "size_bytes": 1631637
     },
     {
       "id": "pt-PT-core-v2",
@@ -87,9 +87,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "b0a9dc3d24aa9ad5ec7cbbe7494b1c82e87c762d35fc294d9ecc3ba132aaf275",
-      "version": "2.2.0",
-      "size_bytes": 3488200
+      "sha256": "a1f8bbdfaa07310ab80302b07909a40b410fddd97a63e68ce1c1ac8cbade4382",
+      "version": "2.2.1",
+      "size_bytes": 3817453
     },
     {
       "id": "es-core-v2",
@@ -193,9 +193,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "94d6b2219f1b709c278e3bca5e1d4104465c40cfe786a190fdb1b0e537953490",
-      "version": "2.2.0",
-      "size_bytes": 2086274
+      "sha256": "e3bd124d63f6acebf7ee1fd0a1b9c45c8d0176dc0c0779dc10ce853ba7f0e8a4",
+      "version": "2.2.1",
+      "size_bytes": 2111766
     },
     {
       "id": "ko-core-v2",
@@ -1025,6 +1025,7 @@
     "South American Adventure English: 172 unique terms, sharing 172 semantic IDs with preexisting Spanish Adventure/PT-BR companion (175); distinct English study pack, Android validation pending.",
     "Business US v1.1.0: 301 aligned entries, append-only IDs 157–301. Android QA pending.",
     "Blues Music & Culture 221 EN-US entries and PT-BR equivalents; cultural/music terminology rather than strictly region-specific slang. Android QA required.",
-    "1.2.0: en/pt-BR/ja/zh core 2.2.0 — BASE4 review integrated; previous 2.1.1 files in v2/previous/ for rollback."
+    "1.2.0: en/pt-BR/ja/zh core 2.2.0 — BASE4 review integrated; previous 2.1.1 files in v2/previous/ for rollback.",
+    "1.2.1: core 2.2.1 — REG37 part-of-speech and Japanese register forms (MULTILANG #37)."
   ]
 }
