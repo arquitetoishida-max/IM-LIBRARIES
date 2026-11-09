@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "package_id": "ja-place-fixture",
+  "package_type": "ishida-monolingual",
+  "language": "ja",
+  "version": "0.0.0-test",
+  "test_only": true,
+  "entries": [{
+    "id": "ja:en:000000179",
+    "english_id": "en:000000179",
+    "text": "場所",
+    "kind": "word",
+    "description_en": "A physical place where a person or thing can be located.",
+    "reading": "ばしょ",
+    "romanization": "basho",
+    "study_priority": 69
+  }]
+}
