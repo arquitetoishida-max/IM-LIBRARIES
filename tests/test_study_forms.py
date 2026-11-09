@@ -53,6 +53,16 @@ class StudyFormsTests(unittest.TestCase):
                 with self.assertRaises(ValueError):
                     validate(result)
 
+    def test_reject_duplicate_text_and_malformed_optional_metadata(self):
+        original = build(self.package, self.registry)
+        for field, value in (("text", "場所"), ("sources", "not an array"),
+                             ("representations", ["所"]), ("examples", [{"text": "example"}])):
+            with self.subTest(field=field):
+                result = copy.deepcopy(original)
+                result["entries"][0]["study_forms"][1][field] = value
+                with self.assertRaises(ValueError):
+                    validate(result)
+
     def test_reject_missing_approval_unknown_entries_and_removed_forms(self):
         self.registry["packages"]["ja-place-fixture"]["ja:en:000000179"][0]["approved"] = False
         with self.assertRaises(ValueError):

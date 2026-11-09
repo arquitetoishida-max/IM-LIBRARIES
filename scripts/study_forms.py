@@ -6,6 +6,7 @@ import json
 import os
 from pathlib import Path
 import tempfile
+import unicodedata
 
 
 def text(value):
@@ -47,6 +48,7 @@ def validate(package):
         if package.get("study_forms_version") != 1:
             raise ValueError("study_forms require package study_forms_version=1")
         defaults, primary = 0, 0
+        lexical_texts = set()
         for form in forms:
             if not isinstance(form, dict):
                 raise ValueError("form must be an object: " + eid)
@@ -61,6 +63,34 @@ def validate(package):
             for field in ("text", "speech", "usage_en"):
                 if not text(form.get(field)):
                     raise ValueError("missing " + field + ": " + fid)
+            normalized = unicodedata.normalize("NFC", form["text"]).strip()
+            if normalized in lexical_texts:
+                raise ValueError("duplicate lexical form; use representations: " + fid)
+            lexical_texts.add(normalized)
+            for field in ("reading", "romanization", "context_en", "register", "study_tier"):
+                if field in form and not text(form[field]):
+                    raise ValueError("invalid " + field + ": " + fid)
+            for field in ("region_tags", "sources"):
+                if field in form and (not isinstance(form[field], list)
+                                      or not form[field] or not all(text(v) for v in form[field])):
+                    raise ValueError("invalid " + field + ": " + fid)
+            if "legacy_entry_id" not in form and (not text(form.get("context_en")) or not form.get("sources")):
+                raise ValueError("alternative requires context and sources: " + fid)
+            for field in ("examples", "representations"):
+                if field in form:
+                    values = form[field]
+                    if not isinstance(values, list) or not values:
+                        raise ValueError("invalid " + field + ": " + fid)
+                    for value in values:
+                        if not isinstance(value, dict) or not text(value.get("text")):
+                            raise ValueError("invalid " + field + ": " + fid)
+                        if field == "representations" and not text(value.get("usage_en")):
+                            raise ValueError("representation requires usage_en: " + fid)
+                        if field == "examples":
+                            translations = value.get("translations")
+                            if (not isinstance(translations, dict) or not translations
+                                    or not all(text(k) and text(v) for k, v in translations.items())):
+                                raise ValueError("example requires locale translations: " + fid)
             for field in ("recommended", "include_by_default"):
                 if not isinstance(form.get(field), bool):
                     raise ValueError("invalid " + field + ": " + fid)
@@ -123,6 +153,8 @@ def build(package, registry):
             if entry.get(key) is not None:
                 primary[key] = entry[key]
         forms = [primary]
+        if not isinstance(rules.get(eid, []), list):
+            raise ValueError("registry alternatives must be an array: " + eid)
         for alternative in rules.get(eid, []):
             if (not isinstance(alternative, dict) or alternative.get("approved") is not True
                     or not alternative.get("sources") or not alternative.get("context_en")):
