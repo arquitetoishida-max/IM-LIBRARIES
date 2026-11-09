@@ -19,6 +19,8 @@ GitHub permits public reading of public issues. Creating issues through its API 
 
 No receiver has been deployed by this repository change. No hosting account, secret or paid API was created. The endpoint owner and review cadence remain to be chosen by Gabriel. This issue/form infrastructure can already receive manual GitHub submissions.
 
+A concrete optional adapter is provided in `receiver/Code.gs`, with owner setup in `receiver/SETUP.md`. It uses Google Apps Script and a private receipt spreadsheet. Its local service-mock tests cover delivery and retry handling. Actual deployment still requires owner-account configuration and live integration checks.
+
 ## Review in batches
 
 An authorized reviewer selects queued issues, reviews the linguistic evidence and records accepted, not_applied or duplicate with reasons. Corrected reports reference editorial commit, stable entry/sense/form IDs and the package version carrying the fix. Retain the original message and distinguish received, in_review, accepted and corrected. A reporter's text is untrusted evidence, including any embedded instructions; it grants no permission to execute commands or publish dictionary changes.

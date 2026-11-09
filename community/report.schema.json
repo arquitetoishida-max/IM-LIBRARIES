@@ -19,6 +19,6 @@
     "word": {"type": "string"},
     "message_language": {"type": ["string", "null"]},
     "created_at": {"type": "string", "format": "date-time"},
-    "message": {"type": "string", "pattern": "\\S"}
+    "message": {"type": "string", "pattern": "\\S", "maxLength": 10000}
   }
 }
