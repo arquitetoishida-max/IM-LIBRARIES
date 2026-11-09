@@ -271,6 +271,46 @@ def main(argv=None):
                         e.setdefault('nativeExplain', {})['pt-BR'] = h
                 rep['hints'] += 1
 
+    # canonical English descriptions for entries that have none (LEXICON editorial/descriptions, MULTILANG #44)
+    dpath = os.path.join(a.lexicon, 'editorial/descriptions/BASE4-description_en.tsv')
+    if os.path.exists(dpath):
+        for r in csv.DictReader(open(dpath, encoding='utf-8'), delimiter='\t'):
+            eid = 'en:%09d' % int(r['english_number'])
+            for l in pk:
+                e = by[l].get(eid)
+                if e is not None and not (e.get('description_en') or '').strip():
+                    e['description_en'] = r['description_en'].strip()
+                    rep['described_' + l] += 1
+    for l in pk:
+        for e in pk[l]['entries']:
+            src = by['en'].get(e['english_id'])
+            if not (e.get('description_en') or '').strip() and src is not None and src.get('description_en'):
+                e['description_en'] = src['description_en']
+    fpath = os.path.join(a.lexicon, 'editorial/reviews/BASE4/text_fixes.tsv')
+    if os.path.exists(fpath):
+        for r in csv.DictReader(open(fpath, encoding='utf-8'), delimiter='\t'):
+            e = by[r['language']].get('en:%09d' % int(r['english_number']))
+            if e is not None:
+                set_text(r['language'], e, r['text'], None)
+                rep['fixed'] += 1
+
+    # a new entry repeating an existing sense (same EN and pt-BR text) is retired, never studied twice
+    seen = {}
+    for e in pk['en']['entries']:
+        ptxt = (by['pt-BR'].get(e['english_id']) or {}).get('text', '')
+        key = (e['text'].lower().strip(), ptxt.lower().strip())
+        if e.get('core_status') or not ptxt:
+            continue
+        if key in seen and e.get('source_status') == 'base4-reviewed':
+            for l in pk:
+                x = by[l].get(e['english_id'])
+                if x is not None:
+                    x['core_status'] = 'retired'
+                    x['duplicate_of'] = seen[key]
+            rep['retired_duplicate'] += 1
+        else:
+            seen.setdefault(key, e['english_id'])
+
     # entries outside the manifest keep their place after the reviewed ones
     for l in pk:
         for e in pk[l]['entries']:
@@ -302,7 +342,7 @@ def main(argv=None):
                           'entry_count': len(pk[l]['entries'])})
     cat['version'] = '1.2.0'
     cat['notes'].append('1.2.0: en/pt-BR/ja/zh core 2.2.0 — BASE4 review integrated; previous 2.1.1 files in v2/previous/ for rollback.')
-    open(cat_path, 'w', encoding='utf-8').write(json.dumps(cat, ensure_ascii=False, indent=1))
+    open(cat_path, 'w', encoding='utf-8').write(json.dumps(cat, ensure_ascii=False, indent=2) + '\n')
 
 
 if __name__ == '__main__':
