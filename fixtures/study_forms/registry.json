@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "test_only": true,
+  "packages": {
+    "ja-place-fixture": {
+      "ja:en:000000179": [{
+        "form_id": "ja:en:000000179:sf:1",
+        "approved": true,
+        "text": "ところ",
+        "reading": "ところ",
+        "romanization": "tokoro",
+        "speech": "ところ",
+        "usage_en": "Use for a physical place in context; also has other nominal and grammatical senses which are separate.",
+        "context_en": "Choosing a quiet physical place to read.",
+        "examples": [{"text": "静かなところで本を読みます。", "translations": {"pt-BR": "Vou ler um livro em um lugar tranquilo.", "en-US": "I will read a book in a quiet place."}}],
+        "representations": [{"text": "所", "usage_en": "Kanji spelling for the physical-place sense; shares the same form identity."}],
+        "sources": ["https://www.kanjipedia.jp/kotoba/0003285800", "https://kotobank.jp/word/所-78735"]
+      }]
+    }
+  }
+}

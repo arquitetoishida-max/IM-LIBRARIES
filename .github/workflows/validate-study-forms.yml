@@ -1,0 +1,32 @@
+name: Validate trainable forms
+on:
+  pull_request:
+    paths:
+      - scripts/study_forms.py
+      - tests/test_study_forms.py
+      - fixtures/study_forms/**
+      - v2/*-core-v2.json
+      - .github/workflows/validate-study-forms.yml
+  push:
+    branches: [main]
+    paths:
+      - scripts/study_forms.py
+      - tests/test_study_forms.py
+      - fixtures/study_forms/**
+      - v2/*-core-v2.json
+      - .github/workflows/validate-study-forms.yml
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p 'test_study_forms.py' -v
+      - name: Build and validate BASE4 candidates
+        run: |
+          for language in en pt-BR ja zh; do
+            python scripts/study_forms.py "v2/$language-core-v2.json" --output "$RUNNER_TEMP/$language-study-forms.json"
+            python scripts/study_forms.py "$RUNNER_TEMP/$language-study-forms.json"
+          done
