@@ -1,0 +1,36 @@
+{
+ "package_id": "en-GB-core-v2",
+ "candidate_version": "1.0.0-candidate",
+ "created": "2026-11-09T20:59:57Z",
+ "publication": "not-published (integration into catalog by IM-LIBRARIES)",
+ "base": {
+  "path": "v2/en-core-v2.json",
+  "version": "2.2.1"
+ },
+ "candidate": {
+  "file": "en-GB-core-v2-1.0.0-candidate.json",
+  "sha256": "3894b8aeea51c102c4513190d8af221297d2667c8544e34c93bce7769b2e81ab",
+  "size_bytes": 1592410
+ },
+ "report": {
+  "entries": 3615,
+  "uk_texts": 62
+ },
+ "gates_passed": true,
+ "catalog_entry": {
+  "id": "en-GB-core-v2",
+  "name": "English (UK) — core and expressions",
+  "language": "en-GB",
+  "region": null,
+  "role": "core",
+  "kind": "ishida-monolingual",
+  "schema_version": 2,
+  "available": true,
+  "flag": "🇬🇧",
+  "locale": "en-GB",
+  "name_native": "English (UK)",
+  "name_en": "English (UK)",
+  "name_pt": "Inglês (Reino Unido)",
+  "name_ja": "英語（イギリス）"
+ }
+}
