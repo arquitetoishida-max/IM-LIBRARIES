@@ -1,5 +1,5 @@
 {
- "checked": 2515,
+ "checked": 3611,
  "reading_mismatches": 63,
  "items": [
   {
@@ -108,6 +108,13 @@
    "pykakasi": "ほかのにんたち"
   },
   {
+   "id": "en:000000373",
+   "en": "guy",
+   "ja": "男の人",
+   "reading": "おとこのひと",
+   "pykakasi": "おとこのにん"
+  },
+  {
    "id": "en:000000494",
    "en": "market",
    "ja": "市場",
@@ -131,9 +138,9 @@
   {
    "id": "en:000000718",
    "en": "source",
-   "ja": "出所",
+   "ja": "出どころ",
    "reading": "でどころ",
-   "pykakasi": "しゅっしょ"
+   "pykakasi": "いどころ"
   },
   {
    "id": "en:000000855",
@@ -162,13 +169,6 @@
    "ja": "通る",
    "reading": "とおる",
    "pykakasi": "とうる"
-  },
-  {
-   "id": "en:000000944",
-   "en": "piece",
-   "ja": "一切れ",
-   "reading": "ひときれ",
-   "pykakasi": "いっさいれ"
   },
   {
    "id": "en:000001187",
@@ -235,7 +235,7 @@
   },
   {
    "id": "en:000001603",
-   "en": "japanese",
+   "en": "Japanese",
    "ja": "日本の",
    "reading": "にほんの",
    "pykakasi": "にっぽんの"
@@ -295,13 +295,6 @@
    "ja": "月",
    "reading": "つき",
    "pykakasi": "がつ"
-  },
-  {
-   "id": "en:000002060",
-   "en": "younger",
-   "ja": "年下の",
-   "reading": "としたの",
-   "pykakasi": "とししたの"
   },
   {
    "id": "en:000002153",
@@ -442,10 +435,17 @@
    "ja": "お腹",
    "reading": "おなか",
    "pykakasi": "おはら"
+  },
+  {
+   "id": "en:000003744",
+   "en": "Amazon River",
+   "ja": "アマゾン川",
+   "reading": "アマゾンがわ",
+   "pykakasi": "あまぞんかわ"
   }
  ],
- "zh_checked": 2515,
- "zh_mismatches": 198,
+ "zh_checked": 3610,
+ "zh_mismatches": 202,
  "zh_items": [
   {
    "id": "en:000000040",
@@ -561,7 +561,7 @@
   },
   {
    "id": "en:000000184",
-   "en": "mr",
+   "en": "Mr",
    "zh": "先生",
    "pinyin": "xiānsheng",
    "pypinyin": "xiānshēng"
@@ -890,7 +890,7 @@
   },
   {
    "id": "en:000000823",
-   "en": "january",
+   "en": "January",
    "zh": "一月",
    "pinyin": "yīyuè",
    "pypinyin": "yíyuè"
@@ -908,13 +908,6 @@
    "zh": "简单地",
    "pinyin": "jiǎndān de",
    "pypinyin": "jiǎndāndì"
-  },
-  {
-   "id": "en:000000904",
-   "en": "sir",
-   "zh": "先生（尊称）",
-   "pinyin": "xiānsheng",
-   "pypinyin": "xiānshēng"
   },
   {
    "id": "en:000000918",
@@ -1093,7 +1086,7 @@
   },
   {
    "id": "en:000001337",
-   "en": "mrs",
+   "en": "Mrs",
    "zh": "太太",
    "pinyin": "tàitai",
    "pypinyin": "tàitài"
@@ -1832,6 +1825,41 @@
    "zh": "肚子",
    "pinyin": "dùzi",
    "pypinyin": "dǔzi"
+  },
+  {
+   "id": "en:000003087",
+   "en": "the 405",
+   "zh": "405号公路",
+   "pinyin": "405hàogōnglù",
+   "pypinyin": "hàogōnglù"
+  },
+  {
+   "id": "en:000003088",
+   "en": "the 101",
+   "zh": "101号公路",
+   "pinyin": "101hàogōnglù",
+   "pypinyin": "hàogōnglù"
+  },
+  {
+   "id": "en:000003337",
+   "en": "dance forró",
+   "zh": "跳福禄舞 (transliteração",
+   "pinyin": "tiàofúlùwǔ (transliteração",
+   "pypinyin": "tiàofúlùwǔ"
+  },
+  {
+   "id": "en:000003616",
+   "en": "pH",
+   "zh": "pH值",
+   "pinyin": "pHzhí",
+   "pypinyin": "zhí"
+  },
+  {
+   "id": "en:000004022",
+   "en": "quarter",
+   "zh": "25美分硬币",
+   "pinyin": "25měifēnyìngbì",
+   "pypinyin": "měifēnyìngbì"
   }
  ]
 }
