@@ -1,0 +1,17 @@
+name: Report a dictionary problem
+description: Tell us what happened, in your language.
+title: '[Community report] '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us what happened with a dictionary word. You can write in your language.
+        If available, include the word's language and ID. Reports are public, so avoid personal information.
+        Reports are reviewed in batches. Confirmed observations can lead to a dictionary correction.
+  - type: textarea
+    id: message
+    attributes:
+      label: Your message
+      description: What happened with this word?
+    validations:
+      required: true
