@@ -43,6 +43,18 @@ class StudyFormsTests(unittest.TestCase):
         result = build(self.package, {"version": 1, "packages": {}})
         self.assertNotIn("study_forms", result["entries"][0])
 
+    def test_recommended_alternative_keeps_legacy_grade_anchor(self):
+        self.registry["packages"]["ja-place-fixture"]["ja:en:000000179"][0]["recommended"] = True
+        result = build(self.package, self.registry)
+        primary, alternative = result["entries"][0]["study_forms"]
+        self.assertFalse(primary["recommended"])
+        self.assertFalse(primary["include_by_default"])
+        self.assertTrue(alternative["recommended"])
+        self.assertTrue(alternative["include_by_default"])
+        self.assertEqual(primary["legacy_entry_id"], "ja:en:000000179")
+        self.assertNotIn("legacy_entry_id", alternative)
+        self.assertEqual(result, build(result, self.registry))
+
     def test_reject_identity_default_reading_and_private_state_errors(self):
         original = build(self.package, self.registry)
         for field, value in (("english_id", "wrong"), ("form_id", "foreign:sf:1"),

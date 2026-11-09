@@ -10,7 +10,7 @@ Every form contains `form_id`, `entry_id`, `english_id`, nullable `english_sense
 
 Age bands, when individually evidenced, are 3, 5, 7, 10 or 14. Omission means unknown. Neither curriculum tiers nor frequency estimates prove an age of acquisition. A different lexical form inherits no reading, age or register from its sibling. Priority on the primary inherits the entry's existing study priority. New alternatives require their own explicit metadata.
 
-Exactly one form is recommended and included initially. Reviewed alternatives are exported with `include_by_default: false`; the user's choice and automatic admission of everyday siblings belong to the app. `grade`, history, schedules, selected states and profile identities are private and never enter package data. An entry without a lexical equivalent stays absent in that language. Retired entries, examples and grammatical-form entries receive no trainable lexical forms.
+Exactly one form is recommended and included initially. The legacy primary is the fallback recommendation. An explicitly reviewed alternative may declare `recommended: true`, making it the initial recommendation while the primary retains its legacy grade anchor. Other alternatives are exported with `include_by_default: false`. The user's choice and automatic admission of everyday siblings belong to the app. `grade`, history, schedules, selected states and profile identities are private and never enter package data. An entry without a lexical equivalent stays absent in that language. Retired entries, examples and grammatical-form entries receive no trainable lexical forms.
 
 ## App integration and migration
 
