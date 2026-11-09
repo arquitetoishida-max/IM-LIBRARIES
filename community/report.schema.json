@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Community dictionary report request v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "request_id", "language", "entry_id", "english_id", "package_id", "package_version", "app_version", "message"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "request_id": {"type": "string", "format": "uuid"},
+    "language": {"type": "string", "minLength": 1},
+    "entry_id": {"type": "string", "minLength": 1},
+    "english_id": {"type": "string", "minLength": 1},
+    "english_sense_id": {"type": ["string", "null"]},
+    "form_id": {"type": ["string", "null"]},
+    "package_id": {"type": "string", "minLength": 1},
+    "course_id": {"type": ["string", "null"]},
+    "package_version": {"type": "string", "minLength": 1},
+    "app_version": {"type": "string", "minLength": 1},
+    "word": {"type": "string"},
+    "message_language": {"type": ["string", "null"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "message": {"type": "string", "pattern": "\\S"}
+  }
+}
