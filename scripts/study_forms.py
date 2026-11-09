@@ -161,11 +161,15 @@ def build(package, registry):
                 raise ValueError("unreviewed alternative: " + eid)
             form = copy.deepcopy(alternative)
             form.pop("approved")
+            recommended = form.get("recommended", False)
             form.update(entry_id=eid, english_id=entry["english_id"],
                         english_sense_id=entry.get("english_sense_id"),
-                        recommended=False, include_by_default=False)
+                        recommended=recommended, include_by_default=recommended)
             # No inherited reading, register or age for a different lexical form.
             forms.append(form)
+        if any(form.get("recommended") is True for form in forms[1:]):
+            primary["recommended"] = False
+            primary["include_by_default"] = False
         old = {f["form_id"] for f in entry.get("study_forms", [])}
         if old - {f["form_id"] for f in forms}:
             raise ValueError("published form removed; preserve its identity: " + eid)
