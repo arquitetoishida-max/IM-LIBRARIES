@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "packages": {
+    "en-core-v2": {
+      "en:000000322": [
+        {
+          "form_id": "en:000000322:sf:1",
+          "approved": true,
+          "text": "automobile",
+          "speech": "automobile",
+          "usage_en": "Neutral term for the same passenger road vehicle as car; excludes train-car meanings.",
+          "context_en": "Talking about a privately owned passenger road vehicle.",
+          "register": "neutral",
+          "region_tags": [
+            "US"
+          ],
+          "examples": [
+            {
+              "text": "The family bought a small automobile for local trips.",
+              "translations": {
+                "pt-BR": "A família comprou um carro pequeno para viagens locais."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/dictionary/english/car"
+          ]
+        }
+      ],
+      "en:000003126": [
+        {
+          "form_id": "en:000003126:sf:1",
+          "approved": true,
+          "text": "refrigerator",
+          "speech": "refrigerator",
+          "usage_en": "Full term for fridge; normal US usage, more formal than fridge in some other varieties.",
+          "context_en": "Naming the household appliance that keeps food cold.",
+          "register": "neutral",
+          "region_tags": [
+            "US"
+          ],
+          "examples": [
+            {
+              "text": "The refrigerator is beside the kitchen door.",
+              "translations": {
+                "pt-BR": "A geladeira fica ao lado da porta da cozinha."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/dictionary/english/fridge",
+            "https://dictionary.cambridge.org/us/dictionary/english/refrigerator"
+          ]
+        }
+      ],
+      "en:000003221": [
+        {
+          "form_id": "en:000003221:sf:1",
+          "approved": true,
+          "text": "goodbye",
+          "speech": "goodbye",
+          "usage_en": "Standard farewell; bye is the more casual short form. This is the farewell expression, not a noun or a final separation.",
+          "context_en": "Saying farewell when someone is leaving.",
+          "register": "neutral",
+          "examples": [
+            {
+              "text": "Goodbye, Ana. Have a safe trip home.",
+              "translations": {
+                "pt-BR": "Tchau, Ana. Faça uma boa viagem de volta para casa."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/us/dictionary/english/goodbye"
+          ]
+        }
+      ],
+      "en:000003422": [
+        {
+          "form_id": "en:000003422:sf:1",
+          "approved": true,
+          "text": "grandfather",
+          "speech": "grandfather",
+          "usage_en": "Neutral relationship term; grandpa is more familiar. Direct address as Grandfather can sound formal or old-fashioned.",
+          "context_en": "Referring to the father of one's mother or father.",
+          "register": "neutral",
+          "examples": [
+            {
+              "text": "My grandfather lives near the park.",
+              "translations": {
+                "pt-BR": "Meu avô mora perto do parque."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/dictionary/english/grandpa",
+            "https://dictionary.cambridge.org/dictionary/english/grandfather"
+          ]
+        }
+      ],
+      "en:000003423": [
+        {
+          "form_id": "en:000003423:sf:1",
+          "approved": true,
+          "text": "grandmother",
+          "speech": "grandmother",
+          "usage_en": "Neutral relationship term; grandma is more familiar. Direct address as Grandmother can sound formal or old-fashioned.",
+          "context_en": "Referring to the mother of one's mother or father.",
+          "register": "neutral",
+          "examples": [
+            {
+              "text": "Her grandmother visits on Sundays.",
+              "translations": {
+                "pt-BR": "A avó dela visita aos domingos."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/dictionary/english/grandmother"
+          ]
+        }
+      ],
+      "en:000003994": [
+        {
+          "form_id": "en:000003994:sf:1",
+          "approved": true,
+          "text": "mobile phone",
+          "speech": "mobile phone",
+          "usage_en": "Usual UK wording for the device called a cell phone in US English; does not require a smartphone.",
+          "context_en": "A portable telephone connected through a cellular network.",
+          "register": "neutral",
+          "region_tags": [
+            "GB"
+          ],
+          "examples": [
+            {
+              "text": "Please turn your mobile phone off during the performance.",
+              "translations": {
+                "pt-BR": "Por favor, desligue seu celular durante a apresentação."
+              }
+            }
+          ],
+          "sources": [
+            "https://dictionary.cambridge.org/dictionary/english/mobile-phone",
+            "https://dictionary.cambridge.org/dictionary/english/cell-phone"
+          ]
+        }
+      ]
+    }
+  }
+}
