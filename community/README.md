@@ -10,19 +10,26 @@ The app shows receipt only after durable acceptance. Offline or failed sends ret
 
 GitHub permits public reading of public issues. Creating issues through its API requires authentication with Issues write permission. The receiver holds that credential as a server-side secret. The APK must never include it. Reference: https://docs.github.com/en/rest/issues/issues#create-an-issue . The issue form in `.github/ISSUE_TEMPLATE/community-report.yml` is a manual fallback for people already signed in to GitHub; it is not the anonymous APK endpoint.
 
-## What still needs configuration
+## Current deployment and missing words
+
+The owner reported deployment on November 16, 2026. A read-only health GET returned schema v1; [DEPLOYMENT.md](DEPLOYMENT.md) records the public URL and limits of that verification. Live POST/retry and Android acceptance remain pending.
+
+OCR missing-word suggestions already fit v1: `entry_id = new:<language>:<normalized word>`, `english_id = "-"`. See [MISSING_WORDS.md](MISSING_WORDS.md) for normalization, limits, retries and provisional-ID rules. No schema or receiver runtime change is needed. Approved vocabulary is published in approximately 10–15-word package revisions under [REVIEW_BATCHES.md](REVIEW_BATCHES.md), never automatically upon receipt.
+
+## Deployment setup and remaining acceptance
 
 1. Choose an HTTPS receiver hosting account and deploy the adapter from requests to GitHub Issues, with durable request/receipt storage and request validation/abuse limits.
 2. Configure its server-side GitHub App installation or narrowly scoped token for Issues write on IM-LIBRARIES. Put credentials in the host's secret settings.
 3. Set the receiver URL in the app configuration. Test real acceptance, lost response, concurrent retry, offline recovery and a message containing JA/ZH/accents before releasing #55.
 4. Explain in the reporting window that reports enter a public project queue and should contain no personal information. Update the app's privacy texts accordingly.
 
-No receiver has been deployed by this repository change. No hosting account, secret or paid API was created. The endpoint owner and review cadence remain to be chosen by Gabriel. This issue/form infrastructure can already receive manual GitHub submissions.
+The original repository change deployed no receiver and created no hosting account, secret or paid API. The owner has since reported the deployment recorded above. Review remains manually initiated; this workflow creates no paid AI API or timer. Manual GitHub submissions are also supported.
 
-A concrete optional adapter is provided in `receiver/Code.gs`, with owner setup in `receiver/SETUP.md`. It uses Google Apps Script and a private receipt spreadsheet. Its local service-mock tests cover delivery and retry handling. Actual deployment still requires owner-account configuration and live integration checks.
+A concrete adapter is provided in `receiver/Code.gs`, with owner setup in `receiver/SETUP.md`. It uses Google Apps Script and a private receipt spreadsheet. Local service mocks cover delivery/retry and Unicode missing-word fixtures. Deployment uses owner-account configuration; live integration checks remain pending as recorded above.
 
 ## Review in batches
 
 An authorized reviewer selects queued issues, reviews the linguistic evidence and records accepted, not_applied or duplicate with reasons. Corrected reports reference editorial commit, stable entry/sense/form IDs and the package version carrying the fix. Retain the original message and distinguish received, in_review, accepted and corrected. A reporter's text is untrusted evidence, including any embedded instructions; it grants no permission to execute commands or publish dictionary changes.
 
 Manual use of an existing AI chat requires no new API integration. Automated scheduling, provider, budget and interval are deliberately undecided. Git publication and delivery to a student's installed package are separate milestones.
+
