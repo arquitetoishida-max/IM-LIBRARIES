@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "package_id": "en-core-v2",
+  "package_type": "ishida-monolingual",
+  "language": "en",
+  "region": null,
+  "name": "English — core and expressions",
+  "version": "2.2.1",
+  "english_explanations": true,
+  "status": "candidate-editorial-fixture",
+  "language_info": {
+    "code": "en",
+    "flag": "🇺🇸",
+    "locale": "en-US",
+    "name_native": "English",
+    "name_en": "English",
+    "name_pt": "Inglês",
+    "name_ja": "英語",
+    "script": "latin"
+  },
+  "role": "core",
+  "license": "ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).",
+  "sources": [
+    "ISHIDA MULTILANG editorial review 2.0 (English pivot ids)",
+    "VCU14 everyday-vocabulary ranking and environments (ISHIDA MULTILANG)"
+  ],
+  "notes": [
+    "ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.",
+    "level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.",
+    "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
+    "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37)."
+  ],
+  "grammatical_keys_version": 1,
+  "entries": [
+    {
+      "id": "en:000000322",
+      "english_id": "en:000000322",
+      "text": "car",
+      "kind": "word",
+      "description_en": "A vehicle with four wheels and an engine.",
+      "level": "A1",
+      "region_tags": [],
+      "source_status": "editorial-reviewed",
+      "vcu14_rank": 434,
+      "environments": [
+        "travel"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "part_of_speech": "n",
+      "study_tier": "inicial",
+      "study_priority": 82
+    },
+    {
+      "id": "en:000003126",
+      "english_id": "en:000003126",
+      "text": "fridge",
+      "kind": "word",
+      "description_en": "A refrigerator.",
+      "level": "A1",
+      "region_tags": [],
+      "source_status": "editorial-reviewed",
+      "vcu14_rank": 1004,
+      "environments": [
+        "core_coverage_review"
+      ],
+      "vcu14_status": "provisional-editorial",
+      "part_of_speech": "n",
+      "study_tier": "inicial",
+      "study_priority": 651
+    },
+    {
+      "id": "en:000003221",
+      "english_id": "en:000003221",
+      "english_sense_id": null,
+      "kind": "word",
+      "description_en": "Goodbye (informal).",
+      "text": "bye",
+      "alternatives": [],
+      "source_status": "base4-reviewed",
+      "translation_confidence": "editorial-reviewed",
+      "study_tier": "inicial",
+      "study_priority": 690,
+      "part_of_speech": "n"
+    },
+    {
+      "id": "en:000003422",
+      "english_id": "en:000003422",
+      "english_sense_id": null,
+      "kind": "word",
+      "description_en": "Grandfather (informal).",
+      "text": "grandpa",
+      "alternatives": [],
+      "source_status": "base4-reviewed",
+      "translation_confidence": "editorial-reviewed",
+      "study_tier": "inicial",
+      "study_priority": 826,
+      "part_of_speech": "n"
+    },
+    {
+      "id": "en:000003423",
+      "english_id": "en:000003423",
+      "english_sense_id": null,
+      "kind": "word",
+      "description_en": "Grandmother (informal).",
+      "text": "grandma",
+      "alternatives": [],
+      "source_status": "base4-reviewed",
+      "translation_confidence": "editorial-reviewed",
+      "study_tier": "inicial",
+      "study_priority": 827,
+      "part_of_speech": "n"
+    },
+    {
+      "id": "en:000003994",
+      "english_id": "en:000003994",
+      "english_sense_id": null,
+      "kind": "expression",
+      "description_en": "A mobile phone.",
+      "text": "cell phone",
+      "alternatives": [],
+      "source_status": "base4-reviewed",
+      "translation_confidence": "editorial-reviewed",
+      "study_tier": "cedo",
+      "study_priority": 2349,
+      "part_of_speech": "n"
+    }
+  ],
+  "test_only": true
+}
