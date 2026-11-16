@@ -106,4 +106,28 @@ const created = {code: 201, body: {number: 123, html_url: 'https://github.com/ar
   assert.equal(service.post(report).status, 'retry');
   assert.equal(service.rows.length, 1);
 }
-console.log('PASS receiver service mocks: receipt, idempotency, conflict, validation, uncertain reconciliation, definite failure, configuration and busy lock');
+// Existing v1 fields accept missing OCR words; never send these fixtures live.
+for (const name of ['missing-word-ja.json', 'missing-word-zh.json', 'missing-word-pt-BR.json']) {
+  const missing = JSON.parse(fs.readFileSync(__dirname + '/../fixtures/' + name, 'utf8'));
+  const service = receiver([created]);
+  assert.equal(missing.english_id, '-');
+  assert.ok(missing.entry_id.startsWith('new:' + missing.language + ':'));
+  assert.equal(service.post(missing).status, 'received');
+  const repeated = service.post(Object.fromEntries(Object.entries(missing).reverse()));
+  assert.equal(repeated.issue_number, 123);
+  assert.equal(repeated.request_id, missing.request_id);
+  assert.equal(service.calls.length, 1);
+  const persisted = JSON.parse(service.rows[1][5]);
+  for (const field of ['entry_id', 'english_id', 'word', 'message', 'created_at']) {
+    assert.equal(persisted[field], missing[field]);
+  }
+  assert.equal(service.post({...missing, package_version: 'changed-on-retry'}).code, 'request_id_conflict');
+}
+{
+  const service = receiver([]);
+  const missing = JSON.parse(fs.readFileSync(__dirname + '/../fixtures/missing-word-ja.json', 'utf8'));
+  assert.equal(service.post({...missing, entry_id: 'new:ja:' + '語'.repeat(250)}).status, 'rejected');
+  assert.equal(service.calls.length, 0);
+}
+console.log('PASS receiver service mocks: receipt, idempotency, conflict, validation, uncertain reconciliation, definite failure, configuration, busy lock and missing-word v1 Unicode fixtures');
+
