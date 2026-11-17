@@ -1587,7 +1587,7 @@
       "disposition": "correction",
       "status": "in_review",
       "close_reason": null,
-      "reason": "戻る é válido para voltar; 帰る é especialmente voltar para casa/local de origem. Não trocar automaticamente.",
+      "reason": "戻る está correto para voltar, mas a alternativa PT-BR devolver é de outro sentido (dar algo de volta); substituir por retornar. 帰る destaca voltar para casa/local de origem.",
       "evidence": [
         {
           "publisher": "Shogakukan",
@@ -1598,6 +1598,16 @@
           "publisher": "Wiktionary",
           "url": "https://en.wiktionary.org/wiki/戻る",
           "finding": "Modoru is an intransitive godan verb meaning return/go back."
+        },
+        {
+          "publisher": "Cambridge",
+          "url": "https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/return",
+          "finding": "Returning to a place is voltar/retornar; giving an object back is the separate devolver sense."
+        },
+        {
+          "publisher": "Michaelis",
+          "url": "https://michaelis.uol.com.br/escolar-ingles/busca/ingles-portugues-escolar/return/",
+          "finding": "Separates return meaning voltar/regressar/retornar from devolver/restituir."
         }
       ],
       "patches": [
@@ -1611,6 +1621,20 @@
             "nativeExplain": {
               "pt-BR": "voltar ao lugar ou estado anterior. 帰る (kaeru) destaca voltar para casa ou ao lugar de origem."
             }
+          }
+        },
+        {
+          "package_id": "pt-BR-core-v2",
+          "entry_id": "pt-BR:en:000000640",
+          "before": {
+            "alternatives": [
+              "devolver"
+            ]
+          },
+          "after": {
+            "alternatives": [
+              "retornar"
+            ]
           }
         }
       ]
@@ -1942,10 +1966,10 @@
       "source_version": "2.2.1",
       "source_language": "ja",
       "issue_url": "https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/140",
-      "disposition": "correction",
-      "status": "in_review",
-      "close_reason": null,
-      "reason": "お手洗い é uma forma educada comum para banheiro/toalete. A tradução não se limita a lavabo.",
+      "disposition": "clarification",
+      "status": "not_applied",
+      "close_reason": "not_planned",
+      "reason": "A forma atual está correta; esclarecer a dúvida sem substituir o sentido. お手洗い é uma forma educada comum para banheiro/toalete. A tradução não se limita a lavabo.",
       "evidence": [
         {
           "publisher": "Shogakukan",
@@ -1982,10 +2006,10 @@
       "source_version": "2.2.1",
       "source_language": "ja",
       "issue_url": "https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/141",
-      "disposition": "correction",
-      "status": "in_review",
-      "close_reason": null,
-      "reason": "O registro já é lexical_type=construction. Acrescentar explicação, conservando todas as flexões e IDs.",
+      "disposition": "clarification",
+      "status": "not_applied",
+      "close_reason": "not_planned",
+      "reason": "A forma atual está correta; esclarecer a dúvida sem substituir o sentido. O registro já é lexical_type=construction. Acrescentar explicação, conservando todas as flexões e IDs.",
       "evidence": [
         {
           "publisher": "NINJAL",
@@ -3913,10 +3937,10 @@
       "source_version": "2.2.1",
       "source_language": "ja",
       "issue_url": "https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/266",
-      "disposition": "correction",
-      "status": "in_review",
-      "close_reason": null,
-      "reason": "O ID é ago, sentido temporal, e não in front of. Manter o texto e explicar o contexto.",
+      "disposition": "clarification",
+      "status": "not_applied",
+      "close_reason": "not_planned",
+      "reason": "A forma atual está correta; esclarecer a dúvida sem substituir o sentido. O ID é ago, sentido temporal, e não in front of. Manter o texto e explicar o contexto.",
       "evidence": [
         {
           "publisher": "Shogakukan",
@@ -4072,15 +4096,16 @@
     }
   ],
   "counts": {
-    "correction": 9,
+    "correction": 6,
     "not_applied": 35,
     "needs_evidence": 203,
+    "clarification": 3,
     "duplicate": 3
   },
   "notes": [
     "All 250 reports received in snapshot, individually assigned a disposition; needs_evidence is NOT a completed lexical review.",
     "No new concepts allocated; no OCR hint accepted as verified evidence.",
-    "22 additional OCR artifacts and 3 existing forms can be closed without a package release.",
+    "22 additional OCR artifacts, 3 existing forms and 3 already-correct usages can be resolved without a package release.",
     "Japanese release remains blocked by current unit-validator failures; do not mark these reports fixed."
   ]
 }

@@ -7,16 +7,17 @@
     "pt-BR": "2.2.2"
   },
   "counts": {
-    "correction": 9,
+    "correction": 6,
     "not_applied": 35,
     "needs_evidence": 203,
+    "clarification": 3,
     "duplicate": 3
   },
   "reports": 250,
   "distinct_patched_concepts": 9,
   "new_concepts": 0,
   "new_forms": 0,
-  "size_exception_reason": "Correct confirmed errors without waiting for unrelated lexical additions. PT-BR contains one corrected existing concept; JA contains nine existing-entry corrections/clarifications.",
+  "size_exception_reason": "Two confirmed corrections to existing PT-BR senses; do not wait for unrelated additions. Nine Japanese patches include three optional usage explanations for already-valid entries.",
   "editorial_source": "https://github.com/arquitetoishida-max/LEXICON/pull/79",
   "checks": {
     "ja": {
@@ -140,7 +141,7 @@
       "base_sha256": "57ce3a361881b08586fdc084bc6f223aea3e0af6095bea35ac85d1c838196725",
       "base_size_bytes": 1631637,
       "entry_count": 3612,
-      "patched_entries": 1,
+      "patched_entries": 2,
       "ids_preserved": true,
       "unrelated_fields_preserved": true,
       "entry_order_preserved": true,
@@ -150,7 +151,7 @@
       "gates_passed": true,
       "candidate": {
         "file": "pt-BR-core-v2-2.3.0-candidate.COMMUNITY-20261117-001.json",
-        "sha256": "c2f1bec4e506ed09b03a176fc0859f8dfdb08cb6c6bc4e1c40a8eece1dc881d8",
+        "sha256": "59014c2fd619d34cc31d24cda2ff36b958fdd8e6a3d192da5821fbd188ff7b2d",
         "size_bytes": 1340558
       },
       "unit_errors": []
