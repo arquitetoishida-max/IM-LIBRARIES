@@ -1,0 +1,23 @@
+name: Validate community review decisions
+on:
+  pull_request:
+    paths: ['community/batches/**', 'scripts/validate_community_review.py', 'tests/test_community_review.py', '.github/workflows/validate-community-review.yml']
+  push:
+    branches: [main]
+    paths: ['community/batches/**', 'scripts/validate_community_review.py', 'tests/test_community_review.py', '.github/workflows/validate-community-review.yml']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -p test_community_review.py -v
+      - name: Validate all recorded batches
+        run: |
+          find community/batches -name review.json -print0 | while IFS= read -r -d '' review; do
+            python scripts/validate_community_review.py "$review" || exit 1
+          done
