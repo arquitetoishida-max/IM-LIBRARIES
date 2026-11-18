@@ -438,11 +438,7 @@
       "size_bytes": 117101,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "construction_site",
-      "companion_package_id": "vcu100-pt-br-construction-companion",
-      "requires": [
-        "vcu100-pt-br-construction-companion"
-      ]
+      "domain": "construction_site"
     },
     {
       "id": "vcu100-pt-br-construction-companion",
@@ -452,7 +448,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 178,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -467,7 +463,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "construction_site",
-      "companion_of": "vcu100-en-us-construction-site"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-en-us-business",
@@ -491,11 +487,7 @@
       "size_bytes": 182305,
       "version": "1.1.0",
       "vcu_family": "VCU100",
-      "domain": "business_finance",
-      "companion_package_id": "vcu100-pt-br-business-companion",
-      "requires": [
-        "vcu100-pt-br-business-companion"
-      ]
+      "domain": "business_finance"
     },
     {
       "id": "vcu100-pt-br-business-companion",
@@ -505,7 +497,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 301,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -520,7 +512,7 @@
       "version": "1.1.0",
       "vcu_family": "VCU100",
       "domain": "business_finance",
-      "companion_of": "vcu100-en-us-business"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-en-us-healthcare",
@@ -544,11 +536,7 @@
       "size_bytes": 101167,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "healthcare_nursing",
-      "companion_package_id": "vcu100-pt-br-healthcare-companion",
-      "requires": [
-        "vcu100-pt-br-healthcare-companion"
-      ]
+      "domain": "healthcare_nursing"
     },
     {
       "id": "vcu100-pt-br-healthcare-companion",
@@ -558,7 +546,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 170,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -573,7 +561,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "healthcare_nursing",
-      "companion_of": "vcu100-en-us-healthcare"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-en-us-architecture-interiors",
@@ -597,11 +585,7 @@
       "size_bytes": 113920,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "architecture_interiors",
-      "companion_package_id": "vcu100-pt-br-architecture-companion",
-      "requires": [
-        "vcu100-pt-br-architecture-companion"
-      ]
+      "domain": "architecture_interiors"
     },
     {
       "id": "vcu100-pt-br-architecture-companion",
@@ -611,7 +595,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 180,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -626,7 +610,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "architecture_interiors",
-      "companion_of": "vcu100-en-us-architecture-interiors"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-ja-factory",
@@ -650,11 +634,7 @@
       "size_bytes": 101686,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "factory_workplace",
-      "companion_package_id": "vcu100-pt-br-factory-companion",
-      "requires": [
-        "vcu100-pt-br-factory-companion"
-      ]
+      "domain": "factory_workplace"
     },
     {
       "id": "vcu100-pt-br-factory-companion",
@@ -664,7 +644,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 179,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -679,7 +659,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "factory_workplace",
-      "companion_of": "vcu100-ja-factory"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-ja-tourism",
@@ -703,11 +683,7 @@
       "size_bytes": 100713,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "japan_tourism",
-      "companion_package_id": "vcu100-pt-br-ja-tourism-companion",
-      "requires": [
-        "vcu100-pt-br-ja-tourism-companion"
-      ]
+      "domain": "japan_tourism"
     },
     {
       "id": "vcu100-pt-br-ja-tourism-companion",
@@ -717,7 +693,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 175,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -732,7 +708,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "japan_tourism",
-      "companion_of": "vcu100-ja-tourism"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-pt-br-tourism",
@@ -756,11 +732,7 @@
       "size_bytes": 98047,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "brazil_tourism",
-      "companion_package_id": "vcu100-en-us-brazil-tourism-companion",
-      "requires": [
-        "vcu100-en-us-brazil-tourism-companion"
-      ]
+      "domain": "brazil_tourism"
     },
     {
       "id": "vcu100-en-us-brazil-tourism-companion",
@@ -770,7 +742,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 176,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -785,7 +757,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "brazil_tourism",
-      "companion_of": "vcu100-pt-br-tourism"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-es-adventure",
@@ -809,11 +781,7 @@
       "size_bytes": 88538,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "south_america_adventure",
-      "companion_package_id": "vcu100-pt-br-es-adventure-companion",
-      "requires": [
-        "vcu100-pt-br-es-adventure-companion"
-      ]
+      "domain": "south_america_adventure"
     },
     {
       "id": "vcu100-pt-br-es-adventure-companion",
@@ -823,7 +791,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 175,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -838,7 +806,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "south_america_adventure",
-      "companion_of": "vcu100-es-adventure"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-zh-tourism-sourcing",
@@ -862,11 +830,7 @@
       "size_bytes": 99764,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "china_tourism_sourcing",
-      "companion_package_id": "vcu100-pt-br-zh-sourcing-companion",
-      "requires": [
-        "vcu100-pt-br-zh-sourcing-companion"
-      ]
+      "domain": "china_tourism_sourcing"
     },
     {
       "id": "vcu100-pt-br-zh-sourcing-companion",
@@ -876,7 +840,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 168,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -891,7 +855,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "china_tourism_sourcing",
-      "companion_of": "vcu100-zh-tourism-sourcing"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "vcu100-en-us-adventure",
@@ -915,11 +879,7 @@
       "size_bytes": 87156,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "south_america_adventure",
-      "companion_package_id": "vcu100-pt-br-es-adventure-companion",
-      "requires": [
-        "vcu100-pt-br-es-adventure-companion"
-      ]
+      "domain": "south_america_adventure"
     },
     {
       "id": "vcu100-en-us-blues-culture",
@@ -943,11 +903,7 @@
       "size_bytes": 126813,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "blues_music_culture",
-      "companion_package_id": "vcu100-pt-br-blues-companion",
-      "requires": [
-        "vcu100-pt-br-blues-companion"
-      ]
+      "domain": "blues_music_culture"
     },
     {
       "id": "vcu100-pt-br-blues-companion",
@@ -957,7 +913,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 221,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -972,7 +928,7 @@
       "version": "1.0.0",
       "vcu_family": "VCU100",
       "domain": "blues_music_culture",
-      "companion_of": "vcu100-en-us-blues-culture"
+      "retired_reason": "par bilíngue removido: dicionários especializados são monolíngues (decisão do dono, 17/11/2026)"
     },
     {
       "id": "ja-writing-kanjivg",
