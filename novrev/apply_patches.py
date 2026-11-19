@@ -27,6 +27,21 @@ for f in sorted(glob.glob('novrev/patches/*.jsonl')):
             e.setdefault('user_hint','')
             if r.get('flag'): e['novrev_flag']=r['flag']
         n+=1
+import collections
+_by=collections.defaultdict(list)
+for e in pk['en']['entries']:
+    if e.get('novrev_status')=='reviewed': _by[e['text'].lower()].append(e['english_id'])
+ANT=collections.defaultdict(list)
+for _l in open('novrev/antonyms.txt'):
+    if '|' not in _l: continue
+    a,b=_l.strip().split('|')
+    if len(_by.get(a,[]))==1 and len(_by.get(b,[]))==1:
+        x,y=_by[a][0],_by[b][0]
+        if y not in ANT[x]: ANT[x].append(y)
+        if x not in ANT[y]: ANT[y].append(x)
+for l in L:
+    for e in pk[l]['entries']:
+        if e['english_id'] in ANT: e['antonyms']=list(ANT[e['english_id']])
 for l in L:
     pk[l]['entries']=[idx[l][e['english_id']] for e in pk[l]['entries']]
     for e in pk[l]['entries']: e.setdefault('user_hint','')
