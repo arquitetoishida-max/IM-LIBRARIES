@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "6e0f6ef506e5b293783d09e85cfbd1a83e4ace3a1eb50a161f786239da2e7d27",
-      "version": "2.2.1",
-      "size_bytes": 1486096
+      "sha256": "e60a09cb9f3178a14d70b7059584765e3055f1c5f5de56fb2d707d731b1b28cc",
+      "version": "2.3.0",
+      "size_bytes": 1653336
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "fc67f805a74a956dc418013e6a698c22da62e6c1d927fc96786e297c54c74d19",
-      "version": "2.2.1",
-      "size_bytes": 1631592
+      "sha256": "91d6de3a85c603ed4ac2d287aa2bde0ac98dd4092204748c6f0fdf7c2d4328b4",
+      "version": "2.3.0",
+      "size_bytes": 1801984
     },
     {
       "id": "pt-PT-core-v2",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "181123ef8225d20acc6b4188e87e1d380d01b7a67cbfd43b41b3126da0ad83dd",
-      "version": "2.2.1",
-      "size_bytes": 3816980
+      "sha256": "1eeed142aa65dfab28ebfbaa41f345fbf4bf91555946304e7f989c78a8f3e39b",
+      "version": "2.3.0",
+      "size_bytes": 3994564
     },
     {
       "id": "es-core-v2",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "36fbd69acd1162ea0935a3ac4183393f71e2a2003cffdfb6ee6fcc2041922df7",
-      "version": "2.2.1",
-      "size_bytes": 2111718
+      "sha256": "fda782e6990fdd8142120a6e48f1fedc10a28381c3473de0bfd00c31344d4399",
+      "version": "2.3.0",
+      "size_bytes": 2277927
     },
     {
       "id": "ko-core-v2",
@@ -1016,6 +1016,7 @@
     "Blues Music & Culture 221 EN-US entries and PT-BR equivalents; cultural/music terminology rather than strictly region-specific slang. Android QA required.",
     "1.2.0: en/pt-BR/ja/zh core 2.2.0 — BASE4 review integrated; previous 2.1.1 files in v2/previous/ for rollback.",
     "1.2.1: core 2.2.1 — REG37 part-of-speech and Japanese register forms (MULTILANG #37).",
-    "1.3.0 (19/11/2026): NOVREV — somente en, pt-BR, ja e zh core ficam publicados; os demais pacotes monolíngues foram despublicados (arquivos preservados) e só voltam após passar pela NOVREV."
+    "1.3.0 (19/11/2026): NOVREV — somente en, pt-BR, ja e zh core ficam publicados; os demais pacotes monolíngues foram despublicados (arquivos preservados) e só voltam após passar pela NOVREV.",
+    "1.3.1: core 2.3.0 — NOVREV VCU14 (1.060 conceitos) integrado em en/pt-BR/ja/zh; anteriores 2.2.1 em v2/previous/."
   ]
 }

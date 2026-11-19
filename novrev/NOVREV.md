@@ -20,3 +20,6 @@ Escopo novo e separado, que substitui as ordens de serviço antigas de revisão 
 T1 palavra principal correta por ID nos 4 idiomas · T1B compostas que são expressões/partícula · T2 edição por dicionário · T3 descrição nativa 100% · T4 dica 100% · T5 variantes (romaji, pinyin, kana, kanji, hanzi) · T6 antônimos · T7 formal/informal/conjugações (mover para o lugar certo).
 
 Pronto = todas as linhas do grupo VCU14 com T1–T7 em OK/CORRIGIDO/NA.
+
+## Campo `user_hint` (dica do usuário)
+Campo reservado em todas as entradas dos 4 idiomas, vazio (`""`) por padrão. O app grava aqui a dica escrita pelo próprio usuário (botão ao lado da dica existente no Card). O dicionário publicado nunca preenche este campo; o app deve mantê-lo localmente e mesclar por `english_id`, para não perder a dica quando o pacote for atualizado.
