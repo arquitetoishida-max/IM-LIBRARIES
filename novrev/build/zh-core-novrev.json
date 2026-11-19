@@ -10888,7 +10888,8 @@
     "pt-BR": "cômodo/quarto"
    },
    "description": "房子里用墙隔开的一部分。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "conferir: 'room' pt cômodo"
   },
   {
    "id": "zh:en:000000389",
@@ -14236,7 +14237,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 153
+   "study_priority": 153,
+   "description": "和某人碰面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000525",
@@ -20198,7 +20201,8 @@
     "pt-BR": "futebol (soccer) vs futebol americano (EUA)"
    },
    "description": "用脚踢球的运动（足球）。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: 'football' é ambíguo (americano); avaliar trocar por 'soccer'"
   },
   {
    "id": "zh:en:000000780",
@@ -27216,7 +27220,9 @@
    "reading": "éwài de",
    "romanization": "éwài de",
    "study_tier": "cedo",
-   "study_priority": 1192
+   "study_priority": 1192,
+   "description": "比平常更多的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001087",
@@ -27368,7 +27374,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 341
+   "study_priority": 341,
+   "description": "拿东西换钱。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001095",
@@ -27478,7 +27486,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 342
+   "study_priority": 342,
+   "description": "和别人看法一致。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001101",
@@ -27876,14 +27886,16 @@
     "actions"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "花（钱/时间）",
+   "text": "花",
    "alternatives": [
     "度过"
    ],
    "reading": "huā",
    "romanization": "huā",
    "study_tier": "cedo",
-   "study_priority": 1203
+   "study_priority": 1203,
+   "description": "花钱；度过时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001119",
@@ -28116,7 +28128,9 @@
    "reading": "xīngqīwǔ",
    "romanization": "xīngqīwǔ",
    "study_tier": "inicial",
-   "study_priority": 348
+   "study_priority": 348,
+   "description": "星期四的后一天。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001134",
@@ -28426,7 +28440,10 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1214
+   "study_priority": 1214,
+   "description": "中间；进行某种活动的场所。",
+   "novrev_status": "reviewed",
+   "novrev_flag": "duplicata: grafia britânica de 'center' (000000626); sair do núcleo en-US"
   },
   {
    "id": "zh:en:000001147",
@@ -28485,7 +28502,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 353
+   "study_priority": 353,
+   "description": "对父亲的亲切称呼。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001150",
@@ -28517,7 +28536,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1216
+   "study_priority": 1216,
+   "description": "害怕的感觉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001151",
@@ -28812,7 +28833,9 @@
    "study_priority": 1223,
    "nativeExplain": {
     "pt-BR": "letra (alfabeto) vs carta (mensagem)"
-   }
+   },
+   "description": "字母表里的一个符号；也指寄出的书信。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001164",
@@ -28974,7 +28997,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1227
+   "study_priority": 1227,
+   "description": "为出售而制造的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001171",
@@ -29023,7 +29048,9 @@
     }
    ],
    "study_tier": "intermediário",
-   "study_priority": 2767
+   "study_priority": 2767,
+   "description": "替别人处理办公事务的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001173",
@@ -29055,7 +29082,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 357
+   "study_priority": 357,
+   "description": "和你有相同父母的女性。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001175",
@@ -29250,7 +29279,9 @@
     }
    ],
    "study_tier": "intermediário",
-   "study_priority": 2769
+   "study_priority": 2769,
+   "description": "书面的法律协议。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001183",
@@ -29285,7 +29316,9 @@
    "study_priority": 1235,
    "nativeExplain": {
     "pt-BR": "grau (temperatura) vs diploma universitário"
-   }
+   },
+   "description": "温度或角度的单位；也指大学学位。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001186",
@@ -29520,7 +29553,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1237
+   "study_priority": 1237,
+   "description": "你对某事的想法。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001197",
@@ -29636,7 +29671,9 @@
    "reading": "rènzhēn de",
    "romanization": "rènzhēn de",
    "study_tier": "cedo",
-   "study_priority": 1241
+   "study_priority": 1241,
+   "description": "认真地；“真的吗？”表示确认。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001202",
@@ -30067,7 +30104,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 363
+   "study_priority": 363,
+   "description": "大型的船。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001221",
@@ -30185,7 +30224,9 @@
    "reading": "tài bàng le",
    "romanization": "tài bàng le",
    "study_tier": "inicial",
-   "study_priority": 365
+   "study_priority": 365,
+   "description": "非常棒；了不起（口语）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001228",
@@ -30547,7 +30588,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1260
+   "study_priority": 1260,
+   "description": "获取知识的过程。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001243",
@@ -30718,7 +30761,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 368
+   "study_priority": 368,
+   "description": "不让别人知道的事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001251",
@@ -30804,7 +30849,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 370
+   "study_priority": 370,
+   "description": "星期六的后一天。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001255",
@@ -30836,7 +30883,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 371
+   "study_priority": 371,
+   "description": "把衣服穿在身上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001257",
@@ -30980,7 +31029,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 372
+   "study_priority": 372,
+   "description": "决定要哪一个。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001263",
@@ -31027,7 +31078,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 374
+   "study_priority": 374,
+   "description": "红、蓝、绿等。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001265",
@@ -31291,7 +31344,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 376
+   "study_priority": 376,
+   "description": "凭机缘出现的好事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001278",
@@ -31340,7 +31395,9 @@
    "reading": "bìyào de",
    "romanization": "bìyào de",
    "study_tier": "cedo",
-   "study_priority": 1275
+   "study_priority": 1275,
+   "description": "必须有的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001282",
@@ -31477,7 +31534,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 379
+   "study_priority": 379,
+   "description": "像糖一样的味道；也指可爱、讨人喜欢。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001288",
@@ -31536,7 +31595,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 380
+   "study_priority": 380,
+   "description": "把手放到某物上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001290",
@@ -31799,7 +31860,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 383
+   "study_priority": 383,
+   "description": "把液体含进嘴里咽下。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001301",
@@ -32107,7 +32170,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 387
+   "study_priority": 387,
+   "description": "坐在椅子或座位上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001321",
@@ -32238,7 +32303,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 389
+   "study_priority": 389,
+   "description": "拿着东西移动。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001327",
@@ -33767,7 +33834,9 @@
    "reading": "xīngqīliù",
    "romanization": "xīngqīliù",
    "study_tier": "inicial",
-   "study_priority": 402
+   "study_priority": 402,
+   "description": "星期五的后一天。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001404",
@@ -34117,7 +34186,9 @@
    "study_priority": 2813,
    "nativeExplain": {
     "pt-BR": "divisão (matemática) vs divisão (departamento)"
-   }
+   },
+   "description": "分成几份；数学的除法 ÷。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001417",
@@ -34246,7 +34317,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1329
+   "study_priority": 1329,
+   "description": "热，高温。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001423",
@@ -34364,7 +34437,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1331
+   "study_priority": 1331,
+   "description": "某物所在的地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001427",
@@ -34594,7 +34669,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1337
+   "study_priority": 1337,
+   "description": "两地之间的远近。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001446",
@@ -34917,7 +34994,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1344
+   "study_priority": 1344,
+   "description": "得到别人给的或寄来的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001462",
@@ -34966,7 +35045,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1346
+   "study_priority": 1346,
+   "description": "坐或骑着移动（自行车、马、公共汽车）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001465",
@@ -35361,7 +35442,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 416
+   "study_priority": 416,
+   "description": "开始。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001486",
@@ -35393,7 +35476,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1352
+   "study_priority": 1352,
+   "description": "最下面的部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001488",
@@ -35592,7 +35677,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1354
+   "study_priority": 1354,
+   "description": "一起做某事的人；也指配偶。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001499",
@@ -35644,7 +35731,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 419
+   "study_priority": 419,
+   "description": "不开心。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001502",
@@ -35824,7 +35913,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 421
+   "study_priority": 421,
+   "description": "流动的空气。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001513",
@@ -35854,7 +35945,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 422
+   "study_priority": 422,
+   "description": "为问题感到不安。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001517",
@@ -35886,7 +35979,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1360
+   "study_priority": 1360,
+   "description": "公司产品的名称。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001518",
@@ -35973,7 +36068,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 424
+   "study_priority": 424,
+   "description": "按顺序说数字。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001522",
@@ -36441,7 +36538,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 428
+   "study_priority": 428,
+   "description": "聪明，有头脑。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001544",
@@ -36498,7 +36597,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 429
+   "study_priority": 429,
+   "description": "用手把东西抛向空中。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001547",
@@ -36555,7 +36656,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 430
+   "study_priority": 430,
+   "description": "结婚的仪式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001551",
@@ -53920,7 +54023,9 @@
    "study_priority": 1738,
    "nativeExplain": {
     "pt-BR": "galho vs filial"
-   }
+   },
+   "description": "树上分出来的部分；也指银行或公司的分支机构。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002534",
@@ -53997,7 +54102,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 582
+   "study_priority": 582,
+   "description": "用铅笔或钢笔画出的图。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002537",
@@ -54106,7 +54213,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 585
+   "study_priority": 585,
+   "description": "来家里做客或住进酒店的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002541",
@@ -54479,7 +54588,9 @@
    "study_priority": 1753,
    "nativeExplain": {
     "pt-BR": "frase (gramática) vs sentença (judicial)"
-   }
+   },
+   "description": "表达完整意思的一组词。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002561",
@@ -55033,7 +55144,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1767
+   "study_priority": 1767,
+   "description": "清单或一组东西中的一项。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002591",
@@ -55139,7 +55252,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1770
+   "study_priority": 1770,
+   "description": "通常，一般情况下。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002595",
@@ -55417,7 +55532,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1777
+   "study_priority": 1777,
+   "description": "一段工作时间（夜班）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002606",
@@ -55745,7 +55862,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 595
+   "study_priority": 595,
+   "description": "把球投进高处篮筐的运动。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002619",
@@ -55770,7 +55889,9 @@
    "reading": "ànniǔ",
    "romanization": "ànniǔ",
    "study_tier": "inicial",
-   "study_priority": 596
+   "study_priority": 596,
+   "description": "衣服上的小圆扣；也指按压的按钮。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002621",
@@ -55877,7 +55998,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1788
+   "study_priority": 1788,
+   "description": "商店或厨房里的长台面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002625",
@@ -56919,7 +57042,9 @@
    "reading": "yīnyuèhuì",
    "romanization": "yīnyuèhuì",
    "study_tier": "cedo",
-   "study_priority": 1814
+   "study_priority": 1814,
+   "description": "现场的音乐演出。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002681",
@@ -57144,7 +57269,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1819
+   "study_priority": 1819,
+   "description": "错误。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002691",
@@ -57567,7 +57694,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 603
+   "study_priority": 603,
+   "description": "盛食物的平底餐具。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002712",
@@ -57746,7 +57875,9 @@
    "reading": "wūdǐng",
    "romanization": "wūdǐng",
    "study_tier": "inicial",
-   "study_priority": 606
+   "study_priority": 606,
+   "description": "建筑最上面的遮盖部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002720",
@@ -57973,7 +58104,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 607
+   "study_priority": 607,
+   "description": "用球棒和球、有四个垒的运动。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002733",
@@ -58006,7 +58139,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 608
+   "study_priority": 608,
+   "description": "有马桶、洗手池和淋浴的房间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002734",
@@ -58048,7 +58183,9 @@
    "reading": "diànlǎn",
    "romanization": "diànlǎn",
    "study_tier": "cedo",
-   "study_priority": 1836
+   "study_priority": 1836,
+   "description": "粗的线缆。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002736",
@@ -58132,7 +58269,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1838
+   "study_priority": 1838,
+   "description": "专业人士服务的对象。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002740",
@@ -58466,7 +58605,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 611
+   "study_priority": 611,
+   "description": "用打印机把内容印到纸上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002764",
@@ -58756,7 +58897,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 614
+   "study_priority": 614,
+   "description": "靠脚踩踏板前进的两轮车。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002779",
@@ -58816,7 +58959,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 615
+   "study_priority": 615,
+   "description": "被火或高温损坏。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002781",
@@ -59006,7 +59151,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 617
+   "study_priority": 617,
+   "description": "戴在头上的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002794",
@@ -59776,7 +59923,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 622
+   "study_priority": 622,
+   "description": "上身的前面部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002842",
@@ -60279,7 +60428,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1895
+   "study_priority": 1895,
+   "description": "运送货物；也指运费。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002873",
@@ -60441,7 +60592,8 @@
    "study_tier": "herdado",
    "study_priority": 3055,
    "description": "上演戏剧的建筑。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: grafia 'theatre' trocada por 'theater'"
   },
   {
    "id": "zh:en:000002881",
@@ -60598,7 +60750,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 627
+   "study_priority": 627,
+   "description": "带帽檐的软帽；也指盖子。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002888",
@@ -61009,7 +61163,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 628
+   "study_priority": 628,
+   "description": "脸上用来闻气味的部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002915",
@@ -61260,7 +61416,9 @@
    "study_priority": 630,
    "nativeExplain": {
     "pt-BR": "gravata vs empate"
-   }
+   },
+   "description": "配衬衫系在脖子上的布条；也指比赛平局。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002929",
@@ -61955,7 +62113,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1931
+   "study_priority": 1931,
+   "description": "你住所周围的地区。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002970",
@@ -62201,7 +62361,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 633
+   "study_priority": 633,
+   "description": "脖子和手臂之间的部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002983",
@@ -62499,7 +62661,9 @@
    "reading": "guànmù",
    "romanization": "guànmù",
    "study_tier": "cedo",
-   "study_priority": 1944
+   "study_priority": 1944,
+   "description": "比树矮小的植物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000003015",

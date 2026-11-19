@@ -7917,7 +7917,8 @@
     "pt-BR": "cômodo/quarto"
    },
    "description": "A part of a house with walls.",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "conferir: 'room' pt cômodo"
   },
   {
    "id": "en:000000389",
@@ -10188,7 +10189,9 @@
     "pt-BR": "encontrar alguém"
    },
    "study_tier": "inicial",
-   "study_priority": 153
+   "study_priority": 153,
+   "description": "To come together with someone.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000525",
@@ -14246,7 +14249,8 @@
     "pt-BR": "futebol (soccer) vs futebol americano (EUA)"
    },
    "description": "Association football (soccer); called \"soccer\" in the US.",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: 'football' é ambíguo (americano); avaliar trocar por 'soccer'"
   },
   {
    "id": "en:000000780",
@@ -18920,7 +18924,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "study_tier": "cedo",
-   "study_priority": 1192
+   "study_priority": 1192,
+   "description": "More than usual.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001087",
@@ -19009,7 +19015,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 341
+   "study_priority": 341,
+   "description": "To give something for money.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001095",
@@ -19083,7 +19091,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 342
+   "study_priority": 342,
+   "description": "To have the same opinion.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001101",
@@ -19364,7 +19374,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "cedo",
-   "study_priority": 1203
+   "study_priority": 1203,
+   "description": "To use money or time.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001119",
@@ -19517,7 +19529,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 348
+   "study_priority": 348,
+   "description": "The day after Thursday.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001134",
@@ -19694,7 +19708,10 @@
    "variant_of": "en:000000626",
    "core_status": "search_only",
    "study_tier": "cedo",
-   "study_priority": 1214
+   "study_priority": 1214,
+   "description": "British spelling of \"center\": the middle; a place for an activity.",
+   "novrev_status": "reviewed",
+   "novrev_flag": "duplicata: grafia britânica de 'center' (000000626); sair do núcleo en-US"
   },
   {
    "id": "en:000001147",
@@ -19728,7 +19745,9 @@
     "pt-BR": "informal"
    },
    "study_tier": "inicial",
-   "study_priority": 353
+   "study_priority": 353,
+   "description": "Father (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001150",
@@ -19746,7 +19765,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1216
+   "study_priority": 1216,
+   "description": "The feeling of being afraid.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001151",
@@ -19933,7 +19954,9 @@
    "study_priority": 1223,
    "nativeExplain": {
     "pt-BR": "letra (alfabeto) vs carta (mensagem)"
-   }
+   },
+   "description": "A sign of the alphabet; a written message sent by mail.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001164",
@@ -20042,7 +20065,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1227
+   "study_priority": 1227,
+   "description": "Something made to be sold.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001171",
@@ -20073,7 +20098,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "intermediário",
-   "study_priority": 2767
+   "study_priority": 2767,
+   "description": "A person who does office work for someone.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001173",
@@ -20091,7 +20118,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 357
+   "study_priority": 357,
+   "description": "A girl or woman with the same parents as you.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001175",
@@ -20210,7 +20239,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "intermediário",
-   "study_priority": 2769
+   "study_priority": 2769,
+   "description": "A written legal agreement.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001183",
@@ -20231,7 +20262,9 @@
    "study_priority": 1235,
    "nativeExplain": {
     "pt-BR": "grau (temperatura) vs diploma universitário"
-   }
+   },
+   "description": "A unit for temperature or angles; a university diploma.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001186",
@@ -20376,7 +20409,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1237
+   "study_priority": 1237,
+   "description": "What you think about something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001197",
@@ -20455,7 +20490,9 @@
     "pt-BR": "advérbio; “sério?”"
    },
    "study_tier": "cedo",
-   "study_priority": 1241
+   "study_priority": 1241,
+   "description": "In a serious way; \"seriously?\" = really?",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001202",
@@ -20732,7 +20769,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 363
+   "study_priority": 363,
+   "description": "A large boat.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001221",
@@ -20825,7 +20864,9 @@
     "pt-BR": "informal"
    },
    "study_tier": "inicial",
-   "study_priority": 365
+   "study_priority": 365,
+   "description": "Really great; amazing (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001228",
@@ -21066,7 +21107,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1260
+   "study_priority": 1260,
+   "description": "Getting knowledge.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001243",
@@ -21185,7 +21228,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 368
+   "study_priority": 368,
+   "description": "Something kept hidden.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001251",
@@ -21237,7 +21282,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 370
+   "study_priority": 370,
+   "description": "The day after Saturday.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001255",
@@ -21255,7 +21302,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 371
+   "study_priority": 371,
+   "description": "To have clothes on your body.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001257",
@@ -21353,7 +21402,9 @@
     "pt-BR": "decidir entre opções"
    },
    "study_tier": "inicial",
-   "study_priority": 372
+   "study_priority": 372,
+   "description": "To decide which one you want.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001263",
@@ -21384,7 +21435,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 374
+   "study_priority": 374,
+   "description": "Red, blue, green, etc.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001265",
@@ -21570,7 +21623,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 376
+   "study_priority": 376,
+   "description": "Good things that happen by chance.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001278",
@@ -21604,7 +21659,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "study_tier": "cedo",
-   "study_priority": 1275
+   "study_priority": 1275,
+   "description": "Needed.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001282",
@@ -21695,7 +21752,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "study_tier": "inicial",
-   "study_priority": 379
+   "study_priority": 379,
+   "description": "Tasting of sugar; also kind and lovely.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001288",
@@ -21726,7 +21785,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 380
+   "study_priority": 380,
+   "description": "To put your hand on something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001290",
@@ -21887,7 +21948,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 383
+   "study_priority": 383,
+   "description": "To take liquid into your mouth and swallow.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001301",
@@ -22110,7 +22173,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 387
+   "study_priority": 387,
+   "description": "To rest on a chair or seat.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001321",
@@ -22191,7 +22256,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 389
+   "study_priority": 389,
+   "description": "To hold something while moving.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001327",
@@ -23221,7 +23288,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 402
+   "study_priority": 402,
+   "description": "The day after Friday.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001404",
@@ -23429,7 +23498,9 @@
    "study_priority": 2813,
    "nativeExplain": {
     "pt-BR": "divisão (matemática) vs divisão (departamento)"
-   }
+   },
+   "description": "Splitting into parts; the math operation ÷.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001417",
@@ -23507,7 +23578,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1329
+   "study_priority": 1329,
+   "description": "Hotness; high temperature.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001423",
@@ -23580,7 +23653,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1331
+   "study_priority": 1331,
+   "description": "A place.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001427",
@@ -23735,7 +23810,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1337
+   "study_priority": 1337,
+   "description": "How far it is between two places.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001446",
@@ -23973,7 +24050,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "cedo",
-   "study_priority": 1344
+   "study_priority": 1344,
+   "description": "To get something given or sent.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001462",
@@ -24004,7 +24083,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "cedo",
-   "study_priority": 1346
+   "study_priority": 1346,
+   "description": "To sit on and travel (bike, horse, bus).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001465",
@@ -24287,7 +24368,9 @@
     "pt-BR": "um pouco mais formal"
    },
    "study_tier": "inicial",
-   "study_priority": 416
+   "study_priority": 416,
+   "description": "To start.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001486",
@@ -24305,7 +24388,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1352
+   "study_priority": 1352,
+   "description": "The lowest part.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001488",
@@ -24422,7 +24507,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1354
+   "study_priority": 1354,
+   "description": "A person you do something with; a husband or wife.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001499",
@@ -24461,7 +24548,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "study_tier": "inicial",
-   "study_priority": 419
+   "study_priority": 419,
+   "description": "Unhappy.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001502",
@@ -24597,7 +24686,9 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 421
+   "study_priority": 421,
+   "description": "Moving air.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001513",
@@ -24615,7 +24706,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 422
+   "study_priority": 422,
+   "description": "To feel nervous about problems.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001517",
@@ -24633,7 +24726,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1360
+   "study_priority": 1360,
+   "description": "The name of a company's products.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001518",
@@ -24689,7 +24784,9 @@
     "pt-BR": "números"
    },
    "study_tier": "inicial",
-   "study_priority": 424
+   "study_priority": 424,
+   "description": "To say numbers in order.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001522",
@@ -25010,7 +25107,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "study_tier": "inicial",
-   "study_priority": 428
+   "study_priority": 428,
+   "description": "Intelligent.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001544",
@@ -25041,7 +25140,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 429
+   "study_priority": 429,
+   "description": "To send something through the air with your hand.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001547",
@@ -25078,7 +25179,9 @@
     "pt-BR": "a cerimônia"
    },
    "study_tier": "inicial",
-   "study_priority": 430
+   "study_priority": 430,
+   "description": "A marriage ceremony.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000001551",
@@ -36540,7 +36643,9 @@
    "study_priority": 1738,
    "nativeExplain": {
     "pt-BR": "galho vs filial"
-   }
+   },
+   "description": "A part of a tree; an office of a bank or company.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002534",
@@ -36585,7 +36690,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 582
+   "study_priority": 582,
+   "description": "A picture made with a pencil or pen.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002537",
@@ -36652,7 +36759,9 @@
     "pt-BR": "visita (substantivo)"
    },
    "study_tier": "inicial",
-   "study_priority": 585
+   "study_priority": 585,
+   "description": "A person visiting your home or a hotel.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002541",
@@ -36875,7 +36984,9 @@
    "study_priority": 1753,
    "nativeExplain": {
     "pt-BR": "frase (gramática) vs sentença (judicial)"
-   }
+   },
+   "description": "A group of words with a complete idea.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002561",
@@ -37291,7 +37402,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1767
+   "study_priority": 1767,
+   "description": "One thing in a list or group.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002591",
@@ -37352,7 +37465,9 @@
     "pt-BR": "normalmente"
    },
    "study_tier": "cedo",
-   "study_priority": 1770
+   "study_priority": 1770,
+   "description": "Usually.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002595",
@@ -37527,7 +37642,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1777
+   "study_priority": 1777,
+   "description": "A period of work time (night shift).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002606",
@@ -37726,7 +37843,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 595
+   "study_priority": 595,
+   "description": "A game where you throw a ball through a high ring.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002619",
@@ -37745,7 +37864,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 596
+   "study_priority": 596,
+   "description": "A small round thing on clothes; something you press.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002621",
@@ -37804,7 +37925,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1788
+   "study_priority": 1788,
+   "description": "A long table in a shop or kitchen.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002625",
@@ -38450,7 +38573,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1814
+   "study_priority": 1814,
+   "description": "A live music performance.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002681",
@@ -38606,7 +38731,9 @@
     "pt-BR": "técnico, formal"
    },
    "study_tier": "cedo",
-   "study_priority": 1819
+   "study_priority": 1819,
+   "description": "A mistake.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002691",
@@ -38833,7 +38960,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 603
+   "study_priority": 603,
+   "description": "A flat dish for food.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002712",
@@ -38944,7 +39073,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 606
+   "study_priority": 606,
+   "description": "The top cover of a building.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002720",
@@ -39096,7 +39227,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 607
+   "study_priority": 607,
+   "description": "A game with a bat and a ball and four bases.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002733",
@@ -39115,7 +39248,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 608
+   "study_priority": 608,
+   "description": "A room with a toilet, sink and shower.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002734",
@@ -39148,7 +39283,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1836
+   "study_priority": 1836,
+   "description": "A thick wire.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002736",
@@ -39201,7 +39338,9 @@
     "pt-BR": "de um profissional"
    },
    "study_tier": "cedo",
-   "study_priority": 1838
+   "study_priority": 1838,
+   "description": "A customer of a professional.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002740",
@@ -39433,7 +39572,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 611
+   "study_priority": 611,
+   "description": "To make copies on paper with a printer.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002764",
@@ -39628,7 +39769,9 @@
     "pt-BR": "forma curta, informal"
    },
    "study_tier": "inicial",
-   "study_priority": 614
+   "study_priority": 614,
+   "description": "A bicycle.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002779",
@@ -39660,7 +39803,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "study_tier": "inicial",
-   "study_priority": 615
+   "study_priority": 615,
+   "description": "To be damaged by fire or heat.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002781",
@@ -39793,7 +39938,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 617
+   "study_priority": 617,
+   "description": "Something you wear on your head.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002794",
@@ -40308,7 +40455,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 622
+   "study_priority": 622,
+   "description": "The front of the upper body.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002842",
@@ -40642,7 +40791,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1895
+   "study_priority": 1895,
+   "description": "Sending goods; the cost of sending.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002873",
@@ -40738,7 +40889,7 @@
   {
    "id": "en:000002880",
    "english_id": "en:000002880",
-   "text": "theatre",
+   "text": "theater",
    "kind": "word",
    "description_en": "A building for plays.",
    "level": "C2",
@@ -40759,7 +40910,8 @@
    "study_tier": "herdado",
    "study_priority": 3055,
    "description": "A building for plays.",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: grafia 'theatre' trocada por 'theater'"
   },
   {
    "id": "en:000002881",
@@ -40846,7 +40998,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 627
+   "study_priority": 627,
+   "description": "A soft hat with a peak; a lid.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002888",
@@ -41114,7 +41268,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 628
+   "study_priority": 628,
+   "description": "The part of the face you smell with.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002915",
@@ -41284,7 +41440,9 @@
    "study_priority": 630,
    "nativeExplain": {
     "pt-BR": "gravata vs empate"
-   }
+   },
+   "description": "A piece of cloth worn around the neck with a shirt; a draw in a game.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002929",
@@ -41750,7 +41908,9 @@
     "pt-BR": "a vizinhança onde se mora"
    },
    "study_tier": "cedo",
-   "study_priority": 1931
+   "study_priority": 1931,
+   "description": "The area around where you live.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002970",
@@ -41911,7 +42071,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "inicial",
-   "study_priority": 633
+   "study_priority": 633,
+   "description": "The part between the neck and the arm.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000002983",
@@ -42126,7 +42288,9 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "study_tier": "cedo",
-   "study_priority": 1944
+   "study_priority": 1944,
+   "description": "A plant smaller than a tree.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000003015",

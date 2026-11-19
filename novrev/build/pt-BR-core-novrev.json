@@ -8065,7 +8065,8 @@
    "study_tier": "inicial",
    "study_priority": 107,
    "description": "Parte de uma casa separada por paredes.",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "conferir: 'room' pt cômodo"
   },
   {
    "id": "pt-BR:en:000000389",
@@ -10481,7 +10482,9 @@
     "conhecer"
    ],
    "study_tier": "inicial",
-   "study_priority": 153
+   "study_priority": 153,
+   "description": "Encontrar-se com alguém.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000525",
@@ -14665,7 +14668,8 @@
    "study_tier": "cedo",
    "study_priority": 1111,
    "description": "Esporte de bola jogado com os pés (futebol).",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: 'football' é ambíguo (americano); avaliar trocar por 'soccer'"
   },
   {
    "id": "pt-BR:en:000000780",
@@ -19646,7 +19650,9 @@
     "a mais"
    ],
    "study_tier": "cedo",
-   "study_priority": 1192
+   "study_priority": 1192,
+   "description": "Além do habitual.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001087",
@@ -19744,7 +19750,9 @@
    "text": "vender",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 341
+   "study_priority": 341,
+   "description": "Entregar algo em troca de dinheiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001095",
@@ -19822,7 +19830,9 @@
    "text": "concordar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 342
+   "study_priority": 342,
+   "description": "Ter a mesma opinião.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001101",
@@ -20110,7 +20120,9 @@
     "passar (tempo)"
    ],
    "study_tier": "cedo",
-   "study_priority": 1203
+   "study_priority": 1203,
+   "description": "Usar dinheiro ou tempo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001119",
@@ -20277,7 +20289,9 @@
    "text": "sexta-feira",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 348
+   "study_priority": 348,
+   "description": "O dia depois da quinta-feira.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001134",
@@ -20480,7 +20494,10 @@
    "text": "centro",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1214
+   "study_priority": 1214,
+   "description": "O meio; lugar para uma atividade.",
+   "novrev_status": "reviewed",
+   "novrev_flag": "duplicata: grafia britânica de 'center' (000000626); sair do núcleo en-US"
   },
   {
    "id": "pt-BR:en:000001147",
@@ -20519,7 +20536,9 @@
     "papai"
    ],
    "study_tier": "inicial",
-   "study_priority": 353
+   "study_priority": 353,
+   "description": "Pai, de forma carinhosa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001150",
@@ -20539,7 +20558,9 @@
    "text": "medo",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1216
+   "study_priority": 1216,
+   "description": "A sensação de estar com medo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001151",
@@ -20749,7 +20770,9 @@
     "carta"
    ],
    "study_tier": "cedo",
-   "study_priority": 1223
+   "study_priority": 1223,
+   "description": "Sinal do alfabeto; também mensagem escrita enviada pelo correio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001164",
@@ -20861,7 +20884,9 @@
    "text": "produto",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1227
+   "study_priority": 1227,
+   "description": "Algo feito para ser vendido.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001171",
@@ -20900,7 +20925,9 @@
     "secretária"
    ],
    "study_tier": "intermediário",
-   "study_priority": 2767
+   "study_priority": 2767,
+   "description": "Pessoa que faz trabalho de escritório para alguém.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001173",
@@ -20920,7 +20947,9 @@
    "text": "irmã",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 357
+   "study_priority": 357,
+   "description": "Menina ou mulher com os mesmos pais que você.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001175",
@@ -21049,7 +21078,9 @@
    "text": "contrato",
    "alternatives": [],
    "study_tier": "intermediário",
-   "study_priority": 2769
+   "study_priority": 2769,
+   "description": "Acordo legal por escrito.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001183",
@@ -21071,7 +21102,9 @@
     "diploma"
    ],
    "study_tier": "cedo",
-   "study_priority": 1235
+   "study_priority": 1235,
+   "description": "Unidade de temperatura ou de ângulo; também um diploma universitário.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001186",
@@ -21228,7 +21261,9 @@
    "text": "opinião",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1237
+   "study_priority": 1237,
+   "description": "O que você pensa sobre algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001197",
@@ -21314,7 +21349,9 @@
     "seriamente"
    ],
    "study_tier": "cedo",
-   "study_priority": 1241
+   "study_priority": 1241,
+   "description": "De modo sério; \"sério?\" = de verdade?",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001202",
@@ -21616,7 +21653,9 @@
    "text": "navio",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 363
+   "study_priority": 363,
+   "description": "Embarcação grande.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001221",
@@ -21713,7 +21752,9 @@
     "sensacional"
    ],
    "study_tier": "inicial",
-   "study_priority": 365
+   "study_priority": 365,
+   "description": "Muito bom; incrível (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001228",
@@ -21962,7 +22003,9 @@
    "text": "aprendizado",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1260
+   "study_priority": 1260,
+   "description": "Ato de adquirir conhecimento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001243",
@@ -22076,7 +22119,9 @@
    "text": "segredo",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 368
+   "study_priority": 368,
+   "description": "Algo mantido escondido.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001251",
@@ -22136,7 +22181,9 @@
    "text": "domingo",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 370
+   "study_priority": 370,
+   "description": "O dia depois do sábado.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001255",
@@ -22158,7 +22205,9 @@
     "usar"
    ],
    "study_tier": "inicial",
-   "study_priority": 371
+   "study_priority": 371,
+   "description": "Ter roupas no corpo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001257",
@@ -22257,7 +22306,9 @@
    "text": "escolher",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 372
+   "study_priority": 372,
+   "description": "Decidir qual você quer.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001263",
@@ -22292,7 +22343,9 @@
    "text": "cor",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 374
+   "study_priority": 374,
+   "description": "Vermelho, azul, verde etc.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001265",
@@ -22476,7 +22529,9 @@
    "text": "sorte",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 376
+   "study_priority": 376,
+   "description": "Coisas boas que acontecem por acaso.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001278",
@@ -22511,7 +22566,9 @@
    "text": "necessário",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1275
+   "study_priority": 1275,
+   "description": "Que é preciso ter.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001282",
@@ -22605,7 +22662,9 @@
     "fofo"
    ],
    "study_tier": "inicial",
-   "study_priority": 379
+   "study_priority": 379,
+   "description": "Com gosto de açúcar; também fofo e gentil.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001288",
@@ -22642,7 +22701,9 @@
    "text": "tocar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 380
+   "study_priority": 380,
+   "description": "Pôr a mão em algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001290",
@@ -22825,7 +22886,9 @@
     "tomar"
    ],
    "study_tier": "inicial",
-   "study_priority": 383
+   "study_priority": 383,
+   "description": "Levar líquido à boca e engolir.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001301",
@@ -23050,7 +23113,9 @@
    "text": "sentar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 387
+   "study_priority": 387,
+   "description": "Apoiar o corpo numa cadeira ou assento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001321",
@@ -23146,7 +23211,9 @@
     "levar"
    ],
    "study_tier": "inicial",
-   "study_priority": 389
+   "study_priority": 389,
+   "description": "Segurar algo enquanto se move.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001327",
@@ -24191,7 +24258,9 @@
    "text": "sábado",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 402
+   "study_priority": 402,
+   "description": "O dia depois da sexta-feira.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001404",
@@ -24435,7 +24504,9 @@
    "text": "divisão",
    "alternatives": [],
    "study_tier": "intermediário",
-   "study_priority": 2813
+   "study_priority": 2813,
+   "description": "Separação em partes; a operação matemática ÷.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001417",
@@ -24521,7 +24592,9 @@
    "text": "calor",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1329
+   "study_priority": 1329,
+   "description": "Qualidade do que é quente; temperatura alta.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001423",
@@ -24598,7 +24671,9 @@
     "lugar"
    ],
    "study_tier": "cedo",
-   "study_priority": 1331
+   "study_priority": 1331,
+   "description": "O lugar onde algo está.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001427",
@@ -24760,7 +24835,9 @@
    "text": "distância",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1337
+   "study_priority": 1337,
+   "description": "Quão longe é de um lugar a outro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001446",
@@ -24998,7 +25075,9 @@
    "text": "receber",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1344
+   "study_priority": 1344,
+   "description": "Obter algo que foi dado ou enviado.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001462",
@@ -25030,12 +25109,15 @@
     "actions"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "andar (de bicicleta)",
+   "text": "andar de",
    "alternatives": [
-    "montar"
+    "montar",
+    "pegar"
    ],
    "study_tier": "cedo",
-   "study_priority": 1346
+   "study_priority": 1346,
+   "description": "Sentar-se e se deslocar (bicicleta, cavalo, ônibus).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001465",
@@ -25309,7 +25391,9 @@
    "text": "começar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 416
+   "study_priority": 416,
+   "description": "Dar início.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001486",
@@ -25331,7 +25415,9 @@
     "parte de baixo"
    ],
    "study_tier": "cedo",
-   "study_priority": 1352
+   "study_priority": 1352,
+   "description": "A parte mais baixa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001488",
@@ -25464,7 +25550,9 @@
     "parceira"
    ],
    "study_tier": "cedo",
-   "study_priority": 1354
+   "study_priority": 1354,
+   "description": "Pessoa com quem você faz algo; também cônjuge.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001499",
@@ -25501,7 +25589,9 @@
    "text": "triste",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 419
+   "study_priority": 419,
+   "description": "Infeliz; sem alegria.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001502",
@@ -25643,7 +25733,9 @@
    "text": "vento",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 421
+   "study_priority": 421,
+   "description": "Ar em movimento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001513",
@@ -25663,7 +25755,9 @@
    "text": "preocupar-se",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 422
+   "study_priority": 422,
+   "description": "Sentir-se inquieto com problemas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001517",
@@ -25680,10 +25774,14 @@
     "shopping"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "marca (de produto)",
-   "alternatives": [],
+   "text": "marca",
+   "alternatives": [
+    "grife"
+   ],
    "study_tier": "cedo",
-   "study_priority": 1360
+   "study_priority": 1360,
+   "description": "Nome dos produtos de uma empresa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001518",
@@ -25742,7 +25840,9 @@
    "text": "contar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 424
+   "study_priority": 424,
+   "description": "Dizer os números em ordem.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001522",
@@ -26087,7 +26187,9 @@
     "esperto"
    ],
    "study_tier": "inicial",
-   "study_priority": 428
+   "study_priority": 428,
+   "description": "Com muita capacidade de pensar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001544",
@@ -26124,7 +26226,9 @@
     "arremessar"
    ],
    "study_tier": "inicial",
-   "study_priority": 429
+   "study_priority": 429,
+   "description": "Lançar algo pelo ar com a mão.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001547",
@@ -26159,7 +26263,9 @@
    "text": "casamento",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 430
+   "study_priority": 430,
+   "description": "Cerimônia de casamento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001551",
@@ -38410,7 +38516,9 @@
     "filial"
    ],
    "study_tier": "cedo",
-   "study_priority": 1738
+   "study_priority": 1738,
+   "description": "Parte de uma árvore; também uma unidade de banco ou empresa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002534",
@@ -38461,7 +38569,9 @@
    "text": "desenho",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 582
+   "study_priority": 582,
+   "description": "Imagem feita com lápis ou caneta.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002537",
@@ -38536,7 +38646,9 @@
     "hóspede"
    ],
    "study_tier": "inicial",
-   "study_priority": 585
+   "study_priority": 585,
+   "description": "Pessoa que visita sua casa ou se hospeda num hotel.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002541",
@@ -38787,7 +38899,9 @@
     "oração"
    ],
    "study_tier": "cedo",
-   "study_priority": 1753
+   "study_priority": 1753,
+   "description": "Conjunto de palavras com uma ideia completa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002561",
@@ -39196,7 +39310,9 @@
     "objeto"
    ],
    "study_tier": "cedo",
-   "study_priority": 1767
+   "study_priority": 1767,
+   "description": "Uma coisa de uma lista ou grupo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002591",
@@ -39267,7 +39383,9 @@
    "text": "normalmente",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1770
+   "study_priority": 1770,
+   "description": "Na maior parte das vezes.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002595",
@@ -39452,7 +39570,9 @@
    "text": "turno",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1777
+   "study_priority": 1777,
+   "description": "Período de trabalho (turno da noite).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002606",
@@ -39665,7 +39785,9 @@
    "text": "basquete",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 595
+   "study_priority": 595,
+   "description": "Jogo em que se joga a bola numa cesta alta.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002619",
@@ -39686,7 +39808,9 @@
    "text": "botão",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 596
+   "study_priority": 596,
+   "description": "Peça redonda na roupa; também algo que se aperta.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002621",
@@ -39753,7 +39877,9 @@
    "text": "balcão",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1788
+   "study_priority": 1788,
+   "description": "Mesa comprida de loja ou cozinha.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002625",
@@ -40462,7 +40588,9 @@
     "concerto"
    ],
    "study_tier": "cedo",
-   "study_priority": 1814
+   "study_priority": 1814,
+   "description": "Apresentação musical ao vivo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002681",
@@ -40623,7 +40751,9 @@
    "text": "erro",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1819
+   "study_priority": 1819,
+   "description": "Algo feito de modo incorreto.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002691",
@@ -40880,7 +41010,9 @@
    "text": "prato",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 603
+   "study_priority": 603,
+   "description": "Louça plana para servir comida.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002712",
@@ -40998,7 +41130,9 @@
    "text": "telhado",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 606
+   "study_priority": 606,
+   "description": "A cobertura de cima de uma construção.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002720",
@@ -41159,7 +41293,9 @@
    "text": "beisebol",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 607
+   "study_priority": 607,
+   "description": "Jogo com taco, bola e quatro bases.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002733",
@@ -41180,7 +41316,9 @@
    "text": "banheiro",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 608
+   "study_priority": 608,
+   "description": "Cômodo com vaso sanitário, pia e chuveiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002734",
@@ -41216,7 +41354,9 @@
    "text": "cabo",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1836
+   "study_priority": 1836,
+   "description": "Fio grosso.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002736",
@@ -41274,7 +41414,9 @@
    "text": "cliente",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1838
+   "study_priority": 1838,
+   "description": "Cliente de um profissional.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002740",
@@ -41509,7 +41651,9 @@
    "text": "imprimir",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 611
+   "study_priority": 611,
+   "description": "Fazer cópias em papel com uma impressora.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002764",
@@ -41718,7 +41862,9 @@
     "bike"
    ],
    "study_tier": "inicial",
-   "study_priority": 614
+   "study_priority": 614,
+   "description": "Veículo de duas rodas movido a pedais.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002779",
@@ -41756,7 +41902,9 @@
    "text": "queimar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 615
+   "study_priority": 615,
+   "description": "Ser danificado por fogo ou calor.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002781",
@@ -41893,7 +42041,9 @@
     "boné"
    ],
    "study_tier": "inicial",
-   "study_priority": 617
+   "study_priority": 617,
+   "description": "Algo que se usa na cabeça.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002794",
@@ -42454,7 +42604,9 @@
    "text": "peito",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 622
+   "study_priority": 622,
+   "description": "A parte da frente do tronco.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002842",
@@ -42822,7 +42974,9 @@
     "envio"
    ],
    "study_tier": "cedo",
-   "study_priority": 1895
+   "study_priority": 1895,
+   "description": "Envio de mercadorias; também o custo do envio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002873",
@@ -42943,7 +43097,8 @@
    "study_tier": "herdado",
    "study_priority": 3055,
    "description": "Prédio onde se apresentam peças.",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: grafia 'theatre' trocada por 'theater'"
   },
   {
    "id": "pt-BR:en:000002881",
@@ -43043,7 +43198,9 @@
     "tampa"
    ],
    "study_tier": "inicial",
-   "study_priority": 627
+   "study_priority": 627,
+   "description": "Chapéu mole com aba na frente; também uma tampa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002888",
@@ -43334,7 +43491,9 @@
    "text": "nariz",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 628
+   "study_priority": 628,
+   "description": "A parte do rosto com que se sente cheiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002915",
@@ -43512,7 +43671,9 @@
     "empate"
    ],
    "study_tier": "inicial",
-   "study_priority": 630
+   "study_priority": 630,
+   "description": "Faixa de tecido usada no pescoço com camisa; também um empate.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002929",
@@ -44005,7 +44166,9 @@
     "vizinhança"
    ],
    "study_tier": "cedo",
-   "study_priority": 1931
+   "study_priority": 1931,
+   "description": "A região ao redor de onde você mora.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002970",
@@ -44165,7 +44328,9 @@
    "text": "ombro",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 633
+   "study_priority": 633,
+   "description": "Parte entre o pescoço e o braço.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000002983",
@@ -44392,7 +44557,9 @@
    "text": "arbusto",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1944
+   "study_priority": 1944,
+   "description": "Planta menor que uma árvore.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000003015",

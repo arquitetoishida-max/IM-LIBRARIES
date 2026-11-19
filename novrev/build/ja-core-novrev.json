@@ -44681,7 +44681,8 @@
     "pt-BR": "cômodo/quarto"
    },
    "description": "家の中の、壁で仕切られた場所。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "conferir: 'room' pt cômodo"
   },
   {
    "id": "ja:en:000000389",
@@ -49394,7 +49395,9 @@
     "pt-BR": "encontrar alguém"
    },
    "study_tier": "inicial",
-   "study_priority": 153
+   "study_priority": 153,
+   "description": "人と会うこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000525",
@@ -57204,7 +57207,8 @@
     "pt-BR": "futebol (soccer) vs futebol americano (EUA)"
    },
    "description": "足でボールを蹴って点を取り合うスポーツ。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: 'football' é ambíguo (americano); avaliar trocar por 'soccer'"
   },
   {
    "id": "ja:en:000000780",
@@ -66889,7 +66893,9 @@
    "romanization": "tsuika no",
    "class_real": "noun + の",
    "study_tier": "cedo",
-   "study_priority": 1192
+   "study_priority": 1192,
+   "description": "ふつうより多い、追加の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001087",
@@ -67147,7 +67153,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 341
+   "study_priority": 341,
+   "description": "お金をもらって物を渡すこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001095",
@@ -67326,7 +67334,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 342
+   "study_priority": 342,
+   "description": "人と同じ意見をもつこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001101",
@@ -67799,7 +67809,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1203
+   "study_priority": 1203,
+   "description": "お金を使う。時間を過ごす。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001119",
@@ -68050,7 +68062,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 348
+   "study_priority": 348,
+   "description": "木曜日の次の日。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001134",
@@ -68473,7 +68487,10 @@
    "core_status": "retired",
    "retired_reason": "EN_SPELLING_VARIANT_NO_JA_SENSE",
    "study_tier": "cedo",
-   "study_priority": 1214
+   "study_priority": 1214,
+   "description": "まん中。ある活動をする場所。",
+   "novrev_status": "reviewed",
+   "novrev_flag": "duplicata: grafia britânica de 'center' (000000626); sair do núcleo en-US"
   },
   {
    "id": "ja:en:000001147",
@@ -68617,7 +68634,9 @@
     "pt-BR": "informal"
    },
    "study_tier": "inicial",
-   "study_priority": 353
+   "study_priority": 353,
+   "description": "父親を呼ぶ、くだけた言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001150",
@@ -68641,7 +68660,9 @@
    "reading": "きょうふ",
    "romanization": "kyoufu",
    "study_tier": "cedo",
-   "study_priority": 1216
+   "study_priority": 1216,
+   "description": "こわいと感じる気持ち。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001151",
@@ -69061,7 +69082,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "文字",
-   "alternatives": [],
+   "alternatives": [
+    "手紙"
+   ],
    "reading": "もじ",
    "romanization": "moji",
    "classifications": [
@@ -69077,7 +69100,9 @@
    "study_priority": 1223,
    "nativeExplain": {
     "pt-BR": "letra (alfabeto) vs carta (mensagem)"
-   }
+   },
+   "description": "文章をつくる文字のひとつ。郵便で送る手紙の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001164",
@@ -69220,7 +69245,9 @@
    "reading": "せいひん",
    "romanization": "seihin",
    "study_tier": "cedo",
-   "study_priority": 1227
+   "study_priority": 1227,
+   "description": "売るためにつくられた物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001171",
@@ -69268,7 +69295,9 @@
     }
    ],
    "study_tier": "intermediário",
-   "study_priority": 2767
+   "study_priority": 2767,
+   "description": "人のために事務の仕事をする人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001173",
@@ -69293,7 +69322,9 @@
    "romanization": "ane",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 357
+   "study_priority": 357,
+   "description": "同じ親から生まれた女の兄弟。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001175",
@@ -69484,7 +69515,9 @@
     }
    ],
    "study_tier": "intermediário",
-   "study_priority": 2769
+   "study_priority": 2769,
+   "description": "書面で結ぶ、法的な約束。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001183",
@@ -69510,7 +69543,9 @@
    "study_priority": 1235,
    "nativeExplain": {
     "pt-BR": "grau (temperatura) vs diploma universitário"
-   }
+   },
+   "description": "温度や角度の単位。大学の学位の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001186",
@@ -69824,7 +69859,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1237
+   "study_priority": 1237,
+   "description": "何かについての自分の考え。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001197",
@@ -70028,7 +70065,9 @@
     "pt-BR": "advérbio; “sério?”"
    },
    "study_tier": "cedo",
-   "study_priority": 1241
+   "study_priority": 1241,
+   "description": "まじめに。「ほんとうに？」と聞き返すときにも使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001202",
@@ -70597,7 +70636,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 363
+   "study_priority": 363,
+   "description": "大きな船。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001221",
@@ -70756,7 +70797,9 @@
     "pt-BR": "informal"
    },
    "study_tier": "inicial",
-   "study_priority": 365
+   "study_priority": 365,
+   "description": "とてもすばらしい（くだけた言い方）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001228",
@@ -71191,7 +71234,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1260
+   "study_priority": 1260,
+   "description": "知識や技術を身につけること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001243",
@@ -71451,7 +71496,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 368
+   "study_priority": 368,
+   "description": "人に知られないようにしていること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001251",
@@ -71534,7 +71581,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 370
+   "study_priority": 370,
+   "description": "土曜日の次の日。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001255",
@@ -71657,7 +71706,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 371
+   "study_priority": 371,
+   "description": "服などを身につけていること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001257",
@@ -71901,7 +71952,9 @@
     "pt-BR": "decidir entre opções"
    },
    "study_tier": "inicial",
-   "study_priority": 372
+   "study_priority": 372,
+   "description": "どれにするかを決めること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001263",
@@ -71956,7 +72009,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 374
+   "study_priority": 374,
+   "description": "赤や青、緑など。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001265",
@@ -72282,7 +72337,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 376
+   "study_priority": 376,
+   "description": "偶然におとずれる、よいこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001278",
@@ -72333,7 +72390,9 @@
    "romanization": "hitsuyou na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
-   "study_priority": 1275
+   "study_priority": 1275,
+   "description": "どうしても必要な。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001282",
@@ -72482,7 +72541,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 379
+   "study_priority": 379,
+   "description": "砂糖のような味。かわいらしい、やさしい意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001288",
@@ -72621,7 +72682,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 380
+   "study_priority": 380,
+   "description": "手を物にあてること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001290",
@@ -72954,7 +73017,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 383
+   "study_priority": 383,
+   "description": "液体を口に入れて飲みこむこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001301",
@@ -73533,7 +73598,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 387
+   "study_priority": 387,
+   "description": "いすなどに腰をおろすこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001321",
@@ -73728,7 +73795,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 389
+   "study_priority": 389,
+   "description": "物を持って移動すること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001327",
@@ -75438,7 +75507,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 402
+   "study_priority": 402,
+   "description": "金曜日の次の日。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001404",
@@ -75740,7 +75811,9 @@
    "study_priority": 2813,
    "nativeExplain": {
     "pt-BR": "divisão (matemática) vs divisão (departamento)"
-   }
+   },
+   "description": "いくつかに分けること。算数のわり算。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001417",
@@ -75865,7 +75938,9 @@
    ],
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1329
+   "study_priority": 1329,
+   "description": "熱さ、高い温度。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001423",
@@ -76057,7 +76132,9 @@
    "romanization": "basho",
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1331
+   "study_priority": 1331,
+   "description": "何かがある場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001427",
@@ -76455,7 +76532,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1337
+   "study_priority": 1337,
+   "description": "ふたつの場所のあいだの長さ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001446",
@@ -76864,7 +76943,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1344
+   "study_priority": 1344,
+   "description": "人からもらったり届いたりした物を受けること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001462",
@@ -77003,7 +77084,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1346
+   "study_priority": 1346,
+   "description": "乗り物や馬に乗って移動すること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001465",
@@ -77643,7 +77726,9 @@
     "pt-BR": "um pouco mais formal"
    },
    "study_tier": "inicial",
-   "study_priority": 416
+   "study_priority": 416,
+   "description": "物事を始めること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001486",
@@ -77674,7 +77759,9 @@
    ],
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1352
+   "study_priority": 1352,
+   "description": "いちばん下の部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001488",
@@ -77931,7 +78018,9 @@
    "reading": "パートナー",
    "romanization": "paatonaa",
    "study_tier": "cedo",
-   "study_priority": 1354
+   "study_priority": 1354,
+   "description": "いっしょに何かをする相手。結婚の相手の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001499",
@@ -78021,7 +78110,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 419
+   "study_priority": 419,
+   "description": "悲しい気持ち。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001502",
@@ -78223,7 +78314,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 421
+   "study_priority": 421,
+   "description": "動いている空気。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001513",
@@ -78336,7 +78429,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 422
+   "study_priority": 422,
+   "description": "困ったことを気にして落ち着かないこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001517",
@@ -78360,7 +78455,9 @@
    "reading": "ブランド",
    "romanization": "burando",
    "study_tier": "cedo",
-   "study_priority": 1360
+   "study_priority": 1360,
+   "description": "会社が商品につける名前。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001518",
@@ -78535,7 +78632,9 @@
     "pt-BR": "números"
    },
    "study_tier": "inicial",
-   "study_priority": 424
+   "study_priority": 424,
+   "description": "数を順番に言うこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001522",
@@ -79195,7 +79294,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 428
+   "study_priority": 428,
+   "description": "頭がよい、かしこい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001544",
@@ -79341,7 +79442,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 429
+   "study_priority": 429,
+   "description": "手で物を空中へ飛ばすこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001547",
@@ -79389,7 +79492,9 @@
     "pt-BR": "a cerimônia"
    },
    "study_tier": "inicial",
-   "study_priority": 430
+   "study_priority": 430,
+   "description": "結婚をお祝いする式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001551",
@@ -103195,7 +103300,9 @@
    "study_priority": 1738,
    "nativeExplain": {
     "pt-BR": "galho vs filial"
-   }
+   },
+   "description": "木から分かれて伸びる部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002534",
@@ -103271,7 +103378,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 582
+   "study_priority": 582,
+   "description": "えんぴつやペンでかいた絵。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002537",
@@ -103365,7 +103474,9 @@
     "pt-BR": "visita (substantivo)"
    },
    "study_tier": "inicial",
-   "study_priority": 585
+   "study_priority": 585,
+   "description": "家やホテルに来た、お客さん。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002541",
@@ -103936,7 +104047,9 @@
    "study_priority": 1753,
    "nativeExplain": {
     "pt-BR": "frase (gramática) vs sentença (judicial)"
-   }
+   },
+   "description": "ひとつのまとまった意味をもつ言葉の並び。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002561",
@@ -104740,7 +104853,9 @@
    "romanization": "hinmoku",
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1767
+   "study_priority": 1767,
+   "description": "一覧の中のひとつの物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002591",
@@ -104822,7 +104937,9 @@
     "pt-BR": "normalmente"
    },
    "study_tier": "cedo",
-   "study_priority": 1770
+   "study_priority": 1770,
+   "description": "ふだんは、たいてい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002595",
@@ -105059,13 +105176,18 @@
     "work_public"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "勤務時間",
-   "alternatives": [],
-   "reading": "きんむじかん",
-   "romanization": "kinmujikan",
+   "text": "シフト",
+   "alternatives": [
+    "勤務時間",
+    "交代勤務"
+   ],
+   "reading": "シフト",
+   "romanization": "shifuto",
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1777
+   "study_priority": 1777,
+   "description": "交代でする、仕事の時間帯。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002606",
@@ -105380,7 +105502,9 @@
    "romanization": "basukettobooru",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
-   "study_priority": 595
+   "study_priority": 595,
+   "description": "高い輪にボールを入れて点を取る競技。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002619",
@@ -105412,7 +105536,9 @@
    ],
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
-   "study_priority": 596
+   "study_priority": 596,
+   "description": "服につける丸い物。押して使うスイッチの意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002621",
@@ -105499,7 +105625,9 @@
    "romanization": "kauntaa",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
-   "study_priority": 1788
+   "study_priority": 1788,
+   "description": "店や台所にある、細長い台。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002625",
@@ -106959,7 +107087,9 @@
    ],
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
-   "study_priority": 1814
+   "study_priority": 1814,
+   "description": "生で演奏する音楽の会。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002681",
@@ -107290,7 +107420,9 @@
     "pt-BR": "técnico, formal"
    },
    "study_tier": "cedo",
-   "study_priority": 1819
+   "study_priority": 1819,
+   "description": "まちがい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002691",
@@ -107644,7 +107776,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 603
+   "study_priority": 603,
+   "description": "食べ物をのせる平らな食器。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002712",
@@ -107904,7 +108038,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 606
+   "study_priority": 606,
+   "description": "建物の上をおおう部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002720",
@@ -108106,7 +108242,9 @@
    "romanization": "yakyuu",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 607
+   "study_priority": 607,
+   "description": "バットとボールを使い、4つの塁をまわる競技。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002733",
@@ -108130,7 +108268,9 @@
    "romanization": "otearai",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 608
+   "study_priority": 608,
+   "description": "トイレや洗面台、シャワーがある部屋。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002734",
@@ -108172,7 +108312,9 @@
    "romanization": "keeburu",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
-   "study_priority": 1836
+   "study_priority": 1836,
+   "description": "太い電線やひも状の線。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002736",
@@ -108240,7 +108382,9 @@
     "pt-BR": "de um profissional"
    },
    "study_tier": "cedo",
-   "study_priority": 1838
+   "study_priority": 1838,
+   "description": "専門の仕事を頼む客。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002740",
@@ -108805,7 +108949,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 611
+   "study_priority": 611,
+   "description": "プリンターで紙に写すこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002764",
@@ -109265,7 +109411,9 @@
     "pt-BR": "forma curta, informal"
    },
    "study_tier": "inicial",
-   "study_priority": 614
+   "study_priority": 614,
+   "description": "ペダルをこいで走る二輪の乗り物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002779",
@@ -109429,7 +109577,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 615
+   "study_priority": 615,
+   "description": "火や熱でいたむ、もえる。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002781",
@@ -109692,7 +109842,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 617
+   "study_priority": 617,
+   "description": "頭にかぶる物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002794",
@@ -110608,7 +110760,9 @@
    "romanization": "mune",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 622
+   "study_priority": 622,
+   "description": "体の上半身の前の部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002842",
@@ -111344,7 +111498,9 @@
    "romanization": "haisou",
    "class_real": "noun (suru-noun)",
    "study_tier": "cedo",
-   "study_priority": 1895
+   "study_priority": 1895,
+   "description": "品物を送ること。送るための料金。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002873",
@@ -111628,7 +111784,8 @@
    "study_tier": "herdado",
    "study_priority": 3055,
    "description": "劇を上演する建物。",
-   "novrev_status": "reviewed"
+   "novrev_status": "reviewed",
+   "novrev_flag": "en-US: grafia 'theatre' trocada por 'theater'"
   },
   {
    "id": "ja:en:000002881",
@@ -111753,7 +111910,9 @@
    "romanization": "kyappu",
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 627
+   "study_priority": 627,
+   "description": "つばのあるやわらかい帽子。ふたの意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002888",
@@ -112257,7 +112416,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 628
+   "study_priority": 628,
+   "description": "顔にある、においをかぐ部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002915",
@@ -112601,7 +112762,9 @@
    "study_priority": 630,
    "nativeExplain": {
     "pt-BR": "gravata vs empate"
-   }
+   },
+   "description": "シャツと着る、首につける布。試合の引き分けの意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002929",
@@ -113502,7 +113665,9 @@
     "pt-BR": "a vizinhança onde se mora"
    },
    "study_tier": "cedo",
-   "study_priority": 1931
+   "study_priority": 1931,
+   "description": "自分の家のまわりの地域。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002970",
@@ -113983,7 +114148,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 633
+   "study_priority": 633,
+   "description": "首とうでのあいだの部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000002983",
@@ -114280,7 +114447,9 @@
    "romanization": "teiboku",
    "class_real": "noun",
    "study_tier": "cedo",
-   "study_priority": 1944
+   "study_priority": 1944,
+   "description": "木より低く育つ植物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000003015",

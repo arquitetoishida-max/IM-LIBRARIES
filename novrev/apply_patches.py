@@ -14,7 +14,7 @@ for f in sorted(glob.glob('novrev/patches/*.jsonl')):
         r=json.loads(line); cid='en:'+r['i']
         for l,k in L.items():
             e=idx[l][cid]
-            e['description']=r['d'][k]
+            if r.get('d'): e['description']=r['d'][k]
             w=(r.get('w') or {}).get(l) or (r.get('w') or {}).get(k) or {}
             if 't' in w: e['text']=w['t']
             if 'a' in w: e['alternatives']=w['a']
@@ -24,6 +24,7 @@ for f in sorted(glob.glob('novrev/patches/*.jsonl')):
                 e['reading']=e['text']; e['romanization']=kr.romaji(kr.to_hira(e['text'].replace('〜','')))
             if r.get('ant'): e['antonyms']=r['ant']
             e['novrev_status']='reviewed'
+            if r.get('flag'): e['novrev_flag']=r['flag']
         n+=1
 for l in L:
     pk[l]['entries']=[idx[l][e['english_id']] for e in pk[l]['entries']]
