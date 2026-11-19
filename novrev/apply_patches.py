@@ -24,10 +24,12 @@ for f in sorted(glob.glob('novrev/patches/*.jsonl')):
                 e['reading']=e['text']; e['romanization']=kr.romaji(kr.to_hira(e['text'].replace('〜','')))
             if r.get('ant'): e['antonyms']=r['ant']
             e['novrev_status']='reviewed'
+            e.setdefault('user_hint','')
             if r.get('flag'): e['novrev_flag']=r['flag']
         n+=1
 for l in L:
     pk[l]['entries']=[idx[l][e['english_id']] for e in pk[l]['entries']]
+    for e in pk[l]['entries']: e.setdefault('user_hint','')
     json.dump(pk[l],open(f'novrev/build/{l}-core-novrev.json','w'),ensure_ascii=False,indent=1)
 tot={l:len(pk[l]['entries']) for l in L}
 done={l:sum(1 for e in pk[l]['entries'] if e.get('novrev_status')=='reviewed') for l in L}
