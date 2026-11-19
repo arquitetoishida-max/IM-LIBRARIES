@@ -526,7 +526,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 922
+   "study_priority": 922,
+   "description": "像……一样；在……的时候。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000017",
@@ -622,7 +624,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 10
+   "study_priority": 10,
+   "description": "表示具体的地点或时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000020",
@@ -783,7 +787,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 925
+   "study_priority": 925,
+   "description": "表示起点或来源。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000025",
@@ -1216,7 +1222,9 @@
    "study_priority": 934,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção"
-   }
+   },
+   "description": "表示将来的动作、决定或提议。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000039",
@@ -1282,7 +1290,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 18
+   "study_priority": 18,
+   "description": "喜爱某物，觉得愉快。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000041",
@@ -1451,7 +1461,9 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2465
+   "study_priority": 2465,
+   "description": "“have”和 he、she、it 连用的形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000046",
@@ -1547,7 +1559,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 22
+   "study_priority": 22,
+   "description": "做某件事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000049",
@@ -1600,12 +1614,16 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "是（过去）",
-   "alternatives": [],
-   "reading": "shì",
-   "romanization": "shì",
+   "text": "曾经是",
+   "alternatives": [
+    "是"
+   ],
+   "reading": "céngjīng shì",
+   "romanization": "céngjīng shì",
    "study_tier": "praticar com lema",
-   "study_priority": 2466
+   "study_priority": 2466,
+   "description": "“be”的过去形式（were）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000051",
@@ -1655,14 +1673,17 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "有（过去）",
+   "text": "有过",
    "alternatives": [
-    "曾有"
+    "曾有",
+    "有"
    ],
-   "reading": "yǒu",
-   "romanization": "yǒu",
+   "reading": "yǒuguo",
+   "romanization": "yǒuguo",
    "study_tier": "praticar com lema",
-   "study_priority": 2467
+   "study_priority": 2467,
+   "description": "“have”的过去形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000053",
@@ -1825,7 +1846,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 26
+   "study_priority": 26,
+   "description": "用小时、分钟计量的东西；某个时刻。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000059",
@@ -1858,7 +1881,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 942
+   "study_priority": 942,
+   "description": "收到或得到某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000060",
@@ -1875,14 +1900,16 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "一直是",
+   "text": "去过",
    "alternatives": [
-    "去过"
+    "一直是"
    ],
-   "reading": "yìzhí shì",
-   "romanization": "yìzhí shì",
+   "reading": "qùguo",
+   "romanization": "qùguo",
    "study_tier": "praticar com lema",
-   "study_priority": 2469
+   "study_priority": 2469,
+   "description": "“be”的过去分词（“我去过那里”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000061",
@@ -2531,7 +2558,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 30
+   "study_priority": 30,
+   "description": "脑子里有某种信息。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000083",
@@ -2564,7 +2593,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 31
+   "study_priority": 31,
+   "description": "用眼睛发现。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000084",
@@ -2600,7 +2631,9 @@
    "study_priority": 32,
    "nativeExplain": {
     "pt-BR": "Número dois: 二"
-   }
+   },
+   "description": "数字2。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000085",
@@ -2693,7 +2726,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 961
+   "study_priority": 961,
+   "description": "动脑子；有某种看法。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000088",
@@ -2778,14 +2813,16 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "能（过去）",
+   "text": "能",
    "alternatives": [
-    "可以吗（客气）"
+    "可以"
    ],
    "reading": "néng",
    "romanization": "néng",
    "study_tier": "praticar com lema",
-   "study_priority": 2472
+   "study_priority": 2472,
+   "description": "“can”的过去形式；也用于客气的请求。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000091",
@@ -3281,7 +3318,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 972
+   "study_priority": 972,
+   "description": "请求或给予许可（“我可以进来吗？”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000107",
@@ -3466,7 +3505,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 43
+   "study_priority": 43,
+   "description": "为了赚钱而做的事情。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000113",
@@ -3799,7 +3840,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 48
+   "study_priority": 48,
+   "description": "拿起并带走；抓住。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000125",
@@ -4633,7 +4676,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 60
+   "study_priority": 60,
+   "description": "朝说话人的方向移动。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000155",
@@ -4900,7 +4945,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 64
+   "study_priority": 64,
+   "description": "让别人的事情变得容易。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000164",
@@ -5641,7 +5688,9 @@
    "reading": "gěi…kàn",
    "romanization": "gěi…kàn",
    "study_tier": "inicial",
-   "study_priority": 72
+   "study_priority": 72,
+   "description": "让别人看到某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000192",
@@ -5919,7 +5968,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 75
+   "study_priority": 75,
+   "description": "提出请求时使用的礼貌用语。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000201",
@@ -6052,7 +6103,9 @@
    ],
    "reading": "yǒu rén",
    "romanization": "yǒu rén",
-   "study_priority": 100205
+   "study_priority": 100205,
+   "description": "没有说出名字的某个人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000206",
@@ -6252,7 +6305,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100213
+   "study_priority": 100213,
+   "description": "一天里天黑的时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000214",
@@ -6316,7 +6371,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100215
+   "study_priority": 100215,
+   "description": "到某个时间为止。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000216",
@@ -6462,7 +6519,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100223
+   "study_priority": 100223,
+   "description": "不一样。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000225",
@@ -6928,7 +6987,9 @@
    ],
    "reading": "rènhé dōngxi",
    "romanization": "rènhé dōngxi",
-   "study_priority": 100244
+   "study_priority": 100244,
+   "description": "任何一样东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000245",
@@ -6972,13 +7033,15 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "没有东西",
+   "text": "什么都没有",
    "alternatives": [
-    "什么也没有"
+    "没有东西"
    ],
-   "reading": "méiyǒu dōngxi",
-   "romanization": "méiyǒu dōngxi",
-   "study_priority": 100246
+   "reading": "shénme dōu méiyǒu",
+   "romanization": "shénme dōu méiyǒu",
+   "study_priority": 100246,
+   "description": "一样东西都没有。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000247",
@@ -7038,7 +7101,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100248
+   "study_priority": 100248,
+   "description": "在这一天。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000249",
@@ -7071,7 +7136,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100249
+   "study_priority": 100249,
+   "description": "使变得不同，或变得不同。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000250",
@@ -7139,7 +7206,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100251
+   "study_priority": 100251,
+   "description": "所有的事物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000252",
@@ -7585,7 +7654,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100269
+   "study_priority": 100269,
+   "description": "组成歌曲的声音。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000270",
@@ -7698,7 +7769,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100274
+   "study_priority": 100274,
+   "description": "用来喝、做饭和洗东西的液体。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000275",
@@ -7786,7 +7859,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100277
+   "study_priority": 100277,
+   "description": "给某人打电话；大声叫人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000278",
@@ -8610,7 +8685,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 79
+   "study_priority": 79,
+   "description": "所有的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000309",
@@ -10737,7 +10814,9 @@
    "reading": "rènhé rén",
    "romanization": "rènhé rén",
    "study_tier": "inicial",
-   "study_priority": 110
+   "study_priority": 110,
+   "description": "任何一个人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000397",
@@ -11839,7 +11918,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 130
+   "study_priority": 130,
+   "description": "看一段时间的东西（电视、比赛）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000445",
@@ -12043,7 +12124,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 131
+   "study_priority": 131,
+   "description": "一天里较早的时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000453",
@@ -12686,7 +12769,9 @@
    "reading": "wǒ zìjǐ",
    "romanization": "wǒ zìjǐ",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2564
+   "study_priority": 2564,
+   "description": "指“我”自己（“我伤了自己”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000477",
@@ -12709,7 +12794,9 @@
    "reading": "nǐ zìjǐ",
    "romanization": "nǐ zìjǐ",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2566
+   "study_priority": 2566,
+   "description": "指“你”自己。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000478",
@@ -12769,7 +12856,9 @@
     }
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2568
+   "study_priority": 2568,
+   "description": "尽管，虽然。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000481",
@@ -13534,7 +13623,9 @@
    "reading": "yǒu shíhou",
    "romanization": "yǒu shíhou",
    "study_tier": "inicial",
-   "study_priority": 148
+   "study_priority": 148,
+   "description": "有的时候，不是总是。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000514",
@@ -14127,14 +14218,17 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "在…对面",
+   "text": "横过",
    "alternatives": [
-    "横过"
+    "穿过",
+    "在…对面"
    ],
-   "reading": "zài…duìmiàn",
-   "romanization": "zài…duìmiàn",
+   "reading": "héngguò",
+   "romanization": "héngguò",
    "study_tier": "cedo",
-   "study_priority": 1053
+   "study_priority": 1053,
+   "description": "从一边到另一边。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000537",
@@ -14234,7 +14328,9 @@
    "reading": "tā zìjǐ",
    "romanization": "tā zìjǐ",
    "study_tier": "cedo",
-   "study_priority": 1056
+   "study_priority": 1056,
+   "description": "指“他”自己。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000542",
@@ -14286,7 +14382,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "外面",
    "alternatives": [
-    "在外边"
+    "外边"
    ],
    "reading": "wàimiàn",
    "romanization": "wàimiàn",
@@ -14299,7 +14395,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 161
+   "study_priority": 161,
+   "description": "不在建筑物里面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000544",
@@ -14427,7 +14525,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 164
+   "study_priority": 164,
+   "description": "用刀或剪刀把东西分开。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000550",
@@ -14533,7 +14633,9 @@
    "reading": "érshì",
    "romanization": "érshì",
    "study_tier": "cedo",
-   "study_priority": 1061
+   "study_priority": 1061,
+   "description": "替代另一件事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000554",
@@ -15706,7 +15808,9 @@
    "reading": "zài…shàngmiàn",
    "romanization": "zài…shàngmiàn",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 181
+   "study_priority": 181,
+   "description": "比某物高。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000608",
@@ -16305,7 +16409,9 @@
    "reading": "zài lǐmiàn",
    "romanization": "zài lǐmiàn",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 193
+   "study_priority": 193,
+   "description": "在建筑物或容器里面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000636",
@@ -16557,12 +16663,13 @@
     "work_public"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "打破",
+   "text": "弄坏",
    "alternatives": [
-    "弄坏"
+    "打破",
+    "打碎"
    ],
-   "reading": "dǎpò",
-   "romanization": "dǎpò",
+   "reading": "nònghuài",
+   "romanization": "nònghuài",
    "classifications": [
     {
      "system": "HSK",
@@ -16572,7 +16679,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 198
+   "study_priority": 198,
+   "description": "把东西弄成碎片或使它不能用。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000648",
@@ -16814,7 +16923,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 202
+   "study_priority": 202,
+   "description": "觉得抱歉，尤其是道歉的时候。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000660",
@@ -17585,7 +17696,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 215
+   "study_priority": 215,
+   "description": "供人休息、玩耍的公共绿地。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000694",
@@ -17828,7 +17941,9 @@
    "study_priority": 1080,
    "nativeExplain": {
     "pt-BR": "conta a pagar"
-   }
+   },
+   "description": "写明要付多少钱的单据。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000707",
@@ -17866,7 +17981,9 @@
    "study_priority": 1081,
    "nativeExplain": {
     "pt-BR": "fresco (temperatura) vs legal/bacana (gíria)"
-   }
+   },
+   "description": "很棒、很有型（口语）；也指有点凉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000708",
@@ -17927,7 +18044,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 220
+   "study_priority": 220,
+   "description": "正好，准确；也用来表示同意“没错”。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000711",
@@ -18146,7 +18265,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 224
+   "study_priority": 224,
+   "description": "大多数时候。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000720",
@@ -18662,7 +18783,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 234
+   "study_priority": 234,
+   "description": "突然掉到地上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000742",
@@ -20574,7 +20697,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 262
+   "study_priority": 262,
+   "description": "也许，可能。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000827",
@@ -21850,7 +21975,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 282
+   "study_priority": 282,
+   "description": "用来写字的薄片材料。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000883",
@@ -22472,7 +22599,9 @@
    "reading": "zài…xiàmiàn",
    "romanization": "zài…xiàmiàn",
    "study_tier": "inicial",
-   "study_priority": 294
+   "study_priority": 294,
+   "description": "比某物低。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000913",
@@ -23051,7 +23180,9 @@
    "reading": "wǒ de",
    "romanization": "wǒ de",
    "study_tier": "inicial",
-   "study_priority": 303
+   "study_priority": 303,
+   "description": "属于我的东西（“这是我的”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000941",
@@ -26563,7 +26694,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1195
+   "study_priority": 1195,
+   "description": "如果不……的话。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001099",
@@ -26662,7 +26795,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 344
+   "study_priority": 344,
+   "description": "用于工作、游戏和上网的电子机器。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001103",
@@ -27176,7 +27311,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1208
+   "study_priority": 1208,
+   "description": "肯定，毫无疑问。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001132",
@@ -29112,7 +29249,9 @@
    "reading": "yí ge yě méiyǒu",
    "romanization": "yí ge yě méiyǒu",
    "study_tier": "cedo",
-   "study_priority": 1250
+   "study_priority": 1250,
+   "description": "一个也没有。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001220",
@@ -32850,7 +32989,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1324
+   "study_priority": 1324,
+   "description": "因为这个原因。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001406",
@@ -37306,7 +37447,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 444
+   "study_priority": 444,
+   "description": "墙上装有玻璃的开口。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001645",
@@ -38858,7 +39001,9 @@
    "reading": "liǎng ge dōu bù",
    "romanization": "liǎng ge dōu bù",
    "study_tier": "cedo",
-   "study_priority": 1449
+   "study_priority": 1449,
+   "description": "两个中哪一个都不。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001732",

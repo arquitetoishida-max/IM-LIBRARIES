@@ -30115,7 +30115,9 @@
     "pt-BR": "da mesma forma; enquanto"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 922
+   "study_priority": 922,
+   "description": "〜のように、同じ方法で。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000017",
@@ -30387,7 +30389,9 @@
     "pt-BR": "ponto, hora exata"
    },
    "study_tier": "núcleo inicial",
-   "study_priority": 10
+   "study_priority": 10,
+   "description": "場所や時刻を示す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000020",
@@ -30535,7 +30539,9 @@
     "pt-BR": "origem, procedência"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 925
+   "study_priority": 925,
+   "description": "始まりや出どころを示す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000025",
@@ -31037,7 +31043,9 @@
    "study_priority": 934,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção"
-   }
+   },
+   "description": "これからすることや決めたことを表す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000039",
@@ -31094,7 +31102,9 @@
    "romanization": "suki",
    "class_real": "na-adjective",
    "study_tier": "núcleo inicial",
-   "study_priority": 18
+   "study_priority": 18,
+   "description": "何かを楽しい、よいと感じること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000041",
@@ -31237,7 +31247,9 @@
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 2465
+   "study_priority": 2465,
+   "description": "「彼・彼女・それ」と使う「have」の形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000046",
@@ -31417,7 +31429,9 @@
     "pt-BR": "ação, tarefa"
    },
    "study_tier": "núcleo inicial",
-   "study_priority": 22
+   "study_priority": 22,
+   "description": "ある行動を行うこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000049",
@@ -31485,7 +31499,9 @@
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
-   "key_pending": false
+   "key_pending": false,
+   "description": "「be」の過去の形（we/you/they）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000051",
@@ -31553,7 +31569,9 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_tier": "praticar com lema",
-   "study_priority": 2467
+   "study_priority": 2467,
+   "description": "「have」の過去の形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000053",
@@ -31729,7 +31747,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 26
+   "study_priority": 26,
+   "description": "時計で測るもの。ある瞬間。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000059",
@@ -31834,7 +31854,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 942
+   "study_priority": 942,
+   "description": "何かを受け取る、手に入れること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000060",
@@ -31851,14 +31873,18 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "〜していた",
-   "alternatives": [],
-   "reading": "〜していた",
-   "romanization": "shiteita",
+   "text": "行ったことがある",
+   "alternatives": [
+    "〜だったことがある"
+   ],
+   "reading": "いったことがある",
+   "romanization": "itta koto ga aru",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 2469
+   "study_priority": 2469,
+   "description": "「be」の過去分詞（「そこに行ったことがある」）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000061",
@@ -32671,7 +32697,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 30
+   "study_priority": 30,
+   "description": "情報を頭の中に持っていること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000083",
@@ -32782,7 +32810,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 31
+   "study_priority": 31,
+   "description": "目で見て気づくこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000084",
@@ -32818,7 +32848,9 @@
    "study_priority": 32,
    "nativeExplain": {
     "pt-BR": "Número dois: 二"
-   }
+   },
+   "description": "数の2。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000085",
@@ -33078,7 +33110,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 961
+   "study_priority": 961,
+   "description": "頭で考える。意見をもつ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000088",
@@ -33167,7 +33201,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_tier": "praticar com lema",
-   "study_priority": 2472
+   "study_priority": 2472,
+   "description": "「can」の過去。ていねいな依頼にも使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000091",
@@ -33808,7 +33844,9 @@
    "lexical_type": "construction",
    "class_real": "permission construction",
    "study_tier": "cedo",
-   "study_priority": 972
+   "study_priority": 972,
+   "description": "許可を求めたり与えたりする言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000107",
@@ -34040,7 +34078,9 @@
     "pt-BR": "termo geral"
    },
    "study_tier": "inicial",
-   "study_priority": 43
+   "study_priority": 43,
+   "description": "お金をかせぐためにする、しごと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000113",
@@ -34438,7 +34478,9 @@
     "pt-BR": "pegar e levar"
    },
    "study_tier": "inicial",
-   "study_priority": 48
+   "study_priority": 48,
+   "description": "手に取って持っていくこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000125",
@@ -35779,7 +35821,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 60
+   "study_priority": 60,
+   "description": "話している人のほうへ動くこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000155",
@@ -36182,7 +36226,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 64
+   "study_priority": 64,
+   "description": "人が楽になるように手を貸すこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000164",
@@ -37163,7 +37209,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 72
+   "study_priority": 72,
+   "description": "人に物を見えるようにすること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000192",
@@ -37597,7 +37645,9 @@
    "romanization": "onegai shimasu",
    "class_real": "set phrase",
    "study_tier": "inicial",
-   "study_priority": 75
+   "study_priority": 75,
+   "description": "ものを頼むときの、ていねいな言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000201",
@@ -37816,7 +37866,9 @@
    "nativeExplain": {
     "pt-BR": "mais comum"
    },
-   "study_priority": 100205
+   "study_priority": 100205,
+   "description": "名前を言わない、ある人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000206",
@@ -37996,7 +38048,9 @@
    "nativeExplain": {
     "pt-BR": "noite (escura)"
    },
-   "study_priority": 100213
+   "study_priority": 100213,
+   "description": "一日の暗い時間。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000214",
@@ -38139,7 +38193,9 @@
    "reading": "〜まで",
    "romanization": "~ made",
    "class_real": "particle",
-   "study_priority": 100215
+   "study_priority": 100215,
+   "description": "ある時まで。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000216",
@@ -38374,7 +38430,9 @@
      "verb_class": "godan"
     }
    ],
-   "study_priority": 100223
+   "study_priority": 100223,
+   "description": "同じではない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000225",
@@ -39065,7 +39123,9 @@
    "nativeExplain": {
     "pt-BR": "qualquer coisa"
    },
-   "study_priority": 100244
+   "study_priority": 100244,
+   "description": "どんな物でも。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000245",
@@ -39104,7 +39164,9 @@
    "reading": "なにも〜ない",
    "romanization": "nani mo ~ nai",
    "class_real": "negative-polarity pronoun construction",
-   "study_priority": 100246
+   "study_priority": 100246,
+   "description": "何ひとつない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000247",
@@ -39157,7 +39219,9 @@
     }
    ],
    "class_real": "noun (adverbial)",
-   "study_priority": 100248
+   "study_priority": 100248,
+   "description": "この日。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000249",
@@ -39271,7 +39335,9 @@
      "verb_class": "ichidan"
     }
    ],
-   "study_priority": 100249
+   "study_priority": 100249,
+   "description": "ちがうものにする、なること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000250",
@@ -39323,7 +39389,9 @@
    "reading": "ぜんぶ",
    "romanization": "zenbu",
    "class_real": "noun/adverb",
-   "study_priority": 100251
+   "study_priority": 100251,
+   "description": "すべてのもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000252",
@@ -40267,7 +40335,9 @@
    "nativeExplain": {
     "pt-BR": "a arte"
    },
-   "study_priority": 100269
+   "study_priority": 100269,
+   "description": "歌や曲になった音。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000270",
@@ -40466,7 +40536,9 @@
      "source": "OpenJLPT (CC BY-SA 4.0)"
     }
    ],
-   "study_priority": 100274
+   "study_priority": 100274,
+   "description": "飲んだり、料理や洗い物に使う液体。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000275",
@@ -40707,7 +40779,9 @@
      "verb_class": "suru"
     }
    ],
-   "study_priority": 100277
+   "study_priority": 100277,
+   "description": "電話をかける。大きな声で呼ぶ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000278",
@@ -41904,7 +41978,9 @@
     "pt-BR": "comum"
    },
    "study_tier": "inicial",
-   "study_priority": 79
+   "study_priority": 79,
+   "description": "そこにいるすべての人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000309",
@@ -44609,7 +44685,9 @@
    "romanization": "dare demo",
    "class_real": "pronoun",
    "study_tier": "inicial",
-   "study_priority": 110
+   "study_priority": 110,
+   "description": "どんな人でも。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000397",
@@ -46431,7 +46509,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 130
+   "study_priority": 130,
+   "description": "テレビや試合などを、しばらく見ること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000445",
@@ -46660,7 +46740,9 @@
    "reading": "あさ",
    "romanization": "asa",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 131
+   "study_priority": 131,
+   "description": "一日の早い時間。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000453",
@@ -47662,7 +47744,9 @@
    ],
    "class_real": "pronoun (reflexive)",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2564
+   "study_priority": 2564,
+   "description": "自分自身のこと（「自分を傷つけた」）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000477",
@@ -47688,7 +47772,9 @@
    "romanization": "jibun",
    "class_real": "pronoun (reflexive)",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2566
+   "study_priority": 2566,
+   "description": "あなた自身のこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000478",
@@ -47822,7 +47908,9 @@
    "romanization": "~ keredomo",
    "class_real": "conjunctive particle",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2568
+   "study_priority": 2568,
+   "description": "〜ではあるけれども。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000481",
@@ -48531,7 +48619,9 @@
    "reading": "ときどき",
    "romanization": "tokidoki",
    "study_tier": "inicial",
-   "study_priority": 148
+   "study_priority": 148,
+   "description": "いつもではなく、ときどき。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000514",
@@ -49341,7 +49431,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 1053
+   "study_priority": 1053,
+   "description": "一方から反対側へ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000537",
@@ -49446,7 +49538,9 @@
     "pt-BR": "referente a pessoa"
    },
    "study_tier": "cedo",
-   "study_priority": 1056
+   "study_priority": 1056,
+   "description": "彼自身のこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000542",
@@ -49495,7 +49589,9 @@
    "romanization": "soto de",
    "class_real": "noun + で (adverbial)",
    "study_tier": "inicial",
-   "study_priority": 161
+   "study_priority": 161,
+   "description": "建物の外。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000544",
@@ -49689,7 +49785,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 164
+   "study_priority": 164,
+   "description": "刃物ではさみやナイフで切り分けること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000550",
@@ -49783,7 +49881,9 @@
    "romanization": "kawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 1061
+   "study_priority": 1061,
+   "description": "別のものの代わりに。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000554",
@@ -51283,7 +51383,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 181
+   "study_priority": 181,
+   "description": "それより高い場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000608",
@@ -52201,7 +52303,9 @@
    "romanization": "naka ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 193
+   "study_priority": 193,
+   "description": "建物や入れ物の中。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000636",
@@ -52593,7 +52697,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 198
+   "study_priority": 198,
+   "description": "物をこわして、ばらばらにすること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000648",
@@ -52793,7 +52899,9 @@
     "pt-BR": "arrependimento, pedir desculpa"
    },
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 202
+   "study_priority": 202,
+   "description": "申し訳なく思うこと。あやまるときの言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000660",
@@ -53804,7 +53912,9 @@
    "romanization": "kouen",
    "class_real": "noun",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 215
+   "study_priority": 215,
+   "description": "人が休んだり遊んだりする、みんなの庭。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000694",
@@ -54147,7 +54257,9 @@
    "study_priority": 1080,
    "nativeExplain": {
     "pt-BR": "conta a pagar"
-   }
+   },
+   "description": "いくら払うかが書いてある紙。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000707",
@@ -54167,10 +54279,12 @@
     "weather_emotion_time"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "涼しい",
-   "alternatives": [],
-   "reading": "すずしい",
-   "romanization": "suzushii",
+   "text": "かっこいい",
+   "alternatives": [
+    "涼しい"
+   ],
+   "reading": "かっこいい",
+   "romanization": "kakkoii",
    "classifications": [
     {
      "system": "JLPT",
@@ -54216,7 +54330,9 @@
    "study_priority": 1081,
    "nativeExplain": {
     "pt-BR": "fresco (temperatura) vs legal/bacana (gíria)"
-   }
+   },
+   "description": "すてきで、おしゃれなこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000708",
@@ -54270,7 +54386,9 @@
    "romanization": "choudo",
    "class_real": "adverb",
    "study_tier": "inicial",
-   "study_priority": 220
+   "study_priority": 220,
+   "description": "ぴったり。「その通り」という返事にも使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000711",
@@ -54543,7 +54661,9 @@
     "pt-BR": "comum"
    },
    "study_tier": "inicial",
-   "study_priority": 224
+   "study_priority": 224,
+   "description": "ほとんどいつも、たいてい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000720",
@@ -55614,7 +55734,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 234
+   "study_priority": 234,
+   "description": "急に下の地面へ落ちること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000742",
@@ -58078,7 +58200,9 @@
     "pt-BR": "mais formal"
    },
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 262
+   "study_priority": 262,
+   "description": "たぶん、もしかすると。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000827",
@@ -59979,7 +60103,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 282
+   "study_priority": 282,
+   "description": "字を書くための薄い材料。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000883",
@@ -60741,7 +60867,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "inicial",
-   "study_priority": 294
+   "study_priority": 294,
+   "description": "それより低い場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000913",
@@ -61578,7 +61706,9 @@
     "pt-BR": "sozinho (é meu)"
    },
    "study_tier": "inicial",
-   "study_priority": 303
+   "study_priority": 303,
+   "description": "私のもの（「それは私のものだ」）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000941",
@@ -66314,7 +66444,9 @@
    "lexical_type": "construction",
    "class_real": "conditional construction",
    "study_tier": "cedo",
-   "study_priority": 1195
+   "study_priority": 1195,
+   "description": "もし〜しなければ、という意味。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001099",
@@ -66488,7 +66620,9 @@
     "pt-BR": "termo geral"
    },
    "study_tier": "inicial",
-   "study_priority": 344
+   "study_priority": 344,
+   "description": "仕事やゲーム、インターネットに使う電子機器。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001103",
@@ -67078,7 +67212,9 @@
     "pt-BR": "sem dúvida"
    },
    "study_tier": "cedo",
-   "study_priority": 1208
+   "study_priority": 1208,
+   "description": "まちがいなく、かならず。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001132",
@@ -69627,7 +69763,9 @@
    "lexical_type": "construction",
    "class_real": "negative-polarity pronoun construction",
    "study_tier": "cedo",
-   "study_priority": 1250
+   "study_priority": 1250,
+   "description": "ひとつもない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001220",
@@ -74497,7 +74635,9 @@
    "romanization": "dakara",
    "class_real": "conjunction",
    "study_tier": "cedo",
-   "study_priority": 1324
+   "study_priority": 1324,
+   "description": "そういう理由で。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001406",
@@ -80927,7 +81067,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 444
+   "study_priority": 444,
+   "description": "壁にあるガラスのついた開口部。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001645",
@@ -83258,7 +83400,9 @@
    "lexical_type": "construction",
    "class_real": "negative-polarity pronoun construction",
    "study_tier": "cedo",
-   "study_priority": 1449
+   "study_priority": 1449,
+   "description": "ふたつのどちらも〜ない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000001732",

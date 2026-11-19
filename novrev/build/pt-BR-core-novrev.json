@@ -419,7 +419,9 @@
    "text": "como",
    "alternatives": [],
    "study_tier": "expansão estruturante",
-   "study_priority": 922
+   "study_priority": 922,
+   "description": "Do mesmo modo que; enquanto (\"como você sabe\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000017",
@@ -489,7 +491,9 @@
     "às"
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 10
+   "study_priority": 10,
+   "description": "Indica um lugar ou hora específicos (\"em casa\", \"às 3 horas\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000020",
@@ -598,7 +602,9 @@
     "desde"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 925
+   "study_priority": 925,
+   "description": "Indica onde algo começa ou de onde vem.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000025",
@@ -945,7 +951,9 @@
     "irá"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 934
+   "study_priority": 934,
+   "description": "Indica ações futuras, decisões ou ofertas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000039",
@@ -992,7 +1000,9 @@
    "text": "gostar",
    "alternatives": [],
    "study_tier": "núcleo inicial",
-   "study_priority": 18
+   "study_priority": 18,
+   "description": "Gostar de algo; achar agradável.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000041",
@@ -1115,7 +1125,9 @@
    "text": "tem",
    "alternatives": [],
    "study_tier": "praticar com lema",
-   "study_priority": 2465
+   "study_priority": 2465,
+   "description": "Forma de \"ter\" usada com ele, ela e isso.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000046",
@@ -1183,7 +1195,9 @@
    "text": "fazer",
    "alternatives": [],
    "study_tier": "núcleo inicial",
-   "study_priority": 22
+   "study_priority": 22,
+   "description": "Realizar uma ação (\"fazer o dever de casa\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000049",
@@ -1232,7 +1246,9 @@
     "foram"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2466
+   "study_priority": 2466,
+   "description": "Passado de \"ser/estar\" (nós/vocês/eles eram).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000051",
@@ -1277,7 +1293,9 @@
     "teve"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2467
+   "study_priority": 2467,
+   "description": "Passado de \"ter\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000053",
@@ -1419,7 +1437,9 @@
     "hora"
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 26
+   "study_priority": 26,
+   "description": "O que se mede em horas e minutos; um momento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000059",
@@ -1443,7 +1463,9 @@
     "receber"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 942
+   "study_priority": 942,
+   "description": "Receber ou obter algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000060",
@@ -1465,7 +1487,9 @@
     "estado"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2469
+   "study_priority": 2469,
+   "description": "Particípio de \"ser/estar\" (\"eu já estive lá\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000061",
@@ -1978,7 +2002,9 @@
     "conhecer"
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 30
+   "study_priority": 30,
+   "description": "Ter uma informação na mente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000083",
@@ -1999,7 +2025,9 @@
    "text": "ver",
    "alternatives": [],
    "study_tier": "núcleo inicial",
-   "study_priority": 31
+   "study_priority": 31,
+   "description": "Perceber com os olhos.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000084",
@@ -2022,7 +2050,9 @@
     "duas"
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 32
+   "study_priority": 32,
+   "description": "O número 2.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000085",
@@ -2091,7 +2121,9 @@
     "achar"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 961
+   "study_priority": 961,
+   "description": "Usar a mente; ter uma opinião.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000088",
@@ -2162,7 +2194,9 @@
     "conseguia"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2472
+   "study_priority": 2472,
+   "description": "Passado de \"poder\"; também possibilidade educada (\"você poderia...?\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000091",
@@ -2526,12 +2560,14 @@
     "weather_emotion_time"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "poder (permissão)",
+   "text": "poder",
    "alternatives": [
     "talvez"
    ],
    "study_tier": "cedo",
-   "study_priority": 972
+   "study_priority": 972,
+   "description": "Pede ou dá permissão (\"Posso entrar?\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000107",
@@ -2670,7 +2706,9 @@
    "text": "trabalho",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 43
+   "study_priority": 43,
+   "description": "Emprego; o que se faz para ganhar dinheiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000113",
@@ -2910,7 +2948,9 @@
     "levar"
    ],
    "study_tier": "inicial",
-   "study_priority": 48
+   "study_priority": 48,
+   "description": "Pegar e levar; agarrar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000125",
@@ -3556,7 +3596,9 @@
    "text": "vir",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 60
+   "study_priority": 60,
+   "description": "Mover-se em direção a quem fala.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000155",
@@ -3750,7 +3792,9 @@
    "text": "ajudar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 64
+   "study_priority": 64,
+   "description": "Tornar as coisas mais fáceis para alguém.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000164",
@@ -4305,7 +4349,9 @@
    "text": "mostrar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 72
+   "study_priority": 72,
+   "description": "Deixar alguém ver algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000192",
@@ -4489,7 +4535,9 @@
    "text": "por favor",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 75
+   "study_priority": 75,
+   "description": "Palavra educada usada ao fazer um pedido.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000201",
@@ -4590,7 +4638,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "alguém",
    "alternatives": [],
-   "study_priority": 100205
+   "study_priority": 100205,
+   "description": "Uma pessoa que não foi nomeada.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000206",
@@ -4724,7 +4774,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "noite",
    "alternatives": [],
-   "study_priority": 100213
+   "study_priority": 100213,
+   "description": "A parte escura do dia.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000214",
@@ -4766,7 +4818,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "até",
    "alternatives": [],
-   "study_priority": 100215
+   "study_priority": 100215,
+   "description": "Até certo momento.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000216",
@@ -4880,7 +4934,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "diferente",
    "alternatives": [],
-   "study_priority": 100223
+   "study_priority": 100223,
+   "description": "Que não é igual.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000225",
@@ -5193,9 +5249,11 @@
    "vcu14_status": "provisional-editorial",
    "text": "qualquer coisa",
    "alternatives": [
-    "nada (em perguntas)"
+    "algo"
    ],
-   "study_priority": 100244
+   "study_priority": 100244,
+   "description": "Qualquer coisa, sem importar qual.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000245",
@@ -5229,7 +5287,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "nada",
    "alternatives": [],
-   "study_priority": 100246
+   "study_priority": 100246,
+   "description": "Nenhuma coisa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000247",
@@ -5269,7 +5329,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "hoje",
    "alternatives": [],
-   "study_priority": 100248
+   "study_priority": 100248,
+   "description": "Neste dia.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000249",
@@ -5292,7 +5354,9 @@
    "alternatives": [
     "trocar"
    ],
-   "study_priority": 100249
+   "study_priority": 100249,
+   "description": "Tornar ou ficar diferente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000250",
@@ -5338,7 +5402,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "tudo",
    "alternatives": [],
-   "study_priority": 100251
+   "study_priority": 100251,
+   "description": "Todas as coisas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000252",
@@ -5645,7 +5711,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "música",
    "alternatives": [],
-   "study_priority": 100269
+   "study_priority": 100269,
+   "description": "Sons organizados em canções.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000270",
@@ -5723,7 +5791,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "água",
    "alternatives": [],
-   "study_priority": 100274
+   "study_priority": 100274,
+   "description": "Líquido usado para beber, cozinhar e lavar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000275",
@@ -5779,7 +5849,9 @@
    "alternatives": [
     "chamar"
    ],
-   "study_priority": 100277
+   "study_priority": 100277,
+   "description": "Telefonar para alguém; chamar em voz alta.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000278",
@@ -6378,7 +6450,9 @@
     "todos"
    ],
    "study_tier": "inicial",
-   "study_priority": 79
+   "study_priority": 79,
+   "description": "Todas as pessoas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000309",
@@ -7880,10 +7954,12 @@
    "vcu14_status": "provisional-editorial",
    "text": "qualquer pessoa",
    "alternatives": [
-    "alguém (em perguntas)"
+    "alguém"
    ],
    "study_tier": "inicial",
-   "study_priority": 110
+   "study_priority": 110,
+   "description": "Qualquer pessoa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000397",
@@ -8634,7 +8710,9 @@
     "observar"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 130
+   "study_priority": 130,
+   "description": "Olhar algo por um tempo (TV, jogo).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000445",
@@ -8786,7 +8864,9 @@
    "text": "manhã",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 131
+   "study_priority": 131,
+   "description": "A parte inicial do dia.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000453",
@@ -9244,7 +9324,9 @@
     "me"
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2564
+   "study_priority": 2564,
+   "description": "Refere-se de volta a \"eu\" (\"eu me machuquei\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000477",
@@ -9267,7 +9349,9 @@
     "se"
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2566
+   "study_priority": 2566,
+   "description": "Refere-se de volta a \"você\" (\"faça você mesmo\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000478",
@@ -9305,7 +9389,9 @@
    "text": "embora",
    "alternatives": [],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2568
+   "study_priority": 2568,
+   "description": "Mesmo que; apesar de.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000481",
@@ -9862,7 +9948,9 @@
    "text": "às vezes",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 148
+   "study_priority": 148,
+   "description": "Em alguns momentos, não sempre.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000514",
@@ -10279,7 +10367,9 @@
     "através de"
    ],
    "study_tier": "cedo",
-   "study_priority": 1053
+   "study_priority": 1053,
+   "description": "De um lado ao outro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000537",
@@ -10354,7 +10444,9 @@
     "se"
    ],
    "study_tier": "cedo",
-   "study_priority": 1056
+   "study_priority": 1056,
+   "description": "Refere-se de volta a \"ele\" (\"ele se machucou\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000542",
@@ -10397,7 +10489,9 @@
     "fora"
    ],
    "study_tier": "inicial",
-   "study_priority": 161
+   "study_priority": 161,
+   "description": "Fora de uma construção.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000544",
@@ -10481,7 +10575,9 @@
    "text": "cortar",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 164
+   "study_priority": 164,
+   "description": "Dividir com faca ou tesoura.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000550",
@@ -10560,7 +10656,9 @@
     "no lugar"
    ],
    "study_tier": "cedo",
-   "study_priority": 1061
+   "study_priority": 1061,
+   "description": "No lugar de outra coisa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000554",
@@ -11323,7 +11421,9 @@
     "em cima de"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 181
+   "study_priority": 181,
+   "description": "Mais alto que.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000608",
@@ -11772,7 +11872,9 @@
    "text": "dentro",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 193
+   "study_priority": 193,
+   "description": "Em ou para dentro de um prédio ou recipiente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000636",
@@ -11949,7 +12051,9 @@
    "text": "quebrar",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 198
+   "study_priority": 198,
+   "description": "Fazer algo se partir em pedaços.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000648",
@@ -12109,7 +12213,9 @@
     "sinto muito"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 202
+   "study_priority": 202,
+   "description": "Sentir pesar, principalmente ao pedir desculpas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000660",
@@ -12650,7 +12756,9 @@
    "text": "parque",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 215
+   "study_priority": 215,
+   "description": "Jardim público onde as pessoas descansam ou brincam.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000694",
@@ -12830,10 +12938,14 @@
     "work_public"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "conta (a pagar)",
-   "alternatives": [],
+   "text": "conta",
+   "alternatives": [
+    "fatura"
+   ],
    "study_tier": "cedo",
-   "study_priority": 1080
+   "study_priority": 1080,
+   "description": "Papel que mostra quanto você deve pagar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000707",
@@ -12853,12 +12965,15 @@
     "weather_emotion_time"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "legal (bacana)",
+   "text": "legal",
    "alternatives": [
+    "bacana",
     "fresco"
    ],
    "study_tier": "cedo",
-   "study_priority": 1081
+   "study_priority": 1081,
+   "description": "Muito bom ou estiloso (informal); também um pouco frio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000708",
@@ -12897,7 +13012,9 @@
    "text": "exatamente",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 220
+   "study_priority": 220,
+   "description": "Precisamente; também \"exatamente!\" = você tem razão.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000711",
@@ -13044,7 +13161,9 @@
     "normalmente"
    ],
    "study_tier": "inicial",
-   "study_priority": 224
+   "study_priority": 224,
+   "description": "Na maioria das vezes.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000720",
@@ -13400,7 +13519,9 @@
    "text": "cair",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 234
+   "study_priority": 234,
+   "description": "Ir ao chão de repente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000742",
@@ -14766,7 +14887,9 @@
    "text": "talvez",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 262
+   "study_priority": 262,
+   "description": "Talvez; possivelmente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000827",
@@ -15630,7 +15753,9 @@
    "text": "papel",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 282
+   "study_priority": 282,
+   "description": "Material fino usado para escrever.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000883",
@@ -16069,7 +16194,9 @@
     "embaixo"
    ],
    "study_tier": "inicial",
-   "study_priority": 294
+   "study_priority": 294,
+   "description": "Mais baixo que.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000913",
@@ -16461,7 +16588,9 @@
     "minha"
    ],
    "study_tier": "inicial",
-   "study_priority": 303
+   "study_priority": 303,
+   "description": "Que pertence a mim (\"é meu\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000941",
@@ -18912,7 +19041,9 @@
     "se não"
    ],
    "study_tier": "cedo",
-   "study_priority": 1195
+   "study_priority": 1195,
+   "description": "Se não; a não ser que.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001099",
@@ -18981,7 +19112,9 @@
    "text": "computador",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 344
+   "study_priority": 344,
+   "description": "Máquina eletrônica para trabalho, jogos e internet.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001103",
@@ -19336,7 +19469,9 @@
     "definitivamente"
    ],
    "study_tier": "cedo",
-   "study_priority": 1208
+   "study_priority": 1208,
+   "description": "Com certeza; sem dúvida.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001132",
@@ -20668,7 +20803,9 @@
     "nenhuma"
    ],
    "study_tier": "cedo",
-   "study_priority": 1250
+   "study_priority": 1250,
+   "description": "Nem um só; nenhum.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001220",
@@ -23248,7 +23385,9 @@
     "por isso"
    ],
    "study_tier": "cedo",
-   "study_priority": 1324
+   "study_priority": 1324,
+   "description": "Por essa razão.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001406",
@@ -26327,7 +26466,9 @@
    "text": "janela",
    "alternatives": [],
    "study_tier": "inicial",
-   "study_priority": 444
+   "study_priority": 444,
+   "description": "Abertura com vidro numa parede.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001645",
@@ -27435,7 +27576,9 @@
    "text": "nenhum dos dois",
    "alternatives": [],
    "study_tier": "cedo",
-   "study_priority": 1449
+   "study_priority": 1449,
+   "description": "Nem um nem outro, entre dois.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000001732",
