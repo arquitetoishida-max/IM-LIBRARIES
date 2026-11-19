@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.2.1",
+ "version": "2.3.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -28,7 +28,8 @@
   "ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.",
   "level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.",
   "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
-  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37)."
+  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
+  "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -568,7 +569,9 @@
    "part_of_speech": "prep",
    "study_tier": "expansão estruturante",
    "study_priority": 924,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Next to; also shows who did something (\"made by\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000023",
@@ -1361,7 +1364,9 @@
    },
    "study_tier": "praticar com lema",
    "study_priority": 2468,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"it is\" or \"it has\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000054",
@@ -1588,7 +1593,12 @@
    "part_of_speech": "adj",
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Recently made or bought; not old.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "en:000000064",
@@ -1845,7 +1855,9 @@
    "nativeExplain": {
     "pt-BR": "I am: eu sou/estou"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"I am\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000073",
@@ -1937,7 +1949,10 @@
    "study_priority": 29,
    "description": "Of high quality; pleasant.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000260"
+   ]
   },
   {
    "id": "en:000000077",
@@ -2471,7 +2486,9 @@
    "key_pending": true,
    "study_tier": "praticar com lema",
    "study_priority": 2473,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of say.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000099",
@@ -2922,7 +2939,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2476,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Present participle of go, as in she is going home.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000119",
@@ -3014,7 +3033,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2477,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of make.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000123",
@@ -3090,7 +3111,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2478,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past form of get; also its past participle.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000126",
@@ -3184,7 +3207,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 976,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The time a person is alive; being alive.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000130",
@@ -3219,7 +3244,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 977,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The earth and all people and places on it.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000132",
@@ -3453,7 +3480,9 @@
    "study_tier": "herdado",
    "key_pending": false,
    "study_priority": 2481,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Better than all others (superlative of good).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000140",
@@ -3467,7 +3496,9 @@
    "part_of_speech": "det",
    "study_tier": "cedo",
    "study_priority": 982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Of this kind; so much (\"such a nice day\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000141",
@@ -3563,7 +3594,10 @@
    "study_priority": 983,
    "description": "Of great length or duration.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000454"
+   ]
   },
   {
    "id": "en:000000145",
@@ -3669,7 +3703,9 @@
    },
    "study_tier": "herdado",
    "study_priority": 2482,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"cannot\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000149",
@@ -3729,7 +3765,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2483,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Did regularly in the past, but not now: \"I used to swim\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000151",
@@ -3989,7 +4027,9 @@
    "study_tier": "herdado",
    "key_pending": false,
    "study_priority": 2486,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Of higher quality (comparative of good).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000162",
@@ -4053,7 +4093,12 @@
    },
    "study_tier": "cedo",
    "study_priority": 989,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Far above the ground; tall.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000450"
+   ]
   },
   {
    "id": "en:000000165",
@@ -4092,7 +4137,13 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 990,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Having lived or existed for a long time.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000063",
+    "en:000000351"
+   ]
   },
   {
    "id": "en:000000167",
@@ -4186,7 +4237,9 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Belonging to oneself (\"my own room\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000172",
@@ -4291,7 +4344,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2489,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"I have\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000176",
@@ -4305,7 +4360,9 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 66,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An object; something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000177",
@@ -4368,7 +4425,9 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 69,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A particular area or location.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000180",
@@ -4478,7 +4537,9 @@
    "part_of_speech": "abbr",
    "study_tier": "cedo",
    "study_priority": 999,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Title before a man's name (Mr. Smith).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000185",
@@ -4517,7 +4578,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2490,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Opposing; also touching (\"lean against the wall\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000187",
@@ -4556,7 +4619,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2491,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"did not\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000188",
@@ -4603,7 +4668,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2492,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of find.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000190",
@@ -4667,7 +4734,12 @@
    },
    "study_tier": "inicial",
    "study_priority": 73,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Large in size.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000281"
+   ]
   },
   {
    "id": "en:000000193",
@@ -4727,7 +4799,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A group of people who play or work together.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000196",
@@ -4893,7 +4967,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100203,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Costing nothing; also not controlled.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000204",
@@ -5044,7 +5120,9 @@
     "pt-BR": "“um monte”"
    },
    "study_priority": 100211,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"A lot\" = a large amount.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000212",
@@ -5057,7 +5135,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100212,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The word used to call a person or thing.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000213",
@@ -5214,7 +5294,9 @@
    ],
    "usage_note": "'s = is or has",
    "study_priority": 100219,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"he is\" or \"he has\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000220",
@@ -5227,7 +5309,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "study_priority": 100220,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To allow; \"let's\" = let us (suggestion).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000221",
@@ -5243,7 +5327,9 @@
     "pt-BR": "existente"
    },
    "study_priority": 100221,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Truly existing; not fake.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000223",
@@ -5280,7 +5366,9 @@
     "pt-BR": "arrumar, ajustar"
    },
    "study_priority": 100225,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To put something in place; to arrange.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000226",
@@ -5293,7 +5381,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100226,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An idea or opinion in the mind.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000227",
@@ -5310,7 +5400,9 @@
     "pt-BR": "terminado"
    },
    "study_priority": 100227,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Finished.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000228",
@@ -5345,7 +5437,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100230,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A divine being that people worship; with a capital G, the single God of some religions.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000231",
@@ -5358,7 +5452,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100231,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The group of people who rule a country.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000232",
@@ -5371,7 +5467,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100232,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Several people or things together.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000234",
@@ -5384,7 +5482,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100234,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "For everyone; not private.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000235",
@@ -5429,7 +5529,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100236,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The irregular plural of woman.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000237",
@@ -5462,7 +5564,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "study_priority": 100238,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To feel that something is important; to look after.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000239",
@@ -5502,7 +5606,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100240,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A set of things working together.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000241",
@@ -5516,7 +5622,9 @@
    "lemma": "time",
    "part_of_speech": "n",
    "study_priority": 100241,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Occasions (\"three times\"); also multiplied by.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000242",
@@ -5595,7 +5703,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100245,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A situation or example (\"in that case\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000246",
@@ -5769,7 +5879,9 @@
    "part_of_speech": "v",
    "class_real": "verb",
    "study_priority": 100253,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To be alive; to have your home somewhere.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000255",
@@ -5782,7 +5894,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "study_priority": 100255,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The main idea; a dot; a score in a game.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000256",
@@ -5842,7 +5956,9 @@
     }
    ],
    "study_priority": 100257,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"there is\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000258",
@@ -5863,7 +5979,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100258,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of tell.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000259",
@@ -5902,7 +6020,12 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100260,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not good.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000076"
+   ]
   },
   {
    "id": "en:000000261",
@@ -5940,7 +6063,9 @@
     }
    ],
    "study_priority": 100261,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"does not\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000262",
@@ -5977,7 +6102,9 @@
     "pt-BR": "também: duro"
    },
    "study_priority": 100263,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Difficult; also not soft.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000264",
@@ -5991,7 +6118,9 @@
    "part_of_speech": "v",
    "class_real": "verb",
    "study_priority": 100264,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To have as a meaning; to intend.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000265",
@@ -6067,7 +6196,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "prep",
    "study_priority": 100268,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Having as part of a group.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000269",
@@ -6135,7 +6266,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100271,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past participle of see, as in I have seen it.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000273",
@@ -6194,7 +6327,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100275,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Having its main part in a place or idea.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000276",
@@ -6279,7 +6414,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100279,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The irregular plural of man.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000280",
@@ -6292,7 +6429,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100280,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Of a whole country.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000281",
@@ -6315,7 +6454,10 @@
    "study_priority": 100281,
    "description": "Not big.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000192"
+   ]
   },
   {
    "id": "en:000000282",
@@ -6336,7 +6478,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100282,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Simple past form of take.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000283",
@@ -6349,7 +6493,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100283,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The color of snow.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000284",
@@ -6370,7 +6516,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100284,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Simple past form of come.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000285",
@@ -6500,7 +6648,9 @@
    "study_tier": "essential",
    "key_pending": false,
    "study_priority": 100290,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past of \"go\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000291",
@@ -6561,7 +6711,9 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100293,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "From the United States.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000294",
@@ -6863,7 +7015,9 @@
    "study_tier": "herdado",
    "key_pending": false,
    "study_priority": 2494,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural of \"child\": young people.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000308",
@@ -6905,7 +7059,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2495,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "About the whole, not details.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000310",
@@ -6944,7 +7100,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2496,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"they are\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000314",
@@ -6958,7 +7116,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1010,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A part of a place.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000315",
@@ -6972,7 +7132,9 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 80,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The darkest color, like night.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000316",
@@ -6986,7 +7148,9 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1011,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Coming next or coming after, as in the following day.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000317",
@@ -7000,7 +7164,9 @@
    "part_of_speech": "n",
    "study_tier": "intermediário",
    "study_priority": 2498,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Rules made by a government.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000319",
@@ -7014,7 +7180,9 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 81,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "With each other.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000320",
@@ -7028,7 +7196,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1012,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fighting between countries.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000321",
@@ -7183,7 +7353,9 @@
    "part_of_speech": "prep",
    "study_tier": "intermediário",
    "study_priority": 2499,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "For each (\"ten dollars per hour\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000328",
@@ -7197,7 +7369,9 @@
    "part_of_speech": "n",
    "study_tier": "intermediário",
    "study_priority": 2500,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The leader of a country or organization.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000329",
@@ -7257,7 +7431,9 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 86,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The condition of your body and mind.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000334",
@@ -7354,7 +7530,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2502,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Third-person singular present form of mean.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000338",
@@ -7413,7 +7591,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1020,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Having the power or skill to do something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000341",
@@ -7477,7 +7657,9 @@
    "grammatical_key": "PL",
    "study_tier": "herdado",
    "study_priority": 2503,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural of \"friend\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000344",
@@ -7514,7 +7696,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2504,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"I will\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000345",
@@ -7528,7 +7712,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1021,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Facts about something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000346",
@@ -7542,7 +7728,9 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1022,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Of the nearby area.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000347",
@@ -7556,7 +7744,9 @@
    "part_of_speech": "int",
    "study_tier": "inicial",
    "study_priority": 90,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Shows surprise or understanding.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000348",
@@ -7640,7 +7830,12 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 93,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not old; in the early part of life.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "en:000000352",
@@ -7654,7 +7849,9 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 94,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Before now: \"two days ago\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000353",
@@ -7689,7 +7886,9 @@
    "part_of_speech": "adj",
    "study_tier": "intermediário",
    "study_priority": 2505,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Related to people living together; friendly.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000355",
@@ -7730,7 +7929,9 @@
    "nativeExplain": {
     "pt-BR": "tribunal"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A place where judges decide legal cases; also a sports court.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000357",
@@ -7744,7 +7945,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1025,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Something true.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000358",
@@ -7766,7 +7969,9 @@
    "key_pending": true,
    "study_tier": "tardio",
    "study_priority": 3311,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past participle of give, as in she has given me a book.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000359",
@@ -7782,7 +7987,9 @@
    "class_real": "noun form",
    "study_tier": "inicial",
    "study_priority": 96,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"Guys\": a group of people (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000360",
@@ -7864,7 +8071,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2507,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"is not\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000363",
@@ -7878,7 +8087,9 @@
    "part_of_speech": "n",
    "study_tier": "intermediário",
    "study_priority": 2508,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A height or stage; a grade in a game.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000364",
@@ -7967,7 +8178,9 @@
    "part_of_speech": "v",
    "study_tier": "cedo",
    "study_priority": 1028,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To begin to be.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000368",
@@ -8010,7 +8223,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2509,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Present participle of come, as in she is coming.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000370",
@@ -8024,7 +8239,9 @@
    "part_of_speech": "v",
    "study_tier": "cedo",
    "study_priority": 1029,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To have power over; to direct.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000371",
@@ -8038,7 +8255,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1030,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The end of life.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000372",
@@ -8076,7 +8295,9 @@
    },
    "study_tier": "inicial",
    "study_priority": 102,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A man (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000375",
@@ -8224,7 +8445,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2510,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"we are\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000381",
@@ -8306,7 +8529,9 @@
    "part_of_speech": "adj",
    "study_tier": "herdado",
    "study_priority": 2511,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Familiar to many people; well known.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000385",
@@ -8372,7 +8597,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2512,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Careful study to find new facts.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000388",
@@ -8440,7 +8667,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1037,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A school for higher education after high school.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000393",
@@ -8457,7 +8686,12 @@
    },
    "study_tier": "inicial",
    "study_priority": 108,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To be the best in a game or competition.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000850"
+   ]
   },
   {
    "id": "en:000000394",
@@ -8591,7 +8825,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1039,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"It doesn't matter\" / a question or issue.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000401",
@@ -8609,7 +8845,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2514,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fairly; quite (\"pretty good\"). As adjective: attractive.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000402",
@@ -8668,7 +8906,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2515,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A small piece or amount (\"a bit\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000405",
@@ -8710,7 +8950,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2516,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To strike with the hand or an object.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000408",
@@ -8889,7 +9131,9 @@
    "usage_note": "'d = would or had",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2523,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"I would\" or \"I had\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000419",
@@ -8924,7 +9168,9 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2524,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Between several countries.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000422",
@@ -8983,7 +9229,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2528,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The reason why something happens.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000426",
@@ -8997,7 +9245,9 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2529,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Expected or required at a certain time (\"due tomorrow\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000427",
@@ -9035,7 +9285,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2530,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person; a human being.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000431",
@@ -9183,7 +9435,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2535,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The people living in one area or sharing interests.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000438",
@@ -9197,7 +9451,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2536,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Facts and numbers, often stored on a computer.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000439",
@@ -9294,7 +9550,9 @@
    "key_pending": true,
    "study_tier": "expansão cotidiana",
    "study_priority": 2538,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Simple past form of see.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000443",
@@ -9308,7 +9566,9 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2539,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Different from usual; important.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000444",
@@ -9371,7 +9631,9 @@
    ],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2540,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"will not\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000446",
@@ -9425,7 +9687,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2543,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The time after now.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000449",
@@ -9461,7 +9725,12 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2545,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Near the ground; not high.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000164"
+   ]
   },
   {
    "id": "en:000000451",
@@ -9545,7 +9814,12 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2548,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not long; not tall.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000144"
+   ]
   },
   {
    "id": "en:000000455",
@@ -9588,7 +9862,9 @@
    "key_pending": true,
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2549,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past participle of take, as in I have taken it.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000457",
@@ -9654,7 +9930,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2550,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An agreement; \"a big deal\" = something important.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000460",
@@ -9671,7 +9949,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2551,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Quite or fairly, as in rather cold.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000461",
@@ -9706,7 +9986,9 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 135,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The color of blood.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000463",
@@ -9879,7 +10161,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2559,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Growth or improvement over time.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000471",
@@ -9917,7 +10201,9 @@
    },
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2561,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "More; to a greater distance.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000473",
@@ -9961,7 +10247,9 @@
    "key_pending": true,
    "study_tier": "expansão cotidiana",
    "study_priority": 2563,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The plural of minute.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000475",
@@ -10019,7 +10307,9 @@
    "part_of_speech": "v",
    "study_tier": "expansão cotidiana",
    "study_priority": 2567,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To do something; to perform in a play.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000479",
@@ -10081,7 +10371,9 @@
    "part_of_speech": "n",
    "study_tier": "expansão cotidiana",
    "study_priority": 2570,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Flames and heat from burning.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000483",
@@ -10141,7 +10433,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2573,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Very important or big.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000486",
@@ -10156,7 +10450,9 @@
    "class_real": "noun (plural-form, often collective)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2574,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "TV, newspapers and the internet together.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000487",
@@ -10288,7 +10584,9 @@
    "key_pending": true,
    "study_tier": "expansão cotidiana",
    "study_priority": 2578,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Informal \"going to\" (future).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000494",
@@ -10371,7 +10669,9 @@
    "part_of_speech": "adj",
    "study_tier": "expansão cotidiana",
    "study_priority": 2581,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "About government and politics.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000499",
@@ -10456,7 +10756,9 @@
    "lexical_type": "construction",
    "study_tier": "cedo",
    "study_priority": 1041,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"According to\" = as said by.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000505",
@@ -10470,7 +10772,9 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1042,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ready to use or free to help.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000506",
@@ -10484,7 +10788,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1043,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Teaching and learning, especially at school.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000507",
@@ -10501,7 +10807,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1044,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Last; at the end.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000508",
@@ -10518,7 +10826,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1045,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Earlier; who used to be (\"former teacher\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000509",
@@ -10565,7 +10875,9 @@
    "key_pending": true,
    "study_tier": "inicial",
    "study_priority": 145,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The plural of kid; informal for children.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000511",
@@ -10579,7 +10891,9 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 146,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Things written one below the other.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000512",
@@ -10596,7 +10910,9 @@
    },
    "study_tier": "inicial",
    "study_priority": 147,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Prepared.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000513",
@@ -10701,7 +11017,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2584,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"was not\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000517",
@@ -10739,7 +11057,9 @@
    "usage_note": "In the UK, a college is often a school for ages 16–18 or vocational studies (future en-GB package).",
    "study_tier": "cedo",
    "study_priority": 1046,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A school for studies after high school; also a university.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000519",
@@ -10753,7 +11073,9 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1047,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Happening now.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000520",
@@ -10791,7 +11113,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1048,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Knowledge from doing things; something that happened to you.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000522",
@@ -10813,7 +11137,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2585,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of hear.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000524",
@@ -10853,7 +11179,9 @@
    "nativeExplain": {},
    "study_tier": "cedo",
    "study_priority": 1049,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A TV show or a computer program.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000526",
@@ -10978,7 +11306,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1052,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A series of steps to do something.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000532",
@@ -11019,7 +11349,9 @@
    "usage_note": "'s = is or has",
    "study_tier": "herdado",
    "study_priority": 2586,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Short for \"she is\" or \"she has\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000533",
@@ -11124,7 +11456,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1054,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Something done; in movies, exciting scenes.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000538",
@@ -11167,7 +11501,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2587,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Simple past form of give.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000541",
@@ -11252,7 +11588,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1057,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Your own person.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000547",
@@ -11334,7 +11672,9 @@
    "part_of_speech": "abbr",
    "study_tier": "cedo",
    "study_priority": 1059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Title for a doctor (Dr. Silva).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000551",
@@ -11378,7 +11718,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2589,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Past and past-participle form of hold.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000553",
@@ -11550,7 +11892,9 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1065,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Power to be active; electricity or fuel.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000565",
@@ -11567,7 +11911,9 @@
    "nativeExplain": {
     "pt-BR": "brigar (fisicamente) vs discutir"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To try to hurt someone; to argue.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000566",
@@ -11609,7 +11955,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1067,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Strength used to push or pull.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000568",
@@ -11647,7 +11995,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1068,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A problem or topic people discuss.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000572",
@@ -16323,7 +16673,10 @@
    "study_priority": 269,
    "description": "To no longer have something; not to win.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000393"
+   ]
   },
   {
    "id": "en:000000852",
@@ -48961,7 +49314,9 @@
     "pt-BR": "demais idiomas apontam \"desafiador/difícil\""
    },
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Hard to do in a way that tests your ability.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000312",
@@ -48976,7 +49331,9 @@
    "study_tier": "pendente",
    "study_priority": 3307,
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Joined together as one group with the same aim.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000374",
@@ -49023,7 +49380,9 @@
    "study_tier": "inicial",
    "study_priority": 162,
    "part_of_speech": "n",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who studies at a school or university.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "en:000000558",

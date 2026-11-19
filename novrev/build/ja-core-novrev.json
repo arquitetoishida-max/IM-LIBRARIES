@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.2.1",
+ "version": "2.3.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -28,7 +28,8 @@
   "ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.",
   "level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.",
   "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
-  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37)."
+  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
+  "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -30499,7 +30500,9 @@
    "class_real": "compound particle",
    "study_tier": "expansão estruturante",
    "study_priority": 924,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "そばに。だれがしたかを示す「〜によって」の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000023",
@@ -31654,7 +31657,9 @@
    },
    "study_tier": "praticar com lema",
    "study_priority": 2468,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「it is」または「it has」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000054",
@@ -32072,7 +32077,12 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "最近つくられた、買ったばかりの。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "ja:en:000000064",
@@ -32360,7 +32370,9 @@
    "nativeExplain": {
     "pt-BR": "I am: eu sou/estou"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「I am」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000073",
@@ -32514,7 +32526,10 @@
    "study_priority": 29,
    "description": "質がよい、気持ちがよい。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000260"
+   ]
   },
   {
    "id": "ja:en:000000077",
@@ -33731,7 +33746,9 @@
    "key_pending": true,
    "study_tier": "praticar com lema",
    "study_priority": 2473,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「say」（言う）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000099",
@@ -34392,7 +34409,9 @@
    "usage_note": "行くところ = about to go / on the way; \"going\" as -ing of go has no single Japanese word.",
    "study_tier": "herdado",
    "study_priority": 2476,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「go」の〜ing形。「going to」で未来も表す。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000119",
@@ -34517,7 +34536,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2477,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「make」（作る）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000123",
@@ -34700,7 +34721,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2478,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「get」（手に入れる）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000126",
@@ -34821,7 +34844,9 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 976,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生きている間のこと。生きていること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000130",
@@ -34960,7 +34985,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 977,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地球と、そこにいるすべての人や場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000132",
@@ -35222,7 +35249,9 @@
    "class_real": "adverb + adjective phrase",
    "study_tier": "herdado",
    "study_priority": 2481,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ほかのどれよりもよい（「いい」の最上級）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000140",
@@ -35243,7 +35272,9 @@
    "class_real": "pre-noun demonstrative",
    "study_tier": "cedo",
    "study_priority": 982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "そのような。「こんなにいい日」のように程度を強める。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000141",
@@ -35416,7 +35447,10 @@
    "study_priority": 983,
    "description": "長さや時間が大きい。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000454"
+   ]
   },
   {
    "id": "ja:en:000000145",
@@ -35708,7 +35742,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2482,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「cannot」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000149",
@@ -35763,7 +35799,9 @@
    "class_real": "nostalgic habitual construction",
    "study_tier": "intermediário",
    "study_priority": 2483,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "昔はよくしていたが、今はしないこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000151",
@@ -36296,7 +36334,9 @@
    "class_real": "adverb + adjective phrase",
    "study_tier": "herdado",
    "study_priority": 2486,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "質がもっとよい（「いい」の比較級）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000162",
@@ -36575,7 +36615,12 @@
    },
    "study_tier": "cedo",
    "study_priority": 989,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地面から遠く上にある。背が高い。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000450"
+   ]
   },
   {
    "id": "ja:en:000000165",
@@ -36704,7 +36749,13 @@
    ],
    "study_tier": "cedo",
    "study_priority": 990,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "長い間生きている、または長い間ある。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000063",
+    "en:000000351"
+   ]
   },
   {
    "id": "ja:en:000000167",
@@ -36820,7 +36871,9 @@
    "class_real": "pronoun + の",
    "study_tier": "cedo",
    "study_priority": 993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "自分に属する。「自分の部屋」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000172",
@@ -36924,7 +36977,9 @@
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2489,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「I have」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000176",
@@ -36951,7 +37006,9 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 66,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物。何かのこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000177",
@@ -37118,7 +37175,9 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 69,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "特定の場所や地点。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000180",
@@ -37266,7 +37325,9 @@
    "class_real": "honorific suffix",
    "study_tier": "cedo",
    "study_priority": 999,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男の人の名前の前につける敬称。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000185",
@@ -37316,7 +37377,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2490,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "〜に反して。物にもたれかかる意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000187",
@@ -37344,7 +37407,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2491,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「did not」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000188",
@@ -37401,7 +37466,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2492,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「find」（見つける）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000190",
@@ -37608,7 +37675,12 @@
    },
    "study_tier": "inicial",
    "study_priority": 73,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "大きさが大きい。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000281"
+   ]
   },
   {
    "id": "ja:en:000000193",
@@ -37777,7 +37849,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "いっしょに競技や仕事をする人の集まり。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000196",
@@ -38169,7 +38243,9 @@
    "romanization": "muryou no",
    "class_real": "noun + の",
    "study_priority": 100203,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "お金がかからない。束縛がなく自由な意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000204",
@@ -38370,7 +38446,9 @@
     "pt-BR": "“um monte”"
    },
    "study_priority": 100211,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "たくさん。大きな量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000212",
@@ -38395,7 +38473,9 @@
     }
    ],
    "study_priority": 100212,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人や物を呼ぶための言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000213",
@@ -38671,7 +38751,9 @@
    "lexical_type": "construction",
    "class_real": "sentence pattern",
    "study_priority": 100219,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「he is」または「he has」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000220",
@@ -38691,7 +38773,9 @@
    "romanization": "~ saseru",
    "class_real": "causative auxiliary (ichidan)",
    "study_priority": 100220,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "許す。「let's」は「〜しよう」と誘う言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000221",
@@ -38714,7 +38798,9 @@
     "pt-BR": "existente"
    },
    "study_priority": 100221,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "本当にある。にせ物ではない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000223",
@@ -38953,7 +39039,9 @@
     "pt-BR": "arrumar, ajustar"
    },
    "study_priority": 100225,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物をある場所に置く。整える。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000226",
@@ -38979,7 +39067,9 @@
    ],
    "class_real": "noun",
    "study_priority": 100226,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "頭の中にある考えや意見。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000227",
@@ -39001,7 +39091,9 @@
     "pt-BR": "terminado"
    },
    "study_priority": 100227,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "終わっている。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000228",
@@ -39056,7 +39148,9 @@
    ],
    "class_real": "noun",
    "study_priority": 100230,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人々が崇める神。大文字ではひとりの神を指す。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000231",
@@ -39081,7 +39175,9 @@
     }
    ],
    "study_priority": 100231,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国を治める人たちの組織。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000232",
@@ -39100,7 +39196,9 @@
    "reading": "グループ",
    "romanization": "guruupu",
    "study_priority": 100232,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "いっしょにいる複数の人や物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000234",
@@ -39118,7 +39216,9 @@
    "romanization": "koukyou no",
    "class_real": "noun + の",
    "study_priority": 100234,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "みんなのための。個人のものではない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000235",
@@ -39173,7 +39273,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100236,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「woman」（女の人）の不規則な複数形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000237",
@@ -39308,7 +39410,9 @@
     }
    ],
    "study_priority": 100238,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "大切だと思う。世話をする。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000239",
@@ -39438,7 +39542,9 @@
    "reading": "システム",
    "romanization": "shisutemu",
    "study_priority": 100240,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "いっしょに働くものの組み合わせ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000241",
@@ -39456,7 +39562,9 @@
    "romanization": "kai",
    "class_real": "counter",
    "study_priority": 100241,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "回数（「3回」）。かけ算の「倍」の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000242",
@@ -39574,7 +39682,9 @@
    "reading": "ばあい",
    "romanization": "baai",
    "study_priority": 100245,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "状況や例（「その場合」）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000246",
@@ -39982,7 +40092,9 @@
     }
    ],
    "study_priority": 100253,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生きている。ある場所に家がある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000255",
@@ -40010,7 +40122,9 @@
    ],
    "class_real": "noun/counter",
    "study_priority": 100255,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "要点。小さな点。試合の得点。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000256",
@@ -40152,7 +40266,9 @@
    "lexical_type": "construction",
    "class_real": "existential construction",
    "study_priority": 100257,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「there is」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000258",
@@ -40182,7 +40298,9 @@
    "key_pending": false,
    "study_tier": "essential",
    "study_priority": 100258,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「tell」（話す、伝える）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000259",
@@ -40278,7 +40396,12 @@
     }
    ],
    "study_priority": 100260,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "よくない。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000076"
+   ]
   },
   {
    "id": "ja:en:000000261",
@@ -40297,7 +40420,9 @@
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_priority": 100261,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「does not」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000262",
@@ -40393,7 +40518,9 @@
     "pt-BR": "também: duro"
    },
    "study_priority": 100263,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "むずかしい。かたい、やわらかくない意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000264",
@@ -40490,7 +40617,9 @@
     }
    ],
    "study_priority": 100264,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "意味をもつ。〜するつもりである。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000265",
@@ -40778,7 +40907,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_priority": 100268,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "あるものを一部として含めて。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000269",
@@ -40878,7 +41009,9 @@
    "key_pending": false,
    "study_tier": "essential",
    "study_priority": 100271,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「see」（見る）の過去分詞。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000273",
@@ -41047,7 +41180,9 @@
    "lexical_type": "construction",
    "class_real": "participial construction",
    "study_priority": 100275,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある場所や考えを土台にしている。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000276",
@@ -41337,7 +41472,9 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_priority": 100279,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「man」（男の人）の不規則な複数形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000280",
@@ -41357,7 +41494,9 @@
    "romanization": "kuni no",
    "class_real": "noun + の",
    "study_priority": 100280,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国全体の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000281",
@@ -41425,7 +41564,10 @@
    "study_priority": 100281,
    "description": "大きくない。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000192"
+   ]
   },
   {
    "id": "ja:en:000000282",
@@ -41453,7 +41595,9 @@
    "key_pending": false,
    "study_tier": "essential",
    "study_priority": 100282,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「take」（取る、持っていく）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000283",
@@ -41510,7 +41654,9 @@
     }
    ],
    "study_priority": 100283,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "雪のような色。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000284",
@@ -41537,7 +41683,9 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_priority": 100284,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「come」（来る）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000285",
@@ -41792,7 +41940,9 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_priority": 100290,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「go」（行く）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000291",
@@ -41879,7 +42029,9 @@
    "romanization": "amerika no",
    "class_real": "noun + の",
    "study_priority": 100293,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "アメリカ合衆国の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000294",
@@ -42516,7 +42668,9 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 2494,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「child」の複数形。年の小さい人たち。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000308",
@@ -42569,7 +42723,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2495,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "細かいことではなく、全体についての。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000310",
@@ -42591,7 +42747,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2496,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「they are」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000314",
@@ -42609,7 +42767,9 @@
    "romanization": "eria",
    "study_tier": "cedo",
    "study_priority": 1010,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある場所の一部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000315",
@@ -42667,7 +42827,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 80,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "夜のような、いちばん暗い色。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000316",
@@ -42686,7 +42848,9 @@
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1011,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "次に来る。「次の日」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000317",
@@ -42712,7 +42876,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2498,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国が定めた決まり。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000319",
@@ -42731,7 +42897,9 @@
    "class_real": "adverbial phrase",
    "study_tier": "inicial",
    "study_priority": 81,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "おたがいにいっしょに。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000320",
@@ -42757,7 +42925,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1012,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国と国との戦い。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000321",
@@ -42976,7 +43146,9 @@
    "class_real": "postpositional construction",
    "study_tier": "intermediário",
    "study_priority": 2499,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ひとつあたり。「1時間あたり10ドル」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000328",
@@ -43003,7 +43175,9 @@
    "class_real": "noun",
    "study_tier": "intermediário",
    "study_priority": 2500,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国や組織のいちばん上に立つ人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000329",
@@ -43097,7 +43271,9 @@
    "class_real": "noun/na-adjective",
    "study_tier": "inicial",
    "study_priority": 86,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "体と心の状態。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000334",
@@ -43211,7 +43387,9 @@
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2502,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「mean」の三人称単数現在形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000338",
@@ -43375,7 +43553,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1020,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "何かをする力や技術がある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000341",
@@ -43458,7 +43638,9 @@
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2503,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「friend」（友だち）の複数形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000344",
@@ -43479,7 +43661,9 @@
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
    "study_tier": "herdado",
    "study_priority": 2504,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「I will」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000345",
@@ -43505,7 +43689,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1021,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "あることについての事実や知らせ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000346",
@@ -43524,7 +43710,9 @@
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1022,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "近くの地域の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000347",
@@ -43544,7 +43732,9 @@
    "romanization": "aa",
    "study_tier": "inicial",
    "study_priority": 90,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "おどろきや、わかったという気持ちを表す。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000348",
@@ -43785,7 +43975,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 93,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "年をとっていない。人生のはじめの時期。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "ja:en:000000352",
@@ -43804,7 +43999,9 @@
    "class_real": "suffix (time before now)",
    "study_tier": "inicial",
    "study_priority": 94,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "今より前。「2日前」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000353",
@@ -43849,7 +44046,9 @@
    "class_real": "noun + の",
    "study_tier": "intermediário",
    "study_priority": 2505,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人が集まって暮らすことに関する。人づきあいのよい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000355",
@@ -43990,7 +44189,9 @@
    "nativeExplain": {
     "pt-BR": "tribunal"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "裁判をする場所。スポーツのコートの意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000357",
@@ -44016,7 +44217,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1025,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "本当のこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000358",
@@ -44035,7 +44238,9 @@
    "class_real": "passive participle (与える), attributive",
    "study_tier": "tardio",
    "study_priority": 3311,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「give」の過去分詞。決まっている、与えられたの意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000359",
@@ -44054,7 +44259,9 @@
    "class_real": "pronoun/noun",
    "study_tier": "inicial",
    "study_priority": 96,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人たちのグループを呼ぶくだけた言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000360",
@@ -44142,7 +44349,9 @@
    "class_real": "negative copula construction",
    "study_tier": "herdado",
    "study_priority": 2507,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「is not」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000363",
@@ -44162,7 +44371,9 @@
    "romanization": "reberu",
    "study_tier": "intermediário",
    "study_priority": 2508,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高さや段階。ゲームの面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000364",
@@ -44292,7 +44503,9 @@
    "class_real": "verb construction",
    "study_tier": "cedo",
    "study_priority": 1028,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある状態になる。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000368",
@@ -44434,7 +44647,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2509,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「come」の〜ing形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000370",
@@ -44545,7 +44760,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1029,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物事を思いどおりに動かす。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000371",
@@ -44571,7 +44788,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1030,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生きることが終わること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000372",
@@ -44626,7 +44845,9 @@
    },
    "study_tier": "inicial",
    "study_priority": 102,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男の人をさすくだけた言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000375",
@@ -44891,7 +45112,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2510,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「we are」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000381",
@@ -45009,7 +45232,9 @@
    "class_real": "passive participle (知る), attributive",
    "study_tier": "herdado",
    "study_priority": 2511,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "多くの人に知られている。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000385",
@@ -45130,7 +45355,9 @@
    },
    "study_tier": "intermediário",
    "study_priority": 2512,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "新しい事実を見つけるための、くわしい調べ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000388",
@@ -45219,7 +45446,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1037,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高校のあとに進む、高等教育の学校。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000393",
@@ -45328,7 +45557,12 @@
    },
    "study_tier": "inicial",
    "study_priority": 108,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "試合や競争で一番になる。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000850"
+   ]
   },
   {
    "id": "ja:en:000000394",
@@ -45502,7 +45736,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1039,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "問題やこと。「問題ない」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000401",
@@ -45524,7 +45760,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2514,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "かなり。形容詞では、きれいなこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000402",
@@ -45695,7 +45933,9 @@
    "class_real": "adverb/noun",
    "study_tier": "expansão cotidiana",
    "study_priority": 2515,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ごく少しの量や部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000405",
@@ -45845,7 +46085,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2516,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "手や物でたたく。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000408",
@@ -46266,7 +46508,9 @@
    "retired_reason": "WOULD_SENSES_NOT_JA_DAROU",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2523,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「I would」または「I had」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000419",
@@ -46312,7 +46556,9 @@
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2524,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "いくつかの国のあいだの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000422",
@@ -46400,7 +46646,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2528,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ものごとが起こる理由。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000426",
@@ -46419,7 +46667,9 @@
    "class_real": "noun + の",
    "study_tier": "expansão cotidiana",
    "study_priority": 2529,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "決まった時にあるはずの。「明日まで」のように使う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000427",
@@ -46468,7 +46718,9 @@
    "romanization": "ningen",
    "study_tier": "expansão cotidiana",
    "study_priority": 2530,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人。人間。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000431",
@@ -46940,7 +47192,9 @@
    "romanization": "chiikishakai",
    "study_tier": "expansão cotidiana",
    "study_priority": 2535,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "同じ地域に住む、または関心を同じくする人たち。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000438",
@@ -46958,7 +47212,9 @@
    "romanization": "deeta",
    "study_tier": "expansão cotidiana",
    "study_priority": 2536,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事実や数字。コンピューターに保存されることが多い。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000439",
@@ -47209,7 +47465,9 @@
    "key_pending": true,
    "study_tier": "expansão cotidiana",
    "study_priority": 2538,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「see」（見る）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000443",
@@ -47228,7 +47486,9 @@
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2539,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ふつうと違う。大切な。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000444",
@@ -47369,7 +47629,9 @@
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2540,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「will not」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000446",
@@ -47444,7 +47706,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2543,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "今よりあとの時間。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000449",
@@ -47539,7 +47803,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2545,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地面に近い。高くない。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000164"
+   ]
   },
   {
    "id": "ja:en:000000451",
@@ -47688,7 +47957,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2548,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "長くない。背が低い意味もある。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000144"
+   ]
   },
   {
    "id": "ja:en:000000455",
@@ -47816,10 +48090,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "取られた",
-   "alternatives": [],
-   "reading": "とられた",
-   "romanization": "torareta",
+   "text": "取った",
+   "alternatives": [
+    "取られた"
+   ],
+   "reading": "とった",
+   "romanization": "totta",
    "lexical_type": "form",
    "lemma": "取る",
    "lemma_id": "ja:en:000000124",
@@ -47833,7 +48109,9 @@
    "key_pending": true,
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2549,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「take」（取る）の過去分詞。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000457",
@@ -48009,7 +48287,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2550,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "取り決め。「a big deal」は大事なこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000460",
@@ -48031,7 +48311,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2551,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "かなり。「rather than」でむしろの意味。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000461",
@@ -48114,7 +48396,9 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 135,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "血のような色。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000463",
@@ -48521,7 +48805,9 @@
    "class_real": "noun (suru-noun)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2559,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "時間とともに成長したりよくなったりすること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000471",
@@ -48571,7 +48857,9 @@
    },
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2561,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "もっと。さらに遠く。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000473",
@@ -48616,7 +48904,9 @@
    "class_real": "counter",
    "study_tier": "expansão cotidiana",
    "study_priority": 2563,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「minute」（分）の複数形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000475",
@@ -48791,7 +49081,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2567,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "行動する。劇で演じる。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000479",
@@ -48875,7 +49167,9 @@
    "class_real": "noun",
    "study_tier": "expansão cotidiana",
    "study_priority": 2570,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物がもえるときの炎と熱。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000483",
@@ -48952,7 +49246,9 @@
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2573,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "とても重要な、大きな。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000486",
@@ -48978,7 +49274,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2574,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "テレビや新聞、インターネットなどの情報の伝え手。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000487",
@@ -49140,7 +49438,9 @@
    "class_real": "intention construction",
    "study_tier": "expansão cotidiana",
    "study_priority": 2578,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「going to」のくだけた言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000494",
@@ -49252,7 +49552,9 @@
    "class_real": "noun + の",
    "study_tier": "expansão cotidiana",
    "study_priority": 2581,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "政府や政治に関する。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000499",
@@ -49375,7 +49677,9 @@
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 1041,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "〜の言うところによると。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000505",
@@ -49395,7 +49699,9 @@
    "class_real": "potential construction (suru-noun + できる)",
    "study_tier": "cedo",
    "study_priority": 1042,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "使える状態の。手があいている。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000506",
@@ -49421,7 +49727,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1043,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "おもに学校で教えたり学んだりすること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000507",
@@ -49443,7 +49751,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1044,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "いちばん最後の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000508",
@@ -49467,7 +49777,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1045,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "以前の。かつてそうだった。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000509",
@@ -49530,7 +49842,9 @@
    "key_pending": true,
    "study_tier": "inicial",
    "study_priority": 145,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「kid」の複数形。子どもをさすくだけた言い方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000511",
@@ -49550,7 +49864,9 @@
    "romanization": "risuto",
    "study_tier": "inicial",
    "study_priority": 146,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ひとつずつ順に書き並べたもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000512",
@@ -49572,7 +49888,9 @@
    },
    "study_tier": "inicial",
    "study_priority": 147,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用意ができている。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000513",
@@ -49689,7 +50007,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2584,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「was not」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000517",
@@ -49813,7 +50133,9 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1046,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高校のあとに学ぶ学校。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000519",
@@ -49834,7 +50156,9 @@
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1047,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "今のこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000520",
@@ -49897,7 +50221,9 @@
    "class_real": "noun (suru-noun)",
    "study_tier": "cedo",
    "study_priority": 1048,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "やってみて身についた知識。自分が経験したこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000522",
@@ -49925,7 +50251,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2585,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「hear」（聞く）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000524",
@@ -50061,7 +50389,9 @@
    "nativeExplain": {},
    "study_tier": "cedo",
    "study_priority": 1049,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "テレビの番組。コンピューターのプログラム。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000526",
@@ -50227,7 +50557,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1052,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "何かをするための一連の手順。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000532",
@@ -50249,7 +50581,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2586,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「she is」または「she has」の短い形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000533",
@@ -50486,7 +50820,9 @@
    "class_real": "noun (suru-noun)",
    "study_tier": "cedo",
    "study_priority": 1054,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "行うこと。映画では、はげしい場面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000538",
@@ -50540,7 +50876,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2587,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「give」（あげる）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000541",
@@ -50654,7 +50992,9 @@
    "class_real": "noun/pronoun",
    "study_tier": "cedo",
    "study_priority": 1057,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "その人自身。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000547",
@@ -50858,7 +51198,9 @@
    "class_real": "honorific suffix",
    "study_tier": "cedo",
    "study_priority": 1059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "医者の名前の前につける敬称。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000551",
@@ -50913,7 +51255,9 @@
    "key_pending": false,
    "study_tier": "herdado",
    "study_priority": 2589,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「hold」（持つ）の過去形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000553",
@@ -51137,7 +51481,9 @@
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1065,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "活動する力。電気や燃料のこともさす。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000565",
@@ -51251,7 +51597,9 @@
    "nativeExplain": {
     "pt-BR": "brigar (fisicamente) vs discutir"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相手をなぐろうとする。言い争う。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000566",
@@ -51314,7 +51662,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1067,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "押したり引いたりする力。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000568",
@@ -51452,7 +51802,9 @@
    },
    "study_tier": "cedo",
    "study_priority": 1068,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人々が話し合う問題やテーマ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000572",
@@ -60653,7 +61005,10 @@
    "study_priority": 269,
    "description": "持っていた物をなくす。勝負に負ける意味もある。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000393"
+   ]
   },
   {
    "id": "ja:en:000000852",
@@ -122389,7 +122744,9 @@
     "pt-BR": "demais idiomas apontam \"desafiador/difícil\""
    },
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "力をためされるような、難しいことがある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000312",
@@ -122406,7 +122763,9 @@
    "study_tier": "pendente",
    "study_priority": 3307,
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "同じ目的でひとつにまとまった。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000374",
@@ -122459,7 +122818,9 @@
    "study_tier": "inicial",
    "study_priority": 162,
    "part_of_speech": "n",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "学校や大学で学ぶ人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000558",

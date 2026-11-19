@@ -14,7 +14,7 @@ for f in sorted(glob.glob('novrev/patches/*.jsonl')):
         r=json.loads(line); cid='en:'+r['i']
         for l,k in L.items():
             e=idx[l][cid]
-            if r.get('d'): e['description']=r['d'][k]
+            if r.get('d'): e['description']=r['d'].get(k) or (e.get('description_en') if k=='en' else None) or e.get('description')
             w=(r.get('w') or {}).get(l) or (r.get('w') or {}).get(k) or {}
             if 't' in w: e['text']=w['t']
             if 'a' in w: e['alternatives']=w['a']

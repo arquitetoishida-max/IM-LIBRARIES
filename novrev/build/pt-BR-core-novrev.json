@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.2.1",
+ "version": "2.3.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -28,7 +28,8 @@
   "ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.",
   "level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.",
   "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
-  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37)."
+  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
+  "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag."
  ],
  "entries": [
   {
@@ -579,7 +580,9 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 924,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ao lado de; também indica quem fez algo (\"feito por\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000023",
@@ -1374,7 +1377,9 @@
    ],
    "study_tier": "praticar com lema",
    "study_priority": 2468,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"it is\" (é) ou \"it has\" (tem).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000054",
@@ -1625,7 +1630,12 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Feito ou comprado há pouco; não é velho.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "pt-BR:en:000000064",
@@ -1847,7 +1857,9 @@
    ],
    "study_tier": "praticar com lema",
    "study_priority": 2471,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"I am\" (eu sou / eu estou).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000073",
@@ -1951,7 +1963,10 @@
    "study_priority": 29,
    "description": "De boa qualidade; agradável.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000260"
+   ]
   },
   {
    "id": "pt-BR:en:000000077",
@@ -2518,7 +2533,9 @@
    "alternatives": [],
    "study_tier": "praticar com lema",
    "study_priority": 2473,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"say\" (dizer).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000099",
@@ -2995,7 +3012,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2476,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma de gerúndio de \"go\"; também indica futuro (\"going to\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000119",
@@ -3091,7 +3110,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2477,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"make\" (fazer).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000123",
@@ -3164,7 +3185,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2478,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"get\" (conseguir, receber).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000126",
@@ -3267,7 +3290,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 976,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O tempo em que alguém está vivo; o fato de viver.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000130",
@@ -3308,7 +3333,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 977,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A Terra e todas as pessoas e lugares nela.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000132",
@@ -3505,7 +3532,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2481,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Melhor que todos os outros (superlativo de \"bom\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000140",
@@ -3523,7 +3552,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Desse tipo; tanto (\"tão bom dia\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000141",
@@ -3627,7 +3658,10 @@
    "study_priority": 983,
    "description": "De grande comprimento ou duração.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000454"
+   ]
   },
   {
    "id": "pt-BR:en:000000145",
@@ -3717,7 +3751,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2482,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"cannot\" (não poder).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000149",
@@ -3757,11 +3793,13 @@
    "translation_confidence": "editorial-reviewed",
    "text": "costumava",
    "alternatives": [
-    "usado"
+    "antes eu"
    ],
    "study_tier": "intermediário",
    "study_priority": 2483,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fazia com frequência no passado, mas não faz mais: \"eu costumava nadar\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000151",
@@ -4034,7 +4072,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2486,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "De qualidade mais alta (comparativo de \"bom\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000162",
@@ -4102,7 +4142,12 @@
    ],
    "study_tier": "cedo",
    "study_priority": 989,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Muito acima do chão; de grande altura.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000450"
+   ]
   },
   {
    "id": "pt-BR:en:000000165",
@@ -4146,7 +4191,13 @@
    ],
    "study_tier": "cedo",
    "study_priority": 990,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que existe ou viveu há muito tempo.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000063",
+    "en:000000351"
+   ]
   },
   {
    "id": "pt-BR:en:000000167",
@@ -4240,7 +4291,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que pertence à própria pessoa (\"meu próprio quarto\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000172",
@@ -4332,7 +4385,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2489,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"I have\" (eu tenho / eu já).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000176",
@@ -4348,7 +4403,9 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 66,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um objeto; algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000177",
@@ -4414,7 +4471,9 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 69,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma área ou local específico.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000180",
@@ -4531,11 +4590,15 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "senhor (Sr.)",
-   "alternatives": [],
+   "text": "senhor",
+   "alternatives": [
+    "Sr."
+   ],
    "study_tier": "cedo",
    "study_priority": 999,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Título antes do nome de um homem (Sr. Silva).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000185",
@@ -4575,7 +4638,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2490,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Contrário a algo; também encostado (\"encostado na parede\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000187",
@@ -4591,7 +4656,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2491,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"did not\" (não fez).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000188",
@@ -4638,7 +4705,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2492,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"find\" (encontrar).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000190",
@@ -4707,7 +4776,12 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 73,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "De tamanho grande.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000281"
+   ]
   },
   {
    "id": "pt-BR:en:000000193",
@@ -4774,7 +4848,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grupo de pessoas que jogam ou trabalham juntas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000196",
@@ -4961,7 +5037,9 @@
     "livre"
    ],
    "study_priority": 100203,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que não custa nada; também sem controle de outros.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000204",
@@ -5123,7 +5201,9 @@
     "monte"
    ],
    "study_priority": 100211,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"A lot\" = uma grande quantidade.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000212",
@@ -5138,7 +5218,9 @@
    "text": "nome",
    "alternatives": [],
    "study_priority": 100212,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A palavra usada para chamar uma pessoa ou coisa.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000213",
@@ -5283,7 +5365,9 @@
     "ele está"
    ],
    "study_priority": 100219,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"he is\" (ele é) ou \"he has\" (ele tem).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000220",
@@ -5300,7 +5384,9 @@
     "permitir"
    ],
    "study_priority": 100220,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Permitir; \"let's\" = vamos (sugestão).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000221",
@@ -5317,7 +5403,9 @@
     "de verdade"
    ],
    "study_priority": 100221,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que existe de verdade; não é falso.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000223",
@@ -5358,7 +5446,9 @@
     "arrumar"
    ],
    "study_priority": 100225,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pôr algo em um lugar; arrumar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000226",
@@ -5375,7 +5465,9 @@
     "pensou"
    ],
    "study_priority": 100226,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma ideia ou opinião na mente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000227",
@@ -5393,7 +5485,9 @@
     "feito"
    ],
    "study_priority": 100227,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Terminado.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000228",
@@ -5434,7 +5528,9 @@
    "text": "Deus",
    "alternatives": [],
    "study_priority": 100230,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ser divino que se adora; com G maiúsculo, o Deus único.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000231",
@@ -5449,7 +5545,9 @@
    "text": "governo",
    "alternatives": [],
    "study_priority": 100231,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O grupo de pessoas que governa um país.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000232",
@@ -5464,7 +5562,9 @@
    "text": "grupo",
    "alternatives": [],
    "study_priority": 100232,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Várias pessoas ou coisas juntas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000234",
@@ -5479,7 +5579,9 @@
    "text": "público",
    "alternatives": [],
    "study_priority": 100234,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Para todos; não é privado.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000235",
@@ -5521,7 +5623,9 @@
    "text": "mulheres",
    "alternatives": [],
    "study_priority": 100236,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural irregular de \"woman\" (mulher).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000237",
@@ -5562,7 +5666,9 @@
     "importar-se"
    ],
    "study_priority": 100238,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Sentir que algo é importante; cuidar de alguém.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000239",
@@ -5603,7 +5709,9 @@
    "text": "sistema",
    "alternatives": [],
    "study_priority": 100240,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Conjunto de partes que funcionam juntas.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000241",
@@ -5618,7 +5726,9 @@
    "text": "vezes",
    "alternatives": [],
    "study_priority": 100241,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ocasiões (\"três vezes\"); também multiplicado por.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000242",
@@ -5704,7 +5814,9 @@
    "text": "caso",
    "alternatives": [],
    "study_priority": 100245,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma situação ou exemplo (\"nesse caso\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000246",
@@ -5899,7 +6011,9 @@
     "morar"
    ],
    "study_priority": 100253,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Estar vivo; ter a casa em algum lugar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000255",
@@ -5914,7 +6028,9 @@
    "text": "ponto",
    "alternatives": [],
    "study_priority": 100255,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A ideia principal; um ponto; pontos em um jogo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000256",
@@ -5953,7 +6069,9 @@
     "tem"
    ],
    "study_priority": 100257,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"there is\" (há, tem).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000258",
@@ -5970,7 +6088,9 @@
     "disse"
    ],
    "study_priority": 100258,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"tell\" (contar, dizer).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000259",
@@ -6014,7 +6134,12 @@
     "mau"
    ],
    "study_priority": 100260,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que não é bom.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000076"
+   ]
   },
   {
    "id": "pt-BR:en:000000261",
@@ -6029,7 +6154,9 @@
    "text": "não (faz)",
    "alternatives": [],
    "study_priority": 100261,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"does not\" (não faz).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000262",
@@ -6069,7 +6196,9 @@
     "duro"
    ],
    "study_priority": 100263,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Difícil; também duro, não macio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000264",
@@ -6086,7 +6215,9 @@
     "querer dizer"
    ],
    "study_priority": 100264,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ter um significado; ter a intenção de.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000265",
@@ -6171,7 +6302,9 @@
    "text": "incluindo",
    "alternatives": [],
    "study_priority": 100268,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Tendo como parte de um grupo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000269",
@@ -6237,7 +6370,9 @@
    "text": "visto",
    "alternatives": [],
    "study_priority": 100271,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Particípio de \"see\", como em \"I have seen it\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000273",
@@ -6302,7 +6437,9 @@
    "text": "baseado",
    "alternatives": [],
    "study_priority": 100275,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Com a parte principal em um lugar ou ideia.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000276",
@@ -6388,7 +6525,9 @@
    "text": "homens",
    "alternatives": [],
    "study_priority": 100279,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural irregular de \"man\" (homem).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000280",
@@ -6403,7 +6542,9 @@
    "text": "nacional",
    "alternatives": [],
    "study_priority": 100280,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "De um país inteiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000281",
@@ -6427,7 +6568,10 @@
    "study_priority": 100281,
    "description": "De tamanho reduzido.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000192"
+   ]
   },
   {
    "id": "pt-BR:en:000000282",
@@ -6444,7 +6588,9 @@
     "levou"
    ],
    "study_priority": 100282,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado simples do verbo \"take\" (pegar, levar).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000283",
@@ -6461,7 +6607,9 @@
     "branca"
    ],
    "study_priority": 100283,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A cor da neve.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000284",
@@ -6476,7 +6624,9 @@
    "text": "veio",
    "alternatives": [],
    "study_priority": 100284,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado simples do verbo \"come\" (vir).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000285",
@@ -6618,7 +6768,9 @@
     "fui"
    ],
    "study_priority": 100290,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"go\" (ir).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000291",
@@ -6688,7 +6840,9 @@
     "americana"
    ],
    "study_priority": 100293,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Dos Estados Unidos.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000294",
@@ -6995,7 +7149,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2494,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural de \"child\": pessoas jovens.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000308",
@@ -7037,7 +7193,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2495,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Sobre o todo, sem detalhes.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000310",
@@ -7055,7 +7213,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2496,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"they are\" (eles são).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000314",
@@ -7073,7 +7233,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1010,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma parte de um lugar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000315",
@@ -7091,7 +7253,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 80,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A cor mais escura, como a noite.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000316",
@@ -7107,7 +7271,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1011,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O que vem depois (\"o dia seguinte\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000317",
@@ -7123,7 +7289,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2498,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Regras feitas por um governo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000319",
@@ -7141,7 +7309,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 81,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um com o outro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000320",
@@ -7157,7 +7327,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1012,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Luta entre países.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000321",
@@ -7321,7 +7493,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2499,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Para cada (\"dez dólares por hora\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000328",
@@ -7337,7 +7511,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2500,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O líder de um país ou de uma organização.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000329",
@@ -7400,7 +7576,9 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 86,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A condição do corpo e da mente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000334",
@@ -7494,7 +7672,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2502,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Terceira pessoa do singular de \"mean\" (significa).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000338",
@@ -7558,7 +7738,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1020,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que tem poder ou habilidade para fazer algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000341",
@@ -7626,7 +7808,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2503,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural de \"friend\" (amigo).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000344",
@@ -7642,7 +7826,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2504,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"I will\" (eu vou).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000345",
@@ -7658,7 +7844,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1021,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fatos sobre algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000346",
@@ -7674,7 +7862,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1022,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Da região próxima.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000347",
@@ -7692,7 +7882,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 90,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Mostra surpresa ou compreensão.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000348",
@@ -7786,7 +7978,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 93,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que não é velho; no início da vida.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "pt-BR:en:000000352",
@@ -7804,7 +8001,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 94,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Antes de agora: \"há dois dias\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000353",
@@ -7845,7 +8044,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2505,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Relativo à vida em grupo; amigável.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000355",
@@ -7886,7 +8087,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2506,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Lugar onde juízes decidem casos; também quadra esportiva.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000357",
@@ -7902,7 +8105,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1025,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Algo verdadeiro.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000358",
@@ -7920,7 +8125,9 @@
    ],
    "study_tier": "tardio",
    "study_priority": 3311,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Particípio de \"give\"; também algo estabelecido.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000359",
@@ -7932,13 +8139,15 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "pessoal (galera)",
+   "text": "pessoal",
    "alternatives": [
     "galera"
    ],
    "study_tier": "inicial",
    "study_priority": 96,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"Guys\": um grupo de pessoas (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000360",
@@ -8005,7 +8214,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2507,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"is not\" (não é).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000363",
@@ -8021,7 +8232,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2508,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma altura ou etapa; fase de um jogo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000364",
@@ -8118,7 +8331,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1028,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Começar a ser.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000368",
@@ -8159,7 +8374,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2509,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma de gerúndio de \"come\", como em \"she is coming\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000370",
@@ -8175,7 +8392,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1029,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ter poder sobre algo; dirigir.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000371",
@@ -8191,7 +8410,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1030,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O fim da vida.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000372",
@@ -8232,7 +8453,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 102,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um homem (informal).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000375",
@@ -8368,7 +8591,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2510,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"we are\" (nós somos).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000381",
@@ -8454,7 +8679,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2511,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Conhecido por muita gente.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000385",
@@ -8518,7 +8745,9 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2512,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Estudo cuidadoso para descobrir fatos novos.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000388",
@@ -8593,7 +8822,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1037,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Escola de ensino superior, depois do ensino médio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000393",
@@ -8611,7 +8842,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 108,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ser o melhor em um jogo ou competição.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000850"
+   ]
   },
   {
    "id": "pt-BR:en:000000394",
@@ -8758,7 +8994,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1039,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um assunto ou questão (\"não importa\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000401",
@@ -8777,7 +9015,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2514,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bastante (\"bem bom\"); como adjetivo, bonito.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000402",
@@ -8844,7 +9084,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2515,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma pequena parte ou quantidade (\"um pouquinho\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000405",
@@ -8887,7 +9129,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2516,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bater com a mão ou com um objeto.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000408",
@@ -9062,7 +9306,9 @@
    ],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2523,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"I would\" (eu iria) ou \"I had\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000419",
@@ -9101,7 +9347,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2524,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Entre vários países.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000422",
@@ -9166,7 +9414,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2528,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A razão pela qual algo acontece.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000426",
@@ -9184,7 +9434,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2529,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Esperado ou exigido em certa hora (\"para amanhã\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000427",
@@ -9228,7 +9480,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2530,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma pessoa; um ser humano.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000431",
@@ -9391,7 +9645,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2535,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "As pessoas que vivem numa área ou compartilham interesses.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000438",
@@ -9407,7 +9663,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2536,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fatos e números, muitas vezes guardados em computador.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000439",
@@ -9509,7 +9767,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2538,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado simples do verbo \"see\" (ver).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000443",
@@ -9525,7 +9785,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2539,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Diferente do normal; importante.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000444",
@@ -9569,7 +9831,9 @@
    "alternatives": [],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2540,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"will not\" (não vai).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000446",
@@ -9628,7 +9892,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2543,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O tempo depois de agora.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000449",
@@ -9670,7 +9936,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2545,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Perto do chão; não alto.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000164"
+   ]
   },
   {
    "id": "pt-BR:en:000000451",
@@ -9764,7 +10035,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2548,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que não é comprido; também de pouca altura.",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000144"
+   ]
   },
   {
    "id": "pt-BR:en:000000455",
@@ -9806,7 +10082,9 @@
    ],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2549,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Particípio de \"take\", como em \"I have taken it\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000457",
@@ -9874,7 +10152,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2550,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um acordo; \"a big deal\" = algo importante.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000460",
@@ -9892,7 +10172,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2551,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bastante, como em \"bastante frio\"; também \"de preferência\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000461",
@@ -9935,7 +10217,9 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 135,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A cor do sangue.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000463",
@@ -10128,7 +10412,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2559,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Crescimento ou melhora ao longo do tempo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000471",
@@ -10171,7 +10457,9 @@
    ],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2561,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Mais; a uma distância maior.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000473",
@@ -10210,7 +10498,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2563,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural de \"minute\" (minuto).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000475",
@@ -10280,7 +10570,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2567,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fazer algo; atuar em uma peça.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000479",
@@ -10345,7 +10637,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2570,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Chamas e calor de algo que queima.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000483",
@@ -10411,7 +10705,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2573,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Muito importante ou grande.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000486",
@@ -10427,7 +10723,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2574,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "TV, jornais e internet em conjunto.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000487",
@@ -10571,7 +10869,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2578,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma informal de \"going to\" (futuro).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000494",
@@ -10664,7 +10964,9 @@
    "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2581,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Relativo ao governo e à política.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000499",
@@ -10757,7 +11059,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1041,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "\"According to\" = segundo o que alguém disse.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000505",
@@ -10773,7 +11077,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1042,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pronto para usar ou livre para ajudar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000506",
@@ -10791,7 +11097,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1043,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ensino e aprendizagem, sobretudo na escola.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000507",
@@ -10809,7 +11117,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1044,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O último; que está no fim.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000508",
@@ -10827,7 +11137,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1045,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "De antes; que era algo antes (\"antigo professor\").",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000509",
@@ -10871,7 +11183,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 145,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Plural de \"kid\"; informal para crianças.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000511",
@@ -10887,7 +11201,9 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 146,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Coisas escritas uma abaixo da outra.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000512",
@@ -10905,7 +11221,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 147,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Preparado.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000513",
@@ -10995,7 +11313,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2584,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"was not\" (não era, não estava).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000517",
@@ -11034,7 +11354,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1046,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Escola para estudos depois do ensino médio.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000519",
@@ -11050,7 +11372,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1047,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que acontece agora.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000520",
@@ -11089,7 +11413,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1048,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Conhecimento adquirido fazendo coisas; algo que aconteceu com você.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000522",
@@ -11105,7 +11431,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2585,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"hear\" (ouvir).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000524",
@@ -11146,7 +11474,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1049,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um programa de TV ou de computador.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000526",
@@ -11279,7 +11609,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1052,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma série de passos para fazer algo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000532",
@@ -11297,7 +11629,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2586,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma curta de \"she is\" (ela é) ou \"she has\".",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000533",
@@ -11413,7 +11747,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1054,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Algo que se faz; em filmes, cenas emocionantes.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000538",
@@ -11454,7 +11790,9 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2587,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado simples do verbo \"give\" (dar).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000541",
@@ -11550,7 +11888,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1057,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A própria pessoa; o eu.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000547",
@@ -11639,13 +11979,16 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "doutor (Dr.)",
+   "text": "doutor",
    "alternatives": [
-    "doutora"
+    "doutora",
+    "Dr."
    ],
    "study_tier": "cedo",
    "study_priority": 1059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Título de médico (Dr. Silva).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000551",
@@ -11687,7 +12030,9 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2589,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passado do verbo \"hold\" (segurar).",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000553",
@@ -11877,7 +12222,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1065,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Força para ser ativo; eletricidade ou combustível.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000565",
@@ -11895,7 +12242,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1066,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Tentar machucar alguém; discutir.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000566",
@@ -11937,7 +12286,9 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1067,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Força usada para empurrar ou puxar.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000568",
@@ -11980,7 +12331,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1068,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um problema ou assunto que as pessoas discutem.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000572",
@@ -16790,7 +17143,10 @@
    "study_priority": 269,
    "description": "Deixar de ter algo; não vencer.",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000393"
+   ]
   },
   {
    "id": "pt-BR:en:000000852",
@@ -51148,7 +51504,9 @@
    "study_tier": "pendente",
    "study_priority": 3306,
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Difícil de um jeito que testa sua capacidade.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000312",
@@ -51163,7 +51521,9 @@
    "study_tier": "pendente",
    "study_priority": 3307,
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Junto como um só grupo, com o mesmo objetivo.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000374",
@@ -51210,7 +51570,9 @@
    "study_tier": "inicial",
    "study_priority": 162,
    "part_of_speech": "n",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que estuda em escola ou universidade.",
+   "novrev_status": "reviewed"
   },
   {
    "id": "pt-BR:en:000000558",

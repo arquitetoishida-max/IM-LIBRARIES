@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.2.1",
+ "version": "2.3.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -28,7 +28,8 @@
   "ISHIDA MULTILANG editorial dictionary 2.0 (2026-10): every English pivot entry reviewed one by one; one everyday sense and a short English explanation per id; pt-BR, ja and zh written from that sense. Ids are stable and never reused. Source of truth: curation/editorial (batches, zh). Old imported definitions, machine translations and frequency data are not used.",
   "level = approximate CEFR-style learning band (A1-C2), originally estimated from the headword list rank at selection time; JLPT/HSK/CEFR are didactic references only, not official certification lists. No frequency values are distributed.",
   "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
-  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37)."
+  "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
+  "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag."
  ],
  "entries": [
   {
@@ -729,7 +730,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "被",
    "alternatives": [
-    "在…旁边"
+    "由"
    ],
    "reading": "bèi",
    "romanization": "bèi",
@@ -743,7 +744,9 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 924,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "表示动作的执行者，如“被……”；也指在旁边。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000023",
@@ -1762,7 +1765,9 @@
    "romanization": "zhè shì",
    "study_tier": "praticar com lema",
    "study_priority": 2468,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“it is”或“it has”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000054",
@@ -2071,7 +2076,12 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "刚做出或刚买的，不旧。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "zh:en:000000064",
@@ -2352,7 +2362,9 @@
    "nativeExplain": {
     "pt-BR": "I am: eu sou/estou"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“I am”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000073",
@@ -2470,7 +2482,10 @@
    "study_priority": 29,
    "description": "质量高，令人满意。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000260"
+   ]
   },
   {
    "id": "zh:en:000000077",
@@ -3200,7 +3215,9 @@
    "romanization": "shuō le",
    "study_tier": "praticar com lema",
    "study_priority": 2473,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“say”（说）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000099",
@@ -3833,7 +3850,9 @@
    "romanization": "yào qù",
    "study_tier": "herdado",
    "study_priority": 2476,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“go”的进行形式；“going to”表示将来。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000119",
@@ -3956,7 +3975,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2477,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“make”（做）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000123",
@@ -4053,7 +4074,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2478,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“get”（得到）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000126",
@@ -4189,7 +4212,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 976,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一个人活着的时间；生活，生命。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000130",
@@ -4248,7 +4273,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 977,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地球以及上面所有的人和地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000132",
@@ -4471,7 +4498,9 @@
    "romanization": "zuì hǎo de",
    "study_tier": "herdado",
    "study_priority": 2481,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "比其他所有的都好（“好”的最高级）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000140",
@@ -4491,7 +4520,9 @@
    "romanization": "zhèyàng de",
    "study_tier": "cedo",
    "study_priority": 982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "这种的；那么（如“这么好的天”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000141",
@@ -4633,7 +4664,10 @@
    "study_priority": 983,
    "description": "长度或时间很大。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000454"
+   ]
   },
   {
    "id": "zh:en:000000145",
@@ -4749,7 +4783,9 @@
    "romanization": "bù néng",
    "study_tier": "herdado",
    "study_priority": 2482,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“cannot”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000149",
@@ -4799,13 +4835,15 @@
    "translation_confidence": "editorial-reviewed",
    "text": "以前常常",
    "alternatives": [
-    "用过的"
+    "曾经"
    ],
    "reading": "yǐqián chángcháng",
    "romanization": "yǐqián chángcháng",
    "study_tier": "intermediário",
    "study_priority": 2483,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "过去经常做，现在不做了。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000151",
@@ -5168,7 +5206,9 @@
    "romanization": "gèng hǎo",
    "study_tier": "herdado",
    "study_priority": 2486,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "质量更高（“好”的比较级）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000162",
@@ -5258,7 +5298,12 @@
    ],
    "study_tier": "cedo",
    "study_priority": 989,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "离地面很远；很高。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000450"
+   ]
   },
   {
    "id": "zh:en:000000165",
@@ -5322,7 +5367,13 @@
    ],
    "study_tier": "cedo",
    "study_priority": 990,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "存在或活了很长时间。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000063",
+    "en:000000351"
+   ]
   },
   {
    "id": "zh:en:000000167",
@@ -5431,7 +5482,9 @@
    "romanization": "zìjǐ de",
    "study_tier": "cedo",
    "study_priority": 993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "属于自己的（如“我自己的房间”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000172",
@@ -5537,7 +5590,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2489,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“I have”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000176",
@@ -5565,7 +5620,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 66,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物品；某种东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000177",
@@ -5661,7 +5718,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 69,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某个特定的地点。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000180",
@@ -5818,7 +5877,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 999,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用在男士姓名前的称呼（如史密斯先生）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000185",
@@ -5882,7 +5943,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2490,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "反对；也指靠着某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000187",
@@ -5894,13 +5957,17 @@
    "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "没（做）",
-   "alternatives": [],
+   "text": "没",
+   "alternatives": [
+    "没有"
+   ],
    "reading": "méi",
    "romanization": "méi",
    "study_tier": "herdado",
    "study_priority": 2491,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“did not”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000188",
@@ -5959,7 +6026,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2492,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“find”（找到）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000190",
@@ -6052,7 +6121,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 73,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "体积或尺寸大。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000281"
+   ]
   },
   {
    "id": "zh:en:000000193",
@@ -6151,7 +6225,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一起比赛或工作的一群人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000196",
@@ -6418,7 +6494,9 @@
     }
    ],
    "study_priority": 100203,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "不花钱；也指不受控制，自由。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000204",
@@ -6627,7 +6705,9 @@
    "reading": "hěn duō",
    "romanization": "hěn duō",
    "study_priority": 100211,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“a lot”表示很大的数量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000212",
@@ -6652,7 +6732,9 @@
     }
    ],
    "study_priority": 100212,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来称呼人或事物的词。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000213",
@@ -6841,7 +6923,9 @@
    "reading": "tā shì",
    "romanization": "tā shì",
    "study_priority": 100219,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“he is”或“he has”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000220",
@@ -6868,7 +6952,9 @@
     }
    ],
    "study_priority": 100220,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "允许；“let's”表示提议“咱们……”。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000221",
@@ -6887,7 +6973,9 @@
    "reading": "zhēn de",
    "romanization": "zhēn de",
    "study_priority": 100221,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "真实存在，不是假的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000223",
@@ -6947,7 +7035,9 @@
     }
    ],
    "study_priority": 100225,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把东西放在某处；布置。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000226",
@@ -6974,7 +7064,9 @@
     }
    ],
    "study_priority": 100226,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "脑子里的想法或意见。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000227",
@@ -6993,7 +7085,9 @@
    "reading": "zuòwán le",
    "romanization": "zuòwán le",
    "study_priority": 100227,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "已经完成。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000228",
@@ -7048,7 +7142,9 @@
    "reading": "Shàngdì",
    "romanization": "Shàngdì",
    "study_priority": 100230,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "受人崇拜的神；大写时指唯一的上帝。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000231",
@@ -7073,7 +7169,9 @@
     }
    ],
    "study_priority": 100231,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "治理国家的人员和机构。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000232",
@@ -7101,7 +7199,9 @@
     }
    ],
    "study_priority": 100232,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "聚在一起的几个人或几样东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000234",
@@ -7128,7 +7228,9 @@
     }
    ],
    "study_priority": 100234,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "面向大家的，不是私人的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000235",
@@ -7176,7 +7278,9 @@
    "reading": "nǚrénmen",
    "romanization": "nǚrénmen",
    "study_priority": 100236,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“woman”（女人）的不规则复数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000237",
@@ -7237,7 +7341,9 @@
     }
    ],
    "study_priority": 100238,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "觉得某事重要；照顾。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000239",
@@ -7298,7 +7404,9 @@
     }
    ],
    "study_priority": 100240,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一起运作的一套事物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000241",
@@ -7325,7 +7433,9 @@
     }
    ],
    "study_priority": 100241,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "次数（如“三次”）；也指倍数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000242",
@@ -7447,7 +7557,9 @@
     }
    ],
    "study_priority": 100245,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某种情况或例子（如“在这种情况下”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000246",
@@ -7718,7 +7830,9 @@
     }
    ],
    "study_priority": 100253,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "活着；在某地居住。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000255",
@@ -7746,7 +7860,9 @@
     }
    ],
    "study_priority": 100255,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "要点；小圆点；比赛的得分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000256",
@@ -7805,7 +7921,9 @@
     }
    ],
    "study_priority": 100257,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“there is”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000258",
@@ -7822,7 +7940,9 @@
    "reading": "gàosu le",
    "romanization": "gàosu le",
    "study_priority": 100258,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“tell”（告诉）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000259",
@@ -7886,7 +8006,12 @@
     }
    ],
    "study_priority": 100260,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "不好。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000076"
+   ]
   },
   {
    "id": "zh:en:000000261",
@@ -7898,12 +8023,16 @@
    "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "不（做）",
-   "alternatives": [],
+   "text": "不",
+   "alternatives": [
+    "不会"
+   ],
    "reading": "bù",
    "romanization": "bù",
    "study_priority": 100261,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“does not”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000262",
@@ -7963,7 +8092,9 @@
     }
    ],
    "study_priority": 100263,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "困难；也指硬，不软。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000264",
@@ -7982,7 +8113,9 @@
    "reading": "yìsi shì",
    "romanization": "yìsi shì",
    "study_priority": 100264,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "有某种意思；打算。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000265",
@@ -8099,7 +8232,9 @@
     }
    ],
    "study_priority": 100268,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把某事物算作其中一部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000269",
@@ -8188,7 +8323,9 @@
    "reading": "kànjiàn guo",
    "romanization": "kànjiàn guo",
    "study_priority": 100271,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“see”（看见）的过去分词。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000273",
@@ -8287,7 +8424,9 @@
     }
    ],
    "study_priority": 100275,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "以某地或某种想法为基础。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000276",
@@ -8405,7 +8544,9 @@
    "reading": "nánrénmen",
    "romanization": "nánrénmen",
    "study_priority": 100279,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“man”（男人）的不规则复数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000280",
@@ -8424,7 +8565,9 @@
    "reading": "guójiā de",
    "romanization": "guójiā de",
    "study_priority": 100280,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "整个国家的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000281",
@@ -8456,7 +8599,10 @@
    "study_priority": 100281,
    "description": "不大。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000192"
+   ]
   },
   {
    "id": "zh:en:000000282",
@@ -8475,7 +8621,9 @@
    "reading": "ná le",
    "romanization": "ná le",
    "study_priority": 100282,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“take”（拿，带走）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000283",
@@ -8502,7 +8650,9 @@
     }
    ],
    "study_priority": 100283,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "像雪一样的颜色。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000284",
@@ -8519,7 +8669,9 @@
    "reading": "lái le",
    "romanization": "lái le",
    "study_priority": 100284,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“come”（来）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000285",
@@ -8710,7 +8862,9 @@
    "reading": "qù le",
    "romanization": "qù le",
    "study_priority": 100290,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“go”（去）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000291",
@@ -8804,7 +8958,9 @@
    "reading": "Měiguó de",
    "romanization": "Měiguó de",
    "study_priority": 100293,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "来自美国的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000294",
@@ -9216,7 +9372,9 @@
    "romanization": "háizimen",
    "study_tier": "herdado",
    "study_priority": 2494,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“child”的复数：年幼的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000308",
@@ -9280,7 +9438,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2495,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "针对整体而不涉及细节。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000310",
@@ -9299,7 +9459,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2496,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“they are”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000314",
@@ -9327,7 +9489,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1010,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某个地方的一部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000315",
@@ -9355,7 +9519,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 80,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "最深的颜色，像夜晚。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000316",
@@ -9375,7 +9541,9 @@
    "romanization": "xiàmian de",
    "study_tier": "cedo",
    "study_priority": 1011,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "紧接着出现的（如“第二天”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000317",
@@ -9401,7 +9569,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2498,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "政府制定的规则。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000319",
@@ -9427,7 +9597,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 81,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "互相在一起。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000320",
@@ -9453,7 +9625,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1012,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国家之间的战斗。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000321",
@@ -9690,7 +9864,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2499,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "每一个（如“每小时十美元”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000328",
@@ -9718,7 +9894,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2500,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "国家或组织的领导人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000329",
@@ -9811,7 +9989,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 86,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "身体和精神的状况。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000334",
@@ -9927,7 +10107,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2502,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“mean”的第三人称单数形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000338",
@@ -10015,7 +10197,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1020,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "有能力或技能做某事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000341",
@@ -10103,7 +10287,9 @@
    "romanization": "péngyoumen",
    "study_tier": "herdado",
    "study_priority": 2503,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“friend”（朋友）的复数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000344",
@@ -10123,7 +10309,9 @@
    "romanization": "wǒ huì",
    "study_tier": "herdado",
    "study_priority": 2504,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“I will”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000345",
@@ -10149,7 +10337,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1021,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "关于某事的事实。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000346",
@@ -10169,7 +10359,9 @@
    "romanization": "běndì de",
    "study_tier": "cedo",
    "study_priority": 1022,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "附近地区的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000347",
@@ -10197,7 +10389,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 90,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "表示惊讶或明白了。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000348",
@@ -10328,7 +10522,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 93,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "不老；处于人生早期。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000166"
+   ]
   },
   {
    "id": "zh:en:000000352",
@@ -10356,7 +10555,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 94,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "在现在之前（如“两天前”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000353",
@@ -10411,7 +10612,9 @@
    "romanization": "shèhuì de",
    "study_tier": "intermediário",
    "study_priority": 2505,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "与人们共同生活有关；爱交际的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000355",
@@ -10465,7 +10668,9 @@
    "nativeExplain": {
     "pt-BR": "tribunal"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "法官审理案件的地方；也指运动场地。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000357",
@@ -10491,7 +10696,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1025,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "真实的事情。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000358",
@@ -10511,7 +10718,9 @@
    "romanization": "gěidìng de",
    "study_tier": "tardio",
    "study_priority": 3311,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“give”的过去分词；也指已知的、既定的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000359",
@@ -10539,7 +10748,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 96,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "称呼一群人（口语）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000360",
@@ -10627,7 +10838,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2507,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“is not”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000363",
@@ -10655,7 +10868,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2508,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高度或阶段；游戏中的关卡。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000364",
@@ -10786,7 +11001,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1028,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "开始成为某种状态。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000368",
@@ -10839,7 +11056,9 @@
    "romanization": "lái le",
    "study_tier": "herdado",
    "study_priority": 2509,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“come”的进行形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000370",
@@ -10865,7 +11084,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1029,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "掌握并支配某事物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000371",
@@ -10891,7 +11112,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1030,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生命的终结。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000372",
@@ -10953,7 +11176,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 102,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男人（口语）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000375",
@@ -11128,7 +11353,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2510,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“we are”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000381",
@@ -11240,7 +11467,9 @@
    "romanization": "yǒumíng de",
    "study_tier": "herdado",
    "study_priority": 2511,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "很多人都知道的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000385",
@@ -11329,7 +11558,9 @@
    ],
    "study_tier": "intermediário",
    "study_priority": 2512,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为发现新事实而进行的仔细研究。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000388",
@@ -11424,7 +11655,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1037,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高中之后的高等教育学校。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000393",
@@ -11452,7 +11685,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 108,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "在比赛中取得第一。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000850"
+   ]
   },
   {
    "id": "zh:en:000000394",
@@ -11637,7 +11875,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1039,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事情或问题（如“没关系”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000401",
@@ -11666,7 +11906,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2514,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相当（如“挺好”）；作形容词表示漂亮。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000402",
@@ -11765,7 +12007,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2515,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一小块或一点点的量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000405",
@@ -11826,7 +12070,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2516,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用手或物体击打。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000408",
@@ -12067,7 +12313,9 @@
    "romanization": "wǒ huì",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2523,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“I would”或“I had”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000419",
@@ -12120,7 +12368,9 @@
    "romanization": "guójì de",
    "study_tier": "expansão cotidiana",
    "study_priority": 2524,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "几个国家之间的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000422",
@@ -12207,7 +12457,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2528,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某事发生的原因。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000426",
@@ -12235,7 +12487,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2529,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "预定或要求在某时完成（如“明天到期”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000427",
@@ -12301,7 +12555,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2530,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人；人类。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000431",
@@ -12540,7 +12796,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2535,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "住在同一地区或有共同兴趣的人群。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000438",
@@ -12566,7 +12824,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2536,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事实和数字，常存放在电脑里。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000439",
@@ -12701,7 +12961,9 @@
    "romanization": "kànjiàn le",
    "study_tier": "expansão cotidiana",
    "study_priority": 2538,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“see”（看见）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000443",
@@ -12721,7 +12983,9 @@
    "romanization": "tèbié de",
    "study_tier": "expansão cotidiana",
    "study_priority": 2539,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "与平常不同；重要。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000444",
@@ -12777,7 +13041,9 @@
    "romanization": "bú huì",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2540,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“will not”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000446",
@@ -12852,7 +13118,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2543,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "现在之后的时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000449",
@@ -12914,7 +13182,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2545,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "离地面近；不高。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000164"
+   ]
   },
   {
    "id": "zh:en:000000451",
@@ -13042,7 +13315,12 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2548,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "不长；也指个子矮。",
+   "novrev_status": "reviewed",
+   "antonyms": [
+    "en:000000144"
+   ]
   },
   {
    "id": "zh:en:000000455",
@@ -13089,15 +13367,17 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "被拿走的",
+   "text": "拿了",
    "alternatives": [
-    "拿了"
+    "被拿走了"
    ],
-   "reading": "bèi ná zǒu de",
-   "romanization": "bèi ná zǒu de",
+   "reading": "ná le",
+   "romanization": "ná le",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2549,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“take”（拿）的过去分词。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000457",
@@ -13197,7 +13477,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2550,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "协议，交易；“a big deal”指大事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000460",
@@ -13225,7 +13507,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2551,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相当（如“相当冷”）；也有“宁可”的意思。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000461",
@@ -13288,7 +13572,9 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 135,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "像血一样的颜色。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000463",
@@ -13537,7 +13823,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2559,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "随时间的增长或改进。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000471",
@@ -13592,7 +13880,9 @@
    "romanization": "gèng yuǎn",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2561,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "更多；更远的距离。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000473",
@@ -13653,7 +13943,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2563,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“minute”（分钟）的复数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000475",
@@ -13733,7 +14025,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2567,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "做事；在戏剧中表演。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000479",
@@ -13832,7 +14126,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2570,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "燃烧产生的火焰和热量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000483",
@@ -13914,7 +14210,9 @@
    "romanization": "zhǔyào de",
    "study_tier": "expansão cotidiana",
    "study_priority": 2573,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "非常重要或规模很大。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000486",
@@ -13940,7 +14238,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2574,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "电视、报纸和网络的统称。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000487",
@@ -14132,7 +14432,9 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2578,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“going to”的口语形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000494",
@@ -14249,7 +14551,9 @@
    "romanization": "zhèngzhì de",
    "study_tier": "expansão cotidiana",
    "study_priority": 2581,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "与政府和政治有关的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000499",
@@ -14384,7 +14688,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1041,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“according to”表示据某人所说。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000505",
@@ -14404,7 +14710,9 @@
    "romanization": "kěyòng de",
    "study_tier": "cedo",
    "study_priority": 1042,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "可以使用，或有空帮忙。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000506",
@@ -14430,7 +14738,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1043,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "教与学，尤其指学校里的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000507",
@@ -14450,7 +14760,9 @@
    "romanization": "zuìhòu de",
    "study_tier": "cedo",
    "study_priority": 1044,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "最后的；在末尾的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000508",
@@ -14470,7 +14782,9 @@
    "romanization": "yǐqián de",
    "study_tier": "cedo",
    "study_priority": 1045,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "以前的；曾经是的（如“前任老师”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000509",
@@ -14528,7 +14842,9 @@
    "romanization": "háizimen",
    "study_tier": "inicial",
    "study_priority": 145,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“kid”的复数；口语中指孩子。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000511",
@@ -14556,7 +14872,9 @@
    ],
    "study_tier": "inicial",
    "study_priority": 146,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一项一项竖着写下来的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000512",
@@ -14574,7 +14892,9 @@
    "romanization": "zhǔnbèi hǎo le",
    "study_tier": "inicial",
    "study_priority": 147,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "已经准备好。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000513",
@@ -14684,16 +15004,18 @@
    "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "不是（过去）",
+   "text": "不是",
    "alternatives": [
-    "没有"
+    "并不是"
    ],
    "reading": "bú shì",
    "romanization": "bú shì",
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2584,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“was not”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000517",
@@ -14748,7 +15070,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1046,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "高中之后继续学习的学校。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000519",
@@ -14768,7 +15092,9 @@
    "romanization": "xiànzài de",
    "study_tier": "cedo",
    "study_priority": 1047,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "现在正发生的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000520",
@@ -14829,7 +15155,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1048,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "从实践中得来的知识；亲身经历的事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000522",
@@ -14848,7 +15176,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2585,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“hear”（听到）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000524",
@@ -14911,7 +15241,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1049,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "电视节目或电脑程序。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000526",
@@ -15100,7 +15432,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1052,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "完成某事的一系列步骤。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000532",
@@ -15119,7 +15453,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2586,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“she is”或“she has”的缩略形式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000533",
@@ -15282,7 +15618,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1054,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "所做的事；电影中的动作场面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000538",
@@ -15336,7 +15674,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2587,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“give”（给）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000541",
@@ -15464,7 +15804,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1057,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "自己；自身。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000547",
@@ -15602,7 +15944,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "医生的称呼（如西尔瓦医生）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000551",
@@ -15659,7 +16003,9 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2589,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“hold”（拿着）的过去式。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000553",
@@ -15917,7 +16263,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1065,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "活动的力量；电力或燃料。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000565",
@@ -15948,7 +16296,9 @@
    "nativeExplain": {
     "pt-BR": "brigar (fisicamente) vs discutir"
    },
-   "user_hint": ""
+   "user_hint": "",
+   "description": "想伤害别人；争吵。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000566",
@@ -16012,7 +16362,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1067,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来推或拉的力量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000568",
@@ -16075,7 +16427,9 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1068,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人们讨论的问题或议题。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000572",
@@ -22769,7 +23123,10 @@
    "study_priority": 269,
    "description": "不再拥有某物；也指输掉。",
    "novrev_status": "reviewed",
-   "user_hint": ""
+   "user_hint": "",
+   "antonyms": [
+    "en:000000393"
+   ]
   },
   {
    "id": "zh:en:000000852",
@@ -70201,7 +70558,9 @@
     "pt-BR": "demais idiomas apontam \"desafiador/difícil\""
    },
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "难度大，能考验人的能力。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000312",
@@ -70218,7 +70577,9 @@
    "study_tier": "pendente",
    "study_priority": 3307,
    "part_of_speech": "adj",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为了同一目标团结成一个整体。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000374",
@@ -70271,7 +70632,9 @@
    "study_tier": "inicial",
    "study_priority": 162,
    "part_of_speech": "n",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "在学校或大学里学习的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000558",
