@@ -9112,7 +9112,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 82
+   "study_priority": 82,
+   "description": "有四个轮子和发动机的车辆。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000323",
@@ -9196,12 +9198,12 @@
     "feelings"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "种",
+   "text": "种类",
    "alternatives": [
-    "种类"
+    "种"
    ],
-   "reading": "zhǒng",
-   "romanization": "zhǒng",
+   "reading": "zhǒnglèi",
+   "romanization": "zhǒnglèi",
    "classifications": [
     {
      "system": "HSK",
@@ -9211,7 +9213,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1014
+   "study_priority": 1014,
+   "description": "类别，种类（“什么类型的音乐”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000326",
@@ -9362,7 +9366,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1016
+   "study_priority": 1016,
+   "description": "围绕某个主题的一系列课程。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000333",
@@ -9450,7 +9456,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 87
+   "study_priority": 87,
+   "description": "价值或意义很大。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000336",
@@ -9474,7 +9482,9 @@
    "reading": "zuì shǎo",
    "romanization": "zuì shǎo",
    "study_tier": "intermediário",
-   "study_priority": 2501
+   "study_priority": 2501,
+   "description": "最少的数量；“至少”表示不低于。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000337",
@@ -9524,7 +9534,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1018
+   "study_priority": 1018,
+   "description": "有关最近发生的事的消息。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000339",
@@ -9605,7 +9617,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 88
+   "study_priority": 88,
+   "description": "装订成册、供阅读的有文字的纸页。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000342",
@@ -9778,7 +9792,9 @@
    "study_priority": 1023,
    "nativeExplain": {
     "pt-BR": "postar (publicar on-line)"
-   }
+   },
+   "description": "在网上发布；邮寄。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000349",
@@ -9929,7 +9945,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1024
+   "study_priority": 1024,
+   "description": "其他的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000354",
@@ -9970,7 +9988,9 @@
    "reading": "shuōhuà",
    "romanization": "shuōhuà",
    "study_tier": "inicial",
-   "study_priority": 95
+   "study_priority": 95,
+   "description": "和某人说话交谈。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000356",
@@ -10101,7 +10121,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1026
+   "study_priority": 1026,
+   "description": "平分成两份中的一份。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000361",
@@ -10211,7 +10233,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1027
+   "study_priority": 1027,
+   "description": "负责思考的那部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000365",
@@ -10272,7 +10296,9 @@
    "reading": "dān gè",
    "romanization": "dān gè",
    "study_tier": "inicial",
-   "study_priority": 99
+   "study_priority": 99,
+   "description": "仅有一个；也指未婚。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000367",
@@ -10329,7 +10355,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 100
+   "study_priority": 100,
+   "description": "人整个身体。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000369",
@@ -10415,10 +10443,13 @@
     "food"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "吃的",
-   "alternatives": [],
-   "reading": "chīde",
-   "romanization": "chīde",
+   "text": "食物",
+   "alternatives": [
+    "吃的",
+    "食品"
+   ],
+   "reading": "shíwù",
+   "romanization": "shíwù",
    "classifications": [
     {
      "system": "HSK",
@@ -10428,7 +10459,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 101
+   "study_priority": 101,
+   "description": "人们吃的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000373",
@@ -10580,7 +10613,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1032
+   "study_priority": 1032,
+   "description": "和北相反的方向。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000379",
@@ -10755,7 +10790,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 106
+   "study_priority": 106,
+   "description": "体积大。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000386",
@@ -10772,17 +10809,19 @@
     "household_problems"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "迷路的",
+   "text": "迷路",
    "alternatives": [
-    "丢了的"
+    "丢失"
    ],
-   "reading": "mílù de",
-   "romanization": "mílù de",
+   "reading": "mílù",
+   "romanization": "mílù",
    "study_tier": "cedo",
    "study_priority": 1035,
    "nativeExplain": {
     "pt-BR": "perdido: (a) sem saber o caminho"
-   }
+   },
+   "description": "找不到路；也指丢了。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000387",
@@ -10871,7 +10910,9 @@
    "reading": "jǐ ge",
    "romanization": "jǐ ge",
    "study_tier": "cedo",
-   "study_priority": 1036
+   "study_priority": 1036,
+   "description": "多于两个但不算很多。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000392",
@@ -11044,7 +11085,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 111
+   "study_priority": 111,
+   "description": "另外的（“别的人”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000398",
@@ -11068,7 +11111,9 @@
    "reading": "nǚhái",
    "romanization": "nǚhái",
    "study_tier": "inicial",
-   "study_priority": 112
+   "study_priority": 112,
+   "description": "年幼的女性。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000400",
@@ -11155,7 +11200,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 113
+   "study_priority": 113,
+   "description": "把某事记在脑子里。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000403",
@@ -11185,7 +11232,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 114
+   "study_priority": 114,
+   "description": "我们呼吸的东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000404",
@@ -11242,7 +11291,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 115
+   "study_priority": 115,
+   "description": "你喜欢并且很了解的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000406",
@@ -11301,7 +11352,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 116
+   "study_priority": 116,
+   "description": "令人愉快的；和善的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000410",
@@ -11406,7 +11459,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 118
+   "study_priority": 118,
+   "description": "口语里的“是”。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000415",
@@ -11528,7 +11583,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 121
+   "study_priority": 121,
+   "description": "脑子里的想法或计划。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000420",
@@ -11575,7 +11632,9 @@
     }
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2526
+   "study_priority": 2526,
+   "description": "现在之前的时间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000423",
@@ -11597,7 +11656,9 @@
    "reading": "kěnéng de",
    "romanization": "kěnéng de",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 122
+   "study_priority": 122,
+   "description": "有可能发生或做到。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000425",
@@ -11681,7 +11742,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 123
+   "study_priority": 123,
+   "description": "心情好，感到满意。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000428",
@@ -11740,7 +11803,9 @@
     }
    ],
    "study_tier": "após reconciliar o sentido",
-   "study_priority": 2533
+   "study_priority": 2533,
+   "description": "改变位置；搬到别处居住。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000432",
@@ -11805,7 +11870,9 @@
     }
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2534
+   "study_priority": 2534,
+   "description": "一个接一个出现的一套节目或书。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000434",
@@ -11872,7 +11939,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 126
+   "study_priority": 126,
+   "description": "成年的女性。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000436",
@@ -11904,7 +11973,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 127
+   "study_priority": 127,
+   "description": "为了得到回答或帮助而开口。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000437",
@@ -12057,7 +12128,9 @@
     }
    ],
    "study_tier": "expansão cotidiana",
-   "study_priority": 2537
+   "study_priority": 2537,
+   "description": "地图上方的方向。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000442",
@@ -12301,7 +12374,9 @@
    "reading": "bǎiwàn",
    "romanization": "bǎiwàn",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2546
+   "study_priority": 2546,
+   "description": "数字1,000,000。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000452",
@@ -12430,7 +12505,9 @@
     }
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 132
+   "study_priority": 132,
+   "description": "留在某个地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000456",
@@ -23129,7 +23206,9 @@
    "study_priority": 1124,
    "nativeExplain": {
     "pt-BR": "passar (por um lugar) vs passar (prova) vs passar (entregar)"
-   }
+   },
+   "description": "经过；考试及格；递东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000922",
@@ -23278,7 +23357,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 298
+   "study_priority": 298,
+   "description": "数字10。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000929",
@@ -23437,7 +23518,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 301
+   "study_priority": 301,
+   "description": "一小片厚纸（生日卡片、扑克牌等）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000935",
@@ -23670,7 +23753,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 304
+   "study_priority": 304,
+   "description": "不弯曲。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000949",
@@ -23733,7 +23818,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 306
+   "study_priority": 306,
+   "description": "房间或建筑的侧面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000951",
@@ -23946,7 +24033,9 @@
    "reading": "jǐngguān",
    "romanization": "jǐngguān",
    "study_tier": "cedo",
-   "study_priority": 1138
+   "study_priority": 1138,
+   "description": "警察；有职权的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000965",
@@ -24454,7 +24543,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 314
+   "study_priority": 314,
+   "description": "数字8。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000985",
@@ -24517,7 +24608,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 315
+   "study_priority": 315,
+   "description": "脸上用来看东西的器官。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000987",
@@ -24550,7 +24643,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 316
+   "study_priority": 316,
+   "description": "让人发笑。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000989",
@@ -24724,7 +24819,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 318
+   "study_priority": 318,
+   "description": "卖东西的地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000999",
@@ -24755,7 +24852,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 319
+   "study_priority": 319,
+   "description": "学习的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001000",
@@ -25274,7 +25373,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 323
+   "study_priority": 323,
+   "description": "四面被水包围的陆地。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001021",
@@ -25771,7 +25872,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "穿过",
    "alternatives": [
-    "过（马路）"
+    "过马路"
    ],
    "reading": "chuānguò",
    "romanization": "chuānguò",
@@ -25784,7 +25885,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 328
+   "study_priority": 328,
+   "description": "从一边走到另一边。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001042",
@@ -25898,7 +26001,9 @@
    "reading": "hāi",
    "romanization": "hāi",
    "study_tier": "inicial",
-   "study_priority": 329
+   "study_priority": 329,
+   "description": "随意的打招呼用语。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001047",
@@ -26091,7 +26196,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 333
+   "study_priority": 333,
+   "description": "发给某人的信息。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001056",
@@ -26454,7 +26561,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 336
+   "study_priority": 336,
+   "description": "让东西掉下去。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001070",
@@ -26497,14 +26606,16 @@
     "body_health"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "脚（复数）",
+   "text": "脚",
    "alternatives": [
     "双脚"
    ],
    "reading": "jiǎo",
    "romanization": "jiǎo",
    "study_tier": "herdado",
-   "study_priority": 2751
+   "study_priority": 2751,
+   "description": "脚的复数，指不止一只脚。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001073",
@@ -26602,7 +26713,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1186
+   "study_priority": 1186,
+   "description": "出售商品；价格较低的促销期。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001077",
@@ -26803,7 +26916,9 @@
    "romanization": "gèng zǎo",
    "core_status": "retired",
    "study_tier": "herdado",
-   "study_priority": 2752
+   "study_priority": 2752,
+   "description": "更早；也指刚才、先前。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001085",
@@ -26860,7 +26975,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1193
+   "study_priority": 1193,
+   "description": "马上，一点也不拖延。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001090",
@@ -26891,7 +27008,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 339
+   "study_priority": 339,
+   "description": "六十秒。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001091",
@@ -27210,7 +27329,9 @@
    "reading": "yì jí",
    "romanization": "yì jí",
    "study_tier": "cedo",
-   "study_priority": 1197
+   "study_priority": 1197,
+   "description": "电视剧集中的一集。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001105",
@@ -27544,7 +27665,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 347
+   "study_priority": 347,
+   "description": "给我们光和热的恒星。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001122",
@@ -28153,7 +28276,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 354
+   "study_priority": 354,
+   "description": "大小合适。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001152",
@@ -28295,7 +28420,9 @@
    "reading": "gǎn xìngqù de",
    "romanization": "gǎn xìngqù de",
    "study_tier": "cedo",
-   "study_priority": 1220
+   "study_priority": 1220,
+   "description": "想进一步了解某事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001159",
@@ -29253,12 +29380,12 @@
     "school_learning"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "体育",
+   "text": "运动",
    "alternatives": [
-    "运动"
+    "体育"
    ],
-   "reading": "tǐyù",
-   "romanization": "tǐyù",
+   "reading": "yùndòng",
+   "romanization": "yùndòng",
    "classifications": [
     {
      "system": "HSK",
@@ -29268,7 +29395,9 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 2774
+   "study_priority": 2774,
+   "description": "像足球、网球这样的体育项目。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001203",
@@ -29496,7 +29625,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 362
+   "study_priority": 362,
+   "description": "随着音乐摆动身体。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001213",
@@ -41583,7 +41714,9 @@
    "reading": "mǒu ge dìfang",
    "romanization": "mǒu ge dìfang",
    "study_tier": "inicial",
-   "study_priority": 480
+   "study_priority": 480,
+   "description": "在不确定是哪里的某个地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001844",
@@ -43409,7 +43542,9 @@
    "reading": "rènhé dìfang",
    "romanization": "rènhé dìfang",
    "study_tier": "cedo",
-   "study_priority": 1534
+   "study_priority": 1534,
+   "description": "任何地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000001948",
@@ -47189,7 +47324,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1607
+   "study_priority": 1607,
+   "description": "在所有的地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002166",
@@ -48040,7 +48177,9 @@
    "reading": "xiāngděng de",
    "romanization": "xiāngděng de",
    "study_tier": "cedo",
-   "study_priority": 1626
+   "study_priority": 1626,
+   "description": "大小、数量或价值相同。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002212",
@@ -48556,7 +48695,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1637
+   "study_priority": 1637,
+   "description": "大约，不是精确的数。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002243",
@@ -51033,7 +51174,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 566
+   "study_priority": 566,
+   "description": "一天中的第一顿饭。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002388",
@@ -51175,7 +51318,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 568
+   "study_priority": 568,
+   "description": "在商店购买东西的人。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002397",
@@ -51617,7 +51762,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 569
+   "study_priority": 569,
+   "description": "用来乘车或进入活动场所的凭证。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002430",
@@ -52255,7 +52402,9 @@
    "study_priority": 3578,
    "nativeExplain": {
     "pt-BR": "interruptor (subst.) vs trocar (verbo)"
-   }
+   },
+   "description": "用来接通或切断电源的开关。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002466",
@@ -52690,7 +52839,9 @@
    "reading": "sònghuò",
    "romanization": "sònghuò",
    "study_tier": "cedo",
-   "study_priority": 1723
+   "study_priority": 1723,
+   "description": "把货物送到某人家里。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002490",
@@ -53893,7 +54044,9 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 3000
+   "study_priority": 3000,
+   "description": "嘴里用来咀嚼的硬质结构（复数）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002564",
@@ -54085,7 +54238,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 587
+   "study_priority": 587,
+   "description": "口细、用来装饮料的容器。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002575",
@@ -54931,7 +55086,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 594
+   "study_priority": 594,
+   "description": "贴得很紧，没有空隙。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002611",
@@ -55474,7 +55631,9 @@
     }
    ],
    "study_tier": "pendente",
-   "study_priority": 3598
+   "study_priority": 3598,
+   "description": "为解释错误而给出的理由。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002638",
@@ -56446,7 +56605,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 600
+   "study_priority": 600,
+   "description": "不干净。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002688",
@@ -58017,7 +58178,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 613
+   "study_priority": 613,
+   "description": "沾满了水。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000002773",
