@@ -131,9 +131,9 @@
   {
    "id": "en:000000542",
    "en": "month",
-   "ja": "一か月",
-   "reading": "いっかげつ",
-   "pykakasi": "いちかがつ"
+   "ja": "月",
+   "reading": "つき",
+   "pykakasi": "がつ"
   },
   {
    "id": "en:000000718",
@@ -476,6 +476,20 @@
    "pypinyin": "shuí"
   },
   {
+   "id": "en:000000052",
+   "en": "had",
+   "zh": "有过",
+   "pinyin": "yǒuguo",
+   "pypinyin": "yǒuguò"
+  },
+  {
+   "id": "en:000000060",
+   "en": "been",
+   "zh": "去过",
+   "pinyin": "qùguo",
+   "pypinyin": "qùguò"
+  },
+  {
    "id": "en:000000067",
    "en": "some",
    "zh": "一些",
@@ -499,9 +513,9 @@
   {
    "id": "en:000000146",
    "en": "something",
-   "zh": "某个东西",
-   "pinyin": "mǒu ge dōngxi",
-   "pypinyin": "mǒugèdōngxī"
+   "zh": "某样东西",
+   "pinyin": "mǒu yàng dōngxi",
+   "pypinyin": "mǒuyàngdōngxī"
   },
   {
    "id": "en:000000149",
@@ -600,13 +614,6 @@
    "zh": "任何东西",
    "pinyin": "rènhé dōngxi",
    "pypinyin": "rènhédōngxī"
-  },
-  {
-   "id": "en:000000246",
-   "en": "nothing",
-   "zh": "没有东西",
-   "pinyin": "méiyǒu dōngxi",
-   "pypinyin": "méiyǒudōngxī"
   },
   {
    "id": "en:000000251",
@@ -875,13 +882,6 @@
    "pypinyin": "dōngxī"
   },
   {
-   "id": "en:000000751",
-   "en": "picture",
-   "zh": "照片",
-   "pinyin": "zhàopiàn",
-   "pypinyin": "zhàopiān"
-  },
-  {
    "id": "en:000000763",
    "en": "mom",
    "zh": "妈妈",
@@ -1129,7 +1129,7 @@
   {
    "id": "en:000001478",
    "en": "whom",
-   "zh": "谁（宾语）",
+   "zh": "谁",
    "pinyin": "shéi",
    "pypinyin": "shuí"
   },
@@ -1157,7 +1157,7 @@
   {
    "id": "en:000001555",
    "en": "arms",
-   "zh": "胳膊（复数）",
+   "zh": "胳膊",
    "pinyin": "gēbo",
    "pypinyin": "gēbó"
   },
@@ -1353,9 +1353,9 @@
   {
    "id": "en:000002093",
    "en": "stuck",
-   "zh": "卡住了",
-   "pinyin": "qiǎzhù le",
-   "pypinyin": "kǎzhùle"
+   "zh": "卡住",
+   "pinyin": "qiǎzhù",
+   "pypinyin": "kǎzhù"
   },
   {
    "id": "en:000002098",
