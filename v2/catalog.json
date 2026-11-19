@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -56,7 +56,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3042,
       "has_ui": false,
       "flag": "🇵🇹",
@@ -68,7 +68,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-PT-core-v2.json",
       "sha256": "1ff01bb43aebeb345b30c7f1c31cdf1ca45e204a40a5c8a3131e6aff126cea3a",
       "version": "1.1.1",
-      "size_bytes": 1180173
+      "size_bytes": 1180173,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "ja-core-v2",
@@ -100,7 +101,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3035,
       "has_ui": true,
       "flag": "🇪🇸",
@@ -112,7 +113,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/es-core-v2.json",
       "sha256": "3b95768e4f5d013f1a3ac53814942a2b8b06d4192c3ed8cef7c03c176fe21bf7",
       "version": "1.1.1",
-      "size_bytes": 1210768
+      "size_bytes": 1210768,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "fr-core-v2",
@@ -122,7 +124,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3042,
       "has_ui": true,
       "flag": "🇫🇷",
@@ -134,7 +136,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/fr-core-v2.json",
       "sha256": "c5aef5f112b295940d68679a26a994f758b4c0b5fdd834c00b272b0712c97b3f",
       "version": "1.1.1",
-      "size_bytes": 1199372
+      "size_bytes": 1199372,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "it-core-v2",
@@ -144,7 +147,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3021,
       "has_ui": true,
       "flag": "🇮🇹",
@@ -156,7 +159,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/it-core-v2.json",
       "sha256": "ab1cdb1d8b577b9490893276ccf10f9e113eb90bde60928bbe33b69de31bc957",
       "version": "1.1.1",
-      "size_bytes": 1193232
+      "size_bytes": 1193232,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "de-core-v2",
@@ -166,7 +170,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3040,
       "has_ui": true,
       "flag": "🇩🇪",
@@ -178,7 +182,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/de-core-v2.json",
       "sha256": "500566a998d3b2c43dcfc6858ce939ad0c7b01f555488f73030f54d5188af94e",
       "version": "1.1.1",
-      "size_bytes": 1211110
+      "size_bytes": 1211110,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "zh-core-v2",
@@ -210,7 +215,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 2997,
       "has_ui": true,
       "flag": "🇰🇷",
@@ -222,7 +227,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ko-core-v2.json",
       "sha256": "d2e17975eaaab5e530a7e1507a5b7fbe026b13bf76cb6a52d0a6bdde7475c3b8",
       "version": "1.1.1",
-      "size_bytes": 1212800
+      "size_bytes": 1212800,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "ru-core-v2",
@@ -232,7 +238,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3032,
       "has_ui": true,
       "flag": "🇷🇺",
@@ -244,7 +250,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ru-core-v2.json",
       "sha256": "98277df3278cec4f8e212e4666db9b4c8fab381974bdb878c429afb9fc01f614",
       "version": "1.1.1",
-      "size_bytes": 1336317
+      "size_bytes": 1336317,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "ar-core-v2",
@@ -254,7 +261,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 2949,
       "has_ui": true,
       "flag": "🇸🇦",
@@ -266,7 +273,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ar-core-v2.json",
       "sha256": "ca0744809dd007f878f2a8dbc412cab5158b581752a91256ef33edc7464605c1",
       "version": "1.1.1",
-      "size_bytes": 1245322
+      "size_bytes": 1245322,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "hi-core-v2",
@@ -276,7 +284,7 @@
       "role": "core",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 3009,
       "has_ui": true,
       "flag": "🇮🇳",
@@ -288,7 +296,8 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/hi-core-v2.json",
       "sha256": "badf13b5f078c65167db03e5f937022f2d4f6ff4aa691d6f185381846a715c61",
       "version": "1.1.1",
-      "size_bytes": 1271220
+      "size_bytes": 1271220,
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "en-US-NY-slang-v2",
@@ -298,7 +307,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -309,7 +318,8 @@
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-NY-slang-v2.json",
       "sha256": "c60e9dc20b31673440de7dacc6b99e4a79b345fd7a51e411d0ff4aa6d74a33d2",
-      "version": "1.1.1"
+      "version": "1.1.1",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "en-US-CA-slang-v2",
@@ -319,7 +329,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -330,7 +340,8 @@
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-CA-slang-v2.json",
       "sha256": "234586809c42786271d719d810a3e5b6ffab22a3ad15921ff6f4ff96ac61a4a9",
-      "version": "1.1.1"
+      "version": "1.1.1",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "en-US-TX-slang-v2",
@@ -340,7 +351,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -351,7 +362,8 @@
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-TX-slang-v2.json",
       "sha256": "063d7c52aa7715b6db93099f6fd0bc5b717f8491d9ffde60bc1fa680aa362291",
-      "version": "1.1.1"
+      "version": "1.1.1",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "en-GB-slang-v2",
@@ -361,7 +373,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 50,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -372,7 +384,8 @@
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-GB-slang-v2.json",
       "sha256": "1c5812da227f869d3255a8df11c65a42cfa7974567470bea7b1160b5e1f5221a",
-      "version": "1.1.1"
+      "version": "1.1.1",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "im-font-ja-klee",
@@ -433,7 +446,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 178,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -447,7 +460,8 @@
       "size_bytes": 117101,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "construction_site"
+      "domain": "construction_site",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-construction-companion",
@@ -482,7 +496,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 301,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -496,7 +510,8 @@
       "size_bytes": 182305,
       "version": "1.1.0",
       "vcu_family": "VCU100",
-      "domain": "business_finance"
+      "domain": "business_finance",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-business-companion",
@@ -531,7 +546,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 170,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -545,7 +560,8 @@
       "size_bytes": 101167,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "healthcare_nursing"
+      "domain": "healthcare_nursing",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-healthcare-companion",
@@ -580,7 +596,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 180,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -594,7 +610,8 @@
       "size_bytes": 113920,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "architecture_interiors"
+      "domain": "architecture_interiors",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-architecture-companion",
@@ -629,7 +646,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 179,
       "has_ui": false,
       "flag": "🇯🇵",
@@ -643,7 +660,8 @@
       "size_bytes": 101686,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "factory_workplace"
+      "domain": "factory_workplace",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-factory-companion",
@@ -678,7 +696,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 175,
       "has_ui": false,
       "flag": "🇯🇵",
@@ -692,7 +710,8 @@
       "size_bytes": 100713,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "japan_tourism"
+      "domain": "japan_tourism",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-ja-tourism-companion",
@@ -727,7 +746,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 176,
       "has_ui": false,
       "flag": "🇧🇷",
@@ -741,7 +760,8 @@
       "size_bytes": 98047,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "brazil_tourism"
+      "domain": "brazil_tourism",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-en-us-brazil-tourism-companion",
@@ -776,7 +796,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 175,
       "has_ui": false,
       "flag": "🌎",
@@ -790,7 +810,8 @@
       "size_bytes": 88538,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "south_america_adventure"
+      "domain": "south_america_adventure",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-es-adventure-companion",
@@ -825,7 +846,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 168,
       "has_ui": false,
       "flag": "🇨🇳",
@@ -839,7 +860,8 @@
       "size_bytes": 99764,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "china_tourism_sourcing"
+      "domain": "china_tourism_sourcing",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-zh-sourcing-companion",
@@ -874,7 +896,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 172,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -888,7 +910,8 @@
       "size_bytes": 87156,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "south_america_adventure"
+      "domain": "south_america_adventure",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-en-us-blues-culture",
@@ -898,7 +921,7 @@
       "role": "specialized",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": true,
+      "available": false,
       "entry_count": 221,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -912,7 +935,8 @@
       "size_bytes": 126813,
       "version": "1.0.0",
       "vcu_family": "VCU100",
-      "domain": "blues_music_culture"
+      "domain": "blues_music_culture",
+      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
     },
     {
       "id": "vcu100-pt-br-blues-companion",
@@ -991,6 +1015,7 @@
     "Business US v1.1.0: 301 aligned entries, append-only IDs 157–301. Android QA pending.",
     "Blues Music & Culture 221 EN-US entries and PT-BR equivalents; cultural/music terminology rather than strictly region-specific slang. Android QA required.",
     "1.2.0: en/pt-BR/ja/zh core 2.2.0 — BASE4 review integrated; previous 2.1.1 files in v2/previous/ for rollback.",
-    "1.2.1: core 2.2.1 — REG37 part-of-speech and Japanese register forms (MULTILANG #37)."
+    "1.2.1: core 2.2.1 — REG37 part-of-speech and Japanese register forms (MULTILANG #37).",
+    "1.3.0 (19/11/2026): NOVREV — somente en, pt-BR, ja e zh core ficam publicados; os demais pacotes monolíngues foram despublicados (arquivos preservados) e só voltam após passar pela NOVREV."
   ]
 }
