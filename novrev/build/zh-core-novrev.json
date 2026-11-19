@@ -191,7 +191,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 4
+   "study_priority": 4,
+   "description": "“be”的现在形式，和 he、she、it 连用。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000007",
@@ -223,7 +225,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 918
+   "study_priority": 918,
+   "description": "为了某人或某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000008",
@@ -354,7 +358,9 @@
    "reading": "zài…shàng",
    "romanization": "zài…shàng",
    "study_tier": "expansão estruturante",
-   "study_priority": 920
+   "study_priority": 920,
+   "description": "接触在某物的上面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000012",
@@ -442,17 +448,19 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "是（过去）",
+   "text": "曾经是",
    "alternatives": [
-    "曾经是"
+    "是"
    ],
-   "reading": "shì",
-   "romanization": "shì",
+   "reading": "céngjīng shì",
+   "romanization": "céngjīng shì",
    "study_tier": "praticar com lema",
    "study_priority": 2463,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi"
-   }
+   },
+   "description": "“be”的过去形式（was）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000015",
@@ -484,7 +492,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 8
+   "study_priority": 8,
+   "description": "把主语和说明或身份联系起来。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000016",
@@ -547,7 +557,9 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2464
+   "study_priority": 2464,
+   "description": "“be”的现在形式，和 you、we、they 连用。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000018",
@@ -578,7 +590,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 9
+   "study_priority": 9,
+   "description": "拥有某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000019",
@@ -1335,7 +1349,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 937
+   "study_priority": 937,
+   "description": "朝更高的地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000043",
@@ -2200,7 +2216,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 950
+   "study_priority": 950,
+   "description": "和已经提到的不同的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000072",
@@ -2243,7 +2261,9 @@
    "reading": "tā de",
    "romanization": "tā de",
    "study_tier": "expansão estruturante",
-   "study_priority": 951
+   "study_priority": 951,
+   "description": "属于它的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000074",
@@ -2266,7 +2286,9 @@
    "reading": "wǒmen de",
    "romanization": "wǒmen de",
    "study_tier": "expansão estruturante",
-   "study_priority": 952
+   "study_priority": 952,
+   "description": "属于我们的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000075",
@@ -2359,7 +2381,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 954
+   "study_priority": 954,
+   "description": "仅此而已，没有别的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000078",
@@ -2412,7 +2436,9 @@
    "reading": "dì-yī",
    "romanization": "dì-yī",
    "study_tier": "expansão estruturante",
-   "study_priority": 956
+   "study_priority": 956,
+   "description": "顺序上排在最前面的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000080",
@@ -2430,12 +2456,14 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "他（宾语）",
+   "text": "他",
    "alternatives": [],
    "reading": "tā",
    "romanization": "tā",
    "study_tier": "expansão estruturante",
-   "study_priority": 957
+   "study_priority": 957,
+   "description": "指男性，作宾语（“叫他”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000081",
@@ -2468,7 +2496,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 958
+   "study_priority": 958,
+   "description": "进入某物里面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000082",
@@ -2623,12 +2653,14 @@
    "text": "在…上方",
    "alternatives": [
     "越过",
-    "结束了"
+    "结束"
    ],
    "reading": "zài…shàngfāng",
    "romanization": "zài…shàngfāng",
    "study_tier": "expansão estruturante",
-   "study_priority": 960
+   "study_priority": 960,
+   "description": "在上方，或越过；也表示结束。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000087",
@@ -2681,7 +2713,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "任何",
    "alternatives": [
-    "一些"
+    "任何一个"
    ],
    "reading": "rènhé",
    "romanization": "rènhé",
@@ -2694,7 +2726,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 962
+   "study_priority": 962,
+   "description": "不管哪一个都可以。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000089",
@@ -2786,7 +2820,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 964
+   "study_priority": 964,
+   "description": "回到原来的地方；后面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000092",
@@ -2817,7 +2853,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 965
+   "study_priority": 965,
+   "description": "指近处的多个事物（“这个”的复数）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000093",
@@ -2835,12 +2873,14 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "我们（宾语）",
+   "text": "我们",
    "alternatives": [],
    "reading": "wǒmen",
    "romanization": "wǒmen",
    "study_tier": "expansão estruturante",
-   "study_priority": 966
+   "study_priority": 966,
+   "description": "说话人和其他人，作宾语（“帮我们”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000094",
@@ -2895,7 +2935,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 34
+   "study_priority": 34,
+   "description": "说明原因。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000096",
@@ -2930,7 +2972,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 35
+   "study_priority": 35,
+   "description": "从一个地方到另一个地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000097",
@@ -2963,7 +3007,9 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 967
+   "study_priority": 967,
+   "description": "做得好，状态好。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000098",
@@ -3039,7 +3085,9 @@
    "reading": "zuì duō",
    "romanization": "zuì duō",
    "study_tier": "expansão estruturante",
-   "study_priority": 969
+   "study_priority": 969,
+   "description": "最大的数量，比其他都多。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000101",
@@ -3120,7 +3168,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "哪里",
    "alternatives": [
-    "在哪儿"
+    "哪儿"
    ],
    "reading": "nǎlǐ",
    "romanization": "nǎlǐ",
@@ -3133,7 +3181,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 38
+   "study_priority": 38,
+   "description": "询问地点。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000104",
@@ -3166,7 +3216,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 970
+   "study_priority": 970,
+   "description": "强调出乎意料的事情。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000105",
@@ -3320,7 +3372,9 @@
    "reading": "zhēn de",
    "romanization": "zhēn de",
    "study_tier": "inicial",
-   "study_priority": 41
+   "study_priority": 41,
+   "description": "确实，真的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000110",
@@ -3378,7 +3432,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 42
+   "study_priority": 42,
+   "description": "正确，没有错。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000112",
@@ -3860,7 +3916,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 975
+   "study_priority": 975,
+   "description": "指远处的多个事物（“那个”的复数）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000129",
@@ -4074,7 +4132,9 @@
    "reading": "zuìhòu de",
    "romanization": "zuìhòu de",
    "study_tier": "cedo",
-   "study_priority": 980
+   "study_priority": 980,
+   "description": "排在最后的；最近的一次（“上周”）。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000137",
@@ -4122,7 +4182,9 @@
    "reading": "dāng…de shíhou",
    "romanization": "dāng…de shíhou",
    "study_tier": "cedo",
-   "study_priority": 981
+   "study_priority": 981,
+   "description": "在某段时间内。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000139",
@@ -4330,14 +4392,16 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "某个东西",
+   "text": "某样东西",
    "alternatives": [
-    "什么"
+    "东西"
    ],
-   "reading": "mǒu ge dōngxi",
-   "romanization": "mǒu ge dōngxi",
+   "reading": "mǒu yàng dōngxi",
+   "romanization": "mǒu yàng dōngxi",
    "study_tier": "inicial",
-   "study_priority": 57
+   "study_priority": 57,
+   "description": "没有说出名字的某个东西。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000147",
@@ -4421,7 +4485,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 59
+   "study_priority": 59,
+   "description": "没有不同。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000150",
@@ -4696,7 +4762,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 987
+   "study_priority": 987,
+   "description": "围成一圈；附近；到处。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000159",
@@ -4719,7 +4787,9 @@
    "reading": "zài…zhījiān",
    "romanization": "zài…zhījiān",
    "study_tier": "cedo",
-   "study_priority": 988
+   "study_priority": 988,
+   "description": "在两个事物之间的空间。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000160",
@@ -4888,7 +4958,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 65
+   "study_priority": 65,
+   "description": "体积或数量小。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000166",
@@ -4948,7 +5020,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 991
+   "study_priority": 991,
+   "description": "从过去某个时间到现在；也表示“既然”。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000168",
@@ -4974,7 +5048,9 @@
    "reading": "lìng yí ge",
    "romanization": "lìng yí ge",
    "study_tier": "cedo",
-   "study_priority": 992
+   "study_priority": 992,
+   "description": "再一个，或另外一个。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000169",
@@ -5037,7 +5113,9 @@
    "reading": "zài…xiàmiàn",
    "romanization": "zài…xiàmiàn",
    "study_tier": "cedo",
-   "study_priority": 994
+   "study_priority": 994,
+   "description": "在某物的下面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000173",
@@ -5256,7 +5334,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 70
+   "study_priority": 70,
+   "description": "孩子们去学习的地方。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000181",
@@ -5289,7 +5369,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 71
+   "study_priority": 71,
+   "description": "再一次。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000182",
@@ -5315,7 +5397,9 @@
    "reading": "xià yí ge",
    "romanization": "xià yí ge",
    "study_tier": "cedo",
-   "study_priority": 997
+   "study_priority": 997,
+   "description": "紧接着这个之后的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000183",
@@ -5402,7 +5486,9 @@
     }
    ],
    "study_tier": "cedo",
-   "study_priority": 1000
+   "study_priority": 1000,
+   "description": "没有某物。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000186",
@@ -5940,7 +6026,9 @@
    "alternatives": [],
    "reading": "dì-èr",
    "romanization": "dì-èr",
-   "study_priority": 100204
+   "study_priority": 100204,
+   "description": "排在第一个之后的。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000205",
@@ -6282,7 +6370,9 @@
    ],
    "reading": "jǐ ge",
    "romanization": "jǐ ge",
-   "study_priority": 100218
+   "study_priority": 100218,
+   "description": "数量不多。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000219",
@@ -6475,7 +6565,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100228
+   "study_priority": 100228,
+   "description": "但是，尽管如此。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000230",
@@ -6810,7 +6902,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100243
+   "study_priority": 100243,
+   "description": "在现在之前，或比预期早。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000244",
@@ -7876,7 +7970,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100285
+   "study_priority": 100285,
+   "description": "距离很长。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000286",
@@ -7970,7 +8066,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100288
+   "study_priority": 100288,
+   "description": "虽然；放在句末也表示“不过”。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000289",
@@ -8050,7 +8148,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100291
+   "study_priority": 100291,
+   "description": "表示同意的回答。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000292",
@@ -8083,7 +8183,9 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "study_priority": 100292
+   "study_priority": 100292,
+   "description": "事实上，实际上。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000293",
@@ -8162,7 +8264,9 @@
    ],
    "reading": "gèng shǎo",
    "romanization": "gèng shǎo",
-   "study_priority": 100295
+   "study_priority": 100295,
+   "description": "数量更少。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000296",
@@ -8892,7 +8996,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 85
+   "study_priority": 85,
+   "description": "也许是这样，不确定。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000327",
@@ -10276,7 +10382,9 @@
     }
    ],
    "study_tier": "inicial",
-   "study_priority": 105
+   "study_priority": 105,
+   "description": "差一点，接近。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000382",
@@ -10466,7 +10574,9 @@
    "study_priority": 107,
    "nativeExplain": {
     "pt-BR": "cômodo/quarto"
-   }
+   },
+   "description": "房子里用墙隔开的一部分。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000389",
@@ -10600,7 +10710,9 @@
    "reading": "yánzhe",
    "romanization": "yánzhe",
    "study_tier": "cedo",
-   "study_priority": 1038
+   "study_priority": 1038,
+   "description": "顺着某物的长度。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000396",
@@ -11770,7 +11882,9 @@
    "reading": "rènhé yí ge",
    "romanization": "rènhé yí ge",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2541
+   "study_priority": 2541,
+   "description": "两者中的任何一个。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000447",
@@ -12904,7 +13018,9 @@
    "reading": "zài…hòumiàn",
    "romanization": "zài…hòumiàn",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 139
+   "study_priority": 139,
+   "description": "在某物的后面。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000491",
@@ -13044,7 +13160,9 @@
    "reading": "zài…fùjìn",
    "romanization": "zài…fùjìn",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 141
+   "study_priority": 141,
+   "description": "离某处很近。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000497",
@@ -22121,7 +22239,9 @@
    "reading": "hǎo ba",
    "romanization": "hǎo ba",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 291
+   "study_priority": 291,
+   "description": "可以，行；表示同意。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "zh:en:000000901",

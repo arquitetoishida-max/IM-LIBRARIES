@@ -29822,7 +29822,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 4
+   "study_priority": 4,
+   "description": "「彼・彼女・それ」と使う「be」の現在の形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000007",
@@ -29850,7 +29852,9 @@
     "pt-BR": "finalidade, benefício"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 918
+   "study_priority": 918,
+   "description": "誰かや何かのため、という意味。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000008",
@@ -29966,7 +29970,9 @@
    "romanization": "~ no ue ni",
    "class_real": "postpositional construction",
    "study_tier": "expansão estruturante",
-   "study_priority": 920
+   "study_priority": 920,
+   "description": "物の上に接していること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000012",
@@ -30055,7 +30061,9 @@
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
-   "key_pending": false
+   "key_pending": false,
+   "description": "「be」の過去の形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000015",
@@ -30079,7 +30087,9 @@
    "reading": "だ",
    "romanization": "da",
    "study_tier": "núcleo inicial",
-   "study_priority": 8
+   "study_priority": 8,
+   "description": "主語とその説明や身分をつなぐ言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000016",
@@ -30231,7 +30241,9 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 2464
+   "study_priority": 2464,
+   "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000018",
@@ -30347,7 +30359,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 9
+   "study_priority": 9,
+   "description": "何かを持っていること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000019",
@@ -31135,7 +31149,9 @@
    "speech": "うええ",
    "class_real": "noun + へ",
    "study_tier": "expansão estruturante",
-   "study_priority": 937
+   "study_priority": 937,
+   "description": "高いほうへ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000043",
@@ -32206,7 +32222,9 @@
     "pt-BR": "diferente do citado"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 950
+   "study_priority": 950,
+   "description": "すでに話に出たものとは別の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000072",
@@ -32256,7 +32274,9 @@
     "pt-BR": "de coisa ou animal"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 951
+   "study_priority": 951,
+   "description": "その物や動物のもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000074",
@@ -32283,7 +32303,9 @@
     "pt-BR": "antes do substantivo"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 952
+   "study_priority": 952,
+   "description": "私たちのもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000075",
@@ -32398,7 +32420,9 @@
     "pt-BR": "nada mais"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 954
+   "study_priority": 954,
+   "description": "それだけで、ほかにはない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000078",
@@ -32453,7 +32477,9 @@
    "romanization": "saisho no",
    "class_real": "noun + の",
    "study_tier": "expansão estruturante",
-   "study_priority": 956
+   "study_priority": 956,
+   "description": "順番がいちばん前の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000080",
@@ -32502,7 +32528,9 @@
     "pt-BR": "objeto (ver ele, para ele)"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 957
+   "study_priority": 957,
+   "description": "男の人を、動作を受ける側として指す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000081",
@@ -32527,7 +32555,9 @@
    "speech": "のなかえ",
    "class_real": "postpositional construction",
    "study_tier": "expansão estruturante",
-   "study_priority": 958
+   "study_priority": 958,
+   "description": "何かの中へ入ること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000082",
@@ -32930,7 +32960,9 @@
     "pt-BR": "por cima; acabado"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 960
+   "study_priority": 960,
+   "description": "上のほう、または越えて。終わったという意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000087",
@@ -33064,15 +33096,18 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "何か",
+   "text": "どれでも",
    "alternatives": [
-    "どんな"
+    "何でも",
+    "どんな〜でも"
    ],
-   "reading": "なにか",
-   "romanization": "nani ka",
+   "reading": "どれでも",
+   "romanization": "doredemo",
    "class_real": "pronoun",
    "study_tier": "expansão estruturante",
-   "study_priority": 962
+   "study_priority": 962,
+   "description": "どれでもよい、選ばない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000089",
@@ -33160,7 +33195,9 @@
    "romanization": "modotte",
    "usage_note": "戻って is the te-form of 戻る (ja:en:000000640); \"back\" as a direction is 後ろ.",
    "study_tier": "expansão estruturante",
-   "study_priority": 964
+   "study_priority": 964,
+   "description": "元の場所へ。後ろ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000092",
@@ -33186,7 +33223,9 @@
    "romanization": "korera no",
    "class_real": "pronoun + の",
    "study_tier": "expansão estruturante",
-   "study_priority": 965
+   "study_priority": 965,
+   "description": "近くにある複数のものを指す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000093",
@@ -33235,7 +33274,9 @@
     "pt-BR": "objeto"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 966
+   "study_priority": 966,
+   "description": "自分と他の人たちを、動作を受ける側として指す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000094",
@@ -33333,7 +33374,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 34
+   "study_priority": 34,
+   "description": "理由を表す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000096",
@@ -33457,7 +33500,9 @@
     }
    ],
    "study_tier": "núcleo inicial",
-   "study_priority": 35
+   "study_priority": 35,
+   "description": "ある場所から別の場所へ移ること。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000097",
@@ -33486,7 +33531,9 @@
     "pt-BR": "de modo bom"
    },
    "study_tier": "expansão estruturante",
-   "study_priority": 967
+   "study_priority": 967,
+   "description": "じょうずに、よい状態で。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000098",
@@ -33574,7 +33621,9 @@
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
    "study_tier": "expansão estruturante",
-   "study_priority": 969
+   "study_priority": 969,
+   "description": "いちばん多い量。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000101",
@@ -33673,7 +33722,9 @@
    ],
    "class_real": "interrogative pronoun (place)",
    "study_tier": "inicial",
-   "study_priority": 38
+   "study_priority": 38,
+   "description": "場所をたずねる言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000104",
@@ -33699,7 +33750,9 @@
    "romanization": "~ sae",
    "class_real": "particle (focus)",
    "study_tier": "cedo",
-   "study_priority": 970
+   "study_priority": 970,
+   "description": "意外なことを強調する言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000105",
@@ -33838,7 +33891,9 @@
    "reading": "ほんとうに",
    "romanization": "hontouni",
    "study_tier": "inicial",
-   "study_priority": 41
+   "study_priority": 41,
+   "description": "本当に、心から。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000110",
@@ -33947,7 +34002,9 @@
     "pt-BR": "correto"
    },
    "study_tier": "inicial",
-   "study_priority": 42
+   "study_priority": 42,
+   "description": "まちがいがない、正しい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000112",
@@ -34499,7 +34556,9 @@
    "romanization": "arera no",
    "class_real": "pre-noun demonstrative (formal/written)",
    "study_tier": "cedo",
-   "study_priority": 975
+   "study_priority": 975,
+   "description": "離れた複数のものを指す言葉。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000129",
@@ -34813,7 +34872,9 @@
    "romanization": "saigo no",
    "class_real": "noun + の",
    "study_tier": "cedo",
-   "study_priority": 980
+   "study_priority": 980,
+   "description": "いちばんあとの。または、いちばん近い過去の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000137",
@@ -34870,7 +34931,9 @@
     "pt-BR": "durante"
    },
    "study_tier": "cedo",
-   "study_priority": 981
+   "study_priority": 981,
+   "description": "ある間のこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000139",
@@ -35218,7 +35281,9 @@
    ],
    "class_real": "pronoun (nani + ka)",
    "study_tier": "inicial",
-   "study_priority": 57
+   "study_priority": 57,
+   "description": "名前を言わない、あるもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000147",
@@ -35379,7 +35444,9 @@
    ],
    "class_real": "adjective (irregular, 連体詞-like)",
    "study_tier": "inicial",
-   "study_priority": 59
+   "study_priority": 59,
+   "description": "ちがいがないこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000150",
@@ -35818,7 +35885,9 @@
    "romanization": "mawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 987
+   "study_priority": 987,
+   "description": "まわりに、近くに、あちこちに。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000159",
@@ -35845,7 +35914,9 @@
     "pt-BR": "dois"
    },
    "study_tier": "cedo",
-   "study_priority": 988
+   "study_priority": 988,
+   "description": "ふたつの物のあいだ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000160",
@@ -36239,7 +36310,9 @@
     "pt-BR": "também: pouco"
    },
    "study_tier": "inicial",
-   "study_priority": 65
+   "study_priority": 65,
+   "description": "大きさや量が小さい。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000166",
@@ -36323,7 +36396,9 @@
    "romanization": "~ kara",
    "class_real": "particle",
    "study_tier": "cedo",
-   "study_priority": 991
+   "study_priority": 991,
+   "description": "過去のある時から今まで。理由の意味もある。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000168",
@@ -36353,7 +36428,9 @@
     "pt-BR": "mais um"
    },
    "study_tier": "cedo",
-   "study_priority": 992
+   "study_priority": 992,
+   "description": "もうひとつ、または別のもの。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000169",
@@ -36430,7 +36507,9 @@
     "pt-BR": "mais comum"
    },
    "study_tier": "cedo",
-   "study_priority": 994
+   "study_priority": 994,
+   "description": "何かの下側。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000173",
@@ -36714,7 +36793,9 @@
    ],
    "class_real": "noun",
    "study_tier": "inicial",
-   "study_priority": 70
+   "study_priority": 70,
+   "description": "子どもが勉強しに行く場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000181",
@@ -36739,7 +36820,9 @@
    "reading": "また",
    "romanization": "mata",
    "study_tier": "inicial",
-   "study_priority": 71
+   "study_priority": 71,
+   "description": "もう一度、また。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000182",
@@ -36764,7 +36847,9 @@
    "romanization": "tsugi no",
    "class_real": "noun + の",
    "study_tier": "cedo",
-   "study_priority": 997
+   "study_priority": 997,
+   "description": "このあとに来る、すぐ次の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000183",
@@ -36842,7 +36927,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 1000
+   "study_priority": 1000,
+   "description": "何かがない状態で。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000186",
@@ -37693,7 +37780,9 @@
    "reading": "にばんめの",
    "romanization": "nibanme no",
    "class_real": "noun + の",
-   "study_priority": 100204
+   "study_priority": 100204,
+   "description": "一番目の次の。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000205",
@@ -38101,14 +38190,16 @@
     "quantities"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "少しの",
+   "text": "少数の",
    "alternatives": [
-    "いくつかの"
+    "わずかな"
    ],
-   "reading": "すこしの",
-   "romanization": "sukoshi no",
+   "reading": "しょうすうの",
+   "romanization": "shousuu no",
    "class_real": "adnominal (adverb + の)",
-   "study_priority": 100218
+   "study_priority": 100218,
+   "description": "数が少ない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000219",
@@ -38475,7 +38566,9 @@
    "reading": "しかし",
    "romanization": "shikashi",
    "class_real": "conjunction",
-   "study_priority": 100228
+   "study_priority": 100228,
+   "description": "それでも、しかし。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000230",
@@ -38934,7 +39027,9 @@
    "reading": "もう",
    "romanization": "mou",
    "class_real": "adverb",
-   "study_priority": 100243
+   "study_priority": 100243,
+   "description": "すでに、思ったより早く。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000244",
@@ -40886,7 +40981,9 @@
    "reading": "とおく",
    "romanization": "tooku",
    "class_real": "noun (adverbial)",
-   "study_priority": 100285
+   "study_priority": 100285,
+   "description": "距離が大きいこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000286",
@@ -40969,7 +41066,9 @@
    "reading": "〜けど",
    "romanization": "~ kedo",
    "class_real": "conjunctive particle",
-   "study_priority": 100288
+   "study_priority": 100288,
+   "description": "〜だけれども、という意味。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000289",
@@ -41131,7 +41230,9 @@
      "source": "OpenJLPT (CC BY-SA 4.0)"
     }
    ],
-   "study_priority": 100291
+   "study_priority": 100291,
+   "description": "同意するときの返事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000292",
@@ -41158,7 +41259,9 @@
    "romanization": "jitsu wa",
    "speech": "じつわ",
    "class_real": "adverbial phrase",
-   "study_priority": 100292
+   "study_priority": 100292,
+   "description": "実際には、本当のところは。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000293",
@@ -41229,7 +41332,9 @@
    "nativeExplain": {
     "pt-BR": "quantidade menor"
    },
-   "study_priority": 100295
+   "study_priority": 100295,
+   "description": "量がもっと少ないこと。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000296",
@@ -42170,18 +42275,21 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "かもしれない",
+   "text": "もしかしたら",
    "alternatives": [
-    "もしかしたら"
+    "かもしれない",
+    "たぶん"
    ],
-   "reading": "かもしれない",
-   "romanization": "kamoshirenai",
+   "reading": "もしかしたら",
+   "romanization": "moshikashitara",
    "class_real": "adverb",
    "nativeExplain": {
     "pt-BR": "comum"
    },
    "study_tier": "inicial",
-   "study_priority": 85
+   "study_priority": 85,
+   "description": "はっきりしないが、そうかもしれない。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000327",
@@ -44042,7 +44150,9 @@
     "pt-BR": "mais comum"
    },
    "study_tier": "inicial",
-   "study_priority": 105
+   "study_priority": 105,
+   "description": "もう少しで、ほぼ。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000382",
@@ -44259,7 +44369,9 @@
    "study_priority": 107,
    "nativeExplain": {
     "pt-BR": "cômodo/quarto"
-   }
+   },
+   "description": "家の中の、壁で仕切られた場所。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000389",
@@ -44469,7 +44581,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 1038
+   "study_priority": 1038,
+   "description": "長いものに沿って。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000396",
@@ -46361,7 +46475,9 @@
    "romanization": "dochira ka",
    "class_real": "pronoun",
    "study_tier": "expansão cotidiana",
-   "study_priority": 2541
+   "study_priority": 2541,
+   "description": "ふたつのうちのどちらか。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000447",
@@ -47926,7 +48042,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 139
+   "study_priority": 139,
+   "description": "何かの後ろ側。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000491",
@@ -48051,7 +48169,9 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 141
+   "study_priority": 141,
+   "description": "すぐそば、近く。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000497",
@@ -60409,7 +60529,9 @@
    ],
    "class_real": "interjection (loanword)",
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 291
+   "study_priority": 291,
+   "description": "よい、わかった、という返事。",
+   "novrev_status": "reviewed"
   },
   {
    "id": "ja:en:000000901",
