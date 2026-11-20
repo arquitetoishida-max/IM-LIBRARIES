@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.2",
+ "version": "2.4.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -32,7 +32,8 @@
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
   "2.4.1: japonês — removidas alternativas que eram outra palavra (leitura diferente ou outro conceito), que apareciam no card com a leitura errada.",
-  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...)."
+  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -43079,7 +43080,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3778,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "うんちをさす下品な言葉。怒りを表すときにも使う。",
+   "nativeExplain": {
+    "ja": "うんちをさす下品な言葉。怒りを表すときにも使う。"
+   }
   },
   {
    "id": "ja:en:000000306",
@@ -45887,7 +45892,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3779,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "とても下品な悪い言葉。怒りを表す。",
+   "nativeExplain": {
+    "ja": "とても下品な悪い言葉。怒りを表す。"
+   }
   },
   {
    "id": "ja:en:000000383",
@@ -48500,7 +48509,11 @@
    "class_real": "prefix (vulgar intensifier)",
    "study_tier": "fora da trilha geral",
    "study_priority": 2542,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "あとの言葉を強める、とても下品な言葉。",
+   "nativeExplain": {
+    "ja": "あとの言葉を強める、とても下品な言葉。"
+   }
   },
   {
    "id": "ja:en:000000448",
@@ -60822,7 +60835,11 @@
    "core_status": "search_only",
    "study_tier": "intermediário",
    "study_priority": 2669,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "死んだあとに苦しむとされる場所。",
+   "nativeExplain": {
+    "ja": "死んだあとに苦しむとされる場所。"
+   }
   },
   {
    "id": "ja:en:000000801",
@@ -61434,7 +61451,11 @@
    "class_real": "interjection (mildly vulgar)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2681,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "怒りや驚きを表す、少し乱暴な言葉。",
+   "nativeExplain": {
+    "ja": "怒りや驚きを表す、少し乱暴な言葉。"
+   }
   },
   {
    "id": "ja:en:000000818",
@@ -65069,7 +65090,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3792,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ネットで使う、大笑いを表す言葉。",
+   "nativeExplain": {
+    "ja": "ネットで使う、大笑いを表す言葉。"
+   }
   },
   {
    "id": "ja:en:000000918",
@@ -66251,7 +66276,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3797,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「〜したい」のくだけた言い方。",
+   "nativeExplain": {
+    "ja": "「〜したい」のくだけた言い方。"
+   }
   },
   {
    "id": "ja:en:000000952",
@@ -69085,7 +69114,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3802,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "おしりをさす下品な言葉。",
+   "nativeExplain": {
+    "ja": "おしりをさす下品な言葉。"
+   }
   },
   {
    "id": "ja:en:000001034",
@@ -72344,12 +72377,14 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "de fogo"
+    "pt-BR": "de fogo",
+    "ja": "弾をうつ武器。"
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3814,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "弾をうつ武器。"
   },
   {
    "id": "ja:en:000001136",
@@ -73192,7 +73227,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3815,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「〜しなければならない」のくだけた言い方。",
+   "nativeExplain": {
+    "ja": "「〜しなければならない」のくだけた言い方。"
+   }
   },
   {
    "id": "ja:en:000001157",
@@ -74642,12 +74681,14 @@
    "romanization": "baka na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "ofensivo, geral"
+    "pt-BR": "ofensivo, geral",
+    "ja": "頭が悪い、おろかな（乱暴な言い方）。"
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3818,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "頭が悪い、おろかな（乱暴な言い方）。"
   },
   {
    "id": "ja:en:000001204",
@@ -75077,11 +75118,14 @@
    ],
    "reading": "ぼうぎょ",
    "romanization": "bougyo",
-   "nativeExplain": {},
+   "nativeExplain": {
+    "ja": "攻撃から守ること。"
+   },
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3367,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "攻撃から守ること。"
   },
   {
    "id": "ja:en:000001214",
@@ -79335,7 +79379,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3830,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「〜ではない」のくだけた言い方。",
+   "nativeExplain": {
+    "ja": "「〜ではない」のくだけた言い方。"
+   }
   },
   {
    "id": "ja:en:000001350",
@@ -81561,7 +81609,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3835,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "わざと人の命をうばうこと。",
+   "nativeExplain": {
+    "ja": "わざと人の命をうばうこと。"
+   }
   },
   {
    "id": "ja:en:000001431",
@@ -86739,12 +86791,14 @@
    "romanization": "yatsu",
    "class_real": "noun (slang)",
    "nativeExplain": {
-    "pt-BR": "gíria, chamar amigo"
+    "pt-BR": "gíria, chamar amigo",
+    "ja": "男の人。友だちを呼ぶくだけた言い方。"
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3854,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男の人。友だちを呼ぶくだけた言い方。"
   },
   {
    "id": "ja:en:000001596",
@@ -93861,7 +93915,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3877,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "力を使って人をきずつけること。",
+   "nativeExplain": {
+    "ja": "力を使って人をきずつけること。"
+   }
   },
   {
    "id": "ja:en:000001814",
@@ -94620,7 +94678,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3886,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ぶどうからつくる、お酒。",
+   "nativeExplain": {
+    "ja": "ぶどうからつくる、お酒。"
+   }
   },
   {
    "id": "ja:en:000001850",
@@ -95634,7 +95696,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3891,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "銃をうつ。ボールをゴールにむけてける。",
+   "nativeExplain": {
+    "ja": "銃をうつ。ボールをゴールにむけてける。"
+   }
   },
   {
    "id": "ja:en:000001882",
@@ -98733,7 +98799,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3900,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "麦などからつくる、お酒。",
+   "nativeExplain": {
+    "ja": "麦などからつくる、お酒。"
+   }
   },
   {
    "id": "ja:en:000001992",
@@ -99224,7 +99294,11 @@
    "retired_reason": "EN_SPELLING_VARIANT_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2904,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「labor」（仕事）のイギリス式のつづり。",
+   "nativeExplain": {
+    "ja": "「labor」（仕事）のイギリス式のつづり。"
+   }
   },
   {
    "id": "ja:en:000002009",
@@ -99392,7 +99466,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3902,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "兵士が何人もいること。",
+   "nativeExplain": {
+    "ja": "兵士が何人もいること。"
+   }
   },
   {
    "id": "ja:en:000002017",
@@ -102723,7 +102801,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3914,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ひどい、きずつけるあつかい。",
+   "nativeExplain": {
+    "ja": "ひどい、きずつけるあつかい。"
+   }
   },
   {
    "id": "ja:en:000002153",
@@ -106660,7 +106742,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3927,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "兵士たち。",
+   "nativeExplain": {
+    "ja": "兵士たち。"
+   }
   },
   {
    "id": "ja:en:000002284",
@@ -109057,7 +109143,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3939,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ビールやワインのような飲み物。",
+   "nativeExplain": {
+    "ja": "ビールやワインのような飲み物。"
+   }
   },
   {
    "id": "ja:en:000002386",
@@ -109429,7 +109519,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3941,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "お酒を飲みすぎている。",
+   "nativeExplain": {
+    "ja": "お酒を飲みすぎている。"
+   }
   },
   {
    "id": "ja:en:000002401",
@@ -110257,7 +110351,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3944,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "爆発してこわす武器。",
+   "nativeExplain": {
+    "ja": "爆発してこわす武器。"
+   }
   },
   {
    "id": "ja:en:000002437",
@@ -111259,7 +111357,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3949,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "武器をもっている。",
+   "nativeExplain": {
+    "ja": "武器をもっている。"
+   }
   },
   {
    "id": "ja:en:000002474",
@@ -112080,7 +112182,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3952,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「ちょっと」「いくらか」のくだけた言い方。",
+   "nativeExplain": {
+    "ja": "「ちょっと」「いくらか」のくだけた言い方。"
+   }
   },
   {
    "id": "ja:en:000002505",
@@ -112960,7 +113066,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3958,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "笑い声をあらわす言葉。",
+   "nativeExplain": {
+    "ja": "笑い声をあらわす言葉。"
+   }
   },
   {
    "id": "ja:en:000002542",
@@ -114367,11 +114477,13 @@
    "romanization": "okiniiri no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "ja": "「favorite」（お気に入り）のイギリス式のつづり。"
    },
    "study_tier": "herdado",
    "study_priority": 3003,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「favorite」（お気に入り）のイギリス式のつづり。"
   },
   {
    "id": "ja:en:000002586",
@@ -114835,11 +114947,13 @@
    "romanization": "bangumi",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "ja": "「program」（番組）のイギリス式のつづり。"
    },
    "study_tier": "herdado",
    "study_priority": 3007,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「program」（番組）のイギリス式のつづり。"
   },
   {
    "id": "ja:en:000002603",
@@ -115377,7 +115491,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3964,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人や軍隊どうしのたたかい。",
+   "nativeExplain": {
+    "ja": "人や軍隊どうしのたたかい。"
+   }
   },
   {
    "id": "ja:en:000002622",
@@ -115582,7 +115700,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3966,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "深く長いあいだ続く悲しみの病気。",
+   "nativeExplain": {
+    "ja": "深く長いあいだ続く悲しみの病気。"
+   }
   },
   {
    "id": "ja:en:000002632",
@@ -116188,7 +116310,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3599,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "形のある、ひとつの物。",
+   "nativeExplain": {
+    "ja": "形のある、ひとつの物。"
+   }
   },
   {
    "id": "ja:en:000002652",
@@ -118789,12 +118915,14 @@
    "romanization": "baka na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "informal"
+    "pt-BR": "informal",
+    "ja": "おろかな（くだけた、乱暴な言い方）。"
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3978,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "おろかな（くだけた、乱暴な言い方）。"
   },
   {
    "id": "ja:en:000002748",
@@ -119685,12 +119813,14 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo geral"
+    "pt-BR": "termo geral",
+    "ja": "人をきずつけたり攻撃したりする道具。"
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人をきずつけたり攻撃したりする道具。"
   },
   {
    "id": "ja:en:000002772",
@@ -122367,7 +122497,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "たばこの煙を吸うこと。",
+   "nativeExplain": {
+    "ja": "たばこの煙を吸うこと。"
+   }
   },
   {
    "id": "ja:en:000002875",
@@ -123051,11 +123185,13 @@
    "romanization": "bouei",
    "class_real": "noun (suru-noun)",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "ja": "「defense」（防衛）のイギリス式のつづり。"
    },
    "study_tier": "herdado",
    "study_priority": 3059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "「defense」（防衛）のイギリス式のつづり。"
   },
   {
    "id": "ja:en:000002898",
@@ -124545,7 +124681,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 4004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "悪いことをする仲間や、友だちの集まり。",
+   "nativeExplain": {
+    "ja": "悪いことをする仲間や、友だちの集まり。"
+   }
   },
   {
    "id": "ja:en:000002957",
@@ -125809,7 +125949,11 @@
    "class_real": "noun",
    "study_tier": "temático",
    "study_priority": 3717,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "とてもすばらしく、盛り上がる曲。",
+   "nativeExplain": {
+    "ja": "とてもすばらしく、盛り上がる曲。"
+   }
   },
   {
    "id": "ja:en:000003066",
@@ -131411,7 +131555,11 @@
    "study_priority": 3312,
    "core_status": "retired",
    "duplicate_of": "en:000000652",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "六十分の時間。",
+   "nativeExplain": {
+    "ja": "六十分の時間。"
+   }
   },
   {
    "id": "ja:en:000000390",
@@ -131429,7 +131577,11 @@
    "study_priority": 3313,
    "core_status": "retired",
    "duplicate_of": "en:000001034",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物ごとの最初の部分。",
+   "nativeExplain": {
+    "ja": "物ごとの最初の部分。"
+   }
   },
   {
    "id": "ja:en:000000545",
@@ -131469,7 +131621,11 @@
    "study_priority": 1063,
    "core_status": "retired",
    "duplicate_of": "en:000000854",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "そのように見える、思われる。",
+   "nativeExplain": {
+    "ja": "そのように見える、思われる。"
+   }
   },
   {
    "id": "ja:en:000000559",
@@ -131487,7 +131643,11 @@
    "study_priority": 3317,
    "core_status": "retired",
    "duplicate_of": "en:000000226",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "心に浮かぶ考えや意見。",
+   "nativeExplain": {
+    "ja": "心に浮かぶ考えや意見。"
+   }
   },
   {
    "id": "ja:en:000000575",
@@ -131549,7 +131709,11 @@
    "study_priority": 3324,
    "core_status": "retired",
    "duplicate_of": "en:000000314",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "平らな面の広さ。",
+   "nativeExplain": {
+    "ja": "平らな面の広さ。"
+   }
   },
   {
    "id": "ja:en:000000784",
@@ -131611,7 +131775,11 @@
    "study_priority": 3333,
    "core_status": "retired",
    "duplicate_of": "en:000001200",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "してよいこと、いけないことを決めたきまり。",
+   "nativeExplain": {
+    "ja": "してよいこと、いけないことを決めたきまり。"
+   }
   },
   {
    "id": "ja:en:000000907",
@@ -131673,7 +131841,11 @@
    "study_priority": 3339,
    "core_status": "retired",
    "duplicate_of": "en:000000245",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある事がらの場合や例。",
+   "nativeExplain": {
+    "ja": "ある事がらの場合や例。"
+   }
   },
   {
    "id": "ja:en:000000945",
@@ -131691,7 +131863,11 @@
    "study_priority": 3340,
    "core_status": "retired",
    "duplicate_of": "en:000001170",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "つくられたり売られたりする物。",
+   "nativeExplain": {
+    "ja": "つくられたり売られたりする物。"
+   }
   },
   {
    "id": "ja:en:000000955",
@@ -131753,7 +131929,11 @@
    "study_priority": 3346,
    "core_status": "retired",
    "duplicate_of": "en:000001076",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物を売ること。",
+   "nativeExplain": {
+    "ja": "物を売ること。"
+   }
   },
   {
    "id": "ja:en:000001108",
@@ -131837,7 +132017,11 @@
    "study_priority": 3365,
    "core_status": "retired",
    "duplicate_of": "en:000001563",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物がもっている特ちょう。",
+   "nativeExplain": {
+    "ja": "物がもっている特ちょう。"
+   }
   },
   {
    "id": "ja:en:000001218",
@@ -131855,7 +132039,11 @@
    "study_priority": 3368,
    "core_status": "retired",
    "duplicate_of": "en:000000461",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある事がらが起こったわけ。",
+   "nativeExplain": {
+    "ja": "ある事がらが起こったわけ。"
+   }
   },
   {
    "id": "ja:en:000001314",
@@ -132095,7 +132283,11 @@
    "study_priority": 3399,
    "core_status": "retired",
    "duplicate_of": "en:000000878",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "持っていた物をなくすこと。",
+   "nativeExplain": {
+    "ja": "持っていた物をなくすこと。"
+   }
   },
   {
    "id": "ja:en:000001503",
@@ -132135,7 +132327,11 @@
    "study_priority": 3414,
    "core_status": "retired",
    "duplicate_of": "en:000001440",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "見えるようになる、姿を見せる。",
+   "nativeExplain": {
+    "ja": "見えるようになる、姿を見せる。"
+   }
   },
   {
    "id": "ja:en:000001546",
@@ -132153,7 +132349,11 @@
    "study_priority": 3418,
    "core_status": "retired",
    "duplicate_of": "en:000001677",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "のどをならす、毛がふさふさの小さなペット。",
+   "nativeExplain": {
+    "ja": "のどをならす、毛がふさふさの小さなペット。"
+   }
   },
   {
    "id": "ja:en:000001549",
@@ -132171,7 +132371,11 @@
    "study_priority": 3419,
    "core_status": "retired",
    "duplicate_of": "en:000000645",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある場所から見えるけしき。",
+   "nativeExplain": {
+    "ja": "ある場所から見えるけしき。"
+   }
   },
   {
    "id": "ja:en:000001572",
@@ -132189,7 +132393,11 @@
    "study_priority": 3422,
    "core_status": "retired",
    "duplicate_of": "en:000000654",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "二つのはしの間の、まん中。",
+   "nativeExplain": {
+    "ja": "二つのはしの間の、まん中。"
+   }
   },
   {
    "id": "ja:en:000001595",
@@ -132207,7 +132415,11 @@
    "study_priority": 3425,
    "core_status": "retired",
    "duplicate_of": "en:000002946",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "会社ではたらく人。",
+   "nativeExplain": {
+    "ja": "会社ではたらく人。"
+   }
   },
   {
    "id": "ja:en:000001602",
@@ -132247,7 +132459,11 @@
    "study_priority": 3431,
    "core_status": "retired",
    "duplicate_of": "en:000001467",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人のためにはたらく。食べ物や手助けを出す。",
+   "nativeExplain": {
+    "ja": "人のためにはたらく。食べ物や手助けを出す。"
+   }
   },
   {
    "id": "ja:en:000001705",
@@ -132287,7 +132503,11 @@
    "study_priority": 3448,
    "core_status": "retired",
    "duplicate_of": "en:000001234",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "目標のためにがんばること。",
+   "nativeExplain": {
+    "ja": "目標のためにがんばること。"
+   }
   },
   {
    "id": "ja:en:000001740",
@@ -132305,7 +132525,11 @@
    "study_priority": 3449,
    "core_status": "retired",
    "duplicate_of": "en:000002281",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "数の1000。",
+   "nativeExplain": {
+    "ja": "数の1000。"
+   }
   },
   {
    "id": "ja:en:000001777",
@@ -132345,7 +132569,11 @@
    "study_priority": 3454,
    "core_status": "retired",
    "duplicate_of": "en:000000188",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物ごとの最後の部分。",
+   "nativeExplain": {
+    "ja": "物ごとの最後の部分。"
+   }
   },
   {
    "id": "ja:en:000001792",
@@ -132429,7 +132657,11 @@
    "study_priority": 3473,
    "core_status": "retired",
    "duplicate_of": "en:000000819",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "考えたすえに選んで決めること。",
+   "nativeExplain": {
+    "ja": "考えたすえに選んで決めること。"
+   }
   },
   {
    "id": "ja:en:000001917",
@@ -132491,7 +132723,11 @@
    "study_priority": 3479,
    "core_status": "retired",
    "duplicate_of": "en:000001644",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "かべにあいた、ガラスのはまった開口部。",
+   "nativeExplain": {
+    "ja": "かべにあいた、ガラスのはまった開口部。"
+   }
   },
   {
    "id": "ja:en:000001954",
@@ -132509,7 +132745,11 @@
    "study_priority": 3480,
    "core_status": "retired",
    "duplicate_of": "en:000000437",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "同じ地域にくらす人びとの集まり。",
+   "nativeExplain": {
+    "ja": "同じ地域にくらす人びとの集まり。"
+   }
   },
   {
    "id": "ja:en:000001956",
@@ -132637,7 +132877,11 @@
    "study_priority": 3490,
    "core_status": "retired",
    "duplicate_of": "en:000000252",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "入るだけ入っていて、あきがない。",
+   "nativeExplain": {
+    "ja": "入るだけ入っていて、あきがない。"
+   }
   },
   {
    "id": "ja:en:000002012",
@@ -132677,7 +132921,11 @@
    "study_priority": 3502,
    "core_status": "retired",
    "duplicate_of": "en:000001473",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "幹と枝のある、背の高い植物。",
+   "nativeExplain": {
+    "ja": "幹と枝のある、背の高い植物。"
+   }
   },
   {
    "id": "ja:en:000002102",
@@ -132695,7 +132943,11 @@
    "study_priority": 3511,
    "core_status": "retired",
    "duplicate_of": "en:000001005",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "数をたす計算。",
+   "nativeExplain": {
+    "ja": "数をたす計算。"
+   }
   },
   {
    "id": "ja:en:000002108",
@@ -132713,7 +132965,11 @@
    "study_priority": 3513,
    "core_status": "retired",
    "duplicate_of": "en:000001620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "芸術作品をつくる人。",
+   "nativeExplain": {
+    "ja": "芸術作品をつくる人。"
+   }
   },
   {
    "id": "ja:en:000002127",
@@ -132753,7 +133009,11 @@
    "study_priority": 3517,
    "core_status": "retired",
    "duplicate_of": "en:000001246",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "目的のために集まって活動する人びとの団体。",
+   "nativeExplain": {
+    "ja": "目的のために集まって活動する人びとの団体。"
+   }
   },
   {
    "id": "ja:en:000002137",
@@ -132771,7 +133031,11 @@
    "study_priority": 3518,
    "core_status": "retired",
    "duplicate_of": "en:000001700",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "それがないとこまる、必ず求める。",
+   "nativeExplain": {
+    "ja": "それがないとこまる、必ず求める。"
+   }
   },
   {
    "id": "ja:en:000002154",
@@ -132789,7 +133053,11 @@
    "study_priority": 3522,
    "core_status": "retired",
    "duplicate_of": "en:000000216",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "商品やサービスを売る事業の組織。",
+   "nativeExplain": {
+    "ja": "商品やサービスを売る事業の組織。"
+   }
   },
   {
    "id": "ja:en:000002160",
@@ -132807,7 +133075,11 @@
    "study_priority": 3523,
    "core_status": "retired",
    "duplicate_of": "en:000000842",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "代表者などを投票で選ぶこと。",
+   "nativeExplain": {
+    "ja": "代表者などを投票で選ぶこと。"
+   }
   },
   {
    "id": "ja:en:000002180",
@@ -132847,7 +133119,11 @@
    "study_priority": 3527,
    "core_status": "retired",
    "duplicate_of": "en:000000620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "自分の物を、ほかの人にも分けて使わせる。",
+   "nativeExplain": {
+    "ja": "自分の物を、ほかの人にも分けて使わせる。"
+   }
   },
   {
    "id": "ja:en:000002215",
@@ -132865,7 +133141,11 @@
    "study_priority": 3529,
    "core_status": "retired",
    "duplicate_of": "en:000000406",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "強くうつ、たたく。",
+   "nativeExplain": {
+    "ja": "強くうつ、たたく。"
+   }
   },
   {
    "id": "ja:en:000002220",
@@ -132883,7 +133163,11 @@
    "study_priority": 3530,
    "core_status": "retired",
    "duplicate_of": "en:000000614",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "先に立って、みなを導く。",
+   "nativeExplain": {
+    "ja": "先に立って、みなを導く。"
+   }
   },
   {
    "id": "ja:en:000002240",
@@ -132923,7 +133207,11 @@
    "study_priority": 3540,
    "core_status": "retired",
    "duplicate_of": "en:000000611",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "動く映像で見せる物語。",
+   "nativeExplain": {
+    "ja": "動く映像で見せる物語。"
+   }
   },
   {
    "id": "ja:en:000002265",
@@ -132941,7 +133229,11 @@
    "study_priority": 3542,
    "core_status": "retired",
    "duplicate_of": "en:000000451",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "数の1,000,000。",
+   "nativeExplain": {
+    "ja": "数の1,000,000。"
+   }
   },
   {
    "id": "ja:en:000002285",
@@ -132959,7 +133251,11 @@
    "study_priority": 3543,
    "core_status": "retired",
    "duplicate_of": "en:000000889",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "話したり歌ったりするときに出る音。",
+   "nativeExplain": {
+    "ja": "話したり歌ったりするときに出る音。"
+   }
   },
   {
    "id": "ja:en:000002324",
@@ -132977,7 +133273,11 @@
    "study_priority": 3550,
    "core_status": "retired",
    "duplicate_of": "en:000000603",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物がある場所。",
+   "nativeExplain": {
+    "ja": "物がある場所。"
+   }
   },
   {
    "id": "ja:en:000002331",
@@ -133017,7 +133317,11 @@
    "study_priority": 3554,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相手がそうすることを許す。",
+   "nativeExplain": {
+    "ja": "相手がそうすることを許す。"
+   }
   },
   {
    "id": "ja:en:000002382",
@@ -133079,7 +133383,11 @@
    "study_priority": 3564,
    "core_status": "retired",
    "duplicate_of": "en:000000428",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男や女、子どもなどの、ひと。",
+   "nativeExplain": {
+    "ja": "男や女、子どもなどの、ひと。"
+   }
   },
   {
    "id": "ja:en:000002413",
@@ -133119,7 +133427,11 @@
    "study_priority": 3567,
    "core_status": "retired",
    "duplicate_of": "en:000000494",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人が物を売ったり買ったりする場所。",
+   "nativeExplain": {
+    "ja": "人が物を売ったり買ったりする場所。"
+   }
   },
   {
    "id": "ja:en:000002424",
@@ -133137,7 +133449,11 @@
    "study_priority": 3569,
    "core_status": "retired",
    "duplicate_of": "en:000000790",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物や知らせを、ほかの場所や人へとどける。",
+   "nativeExplain": {
+    "ja": "物や知らせを、ほかの場所や人へとどける。"
+   }
   },
   {
    "id": "ja:en:000002434",
@@ -133155,7 +133471,11 @@
    "study_priority": 3572,
    "core_status": "retired",
    "duplicate_of": "en:000000663",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "たずねられたことに対する返事。",
+   "nativeExplain": {
+    "ja": "たずねられたことに対する返事。"
+   }
   },
   {
    "id": "ja:en:000002435",
@@ -133173,7 +133493,11 @@
    "study_priority": 3573,
    "core_status": "retired",
    "duplicate_of": "en:000002290",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "羽とつばさがある動物。",
+   "nativeExplain": {
+    "ja": "羽とつばさがある動物。"
+   }
   },
   {
    "id": "ja:en:000002463",
@@ -133213,7 +133537,11 @@
    "study_priority": 3580,
    "core_status": "retired",
    "duplicate_of": "en:000001618",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "十分に成長した人。",
+   "nativeExplain": {
+    "ja": "十分に成長した人。"
+   }
   },
   {
    "id": "ja:en:000002482",
@@ -133231,7 +133559,11 @@
    "study_priority": 3581,
    "core_status": "retired",
    "duplicate_of": "en:000002065",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相手に考えや情報をつたえること。",
+   "nativeExplain": {
+    "ja": "相手に考えや情報をつたえること。"
+   }
   },
   {
    "id": "ja:en:000002483",
@@ -133293,7 +133625,11 @@
    "study_priority": 3584,
    "core_status": "retired",
    "duplicate_of": "en:000002112",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある目的に使う道具や機械。",
+   "nativeExplain": {
+    "ja": "ある目的に使う道具や機械。"
+   }
   },
   {
    "id": "ja:en:000002493",
@@ -133311,7 +133647,11 @@
    "study_priority": 3585,
    "core_status": "retired",
    "duplicate_of": "en:000001269",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ねむっている間に心の中に見える映像。",
+   "nativeExplain": {
+    "ja": "ねむっている間に心の中に見える映像。"
+   }
   },
   {
    "id": "ja:en:000002509",
@@ -133329,7 +133669,11 @@
    "study_priority": 3588,
    "core_status": "retired",
    "duplicate_of": "en:000002228",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "音をたてず、ひっそりしている。",
+   "nativeExplain": {
+    "ja": "音をたてず、ひっそりしている。"
+   }
   },
   {
    "id": "ja:en:000002518",
@@ -133369,7 +133713,11 @@
    "study_priority": 3592,
    "core_status": "retired",
    "duplicate_of": "en:000002024",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人のふるまい方。",
+   "nativeExplain": {
+    "ja": "人のふるまい方。"
+   }
   },
   {
    "id": "ja:en:000002533",
@@ -133387,7 +133735,11 @@
    "study_priority": 3593,
    "core_status": "retired",
    "duplicate_of": "en:000002844",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "十年の期間。",
+   "nativeExplain": {
+    "ja": "十年の期間。"
+   }
   },
   {
    "id": "ja:en:000002556",
@@ -133449,7 +133801,11 @@
    "study_priority": 3600,
    "core_status": "retired",
    "duplicate_of": "en:000001497",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "仕事や生活をいっしょにする相手。",
+   "nativeExplain": {
+    "ja": "仕事や生活をいっしょにする相手。"
+   }
   },
   {
    "id": "ja:en:000002660",
@@ -133511,7 +133867,11 @@
    "study_priority": 3610,
    "core_status": "retired",
    "duplicate_of": "en:000001220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人や荷物をはこぶ大きな船。",
+   "nativeExplain": {
+    "ja": "人や荷物をはこぶ大きな船。"
+   }
   },
   {
    "id": "ja:en:000002728",
@@ -133529,7 +133889,11 @@
    "study_priority": 3613,
    "core_status": "retired",
    "duplicate_of": "en:000002058",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "本や文章を書く人。",
+   "nativeExplain": {
+    "ja": "本や文章を書く人。"
+   }
   },
   {
    "id": "ja:en:000002744",
@@ -133569,7 +133933,11 @@
    "study_priority": 3615,
    "core_status": "retired",
    "duplicate_of": "en:000000841",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "出入り口をあけたり閉めたりする部分。",
+   "nativeExplain": {
+    "ja": "出入り口をあけたり閉めたりする部分。"
+   }
   },
   {
    "id": "ja:en:000002775",
@@ -133587,7 +133955,11 @@
    "study_priority": 3616,
    "core_status": "retired",
    "duplicate_of": "en:000000457",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生まれてから何年たったか。",
+   "nativeExplain": {
+    "ja": "生まれてから何年たったか。"
+   }
   },
   {
    "id": "ja:en:000002810",
@@ -133739,7 +134111,11 @@
    "study_priority": 3624,
    "core_status": "retired",
    "duplicate_of": "en:000000930",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "遊びや競技に使う、丸い物。",
+   "nativeExplain": {
+    "ja": "遊びや競技に使う、丸い物。"
+   }
   },
   {
    "id": "ja:en:000002836",
@@ -133779,7 +134155,11 @@
    "study_priority": 3626,
    "core_status": "retired",
    "duplicate_of": "en:000001016",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "二つの物が同じでないところ。",
+   "nativeExplain": {
+    "ja": "二つの物が同じでないところ。"
+   }
   },
   {
    "id": "ja:en:000002908",
@@ -133797,7 +134177,11 @@
    "study_priority": 3630,
    "core_status": "retired",
    "duplicate_of": "en:000000325",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "同じ性質をもつものの仲間。",
+   "nativeExplain": {
+    "ja": "同じ性質をもつものの仲間。"
+   }
   },
   {
    "id": "ja:en:000002909",
@@ -133815,7 +134199,11 @@
    "study_priority": 3631,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "相手がそうすることを許す。",
+   "nativeExplain": {
+    "ja": "相手がそうすることを許す。"
+   }
   },
   {
    "id": "ja:en:000002914",
@@ -133855,7 +134243,11 @@
    "study_priority": 3639,
    "core_status": "retired",
    "duplicate_of": "en:000001684",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある物が果たす、はたらき。",
+   "nativeExplain": {
+    "ja": "ある物が果たす、はたらき。"
+   }
   },
   {
    "id": "ja:en:000002961",
@@ -133873,7 +134265,11 @@
    "study_priority": 3640,
    "core_status": "retired",
    "duplicate_of": "en:000001020",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "まわりを水にかこまれた陸地。",
+   "nativeExplain": {
+    "ja": "まわりを水にかこまれた陸地。"
+   }
   },
   {
    "id": "ja:en:000002965",
@@ -133891,7 +134287,11 @@
    "study_priority": 3641,
    "core_status": "retired",
    "duplicate_of": "en:000001605",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物ごとをおぼえておく力。",
+   "nativeExplain": {
+    "ja": "物ごとをおぼえておく力。"
+   }
   },
   {
    "id": "ja:en:000002968",
@@ -133909,7 +134309,11 @@
    "study_priority": 3642,
    "core_status": "retired",
    "duplicate_of": "en:000001873",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "岩や土でできた、とても高い自然の盛り上がり。",
+   "nativeExplain": {
+    "ja": "岩や土でできた、とても高い自然の盛り上がり。"
+   }
   },
   {
    "id": "ja:en:000002978",
@@ -152643,7 +153047,11 @@
    "study_priority": 2273,
    "core_status": "retired",
    "duplicate_of": "en:000000156",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある時点での、物ごとのようす。",
+   "nativeExplain": {
+    "ja": "ある時点での、物ごとのようす。"
+   }
   },
   {
    "id": "ja:en:000003919",
@@ -152981,7 +153389,11 @@
    "study_priority": 2284,
    "core_status": "retired",
    "duplicate_of": "en:000000328",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "会社や団体の、いちばん上に立つ人。",
+   "nativeExplain": {
+    "ja": "会社や団体の、いちばん上に立つ人。"
+   }
   },
   {
    "id": "ja:en:000003930",
@@ -152999,7 +153411,11 @@
    "study_priority": 2285,
    "core_status": "retired",
    "duplicate_of": "en:000003205",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "はっきり「そうだ」と答えるときの言葉。",
+   "nativeExplain": {
+    "ja": "はっきり「そうだ」と答えるときの言葉。"
+   }
   },
   {
    "id": "ja:en:000003931",
@@ -153217,7 +153633,11 @@
    "study_priority": 2292,
    "core_status": "retired",
    "duplicate_of": "en:000000386",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "見つからなくなった。",
+   "nativeExplain": {
+    "ja": "見つからなくなった。"
+   }
   },
   {
    "id": "ja:en:000003938",
@@ -153235,7 +153655,11 @@
    "study_priority": 2293,
    "core_status": "retired",
    "duplicate_of": "en:000002660",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物や人が入れる、あいている場所。",
+   "nativeExplain": {
+    "ja": "物や人が入れる、あいている場所。"
+   }
   },
   {
    "id": "ja:en:000003939",
@@ -153277,7 +153701,11 @@
    "study_priority": 2296,
    "core_status": "retired",
    "duplicate_of": "en:000000525",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "コンピューターへの命令の集まり。また、予定や催し。",
+   "nativeExplain": {
+    "ja": "コンピューターへの命令の集まり。また、予定や催し。"
+   }
   },
   {
    "id": "ja:en:000003942",
@@ -153429,7 +153857,11 @@
    "study_priority": 2299,
    "core_status": "retired",
    "duplicate_of": "en:000000578",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地球の外にある、星がある広がり。",
+   "nativeExplain": {
+    "ja": "地球の外にある、星がある広がり。"
+   }
   },
   {
    "id": "ja:en:000003945",
@@ -153723,7 +154155,11 @@
    "study_priority": 2307,
    "core_status": "retired",
    "duplicate_of": "en:000000708",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "会社などの、ある部門の責任者。",
+   "nativeExplain": {
+    "ja": "会社などの、ある部門の責任者。"
+   }
   },
   {
    "id": "ja:en:000003953",
@@ -153853,7 +154289,11 @@
    "study_priority": 2309,
    "core_status": "retired",
    "duplicate_of": "en:000000730",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "データをコンピューターにとっておく。",
+   "nativeExplain": {
+    "ja": "データをコンピューターにとっておく。"
+   }
   },
   {
    "id": "ja:en:000003955",
@@ -153871,7 +154311,11 @@
    "study_priority": 2310,
    "core_status": "retired",
    "duplicate_of": "en:000000750",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ファッションショーなどで服を着て見せる人。",
+   "nativeExplain": {
+    "ja": "ファッションショーなどで服を着て見せる人。"
+   }
   },
   {
    "id": "ja:en:000003956",
@@ -153933,7 +154377,11 @@
    "study_priority": 2313,
    "core_status": "retired",
    "duplicate_of": "en:000003204",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "アメリカで人気の、楕円のボールを使う競技。",
+   "nativeExplain": {
+    "ja": "アメリカで人気の、楕円のボールを使う競技。"
+   }
   },
   {
    "id": "ja:en:000003959",
@@ -153973,7 +154421,11 @@
    "study_priority": 2315,
    "core_status": "retired",
    "duplicate_of": "en:000000911",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "軍人がくらし、はたらく場所。",
+   "nativeExplain": {
+    "ja": "軍人がくらし、はたらく場所。"
+   }
   },
   {
    "id": "ja:en:000003961",
@@ -153991,7 +154443,11 @@
    "study_priority": 2316,
    "core_status": "retired",
    "duplicate_of": "en:000001624",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "学校の勉強にあたえる点数。",
+   "nativeExplain": {
+    "ja": "学校の勉強にあたえる点数。"
+   }
   },
   {
    "id": "ja:en:000003962",
@@ -154009,7 +154465,11 @@
    "study_priority": 2317,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "試験に合格する。",
+   "nativeExplain": {
+    "ja": "試験に合格する。"
+   }
   },
   {
    "id": "ja:en:000003963",
@@ -154027,7 +154487,11 @@
    "study_priority": 2318,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物を相手の手にわたす。",
+   "nativeExplain": {
+    "ja": "物を相手の手にわたす。"
+   }
   },
   {
    "id": "ja:en:000003964",
@@ -154223,7 +154687,11 @@
    "study_priority": 2323,
    "core_status": "retired",
    "duplicate_of": "en:000001236",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "あるチームやスターが大好きで、応援する人。",
+   "nativeExplain": {
+    "ja": "あるチームやスターが大好きで、応援する人。"
+   }
   },
   {
    "id": "ja:en:000003969",
@@ -154285,7 +154753,11 @@
    "study_priority": 2326,
    "core_status": "retired",
    "duplicate_of": "en:000001001",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "荷物をはこぶ大型の車。",
+   "nativeExplain": {
+    "ja": "荷物をはこぶ大型の車。"
+   }
   },
   {
    "id": "ja:en:000003972",
@@ -154303,7 +154775,11 @@
    "study_priority": 2327,
    "core_status": "retired",
    "duplicate_of": "en:000001012",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事業を始めたり続けたりするためのお金。",
+   "nativeExplain": {
+    "ja": "事業を始めたり続けたりするためのお金。"
+   }
   },
   {
    "id": "ja:en:000003973",
@@ -154365,7 +154841,11 @@
    "study_priority": 2330,
    "core_status": "retired",
    "duplicate_of": "en:000001029",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ラジオの番組を放送する会社。",
+   "nativeExplain": {
+    "ja": "ラジオの番組を放送する会社。"
+   }
   },
   {
    "id": "ja:en:000003976",
@@ -154405,7 +154885,11 @@
    "study_priority": 2332,
    "core_status": "retired",
    "duplicate_of": "en:000001110",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "多くの人が目的のために行う活動。",
+   "nativeExplain": {
+    "ja": "多くの人が目的のために行う活動。"
+   }
   },
   {
    "id": "ja:en:000003978",
@@ -154555,7 +155039,11 @@
    "study_priority": 2339,
    "core_status": "retired",
    "duplicate_of": "en:000001518",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "遠くまで走る、大型の乗り物。",
+   "nativeExplain": {
+    "ja": "遠くまで走る、大型の乗り物。"
+   }
   },
   {
    "id": "ja:en:000003985",
@@ -154595,7 +155083,11 @@
    "study_priority": 2341,
    "core_status": "retired",
    "duplicate_of": "en:000001232",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "テレビやラジオで流す宣伝。",
+   "nativeExplain": {
+    "ja": "テレビやラジオで流す宣伝。"
+   }
   },
   {
    "id": "ja:en:000003987",
@@ -154813,7 +155305,11 @@
    "study_priority": 2347,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "乗り物に、時間にまにあう。",
+   "nativeExplain": {
+    "ja": "乗り物に、時間にまにあう。"
+   }
   },
   {
    "id": "ja:en:000003993",
@@ -154831,7 +155327,11 @@
    "study_priority": 2348,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "かぜなどの病気になる。",
+   "nativeExplain": {
+    "ja": "かぜなどの病気になる。"
+   }
   },
   {
    "id": "ja:en:000003994",
@@ -154871,7 +155371,11 @@
    "study_priority": 2350,
    "core_status": "retired",
    "duplicate_of": "en:000001871",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "病気をなおすために飲んだりぬったりする物。",
+   "nativeExplain": {
+    "ja": "病気をなおすために飲んだりぬったりする物。"
+   }
   },
   {
    "id": "ja:en:000003996",
@@ -154889,7 +155393,11 @@
    "study_priority": 2351,
    "core_status": "retired",
    "duplicate_of": "en:000003203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "カトリックの教会で行う儀式。",
+   "nativeExplain": {
+    "ja": "カトリックの教会で行う儀式。"
+   }
   },
   {
    "id": "ja:en:000003997",
@@ -155085,7 +155593,11 @@
    "study_priority": 2356,
    "core_status": "retired",
    "duplicate_of": "en:000001523",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "よくない点をさがして、きびしく見る。",
+   "nativeExplain": {
+    "ja": "よくない点をさがして、きびしく見る。"
+   }
   },
   {
    "id": "ja:en:000004002",
@@ -155125,7 +155637,11 @@
    "study_priority": 2358,
    "core_status": "retired",
    "duplicate_of": "en:000001599",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ある目的のために資金を出す団体。",
+   "nativeExplain": {
+    "ja": "ある目的のために資金を出す団体。"
+   }
   },
   {
    "id": "ja:en:000004004",
@@ -155455,7 +155971,11 @@
    "study_priority": 2365,
    "core_status": "retired",
    "duplicate_of": "en:000001733",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "病院などで治療を受ける人。",
+   "nativeExplain": {
+    "ja": "病院などで治療を受ける人。"
+   }
   },
   {
    "id": "ja:en:000004011",
@@ -155517,7 +156037,11 @@
    "study_priority": 2368,
    "core_status": "retired",
    "duplicate_of": "en:000001770",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "全集などの、一さつの本。",
+   "nativeExplain": {
+    "ja": "全集などの、一さつの本。"
+   }
   },
   {
    "id": "ja:en:000004014",
@@ -155601,7 +156125,11 @@
    "study_priority": 2372,
    "core_status": "retired",
    "duplicate_of": "en:000000869",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ふつうでなく、とても変わったようす。",
+   "nativeExplain": {
+    "ja": "ふつうでなく、とても変わったようす。"
+   }
   },
   {
    "id": "ja:en:000004018",
@@ -155753,7 +156281,11 @@
    "study_priority": 2375,
    "core_status": "retired",
    "duplicate_of": "en:000002203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "建物の中の、ひと世帯がくらす部屋。",
+   "nativeExplain": {
+    "ja": "建物の中の、ひと世帯がくらす部屋。"
+   }
   },
   {
    "id": "ja:en:000004021",
@@ -155771,7 +156303,11 @@
    "study_priority": 2376,
    "core_status": "retired",
    "duplicate_of": "en:000001046",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "気軽にかける、あいさつの言葉。",
+   "nativeExplain": {
+    "ja": "気軽にかける、あいさつの言葉。"
+   }
   },
   {
    "id": "ja:en:000004022",
@@ -156035,7 +156571,11 @@
    "study_priority": 2380,
    "core_status": "retired",
    "duplicate_of": "en:000002032",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "家庭や家のなかのこと。",
+   "nativeExplain": {
+    "ja": "家庭や家のなかのこと。"
+   }
   },
   {
    "id": "ja:en:000004026",
@@ -156053,7 +156593,11 @@
    "study_priority": 2381,
    "core_status": "retired",
    "duplicate_of": "en:000002071",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "勉強のために解く、練習の問題。",
+   "nativeExplain": {
+    "ja": "勉強のために解く、練習の問題。"
+   }
   },
   {
    "id": "ja:en:000004027",
@@ -156071,7 +156615,11 @@
    "study_priority": 2382,
    "core_status": "retired",
    "duplicate_of": "en:000002132",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人や情報がつながる、土台となるしくみ。",
+   "nativeExplain": {
+    "ja": "人や情報がつながる、土台となるしくみ。"
+   }
   },
   {
    "id": "ja:en:000004028",
@@ -156289,7 +156837,11 @@
    "study_priority": 2388,
    "core_status": "retired",
    "duplicate_of": "en:000002295",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "にわとりの肉。",
+   "nativeExplain": {
+    "ja": "にわとりの肉。"
+   }
   },
   {
    "id": "ja:en:000004034",
@@ -156307,7 +156859,11 @@
    "study_priority": 2389,
    "core_status": "retired",
    "duplicate_of": "en:000002335",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "先のことを見通す考えや構想。",
+   "nativeExplain": {
+    "ja": "先のことを見通す考えや構想。"
+   }
   },
   {
    "id": "ja:en:000004035",
@@ -156325,7 +156881,11 @@
    "study_priority": 2390,
    "core_status": "retired",
    "duplicate_of": "en:000002344",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "肌にぬったり食べたりする、やわらかいもの。",
+   "nativeExplain": {
+    "ja": "肌にぬったり食べたりする、やわらかいもの。"
+   }
   },
   {
    "id": "ja:en:000004036",
@@ -156343,7 +156903,11 @@
    "study_priority": 2391,
    "core_status": "retired",
    "duplicate_of": "en:000002361",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "赤と黄色の間の色。",
+   "nativeExplain": {
+    "ja": "赤と黄色の間の色。"
+   }
   },
   {
    "id": "ja:en:000004037",
@@ -156517,7 +157081,11 @@
    "study_priority": 2395,
    "core_status": "retired",
    "duplicate_of": "en:000002515",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "画面の映像がどれだけこまかいか。",
+   "nativeExplain": {
+    "ja": "画面の映像がどれだけこまかいか。"
+   }
   },
   {
    "id": "ja:en:000004041",
@@ -156645,7 +157213,11 @@
    "study_priority": 2401,
    "core_status": "retired",
    "duplicate_of": "en:000000601",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "お父さんとお母さん。",
+   "nativeExplain": {
+    "ja": "お父さんとお母さん。"
+   }
   },
   {
    "id": "ja:en:000004047",
@@ -156663,7 +157235,11 @@
    "study_priority": 2402,
    "core_status": "retired",
    "duplicate_of": "en:000002658",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人をより高い役職にあげる。",
+   "nativeExplain": {
+    "ja": "人をより高い役職にあげる。"
+   }
   },
   {
    "id": "ja:en:000004048",
@@ -156681,7 +157257,11 @@
    "study_priority": 2403,
    "core_status": "retired",
    "duplicate_of": "en:000002693",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "考えを言葉で表したもの。",
+   "nativeExplain": {
+    "ja": "考えを言葉で表したもの。"
+   }
   },
   {
    "id": "ja:en:000004049",
@@ -156721,7 +157301,11 @@
    "study_priority": 2405,
    "core_status": "retired",
    "duplicate_of": "en:000002562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物のとがった先の部分。",
+   "nativeExplain": {
+    "ja": "物のとがった先の部分。"
+   }
   },
   {
    "id": "ja:en:000004051",
@@ -157229,7 +157813,11 @@
    "study_priority": 2416,
    "core_status": "retired",
    "duplicate_of": "en:000003562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "顔につけて美しく見せる化粧品。",
+   "nativeExplain": {
+    "ja": "顔につけて美しく見せる化粧品。"
+   }
   },
   {
    "id": "ja:en:000004062",
@@ -157559,7 +158147,11 @@
    "study_priority": 903,
    "core_status": "retired",
    "duplicate_of": "en:000004053",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "表面に絵の具やペンキをつける。",
+   "nativeExplain": {
+    "ja": "表面に絵の具やペンキをつける。"
+   }
   },
   {
    "id": "ja:en:000004069",
@@ -158323,7 +158915,11 @@
    "study_priority": 3773,
    "core_status": "retired",
    "duplicate_of": "en:000000221",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "ブラジルのお金の単位。",
+   "nativeExplain": {
+    "ja": "ブラジルのお金の単位。"
+   }
   },
   {
    "id": "ja:en:000004082",
@@ -160648,7 +161244,11 @@
    "study_priority": 3295,
    "core_status": "retired",
    "duplicate_of": "en:000002662",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "夜に体を休めるための、ねむること。",
+   "nativeExplain": {
+    "ja": "夜に体を休めるための、ねむること。"
+   }
   },
   {
    "id": "ja:en:000004155",

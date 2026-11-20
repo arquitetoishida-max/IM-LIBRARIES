@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.2",
+ "version": "2.4.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -31,7 +31,8 @@
   "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
-  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...)."
+  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
  ],
  "entries": [
   {
@@ -7932,7 +7933,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3778,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Palavra grosseira para cocô; também usada para mostrar raiva.",
+   "nativeExplain": {
+    "pt-BR": "Palavra grosseira para cocô; também usada para mostrar raiva."
+   }
   },
   {
    "id": "pt-BR:en:000000306",
@@ -9674,7 +9679,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3779,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Palavrão muito grosseiro; mostra raiva.",
+   "nativeExplain": {
+    "pt-BR": "Palavrão muito grosseiro; mostra raiva."
+   }
   },
   {
    "id": "pt-BR:en:000000383",
@@ -11072,7 +11081,11 @@
    ],
    "study_tier": "fora da trilha geral",
    "study_priority": 2542,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Palavra grosseira que reforça o que vem depois.",
+   "nativeExplain": {
+    "pt-BR": "Palavra grosseira que reforça o que vem depois."
+   }
   },
   {
    "id": "pt-BR:en:000000448",
@@ -18589,7 +18602,11 @@
    "core_status": "search_only",
    "study_tier": "intermediário",
    "study_priority": 2669,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Lugar de sofrimento depois da morte; também uma palavra de raiva.",
+   "nativeExplain": {
+    "pt-BR": "Lugar de sofrimento depois da morte; também uma palavra de raiva."
+   }
   },
   {
    "id": "pt-BR:en:000000801",
@@ -18956,7 +18973,11 @@
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2681,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Palavra que mostra raiva ou surpresa (um pouco grosseira).",
+   "nativeExplain": {
+    "pt-BR": "Palavra que mostra raiva ou surpresa (um pouco grosseira)."
+   }
   },
   {
    "id": "pt-BR:en:000000818",
@@ -20990,7 +21011,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3792,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Gíria da internet: rir muito.",
+   "nativeExplain": {
+    "pt-BR": "Gíria da internet: rir muito."
+   }
   },
   {
    "id": "pt-BR:en:000000918",
@@ -21669,7 +21694,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3797,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma informal de \"querer\".",
+   "nativeExplain": {
+    "pt-BR": "Forma informal de \"querer\"."
+   }
   },
   {
    "id": "pt-BR:en:000000952",
@@ -23328,7 +23357,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3802,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O traseiro (palavra grosseira).",
+   "nativeExplain": {
+    "pt-BR": "O traseiro (palavra grosseira)."
+   }
   },
   {
    "id": "pt-BR:en:000001034",
@@ -25328,7 +25361,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3814,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Arma que dispara balas.",
+   "nativeExplain": {
+    "pt-BR": "Arma que dispara balas."
+   }
   },
   {
    "id": "pt-BR:en:000001136",
@@ -25762,7 +25799,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3815,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma informal de \"ter que\".",
+   "nativeExplain": {
+    "pt-BR": "Forma informal de \"ter que\"."
+   }
   },
   {
    "id": "pt-BR:en:000001157",
@@ -26718,7 +26759,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3818,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pouco inteligente; bobo (grosseiro).",
+   "nativeExplain": {
+    "pt-BR": "Pouco inteligente; bobo (grosseiro)."
+   }
   },
   {
    "id": "pt-BR:en:000001204",
@@ -26932,7 +26977,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3367,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Proteção contra um ataque.",
+   "nativeExplain": {
+    "pt-BR": "Proteção contra um ataque."
+   }
   },
   {
    "id": "pt-BR:en:000001214",
@@ -29443,7 +29492,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3830,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma informal de \"não é / não são / não tem\".",
+   "nativeExplain": {
+    "pt-BR": "Forma informal de \"não é / não são / não tem\"."
+   }
   },
   {
    "id": "pt-BR:en:000001350",
@@ -30986,7 +31039,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3835,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Matar alguém de propósito.",
+   "nativeExplain": {
+    "pt-BR": "Matar alguém de propósito."
+   }
   },
   {
    "id": "pt-BR:en:000001431",
@@ -33829,7 +33886,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3854,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um homem; também usado para chamar um amigo (gíria).",
+   "nativeExplain": {
+    "pt-BR": "Um homem; também usado para chamar um amigo (gíria)."
+   }
   },
   {
    "id": "pt-BR:en:000001596",
@@ -37658,7 +37719,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3877,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Usar a força para machucar pessoas.",
+   "nativeExplain": {
+    "pt-BR": "Usar a força para machucar pessoas."
+   }
   },
   {
    "id": "pt-BR:en:000001814",
@@ -38182,7 +38247,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3886,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bebida alcoólica feita de uvas.",
+   "nativeExplain": {
+    "pt-BR": "Bebida alcoólica feita de uvas."
+   }
   },
   {
    "id": "pt-BR:en:000001850",
@@ -38709,7 +38778,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3891,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Disparar uma arma; chutar a bola em direção ao gol.",
+   "nativeExplain": {
+    "pt-BR": "Disparar uma arma; chutar a bola em direção ao gol."
+   }
   },
   {
    "id": "pt-BR:en:000001882",
@@ -40592,7 +40665,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3900,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bebida alcoólica feita de grãos.",
+   "nativeExplain": {
+    "pt-BR": "Bebida alcoólica feita de grãos."
+   }
   },
   {
    "id": "pt-BR:en:000001992",
@@ -40904,7 +40981,11 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2904,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grafia britânica de \"labor\": trabalho.",
+   "nativeExplain": {
+    "pt-BR": "Grafia britânica de \"labor\": trabalho."
+   }
   },
   {
    "id": "pt-BR:en:000002009",
@@ -41039,7 +41120,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3902,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O plural de soldado.",
+   "nativeExplain": {
+    "pt-BR": "O plural de soldado."
+   }
   },
   {
    "id": "pt-BR:en:000002017",
@@ -43178,7 +43263,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3914,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Tratamento cruel ou que faz mal.",
+   "nativeExplain": {
+    "pt-BR": "Tratamento cruel ou que faz mal."
+   }
   },
   {
    "id": "pt-BR:en:000002153",
@@ -45381,7 +45470,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3927,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Soldados.",
+   "nativeExplain": {
+    "pt-BR": "Soldados."
+   }
   },
   {
    "id": "pt-BR:en:000002284",
@@ -47005,7 +47098,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3939,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Bebidas como cerveja e vinho.",
+   "nativeExplain": {
+    "pt-BR": "Bebidas como cerveja e vinho."
+   }
   },
   {
    "id": "pt-BR:en:000002386",
@@ -47273,7 +47370,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3941,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que bebeu álcool demais.",
+   "nativeExplain": {
+    "pt-BR": "Que bebeu álcool demais."
+   }
   },
   {
    "id": "pt-BR:en:000002401",
@@ -47728,7 +47829,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3944,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Arma que explode.",
+   "nativeExplain": {
+    "pt-BR": "Arma que explode."
+   }
   },
   {
    "id": "pt-BR:en:000002437",
@@ -48312,7 +48417,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3949,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que carrega armas.",
+   "nativeExplain": {
+    "pt-BR": "Que carrega armas."
+   }
   },
   {
    "id": "pt-BR:en:000002474",
@@ -48806,7 +48915,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3952,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Forma informal de \"mais ou menos\".",
+   "nativeExplain": {
+    "pt-BR": "Forma informal de \"mais ou menos\"."
+   }
   },
   {
    "id": "pt-BR:en:000002505",
@@ -49384,7 +49497,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3958,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Som de risada.",
+   "nativeExplain": {
+    "pt-BR": "Som de risada."
+   }
   },
   {
    "id": "pt-BR:en:000002542",
@@ -50114,7 +50231,11 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3003,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grafia britânica de \"favorito\".",
+   "nativeExplain": {
+    "pt-BR": "Grafia britânica de \"favorito\"."
+   }
   },
   {
    "id": "pt-BR:en:000002586",
@@ -50509,7 +50630,11 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3007,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grafia britânica de \"programa\".",
+   "nativeExplain": {
+    "pt-BR": "Grafia britânica de \"programa\"."
+   }
   },
   {
    "id": "pt-BR:en:000002603",
@@ -50910,7 +51035,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3964,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Luta entre pessoas ou exércitos.",
+   "nativeExplain": {
+    "pt-BR": "Luta entre pessoas ou exércitos."
+   }
   },
   {
    "id": "pt-BR:en:000002622",
@@ -51080,7 +51209,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3966,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Condição de tristeza profunda e duradoura; também um longo período de economia fraca.",
+   "nativeExplain": {
+    "pt-BR": "Condição de tristeza profunda e duradoura; também um longo período de economia fraca."
+   }
   },
   {
    "id": "pt-BR:en:000002632",
@@ -51441,7 +51574,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3599,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma coisa.",
+   "nativeExplain": {
+    "pt-BR": "Uma coisa."
+   }
   },
   {
    "id": "pt-BR:en:000002652",
@@ -53114,7 +53251,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3978,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Burro (informal, grosseiro).",
+   "nativeExplain": {
+    "pt-BR": "Burro (informal, grosseiro)."
+   }
   },
   {
    "id": "pt-BR:en:000002748",
@@ -53473,7 +53614,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Algo usado para ferir ou atacar (arma de fogo, faca).",
+   "nativeExplain": {
+    "pt-BR": "Algo usado para ferir ou atacar (arma de fogo, faca)."
+   }
   },
   {
    "id": "pt-BR:en:000002772",
@@ -55159,7 +55304,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Respirar a fumaça do cigarro.",
+   "nativeExplain": {
+    "pt-BR": "Respirar a fumaça do cigarro."
+   }
   },
   {
    "id": "pt-BR:en:000002875",
@@ -55557,7 +55706,11 @@
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grafia britânica de \"defesa\".",
+   "nativeExplain": {
+    "pt-BR": "Grafia britânica de \"defesa\"."
+   }
   },
   {
    "id": "pt-BR:en:000002898",
@@ -56521,7 +56674,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 4004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grupo de criminosos ou de amigos.",
+   "nativeExplain": {
+    "pt-BR": "Grupo de criminosos ou de amigos."
+   }
   },
   {
    "id": "pt-BR:en:000002957",
@@ -57274,7 +57431,11 @@
    ],
    "study_tier": "temático",
    "study_priority": 3717,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma música muito boa e empolgante.",
+   "nativeExplain": {
+    "pt-BR": "Uma música muito boa e empolgante."
+   }
   },
   {
    "id": "pt-BR:en:000003066",
@@ -61535,7 +61696,11 @@
    "study_priority": 3312,
    "core_status": "retired",
    "duplicate_of": "en:000000652",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Período de sessenta minutos.",
+   "nativeExplain": {
+    "pt-BR": "Período de sessenta minutos."
+   }
   },
   {
    "id": "pt-BR:en:000000390",
@@ -61551,7 +61716,11 @@
    "study_priority": 3313,
    "core_status": "retired",
    "duplicate_of": "en:000001034",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A primeira parte de algo.",
+   "nativeExplain": {
+    "pt-BR": "A primeira parte de algo."
+   }
   },
   {
    "id": "pt-BR:en:000000545",
@@ -61587,7 +61756,11 @@
    "study_priority": 1063,
    "core_status": "retired",
    "duplicate_of": "en:000000854",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Dar a impressão de ser algo.",
+   "nativeExplain": {
+    "pt-BR": "Dar a impressão de ser algo."
+   }
   },
   {
    "id": "pt-BR:en:000000559",
@@ -61603,7 +61776,11 @@
    "study_priority": 3317,
    "core_status": "retired",
    "duplicate_of": "en:000000226",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ideia ou opinião na mente.",
+   "nativeExplain": {
+    "pt-BR": "Ideia ou opinião na mente."
+   }
   },
   {
    "id": "pt-BR:en:000000575",
@@ -61659,7 +61836,11 @@
    "study_priority": 3324,
    "core_status": "retired",
    "duplicate_of": "en:000000314",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O tamanho de uma superfície plana.",
+   "nativeExplain": {
+    "pt-BR": "O tamanho de uma superfície plana."
+   }
   },
   {
    "id": "pt-BR:en:000000784",
@@ -61715,7 +61896,11 @@
    "study_priority": 3333,
    "core_status": "retired",
    "duplicate_of": "en:000001200",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Norma que diz o que é permitido ou não.",
+   "nativeExplain": {
+    "pt-BR": "Norma que diz o que é permitido ou não."
+   }
   },
   {
    "id": "pt-BR:en:000000907",
@@ -61771,7 +61956,11 @@
    "study_priority": 3339,
    "core_status": "retired",
    "duplicate_of": "en:000000245",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Uma situação ou exemplo de algo.",
+   "nativeExplain": {
+    "pt-BR": "Uma situação ou exemplo de algo."
+   }
   },
   {
    "id": "pt-BR:en:000000945",
@@ -61787,7 +61976,11 @@
    "study_priority": 3340,
    "core_status": "retired",
    "duplicate_of": "en:000001170",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Coisa fabricada ou vendida.",
+   "nativeExplain": {
+    "pt-BR": "Coisa fabricada ou vendida."
+   }
   },
   {
    "id": "pt-BR:en:000000955",
@@ -61843,7 +62036,11 @@
    "study_priority": 3346,
    "core_status": "retired",
    "duplicate_of": "en:000001076",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O ato de vender algo.",
+   "nativeExplain": {
+    "pt-BR": "O ato de vender algo."
+   }
   },
   {
    "id": "pt-BR:en:000001108",
@@ -61919,7 +62116,11 @@
    "study_priority": 3365,
    "core_status": "retired",
    "duplicate_of": "en:000001563",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Qualidade que algo tem.",
+   "nativeExplain": {
+    "pt-BR": "Qualidade que algo tem."
+   }
   },
   {
    "id": "pt-BR:en:000001218",
@@ -61935,7 +62136,11 @@
    "study_priority": 3368,
    "core_status": "retired",
    "duplicate_of": "en:000000461",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A causa ou a explicação de algo.",
+   "nativeExplain": {
+    "pt-BR": "A causa ou a explicação de algo."
+   }
   },
   {
    "id": "pt-BR:en:000001314",
@@ -62071,7 +62276,11 @@
    "study_priority": 3399,
    "core_status": "retired",
    "duplicate_of": "en:000000878",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O fato de deixar de ter algo.",
+   "nativeExplain": {
+    "pt-BR": "O fato de deixar de ter algo."
+   }
   },
   {
    "id": "pt-BR:en:000001503",
@@ -62107,7 +62316,11 @@
    "study_priority": 3414,
    "core_status": "retired",
    "duplicate_of": "en:000001440",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passar a ser visto.",
+   "nativeExplain": {
+    "pt-BR": "Passar a ser visto."
+   }
   },
   {
    "id": "pt-BR:en:000001546",
@@ -62123,7 +62336,11 @@
    "study_priority": 3418,
    "core_status": "retired",
    "duplicate_of": "en:000001677",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Animal doméstico pequeno e peludo que ronrona.",
+   "nativeExplain": {
+    "pt-BR": "Animal doméstico pequeno e peludo que ronrona."
+   }
   },
   {
    "id": "pt-BR:en:000001549",
@@ -62139,7 +62356,11 @@
    "study_priority": 3419,
    "core_status": "retired",
    "duplicate_of": "en:000000645",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O que se vê de um lugar.",
+   "nativeExplain": {
+    "pt-BR": "O que se vê de um lugar."
+   }
   },
   {
    "id": "pt-BR:en:000001572",
@@ -62155,7 +62376,11 @@
    "study_priority": 3422,
    "core_status": "retired",
    "duplicate_of": "en:000000654",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O centro ou a parte entre dois extremos.",
+   "nativeExplain": {
+    "pt-BR": "O centro ou a parte entre dois extremos."
+   }
   },
   {
    "id": "pt-BR:en:000001595",
@@ -62171,7 +62396,11 @@
    "study_priority": 3425,
    "core_status": "retired",
    "duplicate_of": "en:000002946",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que trabalha para uma empresa.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que trabalha para uma empresa."
+   }
   },
   {
    "id": "pt-BR:en:000001602",
@@ -62207,7 +62436,11 @@
    "study_priority": 3431,
    "core_status": "retired",
    "duplicate_of": "en:000001467",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Trabalhar para alguém ou fornecer comida ou ajuda.",
+   "nativeExplain": {
+    "pt-BR": "Trabalhar para alguém ou fornecer comida ou ajuda."
+   }
   },
   {
    "id": "pt-BR:en:000001705",
@@ -62243,7 +62476,11 @@
    "study_priority": 3448,
    "core_status": "retired",
    "duplicate_of": "en:000001234",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Trabalho duro para alcançar um objetivo.",
+   "nativeExplain": {
+    "pt-BR": "Trabalho duro para alcançar um objetivo."
+   }
   },
   {
    "id": "pt-BR:en:000001740",
@@ -62259,7 +62496,11 @@
    "study_priority": 3449,
    "core_status": "retired",
    "duplicate_of": "en:000002281",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O número 1.000.",
+   "nativeExplain": {
+    "pt-BR": "O número 1.000."
+   }
   },
   {
    "id": "pt-BR:en:000001777",
@@ -62295,7 +62536,11 @@
    "study_priority": 3454,
    "core_status": "retired",
    "duplicate_of": "en:000000188",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A última parte de algo.",
+   "nativeExplain": {
+    "pt-BR": "A última parte de algo."
+   }
   },
   {
    "id": "pt-BR:en:000001792",
@@ -62371,7 +62616,11 @@
    "study_priority": 3473,
    "core_status": "retired",
    "duplicate_of": "en:000000819",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Escolha feita depois de pensar.",
+   "nativeExplain": {
+    "pt-BR": "Escolha feita depois de pensar."
+   }
   },
   {
    "id": "pt-BR:en:000001917",
@@ -62429,7 +62678,11 @@
    "study_priority": 3479,
    "core_status": "retired",
    "duplicate_of": "en:000001644",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Abertura na parede, com vidro.",
+   "nativeExplain": {
+    "pt-BR": "Abertura na parede, com vidro."
+   }
   },
   {
    "id": "pt-BR:en:000001954",
@@ -62445,7 +62698,11 @@
    "study_priority": 3480,
    "core_status": "retired",
    "duplicate_of": "en:000000437",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grupo de pessoas que vivem no mesmo lugar.",
+   "nativeExplain": {
+    "pt-BR": "Grupo de pessoas que vivem no mesmo lugar."
+   }
   },
   {
    "id": "pt-BR:en:000001956",
@@ -62561,7 +62818,11 @@
    "study_priority": 3490,
    "core_status": "retired",
    "duplicate_of": "en:000000252",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Com tudo o que cabe.",
+   "nativeExplain": {
+    "pt-BR": "Com tudo o que cabe."
+   }
   },
   {
    "id": "pt-BR:en:000002012",
@@ -62597,7 +62858,11 @@
    "study_priority": 3502,
    "core_status": "retired",
    "duplicate_of": "en:000001473",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Planta alta com tronco e galhos.",
+   "nativeExplain": {
+    "pt-BR": "Planta alta com tronco e galhos."
+   }
   },
   {
    "id": "pt-BR:en:000002102",
@@ -62613,7 +62878,11 @@
    "study_priority": 3511,
    "core_status": "retired",
    "duplicate_of": "en:000001005",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Operação de somar números.",
+   "nativeExplain": {
+    "pt-BR": "Operação de somar números."
+   }
   },
   {
    "id": "pt-BR:en:000002108",
@@ -62629,7 +62898,11 @@
    "study_priority": 3513,
    "core_status": "retired",
    "duplicate_of": "en:000001620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que cria arte.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que cria arte."
+   }
   },
   {
    "id": "pt-BR:en:000002127",
@@ -62665,7 +62938,11 @@
    "study_priority": 3517,
    "core_status": "retired",
    "duplicate_of": "en:000001246",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grupo de pessoas que trabalham juntas por um objetivo.",
+   "nativeExplain": {
+    "pt-BR": "Grupo de pessoas que trabalham juntas por um objetivo."
+   }
   },
   {
    "id": "pt-BR:en:000002137",
@@ -62681,7 +62958,11 @@
    "study_priority": 3518,
    "core_status": "retired",
    "duplicate_of": "en:000001700",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Precisar de algo ou tornar algo necessário.",
+   "nativeExplain": {
+    "pt-BR": "Precisar de algo ou tornar algo necessário."
+   }
   },
   {
    "id": "pt-BR:en:000002154",
@@ -62697,7 +62978,11 @@
    "study_priority": 3522,
    "core_status": "retired",
    "duplicate_of": "en:000000216",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Negócio que vende produtos ou serviços.",
+   "nativeExplain": {
+    "pt-BR": "Negócio que vende produtos ou serviços."
+   }
   },
   {
    "id": "pt-BR:en:000002160",
@@ -62713,7 +62998,11 @@
    "study_priority": 3523,
    "core_status": "retired",
    "duplicate_of": "en:000000842",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Votação para escolher um líder ou representante.",
+   "nativeExplain": {
+    "pt-BR": "Votação para escolher um líder ou representante."
+   }
   },
   {
    "id": "pt-BR:en:000002180",
@@ -62749,7 +63038,11 @@
    "study_priority": 3527,
    "core_status": "retired",
    "duplicate_of": "en:000000620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Dar uma parte de algo a outras pessoas.",
+   "nativeExplain": {
+    "pt-BR": "Dar uma parte de algo a outras pessoas."
+   }
   },
   {
    "id": "pt-BR:en:000002215",
@@ -62765,7 +63058,11 @@
    "study_priority": 3529,
    "core_status": "retired",
    "duplicate_of": "en:000000406",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Dar um golpe com força.",
+   "nativeExplain": {
+    "pt-BR": "Dar um golpe com força."
+   }
   },
   {
    "id": "pt-BR:en:000002220",
@@ -62781,7 +63078,11 @@
    "study_priority": 3530,
    "core_status": "retired",
    "duplicate_of": "en:000000614",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Guiar ou ir à frente dos outros.",
+   "nativeExplain": {
+    "pt-BR": "Guiar ou ir à frente dos outros."
+   }
   },
   {
    "id": "pt-BR:en:000002240",
@@ -62817,7 +63118,11 @@
    "study_priority": 3540,
    "core_status": "retired",
    "duplicate_of": "en:000000611",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "História contada em imagens em movimento.",
+   "nativeExplain": {
+    "pt-BR": "História contada em imagens em movimento."
+   }
   },
   {
    "id": "pt-BR:en:000002265",
@@ -62833,7 +63138,11 @@
    "study_priority": 3542,
    "core_status": "retired",
    "duplicate_of": "en:000000451",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O número 1.000.000.",
+   "nativeExplain": {
+    "pt-BR": "O número 1.000.000."
+   }
   },
   {
    "id": "pt-BR:en:000002285",
@@ -62849,7 +63158,11 @@
    "study_priority": 3543,
    "core_status": "retired",
    "duplicate_of": "en:000000889",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O som que uma pessoa faz ao falar ou cantar.",
+   "nativeExplain": {
+    "pt-BR": "O som que uma pessoa faz ao falar ou cantar."
+   }
   },
   {
    "id": "pt-BR:en:000002324",
@@ -62865,7 +63178,11 @@
    "study_priority": 3550,
    "core_status": "retired",
    "duplicate_of": "en:000000603",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O lugar em que algo está.",
+   "nativeExplain": {
+    "pt-BR": "O lugar em que algo está."
+   }
   },
   {
    "id": "pt-BR:en:000002331",
@@ -62901,7 +63218,11 @@
    "study_priority": 3554,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Permitir que alguém faça algo.",
+   "nativeExplain": {
+    "pt-BR": "Permitir que alguém faça algo."
+   }
   },
   {
    "id": "pt-BR:en:000002382",
@@ -62957,7 +63278,11 @@
    "study_priority": 3564,
    "core_status": "retired",
    "duplicate_of": "en:000000428",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Homem, mulher ou criança; uma pessoa.",
+   "nativeExplain": {
+    "pt-BR": "Homem, mulher ou criança; uma pessoa."
+   }
   },
   {
    "id": "pt-BR:en:000002413",
@@ -62993,7 +63318,11 @@
    "study_priority": 3567,
    "core_status": "retired",
    "duplicate_of": "en:000000494",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Lugar onde pessoas compram e vendem coisas.",
+   "nativeExplain": {
+    "pt-BR": "Lugar onde pessoas compram e vendem coisas."
+   }
   },
   {
    "id": "pt-BR:en:000002424",
@@ -63009,7 +63338,11 @@
    "study_priority": 3569,
    "core_status": "retired",
    "duplicate_of": "en:000000790",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fazer algo ir a outro lugar ou pessoa.",
+   "nativeExplain": {
+    "pt-BR": "Fazer algo ir a outro lugar ou pessoa."
+   }
   },
   {
    "id": "pt-BR:en:000002434",
@@ -63025,7 +63358,11 @@
    "study_priority": 3572,
    "core_status": "retired",
    "duplicate_of": "en:000000663",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O que se diz ou escreve em reação a uma pergunta.",
+   "nativeExplain": {
+    "pt-BR": "O que se diz ou escreve em reação a uma pergunta."
+   }
   },
   {
    "id": "pt-BR:en:000002435",
@@ -63041,7 +63378,11 @@
    "study_priority": 3573,
    "core_status": "retired",
    "duplicate_of": "en:000002290",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Animal com penas e asas.",
+   "nativeExplain": {
+    "pt-BR": "Animal com penas e asas."
+   }
   },
   {
    "id": "pt-BR:en:000002463",
@@ -63077,7 +63418,11 @@
    "study_priority": 3580,
    "core_status": "retired",
    "duplicate_of": "en:000001618",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa já crescida.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa já crescida."
+   }
   },
   {
    "id": "pt-BR:en:000002482",
@@ -63093,7 +63438,11 @@
    "study_priority": 3581,
    "core_status": "retired",
    "duplicate_of": "en:000002065",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passar informações a outras pessoas.",
+   "nativeExplain": {
+    "pt-BR": "Passar informações a outras pessoas."
+   }
   },
   {
    "id": "pt-BR:en:000002483",
@@ -63149,7 +63498,11 @@
    "study_priority": 3584,
    "core_status": "retired",
    "duplicate_of": "en:000002112",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ferramenta ou máquina para uma função.",
+   "nativeExplain": {
+    "pt-BR": "Ferramenta ou máquina para uma função."
+   }
   },
   {
    "id": "pt-BR:en:000002493",
@@ -63165,7 +63518,11 @@
    "study_priority": 3585,
    "core_status": "retired",
    "duplicate_of": "en:000001269",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Imagens e sensações na mente durante o sono.",
+   "nativeExplain": {
+    "pt-BR": "Imagens e sensações na mente durante o sono."
+   }
   },
   {
    "id": "pt-BR:en:000002509",
@@ -63181,7 +63538,11 @@
    "study_priority": 3588,
    "core_status": "retired",
    "duplicate_of": "en:000002228",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que faz pouco ou nenhum barulho.",
+   "nativeExplain": {
+    "pt-BR": "Que faz pouco ou nenhum barulho."
+   }
   },
   {
    "id": "pt-BR:en:000002518",
@@ -63217,7 +63578,11 @@
    "study_priority": 3592,
    "core_status": "retired",
    "duplicate_of": "en:000002024",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O jeito como uma pessoa age.",
+   "nativeExplain": {
+    "pt-BR": "O jeito como uma pessoa age."
+   }
   },
   {
    "id": "pt-BR:en:000002533",
@@ -63233,7 +63598,11 @@
    "study_priority": 3593,
    "core_status": "retired",
    "duplicate_of": "en:000002844",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Período de dez anos.",
+   "nativeExplain": {
+    "pt-BR": "Período de dez anos."
+   }
   },
   {
    "id": "pt-BR:en:000002556",
@@ -63289,7 +63658,11 @@
    "study_priority": 3600,
    "core_status": "retired",
    "duplicate_of": "en:000001497",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa com quem se faz algo, no trabalho ou na vida.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa com quem se faz algo, no trabalho ou na vida."
+   }
   },
   {
    "id": "pt-BR:en:000002660",
@@ -63345,7 +63718,11 @@
    "study_priority": 3610,
    "core_status": "retired",
    "duplicate_of": "en:000001220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Barco grande que leva pessoas ou cargas.",
+   "nativeExplain": {
+    "pt-BR": "Barco grande que leva pessoas ou cargas."
+   }
   },
   {
    "id": "pt-BR:en:000002728",
@@ -63361,7 +63738,11 @@
    "study_priority": 3613,
    "core_status": "retired",
    "duplicate_of": "en:000002058",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que escreve livros ou artigos.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que escreve livros ou artigos."
+   }
   },
   {
    "id": "pt-BR:en:000002744",
@@ -63397,7 +63778,11 @@
    "study_priority": 3615,
    "core_status": "retired",
    "duplicate_of": "en:000000841",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Peça que abre e fecha uma entrada.",
+   "nativeExplain": {
+    "pt-BR": "Peça que abre e fecha uma entrada."
+   }
   },
   {
    "id": "pt-BR:en:000002775",
@@ -63413,7 +63798,11 @@
    "study_priority": 3616,
    "core_status": "retired",
    "duplicate_of": "en:000000457",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Quantos anos alguém já viveu.",
+   "nativeExplain": {
+    "pt-BR": "Quantos anos alguém já viveu."
+   }
   },
   {
    "id": "pt-BR:en:000002810",
@@ -63469,7 +63858,11 @@
    "study_priority": 3624,
    "core_status": "retired",
    "duplicate_of": "en:000000930",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Objeto redondo usado em jogos.",
+   "nativeExplain": {
+    "pt-BR": "Objeto redondo usado em jogos."
+   }
   },
   {
    "id": "pt-BR:en:000002836",
@@ -63505,7 +63898,11 @@
    "study_priority": 3626,
    "core_status": "retired",
    "duplicate_of": "en:000001016",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O modo como duas coisas não são iguais.",
+   "nativeExplain": {
+    "pt-BR": "O modo como duas coisas não são iguais."
+   }
   },
   {
    "id": "pt-BR:en:000002908",
@@ -63521,7 +63918,11 @@
    "study_priority": 3630,
    "core_status": "retired",
    "duplicate_of": "en:000000325",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Grupo de coisas com as mesmas características.",
+   "nativeExplain": {
+    "pt-BR": "Grupo de coisas com as mesmas características."
+   }
   },
   {
    "id": "pt-BR:en:000002909",
@@ -63537,7 +63938,11 @@
    "study_priority": 3631,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Permitir que alguém faça algo.",
+   "nativeExplain": {
+    "pt-BR": "Permitir que alguém faça algo."
+   }
   },
   {
    "id": "pt-BR:en:000002914",
@@ -63573,7 +63978,11 @@
    "study_priority": 3639,
    "core_status": "retired",
    "duplicate_of": "en:000001684",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Para que algo serve ou o que faz.",
+   "nativeExplain": {
+    "pt-BR": "Para que algo serve ou o que faz."
+   }
   },
   {
    "id": "pt-BR:en:000002961",
@@ -63589,7 +63998,11 @@
    "study_priority": 3640,
    "core_status": "retired",
    "duplicate_of": "en:000001020",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Terra cercada de água por todos os lados.",
+   "nativeExplain": {
+    "pt-BR": "Terra cercada de água por todos os lados."
+   }
   },
   {
    "id": "pt-BR:en:000002965",
@@ -63605,7 +64018,11 @@
    "study_priority": 3641,
    "core_status": "retired",
    "duplicate_of": "en:000001605",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A capacidade de lembrar das coisas.",
+   "nativeExplain": {
+    "pt-BR": "A capacidade de lembrar das coisas."
+   }
   },
   {
    "id": "pt-BR:en:000002968",
@@ -63621,7 +64038,11 @@
    "study_priority": 3642,
    "core_status": "retired",
    "duplicate_of": "en:000001873",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Elevação natural muito alta de rocha e terra.",
+   "nativeExplain": {
+    "pt-BR": "Elevação natural muito alta de rocha e terra."
+   }
   },
   {
    "id": "pt-BR:en:000002978",
@@ -78267,7 +78688,11 @@
    "study_priority": 2273,
    "core_status": "retired",
    "duplicate_of": "en:000000156",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A condição de algo em certo momento.",
+   "nativeExplain": {
+    "pt-BR": "A condição de algo em certo momento."
+   }
   },
   {
    "id": "pt-BR:en:000003919",
@@ -78463,7 +78888,11 @@
    "study_priority": 2284,
    "core_status": "retired",
    "duplicate_of": "en:000000328",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O chefe de uma empresa ou organização.",
+   "nativeExplain": {
+    "pt-BR": "O chefe de uma empresa ou organização."
+   }
   },
   {
    "id": "pt-BR:en:000003930",
@@ -78479,7 +78908,11 @@
    "study_priority": 2285,
    "core_status": "retired",
    "duplicate_of": "en:000003205",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Usado para dizer sim com firmeza.",
+   "nativeExplain": {
+    "pt-BR": "Usado para dizer sim com firmeza."
+   }
   },
   {
    "id": "pt-BR:en:000003931",
@@ -78595,7 +79028,11 @@
    "study_priority": 2292,
    "core_status": "retired",
    "duplicate_of": "en:000000386",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que não se consegue encontrar.",
+   "nativeExplain": {
+    "pt-BR": "Que não se consegue encontrar."
+   }
   },
   {
    "id": "pt-BR:en:000003938",
@@ -78611,7 +79048,11 @@
    "study_priority": 2293,
    "core_status": "retired",
    "duplicate_of": "en:000002660",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Área livre onde cabem coisas ou pessoas.",
+   "nativeExplain": {
+    "pt-BR": "Área livre onde cabem coisas ou pessoas."
+   }
   },
   {
    "id": "pt-BR:en:000003939",
@@ -78647,7 +79088,11 @@
    "study_priority": 2296,
    "core_status": "retired",
    "duplicate_of": "en:000000525",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Série de instruções para um computador; um show na TV.",
+   "nativeExplain": {
+    "pt-BR": "Série de instruções para um computador; um show na TV."
+   }
   },
   {
    "id": "pt-BR:en:000003942",
@@ -78703,7 +79148,11 @@
    "study_priority": 2299,
    "core_status": "retired",
    "duplicate_of": "en:000000578",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A região além da Terra onde ficam as estrelas.",
+   "nativeExplain": {
+    "pt-BR": "A região além da Terra onde ficam as estrelas."
+   }
   },
   {
    "id": "pt-BR:en:000003945",
@@ -78859,7 +79308,11 @@
    "study_priority": 2307,
    "core_status": "retired",
    "duplicate_of": "en:000000708",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa responsável por um departamento.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa responsável por um departamento."
+   }
   },
   {
    "id": "pt-BR:en:000003953",
@@ -78895,7 +79348,11 @@
    "study_priority": 2309,
    "core_status": "retired",
    "duplicate_of": "en:000000730",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Guardar dados em um computador.",
+   "nativeExplain": {
+    "pt-BR": "Guardar dados em um computador."
+   }
   },
   {
    "id": "pt-BR:en:000003955",
@@ -78911,7 +79368,11 @@
    "study_priority": 2310,
    "core_status": "retired",
    "duplicate_of": "en:000000750",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que apresenta roupas em desfiles.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que apresenta roupas em desfiles."
+   }
   },
   {
    "id": "pt-BR:en:000003956",
@@ -78967,7 +79428,11 @@
    "study_priority": 2313,
    "core_status": "retired",
    "duplicate_of": "en:000003204",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Esporte dos EUA jogado com bola oval.",
+   "nativeExplain": {
+    "pt-BR": "Esporte dos EUA jogado com bola oval."
+   }
   },
   {
    "id": "pt-BR:en:000003959",
@@ -79003,7 +79468,11 @@
    "study_priority": 2315,
    "core_status": "retired",
    "duplicate_of": "en:000000911",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Lugar onde soldados vivem e trabalham.",
+   "nativeExplain": {
+    "pt-BR": "Lugar onde soldados vivem e trabalham."
+   }
   },
   {
    "id": "pt-BR:en:000003961",
@@ -79019,7 +79488,11 @@
    "study_priority": 2316,
    "core_status": "retired",
    "duplicate_of": "en:000001624",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Nota dada por um trabalho escolar.",
+   "nativeExplain": {
+    "pt-BR": "Nota dada por um trabalho escolar."
+   }
   },
   {
    "id": "pt-BR:en:000003962",
@@ -79035,7 +79508,11 @@
    "study_priority": 2317,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ser aprovado em uma prova.",
+   "nativeExplain": {
+    "pt-BR": "Ser aprovado em uma prova."
+   }
   },
   {
    "id": "pt-BR:en:000003963",
@@ -79051,7 +79528,11 @@
    "study_priority": 2318,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Entregar algo a alguém.",
+   "nativeExplain": {
+    "pt-BR": "Entregar algo a alguém."
+   }
   },
   {
    "id": "pt-BR:en:000003964",
@@ -79147,7 +79628,11 @@
    "study_priority": 2323,
    "core_status": "retired",
    "duplicate_of": "en:000001236",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que adora e acompanha um time ou artista.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que adora e acompanha um time ou artista."
+   }
   },
   {
    "id": "pt-BR:en:000003969",
@@ -79203,7 +79688,11 @@
    "study_priority": 2326,
    "core_status": "retired",
    "duplicate_of": "en:000001001",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Caminhão grande para carregar cargas.",
+   "nativeExplain": {
+    "pt-BR": "Caminhão grande para carregar cargas."
+   }
   },
   {
    "id": "pt-BR:en:000003972",
@@ -79219,7 +79708,11 @@
    "study_priority": 2327,
    "core_status": "retired",
    "duplicate_of": "en:000001012",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Dinheiro usado para abrir ou manter um negócio.",
+   "nativeExplain": {
+    "pt-BR": "Dinheiro usado para abrir ou manter um negócio."
+   }
   },
   {
    "id": "pt-BR:en:000003973",
@@ -79275,7 +79768,11 @@
    "study_priority": 2330,
    "core_status": "retired",
    "duplicate_of": "en:000001029",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Empresa que transmite programas de rádio.",
+   "nativeExplain": {
+    "pt-BR": "Empresa que transmite programas de rádio."
+   }
   },
   {
    "id": "pt-BR:en:000003976",
@@ -79311,7 +79808,11 @@
    "study_priority": 2332,
    "core_status": "retired",
    "duplicate_of": "en:000001110",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Esforço organizado de muitas pessoas por uma causa.",
+   "nativeExplain": {
+    "pt-BR": "Esforço organizado de muitas pessoas por uma causa."
+   }
   },
   {
    "id": "pt-BR:en:000003978",
@@ -79447,7 +79948,11 @@
    "study_priority": 2339,
    "core_status": "retired",
    "duplicate_of": "en:000001518",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Veículo grande que viaja longas distâncias.",
+   "nativeExplain": {
+    "pt-BR": "Veículo grande que viaja longas distâncias."
+   }
   },
   {
    "id": "pt-BR:en:000003985",
@@ -79483,7 +79988,11 @@
    "study_priority": 2341,
    "core_status": "retired",
    "duplicate_of": "en:000001232",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Anúncio na TV ou no rádio.",
+   "nativeExplain": {
+    "pt-BR": "Anúncio na TV ou no rádio."
+   }
   },
   {
    "id": "pt-BR:en:000003987",
@@ -79599,7 +80108,11 @@
    "study_priority": 2347,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Chegar a tempo de pegar um ônibus ou trem.",
+   "nativeExplain": {
+    "pt-BR": "Chegar a tempo de pegar um ônibus ou trem."
+   }
   },
   {
    "id": "pt-BR:en:000003993",
@@ -79615,7 +80128,11 @@
    "study_priority": 2348,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Ficar doente com um resfriado.",
+   "nativeExplain": {
+    "pt-BR": "Ficar doente com um resfriado."
+   }
   },
   {
    "id": "pt-BR:en:000003994",
@@ -79651,7 +80168,11 @@
    "study_priority": 2350,
    "core_status": "retired",
    "duplicate_of": "en:000001871",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Algo que se toma para melhorar de uma doença.",
+   "nativeExplain": {
+    "pt-BR": "Algo que se toma para melhorar de uma doença."
+   }
   },
   {
    "id": "pt-BR:en:000003996",
@@ -79667,7 +80188,11 @@
    "study_priority": 2351,
    "core_status": "retired",
    "duplicate_of": "en:000003203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cerimônia da igreja católica.",
+   "nativeExplain": {
+    "pt-BR": "Cerimônia da igreja católica."
+   }
   },
   {
    "id": "pt-BR:en:000003997",
@@ -79763,7 +80288,11 @@
    "study_priority": 2356,
    "core_status": "retired",
    "duplicate_of": "en:000001523",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que aponta defeitos; que julga de modo negativo.",
+   "nativeExplain": {
+    "pt-BR": "Que aponta defeitos; que julga de modo negativo."
+   }
   },
   {
    "id": "pt-BR:en:000004002",
@@ -79799,7 +80328,11 @@
    "study_priority": 2358,
    "core_status": "retired",
    "duplicate_of": "en:000001599",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Organização que doa dinheiro para uma causa.",
+   "nativeExplain": {
+    "pt-BR": "Organização que doa dinheiro para uma causa."
+   }
   },
   {
    "id": "pt-BR:en:000004004",
@@ -79935,7 +80468,11 @@
    "study_priority": 2365,
    "core_status": "retired",
    "duplicate_of": "en:000001733",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Pessoa que recebe cuidados médicos.",
+   "nativeExplain": {
+    "pt-BR": "Pessoa que recebe cuidados médicos."
+   }
   },
   {
    "id": "pt-BR:en:000004011",
@@ -79991,7 +80528,11 @@
    "study_priority": 2368,
    "core_status": "retired",
    "duplicate_of": "en:000001770",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um livro de uma coleção.",
+   "nativeExplain": {
+    "pt-BR": "Um livro de uma coleção."
+   }
   },
   {
    "id": "pt-BR:en:000004014",
@@ -80067,7 +80608,11 @@
    "study_priority": 2372,
    "core_status": "retired",
    "duplicate_of": "en:000000869",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Que age de um jeito muito estranho.",
+   "nativeExplain": {
+    "pt-BR": "Que age de um jeito muito estranho."
+   }
   },
   {
    "id": "pt-BR:en:000004018",
@@ -80123,7 +80668,11 @@
    "study_priority": 2375,
    "core_status": "retired",
    "duplicate_of": "en:000002203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Conjunto de cômodos num prédio, onde alguém mora.",
+   "nativeExplain": {
+    "pt-BR": "Conjunto de cômodos num prédio, onde alguém mora."
+   }
   },
   {
    "id": "pt-BR:en:000004021",
@@ -80139,7 +80688,11 @@
    "study_priority": 2376,
    "core_status": "retired",
    "duplicate_of": "en:000001046",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cumprimento informal.",
+   "nativeExplain": {
+    "pt-BR": "Cumprimento informal."
+   }
   },
   {
    "id": "pt-BR:en:000004022",
@@ -80215,7 +80768,11 @@
    "study_priority": 2380,
    "core_status": "retired",
    "duplicate_of": "en:000002032",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Do lar ou da família.",
+   "nativeExplain": {
+    "pt-BR": "Do lar ou da família."
+   }
   },
   {
    "id": "pt-BR:en:000004026",
@@ -80231,7 +80788,11 @@
    "study_priority": 2381,
    "core_status": "retired",
    "duplicate_of": "en:000002071",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Problema de treino para um aluno.",
+   "nativeExplain": {
+    "pt-BR": "Problema de treino para um aluno."
+   }
   },
   {
    "id": "pt-BR:en:000004027",
@@ -80247,7 +80808,11 @@
    "study_priority": 2382,
    "core_status": "retired",
    "duplicate_of": "en:000002132",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Superfície plana e elevada; serviço de computador onde pessoas se conectam.",
+   "nativeExplain": {
+    "pt-BR": "Superfície plana e elevada; serviço de computador onde pessoas se conectam."
+   }
   },
   {
    "id": "pt-BR:en:000004028",
@@ -80363,7 +80928,11 @@
    "study_priority": 2388,
    "core_status": "retired",
    "duplicate_of": "en:000002295",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Carne de ave de criação.",
+   "nativeExplain": {
+    "pt-BR": "Carne de ave de criação."
+   }
   },
   {
    "id": "pt-BR:en:000004034",
@@ -80379,7 +80948,11 @@
    "study_priority": 2389,
    "core_status": "retired",
    "duplicate_of": "en:000002335",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Imaginação sobre o futuro; capacidade de ver.",
+   "nativeExplain": {
+    "pt-BR": "Imaginação sobre o futuro; capacidade de ver."
+   }
   },
   {
    "id": "pt-BR:en:000004035",
@@ -80395,7 +80968,11 @@
    "study_priority": 2390,
    "core_status": "retired",
    "duplicate_of": "en:000002344",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Substância grossa e macia para a pele ou para a comida.",
+   "nativeExplain": {
+    "pt-BR": "Substância grossa e macia para a pele ou para a comida."
+   }
   },
   {
    "id": "pt-BR:en:000004036",
@@ -80411,7 +80988,11 @@
    "study_priority": 2391,
    "core_status": "retired",
    "duplicate_of": "en:000002361",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A cor entre o vermelho e o amarelo.",
+   "nativeExplain": {
+    "pt-BR": "A cor entre o vermelho e o amarelo."
+   }
   },
   {
    "id": "pt-BR:en:000004037",
@@ -80487,7 +81068,11 @@
    "study_priority": 2395,
    "core_status": "retired",
    "duplicate_of": "en:000002515",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Nitidez e detalhe de uma imagem na tela.",
+   "nativeExplain": {
+    "pt-BR": "Nitidez e detalhe de uma imagem na tela."
+   }
   },
   {
    "id": "pt-BR:en:000004041",
@@ -80603,7 +81188,11 @@
    "study_priority": 2401,
    "core_status": "retired",
    "duplicate_of": "en:000000601",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A mãe e o pai.",
+   "nativeExplain": {
+    "pt-BR": "A mãe e o pai."
+   }
   },
   {
    "id": "pt-BR:en:000004047",
@@ -80619,7 +81208,11 @@
    "study_priority": 2402,
    "core_status": "retired",
    "duplicate_of": "en:000002658",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Passar alguém para um cargo mais alto.",
+   "nativeExplain": {
+    "pt-BR": "Passar alguém para um cargo mais alto."
+   }
   },
   {
    "id": "pt-BR:en:000004048",
@@ -80635,7 +81228,11 @@
    "study_priority": 2403,
    "core_status": "retired",
    "duplicate_of": "en:000002693",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Um modo de mostrar um pensamento em palavras.",
+   "nativeExplain": {
+    "pt-BR": "Um modo de mostrar um pensamento em palavras."
+   }
   },
   {
    "id": "pt-BR:en:000004049",
@@ -80671,7 +81268,11 @@
    "study_priority": 2405,
    "core_status": "retired",
    "duplicate_of": "en:000002562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A ponta de algo.",
+   "nativeExplain": {
+    "pt-BR": "A ponta de algo."
+   }
   },
   {
    "id": "pt-BR:en:000004051",
@@ -80887,7 +81488,11 @@
    "study_priority": 2416,
    "core_status": "retired",
    "duplicate_of": "en:000003562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cosméticos usados no rosto.",
+   "nativeExplain": {
+    "pt-BR": "Cosméticos usados no rosto."
+   }
   },
   {
    "id": "pt-BR:en:000004062",
@@ -81023,7 +81628,11 @@
    "study_priority": 903,
    "core_status": "retired",
    "duplicate_of": "en:000004053",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cobrir uma superfície com tinta.",
+   "nativeExplain": {
+    "pt-BR": "Cobrir uma superfície com tinta."
+   }
   },
   {
    "id": "pt-BR:en:000004069",
@@ -81279,7 +81888,11 @@
    "study_priority": 3773,
    "core_status": "retired",
    "duplicate_of": "en:000000221",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A moeda do Brasil.",
+   "nativeExplain": {
+    "pt-BR": "A moeda do Brasil."
+   }
   },
   {
    "id": "pt-BR:en:000004082",
@@ -82738,7 +83351,11 @@
    "study_priority": 3295,
    "core_status": "retired",
    "duplicate_of": "en:000002662",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "O descanso natural do corpo à noite.",
+   "nativeExplain": {
+    "pt-BR": "O descanso natural do corpo à noite."
+   }
   },
   {
    "id": "pt-BR:en:000004155",

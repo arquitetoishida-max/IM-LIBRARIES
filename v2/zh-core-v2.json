@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.2",
+ "version": "2.4.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -31,7 +31,8 @@
   "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
-  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...)."
+  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
  ],
  "entries": [
   {
@@ -10176,7 +10177,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3778,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "粗俗的词，指粪便；也用来表示愤怒。",
+   "nativeExplain": {
+    "zh": "粗俗的词，指粪便；也用来表示愤怒。"
+   }
   },
   {
    "id": "zh:en:000000306",
@@ -12479,7 +12484,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3779,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "非常粗俗的脏话，表示愤怒。",
+   "nativeExplain": {
+    "zh": "非常粗俗的脏话，表示愤怒。"
+   }
   },
   {
    "id": "zh:en:000000383",
@@ -14311,7 +14320,11 @@
    "romanization": "tā mā de",
    "study_tier": "fora da trilha geral",
    "study_priority": 2542,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来加强语气的极粗俗词。",
+   "nativeExplain": {
+    "zh": "用来加强语气的极粗俗词。"
+   }
   },
   {
    "id": "zh:en:000000448",
@@ -24234,7 +24247,11 @@
    "core_status": "search_only",
    "study_tier": "intermediário",
    "study_priority": 2669,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "死后受苦的地方；也是表示愤怒的词。",
+   "nativeExplain": {
+    "zh": "死后受苦的地方；也是表示愤怒的词。"
+   }
   },
   {
    "id": "zh:en:000000801",
@@ -24695,7 +24712,11 @@
    "romanization": "gāisǐ",
    "study_tier": "expansão cotidiana",
    "study_priority": 2681,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "表示愤怒或惊讶的词（略粗鲁）。",
+   "nativeExplain": {
+    "zh": "表示愤怒或惊讶的词（略粗鲁）。"
+   }
   },
   {
    "id": "zh:en:000000818",
@@ -27398,7 +27419,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3792,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "网络用语，表示大笑。",
+   "nativeExplain": {
+    "zh": "网络用语，表示大笑。"
+   }
   },
   {
    "id": "zh:en:000000918",
@@ -28300,7 +28325,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3797,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“想要”的口语说法。",
+   "nativeExplain": {
+    "zh": "“想要”的口语说法。"
+   }
   },
   {
    "id": "zh:en:000000952",
@@ -30518,7 +30547,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3802,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "屁股（粗俗词）。",
+   "nativeExplain": {
+    "zh": "屁股（粗俗词）。"
+   }
   },
   {
    "id": "zh:en:000001034",
@@ -33153,7 +33186,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3814,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "发射子弹的武器。",
+   "nativeExplain": {
+    "zh": "发射子弹的武器。"
+   }
   },
   {
    "id": "zh:en:000001136",
@@ -33742,7 +33779,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3815,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“必须”的口语说法。",
+   "nativeExplain": {
+    "zh": "“必须”的口语说法。"
+   }
   },
   {
    "id": "zh:en:000001157",
@@ -35030,7 +35071,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3818,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "不聪明；愚蠢（粗鲁说法）。",
+   "nativeExplain": {
+    "zh": "不聪明；愚蠢（粗鲁说法）。"
+   }
   },
   {
    "id": "zh:en:000001204",
@@ -35313,7 +35358,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3367,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "抵御攻击的保护。",
+   "nativeExplain": {
+    "zh": "抵御攻击的保护。"
+   }
   },
   {
    "id": "zh:en:000001214",
@@ -38615,7 +38664,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3830,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“不是”的口语说法。",
+   "nativeExplain": {
+    "zh": "“不是”的口语说法。"
+   }
   },
   {
    "id": "zh:en:000001350",
@@ -40696,7 +40749,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3835,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "故意杀人。",
+   "nativeExplain": {
+    "zh": "故意杀人。"
+   }
   },
   {
    "id": "zh:en:000001431",
@@ -44424,7 +44481,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3854,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男人；也用来称呼朋友（俚语）。",
+   "nativeExplain": {
+    "zh": "男人；也用来称呼朋友（俚语）。"
+   }
   },
   {
    "id": "zh:en:000001596",
@@ -49499,7 +49560,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3877,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "使用暴力伤害他人。",
+   "nativeExplain": {
+    "zh": "使用暴力伤害他人。"
+   }
   },
   {
    "id": "zh:en:000001814",
@@ -50198,7 +50263,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3886,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用葡萄酿成的含酒精饮料。",
+   "nativeExplain": {
+    "zh": "用葡萄酿成的含酒精饮料。"
+   }
   },
   {
    "id": "zh:en:000001850",
@@ -50915,7 +50984,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3891,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "开枪；把球踢向球门。",
+   "nativeExplain": {
+    "zh": "开枪；把球踢向球门。"
+   }
   },
   {
    "id": "zh:en:000001882",
@@ -53328,7 +53401,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3900,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用谷物酿成的含酒精饮料。",
+   "nativeExplain": {
+    "zh": "用谷物酿成的含酒精饮料。"
+   }
   },
   {
    "id": "zh:en:000001992",
@@ -53747,7 +53824,11 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2904,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“labor”（劳动）的英式拼法。",
+   "nativeExplain": {
+    "zh": "“labor”（劳动）的英式拼法。"
+   }
   },
   {
    "id": "zh:en:000002009",
@@ -53940,7 +54021,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3902,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“士兵”的复数。",
+   "nativeExplain": {
+    "zh": "“士兵”的复数。"
+   }
   },
   {
    "id": "zh:en:000002017",
@@ -56760,7 +56845,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3914,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "残忍或有害的对待。",
+   "nativeExplain": {
+    "zh": "残忍或有害的对待。"
+   }
   },
   {
    "id": "zh:en:000002153",
@@ -59660,7 +59749,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3927,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "士兵们。",
+   "nativeExplain": {
+    "zh": "士兵们。"
+   }
   },
   {
    "id": "zh:en:000002284",
@@ -61696,7 +61789,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3939,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "啤酒、葡萄酒之类的饮品。",
+   "nativeExplain": {
+    "zh": "啤酒、葡萄酒之类的饮品。"
+   }
   },
   {
    "id": "zh:en:000002386",
@@ -62050,7 +62147,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3941,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "喝了太多酒。",
+   "nativeExplain": {
+    "zh": "喝了太多酒。"
+   }
   },
   {
    "id": "zh:en:000002401",
@@ -62629,7 +62730,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3944,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "会爆炸的武器。",
+   "nativeExplain": {
+    "zh": "会爆炸的武器。"
+   }
   },
   {
    "id": "zh:en:000002437",
@@ -63426,7 +63531,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3949,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "携带武器的。",
+   "nativeExplain": {
+    "zh": "携带武器的。"
+   }
   },
   {
    "id": "zh:en:000002474",
@@ -64085,7 +64194,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3952,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“有点儿”的口语说法。",
+   "nativeExplain": {
+    "zh": "“有点儿”的口语说法。"
+   }
   },
   {
    "id": "zh:en:000002505",
@@ -64841,7 +64954,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3958,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "笑声。",
+   "nativeExplain": {
+    "zh": "笑声。"
+   }
   },
   {
    "id": "zh:en:000002542",
@@ -65795,7 +65912,11 @@
    "romanization": "zuì xǐhuan de",
    "study_tier": "herdado",
    "study_priority": 3003,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“favorite”（最喜欢的）的英式拼法。",
+   "nativeExplain": {
+    "zh": "“favorite”（最喜欢的）的英式拼法。"
+   }
   },
   {
    "id": "zh:en:000002586",
@@ -66315,7 +66436,11 @@
    ],
    "study_tier": "herdado",
    "study_priority": 3007,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“program”（节目）的英式拼法。",
+   "nativeExplain": {
+    "zh": "“program”（节目）的英式拼法。"
+   }
   },
   {
    "id": "zh:en:000002603",
@@ -66873,7 +66998,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3964,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "战斗。",
+   "nativeExplain": {
+    "zh": "战斗。"
+   }
   },
   {
    "id": "zh:en:000002622",
@@ -67108,7 +67237,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3966,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一种深重而持久的悲伤状态；也指长期经济低迷。",
+   "nativeExplain": {
+    "zh": "一种深重而持久的悲伤状态；也指长期经济低迷。"
+   }
   },
   {
    "id": "zh:en:000002632",
@@ -67611,7 +67744,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3599,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一件东西。",
+   "nativeExplain": {
+    "zh": "一件东西。"
+   }
   },
   {
    "id": "zh:en:000002652",
@@ -69854,7 +69991,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3978,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "愚蠢（口语，粗鲁）。",
+   "nativeExplain": {
+    "zh": "愚蠢（口语，粗鲁）。"
+   }
   },
   {
    "id": "zh:en:000002748",
@@ -70342,7 +70483,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来伤害或攻击的东西（枪、刀）。",
+   "nativeExplain": {
+    "zh": "用来伤害或攻击的东西（枪、刀）。"
+   }
   },
   {
    "id": "zh:en:000002772",
@@ -72489,7 +72634,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "吸入香烟的烟。",
+   "nativeExplain": {
+    "zh": "吸入香烟的烟。"
+   }
   },
   {
    "id": "zh:en:000002875",
@@ -73031,7 +73180,11 @@
    ],
    "study_tier": "herdado",
    "study_priority": 3059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "“defense”（防卫）的英式拼法。",
+   "nativeExplain": {
+    "zh": "“defense”（防卫）的英式拼法。"
+   }
   },
   {
    "id": "zh:en:000002898",
@@ -74287,7 +74440,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 4004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一伙罪犯或朋友。",
+   "nativeExplain": {
+    "zh": "一伙罪犯或朋友。"
+   }
   },
   {
    "id": "zh:en:000002957",
@@ -75240,7 +75397,11 @@
    "romanization": "shénqǔ",
    "study_tier": "temático",
    "study_priority": 3717,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一首非常好听、令人兴奋的歌。",
+   "nativeExplain": {
+    "zh": "一首非常好听、令人兴奋的歌。"
+   }
   },
   {
    "id": "zh:en:000003066",
@@ -80448,7 +80609,11 @@
    "study_priority": 3312,
    "core_status": "retired",
    "duplicate_of": "en:000000652",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "六十分钟的时间。",
+   "nativeExplain": {
+    "zh": "六十分钟的时间。"
+   }
   },
   {
    "id": "zh:en:000000390",
@@ -80466,7 +80631,11 @@
    "study_priority": 3313,
    "core_status": "retired",
    "duplicate_of": "en:000001034",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事物最初的部分。",
+   "nativeExplain": {
+    "zh": "事物最初的部分。"
+   }
   },
   {
    "id": "zh:en:000000545",
@@ -80506,7 +80675,11 @@
    "study_priority": 1063,
    "core_status": "retired",
    "duplicate_of": "en:000000854",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "给人某种印象，似乎是。",
+   "nativeExplain": {
+    "zh": "给人某种印象，似乎是。"
+   }
   },
   {
    "id": "zh:en:000000559",
@@ -80524,7 +80697,11 @@
    "study_priority": 3317,
    "core_status": "retired",
    "duplicate_of": "en:000000226",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "头脑中的想法或看法。",
+   "nativeExplain": {
+    "zh": "头脑中的想法或看法。"
+   }
   },
   {
    "id": "zh:en:000000575",
@@ -80586,7 +80763,11 @@
    "study_priority": 3324,
    "core_status": "retired",
    "duplicate_of": "en:000000314",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "平面的大小。",
+   "nativeExplain": {
+    "zh": "平面的大小。"
+   }
   },
   {
    "id": "zh:en:000000784",
@@ -80650,7 +80831,11 @@
    "study_priority": 3333,
    "core_status": "retired",
    "duplicate_of": "en:000001200",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "规定什么可以做、什么不可以做的规范。",
+   "nativeExplain": {
+    "zh": "规定什么可以做、什么不可以做的规范。"
+   }
   },
   {
    "id": "zh:en:000000907",
@@ -80712,7 +80897,11 @@
    "study_priority": 3339,
    "core_status": "retired",
    "duplicate_of": "en:000000245",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某种情形或例子。",
+   "nativeExplain": {
+    "zh": "某种情形或例子。"
+   }
   },
   {
    "id": "zh:en:000000945",
@@ -80730,7 +80919,11 @@
    "study_priority": 3340,
    "core_status": "retired",
    "duplicate_of": "en:000001170",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "被制造或出售的东西。",
+   "nativeExplain": {
+    "zh": "被制造或出售的东西。"
+   }
   },
   {
    "id": "zh:en:000000955",
@@ -80792,7 +80985,11 @@
    "study_priority": 3346,
    "core_status": "retired",
    "duplicate_of": "en:000001076",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "出售东西的行为。",
+   "nativeExplain": {
+    "zh": "出售东西的行为。"
+   }
   },
   {
    "id": "zh:en:000001108",
@@ -80876,7 +81073,11 @@
    "study_priority": 3365,
    "core_status": "retired",
    "duplicate_of": "en:000001563",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事物具备的特点。",
+   "nativeExplain": {
+    "zh": "事物具备的特点。"
+   }
   },
   {
    "id": "zh:en:000001218",
@@ -80894,7 +81095,11 @@
    "study_priority": 3368,
    "core_status": "retired",
    "duplicate_of": "en:000000461",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某事的原因或解释。",
+   "nativeExplain": {
+    "zh": "某事的原因或解释。"
+   }
   },
   {
    "id": "zh:en:000001314",
@@ -81044,7 +81249,11 @@
    "study_priority": 3399,
    "core_status": "retired",
    "duplicate_of": "en:000000878",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "失去原有之物。",
+   "nativeExplain": {
+    "zh": "失去原有之物。"
+   }
   },
   {
    "id": "zh:en:000001503",
@@ -81084,7 +81293,11 @@
    "study_priority": 3414,
    "core_status": "retired",
    "duplicate_of": "en:000001440",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "出现在视野中。",
+   "nativeExplain": {
+    "zh": "出现在视野中。"
+   }
   },
   {
    "id": "zh:en:000001546",
@@ -81102,7 +81315,11 @@
    "study_priority": 3418,
    "core_status": "retired",
    "duplicate_of": "en:000001677",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "会发出呼噜声的毛茸茸的小宠物。",
+   "nativeExplain": {
+    "zh": "会发出呼噜声的毛茸茸的小宠物。"
+   }
   },
   {
    "id": "zh:en:000001549",
@@ -81120,7 +81337,11 @@
    "study_priority": 3419,
    "core_status": "retired",
    "duplicate_of": "en:000000645",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "从某处看到的景色。",
+   "nativeExplain": {
+    "zh": "从某处看到的景色。"
+   }
   },
   {
    "id": "zh:en:000001572",
@@ -81138,7 +81359,11 @@
    "study_priority": 3422,
    "core_status": "retired",
    "duplicate_of": "en:000000654",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "中心，或两端之间的部分。",
+   "nativeExplain": {
+    "zh": "中心，或两端之间的部分。"
+   }
   },
   {
    "id": "zh:en:000001595",
@@ -81156,7 +81381,11 @@
    "study_priority": 3425,
    "core_status": "retired",
    "duplicate_of": "en:000002946",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为公司工作的人。",
+   "nativeExplain": {
+    "zh": "为公司工作的人。"
+   }
   },
   {
    "id": "zh:en:000001602",
@@ -81196,7 +81425,11 @@
    "study_priority": 3431,
    "core_status": "retired",
    "duplicate_of": "en:000001467",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为某人效力，或提供食物与帮助。",
+   "nativeExplain": {
+    "zh": "为某人效力，或提供食物与帮助。"
+   }
   },
   {
    "id": "zh:en:000001705",
@@ -81236,7 +81469,11 @@
    "study_priority": 3448,
    "core_status": "retired",
    "duplicate_of": "en:000001234",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为达到目标而付出的努力。",
+   "nativeExplain": {
+    "zh": "为达到目标而付出的努力。"
+   }
   },
   {
    "id": "zh:en:000001740",
@@ -81254,7 +81491,11 @@
    "study_priority": 3449,
    "core_status": "retired",
    "duplicate_of": "en:000002281",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "数字1000。",
+   "nativeExplain": {
+    "zh": "数字1000。"
+   }
   },
   {
    "id": "zh:en:000001777",
@@ -81294,7 +81535,11 @@
    "study_priority": 3454,
    "core_status": "retired",
    "duplicate_of": "en:000000188",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事物最后的部分。",
+   "nativeExplain": {
+    "zh": "事物最后的部分。"
+   }
   },
   {
    "id": "zh:en:000001792",
@@ -81378,7 +81623,11 @@
    "study_priority": 3473,
    "core_status": "retired",
    "duplicate_of": "en:000000819",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "经过考虑做出的选择。",
+   "nativeExplain": {
+    "zh": "经过考虑做出的选择。"
+   }
   },
   {
    "id": "zh:en:000001917",
@@ -81440,7 +81689,11 @@
    "study_priority": 3479,
    "core_status": "retired",
    "duplicate_of": "en:000001644",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "墙上装着玻璃的开口。",
+   "nativeExplain": {
+    "zh": "墙上装着玻璃的开口。"
+   }
   },
   {
    "id": "zh:en:000001954",
@@ -81458,7 +81711,11 @@
    "study_priority": 3480,
    "core_status": "retired",
    "duplicate_of": "en:000000437",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "生活在同一地区的一群人。",
+   "nativeExplain": {
+    "zh": "生活在同一地区的一群人。"
+   }
   },
   {
    "id": "zh:en:000001956",
@@ -81586,7 +81843,11 @@
    "study_priority": 3490,
    "core_status": "retired",
    "duplicate_of": "en:000000252",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "装满了，没有空位。",
+   "nativeExplain": {
+    "zh": "装满了，没有空位。"
+   }
   },
   {
    "id": "zh:en:000002012",
@@ -81626,7 +81887,11 @@
    "study_priority": 3502,
    "core_status": "retired",
    "duplicate_of": "en:000001473",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "有树干和树枝的高大植物。",
+   "nativeExplain": {
+    "zh": "有树干和树枝的高大植物。"
+   }
   },
   {
    "id": "zh:en:000002102",
@@ -81644,7 +81909,11 @@
    "study_priority": 3511,
    "core_status": "retired",
    "duplicate_of": "en:000001005",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把数相加的运算。",
+   "nativeExplain": {
+    "zh": "把数相加的运算。"
+   }
   },
   {
    "id": "zh:en:000002108",
@@ -81662,7 +81931,11 @@
    "study_priority": 3513,
    "core_status": "retired",
    "duplicate_of": "en:000001620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "创作艺术作品的人。",
+   "nativeExplain": {
+    "zh": "创作艺术作品的人。"
+   }
   },
   {
    "id": "zh:en:000002127",
@@ -81702,7 +81975,11 @@
    "study_priority": 3517,
    "core_status": "retired",
    "duplicate_of": "en:000001246",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为共同目的而一起工作的团体。",
+   "nativeExplain": {
+    "zh": "为共同目的而一起工作的团体。"
+   }
   },
   {
    "id": "zh:en:000002137",
@@ -81720,7 +81997,11 @@
    "study_priority": 3518,
    "core_status": "retired",
    "duplicate_of": "en:000001700",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "需要某物，或要求必须有。",
+   "nativeExplain": {
+    "zh": "需要某物，或要求必须有。"
+   }
   },
   {
    "id": "zh:en:000002154",
@@ -81738,7 +82019,11 @@
    "study_priority": 3522,
    "core_status": "retired",
    "duplicate_of": "en:000000216",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "出售商品或服务的商业机构。",
+   "nativeExplain": {
+    "zh": "出售商品或服务的商业机构。"
+   }
   },
   {
    "id": "zh:en:000002160",
@@ -81756,7 +82041,11 @@
    "study_priority": 3523,
    "core_status": "retired",
    "duplicate_of": "en:000000842",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "通过投票选出领导人或代表。",
+   "nativeExplain": {
+    "zh": "通过投票选出领导人或代表。"
+   }
   },
   {
    "id": "zh:en:000002180",
@@ -81796,7 +82085,11 @@
    "study_priority": 3527,
    "core_status": "retired",
    "duplicate_of": "en:000000620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把自己的一部分分给别人。",
+   "nativeExplain": {
+    "zh": "把自己的一部分分给别人。"
+   }
   },
   {
    "id": "zh:en:000002215",
@@ -81814,7 +82107,11 @@
    "study_priority": 3529,
    "core_status": "retired",
    "duplicate_of": "en:000000406",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用力打击。",
+   "nativeExplain": {
+    "zh": "用力打击。"
+   }
   },
   {
    "id": "zh:en:000002220",
@@ -81832,7 +82129,11 @@
    "study_priority": 3530,
    "core_status": "retired",
    "duplicate_of": "en:000000614",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "带领或走在他人前面。",
+   "nativeExplain": {
+    "zh": "带领或走在他人前面。"
+   }
   },
   {
    "id": "zh:en:000002240",
@@ -81872,7 +82173,11 @@
    "study_priority": 3540,
    "core_status": "retired",
    "duplicate_of": "en:000000611",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "以活动影像呈现的故事。",
+   "nativeExplain": {
+    "zh": "以活动影像呈现的故事。"
+   }
   },
   {
    "id": "zh:en:000002265",
@@ -81890,7 +82195,11 @@
    "study_priority": 3542,
    "core_status": "retired",
    "duplicate_of": "en:000000451",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "数字1,000,000。",
+   "nativeExplain": {
+    "zh": "数字1,000,000。"
+   }
   },
   {
    "id": "zh:en:000002285",
@@ -81908,7 +82217,11 @@
    "study_priority": 3543,
    "core_status": "retired",
    "duplicate_of": "en:000000889",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人说话或唱歌时发出的声音。",
+   "nativeExplain": {
+    "zh": "人说话或唱歌时发出的声音。"
+   }
   },
   {
    "id": "zh:en:000002324",
@@ -81926,7 +82239,11 @@
    "study_priority": 3550,
    "core_status": "retired",
    "duplicate_of": "en:000000603",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事物所在的位置。",
+   "nativeExplain": {
+    "zh": "事物所在的位置。"
+   }
   },
   {
    "id": "zh:en:000002331",
@@ -81966,7 +82283,11 @@
    "study_priority": 3554,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "允许某人做某事。",
+   "nativeExplain": {
+    "zh": "允许某人做某事。"
+   }
   },
   {
    "id": "zh:en:000002382",
@@ -82028,7 +82349,11 @@
    "study_priority": 3564,
    "core_status": "retired",
    "duplicate_of": "en:000000428",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "男人、女人或孩子；人。",
+   "nativeExplain": {
+    "zh": "男人、女人或孩子；人。"
+   }
   },
   {
    "id": "zh:en:000002413",
@@ -82068,7 +82393,11 @@
    "study_priority": 3567,
    "core_status": "retired",
    "duplicate_of": "en:000000494",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人们买卖东西的地方。",
+   "nativeExplain": {
+    "zh": "人们买卖东西的地方。"
+   }
   },
   {
    "id": "zh:en:000002424",
@@ -82086,7 +82415,11 @@
    "study_priority": 3569,
    "core_status": "retired",
    "duplicate_of": "en:000000790",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "使东西去到另一个地方或人那里。",
+   "nativeExplain": {
+    "zh": "使东西去到另一个地方或人那里。"
+   }
   },
   {
    "id": "zh:en:000002434",
@@ -82104,7 +82437,11 @@
    "study_priority": 3572,
    "core_status": "retired",
    "duplicate_of": "en:000000663",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "对问题所作的回复。",
+   "nativeExplain": {
+    "zh": "对问题所作的回复。"
+   }
   },
   {
    "id": "zh:en:000002435",
@@ -82122,7 +82459,11 @@
    "study_priority": 3573,
    "core_status": "retired",
    "duplicate_of": "en:000002290",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "有羽毛和翅膀的动物。",
+   "nativeExplain": {
+    "zh": "有羽毛和翅膀的动物。"
+   }
   },
   {
    "id": "zh:en:000002463",
@@ -82162,7 +82503,11 @@
    "study_priority": 3580,
    "core_status": "retired",
    "duplicate_of": "en:000001618",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "已经长大的人。",
+   "nativeExplain": {
+    "zh": "已经长大的人。"
+   }
   },
   {
    "id": "zh:en:000002482",
@@ -82180,7 +82525,11 @@
    "study_priority": 3581,
    "core_status": "retired",
    "duplicate_of": "en:000002065",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "与他人交流信息。",
+   "nativeExplain": {
+    "zh": "与他人交流信息。"
+   }
   },
   {
    "id": "zh:en:000002483",
@@ -82242,7 +82591,11 @@
    "study_priority": 3584,
    "core_status": "retired",
    "duplicate_of": "en:000002112",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用于某种目的的工具或机器。",
+   "nativeExplain": {
+    "zh": "用于某种目的的工具或机器。"
+   }
   },
   {
    "id": "zh:en:000002493",
@@ -82260,7 +82613,11 @@
    "study_priority": 3585,
    "core_status": "retired",
    "duplicate_of": "en:000001269",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "睡觉时脑中出现的影像和感受。",
+   "nativeExplain": {
+    "zh": "睡觉时脑中出现的影像和感受。"
+   }
   },
   {
    "id": "zh:en:000002509",
@@ -82278,7 +82635,11 @@
    "study_priority": 3588,
    "core_status": "retired",
    "duplicate_of": "en:000002228",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "几乎不出声的。",
+   "nativeExplain": {
+    "zh": "几乎不出声的。"
+   }
   },
   {
    "id": "zh:en:000002518",
@@ -82318,7 +82679,11 @@
    "study_priority": 3592,
    "core_status": "retired",
    "duplicate_of": "en:000002024",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人的举止方式。",
+   "nativeExplain": {
+    "zh": "人的举止方式。"
+   }
   },
   {
    "id": "zh:en:000002533",
@@ -82336,7 +82701,11 @@
    "study_priority": 3593,
    "core_status": "retired",
    "duplicate_of": "en:000002844",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "十年的时期。",
+   "nativeExplain": {
+    "zh": "十年的时期。"
+   }
   },
   {
    "id": "zh:en:000002556",
@@ -82398,7 +82767,11 @@
    "study_priority": 3600,
    "core_status": "retired",
    "duplicate_of": "en:000001497",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "在工作或生活中一起做事的人。",
+   "nativeExplain": {
+    "zh": "在工作或生活中一起做事的人。"
+   }
   },
   {
    "id": "zh:en:000002660",
@@ -82460,7 +82833,11 @@
    "study_priority": 3610,
    "core_status": "retired",
    "duplicate_of": "en:000001220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "运载人或货物的大船。",
+   "nativeExplain": {
+    "zh": "运载人或货物的大船。"
+   }
   },
   {
    "id": "zh:en:000002728",
@@ -82478,7 +82855,11 @@
    "study_priority": 3613,
    "core_status": "retired",
    "duplicate_of": "en:000002058",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "撰写书籍或文章的人。",
+   "nativeExplain": {
+    "zh": "撰写书籍或文章的人。"
+   }
   },
   {
    "id": "zh:en:000002744",
@@ -82518,7 +82899,11 @@
    "study_priority": 3615,
    "core_status": "retired",
    "duplicate_of": "en:000000841",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "开关出入口的部件。",
+   "nativeExplain": {
+    "zh": "开关出入口的部件。"
+   }
   },
   {
    "id": "zh:en:000002775",
@@ -82536,7 +82921,11 @@
    "study_priority": 3616,
    "core_status": "retired",
    "duplicate_of": "en:000000457",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一个人活了多少年。",
+   "nativeExplain": {
+    "zh": "一个人活了多少年。"
+   }
   },
   {
    "id": "zh:en:000002810",
@@ -82598,7 +82987,11 @@
    "study_priority": 3624,
    "core_status": "retired",
    "duplicate_of": "en:000000930",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "游戏中使用的圆形物体。",
+   "nativeExplain": {
+    "zh": "游戏中使用的圆形物体。"
+   }
   },
   {
    "id": "zh:en:000002836",
@@ -82638,7 +83031,11 @@
    "study_priority": 3626,
    "core_status": "retired",
    "duplicate_of": "en:000001016",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "两样东西不相同的地方。",
+   "nativeExplain": {
+    "zh": "两样东西不相同的地方。"
+   }
   },
   {
    "id": "zh:en:000002908",
@@ -82656,7 +83053,11 @@
    "study_priority": 3630,
    "core_status": "retired",
    "duplicate_of": "en:000000325",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "具有相同特征的一类事物。",
+   "nativeExplain": {
+    "zh": "具有相同特征的一类事物。"
+   }
   },
   {
    "id": "zh:en:000002909",
@@ -82674,7 +83075,11 @@
    "study_priority": 3631,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "允许某人做某事。",
+   "nativeExplain": {
+    "zh": "允许某人做某事。"
+   }
   },
   {
    "id": "zh:en:000002914",
@@ -82714,7 +83119,11 @@
    "study_priority": 3639,
    "core_status": "retired",
    "duplicate_of": "en:000001684",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "某物的用途或作用。",
+   "nativeExplain": {
+    "zh": "某物的用途或作用。"
+   }
   },
   {
    "id": "zh:en:000002961",
@@ -82732,7 +83141,11 @@
    "study_priority": 3640,
    "core_status": "retired",
    "duplicate_of": "en:000001020",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "四面被水环绕的陆地。",
+   "nativeExplain": {
+    "zh": "四面被水环绕的陆地。"
+   }
   },
   {
    "id": "zh:en:000002965",
@@ -82750,7 +83163,11 @@
    "study_priority": 3641,
    "core_status": "retired",
    "duplicate_of": "en:000001605",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "记住事情的能力。",
+   "nativeExplain": {
+    "zh": "记住事情的能力。"
+   }
   },
   {
    "id": "zh:en:000002968",
@@ -82768,7 +83185,11 @@
    "study_priority": 3642,
    "core_status": "retired",
    "duplicate_of": "en:000001873",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "由岩石和泥土构成的很高的自然隆起。",
+   "nativeExplain": {
+    "zh": "由岩石和泥土构成的很高的自然隆起。"
+   }
   },
   {
    "id": "zh:en:000002978",
@@ -98888,7 +99309,11 @@
    "study_priority": 2273,
    "core_status": "retired",
    "duplicate_of": "en:000000156",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "事物在某一时刻的状况。",
+   "nativeExplain": {
+    "zh": "事物在某一时刻的状况。"
+   }
   },
   {
    "id": "zh:en:000003919",
@@ -99104,7 +99529,11 @@
    "study_priority": 2284,
    "core_status": "retired",
    "duplicate_of": "en:000000328",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "公司或组织的最高负责人。",
+   "nativeExplain": {
+    "zh": "公司或组织的最高负责人。"
+   }
   },
   {
    "id": "zh:en:000003930",
@@ -99122,7 +99551,11 @@
    "study_priority": 2285,
    "core_status": "retired",
    "duplicate_of": "en:000003205",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来有力地表示同意。",
+   "nativeExplain": {
+    "zh": "用来有力地表示同意。"
+   }
   },
   {
    "id": "zh:en:000003931",
@@ -99250,7 +99683,11 @@
    "study_priority": 2292,
    "core_status": "retired",
    "duplicate_of": "en:000000386",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "找不到了。",
+   "nativeExplain": {
+    "zh": "找不到了。"
+   }
   },
   {
    "id": "zh:en:000003938",
@@ -99268,7 +99705,11 @@
    "study_priority": 2293,
    "core_status": "retired",
    "duplicate_of": "en:000002660",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "可容纳物品或人的空地。",
+   "nativeExplain": {
+    "zh": "可容纳物品或人的空地。"
+   }
   },
   {
    "id": "zh:en:000003939",
@@ -99310,7 +99751,11 @@
    "study_priority": 2296,
    "core_status": "retired",
    "duplicate_of": "en:000000525",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "给计算机的一系列指令；也指一项安排或活动。",
+   "nativeExplain": {
+    "zh": "给计算机的一系列指令；也指一项安排或活动。"
+   }
   },
   {
    "id": "zh:en:000003942",
@@ -99372,7 +99817,11 @@
    "study_priority": 2299,
    "core_status": "retired",
    "duplicate_of": "en:000000578",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "地球之外有星星的广阔区域。",
+   "nativeExplain": {
+    "zh": "地球之外有星星的广阔区域。"
+   }
   },
   {
    "id": "zh:en:000003945",
@@ -99544,7 +99993,11 @@
    "study_priority": 2307,
    "core_status": "retired",
    "duplicate_of": "en:000000708",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "负责某个部门的人。",
+   "nativeExplain": {
+    "zh": "负责某个部门的人。"
+   }
   },
   {
    "id": "zh:en:000003953",
@@ -99584,7 +100037,11 @@
    "study_priority": 2309,
    "core_status": "retired",
    "duplicate_of": "en:000000730",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把数据保存在电脑上。",
+   "nativeExplain": {
+    "zh": "把数据保存在电脑上。"
+   }
   },
   {
    "id": "zh:en:000003955",
@@ -99602,7 +100059,11 @@
    "study_priority": 2310,
    "core_status": "retired",
    "duplicate_of": "en:000000750",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "在时装秀上展示服装的人。",
+   "nativeExplain": {
+    "zh": "在时装秀上展示服装的人。"
+   }
   },
   {
    "id": "zh:en:000003956",
@@ -99664,7 +100125,11 @@
    "study_priority": 2313,
    "core_status": "retired",
    "duplicate_of": "en:000003204",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "美国流行的、用椭圆形球的运动。",
+   "nativeExplain": {
+    "zh": "美国流行的、用椭圆形球的运动。"
+   }
   },
   {
    "id": "zh:en:000003959",
@@ -99704,7 +100169,11 @@
    "study_priority": 2315,
    "core_status": "retired",
    "duplicate_of": "en:000000911",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "军人生活和工作的地方。",
+   "nativeExplain": {
+    "zh": "军人生活和工作的地方。"
+   }
   },
   {
    "id": "zh:en:000003961",
@@ -99722,7 +100191,11 @@
    "study_priority": 2316,
    "core_status": "retired",
    "duplicate_of": "en:000001624",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "对学业成绩给出的分数。",
+   "nativeExplain": {
+    "zh": "对学业成绩给出的分数。"
+   }
   },
   {
    "id": "zh:en:000003962",
@@ -99740,7 +100213,11 @@
    "study_priority": 2317,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "通过考试。",
+   "nativeExplain": {
+    "zh": "通过考试。"
+   }
   },
   {
    "id": "zh:en:000003963",
@@ -99758,7 +100235,11 @@
    "study_priority": 2318,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "把东西递给某人。",
+   "nativeExplain": {
+    "zh": "把东西递给某人。"
+   }
   },
   {
    "id": "zh:en:000003964",
@@ -99864,7 +100345,11 @@
    "study_priority": 2323,
    "core_status": "retired",
    "duplicate_of": "en:000001236",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "喜爱并追随某个球队或明星的人。",
+   "nativeExplain": {
+    "zh": "喜爱并追随某个球队或明星的人。"
+   }
   },
   {
    "id": "zh:en:000003969",
@@ -99926,7 +100411,11 @@
    "study_priority": 2326,
    "core_status": "retired",
    "duplicate_of": "en:000001001",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "运货的大卡车。",
+   "nativeExplain": {
+    "zh": "运货的大卡车。"
+   }
   },
   {
    "id": "zh:en:000003972",
@@ -99944,7 +100433,11 @@
    "study_priority": 2327,
    "core_status": "retired",
    "duplicate_of": "en:000001012",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用来创办或经营企业的资金。",
+   "nativeExplain": {
+    "zh": "用来创办或经营企业的资金。"
+   }
   },
   {
    "id": "zh:en:000003973",
@@ -100006,7 +100499,11 @@
    "study_priority": 2330,
    "core_status": "retired",
    "duplicate_of": "en:000001029",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "播送广播节目的机构。",
+   "nativeExplain": {
+    "zh": "播送广播节目的机构。"
+   }
   },
   {
    "id": "zh:en:000003976",
@@ -100046,7 +100543,11 @@
    "study_priority": 2332,
    "core_status": "retired",
    "duplicate_of": "en:000001110",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "许多人为某项事业而进行的有组织行动。",
+   "nativeExplain": {
+    "zh": "许多人为某项事业而进行的有组织行动。"
+   }
   },
   {
    "id": "zh:en:000003978",
@@ -100196,7 +100697,11 @@
    "study_priority": 2339,
    "core_status": "retired",
    "duplicate_of": "en:000001518",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "长途行驶的大型车辆。",
+   "nativeExplain": {
+    "zh": "长途行驶的大型车辆。"
+   }
   },
   {
    "id": "zh:en:000003985",
@@ -100236,7 +100741,11 @@
    "study_priority": 2341,
    "core_status": "retired",
    "duplicate_of": "en:000001232",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "电视或广播中的广告。",
+   "nativeExplain": {
+    "zh": "电视或广播中的广告。"
+   }
   },
   {
    "id": "zh:en:000003987",
@@ -100364,7 +100873,11 @@
    "study_priority": 2347,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "及时赶上车。",
+   "nativeExplain": {
+    "zh": "及时赶上车。"
+   }
   },
   {
    "id": "zh:en:000003993",
@@ -100382,7 +100895,11 @@
    "study_priority": 2348,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "患上感冒。",
+   "nativeExplain": {
+    "zh": "患上感冒。"
+   }
   },
   {
    "id": "zh:en:000003994",
@@ -100422,7 +100939,11 @@
    "study_priority": 2350,
    "core_status": "retired",
    "duplicate_of": "en:000001871",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为治病而服用的东西。",
+   "nativeExplain": {
+    "zh": "为治病而服用的东西。"
+   }
   },
   {
    "id": "zh:en:000003996",
@@ -100440,7 +100961,11 @@
    "study_priority": 2351,
    "core_status": "retired",
    "duplicate_of": "en:000003203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "天主教教堂举行的礼拜仪式。",
+   "nativeExplain": {
+    "zh": "天主教教堂举行的礼拜仪式。"
+   }
   },
   {
    "id": "zh:en:000003997",
@@ -100546,7 +101071,11 @@
    "study_priority": 2356,
    "core_status": "retired",
    "duplicate_of": "en:000001523",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "爱挑毛病；做出否定评价。",
+   "nativeExplain": {
+    "zh": "爱挑毛病；做出否定评价。"
+   }
   },
   {
    "id": "zh:en:000004002",
@@ -100586,7 +101115,11 @@
    "study_priority": 2358,
    "core_status": "retired",
    "duplicate_of": "en:000001599",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "为某项事业提供资金的机构。",
+   "nativeExplain": {
+    "zh": "为某项事业提供资金的机构。"
+   }
   },
   {
    "id": "zh:en:000004004",
@@ -100736,7 +101269,11 @@
    "study_priority": 2365,
    "core_status": "retired",
    "duplicate_of": "en:000001733",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "接受医疗的人。",
+   "nativeExplain": {
+    "zh": "接受医疗的人。"
+   }
   },
   {
    "id": "zh:en:000004011",
@@ -100798,7 +101335,11 @@
    "study_priority": 2368,
    "core_status": "retired",
    "duplicate_of": "en:000001770",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "一套书中的一册。",
+   "nativeExplain": {
+    "zh": "一套书中的一册。"
+   }
   },
   {
    "id": "zh:en:000004014",
@@ -100882,7 +101423,11 @@
    "study_priority": 2372,
    "core_status": "retired",
    "duplicate_of": "en:000000869",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "行为非常奇怪的。",
+   "nativeExplain": {
+    "zh": "行为非常奇怪的。"
+   }
   },
   {
    "id": "zh:en:000004018",
@@ -100944,7 +101489,11 @@
    "study_priority": 2375,
    "core_status": "retired",
    "duplicate_of": "en:000002203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "建筑物中供人居住的一套房间。",
+   "nativeExplain": {
+    "zh": "建筑物中供人居住的一套房间。"
+   }
   },
   {
    "id": "zh:en:000004021",
@@ -100962,7 +101511,11 @@
    "study_priority": 2376,
    "core_status": "retired",
    "duplicate_of": "en:000001046",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "随意的问候语。",
+   "nativeExplain": {
+    "zh": "随意的问候语。"
+   }
   },
   {
    "id": "zh:en:000004022",
@@ -101046,7 +101599,11 @@
    "study_priority": 2380,
    "core_status": "retired",
    "duplicate_of": "en:000002032",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "家庭的；家里的。",
+   "nativeExplain": {
+    "zh": "家庭的；家里的。"
+   }
   },
   {
    "id": "zh:en:000004026",
@@ -101064,7 +101621,11 @@
    "study_priority": 2381,
    "core_status": "retired",
    "duplicate_of": "en:000002071",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "给学生练习用的题目。",
+   "nativeExplain": {
+    "zh": "给学生练习用的题目。"
+   }
   },
   {
    "id": "zh:en:000004027",
@@ -101082,7 +101643,11 @@
    "study_priority": 2382,
    "core_status": "retired",
    "duplicate_of": "en:000002132",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人们接入使用的计算机平台。",
+   "nativeExplain": {
+    "zh": "人们接入使用的计算机平台。"
+   }
   },
   {
    "id": "zh:en:000004028",
@@ -101210,7 +101775,11 @@
    "study_priority": 2388,
    "core_status": "retired",
    "duplicate_of": "en:000002295",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "家禽的肉。",
+   "nativeExplain": {
+    "zh": "家禽的肉。"
+   }
   },
   {
    "id": "zh:en:000004034",
@@ -101228,7 +101797,11 @@
    "study_priority": 2389,
    "core_status": "retired",
    "duplicate_of": "en:000002335",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "对未来的构想和远见。",
+   "nativeExplain": {
+    "zh": "对未来的构想和远见。"
+   }
   },
   {
    "id": "zh:en:000004035",
@@ -101246,7 +101819,11 @@
    "study_priority": 2390,
    "core_status": "retired",
    "duplicate_of": "en:000002344",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用于皮肤的厚软膏状物。",
+   "nativeExplain": {
+    "zh": "用于皮肤的厚软膏状物。"
+   }
   },
   {
    "id": "zh:en:000004036",
@@ -101264,7 +101841,11 @@
    "study_priority": 2391,
    "core_status": "retired",
    "duplicate_of": "en:000002361",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "介于红色和黄色之间的颜色。",
+   "nativeExplain": {
+    "zh": "介于红色和黄色之间的颜色。"
+   }
   },
   {
    "id": "zh:en:000004037",
@@ -101348,7 +101929,11 @@
    "study_priority": 2395,
    "core_status": "retired",
    "duplicate_of": "en:000002515",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "屏幕图像的清晰与精细程度。",
+   "nativeExplain": {
+    "zh": "屏幕图像的清晰与精细程度。"
+   }
   },
   {
    "id": "zh:en:000004041",
@@ -101476,7 +102061,11 @@
    "study_priority": 2401,
    "core_status": "retired",
    "duplicate_of": "en:000000601",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "母亲和父亲。",
+   "nativeExplain": {
+    "zh": "母亲和父亲。"
+   }
   },
   {
    "id": "zh:en:000004047",
@@ -101494,7 +102083,11 @@
    "study_priority": 2402,
    "core_status": "retired",
    "duplicate_of": "en:000002658",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "让某人升到更高的职位。",
+   "nativeExplain": {
+    "zh": "让某人升到更高的职位。"
+   }
   },
   {
    "id": "zh:en:000004048",
@@ -101512,7 +102105,11 @@
    "study_priority": 2403,
    "core_status": "retired",
    "duplicate_of": "en:000002693",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用词语表达想法的方式。",
+   "nativeExplain": {
+    "zh": "用词语表达想法的方式。"
+   }
   },
   {
    "id": "zh:en:000004049",
@@ -101552,7 +102149,11 @@
    "study_priority": 2405,
    "core_status": "retired",
    "duplicate_of": "en:000002562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "物体尖的一端。",
+   "nativeExplain": {
+    "zh": "物体尖的一端。"
+   }
   },
   {
    "id": "zh:en:000004051",
@@ -101790,7 +102391,11 @@
    "study_priority": 2416,
    "core_status": "retired",
    "duplicate_of": "en:000003562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "涂在脸上的化妆品。",
+   "nativeExplain": {
+    "zh": "涂在脸上的化妆品。"
+   }
   },
   {
    "id": "zh:en:000004062",
@@ -101940,7 +102545,11 @@
    "study_priority": 903,
    "core_status": "retired",
    "duplicate_of": "en:000004053",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "用涂料覆盖表面。",
+   "nativeExplain": {
+    "zh": "用涂料覆盖表面。"
+   }
   },
   {
    "id": "zh:en:000004069",
@@ -102222,7 +102831,11 @@
    "study_priority": 3773,
    "core_status": "retired",
    "duplicate_of": "en:000000221",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "巴西的货币。",
+   "nativeExplain": {
+    "zh": "巴西的货币。"
+   }
   },
   {
    "id": "zh:en:000004082",
@@ -103829,7 +104442,11 @@
    "study_priority": 3295,
    "core_status": "retired",
    "duplicate_of": "en:000002662",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "人在夜间的自然休息。",
+   "nativeExplain": {
+    "zh": "人在夜间的自然休息。"
+   }
   },
   {
    "id": "zh:en:000004155",

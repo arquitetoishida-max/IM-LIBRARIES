@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.4.2",
+ "version": "2.4.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -31,7 +31,8 @@
   "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
-  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...)."
+  "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -7619,7 +7620,11 @@
    "vcu14_status": "excluded-initial-practice",
    "study_tier": "restrito",
    "study_priority": 3778,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Rude word for poop; also used to show anger.",
+   "nativeExplain": {
+    "en": "Rude word for poop; also used to show anger."
+   }
   },
   {
    "id": "en:000000306",
@@ -9314,7 +9319,11 @@
    "vcu14_status": "excluded-initial-practice",
    "study_tier": "restrito",
    "study_priority": 3779,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Very rude swear word; shows anger.",
+   "nativeExplain": {
+    "en": "Very rude swear word; shows anger."
+   }
   },
   {
    "id": "en:000000383",
@@ -10628,7 +10637,11 @@
    "vcu14_status": "excluded-initial-practice",
    "study_tier": "fora da trilha geral",
    "study_priority": 2542,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Very rude intensifier word.",
+   "nativeExplain": {
+    "en": "Very rude intensifier word."
+   }
   },
   {
    "id": "en:000000448",
@@ -17789,7 +17802,11 @@
    "core_status": "search_only",
    "study_tier": "intermediário",
    "study_priority": 2669,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A place of suffering after death; also an angry word.",
+   "nativeExplain": {
+    "en": "A place of suffering after death; also an angry word."
+   }
   },
   {
    "id": "en:000000801",
@@ -18137,7 +18154,11 @@
    "vcu14_status": "excluded-initial-practice",
    "study_tier": "expansão cotidiana",
    "study_priority": 2681,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Word showing anger or surprise (mildly rude).",
+   "nativeExplain": {
+    "en": "Word showing anger or surprise (mildly rude)."
+   }
   },
   {
    "id": "en:000000818",
@@ -20049,7 +20070,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3792,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Internet slang: \"laughing out loud\".",
+   "nativeExplain": {
+    "en": "Internet slang: \"laughing out loud\"."
+   }
   },
   {
    "id": "en:000000918",
@@ -20668,7 +20693,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3797,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Informal \"want to\".",
+   "nativeExplain": {
+    "en": "Informal \"want to\"."
+   }
   },
   {
    "id": "en:000000952",
@@ -22205,7 +22234,11 @@
    "vcu14_status": "excluded-initial-practice",
    "study_tier": "restrito",
    "study_priority": 3802,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The bottom (rude word).",
+   "nativeExplain": {
+    "en": "The bottom (rude word)."
+   }
   },
   {
    "id": "en:000001034",
@@ -24081,12 +24114,14 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de fogo"
+    "pt-BR": "de fogo",
+    "en": "A weapon that shoots bullets."
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3814,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A weapon that shoots bullets."
   },
   {
    "id": "en:000001136",
@@ -24473,7 +24508,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3815,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Informal \"have got to\" = must.",
+   "nativeExplain": {
+    "en": "Informal \"have got to\" = must."
+   }
   },
   {
    "id": "en:000001157",
@@ -25347,12 +25386,14 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "ofensivo, geral"
+    "pt-BR": "ofensivo, geral",
+    "en": "Not smart; silly (rude)."
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3818,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not smart; silly (rude)."
   },
   {
    "id": "en:000001204",
@@ -25551,11 +25592,14 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "class_real": "noun",
-   "nativeExplain": {},
+   "nativeExplain": {
+    "en": "Protection against attack."
+   },
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3367,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Protection against attack."
   },
   {
    "id": "en:000001214",
@@ -27980,7 +28024,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3830,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Informal \"is not / are not / have not\".",
+   "nativeExplain": {
+    "en": "Informal \"is not / are not / have not\"."
+   }
   },
   {
    "id": "en:000001350",
@@ -29396,7 +29444,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3835,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Killing someone on purpose.",
+   "nativeExplain": {
+    "en": "Killing someone on purpose."
+   }
   },
   {
    "id": "en:000001431",
@@ -32122,12 +32174,14 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "gíria, chamar amigo"
+    "pt-BR": "gíria, chamar amigo",
+    "en": "A man; also used to call a friend (slang)."
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3854,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A man; also used to call a friend (slang)."
   },
   {
    "id": "en:000001596",
@@ -35671,7 +35725,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3877,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Using force to hurt people.",
+   "nativeExplain": {
+    "en": "Using force to hurt people."
+   }
   },
   {
    "id": "en:000001814",
@@ -36160,7 +36218,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3886,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An alcoholic drink made from grapes.",
+   "nativeExplain": {
+    "en": "An alcoholic drink made from grapes."
+   }
   },
   {
    "id": "en:000001850",
@@ -36654,7 +36716,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3891,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To fire a gun; to kick a ball at the goal.",
+   "nativeExplain": {
+    "en": "To fire a gun; to kick a ball at the goal."
+   }
   },
   {
    "id": "en:000001882",
@@ -38434,7 +38500,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3900,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An alcoholic drink made from grain.",
+   "nativeExplain": {
+    "en": "An alcoholic drink made from grain."
+   }
   },
   {
    "id": "en:000001992",
@@ -38737,7 +38807,11 @@
    "vcu14_status": "regional-variant-en-GB",
    "study_tier": "herdado",
    "study_priority": 2904,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "British spelling of \"labor\": work.",
+   "nativeExplain": {
+    "en": "British spelling of \"labor\": work."
+   }
   },
   {
    "id": "en:000002009",
@@ -38867,7 +38941,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3902,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The plural of soldier.",
+   "nativeExplain": {
+    "en": "The plural of soldier."
+   }
   },
   {
    "id": "en:000002017",
@@ -40905,7 +40983,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3914,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cruel or harmful treatment.",
+   "nativeExplain": {
+    "en": "Cruel or harmful treatment."
+   }
   },
   {
    "id": "en:000002153",
@@ -42969,7 +43051,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3927,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Soldiers.",
+   "nativeExplain": {
+    "en": "Soldiers."
+   }
   },
   {
    "id": "en:000002284",
@@ -44485,7 +44571,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3939,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Drinks like beer and wine.",
+   "nativeExplain": {
+    "en": "Drinks like beer and wine."
+   }
   },
   {
    "id": "en:000002386",
@@ -44744,7 +44834,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3941,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Having drunk too much alcohol.",
+   "nativeExplain": {
+    "en": "Having drunk too much alcohol."
+   }
   },
   {
    "id": "en:000002401",
@@ -45159,7 +45253,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3944,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A weapon that explodes.",
+   "nativeExplain": {
+    "en": "A weapon that explodes."
+   }
   },
   {
    "id": "en:000002437",
@@ -45697,7 +45795,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3949,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Carrying weapons.",
+   "nativeExplain": {
+    "en": "Carrying weapons."
+   }
   },
   {
    "id": "en:000002474",
@@ -46160,7 +46262,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3952,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Informal \"kind of\": a little.",
+   "nativeExplain": {
+    "en": "Informal \"kind of\": a little."
+   }
   },
   {
    "id": "en:000002505",
@@ -46693,7 +46799,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3958,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Sound of laughter.",
+   "nativeExplain": {
+    "en": "Sound of laughter."
+   }
   },
   {
    "id": "en:000002542",
@@ -47368,11 +47478,13 @@
    "core_status": "search_only",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "en": "British spelling of \"favorite\"."
    },
    "study_tier": "herdado",
    "study_priority": 3003,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "British spelling of \"favorite\"."
   },
   {
    "id": "en:000002586",
@@ -47771,11 +47883,13 @@
    "core_status": "search_only",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "en": "British spelling of \"program\"."
    },
    "study_tier": "herdado",
    "study_priority": 3007,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "British spelling of \"program\"."
   },
   {
    "id": "en:000002603",
@@ -48145,7 +48259,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3964,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Fighting.",
+   "nativeExplain": {
+    "en": "Fighting."
+   }
   },
   {
    "id": "en:000002622",
@@ -48308,7 +48426,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3966,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A condition of deep, lasting sadness; also a long period of poor economy.",
+   "nativeExplain": {
+    "en": "A condition of deep, lasting sadness; also a long period of poor economy."
+   }
   },
   {
    "id": "en:000002632",
@@ -48638,7 +48760,11 @@
    "core_status": "retired",
    "study_tier": "pendente",
    "study_priority": 3599,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A thing.",
+   "nativeExplain": {
+    "en": "A thing."
+   }
   },
   {
    "id": "en:000002652",
@@ -50195,12 +50321,14 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "informal"
+    "pt-BR": "informal",
+    "en": "Stupid (informal, rude)."
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3978,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Stupid (informal, rude)."
   },
   {
    "id": "en:000002748",
@@ -50537,12 +50665,14 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral"
+    "pt-BR": "termo geral",
+    "en": "Something used to hurt or attack (gun, knife)."
    },
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3982,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Something used to hurt or attack (gun, knife)."
   },
   {
    "id": "en:000002772",
@@ -52098,7 +52228,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 3993,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Breathing smoke from cigarettes.",
+   "nativeExplain": {
+    "en": "Breathing smoke from cigarettes."
+   }
   },
   {
    "id": "en:000002875",
@@ -52468,11 +52602,13 @@
    "core_status": "search_only",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica"
+    "pt-BR": "grafia britânica",
+    "en": "British spelling of \"defense\"."
    },
    "study_tier": "herdado",
    "study_priority": 3059,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "British spelling of \"defense\"."
   },
   {
    "id": "en:000002898",
@@ -53384,7 +53520,11 @@
    "core_status": "search_only",
    "study_tier": "restrito",
    "study_priority": 4004,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A group of criminals or friends.",
+   "nativeExplain": {
+    "en": "A group of criminals or friends."
+   }
   },
   {
    "id": "en:000002957",
@@ -54107,7 +54247,11 @@
    "core_status": "search_only",
    "study_tier": "temático",
    "study_priority": 3717,
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A very good, exciting song.",
+   "nativeExplain": {
+    "en": "A very good, exciting song."
+   }
   },
   {
    "id": "en:000003066",
@@ -58407,7 +58551,7 @@
    "english_id": "en:000000374",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A period of sixty minutes.",
    "text": "hour",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58416,14 +58560,18 @@
    "study_priority": 3312,
    "core_status": "retired",
    "duplicate_of": "en:000000652",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A period of sixty minutes.",
+   "nativeExplain": {
+    "en": "A period of sixty minutes."
+   }
   },
   {
    "id": "en:000000390",
    "english_id": "en:000000390",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The first part of something.",
    "text": "beginning",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58432,7 +58580,11 @@
    "study_priority": 3313,
    "core_status": "retired",
    "duplicate_of": "en:000001034",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The first part of something.",
+   "nativeExplain": {
+    "en": "The first part of something."
+   }
   },
   {
    "id": "en:000000545",
@@ -58459,7 +58611,7 @@
    "english_id": "en:000000558",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To appear to be something.",
    "text": "seem",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58468,14 +58620,18 @@
    "study_priority": 1063,
    "core_status": "retired",
    "duplicate_of": "en:000000854",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To appear to be something.",
+   "nativeExplain": {
+    "en": "To appear to be something."
+   }
   },
   {
    "id": "en:000000559",
    "english_id": "en:000000559",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An idea or opinion in the mind.",
    "text": "thought",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58484,7 +58640,11 @@
    "study_priority": 3317,
    "core_status": "retired",
    "duplicate_of": "en:000000226",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An idea or opinion in the mind.",
+   "nativeExplain": {
+    "en": "An idea or opinion in the mind."
+   }
   },
   {
    "id": "en:000000575",
@@ -58531,7 +58691,7 @@
    "english_id": "en:000000703",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The size of a flat surface.",
    "text": "area",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58540,7 +58700,11 @@
    "study_priority": 3324,
    "core_status": "retired",
    "duplicate_of": "en:000000314",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The size of a flat surface.",
+   "nativeExplain": {
+    "en": "The size of a flat surface."
+   }
   },
   {
    "id": "en:000000784",
@@ -58587,7 +58751,7 @@
    "english_id": "en:000000902",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A statement of what is allowed or not.",
    "text": "rule",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58596,7 +58760,11 @@
    "study_priority": 3333,
    "core_status": "retired",
    "duplicate_of": "en:000001200",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A statement of what is allowed or not.",
+   "nativeExplain": {
+    "en": "A statement of what is allowed or not."
+   }
   },
   {
    "id": "en:000000907",
@@ -58643,7 +58811,7 @@
    "english_id": "en:000000934",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A situation or example of something.",
    "text": "case",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58652,14 +58820,18 @@
    "study_priority": 3339,
    "core_status": "retired",
    "duplicate_of": "en:000000245",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A situation or example of something.",
+   "nativeExplain": {
+    "en": "A situation or example of something."
+   }
   },
   {
    "id": "en:000000945",
    "english_id": "en:000000945",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A thing made or sold.",
    "text": "product",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58668,7 +58840,11 @@
    "study_priority": 3340,
    "core_status": "retired",
    "duplicate_of": "en:000001170",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A thing made or sold.",
+   "nativeExplain": {
+    "en": "A thing made or sold."
+   }
   },
   {
    "id": "en:000000955",
@@ -58715,7 +58891,7 @@
    "english_id": "en:000000996",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The act of selling something.",
    "text": "sale",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58724,7 +58900,11 @@
    "study_priority": 3346,
    "core_status": "retired",
    "duplicate_of": "en:000001076",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The act of selling something.",
+   "nativeExplain": {
+    "en": "The act of selling something."
+   }
   },
   {
    "id": "en:000001108",
@@ -58791,7 +58971,7 @@
    "english_id": "en:000001185",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A quality that something has.",
    "text": "feature",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58800,14 +58980,18 @@
    "study_priority": 3365,
    "core_status": "retired",
    "duplicate_of": "en:000001563",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A quality that something has.",
+   "nativeExplain": {
+    "en": "A quality that something has."
+   }
   },
   {
    "id": "en:000001218",
    "english_id": "en:000001218",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The cause or explanation for something.",
    "text": "reason",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58816,7 +59000,11 @@
    "study_priority": 3368,
    "core_status": "retired",
    "duplicate_of": "en:000000461",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The cause or explanation for something.",
+   "nativeExplain": {
+    "en": "The cause or explanation for something."
+   }
   },
   {
    "id": "en:000001314",
@@ -58943,7 +59131,7 @@
    "english_id": "en:000001452",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The state of no longer having something.",
    "text": "loss",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58952,7 +59140,11 @@
    "study_priority": 3399,
    "core_status": "retired",
    "duplicate_of": "en:000000878",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The state of no longer having something.",
+   "nativeExplain": {
+    "en": "The state of no longer having something."
+   }
   },
   {
    "id": "en:000001503",
@@ -58979,7 +59171,7 @@
    "english_id": "en:000001515",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To come into view.",
    "text": "appear",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -58988,14 +59180,18 @@
    "study_priority": 3414,
    "core_status": "retired",
    "duplicate_of": "en:000001440",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To come into view.",
+   "nativeExplain": {
+    "en": "To come into view."
+   }
   },
   {
    "id": "en:000001546",
    "english_id": "en:000001546",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A small furry pet animal that purrs.",
    "text": "cat",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59004,14 +59200,18 @@
    "study_priority": 3418,
    "core_status": "retired",
    "duplicate_of": "en:000001677",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A small furry pet animal that purrs.",
+   "nativeExplain": {
+    "en": "A small furry pet animal that purrs."
+   }
   },
   {
    "id": "en:000001549",
    "english_id": "en:000001549",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "What you can see from a place.",
    "text": "view",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59020,14 +59220,18 @@
    "study_priority": 3419,
    "core_status": "retired",
    "duplicate_of": "en:000000645",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "What you can see from a place.",
+   "nativeExplain": {
+    "en": "What you can see from a place."
+   }
   },
   {
    "id": "en:000001572",
    "english_id": "en:000001572",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The center or the part between two ends.",
    "text": "middle",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59036,14 +59240,18 @@
    "study_priority": 3422,
    "core_status": "retired",
    "duplicate_of": "en:000000654",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The center or the part between two ends.",
+   "nativeExplain": {
+    "en": "The center or the part between two ends."
+   }
   },
   {
    "id": "en:000001595",
    "english_id": "en:000001595",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person who works for a company.",
    "text": "employee",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59052,7 +59260,11 @@
    "study_priority": 3425,
    "core_status": "retired",
    "duplicate_of": "en:000002946",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who works for a company.",
+   "nativeExplain": {
+    "en": "A person who works for a company."
+   }
   },
   {
    "id": "en:000001602",
@@ -59079,7 +59291,7 @@
    "english_id": "en:000001611",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To work for someone or provide food or help.",
    "text": "serve",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59088,7 +59300,11 @@
    "study_priority": 3431,
    "core_status": "retired",
    "duplicate_of": "en:000001467",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To work for someone or provide food or help.",
+   "nativeExplain": {
+    "en": "To work for someone or provide food or help."
+   }
   },
   {
    "id": "en:000001705",
@@ -59115,7 +59331,7 @@
    "english_id": "en:000001720",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Hard work to reach a goal.",
    "text": "effort",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59124,14 +59340,18 @@
    "study_priority": 3448,
    "core_status": "retired",
    "duplicate_of": "en:000001234",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Hard work to reach a goal.",
+   "nativeExplain": {
+    "en": "Hard work to reach a goal."
+   }
   },
   {
    "id": "en:000001740",
    "english_id": "en:000001740",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The number 1,000.",
    "text": "thousand",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59140,7 +59360,11 @@
    "study_priority": 3449,
    "core_status": "retired",
    "duplicate_of": "en:000002281",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The number 1,000.",
+   "nativeExplain": {
+    "en": "The number 1,000."
+   }
   },
   {
    "id": "en:000001777",
@@ -59167,7 +59391,7 @@
    "english_id": "en:000001786",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The last part of something.",
    "text": "end",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59176,7 +59400,11 @@
    "study_priority": 3454,
    "core_status": "retired",
    "duplicate_of": "en:000000188",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The last part of something.",
+   "nativeExplain": {
+    "en": "The last part of something."
+   }
   },
   {
    "id": "en:000001792",
@@ -59243,7 +59471,7 @@
    "english_id": "en:000001896",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A choice you make after thinking.",
    "text": "decision",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59252,7 +59480,11 @@
    "study_priority": 3473,
    "core_status": "retired",
    "duplicate_of": "en:000000819",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A choice you make after thinking.",
+   "nativeExplain": {
+    "en": "A choice you make after thinking."
+   }
   },
   {
    "id": "en:000001917",
@@ -59299,7 +59531,7 @@
    "english_id": "en:000001940",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An opening in a wall with glass.",
    "text": "window",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59308,14 +59540,18 @@
    "study_priority": 3479,
    "core_status": "retired",
    "duplicate_of": "en:000001644",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An opening in a wall with glass.",
+   "nativeExplain": {
+    "en": "An opening in a wall with glass."
+   }
   },
   {
    "id": "en:000001954",
    "english_id": "en:000001954",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A group of people living in the same place.",
    "text": "community",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59324,7 +59560,11 @@
    "study_priority": 3480,
    "core_status": "retired",
    "duplicate_of": "en:000000437",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A group of people living in the same place.",
+   "nativeExplain": {
+    "en": "A group of people living in the same place."
+   }
   },
   {
    "id": "en:000001956",
@@ -59431,7 +59671,7 @@
    "english_id": "en:000002003",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Containing as much as possible.",
    "text": "full",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59440,7 +59680,11 @@
    "study_priority": 3490,
    "core_status": "retired",
    "duplicate_of": "en:000000252",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Containing as much as possible.",
+   "nativeExplain": {
+    "en": "Containing as much as possible."
+   }
   },
   {
    "id": "en:000002012",
@@ -59467,7 +59711,7 @@
    "english_id": "en:000002055",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A tall plant with a trunk and branches.",
    "text": "tree",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59476,14 +59720,18 @@
    "study_priority": 3502,
    "core_status": "retired",
    "duplicate_of": "en:000001473",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A tall plant with a trunk and branches.",
+   "nativeExplain": {
+    "en": "A tall plant with a trunk and branches."
+   }
   },
   {
    "id": "en:000002102",
    "english_id": "en:000002102",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The act of adding numbers.",
    "text": "addition",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59492,14 +59740,18 @@
    "study_priority": 3511,
    "core_status": "retired",
    "duplicate_of": "en:000001005",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The act of adding numbers.",
+   "nativeExplain": {
+    "en": "The act of adding numbers."
+   }
   },
   {
    "id": "en:000002108",
    "english_id": "en:000002108",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person who creates art.",
    "text": "artist",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59508,7 +59760,11 @@
    "study_priority": 3513,
    "core_status": "retired",
    "duplicate_of": "en:000001620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who creates art.",
+   "nativeExplain": {
+    "en": "A person who creates art."
+   }
   },
   {
    "id": "en:000002127",
@@ -59535,7 +59791,7 @@
    "english_id": "en:000002131",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A group of people working together for a purpose.",
    "text": "organization",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59544,14 +59800,18 @@
    "study_priority": 3517,
    "core_status": "retired",
    "duplicate_of": "en:000001246",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A group of people working together for a purpose.",
+   "nativeExplain": {
+    "en": "A group of people working together for a purpose."
+   }
   },
   {
    "id": "en:000002137",
    "english_id": "en:000002137",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To need something or make it necessary.",
    "text": "require",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59560,14 +59820,18 @@
    "study_priority": 3518,
    "core_status": "retired",
    "duplicate_of": "en:000001700",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To need something or make it necessary.",
+   "nativeExplain": {
+    "en": "To need something or make it necessary."
+   }
   },
   {
    "id": "en:000002154",
    "english_id": "en:000002154",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A business that sells goods or services.",
    "text": "company",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59576,14 +59840,18 @@
    "study_priority": 3522,
    "core_status": "retired",
    "duplicate_of": "en:000000216",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A business that sells goods or services.",
+   "nativeExplain": {
+    "en": "A business that sells goods or services."
+   }
   },
   {
    "id": "en:000002160",
    "english_id": "en:000002160",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A vote to choose a leader or representative.",
    "text": "election",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59592,7 +59860,11 @@
    "study_priority": 3523,
    "core_status": "retired",
    "duplicate_of": "en:000000842",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A vote to choose a leader or representative.",
+   "nativeExplain": {
+    "en": "A vote to choose a leader or representative."
+   }
   },
   {
    "id": "en:000002180",
@@ -59619,7 +59891,7 @@
    "english_id": "en:000002192",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To give a part of something to others.",
    "text": "share",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59628,14 +59900,18 @@
    "study_priority": 3527,
    "core_status": "retired",
    "duplicate_of": "en:000000620",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To give a part of something to others.",
+   "nativeExplain": {
+    "en": "To give a part of something to others."
+   }
   },
   {
    "id": "en:000002215",
    "english_id": "en:000002215",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To strike with force.",
    "text": "hit",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59644,14 +59920,18 @@
    "study_priority": 3529,
    "core_status": "retired",
    "duplicate_of": "en:000000406",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To strike with force.",
+   "nativeExplain": {
+    "en": "To strike with force."
+   }
   },
   {
    "id": "en:000002220",
    "english_id": "en:000002220",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To guide or go in front of others.",
    "text": "lead",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59660,7 +59940,11 @@
    "study_priority": 3530,
    "core_status": "retired",
    "duplicate_of": "en:000000614",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To guide or go in front of others.",
+   "nativeExplain": {
+    "en": "To guide or go in front of others."
+   }
   },
   {
    "id": "en:000002240",
@@ -59687,7 +59971,7 @@
    "english_id": "en:000002259",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A story shown as moving pictures.",
    "text": "film",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59696,14 +59980,18 @@
    "study_priority": 3540,
    "core_status": "retired",
    "duplicate_of": "en:000000611",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A story shown as moving pictures.",
+   "nativeExplain": {
+    "en": "A story shown as moving pictures."
+   }
   },
   {
    "id": "en:000002265",
    "english_id": "en:000002265",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The number 1,000,000.",
    "text": "million",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59712,14 +60000,18 @@
    "study_priority": 3542,
    "core_status": "retired",
    "duplicate_of": "en:000000451",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The number 1,000,000.",
+   "nativeExplain": {
+    "en": "The number 1,000,000."
+   }
   },
   {
    "id": "en:000002285",
    "english_id": "en:000002285",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The sound made by a person when speaking or singing.",
    "text": "voice",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59728,14 +60020,18 @@
    "study_priority": 3543,
    "core_status": "retired",
    "duplicate_of": "en:000000889",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The sound made by a person when speaking or singing.",
+   "nativeExplain": {
+    "en": "The sound made by a person when speaking or singing."
+   }
   },
   {
    "id": "en:000002324",
    "english_id": "en:000002324",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The place where something is.",
    "text": "position",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59744,7 +60040,11 @@
    "study_priority": 3550,
    "core_status": "retired",
    "duplicate_of": "en:000000603",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The place where something is.",
+   "nativeExplain": {
+    "en": "The place where something is."
+   }
   },
   {
    "id": "en:000002331",
@@ -59771,7 +60071,7 @@
    "english_id": "en:000002340",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To allow someone to do something.",
    "text": "let",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59780,7 +60080,11 @@
    "study_priority": 3554,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To allow someone to do something.",
+   "nativeExplain": {
+    "en": "To allow someone to do something."
+   }
   },
   {
    "id": "en:000002382",
@@ -59827,7 +60131,7 @@
    "english_id": "en:000002407",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A man, woman or child; a person.",
    "text": "human",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59836,7 +60140,11 @@
    "study_priority": 3564,
    "core_status": "retired",
    "duplicate_of": "en:000000428",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A man, woman or child; a person.",
+   "nativeExplain": {
+    "en": "A man, woman or child; a person."
+   }
   },
   {
    "id": "en:000002413",
@@ -59863,7 +60171,7 @@
    "english_id": "en:000002414",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A place where people buy and sell things.",
    "text": "market",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59872,14 +60180,18 @@
    "study_priority": 3567,
    "core_status": "retired",
    "duplicate_of": "en:000000494",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A place where people buy and sell things.",
+   "nativeExplain": {
+    "en": "A place where people buy and sell things."
+   }
   },
   {
    "id": "en:000002424",
    "english_id": "en:000002424",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To make something go to another place or person.",
    "text": "send",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59888,14 +60200,18 @@
    "study_priority": 3569,
    "core_status": "retired",
    "duplicate_of": "en:000000790",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To make something go to another place or person.",
+   "nativeExplain": {
+    "en": "To make something go to another place or person."
+   }
   },
   {
    "id": "en:000002434",
    "english_id": "en:000002434",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "What you say or write in reply.",
    "text": "answer",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59904,14 +60220,18 @@
    "study_priority": 3572,
    "core_status": "retired",
    "duplicate_of": "en:000000663",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "What you say or write in reply.",
+   "nativeExplain": {
+    "en": "What you say or write in reply."
+   }
   },
   {
    "id": "en:000002435",
    "english_id": "en:000002435",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An animal with feathers and wings.",
    "text": "bird",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59920,7 +60240,11 @@
    "study_priority": 3573,
    "core_status": "retired",
    "duplicate_of": "en:000002290",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An animal with feathers and wings.",
+   "nativeExplain": {
+    "en": "An animal with feathers and wings."
+   }
   },
   {
    "id": "en:000002463",
@@ -59947,7 +60271,7 @@
    "english_id": "en:000002470",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A fully grown person.",
    "text": "adult",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59956,14 +60280,18 @@
    "study_priority": 3580,
    "core_status": "retired",
    "duplicate_of": "en:000001618",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A fully grown person.",
+   "nativeExplain": {
+    "en": "A fully grown person."
+   }
   },
   {
    "id": "en:000002482",
    "english_id": "en:000002482",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Sharing information with others.",
    "text": "communication",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59972,7 +60300,11 @@
    "study_priority": 3581,
    "core_status": "retired",
    "duplicate_of": "en:000002065",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Sharing information with others.",
+   "nativeExplain": {
+    "en": "Sharing information with others."
+   }
   },
   {
    "id": "en:000002483",
@@ -60019,7 +60351,7 @@
    "english_id": "en:000002491",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A tool or machine for a purpose.",
    "text": "device",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60028,14 +60360,18 @@
    "study_priority": 3584,
    "core_status": "retired",
    "duplicate_of": "en:000002112",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A tool or machine for a purpose.",
+   "nativeExplain": {
+    "en": "A tool or machine for a purpose."
+   }
   },
   {
    "id": "en:000002493",
    "english_id": "en:000002493",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Images and feelings in the mind while sleeping.",
    "text": "dream",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60044,14 +60380,18 @@
    "study_priority": 3585,
    "core_status": "retired",
    "duplicate_of": "en:000001269",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Images and feelings in the mind while sleeping.",
+   "nativeExplain": {
+    "en": "Images and feelings in the mind while sleeping."
+   }
   },
   {
    "id": "en:000002509",
    "english_id": "en:000002509",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Making little or no noise.",
    "text": "quiet",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60060,7 +60400,11 @@
    "study_priority": 3588,
    "core_status": "retired",
    "duplicate_of": "en:000002228",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Making little or no noise.",
+   "nativeExplain": {
+    "en": "Making little or no noise."
+   }
   },
   {
    "id": "en:000002518",
@@ -60087,7 +60431,7 @@
    "english_id": "en:000002532",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The way a person acts.",
    "text": "behavior",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60096,14 +60440,18 @@
    "study_priority": 3592,
    "core_status": "retired",
    "duplicate_of": "en:000002024",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The way a person acts.",
+   "nativeExplain": {
+    "en": "The way a person acts."
+   }
   },
   {
    "id": "en:000002533",
    "english_id": "en:000002533",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A period of ten years.",
    "text": "decade",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60112,7 +60460,11 @@
    "study_priority": 3593,
    "core_status": "retired",
    "duplicate_of": "en:000002844",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A period of ten years.",
+   "nativeExplain": {
+    "en": "A period of ten years."
+   }
   },
   {
    "id": "en:000002556",
@@ -60159,7 +60511,7 @@
    "english_id": "en:000002651",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person you do something with, in work or life.",
    "text": "partner",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60168,7 +60520,11 @@
    "study_priority": 3600,
    "core_status": "retired",
    "duplicate_of": "en:000001497",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person you do something with, in work or life.",
+   "nativeExplain": {
+    "en": "A person you do something with, in work or life."
+   }
   },
   {
    "id": "en:000002660",
@@ -60215,7 +60571,7 @@
    "english_id": "en:000002721",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A large boat that carries people or goods.",
    "text": "ship",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60224,14 +60580,18 @@
    "study_priority": 3610,
    "core_status": "retired",
    "duplicate_of": "en:000001220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A large boat that carries people or goods.",
+   "nativeExplain": {
+    "en": "A large boat that carries people or goods."
+   }
   },
   {
    "id": "en:000002728",
    "english_id": "en:000002728",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person who writes books or articles.",
    "text": "writer",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60240,7 +60600,11 @@
    "study_priority": 3613,
    "core_status": "retired",
    "duplicate_of": "en:000002058",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who writes books or articles.",
+   "nativeExplain": {
+    "en": "A person who writes books or articles."
+   }
   },
   {
    "id": "en:000002744",
@@ -60267,7 +60631,7 @@
    "english_id": "en:000002745",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A part that opens and closes an entrance.",
    "text": "door",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60276,14 +60640,18 @@
    "study_priority": 3615,
    "core_status": "retired",
    "duplicate_of": "en:000000841",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A part that opens and closes an entrance.",
+   "nativeExplain": {
+    "en": "A part that opens and closes an entrance."
+   }
   },
   {
    "id": "en:000002775",
    "english_id": "en:000002775",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "How many years someone has lived.",
    "text": "age",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60292,7 +60660,11 @@
    "study_priority": 3616,
    "core_status": "retired",
    "duplicate_of": "en:000000457",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "How many years someone has lived.",
+   "nativeExplain": {
+    "en": "How many years someone has lived."
+   }
   },
   {
    "id": "en:000002810",
@@ -60339,7 +60711,7 @@
    "english_id": "en:000002834",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A round object used in games.",
    "text": "ball",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60348,7 +60720,11 @@
    "study_priority": 3624,
    "core_status": "retired",
    "duplicate_of": "en:000000930",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A round object used in games.",
+   "nativeExplain": {
+    "en": "A round object used in games."
+   }
   },
   {
    "id": "en:000002836",
@@ -60375,7 +60751,7 @@
    "english_id": "en:000002846",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The way two things are not the same.",
    "text": "difference",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60384,14 +60760,18 @@
    "study_priority": 3626,
    "core_status": "retired",
    "duplicate_of": "en:000001016",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The way two things are not the same.",
+   "nativeExplain": {
+    "en": "The way two things are not the same."
+   }
   },
   {
    "id": "en:000002908",
    "english_id": "en:000002908",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A group of things with the same qualities.",
    "text": "kind",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60400,14 +60780,18 @@
    "study_priority": 3630,
    "core_status": "retired",
    "duplicate_of": "en:000000325",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A group of things with the same qualities.",
+   "nativeExplain": {
+    "en": "A group of things with the same qualities."
+   }
   },
   {
    "id": "en:000002909",
    "english_id": "en:000002909",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To allow someone to do something.",
    "text": "let",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60416,7 +60800,11 @@
    "study_priority": 3631,
    "core_status": "retired",
    "duplicate_of": "en:000000220",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To allow someone to do something.",
+   "nativeExplain": {
+    "en": "To allow someone to do something."
+   }
   },
   {
    "id": "en:000002914",
@@ -60443,7 +60831,7 @@
    "english_id": "en:000002955",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "What something is for or does.",
    "text": "function",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60452,14 +60840,18 @@
    "study_priority": 3639,
    "core_status": "retired",
    "duplicate_of": "en:000001684",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "What something is for or does.",
+   "nativeExplain": {
+    "en": "What something is for or does."
+   }
   },
   {
    "id": "en:000002961",
    "english_id": "en:000002961",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Land surrounded by water.",
    "text": "island",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60468,14 +60860,18 @@
    "study_priority": 3640,
    "core_status": "retired",
    "duplicate_of": "en:000001020",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Land surrounded by water.",
+   "nativeExplain": {
+    "en": "Land surrounded by water."
+   }
   },
   {
    "id": "en:000002965",
    "english_id": "en:000002965",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The ability to remember things.",
    "text": "memory",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60484,14 +60880,18 @@
    "study_priority": 3641,
    "core_status": "retired",
    "duplicate_of": "en:000001605",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The ability to remember things.",
+   "nativeExplain": {
+    "en": "The ability to remember things."
+   }
   },
   {
    "id": "en:000002968",
    "english_id": "en:000002968",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A very high natural hill of rock and earth.",
    "text": "mountain",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -60500,7 +60900,11 @@
    "study_priority": 3642,
    "core_status": "retired",
    "duplicate_of": "en:000001873",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A very high natural hill of rock and earth.",
+   "nativeExplain": {
+    "en": "A very high natural hill of rock and earth."
+   }
   },
   {
    "id": "en:000002978",
@@ -74915,7 +75319,7 @@
    "english_id": "en:000003918",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The condition of something at a time.",
    "text": "state",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -74924,7 +75328,11 @@
    "study_priority": 2273,
    "core_status": "retired",
    "duplicate_of": "en:000000156",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The condition of something at a time.",
+   "nativeExplain": {
+    "en": "The condition of something at a time."
+   }
   },
   {
    "id": "en:000003919",
@@ -75111,7 +75519,7 @@
    "english_id": "en:000003929",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The leader of a company or organization.",
    "text": "president",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75120,14 +75528,18 @@
    "study_priority": 2284,
    "core_status": "retired",
    "duplicate_of": "en:000000328",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The leader of a company or organization.",
+   "nativeExplain": {
+    "en": "The leader of a company or organization."
+   }
   },
   {
    "id": "en:000003930",
    "english_id": "en:000003930",
    "english_sense_id": null,
    "kind": "expression",
-   "description_en": "",
+   "description_en": "Used to say yes strongly.",
    "text": "of course",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75136,7 +75548,11 @@
    "study_priority": 2285,
    "core_status": "retired",
    "duplicate_of": "en:000003205",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Used to say yes strongly.",
+   "nativeExplain": {
+    "en": "Used to say yes strongly."
+   }
   },
   {
    "id": "en:000003931",
@@ -75243,7 +75659,7 @@
    "english_id": "en:000003937",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Not able to be found.",
    "text": "lost",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75252,14 +75668,18 @@
    "study_priority": 2292,
    "core_status": "retired",
    "duplicate_of": "en:000000386",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not able to be found.",
+   "nativeExplain": {
+    "en": "Not able to be found."
+   }
   },
   {
    "id": "en:000003938",
    "english_id": "en:000003938",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Empty area where things or people fit.",
    "text": "room",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75268,7 +75688,11 @@
    "study_priority": 2293,
    "core_status": "retired",
    "duplicate_of": "en:000002660",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Empty area where things or people fit.",
+   "nativeExplain": {
+    "en": "Empty area where things or people fit."
+   }
   },
   {
    "id": "en:000003939",
@@ -75295,7 +75719,7 @@
    "english_id": "en:000003941",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A series of instructions for a computer; a show on TV.",
    "text": "program",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75304,7 +75728,11 @@
    "study_priority": 2296,
    "core_status": "retired",
    "duplicate_of": "en:000000525",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A series of instructions for a computer; a show on TV.",
+   "nativeExplain": {
+    "en": "A series of instructions for a computer; a show on TV."
+   }
   },
   {
    "id": "en:000003942",
@@ -75351,7 +75779,7 @@
    "english_id": "en:000003944",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The area beyond Earth where the stars are.",
    "text": "space",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75360,7 +75788,11 @@
    "study_priority": 2299,
    "core_status": "retired",
    "duplicate_of": "en:000000578",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The area beyond Earth where the stars are.",
+   "nativeExplain": {
+    "en": "The area beyond Earth where the stars are."
+   }
   },
   {
    "id": "en:000003945",
@@ -75507,7 +75939,7 @@
    "english_id": "en:000003952",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person in charge of a department.",
    "text": "director",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75516,7 +75948,11 @@
    "study_priority": 2307,
    "core_status": "retired",
    "duplicate_of": "en:000000708",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person in charge of a department.",
+   "nativeExplain": {
+    "en": "A person in charge of a department."
+   }
   },
   {
    "id": "en:000003953",
@@ -75543,7 +75979,7 @@
    "english_id": "en:000003954",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To keep data on a computer.",
    "text": "save",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75552,14 +75988,18 @@
    "study_priority": 2309,
    "core_status": "retired",
    "duplicate_of": "en:000000730",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To keep data on a computer.",
+   "nativeExplain": {
+    "en": "To keep data on a computer."
+   }
   },
   {
    "id": "en:000003955",
    "english_id": "en:000003955",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person who shows clothes in fashion shows.",
    "text": "model",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75568,7 +76008,11 @@
    "study_priority": 2310,
    "core_status": "retired",
    "duplicate_of": "en:000000750",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who shows clothes in fashion shows.",
+   "nativeExplain": {
+    "en": "A person who shows clothes in fashion shows."
+   }
   },
   {
    "id": "en:000003956",
@@ -75615,7 +76059,7 @@
    "english_id": "en:000003958",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A sport played in the US with an oval ball.",
    "text": "football",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75624,7 +76068,11 @@
    "study_priority": 2313,
    "core_status": "retired",
    "duplicate_of": "en:000003204",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A sport played in the US with an oval ball.",
+   "nativeExplain": {
+    "en": "A sport played in the US with an oval ball."
+   }
   },
   {
    "id": "en:000003959",
@@ -75651,7 +76099,7 @@
    "english_id": "en:000003960",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A place where soldiers live and work.",
    "text": "base",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75660,14 +76108,18 @@
    "study_priority": 2315,
    "core_status": "retired",
    "duplicate_of": "en:000000911",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A place where soldiers live and work.",
+   "nativeExplain": {
+    "en": "A place where soldiers live and work."
+   }
   },
   {
    "id": "en:000003961",
    "english_id": "en:000003961",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A score given for school work.",
    "text": "grade",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75676,14 +76128,18 @@
    "study_priority": 2316,
    "core_status": "retired",
    "duplicate_of": "en:000001624",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A score given for school work.",
+   "nativeExplain": {
+    "en": "A score given for school work."
+   }
   },
   {
    "id": "en:000003962",
    "english_id": "en:000003962",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To succeed in an exam.",
    "text": "pass",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75692,14 +76148,18 @@
    "study_priority": 2317,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To succeed in an exam.",
+   "nativeExplain": {
+    "en": "To succeed in an exam."
+   }
   },
   {
    "id": "en:000003963",
    "english_id": "en:000003963",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To hand something to someone.",
    "text": "pass",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75708,7 +76168,11 @@
    "study_priority": 2318,
    "core_status": "retired",
    "duplicate_of": "en:000000921",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To hand something to someone.",
+   "nativeExplain": {
+    "en": "To hand something to someone."
+   }
   },
   {
    "id": "en:000003964",
@@ -75795,7 +76259,7 @@
    "english_id": "en:000003968",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person who loves and follows a team or star.",
    "text": "fan",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75804,7 +76268,11 @@
    "study_priority": 2323,
    "core_status": "retired",
    "duplicate_of": "en:000001236",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person who loves and follows a team or star.",
+   "nativeExplain": {
+    "en": "A person who loves and follows a team or star."
+   }
   },
   {
    "id": "en:000003969",
@@ -75851,7 +76319,7 @@
    "english_id": "en:000003971",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A large truck for carrying goods.",
    "text": "track",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75860,14 +76328,18 @@
    "study_priority": 2326,
    "core_status": "retired",
    "duplicate_of": "en:000001001",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A large truck for carrying goods.",
+   "nativeExplain": {
+    "en": "A large truck for carrying goods."
+   }
   },
   {
    "id": "en:000003972",
    "english_id": "en:000003972",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Money used to start or run a business.",
    "text": "capital",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75876,7 +76348,11 @@
    "study_priority": 2327,
    "core_status": "retired",
    "duplicate_of": "en:000001012",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Money used to start or run a business.",
+   "nativeExplain": {
+    "en": "Money used to start or run a business."
+   }
   },
   {
    "id": "en:000003973",
@@ -75923,7 +76399,7 @@
    "english_id": "en:000003975",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A company that sends out radio programs.",
    "text": "station",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75932,7 +76408,11 @@
    "study_priority": 2330,
    "core_status": "retired",
    "duplicate_of": "en:000001029",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A company that sends out radio programs.",
+   "nativeExplain": {
+    "en": "A company that sends out radio programs."
+   }
   },
   {
    "id": "en:000003976",
@@ -75959,7 +76439,7 @@
    "english_id": "en:000003977",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An organized effort by many people for a cause.",
    "text": "movement",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75968,7 +76448,11 @@
    "study_priority": 2332,
    "core_status": "retired",
    "duplicate_of": "en:000001110",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An organized effort by many people for a cause.",
+   "nativeExplain": {
+    "en": "An organized effort by many people for a cause."
+   }
   },
   {
    "id": "en:000003978",
@@ -76095,7 +76579,7 @@
    "english_id": "en:000003984",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A large vehicle that travels long distances.",
    "text": "bus",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76104,7 +76588,11 @@
    "study_priority": 2339,
    "core_status": "retired",
    "duplicate_of": "en:000001518",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A large vehicle that travels long distances.",
+   "nativeExplain": {
+    "en": "A large vehicle that travels long distances."
+   }
   },
   {
    "id": "en:000003985",
@@ -76131,7 +76619,7 @@
    "english_id": "en:000003986",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An advertisement on TV or radio.",
    "text": "commercial",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76140,7 +76628,11 @@
    "study_priority": 2341,
    "core_status": "retired",
    "duplicate_of": "en:000001232",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An advertisement on TV or radio.",
+   "nativeExplain": {
+    "en": "An advertisement on TV or radio."
+   }
   },
   {
    "id": "en:000003987",
@@ -76247,7 +76739,7 @@
    "english_id": "en:000003992",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To arrive in time for a bus or train.",
    "text": "catch",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76256,14 +76748,18 @@
    "study_priority": 2347,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To arrive in time for a bus or train.",
+   "nativeExplain": {
+    "en": "To arrive in time for a bus or train."
+   }
   },
   {
    "id": "en:000003993",
    "english_id": "en:000003993",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To become sick with a cold.",
    "text": "catch",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76272,7 +76768,11 @@
    "study_priority": 2348,
    "core_status": "retired",
    "duplicate_of": "en:000001383",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To become sick with a cold.",
+   "nativeExplain": {
+    "en": "To become sick with a cold."
+   }
   },
   {
    "id": "en:000003994",
@@ -76299,7 +76799,7 @@
    "english_id": "en:000003995",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Something taken to get well.",
    "text": "medicine",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76308,14 +76808,18 @@
    "study_priority": 2350,
    "core_status": "retired",
    "duplicate_of": "en:000001871",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Something taken to get well.",
+   "nativeExplain": {
+    "en": "Something taken to get well."
+   }
   },
   {
    "id": "en:000003996",
    "english_id": "en:000003996",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A church service of the Catholic faith.",
    "text": "Mass",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76324,7 +76828,11 @@
    "study_priority": 2351,
    "core_status": "retired",
    "duplicate_of": "en:000003203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A church service of the Catholic faith.",
+   "nativeExplain": {
+    "en": "A church service of the Catholic faith."
+   }
   },
   {
    "id": "en:000003997",
@@ -76411,7 +76919,7 @@
    "english_id": "en:000004001",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Finding faults; judging negatively.",
    "text": "critical",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76420,7 +76928,11 @@
    "study_priority": 2356,
    "core_status": "retired",
    "duplicate_of": "en:000001523",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Finding faults; judging negatively.",
+   "nativeExplain": {
+    "en": "Finding faults; judging negatively."
+   }
   },
   {
    "id": "en:000004002",
@@ -76447,7 +76959,7 @@
    "english_id": "en:000004003",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An organization that gives money for a cause.",
    "text": "foundation",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76456,7 +76968,11 @@
    "study_priority": 2358,
    "core_status": "retired",
    "duplicate_of": "en:000001599",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An organization that gives money for a cause.",
+   "nativeExplain": {
+    "en": "An organization that gives money for a cause."
+   }
   },
   {
    "id": "en:000004004",
@@ -76583,7 +77099,7 @@
    "english_id": "en:000004010",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A person receiving medical care.",
    "text": "patient",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76592,7 +77108,11 @@
    "study_priority": 2365,
    "core_status": "retired",
    "duplicate_of": "en:000001733",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A person receiving medical care.",
+   "nativeExplain": {
+    "en": "A person receiving medical care."
+   }
   },
   {
    "id": "en:000004011",
@@ -76639,7 +77159,7 @@
    "english_id": "en:000004013",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "One book of a set.",
    "text": "volume",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76648,7 +77168,11 @@
    "study_priority": 2368,
    "core_status": "retired",
    "duplicate_of": "en:000001770",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "One book of a set.",
+   "nativeExplain": {
+    "en": "One book of a set."
+   }
   },
   {
    "id": "en:000004014",
@@ -76715,7 +77239,7 @@
    "english_id": "en:000004017",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Not sane; behaving in a very strange way.",
    "text": "crazy",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76724,7 +77248,11 @@
    "study_priority": 2372,
    "core_status": "retired",
    "duplicate_of": "en:000000869",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Not sane; behaving in a very strange way.",
+   "nativeExplain": {
+    "en": "Not sane; behaving in a very strange way."
+   }
   },
   {
    "id": "en:000004018",
@@ -76771,7 +77299,7 @@
    "english_id": "en:000004020",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A set of rooms in a building where a person lives.",
    "text": "apartment",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76780,14 +77308,18 @@
    "study_priority": 2375,
    "core_status": "retired",
    "duplicate_of": "en:000002203",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A set of rooms in a building where a person lives.",
+   "nativeExplain": {
+    "en": "A set of rooms in a building where a person lives."
+   }
   },
   {
    "id": "en:000004021",
    "english_id": "en:000004021",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "An informal greeting.",
    "text": "hi",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76796,7 +77328,11 @@
    "study_priority": 2376,
    "core_status": "retired",
    "duplicate_of": "en:000001046",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "An informal greeting.",
+   "nativeExplain": {
+    "en": "An informal greeting."
+   }
   },
   {
    "id": "en:000004022",
@@ -76863,7 +77399,7 @@
    "english_id": "en:000004025",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Of the home or the family.",
    "text": "domestic",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76872,14 +77408,18 @@
    "study_priority": 2380,
    "core_status": "retired",
    "duplicate_of": "en:000002032",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Of the home or the family.",
+   "nativeExplain": {
+    "en": "Of the home or the family."
+   }
   },
   {
    "id": "en:000004026",
    "english_id": "en:000004026",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A practice problem for a student.",
    "text": "exercise",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76888,14 +77428,18 @@
    "study_priority": 2381,
    "core_status": "retired",
    "duplicate_of": "en:000002071",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A practice problem for a student.",
+   "nativeExplain": {
+    "en": "A practice problem for a student."
+   }
   },
   {
    "id": "en:000004027",
    "english_id": "en:000004027",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A flat raised area; a computer service where people connect.",
    "text": "platform",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -76904,7 +77448,11 @@
    "study_priority": 2382,
    "core_status": "retired",
    "duplicate_of": "en:000002132",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A flat raised area; a computer service where people connect.",
+   "nativeExplain": {
+    "en": "A flat raised area; a computer service where people connect."
+   }
   },
   {
    "id": "en:000004028",
@@ -77011,7 +77559,7 @@
    "english_id": "en:000004033",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Meat from a farm bird.",
    "text": "chicken",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77020,14 +77568,18 @@
    "study_priority": 2388,
    "core_status": "retired",
    "duplicate_of": "en:000002295",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Meat from a farm bird.",
+   "nativeExplain": {
+    "en": "Meat from a farm bird."
+   }
   },
   {
    "id": "en:000004034",
    "english_id": "en:000004034",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Imagination about the future; sight.",
    "text": "vision",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77036,14 +77588,18 @@
    "study_priority": 2389,
    "core_status": "retired",
    "duplicate_of": "en:000002335",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Imagination about the future; sight.",
+   "nativeExplain": {
+    "en": "Imagination about the future; sight."
+   }
   },
   {
    "id": "en:000004035",
    "english_id": "en:000004035",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A thick, soft substance for skin or food.",
    "text": "cream",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77052,14 +77608,18 @@
    "study_priority": 2390,
    "core_status": "retired",
    "duplicate_of": "en:000002344",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A thick, soft substance for skin or food.",
+   "nativeExplain": {
+    "en": "A thick, soft substance for skin or food."
+   }
   },
   {
    "id": "en:000004036",
    "english_id": "en:000004036",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The color between red and yellow.",
    "text": "orange",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77068,7 +77628,11 @@
    "study_priority": 2391,
    "core_status": "retired",
    "duplicate_of": "en:000002361",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The color between red and yellow.",
+   "nativeExplain": {
+    "en": "The color between red and yellow."
+   }
   },
   {
    "id": "en:000004037",
@@ -77135,7 +77699,7 @@
    "english_id": "en:000004040",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "How sharp and detailed a screen image is.",
    "text": "resolution",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77144,7 +77708,11 @@
    "study_priority": 2395,
    "core_status": "retired",
    "duplicate_of": "en:000002515",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "How sharp and detailed a screen image is.",
+   "nativeExplain": {
+    "en": "How sharp and detailed a screen image is."
+   }
   },
   {
    "id": "en:000004041",
@@ -77251,7 +77819,7 @@
    "english_id": "en:000004046",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A mother and a father.",
    "text": "parents",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77260,14 +77828,18 @@
    "study_priority": 2401,
    "core_status": "retired",
    "duplicate_of": "en:000000601",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A mother and a father.",
+   "nativeExplain": {
+    "en": "A mother and a father."
+   }
   },
   {
    "id": "en:000004047",
    "english_id": "en:000004047",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To move someone to a higher job.",
    "text": "promote",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77276,14 +77848,18 @@
    "study_priority": 2402,
    "core_status": "retired",
    "duplicate_of": "en:000002658",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To move someone to a higher job.",
+   "nativeExplain": {
+    "en": "To move someone to a higher job."
+   }
   },
   {
    "id": "en:000004048",
    "english_id": "en:000004048",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A way of showing a thought in words.",
    "text": "expression",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77292,7 +77868,11 @@
    "study_priority": 2403,
    "core_status": "retired",
    "duplicate_of": "en:000002693",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "A way of showing a thought in words.",
+   "nativeExplain": {
+    "en": "A way of showing a thought in words."
+   }
   },
   {
    "id": "en:000004049",
@@ -77319,7 +77899,7 @@
    "english_id": "en:000004050",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The pointed end of something.",
    "text": "tip",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77328,7 +77908,11 @@
    "study_priority": 2405,
    "core_status": "retired",
    "duplicate_of": "en:000002562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The pointed end of something.",
+   "nativeExplain": {
+    "en": "The pointed end of something."
+   }
   },
   {
    "id": "en:000004051",
@@ -77535,7 +78119,7 @@
    "english_id": "en:000004061",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "Cosmetics put on the face.",
    "text": "makeup",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77544,7 +78128,11 @@
    "study_priority": 2416,
    "core_status": "retired",
    "duplicate_of": "en:000003562",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "Cosmetics put on the face.",
+   "nativeExplain": {
+    "en": "Cosmetics put on the face."
+   }
   },
   {
    "id": "en:000004062",
@@ -77671,7 +78259,7 @@
    "english_id": "en:000004068",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "To cover a surface with paint.",
    "text": "paint",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77680,7 +78268,11 @@
    "study_priority": 903,
    "core_status": "retired",
    "duplicate_of": "en:000004053",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "To cover a surface with paint.",
+   "nativeExplain": {
+    "en": "To cover a surface with paint."
+   }
   },
   {
    "id": "en:000004069",
@@ -77927,7 +78519,7 @@
    "english_id": "en:000004081",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The money of Brazil.",
    "text": "real",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -77936,7 +78528,11 @@
    "study_priority": 3773,
    "core_status": "retired",
    "duplicate_of": "en:000000221",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The money of Brazil.",
+   "nativeExplain": {
+    "en": "The money of Brazil."
+   }
   },
   {
    "id": "en:000004082",
@@ -79386,7 +79982,7 @@
    "english_id": "en:000004154",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The natural rest of the body at night.",
    "text": "sleep",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -79395,7 +79991,11 @@
    "study_priority": 3295,
    "core_status": "retired",
    "duplicate_of": "en:000002662",
-   "user_hint": ""
+   "user_hint": "",
+   "description": "The natural rest of the body at night.",
+   "nativeExplain": {
+    "en": "The natural rest of the body at night."
+   }
   },
   {
    "id": "en:000004155",
