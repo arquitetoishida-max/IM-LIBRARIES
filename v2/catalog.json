@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.4.1",
+  "version": "1.4.6",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "f9146cb622294de4859dd0d2577f9553aa2aedd1fc316336885dd5763fe496d7",
-      "version": "2.4.0",
-      "size_bytes": 1859328
+      "sha256": "a4fc14a7efc82cdf3aa48787a1f7b57668358be70393e5d30979d76aeb3873c6",
+      "version": "2.4.6",
+      "size_bytes": 2210936
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "27ce8c7b6c7f5fd8084b8ccaea7b23ccd9ca7c559b494efd9ba81d2239031b30",
-      "version": "2.4.0",
-      "size_bytes": 2014765
+      "sha256": "30977deee1cb38110be49552b90200fdf65e5812c05fbfd7b2caec06d7d535b6",
+      "version": "2.4.6",
+      "size_bytes": 2396392
     },
     {
       "id": "pt-PT-core-v2",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "33b28eb0fbf3327c6a23c6cdac11c5622055006e3bdbef234d9f273bf0cb9428",
-      "version": "2.4.1",
-      "size_bytes": 4223849
+      "sha256": "c7a42145f656b31cfac0007d3369db85f3ffbb4dc20b7ab431e5a4ac8f7d6d38",
+      "version": "2.4.6",
+      "size_bytes": 4611806
     },
     {
       "id": "es-core-v2",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "3ae0a85ea97cf2c109f41e10d9e7d265a879d55d5830c1e4ffa25ff6176011ee",
-      "version": "2.4.0",
-      "size_bytes": 2481912
+      "sha256": "c61b4cd0f8a3844cc0ea60322ae69ca745d6e41798a7246cf1353862c3184e11",
+      "version": "2.4.6",
+      "size_bytes": 2834341
     },
     {
       "id": "ko-core-v2",
@@ -1019,6 +1019,11 @@
     "1.3.0 (19/11/2026): NOVREV — somente en, pt-BR, ja e zh core ficam publicados; os demais pacotes monolíngues foram despublicados (arquivos preservados) e só voltam após passar pela NOVREV.",
     "1.3.1: core 2.3.0 — NOVREV VCU14 (1.060 conceitos) integrado em en/pt-BR/ja/zh; anteriores 2.2.1 em v2/previous/.",
     "1.4.0: core 2.4.0 — NOVREV completo, 4 idiomas iguais (3.609 conceitos); anterior 2.3.0 em v2/previous/.",
-    "1.4.1: ja-core 2.4.1 — alternativas incorretas removidas."
+    "1.4.1: ja-core 2.4.1 — alternativas incorretas removidas.",
+    "1.4.2: core 2.4.2 — nativeExplain com descrição nativa nos 4 idiomas.",
+    "1.4.3: core 2.4.3 — 100% das entradas com descrição no próprio idioma.",
+    "1.4.4: core 2.4.4 — conferência T1 (mesmo significado nos 4 idiomas).",
+    "1.4.5: core 2.4.5 — níveis 100% e antônimos ampliados.",
+    "1.4.6: core 2.4.6."
   ]
 }
