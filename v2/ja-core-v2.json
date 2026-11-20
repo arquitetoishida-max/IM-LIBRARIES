@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.0",
+ "version": "2.4.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -30,7 +30,8 @@
   "2.2.0: BASE4 review integrated (LEXICON #22): core_status retired/search_only, study_tier/study_priority, alternatives, sense hints, ALLOC-006 new senses.",
   "2.2.1: REG37 — part_of_speech for BASE4 entries; JA plain/polite forms for new and corrected entries; invalid copula progressives removed (MULTILANG #37).",
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
-  "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas."
+  "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
+  "2.4.1: japonês — removidas alternativas que eram outra palavra (leitura diferente ou outro conceito), que apareciam no card com a leitura errada."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -29580,9 +29581,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "へ",
-   "alternatives": [
-    "に"
-   ],
+   "alternatives": [],
    "reading": "へ",
    "romanization": "e",
    "speech": "え",
@@ -29613,9 +29612,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "と",
-   "alternatives": [
-    "そして"
-   ],
+   "alternatives": [],
    "reading": "と",
    "romanization": "to",
    "classifications": [
@@ -29690,9 +29687,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の中に",
-   "alternatives": [
-    "で"
-   ],
+   "alternatives": [],
    "reading": "のなかに",
    "romanization": "~ no naka ni",
    "class_real": "postpositional construction",
@@ -29721,9 +29716,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "です",
-   "alternatives": [
-    "だ"
-   ],
+   "alternatives": [],
    "reading": "です",
    "romanization": "desu",
    "class_real": "copula (polite)",
@@ -29849,9 +29842,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜のために",
-   "alternatives": [
-    "に"
-   ],
+   "alternatives": [],
    "reading": "のために",
    "romanization": "~ no tame ni",
    "class_real": "postpositional construction",
@@ -29881,9 +29872,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "あの",
-   "alternatives": [
-    "その"
-   ],
+   "alternatives": [],
    "reading": "あの",
    "romanization": "ano",
    "class_real": "pre-noun demonstrative (far)",
@@ -29911,9 +29900,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "あなた",
-   "alternatives": [
-    "きみ"
-   ],
+   "alternatives": [],
    "reading": "あなた",
    "romanization": "anata",
    "classifications": [
@@ -30003,9 +29990,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜と一緒に",
-   "alternatives": [
-    "で"
-   ],
+   "alternatives": [],
    "reading": "といっしょに",
    "romanization": "~ to issho ni",
    "class_real": "postpositional construction",
@@ -30032,9 +30017,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "この",
-   "alternatives": [
-    "これ"
-   ],
+   "alternatives": [],
    "reading": "この",
    "romanization": "kono",
    "class_real": "pre-noun demonstrative (near)",
@@ -30060,9 +30043,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "だった",
-   "alternatives": [
-    "でした"
-   ],
+   "alternatives": [],
    "reading": "だった",
    "romanization": "datta",
    "core_status": "retired",
@@ -30096,9 +30077,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "だ",
-   "alternatives": [
-    "です"
-   ],
+   "alternatives": [],
    "reading": "だ",
    "romanization": "da",
    "study_tier": "núcleo inicial",
@@ -30153,9 +30132,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "です",
-   "alternatives": [
-    "いる"
-   ],
+   "alternatives": [],
    "reading": "です",
    "romanization": "desu",
    "class_real": "copula (polite)",
@@ -30282,9 +30259,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "持っている",
-   "alternatives": [
-    "ある"
-   ],
+   "alternatives": [],
    "reading": "もっている",
    "romanization": "motte iru",
    "class_real": "verb construction (godan 持つ + いる)",
@@ -30493,9 +30468,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "によって",
-   "alternatives": [
-    "のそばに"
-   ],
+   "alternatives": [],
    "reading": "によって",
    "romanization": "ni yotte",
    "class_real": "compound particle",
@@ -30522,9 +30495,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "でも",
-   "alternatives": [
-    "しかし"
-   ],
+   "alternatives": [],
    "reading": "でも",
    "romanization": "demo",
    "study_tier": "núcleo inicial",
@@ -30617,9 +30588,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "または",
-   "alternatives": [
-    "か"
-   ],
+   "alternatives": [],
    "reading": "または",
    "romanization": "matawa",
    "speech": "またわ",
@@ -30717,9 +30686,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "全部",
-   "alternatives": [
-    "みんな"
-   ],
+   "alternatives": [],
    "reading": "ぜんぶ",
    "romanization": "zenbu",
    "class_real": "noun/adverb",
@@ -30747,9 +30714,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "とても",
-   "alternatives": [
-    "だから"
-   ],
+   "alternatives": [],
    "reading": "とても",
    "romanization": "totemo",
    "class_real": "adverb",
@@ -31072,9 +31037,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜つもり",
-   "alternatives": [
-    "〜でしょう"
-   ],
+   "alternatives": [],
    "reading": "〜つもり",
    "romanization": "~ tsumori",
    "usage_note": "Intention: 〜するつもり; prediction: 〜でしょう/だろう; often just the non-past form. Japanese has no future tense.",
@@ -31105,9 +31068,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ただ",
-   "alternatives": [
-    "ちょうど"
-   ],
+   "alternatives": [],
    "reading": "ただ",
    "romanization": "tada",
    "class_real": "adverb",
@@ -31318,9 +31279,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "いつ",
-   "alternatives": [
-    "〜とき"
-   ],
+   "alternatives": [],
    "reading": "いつ",
    "romanization": "itsu",
    "classifications": [
@@ -31507,9 +31466,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "いいえ",
-   "alternatives": [
-    "ない"
-   ],
+   "alternatives": [],
    "reading": "いいえ",
    "romanization": "iie",
    "classifications": [
@@ -31709,9 +31666,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "そこ",
-   "alternatives": [
-    "あそこ"
-   ],
+   "alternatives": [],
    "reading": "そこ",
    "romanization": "soko",
    "classifications": [
@@ -31777,9 +31732,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どれ",
-   "alternatives": [
-    "どの"
-   ],
+   "alternatives": [],
    "reading": "どれ",
    "romanization": "dore",
    "study_tier": "expansão estruturante",
@@ -31839,9 +31792,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "手に入れる",
-   "alternatives": [
-    "もらう"
-   ],
+   "alternatives": [],
    "reading": "てにいれる",
    "romanization": "te ni ireru",
    "class_real": "ichidan verb (idiomatic)",
@@ -31946,9 +31897,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "行ったことがある",
-   "alternatives": [
-    "〜だったことがある"
-   ],
+   "alternatives": [],
    "reading": "いったことがある",
    "romanization": "itta koto ga aru",
    "core_status": "retired",
@@ -31975,9 +31924,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜だろう",
-   "alternatives": [
-    "〜たい"
-   ],
+   "alternatives": [],
    "reading": "〜だろう",
    "romanization": "darou",
    "core_status": "retired",
@@ -32131,9 +32078,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どうやって",
-   "alternatives": [
-    "どう"
-   ],
+   "alternatives": [],
    "reading": "どうやって",
    "romanization": "dou yatte",
    "class_real": "adverb phrase",
@@ -32191,9 +32136,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "いくつか",
-   "alternatives": [
-    "少し"
-   ],
+   "alternatives": [],
    "reading": "いくつか",
    "romanization": "ikutsuka",
    "study_tier": "expansão estruturante",
@@ -32219,9 +32162,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "も",
-   "alternatives": [
-    "また"
-   ],
+   "alternatives": [],
    "reading": "も",
    "romanization": "mo",
    "class_real": "particle (additive)",
@@ -33139,9 +33080,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "思う",
-   "alternatives": [
-    "考える"
-   ],
+   "alternatives": [],
    "reading": "おもう",
    "romanization": "omou",
    "class_real": "godan verb",
@@ -33258,10 +33197,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どれでも",
-   "alternatives": [
-    "何でも",
-    "どんな〜でも"
-   ],
+   "alternatives": [],
    "reading": "どれでも",
    "romanization": "doredemo",
    "class_real": "pronoun",
@@ -33316,9 +33252,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "できた",
-   "alternatives": [
-    "できるかもしれない"
-   ],
+   "alternatives": [],
    "reading": "できた",
    "romanization": "dekita",
    "lexical_type": "form",
@@ -33388,9 +33322,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "これらの",
-   "alternatives": [
-    "これら"
-   ],
+   "alternatives": [],
    "reading": "これらの",
    "romanization": "korera no",
    "class_real": "pronoun + の",
@@ -33468,9 +33400,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "欲しい",
-   "alternatives": [
-    "〜したい"
-   ],
+   "alternatives": [],
    "reading": "ほしい",
    "romanization": "hoshii",
    "classifications": [
@@ -33537,9 +33467,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "なぜなら",
-   "alternatives": [
-    "〜から"
-   ],
+   "alternatives": [],
    "reading": "なぜなら",
    "romanization": "nazenara",
    "classifications": [
@@ -33703,9 +33631,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "上手に",
-   "alternatives": [
-    "よく"
-   ],
+   "alternatives": [],
    "reading": "じょうずに",
    "romanization": "jouzu ni",
    "class_real": "na-adjective adverbial",
@@ -33764,9 +33690,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "道",
-   "alternatives": [
-    "方法"
-   ],
+   "alternatives": [],
    "reading": "みち",
    "romanization": "michi",
    "classifications": [
@@ -33803,9 +33727,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "一番",
-   "alternatives": [
-    "ほとんど"
-   ],
+   "alternatives": [],
    "reading": "いちばん",
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
@@ -33941,9 +33863,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜さえ",
-   "alternatives": [
-    "〜でも"
-   ],
+   "alternatives": [],
    "reading": "〜さえ",
    "romanization": "~ sae",
    "class_real": "particle (focus)",
@@ -33969,9 +33889,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜したほうがいい",
-   "alternatives": [
-    "〜べき"
-   ],
+   "alternatives": [],
    "reading": "〜したほうがいい",
    "romanization": "~ shita hou ga ii",
    "lexical_type": "construction",
@@ -34002,9 +33920,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜してもいい",
-   "alternatives": [
-    "〜てもよい"
-   ],
+   "alternatives": [],
    "reading": "〜してもいい",
    "romanization": "~ shite mo ii",
    "lexical_type": "construction",
@@ -34374,9 +34290,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "も",
-   "alternatives": [
-    "〜すぎる"
-   ],
+   "alternatives": [],
    "reading": "も",
    "romanization": "mo",
    "nativeExplain": {
@@ -34399,9 +34313,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "行くところ",
-   "alternatives": [
-    "〜するつもり"
-   ],
+   "alternatives": [],
    "reading": "いくところ",
    "romanization": "ikutokoro",
    "usage_note": "行くところ = about to go / on the way; \"going\" as -ing of go has no single Japanese word.",
@@ -34458,9 +34370,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "オフ",
-   "alternatives": [
-    "離れて"
-   ],
+   "alternatives": [],
    "reading": "オフ",
    "romanization": "ofu",
    "usage_note": "オフ only for switched off (電気がオフ) or a day off; leaving a place is 離れて / 降りる by context.",
@@ -34488,9 +34398,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "なぜ",
-   "alternatives": [
-    "どうして"
-   ],
+   "alternatives": [],
    "reading": "なぜ",
    "romanization": "naze",
    "classifications": [
@@ -34702,9 +34610,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "手に入れた",
-   "alternatives": [
-    "もらった"
-   ],
+   "alternatives": [],
    "reading": "てにいれた",
    "romanization": "teniireta",
    "lemma": "手に入れる",
@@ -34742,9 +34648,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "多くの",
-   "alternatives": [
-    "たくさんの"
-   ],
+   "alternatives": [],
    "reading": "おおくの",
    "romanization": "ooku no",
    "class_real": "adnominal (noun + の)",
@@ -34811,9 +34715,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "あれらの",
-   "alternatives": [
-    "それらの"
-   ],
+   "alternatives": [],
    "reading": "あれらの",
    "romanization": "arera no",
    "class_real": "pre-noun demonstrative (formal/written)",
@@ -35033,9 +34935,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "すごい",
-   "alternatives": [
-    "素晴らしい"
-   ],
+   "alternatives": [],
    "reading": "すごい",
    "romanization": "sugoi",
    "class_real": "i-adjective (context-dependent: amazing / terrible)",
@@ -35239,9 +35139,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "一番いい",
-   "alternatives": [
-    "最高"
-   ],
+   "alternatives": [],
    "reading": "いちばんいい",
    "romanization": "ichiban ii",
    "class_real": "adverb + adjective phrase",
@@ -35262,9 +35160,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "そんな",
-   "alternatives": [
-    "こんな"
-   ],
+   "alternatives": [],
    "reading": "そんな",
    "romanization": "sonna",
    "class_real": "pre-noun demonstrative",
@@ -35855,9 +35751,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "毎〜",
-   "alternatives": [
-    "すべての"
-   ],
+   "alternatives": [],
    "reading": "まい",
    "romanization": "mai ~",
    "class_real": "prefix (bound)",
@@ -37024,9 +36918,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "あげる",
-   "alternatives": [
-    "与える"
-   ],
+   "alternatives": [],
    "reading": "あげる",
    "romanization": "ageru",
    "class_real": "ichidan verb",
@@ -37867,9 +37759,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "今までに",
-   "alternatives": [
-    "かつて"
-   ],
+   "alternatives": [],
    "reading": "いままでに",
    "romanization": "ima made ni",
    "class_real": "adverbial phrase",
@@ -37928,9 +37818,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "保つ",
-   "alternatives": [
-    "取っておく"
-   ],
+   "alternatives": [],
    "reading": "たもつ",
    "romanization": "tamotsu",
    "class_real": "godan verb",
@@ -38380,9 +38268,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "数",
-   "alternatives": [
-    "数字"
-   ],
+   "alternatives": [],
    "reading": "かず",
    "romanization": "kazu",
    "class_real": "noun",
@@ -38720,9 +38606,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "少数の",
-   "alternatives": [
-    "わずかな"
-   ],
+   "alternatives": [],
    "reading": "しょうすうの",
    "romanization": "shousuu no",
    "class_real": "adnominal (adverb + の)",
@@ -38767,9 +38651,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜させる",
-   "alternatives": [
-    "許す"
-   ],
+   "alternatives": [],
    "reading": "〜させる",
    "romanization": "~ saseru",
    "class_real": "causative auxiliary (ichidan)",
@@ -38789,9 +38671,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "本当の",
-   "alternatives": [
-    "本物の"
-   ],
+   "alternatives": [],
    "reading": "ほんとうの",
    "romanization": "hontou no",
    "class_real": "noun + の",
@@ -38932,9 +38812,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "置く",
-   "alternatives": [
-    "セットする"
-   ],
+   "alternatives": [],
    "reading": "おく",
    "romanization": "oku",
    "classifications": [
@@ -39114,9 +38992,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "しかし",
-   "alternatives": [
-    "けれども"
-   ],
+   "alternatives": [],
    "reading": "しかし",
    "romanization": "shikashi",
    "class_real": "conjunction",
@@ -39618,9 +39494,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "もう",
-   "alternatives": [
-    "すでに"
-   ],
+   "alternatives": [],
    "reading": "もう",
    "romanization": "mou",
    "class_real": "adverb",
@@ -39646,9 +39520,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "何でも",
-   "alternatives": [
-    "何か"
-   ],
+   "alternatives": [],
    "reading": "なんでも",
    "romanization": "nan demo",
    "classifications": [
@@ -39937,9 +39809,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "全部",
-   "alternatives": [
-    "すべて"
-   ],
+   "alternatives": [],
    "reading": "ぜんぶ",
    "romanization": "zenbu",
    "class_real": "noun/adverb",
@@ -40108,9 +39978,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "点",
-   "alternatives": [
-    "ポイント"
-   ],
+   "alternatives": [],
    "reading": "てん",
    "romanization": "ten",
    "classifications": [
@@ -40282,9 +40150,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "言った",
-   "alternatives": [
-    "話した"
-   ],
+   "alternatives": [],
    "reading": "いった",
    "romanization": "itta",
    "lemma": "言う",
@@ -41799,9 +41665,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜けど",
-   "alternatives": [
-    "〜けれども"
-   ],
+   "alternatives": [],
    "reading": "〜けど",
    "romanization": "~ kedo",
    "class_real": "conjunctive particle",
@@ -41826,9 +41690,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "試す",
-   "alternatives": [
-    "やってみる"
-   ],
+   "alternatives": [],
    "reading": "ためす",
    "romanization": "tamesu",
    "class_real": "godan verb",
@@ -41963,9 +41825,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "はい",
-   "alternatives": [
-    "うん"
-   ],
+   "alternatives": [],
    "reading": "はい",
    "romanization": "hai",
    "classifications": [
@@ -42714,9 +42574,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "一般の",
-   "alternatives": [
-    "全体の"
-   ],
+   "alternatives": [],
    "reading": "いっぱんの",
    "romanization": "ippan no",
    "class_real": "noun + の",
@@ -43112,10 +42970,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "もしかしたら",
-   "alternatives": [
-    "かもしれない",
-    "たぶん"
-   ],
+   "alternatives": [],
    "reading": "もしかしたら",
    "romanization": "moshikashitara",
    "class_real": "adverb",
@@ -43139,9 +42994,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜あたり",
-   "alternatives": [
-    "〜ごとに"
-   ],
+   "alternatives": [],
    "reading": "〜あたり",
    "romanization": "atari",
    "lexical_type": "construction",
@@ -43325,9 +43178,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "大切な",
-   "alternatives": [
-    "重要な"
-   ],
+   "alternatives": [],
    "reading": "たいせつな",
    "romanization": "taisetsu na",
    "class_real": "na-adjective (adnominal form)",
@@ -43356,9 +43207,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "最も少ない",
-   "alternatives": [
-    "少なくとも"
-   ],
+   "alternatives": [],
    "reading": "もっともすくない",
    "romanization": "mottomo sukunai",
    "class_real": "adjective phrase",
@@ -43727,9 +43576,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ああ",
-   "alternatives": [
-    "おお"
-   ],
+   "alternatives": [],
    "reading": "ああ",
    "romanization": "aa",
    "study_tier": "inicial",
@@ -43910,9 +43757,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "動画",
-   "alternatives": [
-    "ビデオ"
-   ],
+   "alternatives": [],
    "reading": "どうが",
    "romanization": "douga",
    "study_tier": "inicial",
@@ -44366,9 +44211,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "レベル",
-   "alternatives": [
-    "段階"
-   ],
+   "alternatives": [],
    "reading": "レベル",
    "romanization": "reberu",
    "study_tier": "intermediário",
@@ -44430,9 +44273,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "よく",
-   "alternatives": [
-    "しばしば"
-   ],
+   "alternatives": [],
    "reading": "よく",
    "romanization": "yoku",
    "classifications": [
@@ -44664,9 +44505,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "コントロールする",
-   "alternatives": [
-    "操作する"
-   ],
+   "alternatives": [],
    "reading": "コントロールする",
    "romanization": "kontorooru suru",
    "class_real": "suru-verb",
@@ -45231,9 +45070,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "知られた",
-   "alternatives": [
-    "有名な"
-   ],
+   "alternatives": [],
    "reading": "しられた",
    "romanization": "shirareta",
    "class_real": "passive participle (知る), attributive",
@@ -45352,9 +45189,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "研究",
-   "alternatives": [
-    "調査"
-   ],
+   "alternatives": [],
    "reading": "けんきゅう",
    "romanization": "kenkyuu",
    "nativeExplain": {
@@ -45645,9 +45480,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "誰でも",
-   "alternatives": [
-    "誰か"
-   ],
+   "alternatives": [],
    "reading": "だれでも",
    "romanization": "dare demo",
    "class_real": "pronoun",
@@ -45986,9 +45819,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "打つ",
-   "alternatives": [
-    "たたく"
-   ],
+   "alternatives": [],
    "reading": "うつ",
    "romanization": "utsu",
    "classifications": [
@@ -46115,9 +45946,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "いい",
-   "alternatives": [
-    "素敵な"
-   ],
+   "alternatives": [],
    "reading": "いい",
    "romanization": "ii",
    "class_real": "i-adjective (irregular)",
@@ -46178,9 +46007,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "たぶん",
-   "alternatives": [
-    "おそらく"
-   ],
+   "alternatives": [],
    "reading": "たぶん",
    "romanization": "tabun",
    "class_real": "adverb",
@@ -46538,9 +46365,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "アイデア",
-   "alternatives": [
-    "考え"
-   ],
+   "alternatives": [],
    "reading": "アイデア",
    "romanization": "aidea",
    "study_tier": "fala cotidiana inicial",
@@ -46697,9 +46522,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "幸せな",
-   "alternatives": [
-    "うれしい"
-   ],
+   "alternatives": [],
    "reading": "しあわせな",
    "romanization": "shiawase na",
    "class_real": "na-adjective (adnominal form)",
@@ -47048,9 +46871,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "女の人",
-   "alternatives": [
-    "女性"
-   ],
+   "alternatives": [],
    "reading": "おんなのひと",
    "romanization": "onna no hito",
    "classifications": [
@@ -47195,9 +47016,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "地域社会",
-   "alternatives": [
-    "コミュニティ"
-   ],
+   "alternatives": [],
    "reading": "ちいきしゃかい",
    "romanization": "chiikishakai",
    "study_tier": "expansão cotidiana",
@@ -47519,9 +47338,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "観る",
-   "alternatives": [
-    "見る"
-   ],
+   "alternatives": [],
    "reading": "みる",
    "romanization": "miru",
    "class_real": "ichidan verb",
@@ -47737,9 +47554,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "光",
-   "alternatives": [
-    "明かり"
-   ],
+   "alternatives": [],
    "reading": "ひかり",
    "romanization": "hikari",
    "classifications": [
@@ -48428,9 +48243,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "報告",
-   "alternatives": [
-    "レポート"
-   ],
+   "alternatives": [],
    "reading": "ほうこく",
    "romanization": "houkoku",
    "study_tier": "expansão cotidiana",
@@ -48457,9 +48270,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "すぐに",
-   "alternatives": [
-    "もうすぐ"
-   ],
+   "alternatives": [],
    "reading": "すぐに",
    "romanization": "sugu ni",
    "classifications": [
@@ -48700,9 +48511,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "確認する",
-   "alternatives": [
-    "チェックする"
-   ],
+   "alternatives": [],
    "reading": "かくにんする",
    "romanization": "kakunin suru",
    "class_real": "suru-verb",
@@ -49113,9 +48922,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜けれども",
-   "alternatives": [
-    "〜のに"
-   ],
+   "alternatives": [],
    "reading": "〜けれども",
    "romanization": "~ keredomo",
    "class_real": "conjunctive particle",
@@ -49199,8 +49006,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "楽しみ",
    "alternatives": [
-    "楽しさ",
-    "おもしろさ"
+    "楽しさ"
    ],
    "reading": "たのしみ",
    "romanization": "tanoshimi",
@@ -49389,9 +49195,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "建物",
-   "alternatives": [
-    "ビル"
-   ],
+   "alternatives": [],
    "reading": "たてもの",
    "romanization": "tatemono",
    "study_tier": "expansão cotidiana",
@@ -49535,9 +49339,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "計画",
-   "alternatives": [
-    "予定"
-   ],
+   "alternatives": [],
    "reading": "けいかく",
    "romanization": "keikaku",
    "study_tier": "fala cotidiana inicial",
@@ -49583,9 +49385,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "かなり",
-   "alternatives": [
-    "なかなか"
-   ],
+   "alternatives": [],
    "reading": "かなり",
    "romanization": "kanari",
    "class_real": "adverb",
@@ -49777,9 +49577,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "前の",
-   "alternatives": [
-    "元の"
-   ],
+   "alternatives": [],
    "reading": "まえの",
    "romanization": "mae no",
    "class_real": "noun + の",
@@ -49980,9 +49778,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "通り",
-   "alternatives": [
-    "道"
-   ],
+   "alternatives": [],
    "reading": "とおり",
    "romanization": "toori",
    "study_tier": "inicial",
@@ -50420,9 +50216,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "タイプ",
-   "alternatives": [
-    "種類"
-   ],
+   "alternatives": [],
    "reading": "タイプ",
    "romanization": "taipu",
    "nativeExplain": {
@@ -50475,9 +50269,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "チャンス",
-   "alternatives": [
-    "機会"
-   ],
+   "alternatives": [],
    "reading": "チャンス",
    "romanization": "chansu",
    "study_tier": "cedo",
@@ -50502,9 +50294,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "父",
-   "alternatives": [
-    "お父さん"
-   ],
+   "alternatives": [],
    "reading": "ちち",
    "romanization": "chichi",
    "class_real": "noun",
@@ -50553,9 +50343,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "過程",
-   "alternatives": [
-    "プロセス"
-   ],
+   "alternatives": [],
    "reading": "かてい",
    "romanization": "katei",
    "classifications": [
@@ -50908,9 +50696,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼自身",
-   "alternatives": [
-    "自分"
-   ],
+   "alternatives": [],
    "reading": "かれじしん",
    "romanization": "kare jishin",
    "class_real": "pronoun phrase",
@@ -51314,9 +51100,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "主な",
-   "alternatives": [
-    "メインの"
-   ],
+   "alternatives": [],
    "reading": "おもな",
    "romanization": "omo na",
    "class_real": "adnominal",
@@ -51380,9 +51164,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "母",
-   "alternatives": [
-    "お母さん"
-   ],
+   "alternatives": [],
    "reading": "はは",
    "romanization": "haha",
    "class_real": "noun",
@@ -52012,9 +51794,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "美しい",
-   "alternatives": [
-    "きれいな"
-   ],
+   "alternatives": [],
    "reading": "うつくしい",
    "romanization": "utsukushii",
    "classifications": [
@@ -52281,9 +52061,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "プロジェクト",
-   "alternatives": [
-    "計画"
-   ],
+   "alternatives": [],
    "reading": "プロジェクト",
    "romanization": "purojekuto",
    "study_tier": "inicial",
@@ -52450,9 +52228,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "口座",
-   "alternatives": [
-    "アカウント"
-   ],
+   "alternatives": [],
    "reading": "こうざ",
    "romanization": "kouza",
    "class_real": "noun",
@@ -53231,9 +53007,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "軍",
-   "alternatives": [
-    "軍隊"
-   ],
+   "alternatives": [],
    "reading": "ぐん",
    "romanization": "gun",
    "study_tier": "expansão cotidiana",
@@ -53963,9 +53737,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "選手",
-   "alternatives": [
-    "プレーヤー"
-   ],
+   "alternatives": [],
    "reading": "せんしゅ",
    "romanization": "senshu",
    "classifications": [
@@ -53993,9 +53765,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "個人の",
-   "alternatives": [
-    "プライベートな"
-   ],
+   "alternatives": [],
    "reading": "こじんの",
    "romanization": "kojin no",
    "class_real": "noun + の",
@@ -54557,9 +54327,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ごめんなさい",
-   "alternatives": [
-    "すみません"
-   ],
+   "alternatives": [],
    "reading": "ごめんなさい",
    "romanization": "gomen nasai",
    "class_real": "set phrase (interjection)",
@@ -54583,9 +54351,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "訓練",
-   "alternatives": [
-    "トレーニング"
-   ],
+   "alternatives": [],
    "reading": "くんれん",
    "romanization": "kunren",
    "classifications": [
@@ -54833,9 +54599,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ついに",
-   "alternatives": [
-    "やっと"
-   ],
+   "alternatives": [],
    "reading": "ついに",
    "romanization": "tsuini",
    "nativeExplain": {
@@ -54886,9 +54650,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "いなくなった",
-   "alternatives": [
-    "なくなった"
-   ],
+   "alternatives": [],
    "reading": "いなくなった",
    "romanization": "inakunatta",
    "usage_note": "いなくなった for people/animals, なくなった for things; 行ってしまった only for \"has left (and is away)\".",
@@ -55309,9 +55071,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "平均の",
-   "alternatives": [
-    "普通の"
-   ],
+   "alternatives": [],
    "reading": "へいきんの",
    "romanization": "heikin no",
    "class_real": "noun + の",
@@ -55642,9 +55402,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "元の",
-   "alternatives": [
-    "オリジナルの"
-   ],
+   "alternatives": [],
    "reading": "もとの",
    "romanization": "moto no",
    "romanization_segments": "moto no",
@@ -55952,9 +55710,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "試した",
-   "alternatives": [
-    "やってみた"
-   ],
+   "alternatives": [],
    "reading": "ためした",
    "romanization": "tameshita",
    "lexical_type": "form",
@@ -56076,9 +55832,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "かっこいい",
-   "alternatives": [
-    "涼しい"
-   ],
+   "alternatives": [],
    "reading": "かっこいい",
    "romanization": "kakkoii",
    "classifications": [
@@ -56232,9 +55986,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "会議",
-   "alternatives": [
-    "ミーティング"
-   ],
+   "alternatives": [],
    "reading": "かいぎ",
    "romanization": "kaigi",
    "study_tier": "cedo",
@@ -56472,9 +56224,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "普通は",
-   "alternatives": [
-    "たいてい"
-   ],
+   "alternatives": [],
    "reading": "ふつうは",
    "romanization": "futsuu wa",
    "speech": "ふつうわ",
@@ -56560,9 +56310,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ついて行く",
-   "alternatives": [
-    "従う"
-   ],
+   "alternatives": [],
    "reading": "ついていく",
    "romanization": "tsuite iku",
    "class_real": "verb construction (te-form + 行く)",
@@ -56702,9 +56450,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "オーケー",
-   "alternatives": [
-    "大丈夫"
-   ],
+   "alternatives": [],
    "reading": "オーケー",
    "romanization": "ookee",
    "classifications": [
@@ -57116,9 +56862,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "もの",
-   "alternatives": [
-    "物"
-   ],
+   "alternatives": [],
    "reading": "もの",
    "romanization": "mono",
    "class_real": "noun",
@@ -57811,9 +57555,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "経営",
-   "alternatives": [
-    "管理"
-   ],
+   "alternatives": [],
    "reading": "けいえい",
    "romanization": "keiei",
    "study_tier": "intermediário",
@@ -57894,10 +57636,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "絵",
-   "alternatives": [
-    "写真",
-    "画像"
-   ],
+   "alternatives": [],
    "reading": "え",
    "romanization": "e",
    "class_real": "noun",
@@ -57928,9 +57667,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "大きさ",
-   "alternatives": [
-    "サイズ"
-   ],
+   "alternatives": [],
    "reading": "おおきさ",
    "romanization": "ookisa",
    "study_tier": "inicial",
@@ -57977,9 +57714,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "信頼する",
-   "alternatives": [
-    "信じる"
-   ],
+   "alternatives": [],
    "reading": "しんらいする",
    "romanization": "shinrai suru",
    "class_real": "suru-verb",
@@ -58218,9 +57953,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ママ",
-   "alternatives": [
-    "お母さん"
-   ],
+   "alternatives": [],
    "reading": "ママ",
    "romanization": "mama",
    "class_real": "noun (loanword)",
@@ -58583,9 +58316,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "長",
-   "alternatives": [
-    "チーフ"
-   ],
+   "alternatives": [],
    "reading": "ちょう",
    "romanization": "chou",
    "classifications": [
@@ -59601,9 +59332,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "まじめな",
-   "alternatives": [
-    "深刻な"
-   ],
+   "alternatives": [],
    "reading": "まじめな",
    "romanization": "majime na",
    "class_real": "na-adjective (adnominal form)",
@@ -59653,9 +59382,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "題名",
-   "alternatives": [
-    "タイトル"
-   ],
+   "alternatives": [],
    "reading": "だいめい",
    "romanization": "daimei",
    "study_tier": "expansão cotidiana",
@@ -59900,9 +59627,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "くそ",
-   "alternatives": [
-    "ちくしょう"
-   ],
+   "alternatives": [],
    "reading": "くそ",
    "romanization": "kuso",
    "class_real": "interjection (mildly vulgar)",
@@ -60094,9 +59819,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "全体の",
-   "alternatives": [
-    "全部の"
-   ],
+   "alternatives": [],
    "reading": "ぜんたいの",
    "romanization": "zentai no",
    "class_real": "noun + の",
@@ -60311,9 +60034,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "たぶん",
-   "alternatives": [
-    "もしかすると"
-   ],
+   "alternatives": [],
    "reading": "たぶん",
    "romanization": "tabun",
    "class_real": "adverb",
@@ -60539,9 +60260,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "技術",
-   "alternatives": [
-    "テクノロジー"
-   ],
+   "alternatives": [],
    "reading": "ぎじゅつ",
    "romanization": "gijutsu",
    "classifications": [
@@ -60893,9 +60612,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "現在",
-   "alternatives": [
-    "今"
-   ],
+   "alternatives": [],
    "reading": "げんざい",
    "romanization": "genzai",
    "class_real": "noun (adverbial)",
@@ -61436,9 +61153,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "競走",
-   "alternatives": [
-    "レース"
-   ],
+   "alternatives": [],
    "reading": "きょうそう",
    "romanization": "kyousou",
    "class_real": "noun (suru-noun)",
@@ -61459,9 +61174,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜のようだ",
-   "alternatives": [
-    "〜みたいだ"
-   ],
+   "alternatives": [],
    "reading": "〜のようだ",
    "romanization": "~ no you da",
    "lexical_type": "construction",
@@ -61550,9 +61263,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "簡単な",
-   "alternatives": [
-    "シンプルな"
-   ],
+   "alternatives": [],
    "reading": "かんたんな",
    "romanization": "kantan na",
    "class_real": "na-adjective (adnominal form)",
@@ -61602,9 +61313,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "スタッフ",
-   "alternatives": [
-    "職員"
-   ],
+   "alternatives": [],
    "reading": "スタッフ",
    "romanization": "sutaffu",
    "study_tier": "expansão cotidiana",
@@ -61882,9 +61591,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "職業",
-   "alternatives": [
-    "キャリア"
-   ],
+   "alternatives": [],
    "reading": "しょくぎょう",
    "romanization": "shokugyou",
    "study_tier": "expansão cotidiana",
@@ -62475,9 +62182,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "版",
-   "alternatives": [
-    "バージョン"
-   ],
+   "alternatives": [],
    "reading": "はん",
    "romanization": "han",
    "classifications": [
@@ -62964,9 +62669,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "オーケー",
-   "alternatives": [
-    "いいよ"
-   ],
+   "alternatives": [],
    "reading": "オーケー",
    "romanization": "ookee",
    "classifications": [
@@ -64860,9 +64563,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "返事",
-   "alternatives": [
-    "反応"
-   ],
+   "alternatives": [],
    "reading": "へんじ",
    "romanization": "henji",
    "nativeExplain": {
@@ -64926,9 +64627,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "岩",
-   "alternatives": [
-    "石"
-   ],
+   "alternatives": [],
    "reading": "いわ",
    "romanization": "iwa",
    "class_real": "noun",
@@ -65124,9 +64823,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "標準の",
-   "alternatives": [
-    "普通の"
-   ],
+   "alternatives": [],
    "reading": "ひょうじゅんの",
    "romanization": "hyoujun no",
    "class_real": "noun + の",
@@ -65778,9 +65475,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "おもしろい",
-   "alternatives": [
-    "おかしい"
-   ],
+   "alternatives": [],
    "reading": "おもしろい",
    "romanization": "omoshiroi",
    "class_real": "i-adjective",
@@ -66094,8 +65789,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "トラック",
    "alternatives": [
-    "曲",
-    "コース"
+    "曲"
    ],
    "reading": "トラック",
    "romanization": "torakku",
@@ -66619,9 +66313,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "二倍の",
-   "alternatives": [
-    "ダブルの"
-   ],
+   "alternatives": [],
    "reading": "にばいの",
    "romanization": "ni bai no",
    "class_real": "counter + の",
@@ -66918,9 +66610,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "圧力",
-   "alternatives": [
-    "プレッシャー"
-   ],
+   "alternatives": [],
    "reading": "あつりょく",
    "romanization": "atsuryoku",
    "classifications": [
@@ -67107,9 +66797,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "尻",
-   "alternatives": [
-    "けつ"
-   ],
+   "alternatives": [],
    "reading": "しり",
    "romanization": "shiri",
    "classifications": [
@@ -67164,9 +66852,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "キャンペーン",
-   "alternatives": [
-    "運動"
-   ],
+   "alternatives": [],
    "reading": "キャンペーン",
    "romanization": "kyanpeen",
    "study_tier": "intermediário",
@@ -67192,9 +66878,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "確かに",
-   "alternatives": [
-    "もちろん"
-   ],
+   "alternatives": [],
    "reading": "たしかに",
    "romanization": "tashikani",
    "class_real": "adverb",
@@ -67239,9 +66923,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "内容",
-   "alternatives": [
-    "コンテンツ"
-   ],
+   "alternatives": [],
    "reading": "ないよう",
    "romanization": "naiyou",
    "class_real": "noun",
@@ -67597,9 +67279,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "やあ",
-   "alternatives": [
-    "こんにちは"
-   ],
+   "alternatives": [],
    "reading": "やあ",
    "romanization": "yaa",
    "class_real": "interjection",
@@ -68121,9 +67801,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "部分",
-   "alternatives": [
-    "セクション"
-   ],
+   "alternatives": [],
    "reading": "ぶぶん",
    "romanization": "bubun",
    "classifications": [
@@ -68176,9 +67854,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "速さ",
-   "alternatives": [
-    "スピード"
-   ],
+   "alternatives": [],
    "reading": "はやさ",
    "romanization": "hayasa",
    "study_tier": "cedo",
@@ -68779,9 +68455,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ようこそ",
-   "alternatives": [
-    "いらっしゃい"
-   ],
+   "alternatives": [],
    "reading": "ようこそ",
    "romanization": "youkoso",
    "study_tier": "inicial",
@@ -69446,9 +69120,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "コンピューター",
-   "alternatives": [
-    "パソコン"
-   ],
+   "alternatives": [],
    "reading": "コンピューター",
    "romanization": "konpyuutaa",
    "nativeExplain": {
@@ -69507,9 +69179,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "エピソード",
-   "alternatives": [
-    "話"
-   ],
+   "alternatives": [],
    "reading": "エピソード",
    "romanization": "episoodo",
    "study_tier": "cedo",
@@ -69529,9 +69199,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "大好きな",
-   "alternatives": [
-    "お気に入りの"
-   ],
+   "alternatives": [],
    "reading": "だいすきな",
    "romanization": "daisuki na",
    "class_real": "na-adjective (adnominal form)",
@@ -69721,9 +69389,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "場面",
-   "alternatives": [
-    "シーン"
-   ],
+   "alternatives": [],
    "reading": "ばめん",
    "romanization": "bamen",
    "class_real": "noun",
@@ -70098,9 +69764,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "絶対に",
-   "alternatives": [
-    "確かに"
-   ],
+   "alternatives": [],
    "reading": "ぜったいに",
    "romanization": "zettai ni",
    "class_real": "adverb",
@@ -70614,9 +70278,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "中心",
-   "alternatives": [
-    "センター"
-   ],
+   "alternatives": [],
    "reading": "ちゅうしん",
    "romanization": "chuushin",
    "core_status": "retired",
@@ -70755,9 +70417,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "お父さん",
-   "alternatives": [
-    "パパ"
-   ],
+   "alternatives": [],
    "reading": "おとうさん",
    "romanization": "otousan",
    "classifications": [
@@ -70933,9 +70593,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "一般に",
-   "alternatives": [
-    "普通は"
-   ],
+   "alternatives": [],
    "reading": "いっぱんに",
    "romanization": "ippan ni",
    "class_real": "noun + に (adverbial)",
@@ -71245,9 +70903,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "文字",
-   "alternatives": [
-    "手紙"
-   ],
+   "alternatives": [],
    "reading": "もじ",
    "romanization": "moji",
    "classifications": [
@@ -71354,9 +71010,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "機会",
-   "alternatives": [
-    "チャンス"
-   ],
+   "alternatives": [],
    "reading": "きかい",
    "romanization": "kikai",
    "classifications": [
@@ -71421,9 +71075,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "製品",
-   "alternatives": [
-    "商品"
-   ],
+   "alternatives": [],
    "reading": "せいひん",
    "romanization": "seihin",
    "study_tier": "cedo",
@@ -71951,9 +71603,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "画像",
-   "alternatives": [
-    "イメージ"
-   ],
+   "alternatives": [],
    "reading": "がぞう",
    "romanization": "gazou",
    "study_tier": "cedo",
@@ -72268,9 +71918,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "規則",
-   "alternatives": [
-    "ルール"
-   ],
+   "alternatives": [],
    "reading": "きそく",
    "romanization": "kisoku",
    "classifications": [
@@ -72303,9 +71951,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "真剣に",
-   "alternatives": [
-    "まじで"
-   ],
+   "alternatives": [],
    "reading": "しんけんに",
    "romanization": "shinken ni",
    "class_real": "na-adjective + に (adverbial)",
@@ -73043,9 +72689,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "すごい",
-   "alternatives": [
-    "最高"
-   ],
+   "alternatives": [],
    "reading": "すごい",
    "romanization": "sugoi",
    "classifications": [
@@ -73137,9 +72781,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "浜辺",
-   "alternatives": [
-    "ビーチ"
-   ],
+   "alternatives": [],
    "reading": "はまべ",
    "romanization": "hamabe",
    "study_tier": "inicial",
@@ -73861,9 +73503,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "年上の",
-   "alternatives": [
-    "上級の"
-   ],
+   "alternatives": [],
    "reading": "としうえの",
    "romanization": "toshiue no",
    "class_real": "noun + の",
@@ -75476,9 +75116,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "確立した",
-   "alternatives": [
-    "設立された"
-   ],
+   "alternatives": [],
    "reading": "かくりつした",
    "romanization": "kakuritsu shita",
    "class_real": "adjectival construction",
@@ -76099,9 +75737,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "旅行",
-   "alternatives": [
-    "旅"
-   ],
+   "alternatives": [],
    "reading": "りょこう",
    "romanization": "ryokou",
    "classifications": [
@@ -76807,9 +76443,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ブロック",
-   "alternatives": [
-    "区画"
-   ],
+   "alternatives": [],
    "reading": "ブロック",
    "romanization": "burokku",
    "class_real": "noun (loanword)",
@@ -76890,9 +76524,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "挑戦",
-   "alternatives": [
-    "課題"
-   ],
+   "alternatives": [],
    "reading": "ちょうせん",
    "romanization": "chousen",
    "classifications": [
@@ -76941,9 +76573,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "コメント",
-   "alternatives": [
-    "意見"
-   ],
+   "alternatives": [],
    "reading": "コメント",
    "romanization": "komento",
    "classifications": [
@@ -77955,9 +77585,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "任務",
-   "alternatives": [
-    "ミッション"
-   ],
+   "alternatives": [],
    "reading": "にんむ",
    "romanization": "ninmu",
    "classifications": [
@@ -78202,9 +77830,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "だから",
-   "alternatives": [
-    "したがって"
-   ],
+   "alternatives": [],
    "reading": "だから",
    "romanization": "dakara",
    "class_real": "conjunction",
@@ -78633,9 +78259,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "面接",
-   "alternatives": [
-    "インタビュー"
-   ],
+   "alternatives": [],
    "reading": "めんせつ",
    "romanization": "mensetsu",
    "classifications": [
@@ -79156,9 +78780,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "試み",
-   "alternatives": [
-    "挑戦"
-   ],
+   "alternatives": [],
    "reading": "こころみ",
    "romanization": "kokoromi",
    "study_tier": "cedo",
@@ -80009,9 +79631,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "署名した",
-   "alternatives": [
-    "サインした"
-   ],
+   "alternatives": [],
    "reading": "しょめいした",
    "romanization": "shomeishita",
    "lexical_type": "form",
@@ -80942,9 +80562,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "解決策",
-   "alternatives": [
-    "答え"
-   ],
+   "alternatives": [],
    "reading": "かいけつさく",
    "romanization": "kaiketsusaku",
    "study_tier": "cedo",
@@ -81789,9 +81407,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "持ち主",
-   "alternatives": [
-    "オーナー"
-   ],
+   "alternatives": [],
    "reading": "もちぬし",
    "romanization": "mochinushi",
    "study_tier": "cedo",
@@ -81832,9 +81448,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "気づく",
-   "alternatives": [
-    "分かる"
-   ],
+   "alternatives": [],
    "reading": "きづく",
    "romanization": "kizuku",
    "class_real": "godan verb",
@@ -82083,9 +81697,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "得点",
-   "alternatives": [
-    "スコア"
-   ],
+   "alternatives": [],
    "reading": "とくてん",
    "romanization": "tokuten",
    "classifications": [
@@ -82142,9 +81754,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "頭がいい",
-   "alternatives": [
-    "賢い"
-   ],
+   "alternatives": [],
    "reading": "あたまがいい",
    "romanization": "atama ga ii",
    "lexical_type": "construction",
@@ -82353,9 +81963,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "完全に",
-   "alternatives": [
-    "まったく"
-   ],
+   "alternatives": [],
    "reading": "かんぜんに",
    "romanization": "kanzen ni",
    "class_real": "na-adjective + に (adverbial)",
@@ -82497,9 +82105,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "利益",
-   "alternatives": [
-    "メリット"
-   ],
+   "alternatives": [],
    "reading": "りえき",
    "romanization": "rieki",
    "classifications": [
@@ -84708,9 +84314,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "芸術家",
-   "alternatives": [
-    "アーティスト"
-   ],
+   "alternatives": [],
    "reading": "げいじゅつか",
    "romanization": "geijutsuka",
    "study_tier": "cedo",
@@ -84986,9 +84590,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "選択肢",
-   "alternatives": [
-    "オプション"
-   ],
+   "alternatives": [],
    "reading": "せんたくし",
    "romanization": "sentakushi",
    "study_tier": "cedo",
@@ -85804,9 +85406,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "確かに",
-   "alternatives": [
-    "本当に"
-   ],
+   "alternatives": [],
    "reading": "たしかに",
    "romanization": "tashika ni",
    "class_real": "na-adjective + に (adverbial)",
@@ -86122,9 +85722,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "困ったこと",
-   "alternatives": [
-    "トラブル"
-   ],
+   "alternatives": [],
    "reading": "こまったこと",
    "romanization": "komatta koto",
    "class_real": "noun phrase",
@@ -86551,9 +86149,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "贈り物",
-   "alternatives": [
-    "プレゼント"
-   ],
+   "alternatives": [],
    "reading": "おくりもの",
    "romanization": "okurimono",
    "classifications": [
@@ -86590,9 +86186,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼女自身",
-   "alternatives": [
-    "自分"
-   ],
+   "alternatives": [],
    "reading": "かのじょじしん",
    "romanization": "kanojo jishin",
    "class_real": "pronoun phrase",
@@ -87645,9 +87239,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "運がいい",
-   "alternatives": [
-    "ラッキーな"
-   ],
+   "alternatives": [],
    "reading": "うんがいい",
    "romanization": "un ga ii",
    "lexical_type": "construction",
@@ -88334,9 +87926,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "上司",
-   "alternatives": [
-    "ボス"
-   ],
+   "alternatives": [],
    "reading": "じょうし",
    "romanization": "joushi",
    "classifications": [
@@ -90096,9 +89686,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "少し",
-   "alternatives": [
-    "わずかに"
-   ],
+   "alternatives": [],
    "reading": "すこし",
    "romanization": "sukoshi",
    "classifications": [
@@ -90234,9 +89822,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "驚き",
-   "alternatives": [
-    "サプライズ"
-   ],
+   "alternatives": [],
    "reading": "おどろき",
    "romanization": "odoroki",
    "classifications": [
@@ -90688,9 +90274,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "端",
-   "alternatives": [
-    "ふち"
-   ],
+   "alternatives": [],
    "reading": "はし",
    "romanization": "hashi",
    "class_real": "noun",
@@ -91291,9 +90875,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "核",
-   "alternatives": [
-    "中心"
-   ],
+   "alternatives": [],
    "reading": "かく",
    "romanization": "kaku",
    "class_real": "noun",
@@ -91388,9 +90970,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "優れた",
-   "alternatives": [
-    "素晴らしい"
-   ],
+   "alternatives": [],
    "reading": "すぐれた",
    "romanization": "sugureta",
    "class_real": "past participle (優れる), attributive",
@@ -92356,9 +91936,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "助手",
-   "alternatives": [
-    "アシスタント"
-   ],
+   "alternatives": [],
    "reading": "じょしゅ",
    "romanization": "joshu",
    "classifications": [
@@ -92600,9 +92178,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "祭り",
-   "alternatives": [
-    "フェスティバル"
-   ],
+   "alternatives": [],
    "reading": "まつり",
    "romanization": "matsuri",
    "study_tier": "cedo",
@@ -92971,9 +92547,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "一組",
-   "alternatives": [
-    "ペア"
-   ],
+   "alternatives": [],
    "reading": "ひとくみ",
    "romanization": "hito kumi",
    "class_real": "noun phrase",
@@ -93104,9 +92678,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "適切な",
-   "alternatives": [
-    "ちゃんとした"
-   ],
+   "alternatives": [],
    "reading": "てきせつな",
    "romanization": "tekisetsu na",
    "class_real": "na-adjective (adnominal form)",
@@ -93176,9 +92748,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "会",
-   "alternatives": [
-    "セッション"
-   ],
+   "alternatives": [],
    "reading": "かい",
    "romanization": "kai",
    "class_real": "noun",
@@ -93915,9 +93485,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "素晴らしい",
-   "alternatives": [
-    "最高の"
-   ],
+   "alternatives": [],
    "reading": "すばらしい",
    "romanization": "subarashii",
    "class_real": "i-adjective",
@@ -94709,9 +94277,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "鋼鉄",
-   "alternatives": [
-    "スチール"
-   ],
+   "alternatives": [],
    "reading": "こうてつ",
    "romanization": "koutetsu",
    "study_tier": "cedo",
@@ -95075,9 +94641,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "命令",
-   "alternatives": [
-    "コマンド"
-   ],
+   "alternatives": [],
    "reading": "めいれい",
    "romanization": "meirei",
    "classifications": [
@@ -95733,9 +95297,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "行動",
-   "alternatives": [
-    "ふるまい"
-   ],
+   "alternatives": [],
    "reading": "こうどう",
    "romanization": "koudou",
    "class_real": "noun (suru-noun)",
@@ -96007,9 +95569,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "跳ぶ",
-   "alternatives": [
-    "ジャンプする"
-   ],
+   "alternatives": [],
    "reading": "とぶ",
    "romanization": "tobu",
    "classifications": [
@@ -96441,9 +96001,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "調査",
-   "alternatives": [
-    "アンケート"
-   ],
+   "alternatives": [],
    "reading": "ちょうさ",
    "romanization": "chousa",
    "classifications": [
@@ -96504,9 +96062,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "更新",
-   "alternatives": [
-    "アップデート"
-   ],
+   "alternatives": [],
    "reading": "こうしん",
    "romanization": "koushin",
    "study_tier": "cedo",
@@ -96879,9 +96435,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "結末",
-   "alternatives": [
-    "終わり"
-   ],
+   "alternatives": [],
    "reading": "けつまつ",
    "romanization": "ketsumatsu",
    "nativeExplain": {
@@ -97066,9 +96620,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼女",
-   "alternatives": [
-    "ガールフレンド"
-   ],
+   "alternatives": [],
    "reading": "かのじょ",
    "romanization": "kanojo",
    "classifications": [
@@ -97100,9 +96652,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "英雄",
-   "alternatives": [
-    "ヒーロー"
-   ],
+   "alternatives": [],
    "reading": "えいゆう",
    "romanization": "eiyuu",
    "classifications": [
@@ -97695,9 +97245,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "機器",
-   "alternatives": [
-    "デバイス"
-   ],
+   "alternatives": [],
    "reading": "きき",
    "romanization": "kiki",
    "study_tier": "cedo",
@@ -98160,9 +97708,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "間違い",
-   "alternatives": [
-    "ミス"
-   ],
+   "alternatives": [],
    "reading": "まちがい",
    "romanization": "machigai",
    "nativeExplain": {
@@ -98236,9 +97782,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ホーム",
-   "alternatives": [
-    "プラットフォーム"
-   ],
+   "alternatives": [],
    "reading": "ホーム",
    "romanization": "hoomu",
    "class_real": "noun (loanword)",
@@ -98988,10 +98532,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "至る所に",
-   "alternatives": [
-    "あちこちに",
-    "どこにでも"
-   ],
+   "alternatives": [],
    "reading": "いたるところに",
    "romanization": "itaru tokoro ni",
    "class_real": "indefinite pronoun/adverb",
@@ -99380,9 +98921,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "牛乳",
-   "alternatives": [
-    "ミルク"
-   ],
+   "alternatives": [],
    "reading": "ぎゅうにゅう",
    "romanization": "gyuunyuu",
    "study_tier": "inicial",
@@ -100146,9 +99685,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "献身的な",
-   "alternatives": [
-    "熱心な"
-   ],
+   "alternatives": [],
    "reading": "けんしんてきな",
    "romanization": "kenshinteki na",
    "class_real": "na-adjective (adnominal form)",
@@ -100500,9 +100037,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "身元",
-   "alternatives": [
-    "アイデンティティ"
-   ],
+   "alternatives": [],
    "reading": "みもと",
    "romanization": "mimoto",
    "study_tier": "intermediário",
@@ -100528,9 +100063,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "旅",
-   "alternatives": [
-    "旅行"
-   ],
+   "alternatives": [],
    "reading": "たび",
    "romanization": "tabi",
    "nativeExplain": {
@@ -100559,9 +100092,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "台所",
-   "alternatives": [
-    "キッチン"
-   ],
+   "alternatives": [],
    "reading": "だいどころ",
    "romanization": "daidokoro",
    "classifications": [
@@ -101053,10 +100584,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "課題",
-   "alternatives": [
-    "タスク",
-    "仕事"
-   ],
+   "alternatives": [],
    "reading": "かだい",
    "romanization": "kadai",
    "classifications": [
@@ -101219,9 +100747,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "約",
-   "alternatives": [
-    "およそ"
-   ],
+   "alternatives": [],
    "reading": "やく",
    "romanization": "yaku",
    "class_real": "adverb/prefix",
@@ -101339,9 +100865,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "討論",
-   "alternatives": [
-    "ディベート"
-   ],
+   "alternatives": [],
    "reading": "とうろん",
    "romanization": "touron",
    "study_tier": "cedo",
@@ -101591,7 +101115,6 @@
    "vcu14_status": "provisional-editorial",
    "text": "責任",
    "alternatives": [
-    "せい",
     "過失"
    ],
    "reading": "せきにん",
@@ -101781,9 +101304,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "親切な",
-   "alternatives": [
-    "フレンドリーな"
-   ],
+   "alternatives": [],
    "reading": "しんせつな",
    "romanization": "shinsetsu na",
    "class_real": "na-adjective (adnominal form)",
@@ -102597,9 +102118,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "責める",
-   "alternatives": [
-    "〜のせいにする"
-   ],
+   "alternatives": [],
    "reading": "せめる",
    "romanization": "semeru",
    "classifications": [
@@ -102724,9 +102243,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "おわん",
-   "alternatives": [
-    "ボウル"
-   ],
+   "alternatives": [],
    "reading": "おわん",
    "romanization": "owan",
    "study_tier": "inicial",
@@ -102806,9 +102323,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "文脈",
-   "alternatives": [
-    "状況"
-   ],
+   "alternatives": [],
    "reading": "ぶんみゃく",
    "romanization": "bunmyaku",
    "study_tier": "cedo",
@@ -103175,9 +102690,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "お母さん",
-   "alternatives": [
-    "ママ"
-   ],
+   "alternatives": [],
    "reading": "おかあさん",
    "romanization": "okaasan",
    "class_real": "noun",
@@ -104190,9 +103703,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "苦労する",
-   "alternatives": [
-    "もがく"
-   ],
+   "alternatives": [],
    "reading": "くろうする",
    "romanization": "kurou suru",
    "class_real": "suru-verb",
@@ -104488,9 +103999,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "いつもの",
-   "alternatives": [
-    "普通の"
-   ],
+   "alternatives": [],
    "reading": "いつもの",
    "romanization": "itsumo no",
    "class_real": "noun + の",
@@ -105309,9 +104818,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "勧める",
-   "alternatives": [
-    "おすすめする"
-   ],
+   "alternatives": [],
    "reading": "すすめる",
    "romanization": "susumeru",
    "class_real": "ichidan verb",
@@ -105747,9 +105254,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "翼",
-   "alternatives": [
-    "羽"
-   ],
+   "alternatives": [],
    "reading": "つばさ",
    "romanization": "tsubasa",
    "classifications": [
@@ -105910,9 +105415,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "娯楽",
-   "alternatives": [
-    "エンターテインメント"
-   ],
+   "alternatives": [],
    "reading": "ごらく",
    "romanization": "goraku",
    "classifications": [
@@ -106962,9 +106465,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼氏",
-   "alternatives": [
-    "ボーイフレンド"
-   ],
+   "alternatives": [],
    "reading": "かれし",
    "romanization": "kareshi",
    "class_real": "noun",
@@ -117236,9 +116737,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "背が高い",
-   "alternatives": [
-    "高い"
-   ],
+   "alternatives": [],
    "reading": "せがたかい",
    "romanization": "se ga takai",
    "lexical_type": "construction",
@@ -118053,9 +117552,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "整理された",
-   "alternatives": [
-    "きちんとした"
-   ],
+   "alternatives": [],
    "reading": "せいりされた",
    "romanization": "seirisareta",
    "class_real": "past participle (整理する), passive",
@@ -119263,9 +118760,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "持ち上げる",
-   "alternatives": [
-    "上げる"
-   ],
+   "alternatives": [],
    "reading": "もちあげる",
    "romanization": "mochiageru",
    "classifications": [
@@ -120150,9 +119645,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ほとんど〜ない",
-   "alternatives": [
-    "かろうじて"
-   ],
+   "alternatives": [],
    "reading": "ほとんど〜ない",
    "romanization": "hotondo ~ nai",
    "lexical_type": "construction",
@@ -122220,9 +121713,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "軽くたたく",
-   "alternatives": [
-    "タップ"
-   ],
+   "alternatives": [],
    "reading": "かるくたたく",
    "romanization": "karuku tataku",
    "class_real": "noun",
@@ -124575,9 +124066,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "宿題",
-   "alternatives": [
-    "課題"
-   ],
+   "alternatives": [],
    "reading": "しゅくだい",
    "romanization": "shukudai",
    "class_real": "noun",
@@ -124875,9 +124364,7 @@
    "level": "A1",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [
-    "ある"
-   ],
+   "alternatives": [],
    "allocation": "ALLOC-001",
    "text": "いる",
    "reading": "いる",
@@ -125281,9 +124768,7 @@
    "level": "A2",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [
-    "アメリカンフットボール"
-   ],
+   "alternatives": [],
    "allocation": "ALLOC-001",
    "text": "アメフト",
    "reading": "アメフト",
@@ -126477,9 +125962,7 @@
    "kind": "word",
    "description_en": "A bend in a road or path.",
    "text": "曲がり角",
-   "alternatives": [
-    "カーブ"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "まがりかど",
