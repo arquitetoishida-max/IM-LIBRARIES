@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.8",
+ "version": "2.4.9",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -38,7 +38,8 @@
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
-  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -31385,7 +31386,7 @@
    "text": "持っている",
    "alternatives": [],
    "reading": "もっている",
-   "romanization": "motteiru",
+   "romanization": "motte iru",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
@@ -32109,7 +32110,7 @@
    "text": "〜だろう",
    "alternatives": [],
    "reading": "〜だろう",
-   "romanization": "darou",
+   "romanization": "~ darou",
    "core_status": "retired",
    "retired_reason": "WOULD_SENSES_SPLIT_PENDING",
    "study_tier": "expansão estruturante",
@@ -32309,7 +32310,7 @@
    "text": "〜しない",
    "alternatives": [],
    "reading": "〜しない",
-   "romanization": "~ shi nai",
+   "romanization": "~ shinai",
    "lexical_type": "construction",
    "class_real": "negative construction",
    "study_tier": "praticar com lema",
@@ -34356,7 +34357,7 @@
    "text": "本当に",
    "alternatives": [],
    "reading": "ほんとうに",
-   "romanization": "hontouni",
+   "romanization": "hontou ni",
    "study_tier": "inicial",
    "study_priority": 41,
    "description": "本当に、心から。",
@@ -34682,7 +34683,7 @@
    "text": "行くところ",
    "alternatives": [],
    "reading": "いくところ",
-   "romanization": "ikutokoro",
+   "romanization": "iku tokoro",
    "usage_note": "行くところ = about to go / on the way; \"going\" as -ing of go has no single Japanese word.",
    "study_tier": "herdado",
    "study_priority": 2476,
@@ -35003,7 +35004,7 @@
    "text": "手に入れた",
    "alternatives": [],
    "reading": "てにいれた",
-   "romanization": "teniireta",
+   "romanization": "te ni ireta",
    "lemma": "手に入れる",
    "lemma_id": "ja:en:000000059",
    "lexical_type": "form",
@@ -36163,7 +36164,7 @@
    "kind": "word",
    "description_en": "\"Used to\": did regularly in the past (nostalgic).",
    "level": "A1",
-   "part_of_speech": "aux",
+   "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜したものだ",
@@ -37426,7 +37427,7 @@
    "text": "私は〜した",
    "alternatives": [],
    "reading": "わたしは〜した",
-   "romanization": "watashiwashita",
+   "romanization": "watashi wa ~ shita",
    "speech": "わたしわ〜した",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
@@ -37805,7 +37806,7 @@
     "氏"
    ],
    "reading": "〜さん",
-   "romanization": "san",
+   "romanization": "~ san",
    "class_real": "honorific suffix",
    "study_tier": "cedo",
    "study_priority": 999,
@@ -37888,7 +37889,7 @@
    "text": "〜しなかった",
    "alternatives": [],
    "reading": "〜しなかった",
-   "romanization": "~ shi nakatta",
+   "romanization": "~ shinakatta",
    "lemma": "〜しない",
    "lemma_id": "ja:en:000000066",
    "lexical_type": "form",
@@ -39308,10 +39309,12 @@
     "quantities"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "少数の",
-   "alternatives": [],
-   "reading": "しょうすうの",
-   "romanization": "shousuu no",
+   "text": "少しの",
+   "alternatives": [
+    "少数の"
+   ],
+   "reading": "すこしの",
+   "romanization": "sukoshi no",
    "class_real": "adnominal (adverb + の)",
    "study_priority": 100218,
    "description": "数が少ない。",
@@ -41126,7 +41129,7 @@
    "text": "〜しない",
    "alternatives": [],
    "reading": "〜しない",
-   "romanization": "shinai",
+   "romanization": "~ shinai",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_priority": 100261,
@@ -42234,7 +42237,7 @@
     "男性たち"
    ],
    "reading": "おとこのひとたち",
-   "romanization": "otokonohitotachi",
+   "romanization": "otoko no hitotachi",
    "lemma": "男の人",
    "lemma_id": "ja:en:000000142",
    "lexical_type": "form",
@@ -43406,7 +43409,7 @@
    "text": "お礼を言う",
    "alternatives": [],
    "reading": "おれいをいう",
-   "romanization": "oreioiu",
+   "romanization": "orei o iu",
    "class_real": "suru-verb",
    "forms": [
     {
@@ -43853,7 +43856,7 @@
     "丸ごと"
    ],
    "reading": "ぜんぶの",
-   "romanization": "zenbuno",
+   "romanization": "zenbu no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "completo (comum)",
@@ -44060,7 +44063,7 @@
    "text": "〜あたり",
    "alternatives": [],
    "reading": "〜あたり",
-   "romanization": "atari",
+   "romanization": "~ atari",
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "intermediário",
@@ -44233,7 +44236,7 @@
     "望む"
    ],
    "reading": "〜といいな",
-   "romanization": "toiina",
+   "romanization": "~ to ii na",
    "class_real": "godan verb",
    "nativeExplain": {
     "pt-BR": "desejar",
@@ -44322,7 +44325,7 @@
    "text": "意味する",
    "alternatives": [],
    "reading": "いみする",
-   "romanization": "imisuru",
+   "romanization": "imi suru",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
@@ -44622,7 +44625,7 @@
    "text": "私は〜します",
    "alternatives": [],
    "reading": "わたしは〜します",
-   "romanization": "watashiwashimasu",
+   "romanization": "watashi wa ~ shimasu",
    "speech": "わたしわ〜します",
    "core_status": "retired",
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
@@ -44987,7 +44990,7 @@
    "text": "〜前",
    "alternatives": [],
    "reading": "〜まえ",
-   "romanization": "mae",
+   "romanization": "~ mae",
    "class_real": "suffix (time before now)",
    "study_tier": "inicial",
    "study_priority": 94,
@@ -45905,7 +45908,7 @@
    "text": "男の人",
    "alternatives": [],
    "reading": "おとこのひと",
-   "romanization": "otokonohito",
+   "romanization": "otoko no hito",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "homem (informal)",
@@ -46874,12 +46877,12 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "assunto; “não importa”",
-    "ja": "話題やことがら。「matter」は問題やことがらのこと。"
+    "ja": "話題や問題になっていること。"
    },
    "study_tier": "cedo",
    "study_priority": 1039,
    "user_hint": "",
-   "description": "話題やことがら。「matter」は問題やことがらのこと。",
+   "description": "話題や問題になっていること。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -47679,7 +47682,7 @@
    "text": "私は〜だろう",
    "alternatives": [],
    "reading": "わたしは〜だろう",
-   "romanization": "watashiwadarou",
+   "romanization": "watashi wa ~ darou",
    "speech": "わたしわ〜だろう",
    "core_status": "retired",
    "retired_reason": "WOULD_SENSES_NOT_JA_DAROU",
@@ -48418,7 +48421,7 @@
    "text": "地域社会",
    "alternatives": [],
    "reading": "ちいきしゃかい",
-   "romanization": "chiikishakai",
+   "romanization": "chiiki shakai",
    "study_tier": "expansão cotidiana",
    "study_priority": 2535,
    "user_hint": "",
@@ -48880,7 +48883,7 @@
    "text": "〜しないだろう",
    "alternatives": [],
    "reading": "〜しないだろう",
-   "romanization": "shinaidarou",
+   "romanization": "~ shinai darou",
    "core_status": "retired",
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
    "study_tier": "após reconciliar o sentido",
@@ -51134,7 +51137,7 @@
    "text": "空いている",
    "alternatives": [],
    "reading": "あいている",
-   "romanization": "aiteiru",
+   "romanization": "aite iru",
    "lexical_type": "construction",
    "class_real": "potential construction (suru-noun + できる)",
    "study_tier": "cedo",
@@ -51470,7 +51473,7 @@
    "text": "〜ではなかった",
    "alternatives": [],
    "reading": "〜ではなかった",
-   "romanization": "dewanakatta",
+   "romanization": "~ de wa nakatta",
    "speech": "でわなかった",
    "lexical_type": "form",
    "lemma": "〜ではない",
@@ -52613,7 +52616,7 @@
     "値段が〜だ"
    ],
    "reading": "〜かかる",
-   "romanization": "kakaru",
+   "romanization": "~ kakaru",
    "class_real": "godan verb",
    "study_tier": "inicial",
    "study_priority": 163,
@@ -52748,11 +52751,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 164,
-   "description": "刃物ではさみやナイフで切り分けること。",
+   "description": "ナイフやはさみで物を分けること。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "刃物ではさみやナイフで切り分けること。"
+    "ja": "ナイフやはさみで物を分けること。"
    },
    "antonyms": []
   },
@@ -52769,7 +52772,7 @@
    "text": "〜先生",
    "alternatives": [],
    "reading": "〜せんせい",
-   "romanization": "sensei",
+   "romanization": "~ sensei",
    "class_real": "honorific suffix",
    "study_tier": "cedo",
    "study_priority": 1059,
@@ -54073,7 +54076,7 @@
    "text": "あなたは〜するだろう",
    "alternatives": [],
    "reading": "あなたは〜するだろう",
-   "romanization": "anatawa",
+   "romanization": "anata wa ~ suru darou",
    "speech": "あなたわ",
    "core_status": "retired",
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
@@ -54105,7 +54108,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "口座",
-   "alternatives": [],
+   "alternatives": [
+    "アカウント"
+   ],
    "reading": "こうざ",
    "romanization": "kouza",
    "class_real": "noun",
@@ -54138,7 +54143,7 @@
    "text": "特に",
    "alternatives": [],
    "reading": "とくに",
-   "romanization": "tokuni",
+   "romanization": "toku ni",
    "class_real": "adverb",
    "study_tier": "cedo",
    "study_priority": 1077,
@@ -54731,11 +54736,11 @@
    "reading": "えいが",
    "romanization": "eiga",
    "nativeExplain": {
-    "ja": "映画。"
+    "ja": "物語などを撮影して、映像で見せる作品。"
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 183,
-   "description": "映画。",
+   "description": "物語などを撮影して、映像で見せる作品。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -54792,7 +54797,7 @@
    "text": "知っていた",
    "alternatives": [],
    "reading": "しっていた",
-   "romanization": "shitteita",
+   "romanization": "shitte ita",
    "lexical_type": "form",
    "lemma": "知っている",
    "lemma_id": "ja:en:000000082",
@@ -54938,7 +54943,7 @@
    "text": "ありそうな",
    "alternatives": [],
    "reading": "ありそうな",
-   "romanization": "ari sou na",
+   "romanization": "arisou na",
    "class_real": "adjectival construction (ある + そう)",
    "study_tier": "expansão cotidiana",
    "study_priority": 2601,
@@ -55534,10 +55539,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 191,
    "user_hint": "",
-   "description": "ものごとが起こる。",
+   "description": "何かが生じること。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ものごとが起こる。"
+    "ja": "何かが生じること。"
    },
    "antonyms": []
   },
@@ -55953,10 +55958,10 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2617,
    "user_hint": "",
-   "description": "見る、聞くなどの感覚。意味の意味もある。",
+   "description": "見る、聞くなどの感覚。「意味」という意味もある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "見る、聞くなどの感覚。意味の意味もある。"
+    "ja": "見る、聞くなどの感覚。「意味」という意味もある。"
    },
    "antonyms": []
   },
@@ -56187,10 +56192,10 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2620,
    "user_hint": "",
-   "description": "イギリスの。",
+   "description": "イギリスから来た、イギリスに関係のある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "イギリスの。"
+    "ja": "イギリスから来た、イギリスに関係のある。"
    },
    "antonyms": []
   },
@@ -57992,7 +57997,7 @@
    "text": "〜になった",
    "alternatives": [],
    "reading": "〜になった",
-   "romanization": "ninatta",
+   "romanization": "~ ni natta",
    "lexical_type": "form",
    "lemma": "〜になる",
    "lemma_id": "ja:en:000000367",
@@ -59224,7 +59229,7 @@
    "text": "何でも",
    "alternatives": [],
    "reading": "なんでも",
-   "romanization": "nan demo",
+   "romanization": "nandemo",
    "class_real": "pronoun",
    "nativeExplain": {
     "pt-BR": "tanto faz",
@@ -60207,7 +60212,7 @@
    "text": "あなたは〜した",
    "alternatives": [],
    "reading": "あなたは〜した",
-   "romanization": "anatawa",
+   "romanization": "anata wa ~ shita",
    "speech": "あなたわ",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
@@ -60763,10 +60768,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "長",
-   "alternatives": [],
-   "reading": "ちょう",
-   "romanization": "chou",
+   "text": "リーダー",
+   "alternatives": [
+    "長"
+   ],
+   "reading": "リーダー",
+   "romanization": "riidaa",
    "classifications": [
     {
      "system": "JLPT",
@@ -62440,8 +62447,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "フランス語",
    "alternatives": [],
-   "reading": "ふらんすご",
-   "romanization": "furansu go",
+   "reading": "フランスご",
+   "romanization": "furansugo",
    "class_real": "noun",
    "study_tier": "expansão cotidiana",
    "study_priority": 2683,
@@ -63364,10 +63371,10 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2696,
    "user_hint": "",
-   "description": "ヨーロッパの。",
+   "description": "ヨーロッパから来た、ヨーロッパに関係のある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ヨーロッパの。"
+    "ja": "ヨーロッパから来た、ヨーロッパに関係のある。"
    },
    "antonyms": []
   },
@@ -63836,11 +63843,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "informal; colher",
-    "ja": "選ぶ。拾いあげる意味もある。"
+    "ja": "いくつかの中から決めて取る。拾いあげる意味もある。"
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 270,
-   "description": "選ぶ。拾いあげる意味もある。",
+   "description": "いくつかの中から決めて取る。拾いあげる意味もある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -64347,10 +64354,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "職業",
-   "alternatives": [],
-   "reading": "しょくぎょう",
-   "romanization": "shokugyou",
+   "text": "キャリア",
+   "alternatives": [
+    "経歴"
+   ],
+   "reading": "キャリア",
+   "romanization": "kyaria",
    "study_tier": "expansão cotidiana",
    "study_priority": 2712,
    "user_hint": "",
@@ -64936,7 +64945,7 @@
    "text": "出版された",
    "alternatives": [],
    "reading": "しゅっぱんされた",
-   "romanization": "shuppansareta",
+   "romanization": "shuppan sareta",
    "lexical_type": "form",
    "lemma": "出版する",
    "lemma_id": null,
@@ -65000,10 +65009,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "版",
-   "alternatives": [],
-   "reading": "はん",
-   "romanization": "han",
+   "text": "バージョン",
+   "alternatives": [
+    "版"
+   ],
+   "reading": "バージョン",
+   "romanization": "baajon",
    "classifications": [
     {
      "system": "JLPT",
@@ -66027,10 +66038,12 @@
     "shopping"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "〜しましょうか",
-   "alternatives": [],
-   "reading": "〜しましょうか",
-   "romanization": "shimashouka",
+   "text": "申し出る",
+   "alternatives": [
+    "提供する"
+   ],
+   "reading": "もうしでる",
+   "romanization": "moushideru",
    "class_real": "ichidan verb",
    "study_tier": "cedo",
    "study_priority": 1123,
@@ -67173,7 +67186,7 @@
    "text": "私たちは〜した",
    "alternatives": [],
    "reading": "わたしたちは〜した",
-   "romanization": "watashitachiwashita",
+   "romanization": "watashitachi wa ~ shita",
    "speech": "わたしたちわ〜した",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
@@ -69533,12 +69546,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "期待する",
+   "text": "予想する",
    "alternatives": [
-    "予想する"
+    "期待する"
    ],
-   "reading": "きたいする",
-   "romanization": "kitai suru",
+   "reading": "よそうする",
+   "romanization": "yosou suru",
    "class_real": "suru-verb",
    "forms": [
     {
@@ -69632,12 +69645,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "prever, contar com",
-    "ja": "何かが起こると思って待つ。"
+    "ja": "何かが起こると思うこと。"
    },
    "study_tier": "pendente",
    "study_priority": 3350,
    "user_hint": "",
-   "description": "何かが起こると思って待つ。",
+   "description": "何かが起こると思うこと。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -69976,7 +69989,7 @@
     "ショートメッセージ"
    ],
    "reading": "テキストメッセージ",
-   "romanization": "tekisuto messēji",
+   "romanization": "tekisuto messeeji",
    "class_real": "noun (loanword)",
    "nativeExplain": {
     "pt-BR": "SMS; texto escrito",
@@ -71460,10 +71473,10 @@
    "study_tier": "cedo",
    "study_priority": 1182,
    "user_hint": "",
-   "description": "よく考える。",
+   "description": "ていねいに、じっくり考えること。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "よく考える。"
+    "ja": "ていねいに、じっくり考えること。"
    },
    "antonyms": []
   },
@@ -72027,7 +72040,7 @@
     "追加の"
    ],
    "reading": "よぶんな",
-   "romanization": "yobunna",
+   "romanization": "yobun na",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1192,
@@ -72363,20 +72376,20 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "勉強する",
+   "text": "勉強",
    "alternatives": [
-    "学ぶ"
+    "研究"
    ],
-   "reading": "べんきょうする",
-   "romanization": "benkyō suru",
+   "reading": "べんきょう",
+   "romanization": "benkyou",
    "class_real": "noun (suru-noun)",
    "study_tier": "herdado",
    "study_priority": 2754,
    "user_hint": "",
-   "description": "「study」の複数形。三人称単数現在形でもある。",
+   "description": "「study」の複数形。勉強や研究。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「study」の複数形。三人称単数現在形でもある。"
+    "ja": "「study」の複数形。勉強や研究。"
    },
    "antonyms": []
   },
@@ -72777,7 +72790,7 @@
     "店長"
    ],
    "reading": "マネージャー",
-   "romanization": "manējā",
+   "romanization": "maneejaa",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1199,
@@ -76017,10 +76030,10 @@
    "study_tier": "cedo",
    "study_priority": 1245,
    "user_hint": "",
-   "description": "オーストラリアの。",
+   "description": "オーストラリアから来た、オーストラリアに関係のある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "オーストラリアの。"
+    "ja": "オーストラリアから来た、オーストラリアに関係のある。"
    },
    "antonyms": []
   },
@@ -76706,10 +76719,10 @@
    "study_tier": "cedo",
    "study_priority": 1254,
    "user_hint": "",
-   "description": "はっきりと。",
+   "description": "よくわかるように。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "はっきりと。"
+    "ja": "よくわかるように。"
    },
    "antonyms": []
   },
@@ -78029,10 +78042,13 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "競争",
-   "alternatives": [],
-   "reading": "きょうそう",
-   "romanization": "kyousou",
+   "text": "大会",
+   "alternatives": [
+    "コンテスト",
+    "競争"
+   ],
+   "reading": "たいかい",
+   "romanization": "taikai",
    "classifications": [
     {
      "system": "JLPT",
@@ -78328,10 +78344,10 @@
    "study_tier": "cedo",
    "study_priority": 1272,
    "user_hint": "",
-   "description": "インドの。",
+   "description": "インドから来た、インドに関係のある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "インドの。"
+    "ja": "インドから来た、インドに関係のある。"
    },
    "antonyms": []
   },
@@ -78879,10 +78895,10 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "閉まった",
+   "text": "閉まっている",
    "alternatives": [],
-   "reading": "しまった",
-   "romanization": "shimatta",
+   "reading": "しまっている",
+   "romanization": "shimatte iru",
    "lexical_type": "form",
    "lemma": "閉まる",
    "lemma_id": null,
@@ -79714,10 +79730,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "見せられた",
+   "text": "見せた",
    "alternatives": [],
-   "reading": "みせられた",
-   "romanization": "miserareta",
+   "reading": "みせた",
+   "romanization": "miseta",
    "lexical_type": "form",
    "lemma": "見せる",
    "lemma_id": "ja:en:000000191",
@@ -80447,7 +80463,7 @@
    "text": "私たちは〜します",
    "alternatives": [],
    "reading": "わたしたちは〜します",
-   "romanization": "watashitachiwashimasu",
+   "romanization": "watashitachi wa ~ shimasu",
    "speech": "わたしたちわ〜します",
    "core_status": "retired",
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
@@ -81006,12 +81022,12 @@
    "class_real": "noun/adverb",
    "nativeExplain": {
     "pt-BR": "informal",
-    "ja": "たくさん。"
+    "ja": "数や量がとても多いこと。"
    },
    "study_tier": "inicial",
    "study_priority": 394,
    "user_hint": "",
-   "description": "たくさん。",
+   "description": "数や量がとても多いこと。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -81865,7 +81881,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "大量",
-   "alternatives": [],
+   "alternatives": [
+    "質量"
+   ],
    "reading": "たいりょう",
    "romanization": "tairyou",
    "class_real": "noun",
@@ -84552,10 +84570,10 @@
    "study_tier": "inicial",
    "study_priority": 414,
    "user_hint": "",
-   "description": "とてもすばらしい。",
+   "description": "とてもよくて、おどろくほどだ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とてもすばらしい。"
+    "ja": "とてもよくて、おどろくほどだ。"
    },
    "antonyms": []
   },
@@ -85081,10 +85099,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "育てられた",
-   "alternatives": [],
-   "reading": "そだてられた",
-   "romanization": "sodaterareta",
+   "text": "育てた",
+   "alternatives": [
+    "上げた"
+   ],
+   "reading": "そだてた",
+   "romanization": "sodateta",
    "lexical_type": "form",
    "lemma": "育てる",
    "lemma_id": null,
@@ -85167,7 +85187,7 @@
    ],
    "study_tier": "inicial",
    "study_priority": 419,
-   "description": "悲しい気持ち。",
+   "description": "心がしずんで、つらい気持ち。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -85175,7 +85195,7 @@
     "en:000001307"
    ],
    "nativeExplain": {
-    "ja": "悲しい気持ち。"
+    "ja": "心がしずんで、つらい気持ち。"
    }
   },
   {
@@ -85385,11 +85405,11 @@
    "class_real": "noun/counter (adverbial)",
    "study_tier": "inicial",
    "study_priority": 420,
-   "description": "2回。",
+   "description": "同じことを2回すること。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "2回。"
+    "ja": "同じことを2回すること。"
    },
    "antonyms": []
   },
@@ -85993,10 +86013,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "言った",
-   "alternatives": [],
-   "reading": "いった",
-   "romanization": "itta",
+   "text": "触れた",
+   "alternatives": [
+    "言った"
+   ],
+   "reading": "ふれた",
+   "romanization": "fureta",
    "lexical_type": "form",
    "lemma": "言う",
    "lemma_id": "ja:en:000000130",
@@ -86401,19 +86423,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "規模",
-   "alternatives": [],
-   "reading": "きぼ",
-   "romanization": "kibo",
+   "text": "目盛り",
+   "alternatives": [
+    "はかり"
+   ],
+   "reading": "めもり",
+   "romanization": "memori",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1371,
    "nativeExplain": {
     "pt-BR": "escala vs balança",
-    "ja": "測るための目盛り。大きさの度合い。重さを測る器具の意味もある。"
+    "ja": "測るための目盛り。重さを測るはかりの意味もある。"
    },
    "user_hint": "",
-   "description": "測るための目盛り。大きさの度合い。重さを測る器具の意味もある。",
+   "description": "測るための目盛り。重さを測るはかりの意味もある。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -86775,7 +86799,7 @@
    "text": "あなたは〜だろう",
    "alternatives": [],
    "reading": "あなたは〜だろう",
-   "romanization": "anatawa",
+   "romanization": "anata wa ~ darou",
    "speech": "あなたわ",
    "core_status": "retired",
    "retired_reason": "WOULD_SENSES_NOT_JA_DAROU",
@@ -86878,10 +86902,13 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "利益",
-   "alternatives": [],
-   "reading": "りえき",
-   "romanization": "rieki",
+   "text": "利点",
+   "alternatives": [
+    "メリット",
+    "利益"
+   ],
+   "reading": "りてん",
+   "romanization": "riten",
    "classifications": [
     {
      "system": "JLPT",
@@ -88038,10 +88065,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "権威",
-   "alternatives": [],
-   "reading": "けんい",
-   "romanization": "ken'i",
+   "text": "権限",
+   "alternatives": [
+    "権威"
+   ],
+   "reading": "けんげん",
+   "romanization": "kengen",
    "class_real": "noun",
    "study_tier": "intermediário",
    "study_priority": 2843,
@@ -88356,10 +88385,13 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "元カレ",
-   "alternatives": [],
-   "reading": "もとかれ",
-   "romanization": "moto kare",
+   "text": "元恋人",
+   "alternatives": [
+    "元カレ",
+    "元カノ"
+   ],
+   "reading": "もとこいびと",
+   "romanization": "moto koibito",
    "class_real": "noun (compound)",
    "study_tier": "cedo",
    "study_priority": 1394,
@@ -90265,12 +90297,12 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "escritório, sociedade",
-    "ja": "会社。"
+    "ja": "仕事をしてお金をかせぐ組織。"
    },
    "study_tier": "pendente",
    "study_priority": 3436,
    "user_hint": "",
-   "description": "会社。",
+   "description": "仕事をしてお金をかせぐ組織。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -90793,10 +90825,10 @@
    "study_tier": "cedo",
    "study_priority": 1423,
    "user_hint": "",
-   "description": "〜まで（くだけた言い方）。",
+   "description": "ある時までずっと、という意味（くだけた言い方）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "〜まで（くだけた言い方）。"
+    "ja": "ある時までずっと、という意味（くだけた言い方）。"
    },
    "antonyms": []
   },
@@ -91326,11 +91358,11 @@
    "class_real": "pronoun phrase",
    "study_tier": "cedo",
    "study_priority": 1431,
-   "description": "彼女自身のこと。",
+   "description": "「she」がその人自身をさすときの言い方。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "彼女自身のこと。"
+    "ja": "「she」がその人自身をさすときの言い方。"
    },
    "antonyms": []
   },
@@ -92301,10 +92333,13 @@
     "people"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "主催者",
-   "alternatives": [],
-   "reading": "しゅさいしゃ",
-   "romanization": "shusaisha",
+   "text": "ホスト",
+   "alternatives": [
+    "主催者",
+    "司会者"
+   ],
+   "reading": "ホスト",
+   "romanization": "hosuto",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1443,
@@ -92453,11 +92488,11 @@
    "romanization": "nagasa",
    "study_tier": "cedo",
    "study_priority": 1448,
-   "description": "物の長さ。",
+   "description": "物がどれだけ長いか。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物の長さ。"
+    "ja": "物がどれだけ長いか。"
    },
    "antonyms": []
   },
@@ -93639,7 +93674,7 @@
    "text": "彼らは〜した",
    "alternatives": [],
    "reading": "かれらは〜した",
-   "romanization": "karerawashita",
+   "romanization": "karera wa ~ shita",
    "speech": "かれらわ〜した",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
@@ -93909,10 +93944,10 @@
    "study_tier": "cedo",
    "study_priority": 1470,
    "user_hint": "",
-   "description": "美しいこと。",
+   "description": "きれいで、心がひかれる様子。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "美しいこと。"
+    "ja": "きれいで、心がひかれる様子。"
    },
    "antonyms": []
   },
@@ -95449,7 +95484,7 @@
     "唯一の"
    ],
    "reading": "どくとくの",
-   "romanization": "dokutokuno",
+   "romanization": "dokutoku no",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
     "pt-BR": "sem igual",
@@ -95787,10 +95822,12 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "悪い",
-   "alternatives": [],
-   "reading": "わるい",
-   "romanization": "warui",
+   "text": "邪悪な",
+   "alternatives": [
+    "悪い"
+   ],
+   "reading": "じゃあくな",
+   "romanization": "jaaku na",
    "classifications": [
     {
      "system": "JLPT",
@@ -99378,10 +99415,10 @@
    "study_tier": "inicial",
    "study_priority": 498,
    "user_hint": "",
-   "description": "とてもすばらしい。",
+   "description": "想像以上にすばらしい。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とてもすばらしい。"
+    "ja": "想像以上にすばらしい。"
    },
    "antonyms": []
   },
@@ -99458,7 +99495,7 @@
    "text": "まだ〜していない",
    "alternatives": [],
    "reading": "まだ〜していない",
-   "romanization": "madashiteinai",
+   "romanization": "mada ~ shite inai",
    "core_status": "retired",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
@@ -100268,7 +100305,7 @@
    "text": "彼らは〜するだろう",
    "alternatives": [],
    "reading": "かれらは〜するだろう",
-   "romanization": "karerawasurudarou",
+   "romanization": "karera wa ~ suru darou",
    "speech": "かれらわ〜するだろう",
    "core_status": "retired",
    "retired_reason": "WILL_NO_JA_FUTURE_TENSE",
@@ -101041,10 +101078,13 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "限界",
-   "alternatives": [],
-   "reading": "げんかい",
-   "romanization": "genkai",
+   "text": "制限",
+   "alternatives": [
+    "上限",
+    "限界"
+   ],
+   "reading": "せいげん",
+   "romanization": "seigen",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1557,
@@ -101762,10 +101802,13 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "発売する",
-   "alternatives": [],
-   "reading": "はつばいする",
-   "romanization": "hatsubai suru",
+   "text": "立ち上げる",
+   "alternatives": [
+    "打ち上げる",
+    "発売する"
+   ],
+   "reading": "たちあげる",
+   "romanization": "tachiageru",
    "class_real": "suru-verb",
    "forms": [
     {
@@ -101909,7 +101952,7 @@
    "text": "ネイティブの",
    "alternatives": [],
    "reading": "ネイティブの",
-   "romanization": "neitibuno",
+   "romanization": "neitibu no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1567,
@@ -103138,13 +103181,13 @@
    "study_tier": "inicial",
    "study_priority": 522,
    "user_hint": "",
-   "description": "かたくない。やわらかい。",
+   "description": "かたくなく、おすと形が変わる。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000263"
    ],
    "nativeExplain": {
-    "ja": "かたくない。やわらかい。"
+    "ja": "かたくなく、おすと形が変わる。"
    }
   },
   {
@@ -103637,10 +103680,12 @@
     "routine"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "えさをやる",
-   "alternatives": [],
-   "reading": "えさをやる",
-   "romanization": "esa o yaru",
+   "text": "食べさせる",
+   "alternatives": [
+    "えさをやる"
+   ],
+   "reading": "たべさせる",
+   "romanization": "tabesaseru",
    "lexical_type": "construction",
    "class_real": "verb construction",
    "forms": [
@@ -104063,7 +104108,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "イスラム教の",
    "alternatives": [],
-   "reading": "いすらむきょうの",
+   "reading": "イスラムきょうの",
    "romanization": "isuramukyou no",
    "class_real": "noun + の",
    "study_tier": "cedo",
@@ -104918,10 +104963,12 @@
     "functional_grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "至る所に",
-   "alternatives": [],
-   "reading": "いたるところに",
-   "romanization": "itaru tokoro ni",
+   "text": "どこでも",
+   "alternatives": [
+    "至る所に"
+   ],
+   "reading": "どこでも",
+   "romanization": "dokodemo",
    "class_real": "indefinite pronoun/adverb",
    "study_tier": "cedo",
    "study_priority": 1607,
@@ -109454,12 +109501,12 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "ひらめいた",
+   "text": "触発された",
    "alternatives": [
-    "感化された"
+    "刺激を受けた"
    ],
-   "reading": "ひらめいた",
-   "romanization": "hirameita",
+   "reading": "しょくはつされた",
+   "romanization": "shokuhatsu sareta",
    "class_real": "past participle (ひらめく), attributive",
    "study_tier": "herdado",
    "study_priority": 2969,
@@ -109838,10 +109885,10 @@
    "study_tier": "inicial",
    "study_priority": 557,
    "user_hint": "",
-   "description": "速くない。",
+   "description": "時間をかけて、速くなく。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "速くない。"
+    "ja": "時間をかけて、速くなく。"
    },
    "antonyms": [
     "en:000001060"
@@ -116705,7 +116752,7 @@
    "text": "彼は〜だろう",
    "alternatives": [],
    "reading": "かれは〜だろう",
-   "romanization": "karewadarou",
+   "romanization": "kare wa ~ darou",
    "speech": "かれわ〜だろう",
    "core_status": "retired",
    "retired_reason": "EN_HED_AMBIGUOUS",
@@ -116823,10 +116870,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "散らかり",
-   "alternatives": [],
-   "reading": "ちらかり",
-   "romanization": "chirakari",
+   "text": "めちゃくちゃ",
+   "alternatives": [
+    "散らかった状態"
+   ],
+   "reading": "めちゃくちゃ",
+   "romanization": "mechakucha",
    "class_real": "noun (suru-noun)",
    "study_tier": "inicial",
    "study_priority": 591,
@@ -117262,10 +117311,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "保管",
-   "alternatives": [],
-   "reading": "ほかん",
-   "romanization": "hokan",
+   "text": "収納",
+   "alternatives": [
+    "保管"
+   ],
+   "reading": "しゅうのう",
+   "romanization": "shuunou",
    "class_real": "noun (suru-noun)",
    "study_tier": "cedo",
    "study_priority": 1778,
@@ -117775,10 +117826,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "創造",
-   "alternatives": [],
-   "reading": "そうぞう",
-   "romanization": "souzou",
+   "text": "作品",
+   "alternatives": [
+    "創造"
+   ],
+   "reading": "さくひん",
+   "romanization": "sakuhin",
    "class_real": "noun (suru-noun)",
    "study_tier": "cedo",
    "study_priority": 1789,
@@ -118235,7 +118288,7 @@
    "text": "〜といいな",
    "alternatives": [],
    "reading": "〜といいな",
-   "romanization": "toiina",
+   "romanization": "~ to ii na",
    "class_real": "conditional adverbial phrase",
    "study_tier": "cedo",
    "study_priority": 1797,
@@ -118831,10 +118884,10 @@
    "study_tier": "cedo",
    "study_priority": 1805,
    "user_hint": "",
-   "description": "とても深刻な。",
+   "description": "程度がとてもひどい。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とても深刻な。"
+    "ja": "程度がとてもひどい。"
    },
    "antonyms": []
   },
@@ -120722,10 +120775,10 @@
    "study_tier": "cedo",
    "study_priority": 1831,
    "user_hint": "",
-   "description": "いくらか。やや。",
+   "description": "少しだけ。いくらか。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "いくらか。やや。"
+    "ja": "少しだけ。いくらか。"
    },
    "antonyms": []
   },
@@ -120946,10 +120999,12 @@
     "home"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "お手洗い",
-   "alternatives": [],
-   "reading": "おてあらい",
-   "romanization": "otearai",
+   "text": "バスルーム",
+   "alternatives": [
+    "お手洗い"
+   ],
+   "reading": "バスルーム",
+   "romanization": "basuruumu",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 608,
@@ -121169,10 +121224,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "運転された",
+   "text": "運転した",
    "alternatives": [],
-   "reading": "うんてんされた",
-   "romanization": "untensareta",
+   "reading": "うんてんした",
+   "romanization": "untenshita",
    "class_real": "past participle (運転する), passive",
    "nativeExplain": {
     "pt-BR": "que foi conduzido (carro)",
@@ -123018,10 +123073,10 @@
    "study_tier": "cedo",
    "study_priority": 1861,
    "user_hint": "",
-   "description": "公式に。",
+   "description": "おおやけに、正式な形で。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "公式に。"
+    "ja": "おおやけに、正式な形で。"
    },
    "antonyms": []
   },
@@ -123471,10 +123526,10 @@
    "study_tier": "cedo",
    "study_priority": 1873,
    "user_hint": "",
-   "description": "太陽の。",
+   "description": "太陽に関する。太陽から来る。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "太陽の。"
+    "ja": "太陽に関する。太陽から来る。"
    },
    "antonyms": []
   },
@@ -123518,10 +123573,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "泊まった",
-   "alternatives": [],
-   "reading": "とまった",
-   "romanization": "tomatta",
+   "text": "とどまった",
+   "alternatives": [
+    "泊まった"
+   ],
+   "reading": "とどまった",
+   "romanization": "todomatta",
    "lexical_type": "form",
    "lemma": "泊まる",
    "lemma_id": "ja:en:000003044",
@@ -123630,10 +123687,12 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "添付された",
-   "alternatives": [],
-   "reading": "てんぷされた",
-   "romanization": "tenpusareta",
+   "text": "付いている",
+   "alternatives": [
+    "愛着のある"
+   ],
+   "reading": "ついている",
+   "romanization": "tsuite iru",
    "class_real": "participial adjective",
    "study_tier": "herdado",
    "study_priority": 3045,
@@ -124586,12 +124645,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "気づく",
+   "text": "見分ける",
    "alternatives": [
     "認識する"
    ],
-   "reading": "きづく",
-   "romanization": "kizuku",
+   "reading": "みわける",
+   "romanization": "miwakeru",
    "lexical_type": "construction",
    "class_real": "verb construction",
    "forms": [
@@ -124953,7 +125012,7 @@
    "text": "生き残る",
    "alternatives": [],
    "reading": "いきのこる",
-   "romanization": "iki nokoru",
+   "romanization": "ikinokoru",
    "class_real": "godan verb",
    "forms": [
     {
@@ -125860,10 +125919,12 @@
     "home"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "錠",
-   "alternatives": [],
-   "reading": "じょう",
-   "romanization": "jou",
+   "text": "鍵",
+   "alternatives": [
+    "錠"
+   ],
+   "reading": "かぎ",
+   "romanization": "kagi",
    "class_real": "noun",
    "study_tier": "pendente",
    "study_priority": 3632,
@@ -127023,12 +127084,12 @@
    "class_real": "adverb",
    "nativeExplain": {
     "pt-BR": "razoavelmente; de modo justo",
-    "ja": "かなり。公平にの意味もある。"
+    "ja": "ある程度、まあまあ。公平にという意味もある。"
    },
    "study_tier": "cedo",
    "study_priority": 1925,
    "user_hint": "",
-   "description": "かなり。公平にの意味もある。",
+   "description": "ある程度、まあまあ。公平にという意味もある。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -127098,10 +127159,10 @@
    "study_tier": "herdado",
    "study_priority": 3073,
    "user_hint": "",
-   "description": "組織をつくること。「The school was founded in 1990」。",
+   "description": "「found」（組織をつくる）の過去形・過去分詞。例：「The school was founded in 1900」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "組織をつくること。「The school was founded in 1990」。"
+    "ja": "「found」（組織をつくる）の過去形・過去分詞。例：「The school was founded in 1900」。"
    },
    "antonyms": []
   },
@@ -127303,7 +127364,7 @@
    "kind": "word",
    "description_en": "To raise something up; a free ride in a car.",
    "level": "C2",
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "vcu14_rank": 531,
@@ -128480,7 +128541,8 @@
    "nativeExplain": {
     "ja": "男の人。イギリスやオーストラリアのくだけた言い方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003021",
@@ -128531,7 +128593,8 @@
    "nativeExplain": {
     "ja": "チャットの略語。「be right back」、すぐ戻る。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003047",
@@ -128722,7 +128785,8 @@
    "nativeExplain": {
     "ja": "イギリスで、とてもうれしい。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003044",
@@ -128772,7 +128836,8 @@
    "nativeExplain": {
     "ja": "お茶一杯。イギリスのくだけた言い方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003081",
@@ -128823,7 +128888,8 @@
    "nativeExplain": {
     "ja": "イギリスで、信用できない。あやしい。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003058",
@@ -128848,7 +128914,8 @@
    "nativeExplain": {
     "ja": "イギリスで、どうでもいいことに時間をむだにする。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003040",
@@ -129047,7 +129114,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "コーヒーでも飲む",
    "alternatives": [],
-   "reading": "こーひーでものむ",
+   "reading": "コーヒーでものむ",
    "romanization": "koohii demo nomu",
    "lexical_type": "construction",
    "class_real": "verb construction",
@@ -129085,7 +129152,8 @@
    "nativeExplain": {
     "ja": "イギリスで、とてもがっかりした。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003013",
@@ -129136,7 +129204,8 @@
    "nativeExplain": {
     "ja": "おなかがすいて、いらいらしている。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003004",
@@ -129214,7 +129283,8 @@
    "nativeExplain": {
     "ja": "かくさず、はっきりと。「low-key」の反対。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003045",
@@ -129298,7 +129368,8 @@
    "nativeExplain": {
     "ja": "チャットの略語。「I don't know」、わからない。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003064",
@@ -129326,7 +129397,8 @@
    "nativeExplain": {
     "ja": "イギリスで、文の終わりにつける「isn't it?」。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003056",
@@ -129351,7 +129423,8 @@
    "nativeExplain": {
     "ja": "イギリスで、へとへとにつかれた。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003033",
@@ -129376,7 +129449,8 @@
    "nativeExplain": {
     "ja": "本物で、信頼できる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003035",
@@ -129402,7 +129476,8 @@
    "nativeExplain": {
     "ja": "とても盛り上がって楽しい。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003007",
@@ -129435,7 +129510,8 @@
    "nativeExplain": {
     "ja": "イギリスで、トイレのこと。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003028",
@@ -129460,7 +129536,8 @@
    "nativeExplain": {
     "ja": "ひそかに。ちょっとだけ（こっそり）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003067",
@@ -129526,7 +129603,7 @@
    "text": "ごめん、私のせい",
    "alternatives": [],
    "reading": "ごめん、わたしのせい",
-   "romanization": "gomen watashinosei",
+   "romanization": "gomen, watashi no sei",
    "lexical_type": "construction",
    "class_real": "sentence construction",
    "study_tier": "temático (Slang)",
@@ -129726,7 +129803,8 @@
    "nativeExplain": {
     "ja": "イギリスで、1ポンド（お金）のこと。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003061",
@@ -129776,7 +129854,8 @@
    "nativeExplain": {
     "ja": "あることでむっとして、とげとげしい。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003057",
@@ -129801,7 +129880,8 @@
    "nativeExplain": {
     "ja": "イギリスで、お金がない。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003075",
@@ -129851,7 +129931,8 @@
    "nativeExplain": {
     "ja": "うわさ話や内緒の話を打ち明ける。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003036",
@@ -129977,7 +130058,8 @@
    "nativeExplain": {
     "ja": "ロンドンの地下鉄。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003079",
@@ -130075,7 +130157,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "元気？",
    "alternatives": [],
-   "reading": "げんき",
+   "reading": "げんき？",
    "romanization": "genki?",
    "class_real": "expression",
    "study_tier": "temático (Slang)",
@@ -130707,10 +130789,10 @@
     "technology_common"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "軽くたたく",
+   "text": "軽くたたくこと",
    "alternatives": [],
-   "reading": "かるくたたく",
-   "romanization": "karuku tataku",
+   "reading": "かるくたたくこと",
+   "romanization": "karuku tataku koto",
    "class_real": "noun",
    "nativeExplain": {
     "ja": "軽くふれたり、そっとたたいたりすること。"
@@ -130840,7 +130922,7 @@
    "text": "パン屋",
    "alternatives": [],
    "reading": "ぱんや",
-   "romanization": "pan ya",
+   "romanization": "pan'ya",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 643,
@@ -131630,10 +131712,13 @@
     "core_coverage_review"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "ランプ",
-   "alternatives": [],
-   "reading": "ランプ",
-   "romanization": "ranpu",
+   "text": "電気スタンド",
+   "alternatives": [
+    "ライト",
+    "ランプ"
+   ],
+   "reading": "でんきスタンド",
+   "romanization": "denki sutando",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1975,
@@ -132827,11 +132912,11 @@
    "class_real": "adverb + na-adjective phrase",
    "study_tier": "cedo",
    "study_priority": 1990,
-   "description": "まったく同じ。",
+   "description": "少しのちがいもなく、同じであること。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "まったく同じ。"
+    "ja": "少しのちがいもなく、同じであること。"
    },
    "antonyms": []
   },
@@ -134171,7 +134256,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "やりがいのある",
-   "romanization": "yarigainoaru",
+   "romanization": "yarigai no aru",
    "study_tier": "pendente",
    "study_priority": 3306,
    "nativeExplain": {
@@ -134196,7 +134281,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "だんけつした",
-   "romanization": "danketsushita",
+   "romanization": "danketsu shita",
    "study_tier": "pendente",
    "study_priority": 3307,
    "part_of_speech": "adj",
@@ -134340,7 +134425,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "〜というけっかになる",
-   "romanization": "toiukekkaninaru",
+   "romanization": "~ to iu kekka ni naru",
    "study_tier": "pendente",
    "study_priority": 3320,
    "part_of_speech": "v",
@@ -134364,10 +134449,10 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "れんぞくで",
-   "romanization": "renzokude",
+   "romanization": "renzoku de",
    "study_tier": "pendente",
    "study_priority": 3321,
-   "part_of_speech": "n",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "間をあけずに続けて（3日連続）。",
    "novrev_status": "reviewed",
@@ -134415,7 +134500,7 @@
    "romanization": "mita",
    "study_tier": "pendente",
    "study_priority": 3331,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "「look」（見る）の過去形。目を向けた。",
    "novrev_status": "reviewed",
@@ -134599,20 +134684,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A hand-held folding object waved to cool the face.",
-   "text": "うちわ",
-   "alternatives": [],
+   "text": "扇子",
+   "alternatives": [
+    "うちわ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "うちわ",
-   "romanization": "uchiwa",
+   "reading": "せんす",
+   "romanization": "sensu",
    "study_tier": "pendente",
    "study_priority": 3342,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "手に持ってあおぎ、顔をすずしくする道具。",
+   "description": "手に持ってあおぎ、顔をすずしくする、折りたためる道具。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "手に持ってあおぎ、顔をすずしくする道具。"
+    "ja": "手に持ってあおぎ、顔をすずしくする、折りたためる道具。"
    },
    "level": "B1",
    "antonyms": []
@@ -134652,7 +134739,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "たいらな",
-   "romanization": "tairana",
+   "romanization": "taira na",
    "study_tier": "pendente",
    "study_priority": 3356,
    "part_of_speech": "adj",
@@ -134796,7 +134883,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ほうこくする",
-   "romanization": "houkokusuru",
+   "romanization": "houkoku suru",
    "study_tier": "pendente",
    "study_priority": 3382,
    "part_of_speech": "v",
@@ -134987,10 +135074,10 @@
    "study_priority": 3398,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "朝・昼・晩など、ひと回りに食べる食べ物。",
+   "description": "朝・昼・晩など、一回に食べる食事。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "朝・昼・晩など、ひと回りに食べる食べ物。"
+    "ja": "朝・昼・晩など、一回に食べる食事。"
    },
    "level": "B1",
    "antonyms": []
@@ -135342,7 +135429,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "そっちょくな",
-   "romanization": "sotchokuna",
+   "romanization": "sotchoku na",
    "study_tier": "pendente",
    "study_priority": 3455,
    "part_of_speech": "adj",
@@ -135554,11 +135641,14 @@
    "kind": "word",
    "description_en": "A mark, notice or gesture that gives information.",
    "text": "印",
-   "alternatives": [],
+   "alternatives": [
+    "合図",
+    "標識"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "いん",
-   "romanization": "in",
+   "reading": "しるし",
+   "romanization": "shirushi",
    "study_tier": "pendente",
    "study_priority": 3485,
    "part_of_speech": "n",
@@ -136225,20 +136315,20 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Making the sounds that show something is funny.",
-   "text": "笑っている",
+   "text": "笑い",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "わらっている",
-   "romanization": "waratteiru",
+   "reading": "わらい",
+   "romanization": "warai",
    "study_tier": "pendente",
    "study_priority": 3566,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "おもしろくて声を出して笑っている。",
+   "description": "おもしろくて声を出して笑うこと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "おもしろくて声を出して笑っている。"
+    "ja": "おもしろくて声を出して笑うこと。"
    },
    "level": "B1",
    "antonyms": []
@@ -136968,7 +137058,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "〜かなとおもう",
-   "romanization": "kanatoomou",
+   "romanization": "~ ka na to omou",
    "study_tier": "pendente",
    "study_priority": 3623,
    "part_of_speech": "n",
@@ -137232,7 +137322,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "きょうわとうの",
-   "romanization": "kyouwatouno",
+   "romanization": "kyouwatou no",
    "study_tier": "pendente",
    "study_priority": 3643,
    "part_of_speech": "n",
@@ -137317,7 +137407,8 @@
     "ja": "シカゴの高架を走る電車。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003077",
@@ -137448,7 +137539,8 @@
     "ja": "複数の相手に呼びかける「あなたたち」（ピッツバーグ）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003087",
@@ -137472,7 +137564,8 @@
     "ja": "ロサンゼルスの高速道路405号。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003088",
@@ -137510,7 +137603,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "またこんど",
-   "romanization": "matakondo",
+   "romanization": "mata kondo",
    "study_tier": "herdado",
    "study_priority": 3083,
    "part_of_speech": "n",
@@ -137777,12 +137870,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Feeling that you need to eat.",
-   "text": "お腹が空いた",
+   "text": "お腹がすいた",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "おはらがあいた",
-   "romanization": "oharagaaita",
+   "reading": "おなかがすいた",
+   "romanization": "onakagasuita",
    "study_tier": "inicial",
    "study_priority": 685,
    "part_of_speech": "adj",
@@ -137807,8 +137900,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "のどがかついた",
-   "romanization": "nodogakatsuita",
+   "reading": "のどがかわいた",
+   "romanization": "nodogakawaita",
    "study_tier": "inicial",
    "study_priority": 686,
    "part_of_speech": "adj",
@@ -138255,12 +138348,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A strong warm yellow like the yolk of an egg.",
-   "text": "卵黄色",
+   "text": "卵色",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "らんおういろ",
-   "romanization": "ran'ouiro",
+   "reading": "たまごいろ",
+   "romanization": "tamagoiro",
    "study_tier": "temático",
    "study_priority": 3735,
    "part_of_speech": "n",
@@ -139432,12 +139525,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A change from one train or bus to another during a trip.",
-   "text": "電車の乗り換え",
+   "text": "乗り換え",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "でんしゃののりかえ",
-   "romanization": "denshanonorikae",
+   "reading": "のりかえ",
+   "romanization": "norikae",
    "study_tier": "cedo",
    "study_priority": 2023,
    "part_of_speech": "n",
@@ -139906,12 +139999,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Underwear for women or girls.",
-   "text": "パンツ",
-   "alternatives": [],
+   "text": "ショーツ",
+   "alternatives": [
+    "パンツ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "パンツ",
-   "romanization": "pantsu",
+   "reading": "ショーツ",
+   "romanization": "shootsu",
    "study_tier": "cedo",
    "study_priority": 2029,
    "part_of_speech": "n",
@@ -140510,7 +140605,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "いなづま",
+   "reading": "いなずま",
    "romanization": "inazuma",
    "study_tier": "cedo",
    "study_priority": 2031,
@@ -140868,12 +140963,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Not smooth to the touch.",
-   "text": "ざらざら",
+   "text": "ざらざらした",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ざらざら",
-   "romanization": "zarazara",
+   "reading": "ざらざらした",
+   "romanization": "zarazarashita",
    "study_tier": "cedo",
    "study_priority": 2035,
    "part_of_speech": "adj",
@@ -141946,7 +142041,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "フォホーをおどる",
-   "romanization": "fohō o odoru",
+   "romanization": "fohoo o odoru",
    "study_tier": "temático",
    "study_priority": 3736,
    "part_of_speech": "v",
@@ -142881,8 +142976,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "しじゅう",
-   "romanization": "shijuu",
+   "reading": "よんじゅう",
+   "romanization": "yonjuu",
    "study_tier": "inicial",
    "study_priority": 798,
    "part_of_speech": "n",
@@ -142953,8 +143048,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "しちじゅう",
-   "romanization": "shichijuu",
+   "reading": "ななじゅう",
+   "romanization": "nanajuu",
    "study_tier": "inicial",
    "study_priority": 801,
    "part_of_speech": "n",
@@ -143189,12 +143284,14 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A bag for carrying school things.",
-   "text": "ランドセル",
-   "alternatives": [],
+   "text": "通学かばん",
+   "alternatives": [
+    "ランドセル"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ランドセル",
-   "romanization": "randoseru",
+   "reading": "つうがくかばん",
+   "romanization": "tsuugakukaban",
    "study_tier": "inicial",
    "study_priority": 810,
    "part_of_speech": "n",
@@ -143815,12 +143912,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A deep feeling of missing someone or something (Portuguese \"saudade\").",
-   "text": "懐かしさ",
-   "alternatives": [],
+   "text": "恋しさ",
+   "alternatives": [
+    "懐かしさ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "なつかしさ",
-   "romanization": "natsukashisa",
+   "reading": "こいしさ",
+   "romanization": "koishisa",
    "study_tier": "cedo",
    "study_priority": 2058,
    "part_of_speech": "n",
@@ -143983,12 +144082,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Grandfather (informal).",
-   "text": "おじいさん",
-   "alternatives": [],
+   "text": "おじいちゃん",
+   "alternatives": [
+    "おじいさん"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "おじいさん",
-   "romanization": "ojiisan",
+   "reading": "おじいちゃん",
+   "romanization": "ojiichan",
    "study_tier": "inicial",
    "study_priority": 826,
    "part_of_speech": "n",
@@ -144009,12 +144110,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Grandmother (informal).",
-   "text": "おばあさん",
-   "alternatives": [],
+   "text": "おばあちゃん",
+   "alternatives": [
+    "おばあさん"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "おばあさん",
-   "romanization": "obaasan",
+   "reading": "おばあちゃん",
+   "romanization": "obaachan",
    "study_tier": "inicial",
    "study_priority": 827,
    "part_of_speech": "n",
@@ -144111,12 +144214,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Old; older people.",
-   "text": "お年寄り",
-   "alternatives": [],
+   "text": "年をとった",
+   "alternatives": [
+    "お年寄りの"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "おとしより",
-   "romanization": "otoshiyori",
+   "reading": "としをとった",
+   "romanization": "toshi o totta",
    "study_tier": "cedo",
    "study_priority": 2063,
    "part_of_speech": "adj",
@@ -144615,12 +144720,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To make a kite fly in the wind.",
-   "text": "凧揚げ",
+   "text": "凧揚げをする",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "たこあげ",
-   "romanization": "takoage",
+   "reading": "たこあげをする",
+   "romanization": "takoageosuru",
    "study_tier": "herdado",
    "study_priority": 3100,
    "part_of_speech": "v",
@@ -144639,12 +144744,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To play a game with small glass balls.",
-   "text": "ビー玉遊び",
+   "text": "ビー玉で遊ぶ",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ビーたまあそび",
-   "romanization": "biitamaasobi",
+   "reading": "ビーだまであそぶ",
+   "romanization": "biidamadeasobu",
    "study_tier": "herdado",
    "study_priority": 3101,
    "part_of_speech": "v",
@@ -145105,10 +145210,10 @@
     }
    ],
    "user_hint": "",
-   "description": "車輪のついた板に乗って進ぶ遊び。",
+   "description": "スケボーに乗ってすべる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "車輪のついた板に乗って進ぶ遊び。"
+    "ja": "スケボーに乗ってすべる。"
    },
    "level": "A2",
    "antonyms": []
@@ -145119,12 +145224,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To move on roller skates.",
-   "text": "ローラースケート",
+   "text": "ローラースケートをする",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ローラースケート",
-   "romanization": "rooraasukeeto",
+   "reading": "ローラースケートをする",
+   "romanization": "rooraasukeetoosuru",
    "study_tier": "cedo",
    "study_priority": 2077,
    "part_of_speech": "v",
@@ -146793,8 +146898,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "つらにならぶ",
-   "romanization": "tsuraninarabu",
+   "reading": "れつにならぶ",
+   "romanization": "retsuninarabu",
    "study_tier": "inicial",
    "study_priority": 851,
    "part_of_speech": "v",
@@ -146865,8 +146970,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "じかんとうりにつく",
-   "romanization": "jikantourinitsuku",
+   "reading": "じかんどおりにつく",
+   "romanization": "jikandoorinitsuku",
    "study_tier": "cedo",
    "study_priority": 2097,
    "part_of_speech": "v",
@@ -147279,10 +147384,10 @@
    "study_priority": 2107,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "悪いことをした人にあたえるつらい罰。",
+   "description": "悪いことをした人にあたえる、こらしめ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "悪いことをした人にあたえるつらい罰。"
+    "ja": "悪いことをした人にあたえる、こらしめ。"
    },
    "level": "B1",
    "antonyms": []
@@ -148254,8 +148359,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Speaking very softly.",
-   "text": "囁き",
-   "alternatives": [],
+   "text": "ささやき",
+   "alternatives": [
+    "囁き"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ささやき",
@@ -148446,12 +148553,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An instrument you hit with sticks or hands.",
-   "text": "ドラム",
-   "alternatives": [],
+   "text": "太鼓",
+   "alternatives": [
+    "ドラム"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ドラム",
-   "romanization": "doramu",
+   "reading": "たいこ",
+   "romanization": "taiko",
    "study_tier": "inicial",
    "study_priority": 869,
    "part_of_speech": "n",
@@ -149358,20 +149467,20 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An increase in speed.",
-   "text": "加速度",
+   "text": "加速",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "かそくど",
-   "romanization": "kasokudo",
+   "reading": "かそく",
+   "romanization": "kasoku",
    "study_tier": "intermediário",
    "study_priority": 3136,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "速さが増していく割合。",
+   "description": "速さが増すこと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "速さが増していく割合。"
+    "ja": "速さが増すこと。"
    },
    "level": "B2",
    "antonyms": []
@@ -149454,20 +149563,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "How often something happens or vibrates.",
-   "text": "周波数",
-   "alternatives": [],
+   "text": "頻度",
+   "alternatives": [
+    "周波数"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "しゅうはすう",
-   "romanization": "shuuhasuu",
+   "reading": "ひんど",
+   "romanization": "hindo",
    "study_tier": "intermediário",
    "study_priority": 3140,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "ある現象や振動が、決まった時間に起こる回数。",
+   "description": "あることが起こる回数の多さ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある現象や振動が、決まった時間に起こる回数。"
+    "ja": "あることが起こる回数の多さ。"
    },
    "level": "B2",
    "antonyms": []
@@ -150343,12 +150454,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "When the sun or moon is hidden by a shadow.",
-   "text": "食",
-   "alternatives": [],
+   "text": "日食",
+   "alternatives": [
+    "月食"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "しょく",
-   "romanization": "shoku",
+   "reading": "にっしょく",
+   "romanization": "nisshoku",
    "study_tier": "intermediário",
    "study_priority": 3163,
    "part_of_speech": "n",
@@ -150511,12 +150624,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A unit of length equal to 1,000 meters.",
-   "text": "キロ",
-   "alternatives": [],
+   "text": "キロメートル",
+   "alternatives": [
+    "キロ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "キロ",
-   "romanization": "kiro",
+   "reading": "キロメートル",
+   "romanization": "kiromeetoru",
    "study_tier": "inicial",
    "study_priority": 878,
    "part_of_speech": "n",
@@ -150559,12 +150674,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A unit of weight equal to 1,000 grams.",
-   "text": "キロ",
-   "alternatives": [],
+   "text": "キログラム",
+   "alternatives": [
+    "キロ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "キロ",
-   "romanization": "kiro",
+   "reading": "キログラム",
+   "romanization": "kiroguramu",
    "study_tier": "inicial",
    "study_priority": 880,
    "part_of_speech": "n",
@@ -150947,8 +151064,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "こだいにっぽん",
-   "romanization": "kodainippon",
+   "reading": "こだいにほん",
+   "romanization": "kodainihon",
    "study_tier": "temático",
    "study_priority": 3749,
    "part_of_speech": "n",
@@ -152072,12 +152189,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Of the hot regions near the equator.",
-   "text": "熱帯",
+   "text": "熱帯の",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ねったい",
-   "romanization": "nettai",
+   "reading": "ねったいの",
+   "romanization": "nettaino",
    "study_tier": "cedo",
    "study_priority": 2182,
    "part_of_speech": "adj",
@@ -152144,12 +152261,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Having mild temperatures.",
-   "text": "温帯",
-   "alternatives": [],
+   "text": "温暖な",
+   "alternatives": [
+    "温帯の"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "おんたい",
-   "romanization": "ontai",
+   "reading": "おんだんな",
+   "romanization": "ondanna",
    "study_tier": "intermediário",
    "study_priority": 3188,
    "part_of_speech": "adj",
@@ -152168,12 +152287,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Having many mountains.",
-   "text": "山がち",
-   "alternatives": [],
+   "text": "山の多い",
+   "alternatives": [
+    "山がちな"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "やまがち",
-   "romanization": "yamagachi",
+   "reading": "やまのおおい",
+   "romanization": "yamanoooi",
    "study_tier": "intermediário",
    "study_priority": 3189,
    "part_of_speech": "adj",
@@ -152248,12 +152369,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Warm and wet (of air).",
-   "text": "湿った",
-   "alternatives": [],
+   "text": "蒸し暑い",
+   "alternatives": [
+    "湿気の多い"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "しめった",
-   "romanization": "shimetta",
+   "reading": "むしあつい",
+   "romanization": "mushiatsui",
    "study_tier": "cedo",
    "study_priority": 2185,
    "part_of_speech": "adj",
@@ -152440,20 +152563,20 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The area of land drained by a river.",
-   "text": "盆地",
+   "text": "流域",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ぼんち",
-   "romanization": "bonchi",
+   "reading": "りゅういき",
+   "romanization": "ryuuiki",
    "study_tier": "intermediário",
    "study_priority": 3195,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "まわりを山にかこまれた平らな土地。川の水が集まる地域。",
+   "description": "ひとつの川に水が流れこむ土地の全体。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "まわりを山にかこまれた平らな土地。川の水が集まる地域。"
+    "ja": "ひとつの川に水が流れこむ土地の全体。"
    },
    "level": "B2",
    "antonyms": []
@@ -152464,12 +152587,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A large flat area of high land.",
-   "text": "台地",
-   "alternatives": [],
+   "text": "高原",
+   "alternatives": [
+    "台地"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "だいち",
-   "romanization": "daichi",
+   "reading": "こうげん",
+   "romanization": "kougen",
    "study_tier": "intermediário",
    "study_priority": 3196,
    "part_of_speech": "n",
@@ -152565,7 +152690,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "はんとう",
-   "romanization": "hantō",
+   "romanization": "hantou",
    "study_tier": "intermediário",
    "study_priority": 3197,
    "part_of_speech": "n",
@@ -152633,11 +152758,13 @@
    "kind": "word",
    "description_en": "A group of islands.",
    "text": "諸島",
-   "alternatives": [],
+   "alternatives": [
+    "列島"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "しょとう",
-   "romanization": "shotō",
+   "romanization": "shotou",
    "study_tier": "intermediário",
    "study_priority": 3200,
    "part_of_speech": "n",
@@ -152781,7 +152908,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "インドよう",
-   "romanization": "Indoyō",
+   "romanization": "indoyou",
    "study_tier": "temático",
    "study_priority": 3753,
    "part_of_speech": "n",
@@ -152805,7 +152932,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ほっきょくかい",
-   "romanization": "Hokkyokukai",
+   "romanization": "hokkyokukai",
    "study_tier": "temático",
    "study_priority": 3754,
    "part_of_speech": "n",
@@ -152829,7 +152956,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "なんきょくかい",
-   "romanization": "Nankyokukai",
+   "romanization": "nankyokukai",
    "study_tier": "temático",
    "study_priority": 3755,
    "part_of_speech": "n",
@@ -152864,7 +152991,8 @@
     "ja": "アフリカ北部にある、世界最大の暑い砂漠。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003739",
@@ -152888,7 +153016,8 @@
     "ja": "アジアにある、世界一高い山脈。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003740",
@@ -152912,7 +153041,8 @@
     "ja": "世界でいちばん高い山。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003741",
@@ -152936,7 +153066,8 @@
     "ja": "エジプトを流れる大きな川。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003742",
@@ -152960,7 +153091,8 @@
     "ja": "中国でいちばん長い川。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003743",
@@ -152984,7 +153116,8 @@
     "ja": "アメリカを流れる大きな川。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003744",
@@ -153008,7 +153141,8 @@
     "ja": "南アメリカを流れる大きな川。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003745",
@@ -153032,7 +153166,8 @@
     "ja": "日本でいちばん高い山。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003746",
@@ -153056,7 +153191,8 @@
     "ja": "リオデジャネイロを見おろす、大きなキリスト像。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003747",
@@ -153080,7 +153216,8 @@
     "ja": "中国の北部に続く、古い長大な城壁。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003748",
@@ -153104,7 +153241,8 @@
     "ja": "パリにある、鉄でできた塔。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003749",
@@ -153128,7 +153266,8 @@
     "ja": "ニューヨーク港の入り口に立つ像。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003750",
@@ -153152,7 +153291,8 @@
     "ja": "カイロの近くにある、古代のピラミッド。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003751",
@@ -153176,7 +153316,8 @@
     "ja": "ローマにある、古代の円形闘技場。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003752",
@@ -153200,7 +153341,8 @@
     "ja": "インドのアグラにある、白い大理石の建物。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003753",
@@ -153224,7 +153366,8 @@
     "ja": "ペルーの山の上にある、インカの古い都市。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003754",
@@ -153280,12 +153423,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The remains of an old destroyed building.",
-   "text": "遺跡",
-   "alternatives": [],
+   "text": "廃墟",
+   "alternatives": [
+    "遺跡"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "いせき",
-   "romanization": "iseki",
+   "reading": "はいきょ",
+   "romanization": "haikyo",
    "study_tier": "cedo",
    "study_priority": 2195,
    "part_of_speech": "n",
@@ -153320,7 +153465,8 @@
     "ja": "教育や科学、文化を担当する国連の機関。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003758",
@@ -153453,7 +153599,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ランウェイ",
-   "romanization": "ran'wei",
+   "romanization": "ranwei",
    "study_tier": "intermediário",
    "study_priority": 3203,
    "part_of_speech": "n",
@@ -154152,12 +154298,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Money taken from a bank account.",
-   "text": "デビット",
-   "alternatives": [],
+   "text": "引き落とし",
+   "alternatives": [
+    "デビット"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "デビット",
-   "romanization": "debitto",
+   "reading": "ひきおとし",
+   "romanization": "hikiotoshi",
    "study_tier": "intermediário",
    "study_priority": 3210,
    "part_of_speech": "n",
@@ -154229,7 +154377,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ぎんこうか",
-   "romanization": "ginkōka",
+   "romanization": "ginkouka",
    "study_tier": "intermediário",
    "study_priority": 3212,
    "part_of_speech": "n",
@@ -154706,12 +154854,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The study of living things and their environment.",
-   "text": "エコロジー",
-   "alternatives": [],
+   "text": "生態学",
+   "alternatives": [
+    "エコロジー"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "エコロジー",
-   "romanization": "ekorojii",
+   "reading": "せいたいがく",
+   "romanization": "seitaigaku",
    "study_tier": "cedo",
    "study_priority": 2233,
    "part_of_speech": "n",
@@ -155235,12 +155385,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Farm animals raised for food.",
-   "text": "畜産",
+   "text": "家畜",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ちくさん",
-   "romanization": "chikusan",
+   "reading": "かちく",
+   "romanization": "kachiku",
    "study_tier": "cedo",
    "study_priority": 2241,
    "part_of_speech": "n",
@@ -155259,12 +155409,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Catching fish.",
-   "text": "漁業",
-   "alternatives": [],
+   "text": "釣り",
+   "alternatives": [
+    "漁業"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ぎょぎょう",
-   "romanization": "gyogyou",
+   "reading": "つり",
+   "romanization": "tsuri",
    "study_tier": "cedo",
    "study_priority": 2242,
    "part_of_speech": "n",
@@ -155451,12 +155603,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A genetically modified organism.",
-   "text": "遺伝子組み換えの",
+   "text": "遺伝子組み換え生物",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "いでんしくみかえの",
-   "romanization": "idenshikumikaeno",
+   "reading": "いでんしくみかえせいぶつ",
+   "romanization": "idenshikumikaeseibutsu",
    "study_tier": "intermediário",
    "study_priority": 3229,
    "part_of_speech": "n",
@@ -155887,12 +156039,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The state of being happy.",
-   "text": "幸福",
-   "alternatives": [],
+   "text": "幸せ",
+   "alternatives": [
+    "幸福"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "こうふく",
-   "romanization": "koufuku",
+   "reading": "しあわせ",
+   "romanization": "shiawase",
    "study_tier": "inicial",
    "study_priority": 896,
    "part_of_speech": "n",
@@ -156657,8 +156811,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "NGO",
-   "romanization": "NGO",
+   "reading": "エヌジーオー",
+   "romanization": "enujiioo",
    "study_tier": "intermediário",
    "study_priority": 3258,
    "part_of_speech": "n",
@@ -156970,10 +157124,10 @@
    "study_priority": 2263,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "おくびょうで、勇気がない。",
+   "description": "こわがりで、勇気がない。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "おくびょうで、勇気がない。"
+    "ja": "こわがりで、勇気がない。"
    },
    "level": "C1",
    "antonyms": [
@@ -157038,12 +157192,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Believing in ideals.",
-   "text": "理想主義",
+   "text": "理想主義的な",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "りそうしゅぎ",
-   "romanization": "risoushugi",
+   "reading": "りそうしゅぎてきな",
+   "romanization": "risoushugitekina",
    "study_tier": "intermediário",
    "study_priority": 3262,
    "part_of_speech": "adj",
@@ -157086,12 +157240,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Good at doing something with the hands.",
-   "text": "熟練した",
-   "alternatives": [],
+   "text": "器用な",
+   "alternatives": [
+    "熟練した"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "じゅくれんした",
-   "romanization": "jukurenshita",
+   "reading": "きような",
+   "romanization": "kiyouna",
    "study_tier": "intermediário",
    "study_priority": 3263,
    "part_of_speech": "adj",
@@ -157186,12 +157342,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Not taking responsibility.",
-   "text": "無責任",
+   "text": "無責任な",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "むせきにん",
-   "romanization": "musekinin",
+   "reading": "むせきにんな",
+   "romanization": "musekininna",
    "study_tier": "intermediário",
    "study_priority": 3265,
    "part_of_speech": "adj",
@@ -157445,7 +157601,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "このまえの",
-   "romanization": "kono mae no",
+   "romanization": "konomaeno",
    "study_tier": "cedo",
    "study_priority": 2272,
    "part_of_speech": "n",
@@ -157499,7 +157655,7 @@
    "romanization": "goro",
    "study_tier": "cedo",
    "study_priority": 2274,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "だいたいの数や時刻。「〜ごろ」は時刻、「〜ぐらい」は数や量。",
    "novrev_status": "reviewed",
@@ -157547,7 +157703,7 @@
    "romanization": "kara",
    "study_tier": "cedo",
    "study_priority": 2276,
-   "part_of_speech": "adj",
+   "part_of_speech": "conj",
    "user_hint": "",
    "description": "理由を示して「〜だから」。",
    "novrev_status": "reviewed",
@@ -157597,10 +157753,10 @@
    "study_priority": 2278,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "相手に賛成して、もちろん。",
+   "description": "相手の頼みや意見に、こころよく賛成するときの言葉。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "相手に賛成して、もちろん。"
+    "ja": "相手の頼みや意見に、こころよく賛成するときの言葉。"
    },
    "level": "B1",
    "antonyms": []
@@ -157815,10 +157971,10 @@
     }
    ],
    "user_hint": "",
-   "description": "人にやさしく、思いやりがある。",
+   "description": "思いやりがあって、人に親切な。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人にやさしく、思いやりがある。"
+    "ja": "思いやりがあって、人に親切な。"
    },
    "level": "A1",
    "antonyms": []
@@ -158142,7 +158298,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "じゅうようだ",
-   "romanization": "jūyōda",
+   "romanization": "juuyouda",
    "study_tier": "cedo",
    "study_priority": 2294,
    "part_of_speech": "v",
@@ -159022,7 +159178,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ひょう",
-   "romanization": "hyō",
+   "romanization": "hyou",
    "study_tier": "cedo",
    "study_priority": 2319,
    "part_of_speech": "n",
@@ -159255,8 +159411,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "セールなか",
-   "romanization": "seerunaka",
+   "reading": "セールちゅう",
+   "romanization": "seeruchuu",
    "study_tier": "cedo",
    "study_priority": 2325,
    "part_of_speech": "adj",
@@ -159395,12 +159551,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A substance like air, not solid or liquid.",
-   "text": "ガス",
-   "alternatives": [],
+   "text": "気体",
+   "alternatives": [
+    "ガス"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ガス",
-   "romanization": "gasu",
+   "reading": "きたい",
+   "romanization": "kitai",
    "study_tier": "cedo",
    "study_priority": 2331,
    "part_of_speech": "n",
@@ -159783,10 +159941,10 @@
     }
    ],
    "user_hint": "",
-   "description": "植物をそだてる。",
+   "description": "植物の世話をして大きくする。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "植物をそだてる。"
+    "ja": "植物の世話をして大きくする。"
    },
    "level": "B1",
    "antonyms": []
@@ -160199,12 +160357,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A device for weighing.",
-   "text": "体重計",
-   "alternatives": [],
+   "text": "はかり",
+   "alternatives": [
+    "体重計"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "たいじゅうけい",
-   "romanization": "taijuukei",
+   "reading": "はかり",
+   "romanization": "hakari",
    "study_tier": "cedo",
    "study_priority": 2357,
    "part_of_speech": "n",
@@ -160965,7 +161125,8 @@
     "ja": "アメリカの、25セントの硬貨。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000004023",
@@ -161439,8 +161600,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "チェーンみせ",
-   "romanization": "cheenmise",
+   "reading": "チェーンてん",
+   "romanization": "cheenten",
    "study_tier": "cedo",
    "study_priority": 2386,
    "part_of_speech": "n",
@@ -161459,12 +161620,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A reason given to support an idea.",
-   "text": "論拠",
-   "alternatives": [],
+   "text": "根拠",
+   "alternatives": [
+    "論拠"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ろんきょ",
-   "romanization": "ronkyo",
+   "reading": "こんきょ",
+   "romanization": "konkyo",
    "study_tier": "cedo",
    "study_priority": 2387,
    "part_of_speech": "n",
@@ -163101,10 +163264,10 @@
     }
    ],
    "user_hint": "",
-   "description": "物を、置く場所にしまう。",
+   "description": "物を、決まった場所に入れておく。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物を、置く場所にしまう。"
+    "ja": "物を、決まった場所に入れておく。"
    },
    "level": "A2",
    "antonyms": []
@@ -163139,12 +163302,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Clothes worn next to the skin under other clothes.",
-   "text": "パンツ",
-   "alternatives": [],
+   "text": "下着",
+   "alternatives": [
+    "パンツ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "パンツ",
-   "romanization": "pantsu",
+   "reading": "したぎ",
+   "romanization": "shitagi",
    "study_tier": "inicial",
    "study_priority": 907,
    "part_of_speech": "n",
@@ -163267,12 +163432,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Having the color of silver.",
-   "text": "銀色",
+   "text": "銀色の",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ぎんいろ",
-   "romanization": "gin'iro",
+   "reading": "ぎんいろの",
+   "romanization": "gin'irono",
    "study_tier": "inicial",
    "study_priority": 911,
    "part_of_speech": "adj",
@@ -163291,12 +163456,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Having an even surface.",
-   "text": "滑らか",
+   "text": "滑らかな",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "なめらか",
-   "romanization": "nameraka",
+   "reading": "なめらかな",
+   "romanization": "namerakana",
    "study_tier": "inicial",
    "study_priority": 912,
    "part_of_speech": "adj",
@@ -164113,10 +164278,10 @@
     }
    ],
    "user_hint": "",
-   "description": "攻撃から、まもる。",
+   "description": "攻撃されないように、ふせぐ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "攻撃から、まもる。"
+    "ja": "攻撃されないように、ふせぐ。"
    },
    "level": "B1",
    "antonyms": [
@@ -164297,12 +164462,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A small country property or farm.",
-   "text": "田舎の家",
+   "text": "小さな農場",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "いなかのいえ",
-   "romanization": "inakanoie",
+   "reading": "ちいさなのうじょう",
+   "romanization": "chiisananoujou",
    "study_tier": "cedo",
    "study_priority": 2439,
    "part_of_speech": "n",
@@ -165081,12 +165246,14 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A TV drama series about daily lives.",
-   "text": "ドラマ",
-   "alternatives": [],
+   "text": "連続ドラマ",
+   "alternatives": [
+    "ドラマ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ドラマ",
-   "romanization": "dorama",
+   "reading": "れんぞくドラマ",
+   "romanization": "renzokudorama",
    "study_tier": "cedo",
    "study_priority": 2449,
    "part_of_speech": "n",
@@ -165279,8 +165446,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "かく",
-   "romanization": "kaku",
+   "reading": "つの",
+   "romanization": "tsuno",
    "study_tier": "cedo",
    "study_priority": 2457,
    "part_of_speech": "n",
@@ -165843,7 +166010,8 @@
     "ja": "アマゾンの大きな熱帯雨林がある地域。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000004142",
@@ -165875,12 +166043,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A public show of art or objects.",
-   "text": "展示",
-   "alternatives": [],
+   "text": "展覧会",
+   "alternatives": [
+    "展示"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "てんじ",
-   "romanization": "tenji",
+   "reading": "てんらんかい",
+   "romanization": "tenrankai",
    "study_tier": "intermediário",
    "study_priority": 3284,
    "part_of_speech": "n",
@@ -166049,8 +166219,8 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "かん",
-   "romanization": "kan",
+   "reading": "みき",
+   "romanization": "miki",
    "study_tier": "intermediário",
    "study_priority": 3291,
    "part_of_speech": "n",
@@ -166117,12 +166287,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An oily substance in food and the body.",
-   "text": "脂質",
-   "alternatives": [],
+   "text": "脂肪",
+   "alternatives": [
+    "脂質"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "ししつ",
-   "romanization": "shishitsu",
+   "reading": "しぼう",
+   "romanization": "shibou",
    "study_tier": "intermediário",
    "study_priority": 3294,
    "part_of_speech": "n",
@@ -166237,15 +166409,15 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Giving help and support to others.",
-   "text": "連帯感のある",
+   "text": "協力的な",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "れんたいかんのある",
-   "romanization": "rentaikannoaru",
+   "reading": "きょうりょくてきな",
+   "romanization": "kyouryokutekina",
    "study_tier": "intermediário",
    "study_priority": 3299,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "人を助け、力になろうとする。",
    "novrev_status": "reviewed",
@@ -166285,12 +166457,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Wanting to know or learn.",
-   "text": "好奇心旺盛",
+   "text": "好奇心旺盛な",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "こうきしんおうせい",
-   "romanization": "koukishin'ousei",
+   "reading": "こうきしんおうせいな",
+   "romanization": "koukishin'ouseina",
    "study_tier": "intermediário",
    "study_priority": 3301,
    "part_of_speech": "adj",

@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.4.8",
+ "version": "2.4.9",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -37,7 +37,8 @@
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
-  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -4166,7 +4167,7 @@
    "region_tags": [],
    "source_status": "editorial-reviewed",
    "lemma": "use",
-   "part_of_speech": "adj",
+   "part_of_speech": "v",
    "lexical_type": "construction",
    "components": [
     {
@@ -24477,7 +24478,7 @@
    "english_id": "en:000001096",
    "text": "studies",
    "kind": "form",
-   "description_en": "Third-person singular present form of study; also the plural of study.",
+   "description_en": "The plural of study: learning or research.",
    "level": "A2",
    "region_tags": [],
    "source_status": "editorial-reviewed",
@@ -24493,10 +24494,10 @@
    "study_tier": "herdado",
    "study_priority": 2754,
    "user_hint": "",
-   "description": "Third-person singular present form of study; also the plural of study.",
+   "description": "The plural of study: learning or research.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Third-person singular present form of study; also the plural of study."
+    "en": "The plural of study: learning or research."
    },
    "antonyms": []
   },
@@ -56030,7 +56031,7 @@
     "travel_navigation"
    ],
    "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1929,
@@ -56760,7 +56761,8 @@
    "user_hint": "",
    "description": "A man, in informal British and Australian English.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003021",
@@ -56807,7 +56809,8 @@
    "nativeExplain": {
     "en": "Chat abbreviation: \"be right back\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003047",
@@ -56973,7 +56976,8 @@
    "nativeExplain": {
     "en": "British: very pleased."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003044",
@@ -57021,7 +57025,8 @@
    "user_hint": "",
    "description": "A cup of tea, in informal British and some other varieties of English.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003081",
@@ -57069,7 +57074,8 @@
    "nativeExplain": {
     "en": "British: not trustworthy; suspicious."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003058",
@@ -57092,7 +57098,8 @@
    "nativeExplain": {
     "en": "British: to waste time doing unimportant things."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003040",
@@ -57310,7 +57317,8 @@
    "nativeExplain": {
     "en": "British: very disappointed."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003013",
@@ -57359,7 +57367,8 @@
    "nativeExplain": {
     "en": "Angry because you are hungry."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003004",
@@ -57429,7 +57438,8 @@
    "nativeExplain": {
     "en": "Openly; very much (opposite of low-key)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003045",
@@ -57500,7 +57510,8 @@
    "nativeExplain": {
     "en": "Chat abbreviation: \"I don't know\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003064",
@@ -57528,7 +57539,8 @@
    "nativeExplain": {
     "en": "British: \"isn't it?\" (at the end of a sentence)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003056",
@@ -57551,7 +57563,8 @@
    "nativeExplain": {
     "en": "British: very tired."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003033",
@@ -57575,7 +57588,8 @@
    "nativeExplain": {
     "en": "Real; really good."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003035",
@@ -57599,7 +57613,8 @@
    "nativeExplain": {
     "en": "Very exciting and fun."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003007",
@@ -57622,7 +57637,8 @@
    "nativeExplain": {
     "en": "British: toilet."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003028",
@@ -57645,7 +57661,8 @@
    "nativeExplain": {
     "en": "Quietly; a little (secretly)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003067",
@@ -57882,7 +57899,8 @@
    "nativeExplain": {
     "en": "British: a pound (money)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003061",
@@ -57928,7 +57946,8 @@
    "nativeExplain": {
     "en": "Annoyed or bitter about something."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003057",
@@ -57951,7 +57970,8 @@
    "nativeExplain": {
     "en": "British: having no money."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003075",
@@ -57997,7 +58017,8 @@
    "nativeExplain": {
     "en": "To tell gossip."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003036",
@@ -58113,7 +58134,8 @@
    "nativeExplain": {
     "en": "London's underground train."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003079",
@@ -61344,7 +61366,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3321,
-   "part_of_speech": "n",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "One after another without a break (three days in a row).",
    "novrev_status": "reviewed",
@@ -61388,7 +61410,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3331,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "Past form of look: turned the eyes toward something.",
    "novrev_status": "reviewed",
@@ -63884,7 +63906,8 @@
     "en": "The elevated train system of Chicago."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003077",
@@ -63975,7 +63998,8 @@
     "en": "You, addressing more than one person (Pittsburgh)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003087",
@@ -63997,7 +64021,8 @@
     "en": "The 405 freeway in Los Angeles."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003088",
@@ -75733,7 +75758,8 @@
     "en": "The largest hot desert, in North Africa."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003739",
@@ -75755,7 +75781,8 @@
     "en": "The highest mountain range, in Asia."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003740",
@@ -75777,7 +75804,8 @@
     "en": "The highest mountain in the world."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003741",
@@ -75799,7 +75827,8 @@
     "en": "The great river of Egypt."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003742",
@@ -75821,7 +75850,8 @@
     "en": "The longest river in China."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003743",
@@ -75843,7 +75873,8 @@
     "en": "A great river of the United States."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003744",
@@ -75865,7 +75896,8 @@
     "en": "The great river of South America."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003745",
@@ -75887,7 +75919,8 @@
     "en": "The highest mountain in Japan."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003746",
@@ -75909,7 +75942,8 @@
     "en": "The large statue of Christ over Rio de Janeiro."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003747",
@@ -75931,7 +75965,8 @@
     "en": "The ancient wall across northern China."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003748",
@@ -75953,7 +75988,8 @@
     "en": "The iron tower in Paris."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003749",
@@ -75975,7 +76011,8 @@
     "en": "The statue at the entrance of New York harbor."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003750",
@@ -75997,7 +76034,8 @@
     "en": "The ancient pyramids near Cairo."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003751",
@@ -76019,7 +76057,8 @@
     "en": "The ancient amphitheater in Rome."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003752",
@@ -76041,7 +76080,8 @@
     "en": "The white marble monument in Agra, India."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003753",
@@ -76063,7 +76103,8 @@
     "en": "The Inca city in the mountains of Peru."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003754",
@@ -76151,7 +76192,8 @@
     "en": "The United Nations organization for education, science and culture."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003758",
@@ -76247,7 +76289,7 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A person who designs clothes.",
-   "text": "stylist",
+   "text": "fashion designer",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -79757,7 +79799,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2274,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Approximately; about.",
    "novrev_status": "reviewed",
@@ -79801,7 +79843,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2276,
-   "part_of_speech": "adj",
+   "part_of_speech": "conj",
    "user_hint": "",
    "description": "Because; given that.",
    "novrev_status": "reviewed",
@@ -81967,7 +82009,8 @@
     "en": "A US coin worth 25 cents."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000004023",
@@ -84595,7 +84638,8 @@
     "en": "The Amazon rainforest region."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000004142",
@@ -84963,7 +85007,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
    "study_priority": 3299,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "Giving help and support to others.",
    "novrev_status": "reviewed",

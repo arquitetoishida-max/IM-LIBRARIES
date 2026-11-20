@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.8",
+ "version": "2.4.9",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -37,7 +37,8 @@
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
-  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
  ],
  "entries": [
   {
@@ -4326,13 +4327,11 @@
    "kind": "word",
    "description_en": "\"Used to\": did regularly in the past; also not new.",
    "level": "A1",
-   "part_of_speech": "adj",
+   "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "costumava",
-   "alternatives": [
-    "antes eu"
-   ],
+   "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2483,
    "user_hint": "",
@@ -6289,9 +6288,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "pensamento",
-   "alternatives": [
-    "pensou"
-   ],
+   "alternatives": [],
    "study_priority": 100226,
    "user_hint": "",
    "description": "Uma ideia ou opinião na mente.",
@@ -7778,10 +7775,10 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "mesmo assim",
+   "text": "embora",
    "alternatives": [
-    "embora",
-    "mas"
+    "mas",
+    "mesmo assim"
    ],
    "study_priority": 100288,
    "description": "Embora; também \"mas\" no fim da frase.",
@@ -15687,10 +15684,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 191,
    "user_hint": "",
-   "description": "Ocorrer; tomar lugar.",
+   "description": "Ocorrer; dar-se.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ocorrer; tomar lugar."
+    "pt-BR": "Ocorrer; dar-se."
    },
    "antonyms": []
   },
@@ -15871,7 +15868,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "voltar",
    "alternatives": [
-    "devolver"
+    "retornar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 195,
@@ -16448,10 +16445,8 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "ido",
-   "alternatives": [
-    "foi embora"
-   ],
+   "text": "foi embora",
+   "alternatives": [],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2634,
    "user_hint": "",
@@ -16778,10 +16773,10 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2643,
    "user_hint": "",
-   "description": "Seguro; também \"certo pessoa\" = uma em particular.",
+   "description": "Seguro; também \"certa pessoa\" = uma em particular.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Seguro; também \"certo pessoa\" = uma em particular."
+    "pt-BR": "Seguro; também \"certa pessoa\" = uma em particular."
    },
    "antonyms": []
   },
@@ -20225,8 +20220,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "capa",
    "alternatives": [
-    "tampa",
-    "cobrir"
+    "tampa"
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2694,
@@ -20937,11 +20931,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 277,
-   "description": "Filha do sexo feminino de um pai ou mãe.",
+   "description": "Criança do sexo feminino, em relação aos pais.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Filha do sexo feminino de um pai ou mãe."
+    "pt-BR": "Criança do sexo feminino, em relação aos pais."
    },
    "antonyms": [
     "en:000000514"
@@ -25693,10 +25687,10 @@
    "study_tier": "herdado",
    "study_priority": 2754,
    "user_hint": "",
-   "description": "Plural de \"study\"; também a forma de terceira pessoa de \"study\".",
+   "description": "Plural de \"study\": estudos ou pesquisas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"study\"; também a forma de terceira pessoa de \"study\"."
+    "pt-BR": "Plural de \"study\": estudos ou pesquisas."
    },
    "antonyms": []
   },
@@ -28422,7 +28416,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "dinheiro em espécie",
    "alternatives": [
-    "à vista"
+    "dinheiro vivo"
    ],
    "study_tier": "cedo",
    "study_priority": 1253,
@@ -31424,7 +31418,7 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "droga (substância)",
+   "text": "droga",
    "alternatives": [
     "remédio"
    ],
@@ -31572,16 +31566,14 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "massa",
-   "alternatives": [
-    "missa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1320,
    "user_hint": "",
-   "description": "Grande quantidade de matéria; também a missa.",
+   "description": "Grande quantidade de matéria; também a quantidade de matéria que um corpo tem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Grande quantidade de matéria; também a missa."
+    "pt-BR": "Grande quantidade de matéria; também a quantidade de matéria que um corpo tem."
    },
    "antonyms": []
   },
@@ -32270,7 +32262,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "localizado",
    "alternatives": [
-    "fica"
+    "situado"
    ],
    "study_tier": "herdado",
    "study_priority": 2814,
@@ -34766,7 +34758,7 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "fundo (de dinheiro)",
+   "text": "fundo",
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2840,
@@ -34993,11 +34985,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "rosa (flor)",
-   "alternatives": [
-    "rosa",
-    "subiu"
-   ],
+   "text": "rosa",
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1388,
    "user_hint": "",
@@ -35197,7 +35186,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "candidatar-se",
    "alternatives": [
-    "aplicar"
+    "inscrever-se"
    ],
    "study_tier": "cedo",
    "study_priority": 1392,
@@ -35762,7 +35751,7 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "presidente (de reunião)",
+   "text": "presidente",
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2847,
@@ -36706,10 +36695,8 @@
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "até que",
-   "alternatives": [
-    "até"
-   ],
+   "text": "até",
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1423,
    "user_hint": "",
@@ -37221,13 +37208,13 @@
    "study_tier": "inicial",
    "study_priority": 454,
    "user_hint": "",
-   "description": "Fechar.",
+   "description": "Fazer algo deixar de estar aberto.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000303"
    ],
    "nativeExplain": {
-    "pt-BR": "Fechar."
+    "pt-BR": "Fazer algo deixar de estar aberto."
    }
   },
   {
@@ -37575,7 +37562,7 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "diário (caderno)",
+   "text": "diário",
    "alternatives": [
     "revista"
    ],
@@ -40865,7 +40852,7 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "plano (liso)",
+   "text": "plano",
    "alternatives": [
     "liso"
    ],
@@ -40928,11 +40915,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 488,
-   "description": "Cumprimento para dizer olá.",
+   "description": "Cumprimento usado ao encontrar alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Cumprimento para dizer olá."
+    "pt-BR": "Cumprimento usado ao encontrar alguém."
    },
    "antonyms": []
   },
@@ -41250,7 +41237,7 @@
     "quantities"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "um quarto (1/4)",
+   "text": "um quarto",
    "alternatives": [
     "quarta parte"
    ],
@@ -43318,8 +43305,10 @@
    "part_of_speech": "abbr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "da tarde (p.m.)",
-   "alternatives": [],
+   "text": "da tarde",
+   "alternatives": [
+    "da noite"
+   ],
    "study_tier": "cedo",
    "study_priority": 1569,
    "user_hint": "",
@@ -44952,9 +44941,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sapatos",
-   "alternatives": [
-    "tênis"
-   ],
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2934,
    "description": "Calçados para os pés (mais de um).",
@@ -45639,7 +45626,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "apresentar-se",
    "alternatives": [
-    "fazer"
+    "atuar"
    ],
    "study_tier": "cedo",
    "study_priority": 1616,
@@ -46115,9 +46102,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "falso",
-   "alternatives": [
-    "fake"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1627,
    "user_hint": "",
@@ -46359,9 +46344,9 @@
     "household_problems"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "quieto",
+   "text": "silencioso",
    "alternatives": [
-    "silencioso"
+    "tranquilo"
    ],
    "study_tier": "inicial",
    "study_priority": 543,
@@ -48049,9 +48034,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "romance",
-   "alternatives": [
-    "novela"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1657,
    "description": "História longa escrita em livro.",
@@ -48180,10 +48163,10 @@
    "study_tier": "inicial",
    "study_priority": 557,
    "user_hint": "",
-   "description": "Que não é rápido.",
+   "description": "De modo lento, sem pressa.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que não é rápido."
+    "pt-BR": "De modo lento, sem pressa."
    },
    "antonyms": [
     "en:000001060"
@@ -49697,9 +49680,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "solo",
-   "alternatives": [
-    "sozinho"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1701,
    "user_hint": "",
@@ -50866,17 +50847,18 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "curtiu",
+   "text": "aproveitou",
    "alternatives": [
-    "aproveitou"
+    "curtiu",
+    "gostou"
    ],
    "study_tier": "herdado",
    "study_priority": 2992,
    "user_hint": "",
-   "description": "Passado do verbo \"enjoy\": curtir.",
+   "description": "Passado do verbo \"enjoy\": aproveitar, gostar de.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"enjoy\": curtir."
+    "pt-BR": "Passado do verbo \"enjoy\": aproveitar, gostar de."
    },
    "antonyms": []
   },
@@ -50912,9 +50894,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "a galera",
+   "text": "pessoal",
    "alternatives": [
-    "pessoal",
+    "galera",
     "família"
    ],
    "study_tier": "temático",
@@ -51125,7 +51107,7 @@
     "shopping"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "registrar",
+   "text": "cadastrar-se",
    "alternatives": [
     "inscrever-se"
    ],
@@ -52512,9 +52494,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "pista",
+   "text": "faixa",
    "alternatives": [
-    "faixa",
     "ruela"
    ],
    "study_tier": "cedo",
@@ -53483,9 +53464,9 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "pretexto",
+   "text": "desculpa",
    "alternatives": [
-    "desculpa",
+    "pretexto",
     "justificativa"
    ],
    "study_tier": "pendente",
@@ -58215,9 +58196,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alimentou",
-   "alternatives": [
-    "de saco cheio"
-   ],
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3063,
    "user_hint": "",
@@ -59075,10 +59054,10 @@
    "study_tier": "herdado",
    "study_priority": 3073,
    "user_hint": "",
-   "description": "Passado de \"found\" (criar uma organização): \"The school was founded in 1990\".",
+   "description": "Passado de \"found\" (criar uma organização): \"The school was founded in 1900\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado de \"found\" (criar uma organização): \"The school was founded in 1990\"."
+    "pt-BR": "Passado de \"found\" (criar uma organização): \"The school was founded in 1900\"."
    },
    "antonyms": []
   },
@@ -59183,7 +59162,7 @@
    "kind": "word",
    "description_en": "To raise something up; a free ride in a car.",
    "level": "C2",
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "vcu14_rank": 531,
@@ -59195,8 +59174,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "levantar",
    "alternatives": [
-    "erguer",
-    "carona"
+    "erguer"
    ],
    "study_tier": "cedo",
    "study_priority": 1929,
@@ -59536,9 +59514,9 @@
     "routine"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "chuveiro",
+   "text": "banho",
    "alternatives": [
-    "banho"
+    "chuveiro"
    ],
    "study_tier": "inicial",
    "study_priority": 634,
@@ -59943,7 +59921,8 @@
    "nativeExplain": {
     "pt-BR": "Um homem, no inglês informal britânico e australiano."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003021",
@@ -59990,7 +59969,8 @@
    "nativeExplain": {
     "pt-BR": "Abreviação de chat: \"be right back\" (já volto)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003047",
@@ -60051,9 +60031,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "dólares",
-   "alternatives": [
-    "conto (dinheiro)"
-   ],
+   "alternatives": [],
    "study_tier": "temático (Slang)",
    "study_priority": 3660,
    "user_hint": "",
@@ -60158,7 +60136,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: muito contente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003044",
@@ -60202,7 +60181,8 @@
    "nativeExplain": {
     "pt-BR": "Uma xícara de chá, no inglês britânico informal."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003081",
@@ -60251,7 +60231,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: que não é confiável; suspeito."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003058",
@@ -60273,7 +60254,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: perder tempo com coisas sem importância."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003040",
@@ -60486,7 +60468,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: muito decepcionado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003013",
@@ -60532,7 +60515,8 @@
    "nativeExplain": {
     "pt-BR": "Irritado porque está com fome."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003004",
@@ -60604,7 +60588,8 @@
    "nativeExplain": {
     "pt-BR": "Abertamente; muito (o oposto de low-key)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003045",
@@ -60675,7 +60660,8 @@
    "nativeExplain": {
     "pt-BR": "Abreviação de chat: \"I don't know\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003064",
@@ -60697,7 +60683,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: \"isn't it?\" no fim da frase."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003056",
@@ -60721,7 +60708,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: muito cansado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003033",
@@ -60745,7 +60733,8 @@
    "nativeExplain": {
     "pt-BR": "Real; muito bom."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003035",
@@ -60767,7 +60756,8 @@
    "nativeExplain": {
     "pt-BR": "Muito animado e divertido."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003007",
@@ -60789,7 +60779,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: banheiro."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003028",
@@ -60813,7 +60804,8 @@
    "nativeExplain": {
     "pt-BR": "Em silêncio; um pouco (em segredo)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003067",
@@ -60965,9 +60957,10 @@
    "part_of_speech": "exp",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "de boa",
+   "text": "sem problema",
    "alternatives": [
-    "sem problema"
+    "de boa",
+    "tranquilo"
    ],
    "study_tier": "temático (Slang)",
    "study_priority": 3667,
@@ -61045,7 +61038,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: uma libra (dinheiro)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003061",
@@ -61093,7 +61087,8 @@
    "nativeExplain": {
     "pt-BR": "Chateado ou amargurado com algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003057",
@@ -61117,7 +61112,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: sem dinheiro."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003075",
@@ -61161,7 +61157,8 @@
    "nativeExplain": {
     "pt-BR": "Contar fofocas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003036",
@@ -61274,7 +61271,8 @@
    "nativeExplain": {
     "pt-BR": "O metrô de Londres."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003079",
@@ -62905,9 +62903,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esfregão",
-   "alternatives": [
-    "rodo"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1979,
    "description": "Ferramenta de cabo comprido para limpar o chão.",
@@ -64462,7 +64458,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3321,
-   "part_of_speech": "n",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Um depois do outro, sem pausa (três dias seguidos).",
    "novrev_status": "reviewed",
@@ -64506,7 +64502,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3331,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "Passado de \"look\": voltou os olhos para algo.",
    "novrev_status": "reviewed",
@@ -64918,8 +64914,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A person who holds a position of authority, especially in government.",
-   "text": "funcionário",
-   "alternatives": [],
+   "text": "funcionário público",
+   "alternatives": [
+    "autoridade"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
@@ -66086,18 +66084,20 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Making the sounds that show something is funny.",
-   "text": "rindo",
-   "alternatives": [],
+   "text": "risada",
+   "alternatives": [
+    "riso"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3566,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Fazer os sons que mostram que algo é engraçado.",
+   "description": "O ato de rir; os sons de quem acha algo engraçado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Fazer os sons que mostram que algo é engraçado."
+    "pt-BR": "O ato de rir; os sons de quem acha algo engraçado."
    },
    "level": "B1",
    "antonyms": []
@@ -66284,8 +66284,10 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A large amount or number.",
-   "text": "monte",
-   "alternatives": [],
+   "text": "um monte",
+   "alternatives": [
+    "muito"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
@@ -67004,7 +67006,8 @@
     "pt-BR": "O trem elevado de Chicago."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003077",
@@ -67095,7 +67098,8 @@
     "pt-BR": "\"Vocês\", para várias pessoas (Pittsburgh)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003087",
@@ -67117,7 +67121,8 @@
     "pt-BR": "A rodovia 405 de Los Angeles."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003088",
@@ -72851,10 +72856,10 @@
    "study_priority": 2076,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Prancha com rodas usada para deslizar.",
+   "description": "Andar sobre um skate.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Prancha com rodas usada para deslizar."
+    "pt-BR": "Andar sobre um skate."
    },
    "level": "A2",
    "antonyms": []
@@ -73615,8 +73620,10 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To do what the rules say.",
-   "text": "cumprir regra",
-   "alternatives": [],
+   "text": "seguir as regras",
+   "alternatives": [
+    "cumprir as regras"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -73659,7 +73666,7 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To tell a grown-up when something is wrong.",
-   "text": "avisar o adulto",
+   "text": "avisar um adulto",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -75331,7 +75338,7 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "The festival of the lunar New Year.",
-   "text": "ano novo chinês",
+   "text": "Ano Novo Chinês",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -79107,7 +79114,8 @@
     "pt-BR": "O maior deserto quente, no norte da África."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003739",
@@ -79129,7 +79137,8 @@
     "pt-BR": "A cordilheira mais alta, na Ásia."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003740",
@@ -79151,7 +79160,8 @@
     "pt-BR": "A montanha mais alta do mundo."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003741",
@@ -79173,7 +79183,8 @@
     "pt-BR": "O grande rio do Egito."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003742",
@@ -79195,7 +79206,8 @@
     "pt-BR": "O rio mais longo da China."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003743",
@@ -79217,7 +79229,8 @@
     "pt-BR": "Um grande rio dos Estados Unidos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003744",
@@ -79239,7 +79252,8 @@
     "pt-BR": "O grande rio da América do Sul."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003745",
@@ -79261,7 +79275,8 @@
     "pt-BR": "A montanha mais alta do Japão."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003746",
@@ -79283,7 +79298,8 @@
     "pt-BR": "A grande estátua de Cristo sobre o Rio de Janeiro."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003747",
@@ -79305,7 +79321,8 @@
     "pt-BR": "A antiga muralha no norte da China."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003748",
@@ -79327,7 +79344,8 @@
     "pt-BR": "A torre de ferro de Paris."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003749",
@@ -79349,7 +79367,8 @@
     "pt-BR": "A estátua na entrada do porto de Nova York."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003750",
@@ -79371,7 +79390,8 @@
     "pt-BR": "As antigas pirâmides perto do Cairo."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003751",
@@ -79393,7 +79413,8 @@
     "pt-BR": "O antigo anfiteatro de Roma."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003752",
@@ -79415,7 +79436,8 @@
     "pt-BR": "O monumento de mármore branco em Agra, na Índia."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003753",
@@ -79437,7 +79459,8 @@
     "pt-BR": "A cidade inca nas montanhas do Peru."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003754",
@@ -79525,7 +79548,8 @@
     "pt-BR": "Organização da ONU para educação, ciência e cultura."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003758",
@@ -81279,8 +81303,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Farm animals raised for food.",
-   "text": "pecuária",
-   "alternatives": [],
+   "text": "gado",
+   "alternatives": [
+    "rebanho"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -83128,7 +83154,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2274,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Aproximadamente; cerca de.",
    "novrev_status": "reviewed",
@@ -83172,7 +83198,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2276,
-   "part_of_speech": "adj",
+   "part_of_speech": "conj",
    "user_hint": "",
    "description": "Porque; dado que.",
    "novrev_status": "reviewed",
@@ -84576,8 +84602,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "To cultivate plants.",
-   "text": "plantar",
-   "alternatives": [],
+   "text": "cultivar",
+   "alternatives": [
+    "plantar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -85338,7 +85366,8 @@
     "pt-BR": "Moeda americana que vale 25 centavos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004023",
@@ -86424,8 +86453,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Clothes worn next to the skin under other clothes.",
-   "text": "cueca",
-   "alternatives": [],
+   "text": "roupa íntima",
+   "alternatives": [
+    "roupa de baixo"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -86468,8 +86499,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A small jumping animal that lives near water.",
-   "text": "sapo",
-   "alternatives": [],
+   "text": "rã",
+   "alternatives": [
+    "sapo"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -87246,8 +87279,10 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "An answer that is right.",
-   "text": "acerto",
-   "alternatives": [],
+   "text": "resposta certa",
+   "alternatives": [
+    "acerto"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -87966,7 +88001,8 @@
     "pt-BR": "A região da floresta amazônica."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004142",
@@ -88334,7 +88370,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
    "study_priority": 3299,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "Que dá ajuda e apoio aos outros.",
    "novrev_status": "reviewed",
