@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "88c7913038deeb5d9b950ed59188e8f07be8984bce21acb7229d0384e216235c",
-      "version": "2.4.4",
-      "size_bytes": 2121529
+      "sha256": "161f9da1491d66427b836972589113e40f3f15049c5110edf25d9202b12ea003",
+      "version": "2.4.5",
+      "size_bytes": 2210859
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "955c52b9a8c4694923d5de146b78348e08a76cb20095fa8f8f6168489a69ef3b",
-      "version": "2.4.4",
-      "size_bytes": 2306769
+      "sha256": "e22ed2e1a1da45ef87f9c5044e52373338c515d386485fb372a927f39e04e80c",
+      "version": "2.4.5",
+      "size_bytes": 2396315
     },
     {
       "id": "pt-PT-core-v2",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "2366864cc0fe062d989057345cb4fd7636f2f22ac597feab1e9e86eb7f28438c",
-      "version": "2.4.4",
-      "size_bytes": 4522421
+      "sha256": "03b34b1d51e6d1e8b5a8ebe5008de3e04651790a56be64fd0974b083ecb2a731",
+      "version": "2.4.5",
+      "size_bytes": 4611751
     },
     {
       "id": "es-core-v2",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "43ef3725ab00183f711323d2d49e4a5f70cecdffac23f2b1508a0b64b8d2ce86",
-      "version": "2.4.4",
-      "size_bytes": 2744811
+      "sha256": "c3e4d00f77d2400b9f47d2426675c560507857a3105f542b9380b4257378c4ca",
+      "version": "2.4.5",
+      "size_bytes": 2834288
     },
     {
       "id": "ko-core-v2",
@@ -1022,6 +1022,7 @@
     "1.4.1: ja-core 2.4.1 — alternativas incorretas removidas.",
     "1.4.2: core 2.4.2 — nativeExplain com descrição nativa nos 4 idiomas.",
     "1.4.3: core 2.4.3 — 100% das entradas com descrição no próprio idioma.",
-    "1.4.4: core 2.4.4 — conferência T1 (mesmo significado nos 4 idiomas)."
+    "1.4.4: core 2.4.4 — conferência T1 (mesmo significado nos 4 idiomas).",
+    "1.4.5: core 2.4.5 — níveis 100% e antônimos ampliados."
   ]
 }
