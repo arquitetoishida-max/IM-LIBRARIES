@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.6",
+ "version": "2.4.7",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -35,7 +35,8 @@
   "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
-  "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh)."
+  "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
+  "2.4.7: zh 叫 = chamar-se (named); latir = 吠."
  ],
  "entries": [
   {
@@ -35093,12 +35094,13 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "名叫",
+   "text": "叫",
    "alternatives": [
+    "名叫",
     "叫做"
    ],
-   "reading": "míng jiào",
-   "romanization": "míng jiào",
+   "reading": "jiào",
+   "romanization": "jiào",
    "study_tier": "herdado",
    "study_priority": 2766,
    "user_hint": "",
@@ -107189,12 +107191,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "To make the sound a dog makes.",
-   "text": "叫",
-   "alternatives": [],
+   "text": "吠",
+   "alternatives": [
+    "汪汪叫"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "jiào",
-   "romanization": "jiào",
+   "reading": "fèi",
+   "romanization": "fèi",
    "study_tier": "cedo",
    "study_priority": 2422,
    "part_of_speech": "v",
