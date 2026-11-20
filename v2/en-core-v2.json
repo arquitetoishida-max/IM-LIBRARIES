@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.4.9",
+ "version": "2.5.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -38,7 +38,8 @@
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
-  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -9111,7 +9112,8 @@
    "nativeExplain": {
     "en": "\"Guys\": a group of people (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000360",
@@ -9384,7 +9386,8 @@
    "nativeExplain": {
     "en": "Present participle of come, as in she is coming."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000000370",
@@ -9472,7 +9475,8 @@
    "user_hint": "",
    "description": "A man (informal).",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000375",
@@ -12141,7 +12145,8 @@
    "nativeExplain": {
     "en": "Informal \"going to\" (future)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000494",
@@ -14885,7 +14890,8 @@
    "nativeExplain": {
     "en": "Short for \"what is\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000624",
@@ -15636,7 +15642,8 @@
    "nativeExplain": {
     "en": "Short for \"would not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000663",
@@ -17604,7 +17611,8 @@
    "nativeExplain": {
     "en": "Short for \"you have\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000756",
@@ -17964,7 +17972,7 @@
    "english_id": "en:000000775",
    "text": "cannot",
    "kind": "word",
-   "description_en": "Can not.",
+   "description_en": "Is not able to; is not allowed to.",
    "level": "A2",
    "region_tags": [],
    "source_status": "editorial-reviewed",
@@ -17997,12 +18005,12 @@
    "usage_note": "written as one word",
    "nativeExplain": {
     "pt-BR": "escrito junto",
-    "en": "Can not."
+    "en": "Is not able to; is not allowed to."
    },
    "study_tier": "herdado",
    "study_priority": 2662,
    "user_hint": "",
-   "description": "Can not.",
+   "description": "Is not able to; is not allowed to.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -18173,7 +18181,8 @@
    "nativeExplain": {
     "en": "Short for \"have not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000783",
@@ -18889,7 +18898,8 @@
    "nativeExplain": {
     "en": "Short for \"could not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000817",
@@ -20236,7 +20246,8 @@
    "nativeExplain": {
     "en": "\"The ones\" = those people or things."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000881",
@@ -20696,7 +20707,8 @@
    "nativeExplain": {
     "en": "Polite way to address a man."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000000905",
@@ -20804,7 +20816,8 @@
    "nativeExplain": {
     "en": "Short for \"are not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000911",
@@ -21613,7 +21626,8 @@
    "nativeExplain": {
     "en": "Short for \"we have\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000000953",
@@ -23665,7 +23679,8 @@
    "nativeExplain": {
     "en": "The plural of mile."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001057",
@@ -28990,7 +29005,8 @@
    "user_hint": "",
    "description": "Title before a married woman's name.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001339",
@@ -29103,7 +29119,8 @@
    "nativeExplain": {
     "en": "Short for \"we will\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001345",
@@ -29538,19 +29555,19 @@
    "english_id": "en:000001364",
    "text": "lots",
    "kind": "word",
-   "description_en": "\"Lots\" = a lot; many.",
+   "description_en": "A large number or amount.",
    "level": "B1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "informal",
-    "en": "\"Lots\" = a lot; many."
+    "en": "A large number or amount."
    },
    "study_tier": "inicial",
    "study_priority": 394,
    "user_hint": "",
-   "description": "\"Lots\" = a lot; many.",
+   "description": "A large number or amount.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -31585,7 +31602,8 @@
    "nativeExplain": {
     "en": "Short for \"who is\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001478",
@@ -31611,7 +31629,8 @@
    "description": "Formal \"who\" as an object.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001479",
@@ -32823,7 +32842,8 @@
    "nativeExplain": {
     "en": "Short for \"you would\" or \"you had\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001552",
@@ -33119,7 +33139,7 @@
    "english_id": "en:000001566",
    "text": "hearing",
    "kind": "word",
-   "description_en": "The sense of hearing.",
+   "description_en": "The ability to perceive sounds.",
    "level": "B1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
@@ -33127,10 +33147,10 @@
    "study_tier": "cedo",
    "study_priority": 1385,
    "user_hint": "",
-   "description": "The sense of hearing.",
+   "description": "The ability to perceive sounds.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The sense of hearing."
+    "en": "The ability to perceive sounds."
    },
    "antonyms": []
   },
@@ -33376,7 +33396,8 @@
    "nativeExplain": {
     "en": "Short for \"should not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001583",
@@ -35914,7 +35935,7 @@
    "english_id": "en:000001736",
    "text": "rare",
    "kind": "word",
-   "description_en": "Not common; also meat cooked only a little.",
+   "description_en": "Not common; seldom found.",
    "level": "B1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
@@ -35923,10 +35944,10 @@
    "study_tier": "cedo",
    "study_priority": 1454,
    "user_hint": "",
-   "description": "Not common; also meat cooked only a little.",
+   "description": "Not common; seldom found.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not common; also meat cooked only a little."
+    "en": "Not common; seldom found."
    },
    "antonyms": []
   },
@@ -36029,7 +36050,7 @@
    "level": "B1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
-   "part_of_speech": "abbr",
+   "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 1458,
    "user_hint": "",
@@ -36521,7 +36542,8 @@
    "nativeExplain": {
     "en": "Short for \"they have\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001768",
@@ -39727,7 +39749,8 @@
    "nativeExplain": {
     "en": "Short for \"has not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001963",
@@ -40082,7 +40105,8 @@
    "nativeExplain": {
     "en": "Short for \"they will\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000001984",
@@ -40756,7 +40780,8 @@
    "user_hint": "",
    "description": "A lawyer.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002024",
@@ -41118,7 +41143,8 @@
    "nativeExplain": {
     "en": "After noon (3 p.m.)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002049",
@@ -43226,7 +43252,8 @@
    "user_hint": "",
    "description": "Maximum.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002185",
@@ -46949,7 +46976,8 @@
    "nativeExplain": {
     "en": "Short for \"identification\": a card showing who you are."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002411",
@@ -50580,7 +50608,7 @@
    "level": "C1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
+   "part_of_speech": "phr",
    "lexical_type": "construction",
    "study_tier": "cedo",
    "study_priority": 1790,
@@ -51851,7 +51879,8 @@
    "user_hint": "",
    "description": "A friend (British, Australian).",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002704",
@@ -53505,7 +53534,8 @@
    "user_hint": "",
    "description": "A personal computer.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002805",
@@ -56617,7 +56647,8 @@
    "nativeExplain": {
     "en": "Before Christ (dates)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003000",
@@ -56665,7 +56696,8 @@
    "nativeExplain": {
     "en": "An informal expression meaning I am very tired."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003073",
@@ -56834,7 +56866,8 @@
    "user_hint": "",
    "description": "An informal way to wish someone good luck before a performance.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003041",
@@ -56859,7 +56892,8 @@
    "nativeExplain": {
     "en": "Friendly way to call a male friend."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003001",
@@ -56882,7 +56916,8 @@
    "nativeExplain": {
     "en": "Dollars (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003091",
@@ -56929,7 +56964,8 @@
    "nativeExplain": {
     "en": "British: a little rude but in a funny way."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003008",
@@ -56953,7 +56989,8 @@
    "nativeExplain": {
     "en": "British: thanks; also said when toasting."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003020",
@@ -57000,7 +57037,8 @@
    "nativeExplain": {
     "en": "To sleep at someone's place for a night."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003055",
@@ -57201,7 +57239,8 @@
    "nativeExplain": {
     "en": "To show off."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003030",
@@ -57225,7 +57264,8 @@
    "nativeExplain": {
     "en": "To stop answering someone suddenly."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003049",
@@ -57733,7 +57773,8 @@
    "nativeExplain": {
     "en": "\"My mistake.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003050",
@@ -57780,7 +57821,8 @@
    "nativeExplain": {
     "en": "\"It's not a problem.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003038",
@@ -57923,7 +57965,8 @@
    "nativeExplain": {
     "en": "British: garbage; nonsense."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003032",
@@ -58065,7 +58108,8 @@
    "nativeExplain": {
     "en": "To politely say no now but maybe later."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003053",
@@ -58089,7 +58133,8 @@
    "nativeExplain": {
     "en": "British: food bought to eat at home."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003054",
@@ -58158,7 +58203,8 @@
    "nativeExplain": {
     "en": "An underground train system."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003048",
@@ -58206,7 +58252,8 @@
    "nativeExplain": {
     "en": "British: university."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003012",
@@ -59788,7 +59835,8 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "novrev_flag": "en-GB: 'pavement' britânico; duplicata de sidewalk (000003150)",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003147",
@@ -61122,16 +61170,17 @@
    "text": "football",
    "part_of_speech": "n",
    "level": "A2",
-   "description_en": "American football (the usual meaning in the US).",
+   "description_en": "A team sport played with an oval ball, mainly in the United States.",
    "study_tier": "cedo",
    "study_priority": 2012,
    "user_hint": "",
-   "description": "American football (the usual meaning in the US).",
+   "description": "A team sport played with an oval ball, mainly in the United States.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "American football (the usual meaning in the US)."
+    "en": "A team sport played with an oval ball, mainly in the United States."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003205",
@@ -62349,7 +62398,7 @@
    "english_id": "en:000001956",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Something to drink; the act of drinking.",
+   "description_en": "The act of drinking, especially alcohol.",
    "text": "drinking",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -62358,10 +62407,10 @@
    "study_priority": 3481,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Something to drink; the act of drinking.",
+   "description": "The act of drinking, especially alcohol.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Something to drink; the act of drinking."
+    "en": "The act of drinking, especially alcohol."
    },
    "level": "B1",
    "antonyms": []
@@ -63508,7 +63557,8 @@
     "en": "A member or supporter of the Democratic Party."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000002745",
@@ -63588,7 +63638,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3623,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "Asking yourself about something you want to know.",
    "novrev_status": "reviewed",
@@ -63838,7 +63888,8 @@
     "en": "A member or supporter of the Republican Party."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003065",
@@ -64067,7 +64118,8 @@
     "en": "A promise to accept an invitation at a later time."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003207",
@@ -64393,7 +64445,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 690,
-   "part_of_speech": "n",
+   "part_of_speech": "exp",
    "user_hint": "",
    "description": "Goodbye (informal).",
    "novrev_status": "reviewed",
@@ -66943,7 +66995,8 @@
     "en": "To dance forró, a Brazilian couple dance."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003338",
@@ -67449,7 +67502,8 @@
     "en": "A small dark purple palm fruit from Brazil."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003361",
@@ -69219,7 +69273,8 @@
     "en": "A board game played with round pieces on a checkered board."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003441",
@@ -71010,7 +71065,7 @@
    "english_id": "en:000003522",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A tall tropical plant with hollow woody stems.",
+   "description_en": "A tall plant with hollow woody stems.",
    "text": "bamboo",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -71019,10 +71074,10 @@
    "study_priority": 2118,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A tall tropical plant with hollow woody stems.",
+   "description": "A tall plant with hollow woody stems.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A tall tropical plant with hollow woody stems."
+    "en": "A tall plant with hollow woody stems."
    },
    "level": "B1",
    "antonyms": []
@@ -72016,7 +72071,8 @@
     "en": "A traditional outdoor festival in summer (Japan)."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003568",
@@ -72705,7 +72761,7 @@
    "english_id": "en:000003599",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "An image seen in a mirror or water.",
+   "description_en": "An image seen in a mirror or water, or light bouncing back.",
    "text": "reflection",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -72714,10 +72770,10 @@
    "study_priority": 3142,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "An image seen in a mirror or water.",
+   "description": "An image seen in a mirror or water, or light bouncing back.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "An image seen in a mirror or water."
+    "en": "An image seen in a mirror or water, or light bouncing back."
    },
    "level": "B2",
    "antonyms": []
@@ -73095,7 +73151,8 @@
     "en": "A scale that measures how acid or basic a substance is."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003617",
@@ -73491,7 +73548,8 @@
     "en": "When the sun or moon is hidden by a shadow."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000003635",
@@ -73975,7 +74033,8 @@
     "en": "The civilization of Rome in ancient times."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003657",
@@ -73997,7 +74056,8 @@
     "en": "The civilization of Greece in ancient times."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003658",
@@ -74019,7 +74079,8 @@
     "en": "China in ancient times."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003659",
@@ -74041,7 +74102,8 @@
     "en": "Japan in ancient times."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003660",
@@ -75054,7 +75116,8 @@
     "en": "The continent around the South Pole."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003707",
@@ -75259,7 +75322,7 @@
    "english_id": "en:000003716",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A season of heavy rain in South Asia.",
+   "description_en": "A seasonal wind that brings heavy rain to South Asia.",
    "text": "monsoon",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -75268,10 +75331,10 @@
    "study_priority": 3191,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A season of heavy rain in South Asia.",
+   "description": "A seasonal wind that brings heavy rain to South Asia.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A season of heavy rain in South Asia."
+    "en": "A seasonal wind that brings heavy rain to South Asia."
    },
    "level": "B2",
    "antonyms": []
@@ -78162,7 +78225,8 @@
     "en": "A genetically modified organism."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003847",
@@ -79100,7 +79164,8 @@
     "en": "A non-governmental organization."
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003889",
@@ -79645,7 +79710,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 900,
-   "part_of_speech": "n",
+   "part_of_speech": "pron",
    "user_hint": "",
    "description": "The speaker referring to themselves (subject).",
    "novrev_status": "reviewed",
@@ -79755,7 +79820,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2272,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "The most recent one before now (last week).",
    "novrev_status": "reviewed",
@@ -79865,7 +79930,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2277,
-   "part_of_speech": "adj",
+   "part_of_speech": "prep",
    "user_hint": "",
    "description": "Touching or leaning on something.",
    "novrev_status": "reviewed",
@@ -79887,7 +79952,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2278,
-   "part_of_speech": "adj",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "Of course! (agreeing).",
    "novrev_status": "reviewed",
@@ -79902,7 +79967,7 @@
    "english_id": "en:000003924",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To store something in its place.",
+   "description_en": "To hold on to something and not give it away or throw it out.",
    "text": "keep",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -79911,10 +79976,10 @@
    "study_priority": 2279,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To store something in its place.",
+   "description": "To hold on to something and not give it away or throw it out.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To store something in its place."
+    "en": "To hold on to something and not give it away or throw it out."
    },
    "level": "A1",
    "antonyms": []
@@ -80041,7 +80106,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2286,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Not less than; at minimum.",
    "novrev_status": "reviewed",
@@ -80393,7 +80458,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2304,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Used to give an example.",
    "novrev_status": "reviewed",
@@ -80615,7 +80680,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2314,
-   "part_of_speech": "n",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "An angry exclamation (vulgar).",
    "novrev_status": "reviewed",
@@ -80953,7 +81018,8 @@
     "en": "An event with stalls, rides and games."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000003975",
@@ -81026,7 +81092,7 @@
    "english_id": "en:000003978",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A subject studied at school.",
+   "description_en": "An area of knowledge studied at school, like math.",
    "text": "subject",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -81035,10 +81101,10 @@
    "study_priority": 2333,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A subject studied at school.",
+   "description": "An area of knowledge studied at school, like math.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A subject studied at school."
+    "en": "An area of knowledge studied at school, like math."
    },
    "level": "B1",
    "antonyms": []
@@ -81070,7 +81136,7 @@
    "english_id": "en:000003980",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A long piece of metal or a block of chocolate.",
+   "description_en": "A long, straight piece of hard material such as metal.",
    "text": "bar",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -81079,10 +81145,10 @@
    "study_priority": 2335,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A long piece of metal or a block of chocolate.",
+   "description": "A long, straight piece of hard material such as metal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A long piece of metal or a block of chocolate."
+    "en": "A long, straight piece of hard material such as metal."
    },
    "level": "B1",
    "antonyms": []
@@ -81620,7 +81686,7 @@
    "english_id": "en:000004005",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To make a bell or phone sound; to call by phone.",
+   "description_en": "To make a bell sound, as a phone or bell does.",
    "text": "ring",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -81629,10 +81695,10 @@
    "study_priority": 2360,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To make a bell or phone sound; to call by phone.",
+   "description": "To make a bell sound, as a phone or bell does.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To make a bell or phone sound; to call by phone."
+    "en": "To make a bell sound, as a phone or bell does."
    },
    "level": "B1",
    "antonyms": []
@@ -81825,7 +81891,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2369,
-   "part_of_speech": "adj",
+   "part_of_speech": "phr",
    "user_hint": "",
    "description": "Not me either (agreeing with a negative).",
    "novrev_status": "reviewed",
@@ -82039,7 +82105,7 @@
    "english_id": "en:000004024",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To look good on someone; to be convenient.",
+   "description_en": "To look good on someone.",
    "text": "suit",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -82048,10 +82114,10 @@
    "study_priority": 2379,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To look good on someone; to be convenient.",
+   "description": "To look good on someone.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To look good on someone; to be convenient."
+    "en": "To look good on someone."
    },
    "level": "B2",
    "antonyms": []
@@ -82516,7 +82582,8 @@
     "en": "A unit of length of about 91 centimeters."
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000004046",
@@ -82670,7 +82737,8 @@
     "en": "A unit of weight of about 454 grams."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000004053",
@@ -82736,7 +82804,8 @@
     "en": "To use rude or offensive words."
    },
    "level": "C2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000004056",
@@ -82780,7 +82849,8 @@
     "en": "A free trip in someone's car."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "en:000004058",
@@ -83471,7 +83541,7 @@
    "english_id": "en:000004089",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The sport of swimming.",
+   "description_en": "The sport of moving through water using your arms and legs.",
    "text": "swimming",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -83480,10 +83550,10 @@
    "study_priority": 2428,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "The sport of swimming.",
+   "description": "The sport of moving through water using your arms and legs.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The sport of swimming."
+    "en": "The sport of moving through water using your arms and legs."
    },
    "level": "B1",
    "antonyms": []
@@ -83605,7 +83675,7 @@
    "english_id": "en:000004095",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The quality of being honest.",
+   "description_en": "The quality of telling the truth and not cheating.",
    "text": "honesty",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -83614,10 +83684,10 @@
    "study_priority": 2434,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "The quality of being honest.",
+   "description": "The quality of telling the truth and not cheating.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The quality of being honest."
+    "en": "The quality of telling the truth and not cheating."
    },
    "level": "B1",
    "antonyms": []
@@ -83730,7 +83800,8 @@
     "en": "A small country property or farm."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000004101",
@@ -83803,8 +83874,8 @@
    "english_id": "en:000004104",
    "english_sense_id": null,
    "kind": "expression",
-   "description_en": "To mix food in a pot with a spoon.",
-   "text": "stir the pot",
+   "description_en": "To mix food or liquid by moving a spoon around.",
+   "text": "stir",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -83812,10 +83883,10 @@
    "study_priority": 2443,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To mix food in a pot with a spoon.",
+   "description": "To mix food or liquid by moving a spoon around.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To mix food in a pot with a spoon."
+    "en": "To mix food or liquid by moving a spoon around."
    },
    "level": "B1",
    "antonyms": []
@@ -84051,7 +84122,7 @@
    "english_id": "en:000004115",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A young animal, especially a young dog.",
+   "description_en": "A young dog.",
    "text": "puppy",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -84060,10 +84131,10 @@
    "study_priority": 2454,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A young animal, especially a young dog.",
+   "description": "A young dog.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A young animal, especially a young dog."
+    "en": "A young dog."
    },
    "level": "B1",
    "antonyms": []
@@ -85104,6 +85175,174 @@
    },
    "level": "B1",
    "antonyms": []
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004163",
+   "english_id": "en:000004163",
+   "english_sense_id": null,
+   "description_en": "A brother who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "older brother",
+   "alternatives": [],
+   "description": "A brother who is older than you.",
+   "nativeExplain": {
+    "en": "A brother who is older than you."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004164",
+   "english_id": "en:000004164",
+   "english_sense_id": null,
+   "description_en": "A brother who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "younger brother",
+   "alternatives": [],
+   "description": "A brother who is younger than you.",
+   "nativeExplain": {
+    "en": "A brother who is younger than you."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004165",
+   "english_id": "en:000004165",
+   "english_sense_id": null,
+   "description_en": "A sister who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "older sister",
+   "alternatives": [],
+   "description": "A sister who is older than you.",
+   "nativeExplain": {
+    "en": "A sister who is older than you."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004166",
+   "english_id": "en:000004166",
+   "english_sense_id": null,
+   "description_en": "A sister who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "younger sister",
+   "alternatives": [],
+   "description": "A sister who is younger than you.",
+   "nativeExplain": {
+    "en": "A sister who is younger than you."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004167",
+   "english_id": "en:000004167",
+   "english_sense_id": null,
+   "description_en": "A child of your son or daughter.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "grandchild",
+   "alternatives": [],
+   "description": "A child of your son or daughter.",
+   "nativeExplain": {
+    "en": "A child of your son or daughter."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004168",
+   "english_id": "en:000004168",
+   "english_sense_id": null,
+   "description_en": "A son of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "nephew",
+   "alternatives": [],
+   "description": "A son of your brother or sister.",
+   "nativeExplain": {
+    "en": "A son of your brother or sister."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "en:en:000004169",
+   "english_id": "en:000004169",
+   "english_sense_id": null,
+   "description_en": "A daughter of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "niece",
+   "alternatives": [],
+   "description": "A daughter of your brother or sister.",
+   "nativeExplain": {
+    "en": "A daughter of your brother or sister."
+   }
   }
  ]
 }

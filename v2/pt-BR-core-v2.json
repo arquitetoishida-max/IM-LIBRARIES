@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.9",
+ "version": "2.5.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -38,7 +38,8 @@
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
-  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
  ],
  "entries": [
   {
@@ -232,8 +233,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "aquele",
    "alternatives": [
-    "aquilo",
-    "esse"
+    "aquela",
+    "esse",
+    "essa"
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 5,
@@ -268,11 +270,11 @@
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 6,
-   "description": "A pessoa com quem você fala.",
+   "description": "A pessoa ou as pessoas com quem se fala (tu em algumas regiões).",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A pessoa com quem você fala."
+    "pt-BR": "A pessoa ou as pessoas com quem se fala (tu em algumas regiões)."
    },
    "antonyms": []
   },
@@ -386,7 +388,8 @@
    "text": "este",
    "alternatives": [
     "esta",
-    "isto"
+    "esse",
+    "essa"
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 7,
@@ -4053,10 +4056,10 @@
    "study_tier": "cedo",
    "study_priority": 982,
    "user_hint": "",
-   "description": "Desse tipo; tanto (\"tão bom dia\").",
+   "description": "Desse tipo; tanto (\"um dia tão bom\").",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Desse tipo; tanto (\"tão bom dia\")."
+    "pt-BR": "Desse tipo; tanto (\"um dia tão bom\")."
    },
    "antonyms": []
   },
@@ -6362,8 +6365,10 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "Deus",
-   "alternatives": [],
+   "text": "deus",
+   "alternatives": [
+    "Deus"
+   ],
    "study_priority": 100230,
    "user_hint": "",
    "description": "Ser divino que se adora; com G maiúsculo, o Deus único.",
@@ -9468,7 +9473,8 @@
    "nativeExplain": {
     "pt-BR": "\"Guys\": um grupo de pessoas (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000360",
@@ -9738,7 +9744,8 @@
    "nativeExplain": {
     "pt-BR": "Forma de gerúndio de \"come\", como em \"she is coming\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000000370",
@@ -9835,7 +9842,8 @@
    "nativeExplain": {
     "pt-BR": "Um homem (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000375",
@@ -12679,7 +12687,8 @@
    "nativeExplain": {
     "pt-BR": "Forma informal de \"going to\" (futuro)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000494",
@@ -13501,11 +13510,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 155,
-   "description": "Pai do sexo masculino.",
+   "description": "Genitor do sexo masculino.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pai do sexo masculino."
+    "pt-BR": "Genitor do sexo masculino."
    },
    "antonyms": [
     "en:000000556"
@@ -14156,11 +14165,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 166,
-   "description": "Mãe do sexo feminino.",
+   "description": "Genitora do sexo feminino.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mãe do sexo feminino."
+    "pt-BR": "Genitora do sexo feminino."
    },
    "antonyms": [
     "en:000000529"
@@ -15517,7 +15526,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"o que é\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000624",
@@ -16305,7 +16315,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"would not\" (não iria)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000663",
@@ -16601,7 +16612,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "política",
    "alternatives": [
-    "regra"
+    "diretriz"
    ],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2638,
@@ -18377,7 +18388,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"you have\" (você tem)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000756",
@@ -18628,9 +18640,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ciência",
-   "alternatives": [
-    "ciências"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1106,
    "description": "Estudo do mundo natural por meio de fatos e experimentos.",
@@ -18784,10 +18794,10 @@
    "study_tier": "herdado",
    "study_priority": 2662,
    "user_hint": "",
-   "description": "Forma sem apóstrofo de \"can not\" (não poder).",
+   "description": "Não ser capaz ou não ter permissão de fazer algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Forma sem apóstrofo de \"can not\" (não poder)."
+    "pt-BR": "Não ser capaz ou não ter permissão de fazer algo."
    },
    "antonyms": []
   },
@@ -18945,7 +18955,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"have not\" (não tenho)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000783",
@@ -19487,7 +19498,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "relacionado",
    "alternatives": [
-    "parente"
+    "aparentado"
    ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2673,
@@ -19701,7 +19712,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"could not\" (não conseguiu)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000817",
@@ -20439,7 +20451,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "legal",
    "alternatives": [
-    "legalizado",
+    "lícito",
     "permitido"
    ],
    "study_tier": "expansão cotidiana",
@@ -21139,7 +21151,8 @@
    "nativeExplain": {
     "pt-BR": "\"The ones\" = aquelas pessoas ou coisas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000881",
@@ -21637,7 +21650,8 @@
    "nativeExplain": {
     "pt-BR": "Forma educada de se dirigir a um homem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000000905",
@@ -21729,7 +21743,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"are not\" (não são)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000911",
@@ -22470,9 +22485,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "reto",
-   "alternatives": [
-    "direto"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 304,
    "description": "Sem curvas.",
@@ -22586,7 +22599,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"we have\" (nós temos)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000953",
@@ -23665,7 +23679,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "adição",
    "alternatives": [
-    "além disso"
+    "soma"
    ],
    "study_tier": "cedo",
    "study_priority": 1157,
@@ -23922,7 +23936,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "duplo",
    "alternatives": [
-    "dobro"
+    "dobrado"
    ],
    "study_tier": "cedo",
    "study_priority": 1162,
@@ -24809,7 +24823,8 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"mile\" (milha)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001057",
@@ -29791,10 +29806,10 @@
    "study_tier": "cedo",
    "study_priority": 1278,
    "user_hint": "",
-   "description": "Uma doença.",
+   "description": "Mal que afeta a saúde de um ser vivo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma doença."
+    "pt-BR": "Mal que afeta a saúde de um ser vivo."
    },
    "antonyms": []
   },
@@ -30138,10 +30153,10 @@
    "study_tier": "cedo",
    "study_priority": 1284,
    "user_hint": "",
-   "description": "Professor de universidade.",
+   "description": "Docente que leciona em uma universidade.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Professor de universidade."
+    "pt-BR": "Docente que leciona em uma universidade."
    },
    "antonyms": []
   },
@@ -30358,9 +30373,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "eficaz",
-   "alternatives": [
-    "eficiente"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1288,
    "user_hint": "",
@@ -30493,7 +30506,8 @@
    "nativeExplain": {
     "pt-BR": "Título antes do nome de uma mulher casada."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001339",
@@ -30589,7 +30603,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"we will\" (nós vamos)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001345",
@@ -31016,10 +31031,10 @@
    "study_tier": "inicial",
    "study_priority": 394,
    "user_hint": "",
-   "description": "\"Lots\" = muita quantidade.",
+   "description": "Grande quantidade.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "\"Lots\" = muita quantidade."
+    "pt-BR": "Grande quantidade."
    },
    "antonyms": []
   },
@@ -31197,11 +31212,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 396,
-   "description": "Doente; sem estar bem.",
+   "description": "Que não está bem de saúde.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Doente; sem estar bem."
+    "pt-BR": "Que não está bem de saúde."
    },
    "antonyms": []
   },
@@ -31969,7 +31984,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "inscrição",
    "alternatives": [
-    "aplicação"
+    "candidatura"
    ],
    "study_tier": "pendente",
    "study_priority": 3395,
@@ -32474,16 +32489,14 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "quebrou",
-   "alternatives": [
-    "sem dinheiro"
-   ],
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2817,
    "user_hint": "",
-   "description": "Passado simples do verbo \"break\"; também sem dinheiro.",
+   "description": "Passado simples do verbo \"break\" (quebrar).",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado simples do verbo \"break\"; também sem dinheiro."
+    "pt-BR": "Passado simples do verbo \"break\" (quebrar)."
    },
    "antonyms": []
   },
@@ -33181,7 +33194,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"who is\" (quem é)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001478",
@@ -33208,7 +33222,8 @@
    "nativeExplain": {
     "pt-BR": "\"Quem\" como objeto, em linguagem formal."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001479",
@@ -33718,11 +33733,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 420,
-   "description": "Duas vezes.",
+   "description": "Uma vez e mais outra.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Duas vezes."
+    "pt-BR": "Uma vez e mais outra."
    },
    "antonyms": []
   },
@@ -34483,7 +34498,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"you would\" ou \"you had\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001552",
@@ -35047,7 +35063,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"should not\" (não deveria)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001583",
@@ -35111,9 +35128,10 @@
     "travel"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "vila",
+   "text": "vilarejo",
    "alternatives": [
-    "aldeia"
+    "povoado",
+    "vila"
    ],
    "study_tier": "inicial",
    "study_priority": 435,
@@ -37186,10 +37204,10 @@
    "study_tier": "cedo",
    "study_priority": 1436,
    "user_hint": "",
-   "description": "Precisar.",
+   "description": "Ter necessidade de algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Precisar."
+    "pt-BR": "Ter necessidade de algo."
    },
    "antonyms": []
   },
@@ -37818,16 +37836,14 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "raro",
-   "alternatives": [
-    "mal passado"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1454,
    "user_hint": "",
-   "description": "Pouco comum; também carne pouco cozida.",
+   "description": "Pouco comum.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pouco comum; também carne pouco cozida."
+    "pt-BR": "Pouco comum."
    },
    "antonyms": []
   },
@@ -38432,7 +38448,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"they have\" (eles têm)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001768",
@@ -38672,10 +38689,10 @@
    "study_tier": "cedo",
    "study_priority": 1472,
    "user_hint": "",
-   "description": "Preocupado.",
+   "description": "Que sente inquietação por algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Preocupado."
+    "pt-BR": "Que sente inquietação por algo."
    },
    "antonyms": []
   },
@@ -39692,10 +39709,10 @@
    "study_tier": "herdado",
    "study_priority": 2875,
    "user_hint": "",
-   "description": "Pronto.",
+   "description": "Que está em condições de agir.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pronto."
+    "pt-BR": "Que está em condições de agir."
    },
    "antonyms": []
   },
@@ -41859,7 +41876,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"has not\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001963",
@@ -41954,11 +41972,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 500,
-   "description": "Juntar coisas e misturar.",
+   "description": "Juntar coisas e mexer até se unirem.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Juntar coisas e misturar."
+    "pt-BR": "Juntar coisas e mexer até se unirem."
    },
    "antonyms": []
   },
@@ -42219,7 +42237,8 @@
    "nativeExplain": {
     "pt-BR": "Forma curta de \"they will\" (eles vão)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001984",
@@ -42269,9 +42288,10 @@
     "weather_emotion_time"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "quentinho",
+   "text": "quente",
    "alternatives": [
-    "morno"
+    "morno",
+    "ameno"
    ],
    "study_tier": "inicial",
    "study_priority": 505,
@@ -42799,9 +42819,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "comprovação",
+   "text": "prova",
    "alternatives": [
-    "prova"
+    "comprovação"
    ],
    "study_tier": "cedo",
    "study_priority": 1558,
@@ -42930,7 +42950,8 @@
    "nativeExplain": {
     "pt-BR": "Um advogado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002024",
@@ -43317,7 +43338,8 @@
    "nativeExplain": {
     "pt-BR": "Depois do meio-dia (3 p.m.)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002049",
@@ -43429,10 +43451,10 @@
    "study_tier": "cedo",
    "study_priority": 1572,
    "user_hint": "",
-   "description": "Tecnologia (informal).",
+   "description": "Ciência aplicada a ferramentas, máquinas e aparelhos (uso informal).",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Tecnologia (informal)."
+    "pt-BR": "Ciência aplicada a ferramentas, máquinas e aparelhos (uso informal)."
    },
    "antonyms": []
   },
@@ -43989,9 +44011,9 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "selecionado",
+   "text": "selecionou",
    "alternatives": [
-    "escolhido"
+    "selecionado"
    ],
    "study_tier": "herdado",
    "study_priority": 2918,
@@ -45533,7 +45555,8 @@
    "nativeExplain": {
     "pt-BR": "Máximo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002185",
@@ -49480,7 +49503,8 @@
    "nativeExplain": {
     "pt-BR": "Sigla de \"identification\": documento que mostra quem você é."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002411",
@@ -53337,7 +53361,7 @@
    "kind": "word",
    "description_en": "\"Depending on\" = it changes with.",
    "level": "C1",
-   "part_of_speech": "v",
+   "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "dependendo de",
@@ -54718,7 +54742,8 @@
    "nativeExplain": {
     "pt-BR": "Um amigo (britânico, australiano)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002704",
@@ -56472,7 +56497,8 @@
    "nativeExplain": {
     "pt-BR": "Computador pessoal."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002805",
@@ -59774,7 +59800,8 @@
    "nativeExplain": {
     "pt-BR": "\"Before Christ\": antes de Cristo, em datas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003000",
@@ -59826,7 +59853,8 @@
    "nativeExplain": {
     "pt-BR": "Expressão informal: estou muito cansado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003073",
@@ -59994,7 +60022,8 @@
    "nativeExplain": {
     "pt-BR": "Jeito informal de desejar boa sorte antes de uma apresentação."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003041",
@@ -60018,7 +60047,8 @@
    "nativeExplain": {
     "pt-BR": "Jeito amigável de chamar um amigo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003001",
@@ -60040,7 +60070,8 @@
    "nativeExplain": {
     "pt-BR": "Dólares (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003091",
@@ -60088,7 +60119,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: um pouco atrevido, mas de modo engraçado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003008",
@@ -60112,7 +60144,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: obrigado; também dito num brinde."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003020",
@@ -60159,7 +60192,8 @@
    "nativeExplain": {
     "pt-BR": "Dormir uma noite na casa de alguém."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003055",
@@ -60350,7 +60384,8 @@
    "nativeExplain": {
     "pt-BR": "Mostrar algo para se exibir."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003030",
@@ -60374,7 +60409,8 @@
    "nativeExplain": {
     "pt-BR": "Parar de responder a alguém de repente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003049",
@@ -60481,9 +60517,9 @@
    "part_of_speech": "exp",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "dar um rolê",
+   "text": "sair",
    "alternatives": [
-    "sair"
+    "passear"
    ],
    "study_tier": "temático (Slang)",
    "study_priority": 3669,
@@ -60874,7 +60910,8 @@
    "nativeExplain": {
     "pt-BR": "\"Foi um erro meu.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003050",
@@ -60920,7 +60957,8 @@
    "nativeExplain": {
     "pt-BR": "\"Não é um problema.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003038",
@@ -60959,7 +60997,6 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sem problema",
    "alternatives": [
-    "de boa",
     "tranquilo"
    ],
    "study_tier": "temático (Slang)",
@@ -61063,7 +61100,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: lixo; bobagem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003032",
@@ -61205,7 +61243,8 @@
    "nativeExplain": {
     "pt-BR": "Recusar com educação agora, mas talvez aceitar depois."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003053",
@@ -61227,7 +61266,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: comida comprada para comer em casa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003054",
@@ -61294,7 +61334,8 @@
    "nativeExplain": {
     "pt-BR": "Sistema de trens subterrâneos."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003048",
@@ -61340,7 +61381,8 @@
    "nativeExplain": {
     "pt-BR": "Britânico: universidade."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003012",
@@ -63058,7 +63100,8 @@
    "nativeExplain": {
     "pt-BR": "Caminho ao lado da rua para pedestres."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003147",
@@ -65454,10 +65497,10 @@
    "study_priority": 3481,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Algo para beber; o ato de beber.",
+   "description": "Ato de beber, em especial bebidas alcoólicas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Algo para beber; o ato de beber."
+    "pt-BR": "Ato de beber, em especial bebidas alcoólicas."
    },
    "level": "B1",
    "antonyms": []
@@ -66608,7 +66651,8 @@
     "pt-BR": "Membro ou apoiador do Partido Democrata."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002745",
@@ -66688,7 +66732,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "pendente",
    "study_priority": 3623,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "Perguntar-se sobre algo que se quer saber.",
    "novrev_status": "reviewed",
@@ -66938,7 +66982,8 @@
     "pt-BR": "Membro ou apoiador do Partido Republicano."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003065",
@@ -67167,7 +67212,8 @@
     "pt-BR": "Promessa de aceitar um convite numa outra ocasião."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003193",
@@ -67382,7 +67428,8 @@
     "pt-BR": "Futebol americano (o sentido comum nos EUA)."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003205",
@@ -67750,7 +67797,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 690,
-   "part_of_speech": "n",
+   "part_of_speech": "exp",
    "user_hint": "",
    "description": "Adeus (informal).",
    "novrev_status": "reviewed",
@@ -67965,7 +68012,9 @@
    "kind": "word",
    "description_en": "To run after someone to catch them.",
    "text": "correr atrás",
-   "alternatives": [],
+   "alternatives": [
+    "perseguir"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -68874,7 +68923,7 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To pay attention to what the teacher says.",
-   "text": "ouvir a professora",
+   "text": "ouvir o professor",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -70300,7 +70349,8 @@
     "pt-BR": "Dançar forró, dança brasileira de casal."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003338",
@@ -70660,8 +70710,10 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A sour yellow citrus fruit.",
-   "text": "limão",
-   "alternatives": [],
+   "text": "limão-siciliano",
+   "alternatives": [
+    "limão"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -70806,7 +70858,8 @@
     "pt-BR": "Fruto pequeno e roxo-escuro de uma palmeira brasileira."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003361",
@@ -72576,7 +72629,8 @@
     "pt-BR": "Jogo de tabuleiro com peças redondas num tabuleiro quadriculado."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003441",
@@ -73024,8 +73078,10 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To take dishes away from the table after eating.",
-   "text": "limpar a mesa",
-   "alternatives": [],
+   "text": "tirar a mesa",
+   "alternatives": [
+    "limpar a mesa"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -74378,10 +74434,10 @@
    "study_priority": 2118,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Planta tropical alta de caule oco e duro.",
+   "description": "Planta alta de caule oco e duro.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Planta tropical alta de caule oco e duro."
+    "pt-BR": "Planta alta de caule oco e duro."
    },
    "level": "B1",
    "antonyms": []
@@ -74524,7 +74580,7 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "The female bee that lays eggs.",
-   "text": "abelha rainha",
+   "text": "abelha-rainha",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -74679,7 +74735,9 @@
    "kind": "word",
    "description_en": "The part at the end of an animal's body.",
    "text": "cauda",
-   "alternatives": [],
+   "alternatives": [
+    "rabo"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -74833,17 +74891,19 @@
    "kind": "word",
    "description_en": "A gentle feeling of love or fondness.",
    "text": "carinho",
-   "alternatives": [],
+   "alternatives": [
+    "afeto"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2131,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Sentimento suave de amor ou de carinho.",
+   "description": "Sentimento suave de amor ou ternura.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sentimento suave de amor ou de carinho."
+    "pt-BR": "Sentimento suave de amor ou ternura."
    },
    "level": "B1",
    "antonyms": []
@@ -74906,10 +74966,10 @@
    "study_priority": 864,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Grito alto e agudo.",
+   "description": "Som alto e agudo emitido com a voz.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Grito alto e agudo."
+    "pt-BR": "Som alto e agudo emitido com a voz."
    },
    "level": "B1",
    "antonyms": []
@@ -74972,10 +75032,10 @@
    "study_priority": 2135,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Uma melodia; sequência de notas musicais.",
+   "description": "Sequência de notas musicais que forma uma música.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma melodia; sequência de notas musicais."
+    "pt-BR": "Sequência de notas musicais que forma uma música."
    },
    "level": "B1",
    "antonyms": []
@@ -75374,7 +75434,8 @@
     "pt-BR": "Festa tradicional ao ar livre no verão (Japão)."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003568",
@@ -76452,7 +76513,8 @@
     "pt-BR": "Escala que mede o quanto uma substância é ácida ou básica."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003617",
@@ -76848,7 +76910,8 @@
     "pt-BR": "Quando o sol ou a lua fica escondido por uma sombra."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000003635",
@@ -77332,7 +77395,8 @@
     "pt-BR": "A civilização de Roma nos tempos antigos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003657",
@@ -77354,7 +77418,8 @@
     "pt-BR": "A civilização da Grécia nos tempos antigos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003658",
@@ -77376,7 +77441,8 @@
     "pt-BR": "A China nos tempos antigos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003659",
@@ -77398,7 +77464,8 @@
     "pt-BR": "O Japão nos tempos antigos."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003660",
@@ -78052,10 +78119,10 @@
    "study_priority": 3180,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Palavra que mostra relação, como \"in\" ou \"on\".",
+   "description": "Palavra que mostra relação entre palavras, como \"de\" ou \"em\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Palavra que mostra relação, como \"in\" ou \"on\"."
+    "pt-BR": "Palavra que mostra relação entre palavras, como \"de\" ou \"em\"."
    },
    "level": "B2",
    "antonyms": []
@@ -78074,10 +78141,10 @@
    "study_priority": 3181,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Palavra que une palavras ou frases, como \"and\".",
+   "description": "Palavra que une palavras ou frases, como \"e\" ou \"mas\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Palavra que une palavras ou frases, como \"and\"."
+    "pt-BR": "Palavra que une palavras ou frases, como \"e\" ou \"mas\"."
    },
    "level": "B2",
    "antonyms": []
@@ -78410,7 +78477,8 @@
     "pt-BR": "O continente em volta do Polo Sul."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003707",
@@ -78624,10 +78692,10 @@
    "study_priority": 3191,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Estação de chuvas fortes no Sul da Ásia.",
+   "description": "Vento sazonal que traz chuvas fortes ao Sul da Ásia.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Estação de chuvas fortes no Sul da Ásia."
+    "pt-BR": "Vento sazonal que traz chuvas fortes ao Sul da Ásia."
    },
    "level": "B2",
    "antonyms": []
@@ -81179,10 +81247,10 @@
    "study_priority": 2236,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "O caule principal de uma planta.",
+   "description": "Haste principal da planta, que sustenta folhas e flores.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O caule principal de uma planta."
+    "pt-BR": "Haste principal da planta, que sustenta folhas e flores."
    },
    "level": "B2",
    "antonyms": []
@@ -81223,10 +81291,10 @@
    "study_priority": 2237,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Floresta tropical densa com muita chuva.",
+   "description": "Mata densa de região quente, com muita chuva.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Floresta tropical densa com muita chuva."
+    "pt-BR": "Mata densa de região quente, com muita chuva."
    },
    "level": "B2",
    "antonyms": []
@@ -81517,7 +81585,8 @@
     "pt-BR": "Organismo geneticamente modificado."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003847",
@@ -82455,7 +82524,8 @@
     "pt-BR": "Organização não governamental."
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003889",
@@ -83000,7 +83070,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 900,
-   "part_of_speech": "n",
+   "part_of_speech": "pron",
    "user_hint": "",
    "description": "Quem fala, referindo-se a si mesmo (sujeito).",
    "novrev_status": "reviewed",
@@ -83110,7 +83180,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2272,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "O mais recente antes de agora (semana passada).",
    "novrev_status": "reviewed",
@@ -83156,10 +83226,10 @@
    "study_priority": 2274,
    "part_of_speech": "adv",
    "user_hint": "",
-   "description": "Aproximadamente; cerca de.",
+   "description": "Aproximadamente; mais ou menos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Aproximadamente; cerca de."
+    "pt-BR": "Aproximadamente; mais ou menos."
    },
    "level": "A1",
    "antonyms": []
@@ -83220,7 +83290,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2277,
-   "part_of_speech": "adj",
+   "part_of_speech": "prep",
    "user_hint": "",
    "description": "Encostando ou apoiado em algo.",
    "novrev_status": "reviewed",
@@ -83242,7 +83312,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2278,
-   "part_of_speech": "adj",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "Claro! (concordando).",
    "novrev_status": "reviewed",
@@ -83266,10 +83336,10 @@
    "study_priority": 2279,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Guardar algo no seu lugar.",
+   "description": "Ficar com algo, sem dar nem jogar fora.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Guardar algo no seu lugar."
+    "pt-BR": "Ficar com algo, sem dar nem jogar fora."
    },
    "level": "A1",
    "antonyms": []
@@ -83396,7 +83466,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2286,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Não menos que; no mínimo.",
    "novrev_status": "reviewed",
@@ -83420,10 +83490,10 @@
    "study_priority": 2287,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Enviar pelo correio.",
+   "description": "Mandar carta ou pacote por meio do serviço postal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Enviar pelo correio."
+    "pt-BR": "Mandar carta ou pacote por meio do serviço postal."
    },
    "level": "B2",
    "antonyms": []
@@ -83748,7 +83818,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2304,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "Usado para dar um exemplo.",
    "novrev_status": "reviewed",
@@ -83833,7 +83903,9 @@
    "kind": "word",
    "description_en": "To keep money for later.",
    "text": "economizar",
-   "alternatives": [],
+   "alternatives": [
+    "poupar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -83970,7 +84042,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2314,
-   "part_of_speech": "n",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "Exclamação de raiva (vulgar).",
    "novrev_status": "reviewed",
@@ -84308,7 +84380,8 @@
     "pt-BR": "Evento com barracas, brinquedos e jogos."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000003975",
@@ -84383,7 +84456,9 @@
    "kind": "word",
    "description_en": "A subject studied at school.",
    "text": "matéria",
-   "alternatives": [],
+   "alternatives": [
+    "disciplina"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -84434,10 +84509,10 @@
    "study_priority": 2335,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Peça longa de metal ou tablete de chocolate.",
+   "description": "Peça longa e reta de material duro, como metal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Peça longa de metal ou tablete de chocolate."
+    "pt-BR": "Peça longa e reta de material duro, como metal."
    },
    "level": "B1",
    "antonyms": []
@@ -84986,10 +85061,10 @@
    "study_priority": 2360,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Fazer soar um sino ou telefone; ligar por telefone.",
+   "description": "Soar, como um sino ou telefone.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Fazer soar um sino ou telefone; ligar por telefone."
+    "pt-BR": "Soar, como um sino ou telefone."
    },
    "level": "B1",
    "antonyms": []
@@ -85182,7 +85257,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2369,
-   "part_of_speech": "adj",
+   "part_of_speech": "phr",
    "user_hint": "",
    "description": "Eu também não (concordando com uma negação).",
    "novrev_status": "reviewed",
@@ -85199,7 +85274,9 @@
    "kind": "word",
    "description_en": "Something special given as a reward or pleasure.",
    "text": "agrado",
-   "alternatives": [],
+   "alternatives": [
+    "mimo"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -85398,17 +85475,19 @@
    "kind": "word",
    "description_en": "To look good on someone; to be convenient.",
    "text": "combinar",
-   "alternatives": [],
+   "alternatives": [
+    "ficar bem"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2379,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Ficar bem em alguém; ser conveniente.",
+   "description": "Ficar bem em alguém (roupa, cor etc.).",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ficar bem em alguém; ser conveniente."
+    "pt-BR": "Ficar bem em alguém (roupa, cor etc.)."
    },
    "level": "B2",
    "antonyms": []
@@ -85838,7 +85917,9 @@
    "kind": "word",
    "description_en": "A plan of eating less to lose weight.",
    "text": "regime",
-   "alternatives": [],
+   "alternatives": [
+    "dieta"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -85873,7 +85954,8 @@
     "pt-BR": "Unidade de comprimento de cerca de 91 centímetros."
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004046",
@@ -86027,7 +86109,8 @@
     "pt-BR": "Unidade de peso de cerca de 454 gramas."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004053",
@@ -86093,7 +86176,8 @@
     "pt-BR": "Usar palavras grosseiras ou ofensivas."
    },
    "level": "C2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000004056",
@@ -86137,7 +86221,8 @@
     "pt-BR": "Viagem de graça no carro de alguém."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "pt-BR:en:000004058",
@@ -86975,10 +87060,10 @@
    "study_priority": 2434,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A qualidade de ser honesto.",
+   "description": "Qualidade de quem diz a verdade e não engana.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A qualidade de ser honesto."
+    "pt-BR": "Qualidade de quem diz a verdade e não engana."
    },
    "level": "B1",
    "antonyms": []
@@ -87091,7 +87176,8 @@
     "pt-BR": "Pequena propriedade no campo."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004101",
@@ -87165,7 +87251,7 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To mix food in a pot with a spoon.",
-   "text": "mexer a panela",
+   "text": "mexer",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -87173,10 +87259,10 @@
    "study_priority": 2443,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Misturar a comida na panela com uma colher.",
+   "description": "Misturar comida ou líquido movendo uma colher.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Misturar a comida na panela com uma colher."
+    "pt-BR": "Misturar comida ou líquido movendo uma colher."
    },
    "level": "B1",
    "antonyms": []
@@ -87415,18 +87501,20 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A young animal, especially a young dog.",
-   "text": "filhote",
-   "alternatives": [],
+   "text": "filhote de cachorro",
+   "alternatives": [
+    "cachorrinho"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2454,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Animal jovem, sobretudo um cachorro novo.",
+   "description": "Cachorro novinho.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Animal jovem, sobretudo um cachorro novo."
+    "pt-BR": "Cachorro novinho."
    },
    "level": "B1",
    "antonyms": []
@@ -88099,7 +88187,9 @@
    "kind": "word",
    "description_en": "A tool with a toothed blade for cutting wood.",
    "text": "serrote",
-   "alternatives": [],
+   "alternatives": [
+    "serra"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
@@ -88467,6 +88557,181 @@
    },
    "level": "B1",
    "antonyms": []
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004163",
+   "english_id": "en:000004163",
+   "english_sense_id": null,
+   "description_en": "A brother who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "irmão mais velho",
+   "alternatives": [],
+   "description": "Irmão que nasceu antes de você.",
+   "nativeExplain": {
+    "pt-BR": "Irmão que nasceu antes de você."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004164",
+   "english_id": "en:000004164",
+   "english_sense_id": null,
+   "description_en": "A brother who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "irmão mais novo",
+   "alternatives": [],
+   "description": "Irmão que nasceu depois de você.",
+   "nativeExplain": {
+    "pt-BR": "Irmão que nasceu depois de você."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004165",
+   "english_id": "en:000004165",
+   "english_sense_id": null,
+   "description_en": "A sister who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "irmã mais velha",
+   "alternatives": [],
+   "description": "Irmã que nasceu antes de você.",
+   "nativeExplain": {
+    "pt-BR": "Irmã que nasceu antes de você."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004166",
+   "english_id": "en:000004166",
+   "english_sense_id": null,
+   "description_en": "A sister who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "irmã mais nova",
+   "alternatives": [],
+   "description": "Irmã que nasceu depois de você.",
+   "nativeExplain": {
+    "pt-BR": "Irmã que nasceu depois de você."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004167",
+   "english_id": "en:000004167",
+   "english_sense_id": null,
+   "description_en": "A child of your son or daughter.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "neto",
+   "alternatives": [],
+   "description": "Filho ou filha do seu filho ou da sua filha.",
+   "nativeExplain": {
+    "pt-BR": "Filho ou filha do seu filho ou da sua filha."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004168",
+   "english_id": "en:000004168",
+   "english_sense_id": null,
+   "description_en": "A son of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "sobrinho",
+   "alternatives": [],
+   "description": "Filho do seu irmão ou da sua irmã.",
+   "nativeExplain": {
+    "pt-BR": "Filho do seu irmão ou da sua irmã."
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004169",
+   "english_id": "en:000004169",
+   "english_sense_id": null,
+   "description_en": "A daughter of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "sobrinha",
+   "alternatives": [],
+   "description": "Filha do seu irmão ou da sua irmã.",
+   "nativeExplain": {
+    "pt-BR": "Filha do seu irmão ou da sua irmã."
+   }
   }
  ]
 }

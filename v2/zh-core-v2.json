@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.9",
+ "version": "2.5.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -38,7 +38,8 @@
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
-  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo)."
+  "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
  ],
  "entries": [
   {
@@ -326,7 +327,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "你",
    "alternatives": [
-    "你们"
+    "你们",
+    "您"
    ],
    "reading": "nǐ",
    "romanization": "nǐ",
@@ -342,9 +344,9 @@
    "study_priority": 6,
    "nativeExplain": {
     "pt-BR": "Interlocutor: você/tu",
-    "zh": "指正在对话的对方。"
+    "zh": "指正在对话的对方；礼貌的说法是“您”。"
    },
-   "description": "指正在对话的对方。",
+   "description": "指正在对话的对方；礼貌的说法是“您”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -584,9 +586,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "像",
-   "alternatives": [
-    "作为"
-   ],
+   "alternatives": [],
    "reading": "xiàng",
    "romanization": "xiàng",
    "classifications": [
@@ -2863,9 +2863,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "第一",
-   "alternatives": [
-    "首先"
-   ],
+   "alternatives": [],
    "reading": "dì-yī",
    "romanization": "dì-yī",
    "study_tier": "expansão estruturante",
@@ -4166,9 +4164,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "生物",
-   "alternatives": [
-    "人"
-   ],
+   "alternatives": [],
    "reading": "shēngwù",
    "romanization": "shēngwù",
    "classifications": [
@@ -6576,10 +6572,10 @@
    "study_tier": "cedo",
    "study_priority": 999,
    "user_hint": "",
-   "description": "用在男士姓名前的称呼（如史密斯先生）。",
+   "description": "放在男士姓氏后面的称呼（如史密斯先生）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用在男士姓名前的称呼（如史密斯先生）。"
+    "zh": "放在男士姓氏后面的称呼（如史密斯先生）。"
    },
    "antonyms": []
   },
@@ -8000,18 +7996,18 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "上帝",
+   "text": "神",
    "alternatives": [
-    "神"
+    "上帝"
    ],
-   "reading": "Shàngdì",
+   "reading": "shén",
    "romanization": "Shàngdì",
    "study_priority": 100230,
    "user_hint": "",
-   "description": "受人崇拜的神；大写时指唯一的上帝。",
+   "description": "人们崇拜的超自然存在；一神教中指上帝。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "受人崇拜的神；大写时指唯一的上帝。"
+    "zh": "人们崇拜的超自然存在；一神教中指上帝。"
    },
    "antonyms": []
   },
@@ -8272,7 +8268,7 @@
     }
    ],
    "study_priority": 100239,
-   "description": "开始。",
+   "description": "从某一点起着手做某事。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -8280,7 +8276,7 @@
     "en:000001271"
    ],
    "nativeExplain": {
-    "zh": "开始。"
+    "zh": "从某一点起着手做某事。"
    }
   },
   {
@@ -10060,10 +10056,10 @@
    "romanization": "Měiguó de",
    "study_priority": 100293,
    "user_hint": "",
-   "description": "美国的，指事物；人的国籍说\"美国人\"。",
+   "description": "美国的，指事物；人的国籍说“美国人”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "美国的，指事物；人的国籍说\"美国人\"。"
+    "zh": "美国的，指事物；人的国籍说“美国人”。"
    },
    "antonyms": []
   },
@@ -12093,7 +12089,8 @@
    "nativeExplain": {
     "zh": "称呼一群人（口语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000360",
@@ -12410,11 +12407,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 100,
-   "description": "人整个身体。",
+   "description": "人从头到脚的整体。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "人整个身体。"
+    "zh": "人从头到脚的整体。"
    },
    "antonyms": []
   },
@@ -12442,7 +12439,8 @@
    "nativeExplain": {
     "zh": "“come”的进行形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000000370",
@@ -12580,7 +12578,8 @@
    "nativeExplain": {
     "zh": "男人（口语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000375",
@@ -16260,7 +16259,8 @@
    "nativeExplain": {
     "zh": "“going to”的口语形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000494",
@@ -20000,7 +20000,8 @@
    "nativeExplain": {
     "zh": "“what is”的缩写。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000624",
@@ -20894,10 +20895,10 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2626,
    "user_hint": "",
-   "description": "因某事而产生的结果。",
+   "description": "因为某件事而产生的情况。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "因某事而产生的结果。"
+    "zh": "因为某件事而产生的情况。"
    },
    "antonyms": []
   },
@@ -21035,7 +21036,8 @@
    "nativeExplain": {
     "zh": "“would not”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000663",
@@ -21425,7 +21427,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "政策",
    "alternatives": [
-    "规定"
+    "方针"
    ],
    "reading": "zhèngcè",
    "romanization": "zhèngcè",
@@ -22417,9 +22419,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "会议",
-   "alternatives": [
-    "开会"
-   ],
+   "alternatives": [],
    "reading": "huìyì",
    "romanization": "huìyì",
    "classifications": [
@@ -23526,10 +23526,10 @@
    "study_priority": 1098,
    "nativeExplain": {
     "pt-BR": "partida (jogo)",
-    "zh": "两支队伍或两个人之间的比赛。"
+    "zh": "两支队伍或两个人之间争胜负的活动。"
    },
    "user_hint": "",
-   "description": "两支队伍或两个人之间的比赛。",
+   "description": "两支队伍或两个人之间争胜负的活动。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -23738,7 +23738,7 @@
    "alternatives": [],
    "reading": "nǐ yǐjīng",
    "romanization": "nǐ yǐjīng",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2658,
    "user_hint": "",
@@ -24230,11 +24230,9 @@
     "people"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "哥哥",
-   "alternatives": [
-    "弟弟"
-   ],
-   "reading": "gēgē",
+   "text": "兄弟",
+   "alternatives": [],
+   "reading": "xiōngdì",
    "romanization": "gēgē",
    "classifications": [
     {
@@ -24246,11 +24244,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 243,
-   "description": "和你有相同父母的男性。",
+   "description": "同父母所生的男子；年长的叫“哥哥”，年幼的叫“弟弟”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "和你有相同父母的男性。"
+    "zh": "同父母所生的男子；年长的叫“哥哥”，年幼的叫“弟弟”。"
    },
    "antonyms": [
     "en:000001173"
@@ -24273,10 +24271,10 @@
    "study_tier": "herdado",
    "study_priority": 2662,
    "user_hint": "",
-   "description": "“can not”连写的形式。",
+   "description": "没有能力或不被允许做某事。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“can not”连写的形式。"
+    "zh": "没有能力或不被允许做某事。"
    },
    "antonyms": []
   },
@@ -24481,7 +24479,8 @@
    "nativeExplain": {
     "zh": "“have not”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000783",
@@ -25433,7 +25432,8 @@
    "nativeExplain": {
     "zh": "“could not”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000817",
@@ -25996,7 +25996,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "代码",
    "alternatives": [
-    "密码"
+    "编码"
    ],
    "reading": "dàimǎ",
    "romanization": "dàimǎ",
@@ -26698,10 +26698,10 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2705,
    "user_hint": "",
-   "description": "仅仅；简单地。",
+   "description": "仅仅；用容易的方式。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "仅仅；简单地。"
+    "zh": "仅仅；用容易的方式。"
    },
    "antonyms": []
   },
@@ -27335,7 +27335,8 @@
    "nativeExplain": {
     "zh": "“the ones”指那些人或东西。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000881",
@@ -27977,7 +27978,8 @@
    "nativeExplain": {
     "zh": "礼貌地称呼一位男士。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000000905",
@@ -28095,7 +28097,7 @@
    "alternatives": [],
    "reading": "bú shì",
    "romanization": "bú shì",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2730,
    "user_hint": "",
@@ -29204,7 +29206,7 @@
    "alternatives": [],
    "reading": "wǒmen yǐjīng",
    "romanization": "wǒmen yǐjīng",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2733,
    "user_hint": "",
@@ -30624,9 +30626,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "加法",
-   "alternatives": [
-    "另外"
-   ],
+   "alternatives": [],
    "reading": "jiāfǎ",
    "romanization": "jiāfǎ",
    "study_tier": "cedo",
@@ -31723,7 +31723,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "穿过",
    "alternatives": [
-    "过马路"
+    "横穿"
    ],
    "reading": "chuānguò",
    "romanization": "chuānguò",
@@ -32160,7 +32160,8 @@
    "nativeExplain": {
     "zh": "“mile”（英里）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001057",
@@ -34472,7 +34473,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "哇",
    "alternatives": [],
-   "reading": "wa",
+   "reading": "wā",
    "romanization": "wa",
    "classifications": [
     {
@@ -34910,9 +34911,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "法官",
-   "alternatives": [
-    "裁判"
-   ],
+   "alternatives": [],
    "reading": "fǎguān",
    "romanization": "fǎguān",
    "classifications": [
@@ -35327,11 +35326,9 @@
     "people"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "姐姐",
-   "alternatives": [
-    "妹妹"
-   ],
-   "reading": "jiějiě",
+   "text": "姐妹",
+   "alternatives": [],
+   "reading": "jiěmèi",
    "romanization": "jiějiě",
    "classifications": [
     {
@@ -35343,11 +35340,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 357,
-   "description": "和你有相同父母的女性。",
+   "description": "同父母所生的女子；年长的叫“姐姐”，年幼的叫“妹妹”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "和你有相同父母的女性。"
+    "zh": "同父母所生的女子；年长的叫“姐姐”，年幼的叫“妹妹”。"
    },
    "antonyms": [
     "en:000000774"
@@ -35949,9 +35946,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "身体的",
-   "alternatives": [
-    "物理的"
-   ],
+   "alternatives": [],
    "reading": "shēntǐ de",
    "romanization": "shēntǐ de",
    "study_tier": "cedo",
@@ -36623,11 +36618,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 363,
-   "description": "大型的船。",
+   "description": "在海上载人运货的大型交通工具。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "大型的船。"
+    "zh": "在海上载人运货的大型交通工具。"
    },
    "antonyms": []
   },
@@ -36805,10 +36800,10 @@
    "study_tier": "cedo",
    "study_priority": 1252,
    "user_hint": "",
-   "description": "一群音乐人组成的乐队。",
+   "description": "由几个音乐人组成的演奏团体。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一群音乐人组成的乐队。"
+    "zh": "由几个音乐人组成的演奏团体。"
    },
    "antonyms": []
   },
@@ -36999,10 +36994,10 @@
    "study_tier": "cedo",
    "study_priority": 1255,
    "user_hint": "",
-   "description": "为做成某事而付出的努力。",
+   "description": "为做成某事而付出的力气和心血。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "为做成某事而付出的努力。"
+    "zh": "为做成某事而付出的力气和心血。"
    },
    "antonyms": []
   },
@@ -38609,11 +38604,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "损坏",
+   "text": "损害",
    "alternatives": [
-    "伤害"
+    "损坏",
+    "损失"
    ],
-   "reading": "sǔnhuài",
+   "reading": "sǔnhài",
    "romanization": "sǔnhuài",
    "classifications": [
     {
@@ -38626,10 +38622,10 @@
    "study_tier": "cedo",
    "study_priority": 1276,
    "user_hint": "",
-   "description": "对某物造成的损害。",
+   "description": "对某物造成的破坏或伤害。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "对某物造成的损害。"
+    "zh": "对某物造成的破坏或伤害。"
    },
    "antonyms": []
   },
@@ -38692,10 +38688,10 @@
    "study_tier": "cedo",
    "study_priority": 1278,
    "user_hint": "",
-   "description": "一种疾病。",
+   "description": "身体或心理不健康的状态。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一种疾病。"
+    "zh": "身体或心理不健康的状态。"
    },
    "antonyms": []
   },
@@ -39586,7 +39582,8 @@
    "nativeExplain": {
     "zh": "用在已婚女士姓名前的称呼。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001339",
@@ -39652,10 +39649,10 @@
    "study_tier": "cedo",
    "study_priority": 1294,
    "user_hint": "",
-   "description": "实际存在的事物；现实生活。",
+   "description": "实际存在的事物；真实的生活。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "实际存在的事物；现实生活。"
+    "zh": "实际存在的事物；真实的生活。"
    },
    "antonyms": []
   },
@@ -39716,7 +39713,8 @@
    "nativeExplain": {
     "zh": "“we will”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001345",
@@ -40217,10 +40215,10 @@
    "study_tier": "cedo",
    "study_priority": 1304,
    "user_hint": "",
-   "description": "神圣的；与神有关的。",
+   "description": "纯洁而崇高的；与神有关的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "神圣的；与神有关的。"
+    "zh": "纯洁而崇高的；与神有关的。"
    },
    "antonyms": []
   },
@@ -40270,10 +40268,10 @@
    "study_tier": "inicial",
    "study_priority": 394,
    "user_hint": "",
-   "description": "“lots”表示很多。",
+   "description": "数量或分量非常大。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“lots”表示很多。"
+    "zh": "数量或分量非常大。"
    },
    "antonyms": []
   },
@@ -40363,7 +40361,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "主要的",
    "alternatives": [
-    "小学的"
+    "初级的"
    ],
    "reading": "zhǔyào de",
    "romanization": "zhǔyào de",
@@ -40404,10 +40402,10 @@
    "study_tier": "cedo",
    "study_priority": 1308,
    "user_hint": "",
-   "description": "做某事的原因或目的。",
+   "description": "做某事的原因或想达到的结果。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "做某事的原因或目的。"
+    "zh": "做某事的原因或想达到的结果。"
    },
    "antonyms": []
   },
@@ -40593,11 +40591,11 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "机构",
+   "text": "代理机构",
    "alternatives": [
     "中介"
    ],
-   "reading": "jīgòu",
+   "reading": "dàilǐ jīgòu",
    "romanization": "dàilǐ",
    "classifications": [
     {
@@ -40610,10 +40608,10 @@
    "study_tier": "cedo",
    "study_priority": 1311,
    "user_hint": "",
-   "description": "提供服务的机构（如旅行社）。",
+   "description": "提供某种服务的公司（如旅行社）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "提供服务的机构（如旅行社）。"
+    "zh": "提供某种服务的公司（如旅行社）。"
    },
    "antonyms": []
   },
@@ -41015,11 +41013,11 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "大量",
+   "text": "质量",
    "alternatives": [
-    "质量"
+    "团块"
    ],
-   "reading": "dàliàng",
+   "reading": "zhìliàng",
    "romanization": "dàliàng",
    "classifications": [
     {
@@ -41033,10 +41031,10 @@
    "study_priority": 1320,
    "nativeExplain": {
     "pt-BR": "massa (grande quantidade) vs missa",
-    "zh": "大量的物质。"
+    "zh": "物体所含物质的多少；也指一大团物质。"
    },
    "user_hint": "",
-   "description": "大量的物质。",
+   "description": "物体所含物质的多少；也指一大团物质。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -41413,10 +41411,10 @@
    "study_tier": "cedo",
    "study_priority": 1325,
    "user_hint": "",
-   "description": "真正地；真诚地。",
+   "description": "确实如此；发自内心地。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "真正地；真诚地。"
+    "zh": "确实如此；发自内心地。"
    },
    "antonyms": []
   },
@@ -41700,9 +41698,9 @@
    "study_priority": 2813,
    "nativeExplain": {
     "pt-BR": "divisão (matemática) vs divisão (departamento)",
-    "zh": "分成几份；数学的除法 ÷。"
+    "zh": "分成几份；也指数学中的 ÷ 运算。"
    },
-   "description": "分成几份；数学的除法 ÷。",
+   "description": "分成几份；也指数学中的 ÷ 运算。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -41816,10 +41814,10 @@
    "study_tier": "cedo",
    "study_priority": 1328,
    "user_hint": "",
-   "description": "自由的状态。",
+   "description": "不受束缚、能按自己意愿行事的状态。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "自由的状态。"
+    "zh": "不受束缚、能按自己意愿行事的状态。"
    },
    "antonyms": []
   },
@@ -41854,14 +41852,14 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1329,
-   "description": "热，高温。",
+   "description": "很高的温度；物体发烫的状态。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000981"
    ],
    "nativeExplain": {
-    "zh": "热，高温。"
+    "zh": "很高的温度；物体发烫的状态。"
    }
   },
   {
@@ -42206,10 +42204,10 @@
    "study_tier": "cedo",
    "study_priority": 1335,
    "user_hint": "",
-   "description": "为做成某事而作的尝试。",
+   "description": "为做成某事而作的努力。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "为做成某事而作的尝试。"
+    "zh": "为做成某事而作的努力。"
    },
    "antonyms": []
   },
@@ -42224,9 +42222,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "打破了",
-   "alternatives": [
-    "没钱"
-   ],
+   "alternatives": [],
    "reading": "dǎpò le",
    "romanization": "dǎpò le",
    "core_status": "retired",
@@ -42341,11 +42337,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1338,
-   "description": "用一样东西换另一样；也指交换学生。",
+   "description": "用一样东西换另一样；也指学生互访学习。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "用一样东西换另一样；也指交换学生。"
+    "zh": "用一样东西换另一样；也指学生互访学习。"
    },
    "antonyms": []
   },
@@ -42588,10 +42584,10 @@
    "study_tier": "cedo",
    "study_priority": 1342,
    "user_hint": "",
-   "description": "非常强大。",
+   "description": "力量非常大的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "非常强大。"
+    "zh": "力量非常大的。"
    },
    "antonyms": []
   },
@@ -42736,10 +42732,10 @@
    "study_tier": "cedo",
    "study_priority": 1345,
    "user_hint": "",
-   "description": "与宗教有关的。",
+   "description": "与信仰神灵有关的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "与宗教有关的。"
+    "zh": "与信仰神灵有关的。"
    },
    "antonyms": []
   },
@@ -42932,13 +42928,13 @@
    "study_tier": "inicial",
    "study_priority": 412,
    "user_hint": "",
-   "description": "不快。",
+   "description": "速度不快的。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000742"
    ],
    "nativeExplain": {
-    "zh": "不快。"
+    "zh": "速度不快的。"
    }
   },
   {
@@ -43133,7 +43129,8 @@
    "nativeExplain": {
     "zh": "“who is”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001478",
@@ -43162,7 +43159,8 @@
    "nativeExplain": {
     "zh": "“谁”作宾语，较正式的用法。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001479",
@@ -43176,7 +43174,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "精彩",
    "alternatives": [
-    "太好了"
+    "美好",
+    "极好"
    ],
    "reading": "jīngcǎi",
    "romanization": "jīngcǎi",
@@ -43344,10 +43343,10 @@
    "study_tier": "intermediário",
    "study_priority": 2827,
    "user_hint": "",
-   "description": "强烈的要求；也指市场需求量。",
+   "description": "强烈提出的请求；也指市场上想买的数量。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "强烈的要求；也指市场需求量。"
+    "zh": "强烈提出的请求；也指市场上想买的数量。"
    },
    "antonyms": [
     "en:000001615"
@@ -44328,10 +44327,10 @@
    "study_tier": "cedo",
    "study_priority": 1366,
    "user_hint": "",
-   "description": "大部分；主要地。",
+   "description": "在多数情况下。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "大部分；主要地。"
+    "zh": "在多数情况下。"
    },
    "antonyms": []
   },
@@ -44385,7 +44384,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "主人",
    "alternatives": [
-    "老板"
+    "所有者"
    ],
    "reading": "zhǔrén",
    "romanization": "zhǔrén",
@@ -44631,11 +44630,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 428,
-   "description": "聪明，有头脑。",
+   "description": "脑子灵活，有智慧。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "聪明，有头脑。"
+    "zh": "脑子灵活，有智慧。"
    },
    "antonyms": []
   },
@@ -44799,7 +44798,7 @@
    ],
    "reading": "nǐ huì",
    "romanization": "nǐ huì",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2836,
    "user_hint": "",
@@ -44926,10 +44925,10 @@
    "study_tier": "cedo",
    "study_priority": 1378,
    "user_hint": "",
-   "description": "对你有帮助的好处。",
+   "description": "对你有帮助的有利之处。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "对你有帮助的好处。"
+    "zh": "对你有帮助的有利之处。"
    },
    "antonyms": []
   },
@@ -45153,10 +45152,10 @@
    "study_tier": "cedo",
    "study_priority": 1383,
    "user_hint": "",
-   "description": "某事物的重要部分或特点。",
+   "description": "某事物重要的部分或与众不同之处。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "某事物的重要部分或特点。"
+    "zh": "某事物重要的部分或与众不同之处。"
    },
    "antonyms": []
   },
@@ -45552,7 +45551,8 @@
    "nativeExplain": {
     "zh": "“should not”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001583",
@@ -46055,10 +46055,10 @@
    "study_tier": "cedo",
    "study_priority": 1397,
    "user_hint": "",
-   "description": "日本的；日本的语言。",
+   "description": "与日本这个国家有关的；也指日本人使用的语言。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "日本的；日本的语言。"
+    "zh": "与日本这个国家有关的；也指日本人使用的语言。"
    },
    "antonyms": []
   },
@@ -46398,11 +46398,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 439,
-   "description": "跟平常不一样，很奇怪。",
+   "description": "跟平常不一样，让人觉得不对劲。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "跟平常不一样，很奇怪。"
+    "zh": "跟平常不一样，让人觉得不对劲。"
    },
    "antonyms": []
   },
@@ -46429,11 +46429,11 @@
    "romanization": "chéngniánrén",
    "study_tier": "cedo",
    "study_priority": 1404,
-   "description": "已经长大的成年人。",
+   "description": "已经长大、不再是孩子的人。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "已经长大的成年人。"
+    "zh": "已经长大、不再是孩子的人。"
    },
    "antonyms": []
   },
@@ -46577,9 +46577,11 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "工程",
-   "alternatives": [],
-   "reading": "gōngchéng",
+   "text": "工程学",
+   "alternatives": [
+    "工程"
+   ],
+   "reading": "gōngchéngxué",
    "romanization": "gōngchéng",
    "classifications": [
     {
@@ -47256,11 +47258,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 446,
-   "description": "正确，没有错误。",
+   "description": "没有错误的。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "正确，没有错误。"
+    "zh": "没有错误的。"
    },
    "antonyms": []
   },
@@ -47362,10 +47364,10 @@
    "study_tier": "pendente",
    "study_priority": 3436,
    "user_hint": "",
-   "description": "一家公司。",
+   "description": "做生意赚钱的组织。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一家公司。"
+    "zh": "做生意赚钱的组织。"
    },
    "antonyms": []
   },
@@ -47496,10 +47498,10 @@
    "study_tier": "cedo",
    "study_priority": 1419,
    "user_hint": "",
-   "description": "的确；确实。",
+   "description": "完全是这样，没有疑问。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "的确；确实。"
+    "zh": "完全是这样，没有疑问。"
    },
    "antonyms": []
   },
@@ -47681,10 +47683,10 @@
    "study_tier": "cedo",
    "study_priority": 1422,
    "user_hint": "",
-   "description": "幽灵；也指精神和热情。",
+   "description": "人的意志和活力；也指幽灵。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "幽灵；也指精神和热情。"
+    "zh": "人的意志和活力；也指幽灵。"
    },
    "antonyms": []
   },
@@ -48182,14 +48184,14 @@
    "romanization": "bù kěnéng",
    "study_tier": "inicial",
    "study_priority": 453,
-   "description": "不可能发生。",
+   "description": "无法发生或做到的。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000423"
    ],
    "nativeExplain": {
-    "zh": "不可能发生。"
+    "zh": "无法发生或做到的。"
    }
   },
   {
@@ -48728,10 +48730,10 @@
    "study_tier": "cedo",
    "study_priority": 1442,
    "user_hint": "",
-   "description": "亲爱的；用于信的开头。",
+   "description": "被深深喜爱的；用于信的开头。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "亲爱的；用于信的开头。"
+    "zh": "被深深喜爱的；用于信的开头。"
    },
    "antonyms": []
   },
@@ -49004,10 +49006,10 @@
    "study_tier": "inicial",
    "study_priority": 458,
    "user_hint": "",
-   "description": "运气好。",
+   "description": "常常碰到好事的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "运气好。"
+    "zh": "常常碰到好事的。"
    },
    "antonyms": []
   },
@@ -49189,10 +49191,10 @@
    "study_tier": "cedo",
    "study_priority": 1454,
    "user_hint": "",
-   "description": "不常见；也指肉烤得很生。",
+   "description": "不常见的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "不常见；也指肉烤得很生。"
+    "zh": "不常见的。"
    },
    "antonyms": []
   },
@@ -49913,10 +49915,10 @@
    "study_tier": "cedo",
    "study_priority": 1464,
    "user_hint": "",
-   "description": "请求某事。",
+   "description": "向别人提出想要的东西或帮助。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "请求某事。"
+    "zh": "向别人提出想要的东西或帮助。"
    },
    "antonyms": []
   },
@@ -49960,7 +49962,7 @@
    "alternatives": [],
    "reading": "tāmen yǐjīng",
    "romanization": "tāmen yǐjīng",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2867,
    "user_hint": "",
@@ -50745,10 +50747,10 @@
    "study_tier": "cedo",
    "study_priority": 1478,
    "user_hint": "",
-   "description": "为查明事实而进行的调查（如警方）。",
+   "description": "为查明事实而做的工作（如警方）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "为查明事实而进行的调查（如警方）。"
+    "zh": "为查明事实而做的工作（如警方）。"
    },
    "antonyms": []
   },
@@ -51662,10 +51664,10 @@
    "study_tier": "herdado",
    "study_priority": 2875,
    "user_hint": "",
-   "description": "已准备好的。",
+   "description": "一切就绪的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "已准备好的。"
+    "zh": "一切就绪的。"
    },
    "antonyms": []
   },
@@ -51694,10 +51696,10 @@
    "study_tier": "cedo",
    "study_priority": 1492,
    "user_hint": "",
-   "description": "对出处的提及；参考资料。",
+   "description": "对出处的提及；查阅用的资料。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "对出处的提及；参考资料。"
+    "zh": "对出处的提及；查阅用的资料。"
    },
    "antonyms": []
   },
@@ -51756,11 +51758,11 @@
    "romanization": "mǒu ge dìfang",
    "study_tier": "inicial",
    "study_priority": 480,
-   "description": "在不确定是哪里的某个地方。",
+   "description": "在不确定是哪里的一处。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在不确定是哪里的某个地方。"
+    "zh": "在不确定是哪里的一处。"
    },
    "antonyms": []
   },
@@ -52184,10 +52186,10 @@
    "study_tier": "cedo",
    "study_priority": 1499,
    "user_hint": "",
-   "description": "真实存在。",
+   "description": "确实有，不是虚构的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "真实存在。"
+    "zh": "确实有，不是虚构的。"
    },
    "antonyms": []
   },
@@ -52400,11 +52402,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 483,
-   "description": "非常高的山体。",
+   "description": "地面上非常高大的隆起。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "非常高的山体。"
+    "zh": "地面上非常高大的隆起。"
    },
    "antonyms": []
   },
@@ -52645,10 +52647,10 @@
    "study_tier": "cedo",
    "study_priority": 1507,
    "user_hint": "",
-   "description": "西班牙的；西班牙语。",
+   "description": "与西班牙这个国家有关的；也指西班牙人使用的语言。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "西班牙的；西班牙语。"
+    "zh": "与西班牙这个国家有关的；也指西班牙人使用的语言。"
    },
    "antonyms": []
   },
@@ -52716,10 +52718,10 @@
    "study_tier": "cedo",
    "study_priority": 1508,
    "user_hint": "",
-   "description": "由问题引起的忧虑和压力。",
+   "description": "由问题引起的忧虑和紧张。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "由问题引起的忧虑和压力。"
+    "zh": "由问题引起的忧虑和紧张。"
    },
    "antonyms": []
   },
@@ -53300,7 +53302,7 @@
    "romanization": "shēngbìng",
    "study_tier": "cedo",
    "study_priority": 1516,
-   "description": "生了病。",
+   "description": "身体不健康的。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -53308,7 +53310,7 @@
     "en:000001626"
    ],
    "nativeExplain": {
-    "zh": "生了病。"
+    "zh": "身体不健康的。"
    }
   },
   {
@@ -53330,10 +53332,10 @@
    "study_tier": "cedo",
    "study_priority": 1517,
    "user_hint": "",
-   "description": "开头的；最初的。",
+   "description": "开头的；第一步的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "开头的；最初的。"
+    "zh": "开头的；第一步的。"
    },
    "antonyms": []
   },
@@ -53389,10 +53391,10 @@
    "study_tier": "inicial",
    "study_priority": 489,
    "user_hint": "",
-   "description": "用脚踢。",
+   "description": "用脚撞击。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用脚踢。"
+    "zh": "用脚撞击。"
    },
    "antonyms": []
   },
@@ -53573,10 +53575,10 @@
    "study_tier": "cedo",
    "study_priority": 1520,
    "user_hint": "",
-   "description": "很多；绰绰有余。",
+   "description": "数量多得绰绰有余。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "很多；绰绰有余。"
+    "zh": "数量多得绰绰有余。"
    },
    "antonyms": []
   },
@@ -53979,10 +53981,10 @@
    "study_tier": "cedo",
    "study_priority": 1531,
    "user_hint": "",
-   "description": "有特殊用途的区域。",
+   "description": "有特殊用途的一片地方。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有特殊用途的区域。"
+    "zh": "有特殊用途的一片地方。"
    },
    "antonyms": []
   },
@@ -54360,11 +54362,12 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "太棒了",
+   "text": "极好的",
    "alternatives": [
-    "精彩"
+    "精彩",
+    "棒"
    ],
-   "reading": "tài bàng le",
+   "reading": "jíhǎo de",
    "romanization": "tài bàng le",
    "study_tier": "inicial",
    "study_priority": 498,
@@ -54458,7 +54461,8 @@
    "nativeExplain": {
     "zh": "“has not”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001963",
@@ -54874,10 +54878,10 @@
    "study_tier": "inicial",
    "study_priority": 503,
    "user_hint": "",
-   "description": "非常糟糕。",
+   "description": "非常坏的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "非常糟糕。"
+    "zh": "非常坏的。"
    },
    "antonyms": []
   },
@@ -54903,7 +54907,8 @@
    "nativeExplain": {
     "zh": "“they will”的缩略形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001984",
@@ -55020,11 +55025,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 506,
-   "description": "感到害怕。",
+   "description": "心里感到恐惧。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "感到害怕。"
+    "zh": "心里感到恐惧。"
    },
    "antonyms": []
   },
@@ -55184,10 +55189,10 @@
    "study_tier": "cedo",
    "study_priority": 1550,
    "user_hint": "",
-   "description": "一道命令。",
+   "description": "要求别人照着做的话。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一道命令。"
+    "zh": "要求别人照着做的话。"
    },
    "antonyms": []
   },
@@ -55345,10 +55350,10 @@
    "study_tier": "cedo",
    "study_priority": 1554,
    "user_hint": "",
-   "description": "确保某事无误。",
+   "description": "使某事一定不出差错。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "确保某事无误。"
+    "zh": "使某事一定不出差错。"
    },
    "antonyms": []
   },
@@ -55369,10 +55374,10 @@
    "study_tier": "cedo",
    "study_priority": 1555,
    "user_hint": "",
-   "description": "与自然和环境有关的。",
+   "description": "与自然和周边状况有关的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "与自然和环境有关的。"
+    "zh": "与自然和周边状况有关的。"
    },
    "antonyms": []
   },
@@ -55867,7 +55872,8 @@
    "nativeExplain": {
     "zh": "替人处理法律事务的专业人员。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002024",
@@ -56087,10 +56093,10 @@
    "study_tier": "cedo",
    "study_priority": 1562,
    "user_hint": "",
-   "description": "与历史有关的。",
+   "description": "与过去发生的事有关的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "与历史有关的。"
+    "zh": "与过去发生的事有关的。"
    },
    "antonyms": []
   },
@@ -56117,11 +56123,11 @@
    "romanization": "lǎoshi shuō",
    "study_tier": "cedo",
    "study_priority": 1563,
-   "description": "说实话，老实讲。",
+   "description": "照实际情况讲。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "说实话，老实讲。"
+    "zh": "照实际情况讲。"
    },
    "antonyms": []
   },
@@ -56152,10 +56158,10 @@
    "study_tier": "cedo",
    "study_priority": 1564,
    "user_hint": "",
-   "description": "极大的尊敬；荣誉。",
+   "description": "极大的尊敬；被人敬重的名声。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "极大的尊敬；荣誉。"
+    "zh": "极大的尊敬；被人敬重的名声。"
    },
    "antonyms": []
   },
@@ -56373,7 +56379,8 @@
    "nativeExplain": {
     "zh": "中午之后（下午三点）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002049",
@@ -56402,10 +56409,10 @@
    "study_tier": "cedo",
    "study_priority": 1570,
    "user_hint": "",
-   "description": "一束光线。",
+   "description": "一束光。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一束光线。"
+    "zh": "一束光。"
    },
    "antonyms": []
   },
@@ -56529,10 +56536,10 @@
    "study_tier": "cedo",
    "study_priority": 1572,
    "user_hint": "",
-   "description": "“技术”的口语说法。",
+   "description": "“科学技术”的简称。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“技术”的口语说法。"
+    "zh": "“科学技术”的简称。"
    },
    "antonyms": []
   },
@@ -57006,11 +57013,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "流",
-   "alternatives": [
-    "流动"
-   ],
-   "reading": "liú",
+   "text": "流动",
+   "alternatives": [],
+   "reading": "liúdòng",
    "romanization": "liú",
    "classifications": [
     {
@@ -57273,11 +57278,11 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "被选中的",
+   "text": "选择了",
    "alternatives": [
     "选定的"
    ],
-   "reading": "bèi xuǎnzhòng de",
+   "reading": "xuǎnzé le",
    "romanization": "bèi xuǎnzhòng de",
    "core_status": "retired",
    "study_tier": "herdado",
@@ -57546,8 +57551,10 @@
    "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "不是（过去）",
-   "alternatives": [],
+   "text": "不是",
+   "alternatives": [
+    "没有"
+   ],
    "reading": "bú shì",
    "romanization": "bú shì",
    "core_status": "retired",
@@ -57937,7 +57944,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "给予",
    "alternatives": [
-    "同意"
+    "准许"
    ],
    "reading": "jǐyǔ",
    "romanization": "jǐyǔ",
@@ -58130,10 +58137,10 @@
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
-   "description": "用在女士姓名前的称呼，不论婚否。",
+   "description": "放在女性姓氏后的称呼，不论婚否。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用在女士姓名前的称呼，不论婚否。"
+    "zh": "放在女性姓氏后的称呼，不论婚否。"
    },
    "antonyms": []
   },
@@ -59251,7 +59258,8 @@
    "nativeExplain": {
     "zh": "最大值。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002185",
@@ -63587,11 +63595,11 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "很小",
+   "text": "小小的",
    "alternatives": [
     "微小"
    ],
-   "reading": "hěn xiǎo",
+   "reading": "xiǎoxiǎo de",
    "romanization": "hěn xiǎo",
    "study_tier": "inicial",
    "study_priority": 564,
@@ -63918,9 +63926,11 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "被选中的",
-   "alternatives": [],
-   "reading": "bèi xuǎnzhòng de",
+   "text": "选择了",
+   "alternatives": [
+    "被选中的"
+   ],
+   "reading": "xuǎnzé le",
    "romanization": "bèi xuǎnzhòng de",
    "core_status": "retired",
    "study_tier": "herdado",
@@ -64289,7 +64299,8 @@
    "nativeExplain": {
     "zh": "“identification”的缩写：证明身份的证件。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002411",
@@ -65050,10 +65061,10 @@
    "study_tier": "cedo",
    "study_priority": 1711,
    "user_hint": "",
-   "description": "信息（口语）。",
+   "description": "消息或资料（口语）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "信息（口语）。"
+    "zh": "消息或资料（口语）。"
    },
    "antonyms": []
   },
@@ -65169,7 +65180,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "画",
    "alternatives": [
-    "油画"
+    "绘画"
    ],
    "reading": "huà",
    "romanization": "huà",
@@ -65426,9 +65437,9 @@
    "study_priority": 3578,
    "nativeExplain": {
     "pt-BR": "interruptor (subst.) vs trocar (verbo)",
-    "zh": "用来接通或切断电源的开关。"
+    "zh": "用来接通或切断电源的装置。"
    },
-   "description": "用来接通或切断电源的开关。",
+   "description": "用来接通或切断电源的装置。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -65716,11 +65727,11 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "联系",
+   "text": "纽带",
    "alternatives": [
-    "纽带"
+    "联系"
    ],
-   "reading": "liánxì",
+   "reading": "niǔdài",
    "romanization": "liánxì",
    "classifications": [
     {
@@ -66582,10 +66593,10 @@
    "study_tier": "cedo",
    "study_priority": 1733,
    "user_hint": "",
-   "description": "典型；体现某类事物的常态。",
+   "description": "最能体现某类事物普遍特点的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "典型；体现某类事物的常态。"
+    "zh": "最能体现某类事物普遍特点的。"
    },
    "antonyms": []
   },
@@ -66791,11 +66802,11 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "专心的",
+   "text": "投入的",
    "alternatives": [
-    "投入的"
+    "敬业的"
    ],
-   "reading": "zhuānxīn de",
+   "reading": "tóurù de",
    "romanization": "zhuānxīn de",
    "study_tier": "cedo",
    "study_priority": 1739,
@@ -68915,10 +68926,10 @@
    "study_tier": "cedo",
    "study_priority": 1782,
    "user_hint": "",
-   "description": "最终。",
+   "description": "经过种种之后，到最后。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "最终。"
+    "zh": "经过种种之后，到最后。"
    },
    "antonyms": []
   },
@@ -69347,7 +69358,7 @@
    "kind": "word",
    "description_en": "\"Depending on\" = it changes with.",
    "level": "C1",
-   "part_of_speech": "v",
+   "part_of_speech": "phr",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "取决于",
@@ -69757,10 +69768,10 @@
    "study_tier": "cedo",
    "study_priority": 1799,
    "user_hint": "",
-   "description": "重要的程度。",
+   "description": "某事有多么要紧。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "重要的程度。"
+    "zh": "某事有多么要紧。"
    },
    "antonyms": []
   },
@@ -70074,7 +70085,7 @@
    "alternatives": [
     "首要的"
    ],
-   "reading": "yīliú de",
+   "reading": "yìliú de",
    "romanization": "yīliú de",
    "study_tier": "intermediário",
    "study_priority": 3017,
@@ -70373,7 +70384,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "参加",
    "alternatives": [
-    "上（学）"
+    "出席"
    ],
    "reading": "cānjiā",
    "romanization": "cānjiā",
@@ -70711,10 +70722,10 @@
    "study_tier": "cedo",
    "study_priority": 1817,
    "user_hint": "",
-   "description": "某物的深度。",
+   "description": "从表面到底部的距离。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "某物的深度。"
+    "zh": "从表面到底部的距离。"
    },
    "antonyms": []
   },
@@ -71111,10 +71122,10 @@
    "study_tier": "intermediário",
    "study_priority": 3024,
    "user_hint": "",
-   "description": "国家制定的各项法律。",
+   "description": "国家制定的各项法规。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "国家制定的各项法律。"
+    "zh": "国家制定的各项法规。"
    },
    "antonyms": []
   },
@@ -71128,11 +71139,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "维修",
+   "text": "维护",
    "alternatives": [
-    "保养"
+    "保养",
+    "维修"
    ],
-   "reading": "wéixiū",
+   "reading": "wéihù",
    "romanization": "wéixiū",
    "classifications": [
     {
@@ -71218,7 +71230,8 @@
    "nativeExplain": {
     "zh": "朋友（英国、澳大利亚用语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002704",
@@ -71589,11 +71602,11 @@
     "food"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "米饭",
+   "text": "米",
    "alternatives": [
-    "米"
+    "米饭"
    ],
-   "reading": "mǐfàn",
+   "reading": "mǐ",
    "romanization": "mǐfàn",
    "classifications": [
     {
@@ -71605,11 +71618,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 605,
-   "description": "煮熟后食用的白色小颗粒。",
+   "description": "白色小颗粒的粮食，煮熟后叫“米饭”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "煮熟后食用的白色小颗粒。"
+    "zh": "白色小颗粒的粮食，煮熟后叫“米饭”。"
    },
    "antonyms": []
   },
@@ -71759,11 +71772,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1832,
-   "description": "一定，没有疑问。",
+   "description": "没有疑问，必然。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "一定，没有疑问。"
+    "zh": "没有疑问，必然。"
    },
    "antonyms": []
   },
@@ -73489,7 +73502,8 @@
    "nativeExplain": {
     "zh": "个人电脑。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002805",
@@ -74133,12 +74147,12 @@
     "home"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "失明",
+   "text": "失明的",
    "alternatives": [
     "盲",
     "瞎"
    ],
-   "reading": "shīmíng",
+   "reading": "shīmíng de",
    "romanization": "shīmíng",
    "classifications": [
     {
@@ -75719,7 +75733,7 @@
    "alternatives": [
     "费"
    ],
-   "reading": "fèiyong",
+   "reading": "fèiyòng",
    "romanization": "fèiyong",
    "classifications": [
     {
@@ -77728,7 +77742,8 @@
    "nativeExplain": {
     "zh": "“Before Christ”：纪年中的公元前。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003000",
@@ -77784,7 +77799,8 @@
    "nativeExplain": {
     "zh": "口语表达：我累极了。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003073",
@@ -77974,7 +77990,8 @@
    "nativeExplain": {
     "zh": "表演前祝人好运的口语说法。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003041",
@@ -78008,7 +78025,8 @@
    "nativeExplain": {
     "zh": "亲切地称呼男性朋友。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003001",
@@ -78034,7 +78052,8 @@
    "nativeExplain": {
     "zh": "美元（口语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003091",
@@ -78102,7 +78121,8 @@
    "nativeExplain": {
     "zh": "英国用语：有点无礼，但带点俏皮。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003008",
@@ -78128,7 +78148,8 @@
    "nativeExplain": {
     "zh": "英国用语：谢谢；碰杯时也说。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003020",
@@ -78177,7 +78198,8 @@
    "nativeExplain": {
     "zh": "在别人家借宿一晚。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003055",
@@ -78412,7 +78434,8 @@
    "nativeExplain": {
     "zh": "炫耀自己拥有的东西。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003030",
@@ -78438,7 +78461,8 @@
    "nativeExplain": {
     "zh": "突然不再回复某人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003049",
@@ -79008,7 +79032,8 @@
    "nativeExplain": {
     "zh": "“是我的错。”"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003050",
@@ -79056,7 +79081,8 @@
    "nativeExplain": {
     "zh": "“没什么大不了。”"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003038",
@@ -79226,7 +79252,8 @@
    "nativeExplain": {
     "zh": "英国用语：垃圾；胡说。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003032",
@@ -79408,7 +79435,8 @@
    "nativeExplain": {
     "zh": "礼貌地推掉这次，改日再说。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003053",
@@ -79440,7 +79468,8 @@
    "nativeExplain": {
     "zh": "英国用语：买回家吃的饭菜。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003054",
@@ -79529,7 +79558,8 @@
    "nativeExplain": {
     "zh": "在地下运行的列车系统。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003048",
@@ -79585,7 +79615,8 @@
    "nativeExplain": {
     "zh": "英国用语：大学。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003012",
@@ -79598,9 +79629,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "最近怎么样",
-   "alternatives": [
-    "怎么了"
-   ],
+   "alternatives": [],
    "reading": "zuìjìn zěnmeyàng",
    "romanization": "zuìjìn zěnmeyàng",
    "study_tier": "temático (Slang)",
@@ -81675,7 +81704,8 @@
    "nativeExplain": {
     "zh": "路边供行人走的道。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003147",
@@ -83698,10 +83728,10 @@
    "study_priority": 3357,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "立在地上的坚固柱子。",
+   "description": "立在地上的坚固长杆。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "立在地上的坚固柱子。"
+    "zh": "立在地上的坚固长杆。"
    },
    "level": "A1",
    "antonyms": []
@@ -83916,10 +83946,10 @@
    "study_priority": 3398,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "一次吃的饭，如早餐、午餐或晚餐。",
+   "description": "每次正式吃的东西，如早餐、午餐或晚餐。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一次吃的饭，如早餐、午餐或晚餐。"
+    "zh": "每次正式吃的东西，如早餐、午餐或晚餐。"
    },
    "level": "B1",
    "antonyms": []
@@ -83964,10 +83994,10 @@
    "study_priority": 3412,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "用嗓音唱歌的行为。",
+   "description": "用嗓音发出音乐的行为。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用嗓音唱歌的行为。"
+    "zh": "用嗓音发出音乐的行为。"
    },
    "level": "C1",
    "antonyms": []
@@ -84156,10 +84186,10 @@
    "study_priority": 3445,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "做决定前仔细考虑。",
+   "description": "做决定前仔细想一想。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "做决定前仔细考虑。"
+    "zh": "做决定前仔细想一想。"
    },
    "level": "B1",
    "antonyms": []
@@ -84372,10 +84402,10 @@
    "study_priority": 3476,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "有质量并占据空间的一切物质。",
+   "description": "有质量并占据空间的一切东西。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有质量并占据空间的一切物质。"
+    "zh": "有质量并占据空间的一切东西。"
    },
    "level": "A1",
    "antonyms": []
@@ -84458,22 +84488,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Something to drink; the act of drinking.",
-   "text": "饮料",
+   "text": "喝酒",
    "alternatives": [
-    "喝"
+    "饮酒"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yǐnliào",
+   "reading": "hējiǔ",
    "romanization": "yǐnliào",
    "study_tier": "pendente",
    "study_priority": 3481,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "喝的东西；喝的动作。",
+   "description": "喝含酒精饮品的行为。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "喝的东西；喝的动作。"
+    "zh": "喝含酒精饮品的行为。"
    },
    "level": "B1",
    "antonyms": []
@@ -84532,20 +84562,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A bend in a road or path.",
-   "text": "拐弯",
-   "alternatives": [],
+   "text": "弯道",
+   "alternatives": [
+    "拐弯处"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "guǎiwān",
+   "reading": "wāndào",
    "romanization": "guǎiwān",
    "study_tier": "pendente",
    "study_priority": 3488,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "道路或小径的转弯处。",
+   "description": "道路或小径弯曲的地方。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "道路或小径的转弯处。"
+    "zh": "道路或小径弯曲的地方。"
    },
    "level": "A1",
    "antonyms": []
@@ -84566,10 +84598,10 @@
    "study_priority": 3489,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "与某人谈恋爱、约会。",
+   "description": "与恋爱对象见面、一起外出。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "与某人谈恋爱、约会。"
+    "zh": "与恋爱对象见面、一起外出。"
    },
    "level": "B1",
    "antonyms": []
@@ -84614,10 +84646,10 @@
    "study_priority": 3491,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "控制人或事物的能力或权力。",
+   "description": "控制人或事物的能力或支配地位。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "控制人或事物的能力或权力。"
+    "zh": "控制人或事物的能力或支配地位。"
    },
    "level": "A1",
    "antonyms": []
@@ -85374,11 +85406,13 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "A large amount or number.",
-   "text": "一堆",
-   "alternatives": [],
+   "text": "很多",
+   "alternatives": [
+    "一堆"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yīduī",
+   "reading": "hěn duō",
    "romanization": "yīduī",
    "study_tier": "pendente",
    "study_priority": 3583,
@@ -85728,7 +85762,8 @@
     "zh": "民主党的成员或支持者。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002745",
@@ -85816,7 +85851,7 @@
    "romanization": "xiǎngzhīdào",
    "study_tier": "pendente",
    "study_priority": 3623,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
    "description": "心里想知道某事。",
    "novrev_status": "reviewed",
@@ -86088,7 +86123,8 @@
     "zh": "共和党的成员或支持者。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003065",
@@ -86337,7 +86373,8 @@
     "zh": "承诺改日再接受邀请。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003193",
@@ -86572,7 +86609,8 @@
     "zh": "美式橄榄球（在美国的通常含义）。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003205",
@@ -86589,10 +86627,10 @@
    "study_tier": "inicial",
    "study_priority": 675,
    "user_hint": "",
-   "description": "当然：“Of course I will help”。",
+   "description": "表示理所应当、毫无疑问（“Of course I will help”）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "当然：“Of course I will help”。"
+    "zh": "表示理所应当、毫无疑问（“Of course I will help”）。"
    },
    "level": "A1",
    "antonyms": []
@@ -86974,7 +87012,7 @@
    "romanization": "zàijiàn",
    "study_tier": "inicial",
    "study_priority": 690,
-   "part_of_speech": "n",
+   "part_of_speech": "exp",
    "user_hint": "",
    "description": "再见（口语）。",
    "novrev_status": "reviewed",
@@ -87837,7 +87875,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "guòmǎlù",
+   "reading": "guò mǎlù",
    "romanization": "guòmǎlù",
    "study_tier": "cedo",
    "study_priority": 2019,
@@ -88135,10 +88173,10 @@
    "study_priority": 2024,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "把东西整理好，使有条理。",
+   "description": "把东西按顺序摆好，使有条理。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把东西整理好，使有条理。"
+    "zh": "把东西按顺序摆好，使有条理。"
    },
    "level": "B1",
    "antonyms": []
@@ -88153,7 +88191,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "děnglúndàozìjǐ",
+   "reading": "děng lúndào zìjǐ",
    "romanization": "děnglúndàozìjǐ",
    "study_tier": "cedo",
    "study_priority": 2025,
@@ -88201,7 +88239,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tīnglǎoshīdehuà",
+   "reading": "tīng lǎoshī de huà",
    "romanization": "tīnglǎoshī",
    "study_tier": "cedo",
    "study_priority": 2026,
@@ -89237,7 +89275,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "xǐshǒu",
+   "reading": "xǐ shǒu",
    "romanization": "xǐshǒu",
    "study_tier": "inicial",
    "study_priority": 754,
@@ -89285,7 +89323,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "chuānyīfú",
+   "reading": "chuān yīfu",
    "romanization": "chuānyīfú",
    "study_tier": "inicial",
    "study_priority": 756,
@@ -89333,7 +89371,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "jìxiédài",
+   "reading": "jì xiédài",
    "romanization": "jìxiédài",
    "study_tier": "inicial",
    "study_priority": 758,
@@ -89357,7 +89395,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "kànliǎngbiān",
+   "reading": "kàn liǎngbiān",
    "romanization": "kànliǎngbiān",
    "study_tier": "cedo",
    "study_priority": 2036,
@@ -89405,7 +89443,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "shuōshíhuà",
+   "reading": "shuō shíhuà",
    "romanization": "shuōshíhuà",
    "study_tier": "cedo",
    "study_priority": 2037,
@@ -89477,7 +89515,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎzhāohū",
+   "reading": "dǎ zhāohu",
    "romanization": "dǎzhāohū",
    "study_tier": "inicial",
    "study_priority": 762,
@@ -89545,20 +89583,20 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To laugh a lot.",
-   "text": "笑翻",
+   "text": "大笑",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "xiàofān",
+   "reading": "dàxiào",
    "romanization": "xiàofān",
    "study_tier": "cedo",
    "study_priority": 2038,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "大笑不止。",
+   "description": "笑得停不下来。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "大笑不止。"
+    "zh": "笑得停不下来。"
    },
    "level": "A2",
    "antonyms": []
@@ -89758,7 +89796,8 @@
     "zh": "跳巴西的双人舞福罗。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003338",
@@ -89770,7 +89809,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tīzúqiú",
+   "reading": "tī zúqiú",
    "romanization": "tīzúqiú",
    "study_tier": "inicial",
    "study_priority": 766,
@@ -89794,7 +89833,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎlánqiú",
+   "reading": "dǎ lánqiú",
    "romanization": "dǎlánqiú",
    "study_tier": "cedo",
    "study_priority": 2044,
@@ -89818,7 +89857,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎpáiqiú",
+   "reading": "dǎ páiqiú",
    "romanization": "dǎpáiqiú",
    "study_tier": "cedo",
    "study_priority": 2045,
@@ -89842,7 +89881,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎyóuxì",
+   "reading": "dǎ yóuxì",
    "romanization": "dǎyóuxì",
    "study_tier": "cedo",
    "study_priority": 2046,
@@ -89866,7 +89905,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "kàndònghuàpiàn",
+   "reading": "kàn dònghuàpiàn",
    "romanization": "kàndònghuàpiàn",
    "study_tier": "inicial",
    "study_priority": 767,
@@ -89890,7 +89929,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tīngyīnyuè",
+   "reading": "tīng yīnyuè",
    "romanization": "tīngyīnyuè",
    "study_tier": "inicial",
    "study_priority": 768,
@@ -90310,7 +90349,8 @@
     "zh": "巴西棕榈树的深紫色小果实。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003361",
@@ -91135,7 +91175,9 @@
    "kind": "word",
    "description_en": "A book that explains the meanings of words.",
    "text": "字典",
-   "alternatives": [],
+   "alternatives": [
+    "词典"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "zìdiǎn",
@@ -91144,10 +91186,10 @@
    "study_priority": 2050,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "解释词语意思的书。",
+   "description": "解释词语意思的书。字典主要查单字，词典查词语。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "解释词语意思的书。"
+    "zh": "解释词语意思的书。字典主要查单字，词典查词语。"
    },
    "level": "A2",
    "antonyms": []
@@ -91546,7 +91588,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "pǎodékuài",
+   "reading": "pǎo de kuài",
    "romanization": "pǎodékuài",
    "study_tier": "herdado",
    "study_priority": 3097,
@@ -91570,7 +91612,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "jiēqiú",
+   "reading": "jiē qiú",
    "romanization": "jiēqiú",
    "study_tier": "herdado",
    "study_priority": 3098,
@@ -91736,13 +91778,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The quality of being friendly and caring.",
-   "text": "好心",
+   "text": "善良",
    "alternatives": [
-    "善良"
+    "好心"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "hǎoxīn",
+   "reading": "shànliáng",
    "romanization": "shànliáng",
    "study_tier": "cedo",
    "study_priority": 2062,
@@ -91839,7 +91881,10 @@
    "kind": "word",
    "description_en": "The brother of your mother or father.",
    "text": "叔叔",
-   "alternatives": [],
+   "alternatives": [
+    "伯伯",
+    "舅舅"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "shūshu",
@@ -91848,10 +91893,10 @@
    "study_priority": 828,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "父亲或母亲的兄弟。",
+   "description": "父母的兄弟：父亲的哥哥叫伯伯，弟弟叫叔叔，母亲的兄弟叫舅舅。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "父亲或母亲的兄弟。"
+    "zh": "父母的兄弟：父亲的哥哥叫伯伯，弟弟叫叔叔，母亲的兄弟叫舅舅。"
    },
    "level": "A2",
    "antonyms": [
@@ -91865,7 +91910,10 @@
    "kind": "word",
    "description_en": "The sister of your mother or father.",
    "text": "阿姨",
-   "alternatives": [],
+   "alternatives": [
+    "姑姑",
+    "姨妈"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "āyí",
@@ -91874,10 +91922,10 @@
    "study_priority": 829,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "父亲或母亲的姐妹。",
+   "description": "父母的姐妹：父亲的姐妹叫姑姑，母亲的姐妹叫阿姨或姨妈。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "父亲或母亲的姐妹。"
+    "zh": "父母的姐妹：父亲的姐妹叫姑姑，母亲的姐妹叫阿姨或姨妈。"
    },
    "level": "A2",
    "antonyms": [
@@ -92244,7 +92292,8 @@
     "zh": "在方格棋盘上用圆形棋子玩的游戏。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003441",
@@ -92280,7 +92329,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "fēngzhēng",
+   "reading": "fēngzheng",
    "romanization": "fēngzhēng",
    "study_tier": "inicial",
    "study_priority": 835,
@@ -92348,11 +92397,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A chasing game where one child tries to touch the others.",
-   "text": "捉人",
-   "alternatives": [],
+   "text": "捉人游戏",
+   "alternatives": [
+    "鬼抓人"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zhuōrén",
+   "reading": "zhuōrén yóuxì",
    "romanization": "zhuōrén",
    "study_tier": "inicial",
    "study_priority": 837,
@@ -92424,7 +92475,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "fàngfēngzhēng",
+   "reading": "fàng fēngzheng",
    "romanization": "fàngfēngzhēng",
    "study_tier": "herdado",
    "study_priority": 3100,
@@ -92448,7 +92499,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎdànzhū",
+   "reading": "dǎ dànzhū",
    "romanization": "dǎdànzhū",
    "study_tier": "herdado",
    "study_priority": 3101,
@@ -92544,7 +92595,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "wánhuábǎn",
+   "reading": "wán huábǎn",
    "romanization": "huábǎn",
    "study_tier": "cedo",
    "study_priority": 2076,
@@ -92568,7 +92619,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "liūhànbīng",
+   "reading": "liū hànbīng",
    "romanization": "liūhànbīng",
    "study_tier": "cedo",
    "study_priority": 2077,
@@ -92592,7 +92643,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zàihǎilǐyóuyǒng",
+   "reading": "zài hǎi lǐ yóuyǒng",
    "romanization": "zàihǎilǐyóuyǒng",
    "study_tier": "cedo",
    "study_priority": 2078,
@@ -92708,11 +92759,11 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To try a little of the food to check its flavor.",
-   "text": "尝菜",
+   "text": "尝味道",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "chángcài",
+   "reading": "cháng wèidao",
    "romanization": "chángcài",
    "study_tier": "cedo",
    "study_priority": 2081,
@@ -92736,7 +92787,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "shōushízhuōzi",
+   "reading": "shōushi zhuōzi",
    "romanization": "shōushízhuōzi",
    "study_tier": "cedo",
    "study_priority": 2082,
@@ -92760,7 +92811,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "xǐwǎn",
+   "reading": "xǐ wǎn",
    "romanization": "xǐwǎn",
    "study_tier": "inicial",
    "study_priority": 842,
@@ -92808,7 +92859,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "cāhuī",
+   "reading": "cā huī",
    "romanization": "cāhuī",
    "study_tier": "cedo",
    "study_priority": 2083,
@@ -92832,7 +92883,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zhěnglǐchuángpù",
+   "reading": "zhěnglǐ chuángpù",
    "romanization": "zhěnglǐchuángpù",
    "study_tier": "inicial",
    "study_priority": 844,
@@ -92856,7 +92907,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "jiāohuā",
+   "reading": "jiāo huā",
    "romanization": "jiāohuā",
    "study_tier": "inicial",
    "study_priority": 845,
@@ -92880,7 +92931,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "liúgǒu",
+   "reading": "liù gǒu",
    "romanization": "liúgǒu",
    "study_tier": "inicial",
    "study_priority": 846,
@@ -92904,7 +92955,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "wèichǒngwù",
+   "reading": "wèi chǒngwù",
    "romanization": "wèichǒngwù",
    "study_tier": "cedo",
    "study_priority": 2084,
@@ -92928,7 +92979,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zàigōngyuánwán",
+   "reading": "zài gōngyuán wán",
    "romanization": "zàigōngyuánwán",
    "study_tier": "inicial",
    "study_priority": 847,
@@ -92952,7 +93003,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "kàndiànshì",
+   "reading": "kàn diànshì",
    "romanization": "kàndiànshì",
    "study_tier": "inicial",
    "study_priority": 848,
@@ -92976,7 +93027,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tīngguǎngbō",
+   "reading": "tīng guǎngbō",
    "romanization": "tīngguǎngbō",
    "study_tier": "cedo",
    "study_priority": 2085,
@@ -93000,7 +93051,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "shàngwǎng",
+   "reading": "shàng wǎng",
    "romanization": "shàngwǎng",
    "study_tier": "cedo",
    "study_priority": 2086,
@@ -93024,7 +93075,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "pāizhào",
+   "reading": "pāi zhào",
    "romanization": "pāizhào",
    "study_tier": "inicial",
    "study_priority": 849,
@@ -93048,7 +93099,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "lùshìpín",
+   "reading": "lù shìpín",
    "romanization": "lùshìpín",
    "study_tier": "cedo",
    "study_priority": 2087,
@@ -93072,7 +93123,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tángāngqín",
+   "reading": "tán gāngqín",
    "romanization": "tángāngqín",
    "study_tier": "cedo",
    "study_priority": 2088,
@@ -93096,7 +93147,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tánjítā",
+   "reading": "tán jítā",
    "romanization": "dànjítā",
    "study_tier": "cedo",
    "study_priority": 2089,
@@ -93120,7 +93171,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "chuīdízi",
+   "reading": "chuī dízi",
    "romanization": "chuīdízi",
    "study_tier": "cedo",
    "study_priority": 2090,
@@ -93144,7 +93195,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dǎgǔ",
+   "reading": "dǎ gǔ",
    "romanization": "dǎgǔ",
    "study_tier": "cedo",
    "study_priority": 2091,
@@ -93314,7 +93365,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "bùhǎoyìsi",
+   "reading": "bù hǎoyìsi",
    "romanization": "bùhǎoyìsī",
    "study_tier": "inicial",
    "study_priority": 850,
@@ -93338,7 +93389,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "páiduì",
+   "reading": "pái duì",
    "romanization": "páiduì",
    "study_tier": "inicial",
    "study_priority": 851,
@@ -93362,7 +93413,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tīngfùmǔdehuà",
+   "reading": "tīng fùmǔ de huà",
    "romanization": "tīngfùmǔdehuà",
    "study_tier": "cedo",
    "study_priority": 2095,
@@ -93386,7 +93437,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zūnshǒuguīzé",
+   "reading": "zūnshǒu guīzé",
    "romanization": "zūnshǒuguīzé",
    "study_tier": "cedo",
    "study_priority": 2096,
@@ -93410,7 +93461,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zhǔnshídàodá",
+   "reading": "zhǔnshí dàodá",
    "romanization": "zhǔnshí",
    "study_tier": "cedo",
    "study_priority": 2097,
@@ -93434,7 +93485,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "gàosudàrén",
+   "reading": "gàosu dàren",
    "romanization": "gàosùdàrén",
    "study_tier": "inicial",
    "study_priority": 852,
@@ -93454,11 +93505,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A short story, often traditional.",
-   "text": "童话",
-   "alternatives": [],
+   "text": "故事",
+   "alternatives": [
+    "童话"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tónghuà",
+   "reading": "gùshi",
    "romanization": "tónghuà",
    "study_tier": "cedo",
    "study_priority": 2098,
@@ -93604,7 +93657,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "mófǎchéngbǎo",
+   "reading": "mófǎ chéngbǎo",
    "romanization": "mófǎchéngbǎo",
    "study_tier": "cedo",
    "study_priority": 2103,
@@ -93634,10 +93687,10 @@
    "study_priority": 853,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "会喷火的想象中的大动物。",
+   "description": "传说中的巨大动物；西方的龙会喷火。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "会喷火的想象中的大动物。"
+    "zh": "传说中的巨大动物；西方的龙会喷火。"
    },
    "level": "B1",
    "antonyms": []
@@ -93648,11 +93701,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A tiny imaginary creature with wings and magic.",
-   "text": "仙女",
-   "alternatives": [],
+   "text": "精灵",
+   "alternatives": [
+    "仙女"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "xiānnǚ",
+   "reading": "jīnglíng",
    "romanization": "xiānnǚ",
    "study_tier": "inicial",
    "study_priority": 854,
@@ -93865,7 +93920,9 @@
    "kind": "word",
    "description_en": "One of the large land masses of the world.",
    "text": "大洲",
-   "alternatives": [],
+   "alternatives": [
+    "大陆"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "dàzhōu",
@@ -94210,10 +94267,10 @@
    "study_priority": 2118,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "茎干中空而坚硬的高大热带植物。",
+   "description": "茎干中空而坚硬、长得很高的植物。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "茎干中空而坚硬的高大热带植物。"
+    "zh": "茎干中空而坚硬、长得很高的植物。"
    },
    "level": "B1",
    "antonyms": []
@@ -94717,10 +94774,10 @@
    "study_priority": 2131,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "温柔的喜爱之情。",
+   "description": "一种温柔的爱意或好感。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "温柔的喜爱之情。"
+    "zh": "一种温柔的爱意或好感。"
    },
    "level": "B1",
    "antonyms": []
@@ -95199,10 +95256,10 @@
    "study_priority": 3740,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "有游行、音乐和服装的节庆。",
+   "description": "有游行、音乐和化装表演的节庆。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有游行、音乐和服装的节庆。"
+    "zh": "有游行、音乐和化装表演的节庆。"
    },
    "level": "B1",
    "antonyms": []
@@ -95301,7 +95358,8 @@
     "zh": "日本夏季的传统户外庆典。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003568",
@@ -95313,7 +95371,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yīwàn",
+   "reading": "yíwàn",
    "romanization": "yīwàn",
    "study_tier": "inicial",
    "study_priority": 871,
@@ -95553,7 +95611,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yuánzi",
+   "reading": "yuánzǐ",
    "romanization": "yuánzi",
    "study_tier": "intermediário",
    "study_priority": 3122,
@@ -95577,7 +95635,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "fènzǐ",
+   "reading": "fēnzǐ",
    "romanization": "fènzǐ",
    "study_tier": "intermediário",
    "study_priority": 3123,
@@ -95694,7 +95752,9 @@
    "kind": "word",
    "description_en": "The organ that cleans the blood.",
    "text": "肝",
-   "alternatives": [],
+   "alternatives": [
+    "肝脏"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "gān",
@@ -95718,7 +95778,9 @@
    "kind": "word",
    "description_en": "One of the two organs that filter blood and make urine.",
    "text": "肾",
-   "alternatives": [],
+   "alternatives": [
+    "肾脏"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "shèn",
@@ -96480,7 +96542,8 @@
     "zh": "衡量物质酸碱程度的标度。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003617",
@@ -96914,7 +96977,8 @@
     "zh": "太阳或月亮被影子遮住。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000003635",
@@ -97066,13 +97130,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A unit of length equal to 1,000 meters.",
-   "text": "千米",
+   "text": "公里",
    "alternatives": [
-    "公里"
+    "千米"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "qiānmǐ",
+   "reading": "gōnglǐ",
    "romanization": "qiānmǐ",
    "study_tier": "inicial",
    "study_priority": 878,
@@ -97116,13 +97180,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A unit of weight equal to 1,000 grams.",
-   "text": "千克",
+   "text": "公斤",
    "alternatives": [
-    "公斤"
+    "千克"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "qiānkè",
+   "reading": "gōngjīn",
    "romanization": "qiānkè",
    "study_tier": "inicial",
    "study_priority": 880,
@@ -97143,7 +97207,9 @@
    "kind": "word",
    "description_en": "A unit of liquid volume.",
    "text": "升",
-   "alternatives": [],
+   "alternatives": [
+    "公升"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "shēng",
@@ -97242,7 +97308,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zhōngshìjìde",
+   "reading": "zhōngshìjì de",
    "romanization": "zhōngshìjìde",
    "study_tier": "cedo",
    "study_priority": 2158,
@@ -97446,7 +97512,8 @@
     "zh": "古代的罗马文明。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003657",
@@ -97470,7 +97537,8 @@
     "zh": "古代的希腊文明。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003658",
@@ -97494,7 +97562,8 @@
     "zh": "古代的中国。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003659",
@@ -97518,7 +97587,8 @@
     "zh": "古代的日本。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003660",
@@ -97839,9 +97909,7 @@
    "kind": "word",
    "description_en": "The title of a news story.",
    "text": "标题",
-   "alternatives": [
-    "头条"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "biāotí",
@@ -98234,10 +98302,10 @@
    "study_priority": 3180,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "表示关系的词，如 in、on。",
+   "description": "表示关系的词，如“在”“从”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表示关系的词，如 in、on。"
+    "zh": "表示关系的词，如“在”“从”。"
    },
    "level": "B2",
    "antonyms": []
@@ -98258,10 +98326,10 @@
    "study_priority": 3181,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "连接词或句子的词，如 and。",
+   "description": "连接词语或句子的词，如“和”“但是”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "连接词或句子的词，如 and。"
+    "zh": "连接词语或句子的词，如“和”“但是”。"
    },
    "level": "B2",
    "antonyms": []
@@ -98625,7 +98693,8 @@
     "zh": "南极周围的大陆。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003707",
@@ -98637,7 +98706,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "rèdàide",
+   "reading": "rèdài de",
    "romanization": "rèdài",
    "study_tier": "cedo",
    "study_priority": 2182,
@@ -98661,7 +98730,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "shāmòde",
+   "reading": "shāmò de",
    "romanization": "shāmòde",
    "study_tier": "herdado",
    "study_priority": 3187,
@@ -98685,7 +98754,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "jídìde",
+   "reading": "jídì de",
    "romanization": "jídìde",
    "study_tier": "cedo",
    "study_priority": 2183,
@@ -98711,7 +98780,7 @@
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "wēnhéde",
+   "reading": "wēnhé de",
    "romanization": "wēndài",
    "study_tier": "intermediário",
    "study_priority": 3188,
@@ -98735,7 +98804,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "duōshānde",
+   "reading": "duōshān de",
    "romanization": "duōshān",
    "study_tier": "intermediário",
    "study_priority": 3189,
@@ -98759,7 +98828,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "duōyǔde",
+   "reading": "duōyǔ de",
    "romanization": "duōyǔde",
    "study_tier": "cedo",
    "study_priority": 2184,
@@ -98861,10 +98930,10 @@
    "study_priority": 3191,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "南亚的强降雨季节。",
+   "description": "随季节改变方向、给南亚带来大雨的风。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "南亚的强降雨季节。"
+    "zh": "随季节改变方向、给南亚带来大雨的风。"
    },
    "level": "B2",
    "antonyms": []
@@ -99999,7 +100068,9 @@
    "kind": "word",
    "description_en": "The narrow stage where models walk in a fashion show.",
    "text": "走秀台",
-   "alternatives": [],
+   "alternatives": [
+    "T台"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "zǒuxiùtái",
@@ -100032,10 +100103,10 @@
    "study_priority": 2200,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "用来做衣服的布料。",
+   "description": "用来做衣服的纺织材料。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用来做衣服的布料。"
+    "zh": "用来做衣服的纺织材料。"
    },
    "level": "B2",
    "antonyms": []
@@ -100410,11 +100481,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A room where things are made or repaired.",
-   "text": "车间",
-   "alternatives": [],
+   "text": "作坊",
+   "alternatives": [
+    "车间"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "chējiān",
+   "reading": "zuōfang",
    "romanization": "chējiān",
    "study_tier": "cedo",
    "study_priority": 2211,
@@ -100655,7 +100728,9 @@
    "kind": "word",
    "description_en": "A general rise in prices.",
    "text": "通胀",
-   "alternatives": [],
+   "alternatives": [
+    "通货膨胀"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "tōngzhàng",
@@ -100681,7 +100756,9 @@
    "kind": "word",
    "description_en": "A general fall in prices.",
    "text": "通缩",
-   "alternatives": [],
+   "alternatives": [
+    "通货紧缩"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "tōngsuō",
@@ -100733,7 +100810,9 @@
    "kind": "word",
    "description_en": "Money kept in a bank to grow.",
    "text": "储蓄",
-   "alternatives": [],
+   "alternatives": [
+    "存款"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "chǔxù",
@@ -100804,11 +100883,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A person who starts a business.",
-   "text": "企业家",
-   "alternatives": [],
+   "text": "创业者",
+   "alternatives": [
+    "企业家"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "qǐyèjiā",
+   "reading": "chuàngyèzhě",
    "romanization": "qǐyèjiā",
    "study_tier": "intermediário",
    "study_priority": 3213,
@@ -101119,7 +101200,9 @@
    "kind": "word",
    "description_en": "A black rock burned as fuel.",
    "text": "煤",
-   "alternatives": [],
+   "alternatives": [
+    "煤炭"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "méi",
@@ -101190,11 +101273,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Processing used materials to use them again.",
-   "text": "回收",
-   "alternatives": [],
+   "text": "回收利用",
+   "alternatives": [
+    "回收"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "huíshōu",
+   "reading": "huíshōulìyòng",
    "romanization": "huíshōu",
    "study_tier": "inicial",
    "study_priority": 892,
@@ -101215,7 +101300,9 @@
    "kind": "word",
    "description_en": "A place where waste is buried.",
    "text": "填埋场",
-   "alternatives": [],
+   "alternatives": [
+    "垃圾填埋场"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "tiánmáichǎng",
@@ -102027,7 +102114,8 @@
     "zh": "经基因改造的生物。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003847",
@@ -102328,7 +102416,9 @@
    "kind": "word",
    "description_en": "A unit of energy in food.",
    "text": "卡路里",
-   "alternatives": [],
+   "alternatives": [
+    "热量"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "kǎlùlǐ",
@@ -102909,11 +102999,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The ability to understand others' feelings.",
-   "text": "共情",
-   "alternatives": [],
+   "text": "同理心",
+   "alternatives": [
+    "共情"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "gòngqíng",
+   "reading": "tónglǐxīn",
    "romanization": "gòngqíng",
    "study_tier": "intermediário",
    "study_priority": 3254,
@@ -103049,7 +103141,8 @@
     "zh": "非政府的组织。"
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003889",
@@ -103312,11 +103405,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Lacking courage.",
-   "text": "懦弱",
-   "alternatives": [],
+   "text": "胆小",
+   "alternatives": [
+    "懦弱"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "nuòruò",
+   "reading": "dǎnxiǎo",
    "romanization": "nuòruò",
    "study_tier": "cedo",
    "study_priority": 2263,
@@ -103394,7 +103489,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "lǐxiǎngzhǔyìde",
+   "reading": "lǐxiǎngzhǔyì de",
    "romanization": "lǐxiǎngzhǔyì",
    "study_tier": "intermediário",
    "study_priority": 3262,
@@ -103550,10 +103645,10 @@
    "study_priority": 3265,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "不负责任的。",
+   "description": "对自己该做的事不上心、不承担后果的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "不负责任的。"
+    "zh": "对自己该做的事不上心、不承担后果的。"
    },
    "level": "C1",
    "antonyms": [
@@ -103648,7 +103743,7 @@
    "romanization": "wǒ",
    "study_tier": "inicial",
    "study_priority": 900,
-   "part_of_speech": "n",
+   "part_of_speech": "pron",
    "user_hint": "",
    "description": "说话人指称自己（作主语）。",
    "novrev_status": "reviewed",
@@ -103768,7 +103863,7 @@
    "romanization": "shàng",
    "study_tier": "cedo",
    "study_priority": 2272,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "紧挨现在之前的那个（如上周）。",
    "novrev_status": "reviewed",
@@ -103888,7 +103983,7 @@
    "romanization": "kàozhe",
    "study_tier": "cedo",
    "study_priority": 2277,
-   "part_of_speech": "adj",
+   "part_of_speech": "prep",
    "user_hint": "",
    "description": "靠着或倚着某物。",
    "novrev_status": "reviewed",
@@ -103912,7 +104007,7 @@
    "romanization": "dāngrán",
    "study_tier": "cedo",
    "study_priority": 2278,
-   "part_of_speech": "adj",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "当然！（表示同意）。",
    "novrev_status": "reviewed",
@@ -103928,20 +104023,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "To store something in its place.",
-   "text": "留着",
-   "alternatives": [],
+   "text": "保留",
+   "alternatives": [
+    "留着"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "liúzhe",
+   "reading": "bǎoliú",
    "romanization": "liúzhe",
    "study_tier": "cedo",
    "study_priority": 2279,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "把东西存放在某处。",
+   "description": "把东西留下来，不丢掉也不送人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把东西存放在某处。"
+    "zh": "把东西留下来，不丢掉也不送人。"
    },
    "level": "A1",
    "antonyms": []
@@ -103953,9 +104050,7 @@
    "kind": "word",
    "description_en": "To continue doing something.",
    "text": "继续",
-   "alternatives": [
-    "一直"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "jìxù",
@@ -103979,7 +104074,9 @@
    "kind": "word",
    "description_en": "A single match or round of a game.",
    "text": "比赛",
-   "alternatives": [],
+   "alternatives": [
+    "一局"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "bǐsài",
@@ -104082,7 +104179,7 @@
    "romanization": "zhìshǎo",
    "study_tier": "cedo",
    "study_priority": 2286,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "不少于；至少。",
    "novrev_status": "reviewed",
@@ -104322,7 +104419,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "shèngxiàde",
+   "reading": "shèngxià de",
    "romanization": "shèngxiàde",
    "study_tier": "cedo",
    "study_priority": 2298,
@@ -104376,10 +104473,10 @@
    "study_priority": 2300,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "浪漫的约会。",
+   "description": "恋人之间约好的见面。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "浪漫的约会。"
+    "zh": "恋人之间约好的见面。"
    },
    "level": "A2",
    "antonyms": []
@@ -104463,14 +104560,16 @@
    "kind": "expression",
    "description_en": "Used to give an example.",
    "text": "比如",
-   "alternatives": [],
+   "alternatives": [
+    "例如"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "bǐrú",
    "romanization": "bǐrú",
    "study_tier": "cedo",
    "study_priority": 2304,
-   "part_of_speech": "adj",
+   "part_of_speech": "adv",
    "user_hint": "",
    "description": "用来举例。",
    "novrev_status": "reviewed",
@@ -104487,7 +104586,9 @@
    "kind": "word",
    "description_en": "A piece of paper money.",
    "text": "纸币",
-   "alternatives": [],
+   "alternatives": [
+    "钞票"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "zhǐbì",
@@ -104642,10 +104743,10 @@
    "study_priority": 2311,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "划擦后能起火的小火柴棒。",
+   "description": "划擦后能起火的小木棒。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "划擦后能起火的小火柴棒。"
+    "zh": "划擦后能起火的小木棒。"
    },
    "level": "A2",
    "antonyms": []
@@ -104712,7 +104813,7 @@
    "romanization": "jiànguǐ",
    "study_tier": "cedo",
    "study_priority": 2314,
-   "part_of_speech": "n",
+   "part_of_speech": "int",
    "user_hint": "",
    "description": "表示愤怒的粗俗感叹。",
    "novrev_status": "reviewed",
@@ -105082,7 +105183,8 @@
     "zh": "有摊位、游乐设施和游戏的集会。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000003975",
@@ -105211,9 +105313,7 @@
    "kind": "word",
    "description_en": "A long piece of metal or a block of chocolate.",
    "text": "棒",
-   "alternatives": [
-    "条"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "bàng",
@@ -105222,10 +105322,10 @@
    "study_priority": 2335,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "长条形的金属或一块巧克力。",
+   "description": "金属等硬材料制成的细长条状物。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "长条形的金属或一块巧克力。"
+    "zh": "金属等硬材料制成的细长条状物。"
    },
    "level": "B1",
    "antonyms": []
@@ -105261,7 +105361,9 @@
    "kind": "word",
    "description_en": "A level of a building.",
    "text": "楼",
-   "alternatives": [],
+   "alternatives": [
+    "层"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "lóu",
@@ -105464,10 +105566,10 @@
    "study_priority": 2345,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "某个特定的地方。",
+   "description": "某个特定的位置。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "某个特定的地方。"
+    "zh": "某个特定的位置。"
    },
    "level": "B1",
    "antonyms": []
@@ -105824,10 +105926,10 @@
    "study_priority": 2360,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "使铃或电话发出声音；打电话。",
+   "description": "铃或电话发出声音。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "使铃或电话发出声音；打电话。"
+    "zh": "铃或电话发出声音。"
    },
    "level": "B1",
    "antonyms": []
@@ -106040,7 +106142,7 @@
    "romanization": "wǒyěbù",
    "study_tier": "cedo",
    "study_priority": 2369,
-   "part_of_speech": "adj",
+   "part_of_speech": "phr",
    "user_hint": "",
    "description": "我也不（附和否定的话）。",
    "novrev_status": "reviewed",
@@ -106285,10 +106387,10 @@
    "study_priority": 2379,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "适合某人；方便。",
+   "description": "（衣服、颜色等）与某人相配。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "适合某人；方便。"
+    "zh": "（衣服、颜色等）与某人相配。"
    },
    "level": "B2",
    "antonyms": []
@@ -106797,7 +106899,8 @@
     "zh": "长度单位，约91厘米。"
    },
    "level": "C1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000004046",
@@ -106935,10 +107038,10 @@
    "study_priority": 2406,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "设法做成一件难事。",
+   "description": "想办法完成一件难事。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "设法做成一件难事。"
+    "zh": "想办法完成一件难事。"
    },
    "level": "C1",
    "antonyms": []
@@ -106965,7 +107068,8 @@
     "zh": "重量单位，约454克。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000004053",
@@ -107037,7 +107141,8 @@
     "zh": "说粗鲁或冒犯的话。"
    },
    "level": "C2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000004056",
@@ -107085,7 +107190,8 @@
     "zh": "免费搭别人的车。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "pending"
   },
   {
    "id": "zh:en:000004058",
@@ -107241,7 +107347,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "pǔsùde",
+   "reading": "pǔsù de",
    "romanization": "pǔsùde",
    "study_tier": "cedo",
    "study_priority": 2419,
@@ -107365,7 +107471,7 @@
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "nián",
+   "reading": "zhān",
    "romanization": "tiē",
    "study_tier": "inicial",
    "study_priority": 904,
@@ -107435,11 +107541,13 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Clothes worn next to the skin under other clothes.",
-   "text": "内裤",
-   "alternatives": [],
+   "text": "内衣",
+   "alternatives": [
+    "内裤"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "nèikù",
+   "reading": "nèiyī",
    "romanization": "nèikù",
    "study_tier": "inicial",
    "study_priority": 907,
@@ -107535,7 +107643,7 @@
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yínsède",
+   "reading": "yínsè de",
    "romanization": "yínsè",
    "study_tier": "inicial",
    "study_priority": 911,
@@ -107855,10 +107963,10 @@
    "study_priority": 2428,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "游泳这项运动。",
+   "description": "在水中用手脚划动前进的运动。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "游泳这项运动。"
+    "zh": "在水中用手脚划动前进的运动。"
    },
    "level": "B1",
    "antonyms": []
@@ -107918,7 +108026,9 @@
    "kind": "word",
    "description_en": "To protect from attack.",
    "text": "防守",
-   "alternatives": [],
+   "alternatives": [
+    "保卫"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "fángshǒu",
@@ -108003,10 +108113,10 @@
    "study_priority": 2434,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "诚实的品质。",
+   "description": "不说谎、不欺骗的品质。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "诚实的品质。"
+    "zh": "不说谎、不欺骗的品质。"
    },
    "level": "B1",
    "antonyms": []
@@ -108053,10 +108163,10 @@
    "study_priority": 2436,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "叔伯姑舅姨的孩子。",
+   "description": "叔伯姑舅姨的孩子；父亲兄弟的孩子叫堂哥、堂弟、堂姐、堂妹，其他叫表哥、表弟、表姐、表妹。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "叔伯姑舅姨的孩子。"
+    "zh": "叔伯姑舅姨的孩子；父亲兄弟的孩子叫堂哥、堂弟、堂姐、堂妹，其他叫表哥、表弟、表姐、表妹。"
    },
    "level": "B1",
    "antonyms": []
@@ -108131,7 +108241,8 @@
     "zh": "乡间的小块地产或农舍。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000004101",
@@ -108212,7 +108323,9 @@
    "kind": "expression",
    "description_en": "To mix food in a pot with a spoon.",
    "text": "搅拌",
-   "alternatives": [],
+   "alternatives": [
+    "搅"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "jiǎobàn",
@@ -108221,10 +108334,10 @@
    "study_priority": 2443,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "用勺子搅动锅里的食物。",
+   "description": "用勺子转动，把食物或液体搅匀。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用勺子搅动锅里的食物。"
+    "zh": "用勺子转动，把食物或液体搅匀。"
    },
    "level": "B1",
    "antonyms": []
@@ -108338,9 +108451,7 @@
    "kind": "expression",
    "description_en": "An answer that is right.",
    "text": "正确答案",
-   "alternatives": [
-    "答对"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "zhèngquèdá'àn",
@@ -108423,10 +108534,10 @@
    "study_priority": 2451,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "处于平等的状态。",
+   "description": "人人享有同样待遇和权利的状态。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "处于平等的状态。"
+    "zh": "人人享有同样待遇和权利的状态。"
    },
    "level": "B1",
    "antonyms": [
@@ -108489,7 +108600,7 @@
    "description_en": "A young animal, especially a young dog.",
    "text": "小狗",
    "alternatives": [
-    "幼崽"
+    "狗崽"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -108499,10 +108610,10 @@
    "study_priority": 2454,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "幼小的动物，尤指小狗。",
+   "description": "刚出生不久的狗。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "幼小的动物，尤指小狗。"
+    "zh": "刚出生不久的狗。"
    },
    "level": "B1",
    "antonyms": []
@@ -109007,10 +109118,10 @@
    "study_priority": 3279,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "一篇新闻报道。",
+   "description": "一篇新闻。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "一篇新闻报道。"
+    "zh": "一篇新闻。"
    },
    "level": "A1",
    "antonyms": []
@@ -109022,7 +109133,9 @@
    "kind": "word",
    "description_en": "Marks such as commas and periods.",
    "text": "标点",
-   "alternatives": [],
+   "alternatives": [
+    "标点符号"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "biāodiǎn",
@@ -109529,9 +109642,7 @@
    "kind": "word",
    "description_en": "Giving help and support to others.",
    "text": "乐于助人",
-   "alternatives": [
-    "支持"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "lèyúzhùrén",
@@ -109632,7 +109743,7 @@
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "lǐlùnshàngde",
+   "reading": "lǐlùnshang de",
    "romanization": "lǐlùn",
    "study_tier": "intermediário",
    "study_priority": 3303,
@@ -109645,6 +109756,202 @@
    },
    "level": "B1",
    "antonyms": []
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004163",
+   "english_id": "en:000004163",
+   "english_sense_id": null,
+   "description_en": "A brother who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "哥哥",
+   "reading": "gēge",
+   "romanization": "gēge",
+   "alternatives": [],
+   "description": "比自己年龄大的男性兄弟。",
+   "nativeExplain": {
+    "zh": "比自己年龄大的男性兄弟。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004164",
+   "english_id": "en:000004164",
+   "english_sense_id": null,
+   "description_en": "A brother who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "弟弟",
+   "reading": "dìdi",
+   "romanization": "dìdi",
+   "alternatives": [],
+   "description": "比自己年龄小的男性兄弟。",
+   "nativeExplain": {
+    "zh": "比自己年龄小的男性兄弟。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004165",
+   "english_id": "en:000004165",
+   "english_sense_id": null,
+   "description_en": "A sister who is older than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "姐姐",
+   "reading": "jiějie",
+   "romanization": "jiějie",
+   "alternatives": [],
+   "description": "比自己年龄大的女性姐妹。",
+   "nativeExplain": {
+    "zh": "比自己年龄大的女性姐妹。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004166",
+   "english_id": "en:000004166",
+   "english_sense_id": null,
+   "description_en": "A sister who is younger than you.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "妹妹",
+   "reading": "mèimei",
+   "romanization": "mèimei",
+   "alternatives": [],
+   "description": "比自己年龄小的女性姐妹。",
+   "nativeExplain": {
+    "zh": "比自己年龄小的女性姐妹。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004167",
+   "english_id": "en:000004167",
+   "english_sense_id": null,
+   "description_en": "A child of your son or daughter.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "孙子",
+   "reading": "sūnzi",
+   "romanization": "sūnzi",
+   "alternatives": [
+    "孙女",
+    "外孙"
+   ],
+   "description": "儿子或女儿的孩子。",
+   "nativeExplain": {
+    "zh": "儿子或女儿的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004168",
+   "english_id": "en:000004168",
+   "english_sense_id": null,
+   "description_en": "A son of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "侄子",
+   "reading": "zhízi",
+   "romanization": "zhízi",
+   "alternatives": [
+    "外甥"
+   ],
+   "description": "兄弟的儿子（姐妹的儿子叫外甥）。",
+   "nativeExplain": {
+    "zh": "兄弟的儿子（姐妹的儿子叫外甥）。"
+   }
+  },
+  {
+   "kind": "word",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004169",
+   "english_id": "en:000004169",
+   "english_sense_id": null,
+   "description_en": "A daughter of your brother or sister.",
+   "antonyms": [],
+   "study_priority": 244,
+   "novrev_status": "reviewed",
+   "text": "侄女",
+   "reading": "zhínǚ",
+   "romanization": "zhínǚ",
+   "alternatives": [
+    "外甥女"
+   ],
+   "description": "兄弟的女儿（姐妹的女儿叫外甥女）。",
+   "nativeExplain": {
+    "zh": "兄弟的女儿（姐妹的女儿叫外甥女）。"
+   }
   }
  ],
  "third_party": [

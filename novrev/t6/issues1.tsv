@@ -1,0 +1,6 @@
+000000203	todos	Antônimo "busy" só vale para o sentido "livre/desocupado"; o conceito é "grátis" (custa nada). Sugiro remover busy ou separar conceitos grátis/livre.	antonyms
+000000156	todos	Conceito mistura "estado/país/região" (州) e "condição" (状态). Sugiro separar em dois conceitos; hoje ja/zh principal é 州, que não é comum no Japão/China (lá usam 県/省).	concept
+000000299	en	Flexão en com chave malformada: "000001402=ran(/)" (chave deveria ser PAST ou similar, não um id). Qual chave usar?	forms:000001402
+000000263	todos	Conceito "hard" = difícil e duro; antônimo listado só "soft". Falta "easy" (difícil x fácil) se existir na lista; idealmente separar os dois sentidos.	antonyms
+000000369	ja	Flexões ja de "coming" são de 今行く (今行きます/imaikimasu...), não de 来る/来るところ. Gerúndio não deveria ter tabela de conjugação. Remover forms ou trocar por 来る? Marcado pendente.	forms
+000000263	todos	Complemento: o antônimo "easy" existe na lista (000000492); acrescentar 000000492:easy aos antônimos de hard.	antonyms

@@ -1,0 +1,15 @@
+000000624	todos	Conceitos que são só flexões do inglês (won, added, brought, received, sent, tried, became, higher...) existem como entradas próprias. Manter como conceito ou fundir na forma do verbo/adjetivo base? (não aposentei por falta de regra explícita)	concept
+000000629	pt-BR	pt_alt traz a forma feminina (morta, jogadora, sozinha, médica, diretora, redonda...) como se fosse sinônimo; feminino deveria ir em forms, não em alternatives. Padrão geral no arquivo — confirmar política.	alternatives
+000000656	todos	Conceito mistura dois sentidos (presente=gift e presente=agora); ja só cobre o de presente-gift; antônimo past só vale para o sentido de tempo. Separar em dois conceitos?	concept, antonyms
+000000658	todos	pos=adj (sorry = arrependido), mas pt/ja/zh são interjeições de desculpa (desculpa / ごめんなさい / 对不起). Decidir: pos int (pedido de desculpa) ou adjetivo (arrependido/すまない/抱歉的).	pos
+000000774	ja, zh	brother passou a genérico (兄弟/兄弟). Existem conceitos próprios para irmão mais velho (兄/哥哥) e mais novo (弟/弟弟)? Se não, criar. Verificar o mesmo para sister (000001173).	concept
+000000785	en	Antônimo de lower (adj, mais baixo) está como raise (verbo); o certo seria higher (000000651).	antonyms
+000000814	en	Antônimo de attack (substantivo) aponta para defend (verbo); seria defense/defesa (substantivo), se existir na lista.	antonyms
+000000904	ja	sir: ja estava お客様 (= cliente). Japonês não tem tratamento comum equivalente a sir (usa-se 〜さん/〜様 após o nome). Aposentar o conceito ou aceitar 〜様?	text, concept
+000000900	todos	okay (000000900) duplica OK (000000725): mesmo conceito, mesmas traduções. Aposentar um dos dois?	concept
+000000908	todos	Plurais como conceitos próprios (ways, boys...): duplicam way/boy em ja/zh, que não têm plural. Aposentar ou fundir?	concept
+000000860	ja	super está como adj, mas ja すごく é advérbio (= muito). Definir: adj (すごい/最高の) ou adv (すごく/超).	pos, text
+000000981	en	Antônimos de cold (adj) incluem heat (substantivo); classe diferente — trocar por hot apenas ou warm.	antonyms
+000001071	todos	feet = plural irregular de foot (e também unidade imperial pé). Duplica foot em ja/zh. Aposentar?	concept
+000001173	ja, zh	sister passou a genérico (姉妹/姐妹). Existem conceitos próprios para irmã mais velha (姉/姐姐) e mais nova (妹/妹妹)? Se não, criar.	concept
+000001117	todos	sounds = 3ª pessoa de sound; ja 〜そうだ é aproximação. Flexão como conceito próprio — aposentar ou manter?	concept
