@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.4.3",
+ "version": "2.4.4",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -32,7 +32,8 @@
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
-  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
+  "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -59491,7 +59492,7 @@
    "english_id": "en:000001917",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A school subject or field of study.",
+   "description_en": "Anything that has weight and takes up space; physical substance.",
    "text": "matter",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -59500,10 +59501,10 @@
    "study_priority": 3476,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A school subject or field of study.",
+   "description": "Anything that has weight and takes up space; physical substance.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A school subject or field of study."
+    "en": "Anything that has weight and takes up space; physical substance."
    }
   },
   {

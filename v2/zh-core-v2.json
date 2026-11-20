@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.3",
+ "version": "2.4.4",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -32,7 +32,8 @@
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
-  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
+  "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais."
  ],
  "entries": [
   {
@@ -1764,12 +1765,12 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "没有",
+   "text": "不",
    "alternatives": [
-    "不"
+    "没有"
    ],
-   "reading": "méiyǒu",
-   "romanization": "méiyǒu",
+   "reading": "bù",
+   "romanization": "bù",
    "classifications": [
     {
      "system": "HSK",
@@ -12989,10 +12990,10 @@
    "study_tier": "cedo",
    "study_priority": 1039,
    "user_hint": "",
-   "description": "事情或问题（如“没关系”）。",
+   "description": "事情或问题；“不要紧”的意思。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "事情或问题（如“没关系”）。"
+    "zh": "事情或问题；“不要紧”的意思。"
    }
   },
   {
@@ -25040,12 +25041,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "发布",
+   "text": "释放",
    "alternatives": [
-    "放开"
+    "发布"
    ],
-   "reading": "fābù",
-   "romanization": "fābù",
+   "reading": "shìfàng",
+   "romanization": "shìfàng",
    "classifications": [
     {
      "system": "HSK",
@@ -25316,12 +25317,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "委员会",
+   "text": "议会",
    "alternatives": [
-    "议会"
+    "理事会"
    ],
-   "reading": "wěiyuánhuì",
-   "romanization": "wěiyuánhuì",
+   "reading": "yìhuì",
+   "romanization": "yìhuì",
    "classifications": [
     {
      "system": "HSK",
@@ -25333,10 +25334,10 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2693,
    "user_hint": "",
-   "description": "管理城市或机构的一个团体。",
+   "description": "管理城市或组织的一群人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "管理城市或机构的一个团体。"
+    "zh": "管理城市或组织的一群人。"
    }
   },
   {
@@ -32292,12 +32293,10 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "学业",
-   "alternatives": [
-    "研究"
-   ],
-   "reading": "xuéyè",
-   "romanization": "xuéyè",
+   "text": "学习",
+   "alternatives": [],
+   "reading": "xuéxí",
+   "romanization": "xuéxí",
    "classifications": [
     {
      "system": "HSK",
@@ -39064,12 +39063,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "民族",
+   "text": "国家",
    "alternatives": [
-    "国家"
+    "民族"
    ],
-   "reading": "mínzú",
-   "romanization": "mínzú",
+   "reading": "guójiā",
+   "romanization": "guójiā",
    "classifications": [
     {
      "system": "HSK",
@@ -40383,12 +40382,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "条件",
+   "text": "状况",
    "alternatives": [
-    "状况"
+    "状态"
    ],
-   "reading": "tiáojiàn",
-   "romanization": "tiáojiàn",
+   "reading": "zhuàngkuàng",
+   "romanization": "zhuàngkuàng",
    "classifications": [
     {
      "system": "HSK",
@@ -46095,10 +46094,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "电影（复数）",
-   "alternatives": [
-    "电影院"
-   ],
+   "text": "电影",
+   "alternatives": [],
    "reading": "diànyǐng",
    "romanization": "diànyǐng",
    "study_tier": "herdado",
@@ -55852,12 +55849,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "吸引力",
+   "text": "呼吁",
    "alternatives": [
-    "呼吁"
+    "吸引力"
    ],
-   "reading": "xīyǐnlì",
-   "romanization": "xīyǐnlì",
+   "reading": "hūyù",
+   "romanization": "hūyù",
    "study_tier": "intermediário",
    "study_priority": 2926,
    "nativeExplain": {
@@ -56207,7 +56204,7 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "正面（硬币）",
+   "text": "正面",
    "alternatives": [],
    "reading": "zhèngmiàn",
    "romanization": "zhèngmiàn",
@@ -56261,10 +56258,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "腿（复数）",
-   "alternatives": [
-    "双腿"
-   ],
+   "text": "腿",
+   "alternatives": [],
    "reading": "tuǐ",
    "romanization": "tuǐ",
    "study_tier": "herdado",
@@ -64477,10 +64472,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "工具（复数）",
-   "alternatives": [
-    "工具"
-   ],
+   "text": "工具",
+   "alternatives": [],
    "reading": "gōngjù",
    "romanization": "gōngjù",
    "study_tier": "herdado",
@@ -74225,10 +74218,8 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "鸡蛋（复数）",
-   "alternatives": [
-    "蛋"
-   ],
+   "text": "鸡蛋",
+   "alternatives": [],
    "reading": "jīdàn",
    "romanization": "jīdàn",
    "study_tier": "herdado",
@@ -75577,10 +75568,8 @@
    "part_of_speech": "exp",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "块（钱）",
-   "alternatives": [
-    "美元"
-   ],
+   "text": "块",
+   "alternatives": [],
    "reading": "kuài",
    "romanization": "kuài",
    "study_tier": "temático (Slang)",
@@ -81645,10 +81634,10 @@
    "study_priority": 3476,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "构成万物的、占据空间的东西。",
+   "description": "有质量并占据空间的一切物质。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "构成万物的、占据空间的东西。"
+    "zh": "有质量并占据空间的一切物质。"
    }
   },
   {
@@ -81723,12 +81712,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Something to drink; the act of drinking.",
-   "text": "喝",
-   "alternatives": [],
+   "text": "饮料",
+   "alternatives": [
+    "喝"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "hē",
-   "romanization": "hē",
+   "reading": "yǐnliào",
+   "romanization": "yǐnliào",
    "study_tier": "pendente",
    "study_priority": 3481,
    "part_of_speech": "n",
@@ -82317,12 +82308,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An opening or wound made by something sharp.",
-   "text": "切",
+   "text": "伤口",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "qiè",
-   "romanization": "qiè",
+   "reading": "shāngkǒu",
+   "romanization": "shāngkǒu",
    "study_tier": "pendente",
    "study_priority": 3562,
    "part_of_speech": "n",
@@ -103442,12 +103433,14 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "An answer that is right.",
-   "text": "正确",
-   "alternatives": [],
+   "text": "正确答案",
+   "alternatives": [
+    "答对"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "zhèngquè",
-   "romanization": "zhèngquè",
+   "reading": "zhèngquè dá'àn",
+   "romanization": "zhèngquè dá'àn",
    "study_tier": "cedo",
    "study_priority": 2448,
    "part_of_speech": "n",
@@ -103574,12 +103567,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A young animal, especially a young dog.",
-   "text": "幼崽",
-   "alternatives": [],
+   "text": "小狗",
+   "alternatives": [
+    "幼崽"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yòuzǎi",
-   "romanization": "yòuzǎi",
+   "reading": "xiǎogǒu",
+   "romanization": "xiǎogǒu",
    "study_tier": "cedo",
    "study_priority": 2454,
    "part_of_speech": "n",

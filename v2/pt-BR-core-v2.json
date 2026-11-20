@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.3",
+ "version": "2.4.4",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -32,7 +32,8 @@
   "2.3.0: NOVREV — 1.060 conceitos VCU14 reconstruídos (texto limpo, descrição nativa, antônimos por ID), campos novrev_status, user_hint (reservado, vazio) e novrev_flag.",
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
-  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
+  "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais."
  ],
  "entries": [
   {
@@ -10076,17 +10077,17 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "questão",
+   "text": "assunto",
    "alternatives": [
-    "assunto"
+    "questão"
    ],
    "study_tier": "cedo",
    "study_priority": 1039,
    "user_hint": "",
-   "description": "Um assunto ou questão (\"não importa\").",
+   "description": "Assunto ou questão; \"não importa\" = não tem importância.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um assunto ou questão (\"não importa\")."
+    "pt-BR": "Assunto ou questão; \"não importa\" = não tem importância."
    }
   },
   {
@@ -22678,10 +22679,9 @@
     "travel"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "trilha",
+   "text": "pista",
    "alternatives": [
-    "faixa",
-    "pista"
+    "trilha"
    ],
    "study_tier": "pendente",
    "study_priority": 3347,
@@ -62638,10 +62638,10 @@
    "study_priority": 3476,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Aquilo de que as coisas são feitas; substância.",
+   "description": "Tudo o que tem peso e ocupa espaço; substância física.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Aquilo de que as coisas são feitas; substância."
+    "pt-BR": "Tudo o que tem peso e ocupa espaço; substância física."
    }
   },
   {

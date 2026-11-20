@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.3",
+ "version": "2.4.4",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -33,7 +33,8 @@
   "2.4.0: NOVREV completo — 3.609 conceitos iguais nos 4 idiomas (mesmo ID), descrição nativa, antônimos por ID, user_hint reservado vazio, novrev_status; 6 conceitos incompletos suspensos nos 4 idiomas.",
   "2.4.1: japonês — removidas alternativas que eram outra palavra (leitura diferente ou outro conceito), que apareciam no card com a leitura errada.",
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
-  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma."
+  "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
+  "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -40727,10 +40728,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "言った",
-   "alternatives": [],
-   "reading": "いった",
-   "romanization": "itta",
+   "text": "伝えた",
+   "alternatives": [
+    "話した"
+   ],
+   "reading": "つたえた",
+   "romanization": "tsutaeta",
    "lemma": "言う",
    "lemma_id": "ja:en:000000130",
    "lexical_type": "form",
@@ -40744,10 +40747,10 @@
    "study_tier": "essential",
    "study_priority": 100258,
    "user_hint": "",
-   "description": "「tell」（話す、伝える）の過去形。",
+   "description": "「tell」（伝える、話す）の過去形。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「tell」（話す、伝える）の過去形。"
+    "ja": "「tell」（伝える、話す）の過去形。"
    }
   },
   {
@@ -41264,12 +41267,12 @@
     "actions"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "話す",
+   "text": "伝える",
    "alternatives": [
-    "伝える"
+    "話す"
    ],
-   "reading": "はなす",
-   "romanization": "hanasu",
+   "reading": "つたえる",
+   "romanization": "tsutaeru",
    "class_real": "godan verb",
    "forms": [
     {
@@ -41352,10 +41355,10 @@
    ],
    "nativeExplain": {
     "pt-BR": "dizer, informar",
-    "ja": "話して情報を伝えること。"
+    "ja": "情報などを言葉で相手に知らせる。"
    },
    "study_priority": 100267,
-   "description": "話して情報を伝えること。",
+   "description": "情報などを言葉で相手に知らせる。",
    "novrev_status": "reviewed",
    "user_hint": ""
   },
@@ -45235,10 +45238,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "今行く",
-   "alternatives": [],
-   "reading": "いまいく",
-   "romanization": "ima iku",
+   "text": "来るところ",
+   "alternatives": [
+    "来ている"
+   ],
+   "reading": "くるところ",
+   "romanization": "kuru tokoro",
    "class_real": "phrase",
    "forms": [
     {
@@ -46468,19 +46473,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "問題",
-   "alternatives": [],
-   "reading": "もんだい",
-   "romanization": "mondai",
+   "text": "事柄",
+   "alternatives": [
+    "こと"
+   ],
+   "reading": "ことがら",
+   "romanization": "kotogara",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "assunto; “não importa”",
-    "ja": "問題やこと。「問題ない」のように使う。"
+    "ja": "話題やことがら。「matter」は問題やことがらのこと。"
    },
    "study_tier": "cedo",
    "study_priority": 1039,
    "user_hint": "",
-   "description": "問題やこと。「問題ない」のように使う。",
+   "description": "話題やことがら。「matter」は問題やことがらのこと。",
    "novrev_status": "reviewed"
   },
   {
@@ -69026,10 +69033,12 @@
     "technology"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "メッセージ",
-   "alternatives": [],
-   "reading": "メッセージ",
-   "romanization": "messeeji",
+   "text": "テキストメッセージ",
+   "alternatives": [
+    "ショートメッセージ"
+   ],
+   "reading": "テキストメッセージ",
+   "romanization": "tekisuto messēji",
    "class_real": "noun (loanword)",
    "nativeExplain": {
     "pt-BR": "SMS; texto escrito",
@@ -71015,12 +71024,12 @@
     "shopping"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "追加の",
+   "text": "余分な",
    "alternatives": [
-    "余分の"
+    "追加の"
    ],
-   "reading": "ついかの",
-   "romanization": "tsuika no",
+   "reading": "よぶんな",
+   "romanization": "yobunna",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1192,
@@ -71350,10 +71359,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "研究",
-   "alternatives": [],
-   "reading": "けんきゅう",
-   "romanization": "kenkyuu",
+   "text": "勉強する",
+   "alternatives": [
+    "学ぶ"
+   ],
+   "reading": "べんきょうする",
+   "romanization": "benkyō suru",
    "class_real": "noun (suru-noun)",
    "study_tier": "herdado",
    "study_priority": 2754,
@@ -77724,10 +77735,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "議会",
-   "alternatives": [],
-   "reading": "ぎかい",
-   "romanization": "gikai",
+   "text": "国会",
+   "alternatives": [
+    "議会"
+   ],
+   "reading": "こっかい",
+   "romanization": "kokkai",
    "class_real": "noun",
    "study_tier": "intermediário",
    "study_priority": 2793,
@@ -101612,10 +101625,12 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "魅力",
-   "alternatives": [],
-   "reading": "みりょく",
-   "romanization": "miryoku",
+   "text": "訴え",
+   "alternatives": [
+    "魅力"
+   ],
+   "reading": "うったえ",
+   "romanization": "uttae",
    "class_real": "noun",
    "study_tier": "intermediário",
    "study_priority": 2926,
@@ -132679,10 +132694,10 @@
    "study_priority": 3476,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "物をつくっている、場所をとるもの。",
+   "description": "重さがあり、場所をとる、すべての物質。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物をつくっている、場所をとるもの。"
+    "ja": "重さがあり、場所をとる、すべての物質。"
    }
   },
   {
@@ -133351,12 +133366,12 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An opening or wound made by something sharp.",
-   "text": "切ること",
+   "text": "切り傷",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "きること",
-   "romanization": "kirukoto",
+   "reading": "きりきず",
+   "romanization": "kirikizu",
    "study_tier": "pendente",
    "study_priority": 3562,
    "part_of_speech": "n",
