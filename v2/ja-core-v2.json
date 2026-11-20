@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.7",
+ "version": "2.4.8",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -37,7 +37,8 @@
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
-  "2.4.7: zh 叫 = chamar-se (named); latir = 吠."
+  "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -32551,18 +32552,20 @@
     "grammar"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "その",
-   "alternatives": [],
-   "reading": "その",
-   "romanization": "sono",
+   "text": "それの",
+   "alternatives": [
+    "その"
+   ],
+   "reading": "それの",
+   "romanization": "sore no",
    "class_real": "pre-noun demonstrative",
    "nativeExplain": {
     "pt-BR": "de coisa ou animal",
-    "ja": "その物や動物のもの。"
+    "ja": "それのもの。その物や動物のもの。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 951,
-   "description": "その物や動物のもの。",
+   "description": "それのもの。その物や動物のもの。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -42846,10 +42849,10 @@
    "class_real": "noun + の",
    "study_priority": 100293,
    "user_hint": "",
-   "description": "アメリカ合衆国の。",
+   "description": "アメリカの物やこと。人の国籍は「アメリカ人」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "アメリカ合衆国の。"
+    "ja": "アメリカの物やこと。人の国籍は「アメリカ人」。"
    },
    "antonyms": []
   },
@@ -128401,7 +128404,8 @@
    "nativeExplain": {
     "ja": "アメリカ南部で、その場の全員に呼びかける言い方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003068",
@@ -128450,7 +128454,8 @@
    "nativeExplain": {
     "ja": "イギリスの俗語で、とても、たくさん。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003059",
@@ -128500,7 +128505,8 @@
    "nativeExplain": {
     "ja": "ニューヨークの街角にある小さな店。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003024",
@@ -128791,7 +128797,8 @@
    "nativeExplain": {
     "ja": "ニューヨークの俗語で、本当に、マジで。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003018",
@@ -128866,7 +128873,8 @@
    "nativeExplain": {
     "ja": "家族のように近い仲間（くだけた言い方）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003022",
@@ -128892,7 +128900,8 @@
    "nativeExplain": {
     "ja": "くだけた言い方で「going to」。今まさにするところ。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003071",
@@ -128918,7 +128927,8 @@
    "nativeExplain": {
     "ja": "アメリカ南部で、〜しようとしている。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003031",
@@ -129151,7 +129161,8 @@
    "nativeExplain": {
     "ja": "カリフォルニアのくだけた言葉で、とても。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003086",
@@ -129177,7 +129188,8 @@
    "nativeExplain": {
     "ja": "カリフォルニアの俗語で、とてもよい。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003029",
@@ -129252,7 +129264,8 @@
    "nativeExplain": {
     "ja": "アメリカ南部のあいさつで、やあ。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003025",
@@ -129472,7 +129485,8 @@
    "nativeExplain": {
     "ja": "ロンドンの俗語で、男の仲間たち。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003080",
@@ -129600,7 +129614,8 @@
    "nativeExplain": {
     "ja": "くだけた言い方で、うそじゃない、本当に。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003011",
@@ -129861,7 +129876,8 @@
    "nativeExplain": {
     "ja": "あやしい、うさんくさい（くだけた言い方）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003026",
@@ -130095,7 +130111,8 @@
    "nativeExplain": {
     "ja": "くだけた言葉で、とてもよい、とても。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003003",
@@ -130128,7 +130145,8 @@
    "nativeExplain": {
     "ja": "アメリカ南部で「you all」を縮めた言い方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003092",
@@ -137249,7 +137267,8 @@
     "ja": "とても魅力的、とてもよい（ロンドンの俗語）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003070",
@@ -137273,7 +137292,8 @@
     "ja": "複数の相手に呼びかける「あなたたち」（ニューヨーク、フィラデルフィア）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003076",
@@ -137321,7 +137341,8 @@
     "ja": "ボストンの地下鉄。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003082",
@@ -137377,7 +137398,8 @@
     "ja": "ボストンの俗語で、ひどく寒い。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003084",
@@ -137401,7 +137423,8 @@
     "ja": "フィラデルフィアの俗語で、なんでも指す「あれ、これ」。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired"
   },
   {
    "id": "ja:en:000003085",
@@ -137473,7 +137496,8 @@
     "ja": "カリフォルニアの高速道路101号。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003090",
@@ -157466,7 +157490,8 @@
    "description_en": "Approximately; about.",
    "text": "〜ごろ",
    "alternatives": [
-    "〜くらい"
+    "〜くらい",
+    "〜ぐらい"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -157476,10 +157501,10 @@
    "study_priority": 2274,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "だいたいの数や時刻。",
+   "description": "だいたいの数や時刻。「〜ごろ」は時刻、「〜ぐらい」は数や量。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "だいたいの数や時刻。"
+    "ja": "だいたいの数や時刻。「〜ごろ」は時刻、「〜ぐらい」は数や量。"
    },
    "level": "A1",
    "antonyms": []

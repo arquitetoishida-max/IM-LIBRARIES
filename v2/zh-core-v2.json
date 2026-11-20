@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.7",
+ "version": "2.4.8",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -36,7 +36,8 @@
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
-  "2.4.7: zh 叫 = chamar-se (named); latir = 吠."
+  "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
  ],
  "entries": [
   {
@@ -10062,17 +10063,15 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "美国的",
-   "alternatives": [
-    "美国人"
-   ],
+   "alternatives": [],
    "reading": "Měiguó de",
    "romanization": "Měiguó de",
    "study_priority": 100293,
    "user_hint": "",
-   "description": "来自美国的。",
+   "description": "美国的，指事物；人的国籍说\"美国人\"。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "来自美国的。"
+    "zh": "美国的，指事物；人的国籍说\"美国人\"。"
    },
    "antonyms": []
   },
@@ -77819,7 +77818,8 @@
    "nativeExplain": {
     "zh": "美国南部用语：称呼群体里的每一个人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003068",
@@ -77870,7 +77870,8 @@
    "nativeExplain": {
     "zh": "英国俚语：很多；非常。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003059",
@@ -77930,7 +77931,8 @@
    "nativeExplain": {
     "zh": "纽约街角的小商店。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003024",
@@ -78230,7 +78232,8 @@
    "nativeExplain": {
     "zh": "纽约俚语：说真的。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003018",
@@ -78322,7 +78325,8 @@
    "nativeExplain": {
     "zh": "亲密的朋友；“family”的俚语。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003022",
@@ -78348,7 +78352,8 @@
    "nativeExplain": {
     "zh": "俚语：“going to”，即将要做。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003071",
@@ -78374,7 +78379,8 @@
    "nativeExplain": {
     "zh": "美国南部用语：正要去做。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003031",
@@ -78614,7 +78620,8 @@
    "nativeExplain": {
     "zh": "加州俚语：非常。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003086",
@@ -78638,7 +78645,8 @@
    "nativeExplain": {
     "zh": "加州俚语：非常好。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003029",
@@ -78714,7 +78722,8 @@
    "nativeExplain": {
     "zh": "美国南部的问候语：你好。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003025",
@@ -78934,7 +78943,8 @@
    "nativeExplain": {
     "zh": "伦敦俚语：一群男性朋友。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003080",
@@ -79064,7 +79074,8 @@
    "nativeExplain": {
     "zh": "俚语：不骗你；说真的。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003011",
@@ -79358,7 +79369,8 @@
    "nativeExplain": {
     "zh": "可疑（俚语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003026",
@@ -79612,7 +79624,8 @@
    "nativeExplain": {
     "zh": "口语：很棒或非常（新英格兰和英国）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003003",
@@ -79644,7 +79657,8 @@
    "nativeExplain": {
     "zh": "美国南部用语：“you all”。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003092",
@@ -86079,7 +86093,8 @@
     "zh": "很有魅力或很棒（伦敦俚语）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003070",
@@ -86103,7 +86118,8 @@
     "zh": "称呼多人的“你们”（纽约、费城）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003076",
@@ -86151,7 +86167,8 @@
     "zh": "波士顿的地铁。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003082",
@@ -86175,7 +86192,8 @@
     "zh": "非常冷（波士顿俚语）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003084",
@@ -86199,7 +86217,8 @@
     "zh": "泛指任何东西（费城俚语）。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired"
   },
   {
    "id": "zh:en:000003085",
@@ -86271,7 +86290,8 @@
     "zh": "加州的101号高速公路。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003090",

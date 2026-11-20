@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.7",
+ "version": "2.4.8",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -36,7 +36,8 @@
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
-  "2.4.7: zh 叫 = chamar-se (named); latir = 吠."
+  "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
  ],
  "entries": [
   {
@@ -7918,10 +7919,10 @@
    ],
    "study_priority": 100293,
    "user_hint": "",
-   "description": "Dos Estados Unidos.",
+   "description": "Dos Estados Unidos, para coisas. A nacionalidade de uma pessoa é \"americano/a\" (アメリカ人).",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dos Estados Unidos."
+    "pt-BR": "Dos Estados Unidos, para coisas. A nacionalidade de uma pessoa é \"americano/a\" (アメリカ人)."
    },
    "antonyms": []
   },
@@ -59869,7 +59870,8 @@
    "nativeExplain": {
     "pt-BR": "Expressão do sul dos EUA que se dirige a todas as pessoas do grupo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003068",
@@ -59916,7 +59918,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria britânica: muito."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003059",
@@ -59964,7 +59967,8 @@
    "nativeExplain": {
     "pt-BR": "Pequena loja de esquina em Nova York."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003024",
@@ -60222,7 +60226,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria de Nova York: \"sério mesmo\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003018",
@@ -60292,7 +60297,8 @@
    "nativeExplain": {
     "pt-BR": "Amigos próximos; \"family\" (gíria)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003022",
@@ -60314,7 +60320,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria: \"going to\" (prestes a fazer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003071",
@@ -60336,7 +60343,8 @@
    "nativeExplain": {
     "pt-BR": "Sul dos EUA: \"about to\" (prestes a)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003031",
@@ -60548,7 +60556,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria da Califórnia: muito."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003086",
@@ -60570,7 +60579,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria da Califórnia: muito bom."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003029",
@@ -60640,7 +60650,8 @@
    "nativeExplain": {
     "pt-BR": "Saudação do sul dos EUA: \"hello\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003025",
@@ -60826,7 +60837,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria de Londres: um grupo de amigos homens."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003080",
@@ -60940,7 +60952,8 @@
    "nativeExplain": {
     "pt-BR": "Gíria: \"sem mentira\"; de verdade."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003011",
@@ -61172,7 +61185,8 @@
    "nativeExplain": {
     "pt-BR": "Suspeito (gíria)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003026",
@@ -61376,7 +61390,8 @@
    "nativeExplain": {
     "pt-BR": "Informal: muito bom ou muito (Nova Inglaterra e Reino Unido)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003003",
@@ -61400,7 +61415,8 @@
    "nativeExplain": {
     "pt-BR": "Sul dos EUA: \"you all\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003092",
@@ -66942,7 +66958,8 @@
     "pt-BR": "Muito atraente ou muito bom (gíria de Londres)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003070",
@@ -66964,7 +66981,8 @@
     "pt-BR": "\"Vocês\", para várias pessoas (Nova York / Filadélfia)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003076",
@@ -67008,7 +67026,8 @@
     "pt-BR": "O metrô de Boston."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003082",
@@ -67030,7 +67049,8 @@
     "pt-BR": "Muito frio (gíria de Boston)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003084",
@@ -67052,7 +67072,8 @@
     "pt-BR": "Uma coisa qualquer (gíria da Filadélfia)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired"
   },
   {
    "id": "pt-BR:en:000003085",
@@ -67118,7 +67139,8 @@
     "pt-BR": "A rodovia 101 da Califórnia."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003090",

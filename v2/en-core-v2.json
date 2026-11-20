@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.4.7",
+ "version": "2.4.8",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -36,7 +36,8 @@
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
   "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
   "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh).",
-  "2.4.7: zh 叫 = chamar-se (named); latir = 吠."
+  "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
+  "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -7609,17 +7610,17 @@
    "english_id": "en:000000293",
    "text": "American",
    "kind": "word",
-   "description_en": "From the United States.",
+   "description_en": "Of or from the United States, for things. For a person's nationality see \"American person\".",
    "level": "A1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "study_priority": 100293,
    "user_hint": "",
-   "description": "From the United States.",
+   "description": "Of or from the United States, for things. For a person's nationality see \"American person\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "From the United States."
+    "en": "Of or from the United States, for things. For a person's nationality see \"American person\"."
    },
    "antonyms": []
   },
@@ -56686,7 +56687,8 @@
    "nativeExplain": {
     "en": "A Southern US expression addressing every person in a group."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003068",
@@ -56732,7 +56734,8 @@
    "nativeExplain": {
     "en": "British slang: a lot of; very."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003059",
@@ -56780,7 +56783,8 @@
    "nativeExplain": {
     "en": "A small corner shop in New York."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003024",
@@ -57040,7 +57044,8 @@
    "nativeExplain": {
     "en": "New York slang: \"seriously, for real\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003018",
@@ -57111,7 +57116,8 @@
    "nativeExplain": {
     "en": "Close friends; \"family\" (slang)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003022",
@@ -57139,7 +57145,8 @@
    "nativeExplain": {
     "en": "Slang: \"going to\" (about to do)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003071",
@@ -57162,7 +57169,8 @@
    "nativeExplain": {
     "en": "Southern US: \"about to\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003031",
@@ -57374,7 +57382,8 @@
    "nativeExplain": {
     "en": "California slang: very; a lot."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003086",
@@ -57396,7 +57405,8 @@
    "nativeExplain": {
     "en": "California slang: very good."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003029",
@@ -57467,7 +57477,8 @@
    "nativeExplain": {
     "en": "Southern US greeting: \"hello\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003025",
@@ -57657,7 +57668,8 @@
    "nativeExplain": {
     "en": "London slang: a group of male friends."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003080",
@@ -57774,7 +57786,8 @@
    "nativeExplain": {
     "en": "Slang: \"no lie; for real\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003011",
@@ -58007,7 +58020,8 @@
    "nativeExplain": {
     "en": "Suspicious (slang)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003026",
@@ -58216,7 +58230,8 @@
    "nativeExplain": {
     "en": "Informal: very good, or very (especially in New England and British slang)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003003",
@@ -58240,7 +58255,8 @@
    "nativeExplain": {
     "en": "Southern US: \"you all\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003092",
@@ -63822,7 +63838,8 @@
     "en": "Very attractive or very good (London slang)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003070",
@@ -63844,7 +63861,8 @@
     "en": "You, addressing more than one person (New York / Philadelphia)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003076",
@@ -63888,7 +63906,8 @@
     "en": "The subway system of Boston."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003082",
@@ -63910,7 +63929,8 @@
     "en": "Very cold (Boston slang)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003084",
@@ -63932,7 +63952,8 @@
     "en": "A thing or object, any thing (Philadelphia slang)."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired"
   },
   {
    "id": "en:000003085",
@@ -63998,7 +64019,8 @@
     "en": "The 101 freeway in California."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003090",
