@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.4.5",
+ "version": "2.4.6",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -34,7 +34,8 @@
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
   "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
-  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas)."
+  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
+  "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh)."
  ],
  "entries": [
   {
@@ -81503,7 +81504,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
    "study_priority": 3230,
-   "part_of_speech": "adj",
+   "part_of_speech": "n",
    "user_hint": "",
    "description": "Distribuição desigual de dinheiro ou de oportunidades.",
    "novrev_status": "reviewed",
@@ -82788,7 +82789,7 @@
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2267,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "Que trabalha com esforço.",
    "novrev_status": "reviewed",

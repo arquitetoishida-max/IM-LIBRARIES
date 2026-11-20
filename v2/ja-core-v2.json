@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.4.5",
+ "version": "2.4.6",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -35,7 +35,8 @@
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
   "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
-  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas)."
+  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
+  "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -141920,7 +141921,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "フォホーをおどる",
-   "romanization": "fohoooodoru",
+   "romanization": "fohō o odoru",
    "study_tier": "temático",
    "study_priority": 3736,
    "part_of_speech": "v",
@@ -155481,7 +155482,7 @@
    "romanization": "fubyoudou",
    "study_tier": "intermediário",
    "study_priority": 3230,
-   "part_of_speech": "adj",
+   "part_of_speech": "n",
    "user_hint": "",
    "description": "お金やチャンスが、人によって大きくちがうこと。",
    "novrev_status": "reviewed",
@@ -157092,7 +157093,7 @@
    "romanization": "kinbenna",
    "study_tier": "cedo",
    "study_priority": 2267,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "休まず、まじめにがんばる。",
    "novrev_status": "reviewed",
@@ -157412,12 +157413,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "The most recent one before now (last week).",
-   "text": "先〜 , この前の",
-   "alternatives": [],
+   "text": "この前の",
+   "alternatives": [
+    "先〜"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "さき〜 , このまえの",
-   "romanization": "saki , konomaeno",
+   "reading": "このまえの",
+   "romanization": "kono mae no",
    "study_tier": "cedo",
    "study_priority": 2272,
    "part_of_speech": "n",
@@ -157460,12 +157463,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Approximately; about.",
-   "text": "〜ごろ , 〜くらい",
-   "alternatives": [],
+   "text": "〜ごろ",
+   "alternatives": [
+    "〜くらい"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "〜ごろ , 〜くらい",
-   "romanization": "goro , kurai",
+   "reading": "〜ごろ",
+   "romanization": "goro",
    "study_tier": "cedo",
    "study_priority": 2274,
    "part_of_speech": "adj",

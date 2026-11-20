@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.4.5",
+ "version": "2.4.6",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -34,7 +34,8 @@
   "2.4.2: nativeExplain no próprio idioma = descrição nativa, para a face nativa do card diferenciar sentidos (mal, frete, imediato...).",
   "2.4.3: descrição nativa completa — 100% das entradas têm descrição no próprio idioma.",
   "2.4.4: conferência 1 a 1 do mesmo significado entre os 4 idiomas (T1); correções pontuais.",
-  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas)."
+  "2.4.5: nível (CEFR) preenchido em 100% dos conceitos ativos; antônimos ampliados (~160 pares, mesmos IDs nos 4 idiomas).",
+  "2.4.6: acertos finais (classe gramatical, formato de 3 entradas ja/zh)."
  ],
  "entries": [
   {
@@ -89695,12 +89696,12 @@
    "english_sense_id": null,
    "kind": "expression",
    "description_en": "To dance forró, a Brazilian couple dance.",
-   "text": "跳福禄舞 (transliteração",
+   "text": "跳巴西乡村舞",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "tiàofúlùwǔ (transliteração",
-   "romanization": "tiàofúlùwǔ (transliteração",
+   "reading": "tiào bāxī xiāngcūnwǔ",
+   "romanization": "tiào bāxī xiāngcūnwǔ",
    "study_tier": "temático",
    "study_priority": 3736,
    "part_of_speech": "v",
@@ -101969,7 +101970,7 @@
    "romanization": "bùpíngděng",
    "study_tier": "intermediário",
    "study_priority": 3230,
-   "part_of_speech": "adj",
+   "part_of_speech": "n",
    "user_hint": "",
    "description": "金钱或机会分配不均。",
    "novrev_status": "reviewed",
@@ -103368,7 +103369,7 @@
    "romanization": "qínfèn",
    "study_tier": "cedo",
    "study_priority": 2267,
-   "part_of_speech": "n",
+   "part_of_speech": "adj",
    "user_hint": "",
    "description": "肯下功夫工作。",
    "novrev_status": "reviewed",
