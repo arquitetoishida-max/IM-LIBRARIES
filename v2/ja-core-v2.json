@@ -163065,26 +163065,27 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A free trip in someone's car.",
-   "text": "車で送ること",
+   "text": "乗せてもらう",
    "alternatives": [
-    "送迎"
+    "送ってもらう"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "くるまでおくること",
-   "romanization": "kuruma de okuru koto",
+   "reading": "のせてもらう",
+   "romanization": "nosete morau",
    "study_tier": "cedo",
    "study_priority": 2412,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
-   "description": "車で人を目的地までのせていくこと。日本語に一語の言い方はなく「送ってもらう」「乗せてもらう」と言う。",
+   "description": "人の車に乗せてもらって行くこと。目的地まで連れて行ってもらうときは「送ってもらう」。道で知らない車に乗るのは「ヒッチハイク」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "車で人を目的地までのせていくこと。日本語に一語の言い方はなく「送ってもらう」「乗せてもらう」と言う。"
+    "ja": "人の車に乗せてもらって行くこと。目的地まで連れて行ってもらうときは「送ってもらう」。道で知らない車に乗るのは「ヒッチハイク」。"
    },
    "level": "B1",
    "antonyms": [],
-   "core_status": null
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000004058",
@@ -167823,6 +167824,58 @@
    "nativeExplain": {
     "ja": "結婚していない女の人の名前のあとにつける呼び方。"
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "ja:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "give-a-ride",
+   "forms": [],
+   "text": "車で送る",
+   "reading": "くるまでおくる",
+   "romanization": "kuruma de okuru",
+   "alternatives": [
+    "乗せてあげる"
+   ],
+   "description": "自分の車に人を乗せて連れて行く。",
+   "nativeExplain": {
+    "ja": "自分の車に人を乗せて連れて行く。"
+   },
+   "description_en": "To take someone somewhere in your car."
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "ja:en:000004193",
+   "english_id": "en:000004193",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "hitchhike",
+   "forms": [],
+   "text": "ヒッチハイクする",
+   "reading": "ヒッチハイクする",
+   "romanization": "hitchihaiku suru",
+   "alternatives": [],
+   "description": "道で通りがかりの車に乗せてもらって旅をする。",
+   "nativeExplain": {
+    "ja": "道で通りがかりの車に乗せてもらって旅をする。"
+   },
+   "description_en": "To travel by getting free rides from drivers on the road."
   }
  ]
 }

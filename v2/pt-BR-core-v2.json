@@ -87521,22 +87521,25 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "A free trip in someone's car.",
-   "text": "carona",
-   "alternatives": [],
+   "text": "pegar carona",
+   "alternatives": [
+    "carona"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2412,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
-   "description": "Viagem de graça no carro de alguém.",
+   "description": "Ir no carro de outra pessoa, normalmente de graça.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Viagem de graça no carro de alguém."
+    "pt-BR": "Ir no carro de outra pessoa, normalmente de graça."
    },
    "level": "B1",
    "antonyms": [],
-   "core_status": null
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000004058",
@@ -90587,6 +90590,54 @@
    "nativeExplain": {
     "pt-BR": "Título antes do nome de uma mulher solteira."
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "pt-BR:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "give-a-ride",
+   "forms": [],
+   "text": "dar carona",
+   "alternatives": [],
+   "description": "Levar alguém no seu carro.",
+   "nativeExplain": {
+    "pt-BR": "Levar alguém no seu carro."
+   },
+   "description_en": "To take someone somewhere in your car."
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "pt-BR:en:000004193",
+   "english_id": "en:000004193",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "hitchhike",
+   "forms": [],
+   "text": "pedir carona",
+   "alternatives": [
+    "carona na estrada"
+   ],
+   "description": "Viajar pedindo carona a motoristas na estrada.",
+   "nativeExplain": {
+    "pt-BR": "Viajar pedindo carona a motoristas na estrada."
+   },
+   "description_en": "To travel by getting free rides from drivers on the road."
   }
  ]
 }

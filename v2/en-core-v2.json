@@ -95459,23 +95459,26 @@
    "english_id": "en:000004057",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A free trip in someone's car.",
-   "text": "ride",
-   "alternatives": [],
+   "description_en": "To travel in someone else's car, usually for free.",
+   "text": "get a ride",
+   "alternatives": [
+    "ride"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2412,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
-   "description": "A free trip in someone's car.",
+   "description": "To travel in someone else's car, usually for free.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A free trip in someone's car."
+    "en": "To travel in someone else's car, usually for free."
    },
    "level": "B1",
    "antonyms": [],
-   "core_status": null
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "en:000004058",
@@ -99018,6 +99021,54 @@
    "nativeExplain": {
     "en": "Title before an unmarried woman's name (Miss Smith)."
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "en:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "give-a-ride",
+   "forms": [],
+   "text": "give a ride",
+   "alternatives": [
+    "give a lift"
+   ],
+   "description": "To take someone somewhere in your car.",
+   "nativeExplain": {
+    "en": "To take someone somewhere in your car."
+   },
+   "description_en": "To take someone somewhere in your car."
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "en:en:000004193",
+   "english_id": "en:000004193",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "hitchhike",
+   "forms": [],
+   "text": "hitchhike",
+   "alternatives": [],
+   "description": "To travel by getting free rides from drivers on the road.",
+   "nativeExplain": {
+    "en": "To travel by getting free rides from drivers on the road."
+   },
+   "description_en": "To travel by getting free rides from drivers on the road."
   }
  ]
 }

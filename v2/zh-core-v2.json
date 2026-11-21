@@ -107573,23 +107573,26 @@
    "kind": "word",
    "description_en": "A free trip in someone's car.",
    "text": "搭车",
-   "alternatives": [],
+   "alternatives": [
+    "搭顺风车"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "dāchē",
-   "romanization": "dāchē",
+   "reading": "dā chē",
+   "romanization": "dā chē",
    "study_tier": "cedo",
    "study_priority": 2412,
-   "part_of_speech": "n",
+   "part_of_speech": "v",
    "user_hint": "",
-   "description": "免费搭别人的车。",
+   "description": "坐别人的车走（多为免费）；顺路的叫“搭顺风车”。“打车”是叫出租车，不是搭车。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "免费搭别人的车。"
+    "zh": "坐别人的车走（多为免费）；顺路的叫“搭顺风车”。“打车”是叫出租车，不是搭车。"
    },
    "level": "B1",
    "antonyms": [],
-   "core_status": null
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000004058",
@@ -109192,22 +109195,22 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Clothes worn to look like someone else.",
-   "text": "化装服",
+   "text": "装扮服",
    "alternatives": [
-    "装扮服"
+    "化装服"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "huàzhuāngfú",
-   "romanization": "huàzhuāngfú",
+   "reading": "zhuāngbànfú",
+   "romanization": "zhuāngbànfú",
    "study_tier": "cedo",
    "study_priority": 2462,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "为扮成别人而穿的衣服。",
+   "description": "化装时穿的衣服（如万圣节的装扮服）；“服装”只是一般的衣服。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "为扮成别人而穿的衣服。"
+    "zh": "化装时穿的衣服（如万圣节的装扮服）；“服装”只是一般的衣服。"
    },
    "level": "B1",
    "antonyms": []
@@ -110921,6 +110924,58 @@
    "nativeExplain": {
     "zh": "放在未婚女子的姓后面（如：李小姐）。"
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "zh:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "give-a-ride",
+   "forms": [],
+   "text": "开车送",
+   "reading": "kāichē sòng",
+   "romanization": "kāichē sòng",
+   "alternatives": [
+    "捎"
+   ],
+   "description": "用自己的车把别人送到某地。",
+   "nativeExplain": {
+    "zh": "用自己的车把别人送到某地。"
+   },
+   "description_en": "To take someone somewhere in your car."
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "v",
+   "level": "B1",
+   "id": "zh:en:000004193",
+   "english_id": "en:000004193",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "hitchhike",
+   "forms": [],
+   "text": "搭便车",
+   "reading": "dā biànchē",
+   "romanization": "dā biànchē",
+   "alternatives": [],
+   "description": "在路边请过往司机免费带一程。",
+   "nativeExplain": {
+    "zh": "在路边请过往司机免费带一程。"
+   },
+   "description_en": "To travel by getting free rides from drivers on the road."
   }
  ],
  "third_party": [
