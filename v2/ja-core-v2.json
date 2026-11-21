@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.5.0",
+ "version": "2.5.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -40,7 +40,8 @@
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
-  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -29845,7 +29846,10 @@
    "nativeExplain": {
     "ja": "「彼・彼女・それ」と使う「be」の現在の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000007",
@@ -30093,7 +30097,7 @@
    "alternatives": [],
    "reading": "だった",
    "romanization": "datta",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
    "study_priority": 2463,
@@ -30108,7 +30112,9 @@
    "description": "「be」の過去の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000015",
@@ -30299,7 +30305,10 @@
    "nativeExplain": {
     "ja": "「あなた・私たち・彼ら」と使う「be」の現在の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000018",
@@ -31388,7 +31397,7 @@
    "alternatives": [],
    "reading": "もっている",
    "romanization": "motte iru",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
    "study_priority": 2465,
@@ -31398,7 +31407,9 @@
    "nativeExplain": {
     "ja": "「彼・彼女・それ」と使う「have」の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000018",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000046",
@@ -31658,7 +31669,7 @@
    "alternatives": [],
    "reading": "だった",
    "romanization": "datta",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
    "study_priority": 2466,
@@ -31672,7 +31683,9 @@
    "nativeExplain": {
     "ja": "「be」の過去の形（we/you/they）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000051",
@@ -31750,7 +31763,10 @@
    "nativeExplain": {
     "ja": "「have」の過去の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000018",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000053",
@@ -32083,7 +32099,7 @@
    "alternatives": [],
    "reading": "いったことがある",
    "romanization": "itta koto ga aru",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
    "study_priority": 2469,
@@ -32093,7 +32109,9 @@
    "nativeExplain": {
     "ja": "「be」の過去分詞（「そこに行ったことがある」）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000015",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000000061",
@@ -33988,7 +34006,10 @@
    "nativeExplain": {
     "ja": "「say」（言う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000130",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000099",
@@ -34113,7 +34134,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "とても",
-   "alternatives": [],
+   "alternatives": [
+    "すごく"
+   ],
    "reading": "とても",
    "romanization": "totemo",
    "classifications": [
@@ -34419,7 +34442,10 @@
    "nativeExplain": {
     "ja": "「do」の過去の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000048",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000111",
@@ -34699,7 +34725,8 @@
    "nativeExplain": {
     "ja": "「go」の〜ing形。「going to」で未来も表す。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000000119",
@@ -34839,7 +34866,10 @@
    "nativeExplain": {
     "ja": "「make」（作る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000085",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000123",
@@ -35029,7 +35059,10 @@
    "nativeExplain": {
     "ja": "「get」（手に入れる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000059",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000126",
@@ -36382,7 +36415,7 @@
      "verb_class": "copula"
     }
    ],
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2484,
    "description": "「I」と使う「be」の形。",
@@ -36391,7 +36424,9 @@
    "nativeExplain": {
     "ja": "「I」と使う「be」の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000154",
@@ -36579,9 +36614,9 @@
    "study_priority": 2485,
    "nativeExplain": {
     "pt-BR": "dois sentidos: estado (região) e estado (condição)",
-    "ja": "国の中の行政区画（州）。また、状態。"
+    "ja": "国の中の、自分の政府をもつ地域。"
    },
-   "description": "国の中の行政区画（州）。また、状態。",
+   "description": "国の中の、自分の政府をもつ地域。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -37290,7 +37325,7 @@
      "source": "OpenJLPT (CC BY-SA 4.0)"
     }
    ],
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "SAME_SURFACE_AS_048",
    "study_tier": "herdado",
    "study_priority": 2487,
@@ -37300,7 +37335,9 @@
    "nativeExplain": {
     "ja": "「彼・彼女・それ」と使う「do」の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000048",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000170",
@@ -37981,7 +38018,10 @@
    "nativeExplain": {
     "ja": "「find」（見つける）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000162",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000190",
@@ -38800,9 +38840,7 @@
    "user_hint": "",
    "description": "お金がかからない。束縛がなく自由な意味もある。",
    "novrev_status": "reviewed",
-   "antonyms": [
-    "en:000001776"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "ja": "お金がかからない。束縛がなく自由な意味もある。"
    }
@@ -39920,7 +39958,10 @@
    "nativeExplain": {
     "ja": "「woman」（女の人）の不規則な複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000435",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000237",
@@ -41014,7 +41055,10 @@
    "nativeExplain": {
     "ja": "「tell」（伝える、話す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000267",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000259",
@@ -41250,7 +41294,7 @@
    "description": "やるのに力がいる。かたくて、やわらかくない意味もある。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000002092"
+    "en:000000492"
    ]
   },
   {
@@ -41770,7 +41814,10 @@
    "nativeExplain": {
     "ja": "「see」（見る）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000000273",
@@ -42263,7 +42310,10 @@
    "nativeExplain": {
     "ja": "「man」（男の人）の不規則な複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000142",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000280",
@@ -42396,7 +42446,10 @@
    "nativeExplain": {
     "ja": "「take」（取る、持っていく）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000283",
@@ -42494,7 +42547,10 @@
    "nativeExplain": {
     "ja": "「come」（来る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000154",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000285",
@@ -42768,7 +42824,10 @@
    "nativeExplain": {
     "ja": "「go」（行く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000096",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000291",
@@ -43552,7 +43611,10 @@
    "nativeExplain": {
     "ja": "「child」の複数形。年の小さい人たち。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000481",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000308",
@@ -44335,7 +44397,7 @@
    "alternatives": [],
    "reading": "いみする",
    "romanization": "imi suru",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2502,
@@ -44345,7 +44407,9 @@
    "nativeExplain": {
     "ja": "「mean」の三人称単数現在形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000264",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "ja:en:000000338",
@@ -44609,7 +44673,7 @@
    "alternatives": [],
    "reading": "ともだち",
    "romanization": "tomodachi",
-   "core_status": "retired",
+   "core_status": "search_only",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "herdado",
    "study_priority": 2503,
@@ -44619,7 +44683,9 @@
    "nativeExplain": {
     "ja": "「friend」（友だち）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000405",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000344",
@@ -45268,7 +45334,8 @@
    "nativeExplain": {
     "ja": "「give」の過去分詞。決まっている、与えられたの意味もある。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000000359",
@@ -46731,9 +46798,7 @@
    "nativeExplain": {
     "ja": "正しくない。"
    },
-   "antonyms": [
-    "en:000003194"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000000395",
@@ -47799,7 +47864,7 @@
    },
    "antonyms": [
     "en:000000448",
-    "en:000000656"
+    "en:000004173"
    ]
   },
   {
@@ -48732,7 +48797,10 @@
    "nativeExplain": {
     "ja": "「see」（見る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000443",
@@ -49431,7 +49499,10 @@
    "nativeExplain": {
     "ja": "「take」（取る）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000000457",
@@ -50279,7 +50350,10 @@
    "nativeExplain": {
     "ja": "「minute」（分）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001090",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000475",
@@ -50841,7 +50915,8 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000874"
+    "en:000000874",
+    "en:000000263"
    ],
    "nativeExplain": {
     "ja": "むずかしくない。"
@@ -51319,7 +51394,10 @@
    "nativeExplain": {
     "ja": "「kid」の複数形。子どもをさすくだけた言い方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001073",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000511",
@@ -51772,7 +51850,10 @@
    "nativeExplain": {
     "ja": "「hear」（聞く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000568",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000524",
@@ -52448,7 +52529,10 @@
    "nativeExplain": {
     "ja": "「give」（あげる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000177",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000541",
@@ -52862,7 +52946,10 @@
    "nativeExplain": {
     "ja": "「hold」（持つ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000632",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000553",
@@ -53779,7 +53866,10 @@
    "nativeExplain": {
     "ja": "「kill」（殺す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000824",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000587",
@@ -54208,7 +54298,10 @@
    "nativeExplain": {
     "ja": "ものを見るための、顔にある2つの器官。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000986",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000599",
@@ -54730,7 +54823,10 @@
    "nativeExplain": {
     "ja": "「die」（死ぬ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000873",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000611",
@@ -54799,7 +54895,10 @@
    "nativeExplain": {
     "ja": "「happen」の過去の形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000631",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000613",
@@ -54834,7 +54933,10 @@
    "nativeExplain": {
     "ja": "「know」（知っている）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000082",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000614",
@@ -55309,7 +55411,10 @@
    "nativeExplain": {
     "ja": "「win」（勝つ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000393",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000625",
@@ -56270,7 +56375,9 @@
    "nativeExplain": {
     "ja": "「high」（高い）の比較級。"
    },
-   "antonyms": []
+   "antonyms": [
+    "en:000000785"
+   ]
   },
   {
    "id": "ja:en:000000652",
@@ -56386,9 +56493,7 @@
    "description": "人に贈る物。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000000422"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000000657",
@@ -57215,7 +57320,10 @@
    "nativeExplain": {
     "ja": "「add」（加える）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000812",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000679",
@@ -57339,7 +57447,10 @@
    "nativeExplain": {
     "ja": "「bring」（持ってくる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000517",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000683",
@@ -57843,7 +57954,10 @@
    "nativeExplain": {
     "ja": "「receive」（受け取る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001461",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000697",
@@ -57912,7 +58026,10 @@
    "nativeExplain": {
     "ja": "「send」（送る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000790",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000699",
@@ -57979,7 +58096,10 @@
    "nativeExplain": {
     "ja": "「try」（試す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000289",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000702",
@@ -58039,7 +58159,10 @@
    "nativeExplain": {
     "ja": "「become」（〜になる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000367",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000705",
@@ -59881,7 +60004,10 @@
    "nativeExplain": {
     "ja": "「feel」（感じる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000193",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000746",
@@ -60468,7 +60594,10 @@
    "nativeExplain": {
     "ja": "「pay」（払う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000376",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000766",
@@ -60976,7 +61105,10 @@
    "nativeExplain": {
     "ja": "「lead」（導く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000614",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000785",
@@ -60999,7 +61131,7 @@
    "description": "「low」（低い）の比較級。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000001800"
+    "en:000000651"
    ],
    "nativeExplain": {
     "ja": "「low」（低い）の比較級。"
@@ -62166,7 +62298,7 @@
     "ja": "人に対する乱暴な行い。"
    },
    "antonyms": [
-    "en:000004092"
+    "en:000004176"
    ]
   },
   {
@@ -62285,7 +62417,10 @@
    "nativeExplain": {
     "ja": "「decide」（決める）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001679",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000819",
@@ -62662,7 +62797,10 @@
    "nativeExplain": {
     "ja": "「meet」（会う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000524",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000826",
@@ -63008,7 +63146,10 @@
    "nativeExplain": {
     "ja": "「write」（書く）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000977",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000000834",
@@ -63113,7 +63254,10 @@
    "nativeExplain": {
     "ja": "「consider」（考える）の過去形・過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001067",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000837",
@@ -63765,7 +63909,8 @@
    "user_hint": "",
    "antonyms": [
     "en:000000162",
-    "en:000000393"
+    "en:000000393",
+    "en:000001600"
    ],
    "nativeExplain": {
     "ja": "持っていた物を失う。勝負に負ける意味もある。"
@@ -64101,20 +64246,20 @@
    "part_of_speech": "adv",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "すごく",
+   "text": "すごい",
    "alternatives": [
     "超"
    ],
-   "reading": "すごく",
-   "romanization": "sugoku",
+   "reading": "すごい",
+   "romanization": "sugoi",
    "class_real": "adverb",
    "study_tier": "expansão cotidiana",
    "study_priority": 2707,
    "user_hint": "",
-   "description": "とても。すばらしい（くだけた言い方）。",
+   "description": "とてもいい、すばらしい（くだけた言い方）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とても。すばらしい（くだけた言い方）。"
+    "ja": "とてもいい、すばらしい（くだけた言い方）。"
    },
    "antonyms": []
   },
@@ -64337,7 +64482,10 @@
    "nativeExplain": {
     "ja": "「begin」（始める）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001484",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000866",
@@ -64371,7 +64519,10 @@
    "nativeExplain": {
     "ja": "「build」（建てる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000932",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000867",
@@ -64838,9 +64989,7 @@
    "nativeExplain": {
     "ja": "何かを失うこと。"
    },
-   "antonyms": [
-    "en:000001600"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000000879",
@@ -64972,10 +65121,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "出版された",
+   "text": "出版する",
    "alternatives": [],
-   "reading": "しゅっぱんされた",
-   "romanization": "shuppan sareta",
+   "reading": "しゅっぱんする",
+   "romanization": "shuppan suru",
    "lexical_type": "form",
    "lemma": "出版する",
    "lemma_id": null,
@@ -64990,12 +65139,14 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2722,
    "user_hint": "",
-   "description": "「publish」（出版する）の過去形。",
+   "description": "本などを作って世に出す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「publish」（出版する）の過去形。"
+    "ja": "本などを作って世に出す。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000000885",
@@ -65586,7 +65737,8 @@
    "nativeExplain": {
     "ja": "よい、わかった、という返事。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000000901",
@@ -65684,13 +65836,13 @@
    "study_tier": "cedo",
    "study_priority": 1116,
    "user_hint": "",
-   "description": "男の人に呼びかける、ていねいな言い方。",
+   "description": "店などで、客をていねいによぶ言い方。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "男の人に呼びかける、ていねいな言い方。"
+    "ja": "店などで、客をていねいによぶ言い方。"
    },
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "ja:en:000000905",
@@ -65900,7 +66052,10 @@
    "nativeExplain": {
     "ja": "「create」（つくる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000982",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000914",
@@ -67263,7 +67418,10 @@
    "nativeExplain": {
     "ja": "「write」（書く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000977",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000954",
@@ -68343,8 +68501,7 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000687",
-    "en:000001421"
+    "en:000000687"
    ]
   },
   {
@@ -68848,7 +69005,10 @@
    "nativeExplain": {
     "ja": "「spend」（使う、過ごす）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001118",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000998",
@@ -69785,7 +69945,10 @@
    "nativeExplain": {
     "ja": "「move」（動く、引っこす）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000431",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001022",
@@ -70442,7 +70605,10 @@
    "nativeExplain": {
     "ja": "「describe」（説明する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002632",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001043",
@@ -70945,7 +71111,10 @@
    "nativeExplain": {
     "ja": "「keep」（保つ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000198",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001055",
@@ -71190,7 +71359,10 @@
    "nativeExplain": {
     "ja": "「report」（報告する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001318",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001063",
@@ -71716,7 +71888,10 @@
    "nativeExplain": {
     "ja": "足が2つ以上あること（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001391",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000001073",
@@ -72423,7 +72598,10 @@
    "nativeExplain": {
     "ja": "「study」の複数形。勉強や研究。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000534",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000001097",
@@ -72989,7 +73167,10 @@
    "nativeExplain": {
     "ja": "「sell」（売る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001094",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001117",
@@ -73015,7 +73196,8 @@
    "nativeExplain": {
     "ja": "「sound」の三人称単数現在形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000001118",
@@ -73254,10 +73436,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "発表した",
+   "text": "発表する",
    "alternatives": [],
-   "reading": "はっぴょうした",
-   "romanization": "happyou shita",
+   "reading": "はっぴょうする",
+   "romanization": "happyou suru",
    "lexical_type": "form",
    "lemma": "発表する",
    "lemma_id": null,
@@ -73271,12 +73453,14 @@
    "study_tier": "herdado",
    "study_priority": 2758,
    "user_hint": "",
-   "description": "「announce」（発表する）の過去形。",
+   "description": "みんなにおおやけに知らせる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「announce」（発表する）の過去形。"
+    "ja": "みんなにおおやけに知らせる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001126",
@@ -74583,9 +74767,7 @@
    "nativeExplain": {
     "ja": "集まりを率いる人。"
    },
-   "antonyms": [
-    "en:000003887"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000001162",
@@ -74675,7 +74857,10 @@
    "nativeExplain": {
     "ja": "「name」（名づける）の過去形・過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000212",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001166",
@@ -74943,12 +75128,10 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "労働者たち",
-   "alternatives": [
-    "働く人"
-   ],
-   "reading": "ろうどうしゃたち",
-   "romanization": "roudoushatachi",
+   "text": "労働者",
+   "alternatives": [],
+   "reading": "ろうどうしゃ",
+   "romanization": "roudousha",
    "lexical_type": "form",
    "lemma": "労働者",
    "lemma_id": null,
@@ -74961,12 +75144,14 @@
    "study_tier": "herdado",
    "study_priority": 2768,
    "user_hint": "",
-   "description": "「worker」（働く人）の複数形。",
+   "description": "はたらく人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「worker」（働く人）の複数形。"
+    "ja": "はたらく人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001177",
@@ -75482,7 +75667,10 @@
    "nativeExplain": {
     "ja": "「mean」（意味する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000264",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001195",
@@ -76805,10 +76993,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "比べた",
+   "text": "比べる",
    "alternatives": [],
-   "reading": "くらべた",
-   "romanization": "kurabeta",
+   "reading": "くらべる",
+   "romanization": "kuraberu",
    "lexical_type": "form",
    "lemma": "比べる",
    "lemma_id": null,
@@ -76822,12 +77010,14 @@
    "study_tier": "herdado",
    "study_priority": 2779,
    "user_hint": "",
-   "description": "「compare」（比べる）の過去形。",
+   "description": "ちがいや同じところを見る。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「compare」（比べる）の過去形。"
+    "ja": "ちがいや同じところを見る。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001234",
@@ -76893,7 +77083,10 @@
    "nativeExplain": {
     "ja": "「end」（終わる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000188",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001236",
@@ -77307,7 +77500,10 @@
    "nativeExplain": {
     "ja": "「pass」（通る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000921",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001249",
@@ -77841,7 +78037,10 @@
    "nativeExplain": {
     "ja": "「buy」（買う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000458",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001262",
@@ -78536,12 +78735,14 @@
    "study_tier": "herdado",
    "study_priority": 2788,
    "user_hint": "",
-   "description": "「resource」（資源）の複数形。",
+   "description": "役に立つもの（水やお金など）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「resource」（資源）の複数形。"
+    "ja": "役に立つもの（水やお金など）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001283",
@@ -78917,7 +79118,10 @@
    "nativeExplain": {
     "ja": "「catch」（つかまえる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001383",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001292",
@@ -79787,7 +79991,10 @@
    "nativeExplain": {
     "ja": "「show」（見せる）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000191",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000001320",
@@ -80786,7 +80993,10 @@
    "nativeExplain": {
     "ja": "「cause」（引き起こす）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000425",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001354",
@@ -80981,7 +81191,10 @@
    "nativeExplain": {
     "ja": "「help」（手伝う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000163",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001361",
@@ -81041,7 +81254,10 @@
    "nativeExplain": {
     "ja": "「live」（住む、生きる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000253",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001364",
@@ -82130,7 +82346,10 @@
    "nativeExplain": {
     "ja": "「produce」（生産する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001697",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001402",
@@ -82164,7 +82383,10 @@
    "nativeExplain": {
     "ja": "「run」（走る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000299",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001403",
@@ -82719,9 +82941,7 @@
    "description": "温度が高いこと。あつさ。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000000981"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "ja": "温度が高いこと。あつさ。"
    }
@@ -82808,111 +83028,23 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "位置している",
+   "text": "位置する",
    "alternatives": [],
-   "reading": "いちしている",
-   "romanization": "ichi shite iru",
+   "reading": "いちする",
+   "romanization": "ichi suru",
    "lexical_type": "construction",
    "class_real": "verb construction (suru-noun + いる)",
-   "forms": [
-    {
-     "form_id": "ja:en:000001425:f:NP.POLITE.POS",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "NP.POLITE.POS",
-     "text": "位置しています",
-     "reading": "いちしています",
-     "romanization": "ichishiteimasu",
-     "study_tier": "essential",
-     "description_en": "Polite non-past (ます form).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:NP.PLAIN.NEG",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "NP.PLAIN.NEG",
-     "text": "位置していない",
-     "reading": "いちしていない",
-     "romanization": "ichishiteinai",
-     "study_tier": "essential",
-     "description_en": "Plain negative (ない form).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:NP.POLITE.NEG",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "NP.POLITE.NEG",
-     "text": "位置していません",
-     "reading": "いちしていません",
-     "romanization": "ichishiteimasen",
-     "study_tier": "essential",
-     "description_en": "Polite negative (ません).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:PAST.PLAIN.POS",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "PAST.PLAIN.POS",
-     "text": "位置していた",
-     "reading": "いちしていた",
-     "romanization": "ichishiteita",
-     "study_tier": "essential",
-     "description_en": "Plain past (た form).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:PAST.POLITE.POS",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "PAST.POLITE.POS",
-     "text": "位置していました",
-     "reading": "いちしていました",
-     "romanization": "ichishiteimashita",
-     "study_tier": "essential",
-     "description_en": "Polite past (ました).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:PAST.PLAIN.NEG",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "PAST.PLAIN.NEG",
-     "text": "位置していなかった",
-     "reading": "いちしていなかった",
-     "romanization": "ichishiteinakatta",
-     "study_tier": "standard",
-     "description_en": "Plain past negative (なかった).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:PAST.POLITE.NEG",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "PAST.POLITE.NEG",
-     "text": "位置していませんでした",
-     "reading": "いちしていませんでした",
-     "romanization": "ichishiteimasendeshita",
-     "study_tier": "standard",
-     "description_en": "Polite past negative (ませんでした).",
-     "verb_class": "ichidan"
-    },
-    {
-     "form_id": "ja:en:000001425:f:TE",
-     "lemma_id": "ja:en:000001425",
-     "grammatical_key": "TE",
-     "text": "位置していて",
-     "reading": "いちしていて",
-     "romanization": "ichishiteite",
-     "study_tier": "essential",
-     "description_en": "Te-form: connects actions; base of ている.",
-     "verb_class": "ichidan"
-    }
-   ],
+   "forms": [],
    "study_tier": "herdado",
    "study_priority": 2814,
    "user_hint": "",
-   "description": "ある場所にある。「locate」の過去分詞。",
+   "description": "ある場所にある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある場所にある。「locate」の過去分詞。"
+    "ja": "ある場所にある。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null
   },
   {
    "id": "ja:en:000001426",
@@ -83037,7 +83169,10 @@
    "nativeExplain": {
     "ja": "「show」（見せる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000191",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001438",
@@ -83323,13 +83458,15 @@
    "kind": "form",
    "description_en": "Past of \"break\"; also \"broke\" = with no money.",
    "level": "B1",
-   "part_of_speech": "v",
+   "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "壊した",
-   "alternatives": [],
-   "reading": "こわした",
-   "romanization": "kowashita",
+   "text": "金欠の",
+   "alternatives": [
+    "お金がない"
+   ],
+   "reading": "きんけつの",
+   "romanization": "kinketsu no",
    "lexical_type": "form",
    "lemma": "壊す",
    "lemma_id": "ja:en:000000647",
@@ -83343,10 +83480,10 @@
    "study_tier": "herdado",
    "study_priority": 2817,
    "user_hint": "",
-   "description": "「break」（こわす）の過去形。",
+   "description": "お金がまったくないようす（くだけた言い方）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「break」（こわす）の過去形。"
+    "ja": "お金がまったくないようす（くだけた言い方）。"
    },
    "antonyms": []
   },
@@ -83501,7 +83638,10 @@
    "nativeExplain": {
     "ja": "「fall」（落ちる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000741",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001450",
@@ -83575,7 +83715,10 @@
    "nativeExplain": {
     "ja": "「learn」（学ぶ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000674",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001453",
@@ -83667,7 +83810,10 @@
    "nativeExplain": {
     "ja": "「open」（開ける）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000303",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001457",
@@ -83786,7 +83932,10 @@
    "nativeExplain": {
     "ja": "「reach」（届く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001199",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001461",
@@ -84261,7 +84410,10 @@
    "nativeExplain": {
     "ja": "「sign」（署名する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000856",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001469",
@@ -85168,7 +85320,10 @@
    "nativeExplain": {
     "ja": "「raise」（育てる、上げる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001800",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001501",
@@ -85365,7 +85520,10 @@
    "nativeExplain": {
     "ja": "「stop」（止まる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000273",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001508",
@@ -85870,7 +86028,10 @@
    "nativeExplain": {
     "ja": "「cover」（おおう）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000839",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001523",
@@ -86081,7 +86242,10 @@
    "nativeExplain": {
     "ja": "「mention」（ふれる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001872",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001531",
@@ -86115,7 +86279,10 @@
    "nativeExplain": {
     "ja": "「miss」（逃す、恋しく思う）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000588",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001532",
@@ -86934,7 +87101,8 @@
    "nativeExplain": {
     "ja": "肩から手までの部分（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000001556",
@@ -87183,7 +87351,10 @@
    "nativeExplain": {
     "ja": "「fail」（失敗する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002402",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001561",
@@ -87731,7 +87902,10 @@
    "nativeExplain": {
     "ja": "「return」（戻る、返す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000640",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001578",
@@ -88413,9 +88587,7 @@
    "description": "ある場所の内側へ進むこと。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000003123"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "ja": "ある場所の内側へ進むこと。"
    }
@@ -88589,7 +88761,7 @@
    "description": "何かをより多く手に入れる。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000878"
+    "en:000000850"
    ]
   },
   {
@@ -89314,10 +89486,12 @@
     "daily_communication"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "どうやら〜らしい",
-   "alternatives": [],
-   "reading": "どうやら〜らしい",
-   "romanization": "douyara ~ rashii",
+   "text": "どうやら",
+   "alternatives": [
+    "〜らしい"
+   ],
+   "reading": "どうやら",
+   "romanization": "douyara",
    "lexical_type": "construction",
    "class_real": "conjecture pattern",
    "study_tier": "cedo",
@@ -89944,7 +90118,10 @@
    "nativeExplain": {
     "ja": "「arrive」（着く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003180",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001647",
@@ -90572,19 +90749,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "葉",
-   "alternatives": [],
+   "alternatives": [
+    "葉っぱ"
+   ],
    "reading": "は",
    "romanization": "ha",
    "class_real": "noun",
    "study_tier": "herdado",
    "study_priority": 2854,
-   "description": "木や草についている、緑のうすい部分（複数）。",
+   "description": "植物の平たい緑の部分。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "木や草についている、緑のうすい部分（複数）。"
+    "ja": "植物の平たい緑の部分。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001663",
@@ -90609,7 +90790,10 @@
    "nativeExplain": {
     "ja": "「movie」（映画）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000691",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000001664",
@@ -90786,7 +90970,10 @@
    "nativeExplain": {
     "ja": "「remove」（取りのぞく）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001976",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001668",
@@ -91650,10 +91837,12 @@
     "feelings"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "誇りに思う",
-   "alternatives": [],
-   "reading": "ほこりにおもう",
-   "romanization": "hokori ni omou",
+   "text": "誇らしい",
+   "alternatives": [
+    "誇りに思う"
+   ],
+   "reading": "ほこらしい",
+   "romanization": "hokorashii",
    "lexical_type": "construction",
    "class_real": "verb construction",
    "forms": [
@@ -92199,7 +92388,10 @@
    "nativeExplain": {
     "ja": "「carry」（運ぶ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001325",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001714",
@@ -92233,7 +92425,10 @@
    "nativeExplain": {
     "ja": "「complete」（完成させる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000797",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001715",
@@ -92982,19 +93177,23 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "技能",
-   "alternatives": [],
+   "alternatives": [
+    "スキル"
+   ],
    "reading": "ぎのう",
    "romanization": "ginou",
    "class_real": "noun",
    "study_tier": "herdado",
    "study_priority": 2861,
    "user_hint": "",
-   "description": "「skill」（技能）の複数形。",
+   "description": "うまくできる力。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「skill」（技能）の複数形。"
+    "ja": "うまくできる力。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001739",
@@ -93558,7 +93757,10 @@
    "nativeExplain": {
     "ja": "「manage」（なんとかする、管理する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002757",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001762",
@@ -93658,7 +93860,10 @@
    "nativeExplain": {
     "ja": "「own」（所有する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000170",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001765",
@@ -94034,7 +94239,10 @@
    "nativeExplain": {
     "ja": "「believe」（信じる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000276",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001775",
@@ -94112,7 +94320,7 @@
    "description": "することがたくさんある。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000203"
+    "en:000004171"
    ],
    "nativeExplain": {
     "ja": "することがたくさんある。"
@@ -94922,7 +95130,10 @@
    "user_hint": "",
    "description": "「present」（発表する、見せる）の過去形。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000656",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001800",
@@ -95043,7 +95254,7 @@
    "description": "物を上へ持ち上げる。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000785"
+    "en:000004175"
    ],
    "nativeExplain": {
     "ja": "物を上へ持ち上げる。"
@@ -95776,10 +95987,12 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "発見した",
-   "alternatives": [],
-   "reading": "はっけんした",
-   "romanization": "hakkenshita",
+   "text": "発見する",
+   "alternatives": [
+    "見つける"
+   ],
+   "reading": "はっけんする",
+   "romanization": "hakken suru",
    "lexical_type": "form",
    "lemma": "発見する",
    "lemma_id": null,
@@ -95793,12 +96006,14 @@
    "study_tier": "herdado",
    "study_priority": 2873,
    "user_hint": "",
-   "description": "「discover」（見つける）の過去形。",
+   "description": "はじめて見つける。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「discover」（見つける）の過去形。"
+    "ja": "はじめて見つける。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001820",
@@ -96180,7 +96395,10 @@
    "nativeExplain": {
     "ja": "「order」（注文する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000297",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001838",
@@ -96639,7 +96857,10 @@
    "nativeExplain": {
     "ja": "「drop」（落とす、落ちる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001069",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001859",
@@ -96878,7 +97099,10 @@
    "nativeExplain": {
     "ja": "「join」（加わる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001051",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001871",
@@ -97644,9 +97868,7 @@
    "nativeExplain": {
     "ja": "勝つこと。"
    },
-   "antonyms": [
-    "en:000002896"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000001890",
@@ -97750,12 +97972,14 @@
    "study_tier": "herdado",
    "study_priority": 2885,
    "user_hint": "",
-   "description": "「citizen」（市民）の複数形。",
+   "description": "国や町に属する人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「citizen」（市民）の複数形。"
+    "ja": "国や町に属する人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001894",
@@ -97903,7 +98127,10 @@
    "nativeExplain": {
     "ja": "「enter」（入る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001596",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001900",
@@ -98159,10 +98386,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "紹介した",
+   "text": "紹介する",
    "alternatives": [],
-   "reading": "しょうかいした",
-   "romanization": "shoukaishita",
+   "reading": "しょうかいする",
+   "romanization": "shoukai suru",
    "lexical_type": "form",
    "lemma": "紹介する",
    "lemma_id": null,
@@ -98174,15 +98401,16 @@
    "grammatical_key": null,
    "key_pending": true,
    "nativeExplain": {
-    "pt-BR": "apresentou alguém a outra pessoa",
-    "ja": "「introduce」（紹介する）の過去形。"
+    "ja": "人と人を知り合わせる。"
    },
    "study_tier": "herdado",
    "study_priority": 2889,
    "user_hint": "",
-   "description": "「introduce」（紹介する）の過去形。",
+   "description": "人と人を知り合わせる。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001913",
@@ -98434,7 +98662,10 @@
    "nativeExplain": {
     "ja": "「pick」（選ぶ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000852",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000001921",
@@ -99504,7 +99735,10 @@
    "nativeExplain": {
     "ja": "「feeling」の複数形。心の中の思い。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000744",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000001961",
@@ -99984,10 +100218,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "提案した",
+   "text": "提案する",
    "alternatives": [],
-   "reading": "ていあんした",
-   "romanization": "teianshita",
+   "reading": "ていあんする",
+   "romanization": "teian suru",
    "lexical_type": "form",
    "lemma": "提案する",
    "lemma_id": "ja:en:000001804",
@@ -100001,12 +100235,14 @@
    "study_tier": "herdado",
    "study_priority": 2898,
    "user_hint": "",
-   "description": "「propose」（提案する）の過去形。",
+   "description": "考えや計画を出す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「propose」（提案する）の過去形。"
+    "ja": "考えや計画を出す。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000001974",
@@ -100775,12 +101011,14 @@
    "study_tier": "herdado",
    "study_priority": 2901,
    "user_hint": "",
-   "description": "「element」（要素）の複数形。",
+   "description": "ものをつくる一つの部分。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「element」（要素）の複数形。"
+    "ja": "ものをつくる一つの部分。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002000",
@@ -100988,7 +101226,10 @@
    "nativeExplain": {
     "ja": "「fix」（直す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001790",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002005",
@@ -101067,10 +101308,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "意図された",
+   "text": "〜つもりだ",
    "alternatives": [],
-   "reading": "いとされた",
-   "romanization": "ito sareta",
+   "reading": "〜つもりだ",
+   "romanization": "~ tsumori da",
    "lexical_type": "form",
    "lemma": "意図する",
    "lemma_id": null,
@@ -101085,12 +101326,14 @@
    "study_tier": "herdado",
    "study_priority": 2903,
    "user_hint": "",
-   "description": "「intend」（つもりである）の過去分詞。",
+   "description": "何かをしようと考えている。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「intend」（つもりである）の過去分詞。"
+    "ja": "何かをしようと考えている。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002008",
@@ -101629,7 +101872,10 @@
    "nativeExplain": {
     "ja": "「grow」（育つ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001309",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002035",
@@ -102080,7 +102326,10 @@
    "nativeExplain": {
     "ja": "「plan」（計画する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000497",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002048",
@@ -103121,12 +103370,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "選んだ",
-   "alternatives": [
-    "選ばれた"
-   ],
-   "reading": "えらんだ",
-   "romanization": "eranda",
+   "text": "選択する",
+   "alternatives": [],
+   "reading": "せんたくする",
+   "romanization": "sentaku suru",
    "lexical_type": "form",
    "lemma": "選ぶ",
    "lemma_id": "ja:en:000000852",
@@ -103141,12 +103388,14 @@
    "study_tier": "herdado",
    "study_priority": 2918,
    "user_hint": "",
-   "description": "「select」（選ぶ）の過去形。",
+   "description": "いくつかの中からえらぶ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「select」（選ぶ）の過去形。"
+    "ja": "いくつかの中からえらぶ。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002091",
@@ -103245,7 +103494,7 @@
    "description": "かたくなく、おすと形が変わる。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000263"
+    "en:000004172"
    ],
    "nativeExplain": {
     "ja": "かたくなく、おすと形が変わる。"
@@ -103392,7 +103641,10 @@
    "nativeExplain": {
     "ja": "「teach」（教える）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002145",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002099",
@@ -103481,7 +103733,10 @@
    "nativeExplain": {
     "ja": "「accept」（受け入れる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001438",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002103",
@@ -103501,12 +103756,14 @@
    "study_tier": "intermediário",
    "study_priority": 2925,
    "user_hint": "",
-   "description": "「affair」の複数形。ものごと、用件。",
+   "description": "ことがらやできごと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「affair」の複数形。ものごと、用件。"
+    "ja": "ことがらやできごと。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002105",
@@ -103571,10 +103828,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "確認した",
+   "text": "確認する",
    "alternatives": [],
-   "reading": "かくにんした",
-   "romanization": "kakunin shita",
+   "reading": "かくにんする",
+   "romanization": "kakunin suru",
    "lexical_type": "form",
    "lemma": "確認する",
    "lemma_id": "ja:en:000000469",
@@ -103588,12 +103845,14 @@
    "study_tier": "herdado",
    "study_priority": 2927,
    "user_hint": "",
-   "description": "「confirm」（確かめる）の過去形。",
+   "description": "本当かどうかたしかめる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「confirm」（確かめる）の過去形。"
+    "ja": "本当かどうかたしかめる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002112",
@@ -104098,7 +104357,10 @@
    "nativeExplain": {
     "ja": "「leg」（脚）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002177",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002128",
@@ -104276,7 +104538,10 @@
    "nativeExplain": {
     "ja": "「pull」（引く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001575",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002135",
@@ -104331,12 +104596,14 @@
    "study_tier": "herdado",
    "study_priority": 2932,
    "user_hint": "",
-   "description": "「relation」の複数形。つながり。親せきの意味もある。",
+   "description": "人や物のつながり。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「relation」の複数形。つながり。親せきの意味もある。"
+    "ja": "人や物のつながり。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002138",
@@ -104403,7 +104670,10 @@
    "nativeExplain": {
     "ja": "「save」（救う、貯める）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000730",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002140",
@@ -104509,7 +104779,10 @@
    "nativeExplain": {
     "ja": "足にはく物（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003239",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002143",
@@ -104722,7 +104995,10 @@
    "nativeExplain": {
     "ja": "「walk」（歩く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000862",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002152",
@@ -105680,7 +105956,10 @@
    "nativeExplain": {
     "ja": "「record」（記録する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000604",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002190",
@@ -107075,10 +107354,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "明らかにした",
+   "text": "明らかにする",
    "alternatives": [],
-   "reading": "あきらかにした",
-   "romanization": "akiraka ni shita",
+   "reading": "あきらかにする",
+   "romanization": "akiraka ni suru",
    "lexical_type": "form",
    "lemma": "明らかにする",
    "lemma_id": null,
@@ -107092,12 +107371,14 @@
    "study_tier": "herdado",
    "study_priority": 2943,
    "user_hint": "",
-   "description": "「reveal」（明かす）の過去形。",
+   "description": "かくれていたことを知らせる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「reveal」（明かす）の過去形。"
+    "ja": "かくれていたことを知らせる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002230",
@@ -107364,7 +107645,10 @@
    "nativeExplain": {
     "ja": "「affect」（影響する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002471",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002239",
@@ -107405,10 +107689,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "承認された",
+   "text": "承認する",
    "alternatives": [],
-   "reading": "しょうにんされた",
-   "romanization": "shounin sareta",
+   "reading": "しょうにんする",
+   "romanization": "shounin suru",
    "lexical_type": "form",
    "lemma": "承認する",
    "lemma_id": null,
@@ -107423,12 +107707,14 @@
    "study_tier": "herdado",
    "study_priority": 2946,
    "user_hint": "",
-   "description": "「approve」（承認する）の過去形。",
+   "description": "正式によいとみとめる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「approve」（承認する）の過去形。"
+    "ja": "正式によいとみとめる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002242",
@@ -107519,7 +107805,10 @@
    "nativeExplain": {
     "ja": "「arrest」（逮捕する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002672",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002246",
@@ -108038,7 +108327,10 @@
    "nativeExplain": {
     "ja": "植物にさく、色のきれいな部分（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003125",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002261",
@@ -108102,7 +108394,10 @@
    "nativeExplain": {
     "ja": "「lady」（女性）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001160",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002263",
@@ -108251,7 +108546,10 @@
    "nativeExplain": {
     "ja": "「light」（明かり）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000449",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002266",
@@ -108374,17 +108672,19 @@
    "text": "必要条件",
    "alternatives": [],
    "reading": "ひつようじょうけん",
-   "romanization": "hitsuyoujouken",
+   "romanization": "hitsuyou jouken",
    "class_real": "noun",
    "study_tier": "herdado",
    "study_priority": 2957,
    "user_hint": "",
-   "description": "「requirement」の複数形。求められる条件。",
+   "description": "ひつようなこと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「requirement」の複数形。求められる条件。"
+    "ja": "ひつようなこと。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002272",
@@ -108404,12 +108704,14 @@
    "study_tier": "herdado",
    "study_priority": 2958,
    "user_hint": "",
-   "description": "「resident」の複数形。その土地に住む人たち。",
+   "description": "そこに住んでいる人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「resident」の複数形。その土地に住む人たち。"
+    "ja": "そこに住んでいる人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002273",
@@ -108478,7 +108780,10 @@
    "nativeExplain": {
     "ja": "「sit」（座る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001320",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002276",
@@ -109153,10 +109458,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "集めた",
+   "text": "集める",
    "alternatives": [],
-   "reading": "あつめた",
-   "romanization": "atsumeta",
+   "reading": "あつめる",
+   "romanization": "atsumeru",
    "lexical_type": "form",
    "lemma": "集める",
    "lemma_id": null,
@@ -109170,12 +109475,14 @@
    "study_tier": "herdado",
    "study_priority": 2962,
    "user_hint": "",
-   "description": "「collect」（集める）の過去形。",
+   "description": "物をひとつに集める。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「collect」（集める）の過去形。"
+    "ja": "物をひとつに集める。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002297",
@@ -109382,10 +109689,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "選ばれた",
+   "text": "選出する",
    "alternatives": [],
-   "reading": "えらばれた",
-   "romanization": "erabareta",
+   "reading": "せんしゅつする",
+   "romanization": "senshutsu suru",
    "lexical_type": "form",
    "lemma": "選ぶ",
    "lemma_id": "ja:en:000000852",
@@ -109400,12 +109707,14 @@
    "study_tier": "herdado",
    "study_priority": 2965,
    "user_hint": "",
-   "description": "「elect」（選挙で選ぶ）の過去形。",
+   "description": "投票で人をえらぶ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「elect」（選挙で選ぶ）の過去形。"
+    "ja": "投票で人をえらぶ。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002304",
@@ -109520,7 +109829,10 @@
    "nativeExplain": {
     "ja": "「forget」（忘れる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000895",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002312",
@@ -109609,7 +109921,8 @@
    "user_hint": "",
    "description": "母親のくだけた呼び方。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000002316",
@@ -109769,7 +110082,10 @@
    "nativeExplain": {
     "ja": "「notice」（気づく）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001312",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002321",
@@ -109887,7 +110203,10 @@
    "nativeExplain": {
     "ja": "「score」（得点する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001540",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002327",
@@ -110280,7 +110599,10 @@
    "nativeExplain": {
     "ja": "「deliver」（届ける）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002683",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002348",
@@ -110615,7 +110937,10 @@
    "nativeExplain": {
     "ja": "「remain」（残る）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001538",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002365",
@@ -110887,7 +111212,10 @@
    "nativeExplain": {
     "ja": "「talk」（話す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000355",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002372",
@@ -111122,7 +111450,10 @@
    "nativeExplain": {
     "ja": "「vote」（投票する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000792",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002384",
@@ -111460,7 +111791,10 @@
    "nativeExplain": {
     "ja": "「choose」（選ぶ）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001262",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000002393",
@@ -111616,7 +111950,10 @@
    "nativeExplain": {
     "ja": "「destroy」（こわす）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002845",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002399",
@@ -112109,10 +112446,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "言及した",
+   "text": "言及する",
    "alternatives": [],
-   "reading": "げんきゅうした",
-   "romanization": "genkyuu shita",
+   "reading": "げんきゅうする",
+   "romanization": "genkyuu suru",
    "lexical_type": "form",
    "lemma": "言及する",
    "lemma_id": "ja:en:000001872",
@@ -112126,12 +112463,14 @@
    "study_tier": "herdado",
    "study_priority": 2981,
    "user_hint": "",
-   "description": "「refer」（言及する）の過去形。",
+   "description": "あることについて話にだす。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「refer」（言及する）の過去形。"
+    "ja": "あることについて話にだす。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002422",
@@ -112349,7 +112688,10 @@
    "nativeExplain": {
     "ja": "「speak」（話す）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000973",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002429",
@@ -112617,7 +112959,10 @@
    "user_hint": "",
    "description": "「direct」（指揮する）の過去形。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001268",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002442",
@@ -113510,10 +113855,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "任命された",
+   "text": "任命する",
    "alternatives": [],
-   "reading": "にんめいされた",
-   "romanization": "ninmei sareta",
+   "reading": "にんめいする",
+   "romanization": "ninmei suru",
    "lexical_type": "form",
    "lemma": "任命する",
    "lemma_id": null,
@@ -113528,12 +113873,14 @@
    "study_tier": "intermediário",
    "study_priority": 2989,
    "user_hint": "",
-   "description": "「appoint」（任命する）の過去形。",
+   "description": "役目に正式につける。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「appoint」（任命する）の過去形。"
+    "ja": "役目に正式につける。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002473",
@@ -113914,12 +114261,14 @@
    "study_tier": "intermediário",
    "study_priority": 2990,
    "user_hint": "",
-   "description": "「circumstance」の複数形。まわりの状況。",
+   "description": "できごとのまわりのようす。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「circumstance」の複数形。まわりの状況。"
+    "ja": "できごとのまわりのようす。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002485",
@@ -114268,7 +114617,10 @@
    "nativeExplain": {
     "ja": "「enjoy」（楽しむ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000820",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002496",
@@ -114302,7 +114654,10 @@
    "nativeExplain": {
     "ja": "「explain」（説明する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001330",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002498",
@@ -114522,7 +114877,10 @@
    "nativeExplain": {
     "ja": "「realize」（気づく）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001537",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002512",
@@ -114774,7 +115132,10 @@
    "nativeExplain": {
     "ja": "「tool」（道具）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002664",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002523",
@@ -115392,12 +115753,14 @@
    "study_tier": "herdado",
    "study_priority": 2998,
    "user_hint": "",
-   "description": "「institution」の複数形。公の機関。",
+   "description": "学校や銀行のような大きな組織。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「institution」の複数形。公の機関。"
+    "ja": "学校や銀行のような大きな組織。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002547",
@@ -115992,7 +116355,10 @@
    "nativeExplain": {
     "ja": "口の中にある、かむための硬いもの（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003214",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002564",
@@ -116026,7 +116392,10 @@
    "nativeExplain": {
     "ja": "「understand」（理解する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000412",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002565",
@@ -117054,7 +117423,8 @@
    "nativeExplain": {
     "ja": "「occur」（起こる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000002596",
@@ -117376,7 +117746,10 @@
    "nativeExplain": {
     "ja": "「stand」（立つ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000731",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002607",
@@ -117955,10 +118328,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "定義された",
+   "text": "定義する",
    "alternatives": [],
-   "reading": "ていぎされた",
-   "romanization": "teigi sareta",
+   "reading": "ていぎする",
+   "romanization": "teigi suru",
    "lexical_type": "form",
    "lemma": "定義する",
    "lemma_id": null,
@@ -117973,12 +118346,14 @@
    "study_tier": "herdado",
    "study_priority": 3011,
    "user_hint": "",
-   "description": "「define」（定義する）の過去形。",
+   "description": "ことばの意味をはっきり決める。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「define」（定義する）の過去形。"
+    "ja": "ことばの意味をはっきり決める。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002630",
@@ -118549,7 +118924,8 @@
    "nativeExplain": {
     "ja": "「lay」（置く）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000002647",
@@ -119564,7 +119940,10 @@
    "nativeExplain": {
     "ja": "「choose」（選ぶ）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001262",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002679",
@@ -119678,10 +120057,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "宣言した",
+   "text": "宣言する",
    "alternatives": [],
-   "reading": "せんげんした",
-   "romanization": "sengen shita",
+   "reading": "せんげんする",
+   "romanization": "sengen suru",
    "lexical_type": "form",
    "lemma": "宣言する",
    "lemma_id": null,
@@ -119695,12 +120074,14 @@
    "study_tier": "herdado",
    "study_priority": 3020,
    "user_hint": "",
-   "description": "「declare」（宣言する）の過去形。",
+   "description": "おおやけにはっきり言う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「declare」（宣言する）の過去形。"
+    "ja": "おおやけにはっきり言う。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002683",
@@ -119941,10 +120322,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "稼いだ",
+   "text": "稼ぐ",
    "alternatives": [],
-   "reading": "かせいだ",
-   "romanization": "kaseida",
+   "reading": "かせぐ",
+   "romanization": "kasegu",
    "lexical_type": "form",
    "lemma": "稼ぐ",
    "lemma_id": null,
@@ -119958,12 +120339,14 @@
    "study_tier": "herdado",
    "study_priority": 3022,
    "user_hint": "",
-   "description": "「earn」（かせぐ）の過去形。",
+   "description": "働いてお金をえる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「earn」（かせぐ）の過去形。"
+    "ja": "働いてお金をえる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002689",
@@ -120132,10 +120515,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "〜に向かっている",
+   "text": "〜に向かう",
    "alternatives": [],
-   "reading": "〜にむかっている",
-   "romanization": "~ ni mukatte iru",
+   "reading": "〜にむかう",
+   "romanization": "~ ni mukau",
    "lexical_type": "construction",
    "class_real": "verb construction",
    "study_tier": "herdado",
@@ -120146,7 +120529,8 @@
    "nativeExplain": {
     "ja": "「headed for」は〜に向かっている。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "ja:en:000002696",
@@ -120673,7 +121057,10 @@
    "nativeExplain": {
     "ja": "「replace」（取り替える）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002554",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002715",
@@ -121292,7 +121679,10 @@
    "nativeExplain": {
     "ja": "温度や角度の単位（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001183",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002746",
@@ -121318,7 +121708,10 @@
    "user_hint": "",
    "description": "「drive」（運転する）の過去分詞。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000739",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000002747",
@@ -121761,20 +122154,22 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "政治家たち",
+   "text": "政治家",
    "alternatives": [],
-   "reading": "せいじかたち",
-   "romanization": "seijikatachi",
+   "reading": "せいじか",
+   "romanization": "seijika",
    "class_real": "noun + たち (plural)",
    "study_tier": "herdado",
    "study_priority": 3036,
    "user_hint": "",
-   "description": "「politician」（政治家）の複数形。",
+   "description": "政治をする人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「politician」（政治家）の複数形。"
+    "ja": "政治をする人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002763",
@@ -122022,10 +122417,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "断った",
+   "text": "断る",
    "alternatives": [],
-   "reading": "ことわった",
-   "romanization": "kotowatta",
+   "reading": "ことわる",
+   "romanization": "kotowaru",
    "lexical_type": "form",
    "lemma": "断る",
    "lemma_id": null,
@@ -122039,12 +122434,14 @@
    "study_tier": "herdado",
    "study_priority": 3037,
    "user_hint": "",
-   "description": "「refuse」（断る）の過去形。",
+   "description": "いやだと言ってうけない。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「refuse」（断る）の過去形。"
+    "ja": "いやだと言ってうけない。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002767",
@@ -122738,111 +123135,25 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "場合による",
-   "alternatives": [],
-   "reading": "ばあいによる",
-   "romanization": "baai ni yoru",
+   "text": "〜による",
+   "alternatives": [
+    "次第"
+   ],
+   "reading": "〜による",
+   "romanization": "~ ni yoru",
    "lexical_type": "construction",
    "class_real": "verb construction",
-   "forms": [
-    {
-     "form_id": "ja:en:000002787:f:NP.POLITE.POS",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "NP.POLITE.POS",
-     "text": "場合によります",
-     "reading": "ばあいによります",
-     "romanization": "baai ni yorimasu",
-     "study_tier": "essential",
-     "description_en": "Polite non-past (ます form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:NP.PLAIN.NEG",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "NP.PLAIN.NEG",
-     "text": "場合によらない",
-     "reading": "ばあいによらない",
-     "romanization": "baai ni yoranai",
-     "study_tier": "essential",
-     "description_en": "Plain negative (ない form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:NP.POLITE.NEG",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "NP.POLITE.NEG",
-     "text": "場合によりません",
-     "reading": "ばあいによりません",
-     "romanization": "baai ni yorimasen",
-     "study_tier": "essential",
-     "description_en": "Polite negative (ません).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:PAST.PLAIN.POS",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "PAST.PLAIN.POS",
-     "text": "場合によった",
-     "reading": "ばあいによった",
-     "romanization": "baai ni yotta",
-     "study_tier": "essential",
-     "description_en": "Plain past (た form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:PAST.POLITE.POS",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "PAST.POLITE.POS",
-     "text": "場合によりました",
-     "reading": "ばあいによりました",
-     "romanization": "baai ni yorimashita",
-     "study_tier": "essential",
-     "description_en": "Polite past (ました).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:PAST.PLAIN.NEG",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "PAST.PLAIN.NEG",
-     "text": "場合によらなかった",
-     "reading": "ばあいによらなかった",
-     "romanization": "baai ni yoranakatta",
-     "study_tier": "standard",
-     "description_en": "Plain past negative (なかった).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:PAST.POLITE.NEG",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "PAST.POLITE.NEG",
-     "text": "場合によりませんでした",
-     "reading": "ばあいによりませんでした",
-     "romanization": "baai ni yorimasendeshita",
-     "study_tier": "standard",
-     "description_en": "Polite past negative (ませんでした).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000002787:f:TE",
-     "lemma_id": "ja:en:000002787",
-     "grammatical_key": "TE",
-     "text": "場合によって",
-     "reading": "ばあいによって",
-     "romanization": "baai ni yotte",
-     "study_tier": "essential",
-     "description_en": "Te-form: connects actions; base of ている.",
-     "verb_class": "godan"
-    }
-   ],
+   "forms": [],
    "study_tier": "herdado",
    "study_priority": 3038,
    "user_hint": "",
-   "description": "「depend」の三人称単数現在形。「it depends」は場合による。",
+   "description": "あることによって変わる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「depend」の三人称単数現在形。「it depends」は場合による。"
+    "ja": "あることによって変わる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null
   },
   {
    "id": "ja:en:000002788",
@@ -122867,7 +123178,10 @@
    "nativeExplain": {
     "ja": "「draw」（描く、引く）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001593",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "ja:en:000002792",
@@ -123281,7 +123595,8 @@
    "user_hint": "",
    "description": "「pound」の複数形。お金や重さの単位。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000002808",
@@ -123684,7 +123999,10 @@
    "nativeExplain": {
     "ja": "「stay」（とどまる、泊まる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000455",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002823",
@@ -123823,7 +124141,10 @@
    "nativeExplain": {
     "ja": "「attack」（攻撃する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000004177",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002833",
@@ -124330,7 +124651,10 @@
    "nativeExplain": {
     "ja": "「express」（表現する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002072",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002851",
@@ -124874,7 +125198,10 @@
    "nativeExplain": {
     "ja": "「recognize」（認める、見分ける）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002865",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002867",
@@ -124908,7 +125235,10 @@
    "nativeExplain": {
     "ja": "「register」（登録する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002514",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002868",
@@ -125064,10 +125394,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "苦しんだ",
+   "text": "苦しむ",
    "alternatives": [],
-   "reading": "くるしんだ",
-   "romanization": "kurushinda",
+   "reading": "くるしむ",
+   "romanization": "kurushimu",
    "lexical_type": "form",
    "lemma": "苦しむ",
    "lemma_id": null,
@@ -125081,12 +125411,14 @@
    "study_tier": "herdado",
    "study_priority": 3054,
    "user_hint": "",
-   "description": "「suffer」（苦しむ）の過去形。",
+   "description": "いたみやつらさを感じる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「suffer」（苦しむ）の過去形。"
+    "ja": "いたみやつらさを感じる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002877",
@@ -125709,9 +126041,7 @@
    "nativeExplain": {
     "ja": "相手に勝つ。"
    },
-   "antonyms": [
-    "en:000001889"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000002897",
@@ -125931,7 +126261,8 @@
    "nativeExplain": {
     "ja": "「feed」（食べさせる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000002904",
@@ -126214,7 +126545,10 @@
    "nativeExplain": {
     "ja": "「protect」（守る）の過去分詞。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001249",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002920",
@@ -126461,12 +126795,14 @@
    "study_tier": "herdado",
    "study_priority": 3067,
    "user_hint": "",
-   "description": "「technique」（技）の複数形。",
+   "description": "何かをするための方法やわざ。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「technique」（技）の複数形。"
+    "ja": "何かをするための方法やわざ。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002927",
@@ -126719,12 +127055,14 @@
    "study_tier": "herdado",
    "study_priority": 3070,
    "user_hint": "",
-   "description": "「aspect」（側面）の複数形。",
+   "description": "ものごとの一つの面。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「aspect」（側面）の複数形。"
+    "ja": "ものごとの一つの面。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002938",
@@ -127058,7 +127396,10 @@
    "nativeExplain": {
     "ja": "「egg」（たまご）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003122",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002946",
@@ -127218,7 +127559,10 @@
    "nativeExplain": {
     "ja": "手の先にある、動く部分（複数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003223",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002954",
@@ -127253,7 +127597,10 @@
    "nativeExplain": {
     "ja": "「found」（組織をつくる）の過去形・過去分詞。例：「The school was founded in 1900」。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000189",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002956",
@@ -127512,7 +127859,10 @@
    "nativeExplain": {
     "ja": "「mark」（印をつける、採点する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000918",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002967",
@@ -127801,12 +128151,14 @@
    "study_tier": "herdado",
    "study_priority": 3077,
    "user_hint": "",
-   "description": "「regulation」の複数形。公に決められた規則。",
+   "description": "おおやけのきまり。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「regulation」の複数形。公に決められた規則。"
+    "ja": "おおやけのきまり。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "ja:en:000002977",
@@ -128090,7 +128442,10 @@
    "nativeExplain": {
     "ja": "「scientist」（科学者）の複数形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003405",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000002982",
@@ -128266,7 +128621,10 @@
    "nativeExplain": {
     "ja": "「visit」（訪れる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000949",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002991",
@@ -128350,7 +128708,10 @@
    "nativeExplain": {
     "ja": "「achieve」（達成する）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002568",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002995",
@@ -128384,7 +128745,10 @@
    "nativeExplain": {
     "ja": "「admit」（認める、入れる）の過去形。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002528",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000002996",
@@ -131387,7 +131751,7 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000001596"
+    "en:000004182"
    ],
    "nativeExplain": {
     "ja": "外へ出るための場所。"
@@ -132528,7 +132892,8 @@
    "description": "劇や映画を見る建物。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003156",
@@ -133972,8 +134337,7 @@
     "ja": "左の反対がわ（「turn right」）。"
    },
    "antonyms": [
-    "en:000000207",
-    "en:000000394"
+    "en:000000207"
    ]
   },
   {
@@ -134616,7 +134980,10 @@
     "ja": "「look」（見る）の過去形。目を向けた。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000145",
+   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000796",
@@ -134712,7 +135079,10 @@
     "ja": "「way」の複数形。やり方。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000099",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000934",
@@ -134784,7 +135154,10 @@
     "ja": "「boy」の複数形。男の子たち。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000664",
+   "inflection_key": "PL"
   },
   {
    "id": "ja:en:000000958",
@@ -138001,9 +138374,7 @@
     "ja": "何か食べたい気持ち。"
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003217"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000003217",
@@ -138027,9 +138398,7 @@
     "ja": "何か飲みたい気持ち。"
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003216"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000003218",
@@ -144575,7 +144944,8 @@
     "ja": "旅行のときに背負う大きなかばん。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003437",
@@ -150595,9 +150965,7 @@
    "kind": "word",
    "description_en": "When the sun or moon is hidden by a shadow.",
    "text": "日食",
-   "alternatives": [
-    "月食"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "にっしょく",
@@ -150606,14 +150974,14 @@
    "study_priority": 3163,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "太陽や月が、影でかくれること。",
+   "description": "月が太陽をかくすこと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "太陽や月が、影でかくれること。"
+    "ja": "月が太陽をかくすこと。"
    },
    "level": "B2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "ja:en:000003635",
@@ -156966,9 +157334,7 @@
     "ja": "とくにネットで、ある人を追いかけて見る人。"
    },
    "level": "C1",
-   "antonyms": [
-    "en:000001161"
-   ]
+   "antonyms": []
   },
   {
    "id": "ja:en:000003888",
@@ -160899,7 +161265,8 @@
     "ja": "研究の成果をのせて、定期的に出す刊行物。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000004010",
@@ -164469,7 +164836,7 @@
    },
    "level": "B1",
    "antonyms": [
-    "en:000000814"
+    "en:000004177"
    ]
   },
   {
@@ -166944,6 +167311,555 @@
    "nativeExplain": {
     "ja": "きょうだいの女の子ども。"
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004170",
+   "english_id": "en:000004170",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "state-condition",
+   "study_priority": 243,
+   "description_en": "The condition someone or something is in.",
+   "text": "状態",
+   "reading": "じょうたい",
+   "romanization": "joutai",
+   "alternatives": [],
+   "description": "人や物がどんなようすかということ。",
+   "nativeExplain": {
+    "ja": "人や物がどんなようすかということ。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004171",
+   "english_id": "en:000004171",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000001776"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "free-notbusy",
+   "study_priority": 243,
+   "description_en": "Not busy; having time.",
+   "text": "暇な",
+   "reading": "ひまな",
+   "romanization": "hima na",
+   "alternatives": [],
+   "description": "することがなく時間があるようす。",
+   "nativeExplain": {
+    "ja": "することがなく時間があるようす。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004172",
+   "english_id": "en:000004172",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000002092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "hard-solid",
+   "study_priority": 243,
+   "description_en": "Firm and not soft to touch.",
+   "text": "硬い",
+   "reading": "かたい",
+   "romanization": "katai",
+   "alternatives": [],
+   "description": "さわると、やわらかくないようす。",
+   "nativeExplain": {
+    "ja": "さわると、やわらかくないようす。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004173",
+   "english_id": "en:000004173",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000422"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "present-now",
+   "study_priority": 243,
+   "description_en": "The time now.",
+   "text": "現在",
+   "reading": "げんざい",
+   "romanization": "genzai",
+   "alternatives": [],
+   "description": "いまの時。",
+   "nativeExplain": {
+    "ja": "いまの時。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004174",
+   "english_id": "en:000004174",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sorry-feel",
+   "study_priority": 243,
+   "description_en": "Feeling sad for someone (\"I'm sorry to hear that\").",
+   "text": "気の毒に思う",
+   "reading": "きのどくにおもう",
+   "romanization": "ki no doku ni omou",
+   "alternatives": [],
+   "description": "人のつらいことを聞いて、かわいそうに思うこと。",
+   "nativeExplain": {
+    "ja": "人のつらいことを聞いて、かわいそうに思うこと。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004175",
+   "english_id": "en:000004175",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000001800"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "lower-verb",
+   "study_priority": 243,
+   "description_en": "To move something down or make it less.",
+   "text": "下げる",
+   "reading": "さげる",
+   "romanization": "sageru",
+   "alternatives": [],
+   "description": "物の位置や量を低くする。",
+   "nativeExplain": {
+    "ja": "物の位置や量を低くする。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004176",
+   "english_id": "en:000004176",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000814"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "defense",
+   "study_priority": 243,
+   "description_en": "Protecting yourself or something from attack.",
+   "text": "防御",
+   "reading": "ぼうぎょ",
+   "romanization": "bougyo",
+   "alternatives": [
+    "守り"
+   ],
+   "description": "こうげきから守ること。",
+   "nativeExplain": {
+    "ja": "こうげきから守ること。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004177",
+   "english_id": "en:000004177",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000004092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "attack-verb",
+   "study_priority": 243,
+   "description_en": "To try to hurt or defeat someone.",
+   "text": "攻撃する",
+   "reading": "こうげきする",
+   "romanization": "kougeki suru",
+   "alternatives": [],
+   "description": "相手をきずつけたり負かしたりしようとする。",
+   "nativeExplain": {
+    "ja": "相手をきずつけたり負かしたりしようとする。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004178",
+   "english_id": "en:000004178",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rare-meat",
+   "study_priority": 243,
+   "description_en": "(Of meat) cooked only a little, still red inside.",
+   "text": "レア",
+   "reading": "レア",
+   "romanization": "rea",
+   "alternatives": [],
+   "description": "肉が少しだけ焼けていて、中が赤いようす。",
+   "nativeExplain": {
+    "ja": "肉が少しだけ焼けていて、中が赤いようす。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004179",
+   "english_id": "en:000004179",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rice-cooked",
+   "study_priority": 243,
+   "description_en": "Rice that has been cooked, eaten as food.",
+   "text": "ご飯",
+   "reading": "ごはん",
+   "romanization": "gohan",
+   "alternatives": [],
+   "description": "たいたお米。",
+   "nativeExplain": {
+    "ja": "たいたお米。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004180",
+   "english_id": "en:000004180",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "lunar-eclipse",
+   "study_priority": 243,
+   "description_en": "When the earth's shadow hides the moon.",
+   "text": "月食",
+   "reading": "げっしょく",
+   "romanization": "gesshoku",
+   "alternatives": [],
+   "description": "地球のかげが月をかくすこと。",
+   "nativeExplain": {
+    "ja": "地球のかげが月をかくすこと。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004181",
+   "english_id": "en:000004181",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sound-adj",
+   "study_priority": 243,
+   "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
+   "text": "無事な",
+   "reading": "ぶじな",
+   "romanization": "buji na",
+   "alternatives": [],
+   "description": "けがやこわれたところがないようす。",
+   "nativeExplain": {
+    "ja": "けがやこわれたところがないようす。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004182",
+   "english_id": "en:000004182",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000003123"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "entrance",
+   "study_priority": 243,
+   "description_en": "The way in.",
+   "text": "入口",
+   "reading": "いりぐち",
+   "romanization": "iriguchi",
+   "alternatives": [],
+   "description": "中に入るところ。",
+   "nativeExplain": {
+    "ja": "中に入るところ。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004183",
+   "english_id": "en:000004183",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (father's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004184",
+   "english_id": "en:000004184",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (father's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004185",
+   "english_id": "en:000004185",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (father's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004186",
+   "english_id": "en:000004186",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (father's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004187",
+   "english_id": "en:000004187",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (mother's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004188",
+   "english_id": "en:000004188",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (mother's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004189",
+   "english_id": "en:000004189",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (mother's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "ja:en:000004190",
+   "english_id": "en:000004190",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (mother's side).",
+   "text": "いとこ",
+   "reading": "いとこ",
+   "romanization": "itoko",
+   "alternatives": [],
+   "description": "親のきょうだいの子ども。",
+   "nativeExplain": {
+    "ja": "親のきょうだいの子ども。"
+   },
+   "core_status": "search_only"
   }
  ]
 }

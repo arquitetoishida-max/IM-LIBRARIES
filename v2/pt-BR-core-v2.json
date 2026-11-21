@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.5.0",
+ "version": "2.5.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -39,7 +39,8 @@
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
-  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
  ],
  "entries": [
   {
@@ -184,7 +185,10 @@
    "nativeExplain": {
     "pt-BR": "Forma de \"ser/estar\" usada com ele, ela e isso."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000007",
@@ -429,7 +433,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"ser/estar\" (eu/ele/ela era)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000015",
@@ -515,7 +522,10 @@
    "nativeExplain": {
     "pt-BR": "Forma do presente de \"ser/estar\" usada com você, nós e eles."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000018",
@@ -1030,9 +1040,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "um",
-   "alternatives": [
-    "uma"
-   ],
+   "alternatives": [],
    "study_tier": "núcleo inicial",
    "study_priority": 16,
    "description": "O número 1.",
@@ -1041,7 +1049,16 @@
    "nativeExplain": {
     "pt-BR": "O número 1."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000036:f:FEM",
+     "lemma_id": "en:000000036",
+     "grammatical_key": "FEM",
+     "text": "uma",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000037",
@@ -1312,7 +1329,10 @@
    "nativeExplain": {
     "pt-BR": "Forma de \"ter\" usada com ele, ela e isso."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000018",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000046",
@@ -1463,7 +1483,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"ser/estar\" (nós/vocês/eles eram)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000051",
@@ -1520,7 +1543,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"ter\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000018",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000053",
@@ -1758,7 +1784,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"ser/estar\" (\"eu já estive lá\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000000061",
@@ -1828,9 +1857,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "novo",
-   "alternatives": [
-    "nova"
-   ],
+   "alternatives": [],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
    "user_hint": "",
@@ -1841,7 +1868,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Feito ou comprado há pouco; não é velho."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000063:f:FEM",
+     "lemma_id": "en:000000063",
+     "grammatical_key": "FEM",
+     "text": "nova",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000064",
@@ -2066,9 +2102,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "outro",
-   "alternatives": [
-    "outra"
-   ],
+   "alternatives": [],
    "study_tier": "expansão estruturante",
    "study_priority": 950,
    "description": "Diferente daquele já mencionado.",
@@ -2077,7 +2111,16 @@
    "nativeExplain": {
     "pt-BR": "Diferente daquele já mencionado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000071:f:FEM",
+     "lemma_id": "en:000000071",
+     "grammatical_key": "FEM",
+     "text": "outra",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000072",
@@ -2152,9 +2195,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "nosso",
-   "alternatives": [
-    "nossa"
-   ],
+   "alternatives": [],
    "study_tier": "expansão estruturante",
    "study_priority": 952,
    "description": "Que pertence a nós.",
@@ -2163,7 +2204,16 @@
    "nativeExplain": {
     "pt-BR": "Que pertence a nós."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000074:f:FEM",
+     "lemma_id": "en:000000074",
+     "grammatical_key": "FEM",
+     "text": "nossa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000075",
@@ -2306,9 +2356,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "primeiro",
-   "alternatives": [
-    "primeira"
-   ],
+   "alternatives": [],
    "study_tier": "expansão estruturante",
    "study_priority": 956,
    "description": "Antes de todos os outros na ordem.",
@@ -2319,7 +2367,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Antes de todos os outros na ordem."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000079:f:FEM",
+     "lemma_id": "en:000000079",
+     "grammatical_key": "FEM",
+     "text": "primeira",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000080",
@@ -2879,7 +2936,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"say\" (dizer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000130",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000099",
@@ -2962,9 +3022,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "muito",
-   "alternatives": [
-    "muita"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 36,
    "description": "Grande quantidade de algo que não se conta.",
@@ -2973,7 +3031,16 @@
    "nativeExplain": {
     "pt-BR": "Grande quantidade de algo que não se conta."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000101:f:FEM",
+     "lemma_id": "en:000000101",
+     "grammatical_key": "FEM",
+     "text": "muita",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000102",
@@ -3231,7 +3298,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"fazer\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000048",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000111",
@@ -3434,7 +3504,8 @@
    "nativeExplain": {
     "pt-BR": "Forma de gerúndio de \"go\"; também indica futuro (\"going to\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000119",
@@ -3549,7 +3620,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"make\" (fazer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000085",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000123",
@@ -3635,7 +3709,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"get\" (conseguir, receber)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000059",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000126",
@@ -4434,7 +4511,10 @@
    "nativeExplain": {
     "pt-BR": "Forma de \"ser/estar\" usada com \"eu\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000154",
@@ -4515,11 +4595,11 @@
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2485,
-   "description": "País ou uma de suas regiões; também uma condição.",
+   "description": "Divisão de um país com governo próprio.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "País ou uma de suas regiões; também uma condição."
+    "pt-BR": "Divisão de um país com governo próprio."
    },
    "antonyms": []
   },
@@ -4735,9 +4815,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alto",
-   "alternatives": [
-    "alta"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 989,
    "user_hint": "",
@@ -4748,7 +4826,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Muito acima do chão; de grande altura."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000164:f:FEM",
+     "lemma_id": "en:000000164",
+     "grammatical_key": "FEM",
+     "text": "alta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000165",
@@ -4857,9 +4944,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "outro",
-   "alternatives": [
-    "outra"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 992,
    "description": "Mais um; um diferente.",
@@ -4868,7 +4953,16 @@
    "nativeExplain": {
     "pt-BR": "Mais um; um diferente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000168:f:FEM",
+     "lemma_id": "en:000000168",
+     "grammatical_key": "FEM",
+     "text": "outra",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000169",
@@ -4895,7 +4989,10 @@
    "nativeExplain": {
     "pt-BR": "Forma de \"fazer\" usada com ele, ela e isso."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000048",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000170",
@@ -4908,9 +5005,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "próprio",
-   "alternatives": [
-    "própria"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 993,
    "user_hint": "",
@@ -4919,7 +5014,16 @@
    "nativeExplain": {
     "pt-BR": "Que pertence à própria pessoa (\"meu próprio quarto\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000170:f:FEM",
+     "lemma_id": "en:000000170",
+     "grammatical_key": "FEM",
+     "text": "própria",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000172",
@@ -5404,7 +5508,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"find\" (encontrar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000162",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000190",
@@ -5788,13 +5895,11 @@
    ],
    "study_priority": 100203,
    "user_hint": "",
-   "description": "Que não custa nada; também sem controle de outros.",
+   "description": "Que não custa nada.",
    "novrev_status": "reviewed",
-   "antonyms": [
-    "en:000001776"
-   ],
+   "antonyms": [],
    "nativeExplain": {
-    "pt-BR": "Que não custa nada; também sem controle de outros."
+    "pt-BR": "Que não custa nada."
    }
   },
   {
@@ -5815,9 +5920,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "segundo",
-   "alternatives": [
-    "segunda"
-   ],
+   "alternatives": [],
    "study_priority": 100204,
    "description": "O que vem depois do primeiro.",
    "novrev_status": "reviewed",
@@ -5825,7 +5928,16 @@
    "nativeExplain": {
     "pt-BR": "O que vem depois do primeiro."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000204:f:FEM",
+     "lemma_id": "en:000000204",
+     "grammatical_key": "FEM",
+     "text": "segunda",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000205",
@@ -5900,9 +6012,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esquerdo",
-   "alternatives": [
-    "esquerda"
-   ],
+   "alternatives": [],
    "study_priority": 100207,
    "description": "O lado oposto ao direito.",
    "novrev_status": "reviewed",
@@ -5912,6 +6022,15 @@
    },
    "antonyms": [
     "en:000003194"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000000207:f:FEM",
+     "lemma_id": "en:000000207",
+     "grammatical_key": "FEM",
+     "text": "esquerda",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -6492,7 +6611,10 @@
    "nativeExplain": {
     "pt-BR": "Plural irregular de \"woman\" (mulher)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000435",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000237",
@@ -6910,9 +7032,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cheio",
-   "alternatives": [
-    "cheia"
-   ],
+   "alternatives": [],
    "study_priority": 100252,
    "description": "Contendo o máximo possível; sem fome.",
    "novrev_status": "reviewed",
@@ -6922,7 +7042,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Contendo o máximo possível; sem fome."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000252:f:FEM",
+     "lemma_id": "en:000000252",
+     "grammatical_key": "FEM",
+     "text": "cheia",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000253",
@@ -7038,7 +7167,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"tell\" (contar, dizer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000267",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000259",
@@ -7160,13 +7292,13 @@
    ],
    "study_priority": 100263,
    "user_hint": "",
-   "description": "Difícil; também duro, não macio.",
+   "description": "Que não é fácil.",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000002092"
+    "en:000000492"
    ],
    "nativeExplain": {
-    "pt-BR": "Difícil; também duro, não macio."
+    "pt-BR": "Que não é fácil."
    }
   },
   {
@@ -7373,7 +7505,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"see\", como em \"I have seen it\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000000273",
@@ -7555,7 +7690,10 @@
    "nativeExplain": {
     "pt-BR": "Plural irregular de \"man\" (homem)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000142",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000280",
@@ -7594,9 +7732,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "pequeno",
-   "alternatives": [
-    "pequena"
-   ],
+   "alternatives": [],
    "study_priority": 100281,
    "description": "De tamanho reduzido.",
    "novrev_status": "reviewed",
@@ -7607,7 +7743,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "De tamanho reduzido."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000281:f:FEM",
+     "lemma_id": "en:000000281",
+     "grammatical_key": "FEM",
+     "text": "pequena",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000282",
@@ -7630,7 +7775,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"take\" (pegar, levar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000283",
@@ -7643,9 +7791,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "branco",
-   "alternatives": [
-    "branca"
-   ],
+   "alternatives": [],
    "study_priority": 100283,
    "user_hint": "",
    "description": "A cor da neve.",
@@ -7655,6 +7801,15 @@
    },
    "antonyms": [
     "en:000000315"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000000283:f:FEM",
+     "lemma_id": "en:000000283",
+     "grammatical_key": "FEM",
+     "text": "branca",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -7676,7 +7831,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"come\" (vir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000154",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000285",
@@ -7843,7 +8001,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"go\" (ir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000096",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000291",
@@ -7916,9 +8077,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "americano",
-   "alternatives": [
-    "americana"
-   ],
+   "alternatives": [],
    "study_priority": 100293,
    "user_hint": "",
    "description": "Dos Estados Unidos, para coisas. A nacionalidade de uma pessoa é \"americano/a\" (アメリカ人).",
@@ -7926,7 +8085,16 @@
    "nativeExplain": {
     "pt-BR": "Dos Estados Unidos, para coisas. A nacionalidade de uma pessoa é \"americano/a\" (アメリカ人)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000293:f:FEM",
+     "lemma_id": "en:000000293",
+     "grammatical_key": "FEM",
+     "text": "americana",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000294",
@@ -8288,7 +8456,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"child\": pessoas jovens."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000481",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000308",
@@ -8401,9 +8572,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "preto",
-   "alternatives": [
-    "preta"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 80,
    "user_hint": "",
@@ -8414,6 +8583,15 @@
    },
    "antonyms": [
     "en:000000283"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000000315:f:FEM",
+     "lemma_id": "en:000000315",
+     "grammatical_key": "FEM",
+     "text": "preta",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -8525,7 +8703,6 @@
    "vcu14_status": "provisional-editorial",
    "text": "inteiro",
    "alternatives": [
-    "inteira",
     "todo"
    ],
    "study_tier": "cedo",
@@ -8538,6 +8715,15 @@
    },
    "antonyms": [
     "en:000000360"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000000321:f:FEM",
+     "lemma_id": "en:000000321",
+     "grammatical_key": "FEM",
+     "text": "inteira",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -8912,7 +9098,10 @@
    "nativeExplain": {
     "pt-BR": "Terceira pessoa do singular de \"mean\" (significa)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000264",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "pt-BR:en:000000338",
@@ -9073,7 +9262,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"friend\" (amigo)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000405",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000344",
@@ -9211,9 +9403,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "obrigado",
-   "alternatives": [
-    "obrigada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 91,
    "description": "Expressão de gratidão.",
@@ -9222,7 +9412,16 @@
    "nativeExplain": {
     "pt-BR": "Expressão de gratidão."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000349:f:FEM",
+     "lemma_id": "en:000000349",
+     "grammatical_key": "FEM",
+     "text": "obrigada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000350",
@@ -9449,7 +9648,8 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"give\"; também algo estabelecido."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000359",
@@ -10162,9 +10362,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "perdido",
-   "alternatives": [
-    "perdida"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1035,
    "description": "Sem conseguir achar o caminho; também desaparecido.",
@@ -10173,7 +10371,16 @@
    "nativeExplain": {
     "pt-BR": "Sem conseguir achar o caminho; também desaparecido."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000386:f:FEM",
+     "lemma_id": "en:000000386",
+     "grammatical_key": "FEM",
+     "text": "perdida",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000387",
@@ -10330,9 +10537,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "errado",
-   "alternatives": [
-    "errada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 109,
    "description": "Que não está correto.",
@@ -10341,8 +10546,15 @@
    "nativeExplain": {
     "pt-BR": "Que não está correto."
    },
-   "antonyms": [
-    "en:000003194"
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000394:f:FEM",
+     "lemma_id": "en:000000394",
+     "grammatical_key": "FEM",
+     "text": "errada",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -10607,9 +10819,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "amigo",
-   "alternatives": [
-    "amiga"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
    "description": "Pessoa de quem você gosta e que conhece bem.",
@@ -10620,7 +10830,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Pessoa de quem você gosta e que conhece bem."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000405:f:FEM",
+     "lemma_id": "en:000000405",
+     "grammatical_key": "FEM",
+     "text": "amiga",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000406",
@@ -10926,7 +11145,7 @@
    },
    "antonyms": [
     "en:000000448",
-    "en:000000656"
+    "en:000004173"
    ]
   },
   {
@@ -11388,7 +11607,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"see\" (ver)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000443",
@@ -11581,9 +11803,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "baixo",
-   "alternatives": [
-    "baixa"
-   ],
+   "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2545,
    "user_hint": "",
@@ -11594,7 +11814,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Perto do chão; não alto."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000450:f:FEM",
+     "lemma_id": "en:000000450",
+     "grammatical_key": "FEM",
+     "text": "baixa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000451",
@@ -11762,7 +11991,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"take\", como em \"I have taken it\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000000457",
@@ -11909,9 +12141,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vermelho",
-   "alternatives": [
-    "vermelha"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 135,
    "user_hint": "",
@@ -11920,7 +12150,16 @@
    "nativeExplain": {
     "pt-BR": "A cor do sangue."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000462:f:FEM",
+     "lemma_id": "en:000000462",
+     "grammatical_key": "FEM",
+     "text": "vermelha",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000463",
@@ -11999,9 +12238,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "terceiro",
-   "alternatives": [
-    "terceira"
-   ],
+   "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2554,
    "description": "O número três na ordem.",
@@ -12010,7 +12247,16 @@
    "nativeExplain": {
     "pt-BR": "O número três na ordem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000465:f:FEM",
+     "lemma_id": "en:000000465",
+     "grammatical_key": "FEM",
+     "text": "terceira",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000466",
@@ -12249,7 +12495,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"minute\" (minuto)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001090",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000475",
@@ -12659,7 +12908,8 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000874"
+    "en:000000874",
+    "en:000000263"
    ],
    "nativeExplain": {
     "pt-BR": "Que não é difícil."
@@ -13057,7 +13307,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"kid\"; informal para crianças."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001073",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000511",
@@ -13092,9 +13345,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "pronto",
-   "alternatives": [
-    "pronta"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 147,
    "user_hint": "",
@@ -13103,7 +13354,16 @@
    "nativeExplain": {
     "pt-BR": "Preparado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000512:f:FEM",
+     "lemma_id": "en:000000512",
+     "grammatical_key": "FEM",
+     "text": "pronta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000513",
@@ -13355,7 +13615,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"hear\" (ouvir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000568",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000524",
@@ -13780,7 +14043,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"give\" (dar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000177",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000541",
@@ -13996,7 +14262,6 @@
    "translation_confidence": "editorial-reviewed",
    "text": "doutor",
    "alternatives": [
-    "doutora",
     "Dr."
    ],
    "study_tier": "cedo",
@@ -14007,7 +14272,16 @@
    "nativeExplain": {
     "pt-BR": "Título de médico (Dr. Silva)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000550:f:FEM",
+     "lemma_id": "en:000000550",
+     "grammatical_key": "FEM",
+     "text": "doutora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000551",
@@ -14059,7 +14333,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"hold\" (segurar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000632",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000553",
@@ -14650,7 +14927,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"kill\" (matar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000824",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000587",
@@ -14910,7 +15190,10 @@
    "nativeExplain": {
     "pt-BR": "Os órgãos com que se vê (mais de um)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000986",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000599",
@@ -15213,7 +15496,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"die\" (morrer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000873",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000611",
@@ -15268,7 +15554,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"acontecer\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000631",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000613",
@@ -15292,7 +15581,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"know\" (saber, conhecer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000082",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000614",
@@ -15551,7 +15843,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"win\" (ganhar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000393",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000625",
@@ -15642,9 +15937,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "morto",
-   "alternatives": [
-    "morta"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 189,
    "user_hint": "",
@@ -15655,7 +15948,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que não está mais vivo."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000629:f:FEM",
+     "lemma_id": "en:000000629",
+     "grammatical_key": "FEM",
+     "text": "morta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000630",
@@ -15820,9 +16122,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "jogador",
-   "alternatives": [
-    "jogadora"
-   ],
+   "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2613,
    "user_hint": "",
@@ -15831,7 +16131,16 @@
    "nativeExplain": {
     "pt-BR": "Quem joga um jogo ou esporte."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000637:f:FEM",
+     "lemma_id": "en:000000637",
+     "grammatical_key": "FEM",
+     "text": "jogadora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000638",
@@ -16086,7 +16395,9 @@
    "nativeExplain": {
     "pt-BR": "Forma comparativa de \"high\" (alto)."
    },
-   "antonyms": []
+   "antonyms": [
+    "en:000000785"
+   ]
   },
   {
    "id": "pt-BR:en:000000652",
@@ -16183,15 +16494,13 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 201,
-   "description": "Algo dado de presente; também o tempo atual.",
+   "description": "Algo que se dá a alguém; um mimo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Algo dado de presente; também o tempo atual."
+    "pt-BR": "Algo que se dá a alguém; um mimo."
    },
-   "antonyms": [
-    "en:000000422"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000000657",
@@ -16222,7 +16531,7 @@
    "kind": "word",
    "description_en": "Feeling bad about something; used to apologize.",
    "level": "A2",
-   "part_of_speech": "adj",
+   "part_of_speech": "int",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "vcu14_rank": 173,
@@ -16239,11 +16548,11 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 202,
-   "description": "Sentir pesar, principalmente ao pedir desculpas.",
+   "description": "Usado para pedir desculpas.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sentir pesar, principalmente ao pedir desculpas."
+    "pt-BR": "Usado para pedir desculpas."
    },
    "antonyms": []
   },
@@ -16668,7 +16977,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"add\" (adicionar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000812",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000679",
@@ -16681,9 +16993,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "sozinho",
-   "alternatives": [
-    "sozinha"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 208,
    "user_hint": "",
@@ -16692,7 +17002,16 @@
    "nativeExplain": {
     "pt-BR": "Sem outras pessoas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000679:f:FEM",
+     "lemma_id": "en:000000679",
+     "grammatical_key": "FEM",
+     "text": "sozinha",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000680",
@@ -16767,7 +17086,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"bring\" (trazer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000517",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000683",
@@ -16916,9 +17238,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "médico",
-   "alternatives": [
-    "médica"
-   ],
+   "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2647,
    "user_hint": "",
@@ -16927,7 +17247,16 @@
    "nativeExplain": {
     "pt-BR": "Relativo à medicina e aos médicos."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000690:f:FEM",
+     "lemma_id": "en:000000690",
+     "grammatical_key": "FEM",
+     "text": "médica",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000691",
@@ -17082,7 +17411,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"receive\" (receber)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001461",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000697",
@@ -17130,7 +17462,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"send\" (enviar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000790",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000699",
@@ -17182,7 +17517,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"try\" (tentar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000289",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000702",
@@ -17230,7 +17568,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"become\" (tornar-se)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000367",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000705",
@@ -17308,9 +17649,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "diretor",
-   "alternatives": [
-    "diretora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1082,
    "user_hint": "",
@@ -17319,7 +17658,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que dirige um filme ou lidera uma organização."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000708:f:FEM",
+     "lemma_id": "en:000000708",
+     "grammatical_key": "FEM",
+     "text": "diretora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000709",
@@ -17762,9 +18110,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "redondo",
-   "alternatives": [
-    "redonda"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 227,
    "user_hint": "",
@@ -17773,7 +18119,16 @@
    "nativeExplain": {
     "pt-BR": "Com forma de círculo ou bola."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000729:f:FEM",
+     "lemma_id": "en:000000729",
+     "grammatical_key": "FEM",
+     "text": "redonda",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000730",
@@ -18057,9 +18412,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "rápido",
-   "alternatives": [
-    "rápida"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 235,
    "user_hint": "",
@@ -18070,7 +18423,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que se move ou faz algo depressa."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000742:f:FEM",
+     "lemma_id": "en:000000742",
+     "grammatical_key": "FEM",
+     "text": "rápida",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000743",
@@ -18138,7 +18500,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"feel\" (sentir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000193",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000746",
@@ -18573,7 +18938,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"pay\" (pagar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000376",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000766",
@@ -18980,7 +19348,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"lead\" (liderar, levar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000614",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000785",
@@ -19002,7 +19373,7 @@
    "description": "Forma comparativa de \"low\" (baixo).",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000001800"
+    "en:000000651"
    ],
    "nativeExplain": {
     "pt-BR": "Forma comparativa de \"low\" (baixo)."
@@ -19665,7 +20036,7 @@
     "pt-BR": "Ato violento contra alguém."
    },
    "antonyms": [
-    "en:000004092"
+    "en:000004176"
    ]
   },
   {
@@ -19758,7 +20129,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"decide\" (decidir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001679",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000819",
@@ -19928,7 +20302,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"meet\" (encontrar, conhecer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000524",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000826",
@@ -20099,7 +20476,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"write\", como em \"I have written it\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000977",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000000834",
@@ -20172,7 +20552,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"consider\" (considerar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001067",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000837",
@@ -20331,9 +20714,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "europeu",
-   "alternatives": [
-    "europeia"
-   ],
+   "alternatives": [],
    "study_tier": "expansão cotidiana",
    "study_priority": 2696,
    "user_hint": "",
@@ -20342,7 +20723,16 @@
    "nativeExplain": {
     "pt-BR": "Da Europa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000843:f:FEM",
+     "lemma_id": "en:000000843",
+     "grammatical_key": "FEM",
+     "text": "europeia",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000845",
@@ -20490,7 +20880,8 @@
    "user_hint": "",
    "antonyms": [
     "en:000000162",
-    "en:000000393"
+    "en:000000393",
+    "en:000001600"
    ],
    "nativeExplain": {
     "pt-BR": "Deixar de ter algo; não vencer."
@@ -20825,7 +21216,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"begin\" (começar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001484",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000866",
@@ -20849,7 +21243,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"build\" (construir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000932",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000867",
@@ -21103,9 +21500,7 @@
    "nativeExplain": {
     "pt-BR": "Ato de perder algo."
    },
-   "antonyms": [
-    "en:000001600"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000000879",
@@ -21218,19 +21613,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "publicou",
-   "alternatives": [
-    "publicado"
-   ],
+   "text": "publicar",
+   "alternatives": [],
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2722,
    "user_hint": "",
-   "description": "Passado do verbo \"publish\" (publicar).",
+   "description": "Lançar um livro ou texto para o público.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"publish\" (publicar)."
+    "pt-BR": "Lançar um livro ou texto para o público."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000000885",
@@ -21570,7 +21965,8 @@
    "nativeExplain": {
     "pt-BR": "Tudo bem; está certo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000000901",
@@ -21645,13 +22041,13 @@
    "study_tier": "cedo",
    "study_priority": 1116,
    "user_hint": "",
-   "description": "Forma educada de se dirigir a um homem.",
+   "description": "Forma educada de se dirigir a um homem que se atende, como um cliente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Forma educada de se dirigir a um homem."
+    "pt-BR": "Forma educada de se dirigir a um homem que se atende, como um cliente."
    },
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000000905",
@@ -21823,7 +22219,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"create\" (criar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000982",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000914",
@@ -22622,7 +23021,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"write\" (escrever)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000977",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000954",
@@ -22755,9 +23157,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "casado",
-   "alternatives": [
-    "casada"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1137,
    "description": "Que tem marido ou esposa.",
@@ -22766,7 +23166,16 @@
    "nativeExplain": {
     "pt-BR": "Que tem marido ou esposa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000000963:f:FEM",
+     "lemma_id": "en:000000963",
+     "grammatical_key": "FEM",
+     "text": "casada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000964",
@@ -23174,21 +23583,27 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "frio",
-   "alternatives": [
-    "fria"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 313,
    "description": "Com temperatura baixa.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000687",
-    "en:000001421"
+    "en:000000687"
    ],
    "nativeExplain": {
     "pt-BR": "Com temperatura baixa."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000000981:f:FEM",
+     "lemma_id": "en:000000981",
+     "grammatical_key": "FEM",
+     "text": "fria",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000000982",
@@ -23493,7 +23908,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"spend\" (gastar, passar tempo)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001118",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000998",
@@ -23845,9 +24263,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "chinês",
-   "alternatives": [
-    "chinesa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1161,
    "user_hint": "",
@@ -23856,7 +24272,16 @@
    "nativeExplain": {
     "pt-BR": "Da China; a língua chinesa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001013:f:FEM",
+     "lemma_id": "en:000001013",
+     "grammatical_key": "FEM",
+     "text": "chinesa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001014",
@@ -24051,7 +24476,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"move\" (mover, mudar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000431",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001022",
@@ -24174,9 +24602,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "russo",
-   "alternatives": [
-    "russa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1165,
    "user_hint": "",
@@ -24185,7 +24611,16 @@
    "nativeExplain": {
     "pt-BR": "Da Rússia; a língua russa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001028:f:FEM",
+     "lemma_id": "en:000001028",
+     "grammatical_key": "FEM",
+     "text": "russa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001029",
@@ -24520,7 +24955,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"describe\" (descrever)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002632",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001043",
@@ -24771,7 +25209,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"keep\" (manter, guardar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000198",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001055",
@@ -24972,7 +25413,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"report\" (relatar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001318",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001063",
@@ -25200,7 +25644,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de pé (mais de um pé)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001391",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000001073",
@@ -25621,9 +26068,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "rápido",
-   "alternatives": [
-    "rápida"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 340,
    "user_hint": "",
@@ -25632,7 +26077,16 @@
    "nativeExplain": {
     "pt-BR": "Rápido; que leva pouco tempo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001093:f:FEM",
+     "lemma_id": "en:000001093",
+     "grammatical_key": "FEM",
+     "text": "rápida",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001094",
@@ -25707,7 +26161,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"study\": estudos ou pesquisas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000534",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000001097",
@@ -25788,9 +26245,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "limpo",
-   "alternatives": [
-    "limpa"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 343,
    "description": "Que não está sujo.",
@@ -25801,7 +26256,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que não está sujo."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001101:f:FEM",
+     "lemma_id": "en:000001101",
+     "grammatical_key": "FEM",
+     "text": "limpa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001102",
@@ -26101,7 +26565,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"sell\" (vender)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001094",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001117",
@@ -26125,7 +26592,8 @@
    "nativeExplain": {
     "pt-BR": "Forma de \"sound\" na 3ª pessoa, como em \"it sounds good\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001118",
@@ -26240,19 +26708,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "anunciou",
-   "alternatives": [
-    "anunciado"
-   ],
+   "text": "anunciar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2758,
    "user_hint": "",
-   "description": "Passado do verbo \"announce\" (anunciar).",
+   "description": "Comunicar algo oficialmente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"announce\" (anunciar)."
+    "pt-BR": "Comunicar algo oficialmente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001126",
@@ -26417,9 +26885,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "pesado",
-   "alternatives": [
-    "pesada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 349,
    "user_hint": "",
@@ -26430,6 +26896,15 @@
    },
    "antonyms": [
     "en:000003195"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000001136:f:FEM",
+     "lemma_id": "en:000001136",
+     "grammatical_key": "FEM",
+     "text": "pesada",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -26619,9 +27094,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "autor",
-   "alternatives": [
-    "autora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1213,
    "user_hint": "",
@@ -26630,7 +27103,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que escreve livros."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001145:f:FEM",
+     "lemma_id": "en:000001145",
+     "grammatical_key": "FEM",
+     "text": "autora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001146",
@@ -26805,9 +27287,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alemão",
-   "alternatives": [
-    "alemã"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1218,
    "user_hint": "",
@@ -26816,7 +27296,16 @@
    "nativeExplain": {
     "pt-BR": "Da Alemanha; a língua alemã."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001153:f:FEM",
+     "lemma_id": "en:000001153",
+     "grammatical_key": "FEM",
+     "text": "alemã",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001154",
@@ -26991,9 +27480,7 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que lidera um grupo."
    },
-   "antonyms": [
-    "en:000003887"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000001162",
@@ -27068,7 +27555,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"name\" (chamar, nomear)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000212",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001166",
@@ -27219,9 +27709,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "secretário",
-   "alternatives": [
-    "secretária"
-   ],
+   "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2767,
    "description": "Pessoa que faz trabalho de escritório para alguém.",
@@ -27230,7 +27718,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que faz trabalho de escritório para alguém."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001172:f:FEM",
+     "lemma_id": "en:000001172",
+     "grammatical_key": "FEM",
+     "text": "secretária",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001173",
@@ -27293,19 +27790,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "trabalhadores",
-   "alternatives": [
-    "funcionários"
-   ],
+   "text": "trabalhador",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2768,
    "user_hint": "",
-   "description": "Plural de \"worker\" (trabalhador).",
+   "description": "Pessoa que trabalha.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"worker\" (trabalhador)."
+    "pt-BR": "Pessoa que trabalha."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001177",
@@ -27644,7 +28141,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"mean\" (querer dizer, significar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000264",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001195",
@@ -28189,9 +28689,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "nenhum",
-   "alternatives": [
-    "nenhuma"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1250,
    "description": "Nem um só; nenhum.",
@@ -28200,7 +28698,16 @@
    "nativeExplain": {
     "pt-BR": "Nem um só; nenhum."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001217:f:FEM",
+     "lemma_id": "en:000001217",
+     "grammatical_key": "FEM",
+     "text": "nenhuma",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001220",
@@ -28497,19 +29004,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "comparou",
-   "alternatives": [
-    "comparado"
-   ],
+   "text": "comparar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2779,
    "user_hint": "",
-   "description": "Passado do verbo \"compare\" (comparar).",
+   "description": "Ver em que coisas se parecem ou diferem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"compare\" (comparar)."
+    "pt-BR": "Ver em que coisas se parecem ou diferem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001234",
@@ -28553,7 +29060,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"end\" (terminar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000188",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001236",
@@ -28814,7 +29324,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"pass\" (passar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000921",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001249",
@@ -29074,7 +29587,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"buy\" (comprar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000458",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001262",
@@ -29353,9 +29869,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "indiano",
-   "alternatives": [
-    "indiana"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1272,
    "user_hint": "",
@@ -29364,7 +29878,16 @@
    "nativeExplain": {
     "pt-BR": "Da Índia."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001275:f:FEM",
+     "lemma_id": "en:000001275",
+     "grammatical_key": "FEM",
+     "text": "indiana",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001276",
@@ -29474,17 +29997,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "recursos",
+   "text": "recurso",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2788,
    "user_hint": "",
-   "description": "Plural de \"resource\" (recurso).",
+   "description": "Algo útil que se pode usar, como água ou dinheiro.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"resource\" (recurso)."
+    "pt-BR": "Algo útil que se pode usar, como água ou dinheiro."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001283",
@@ -29497,9 +30022,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "rico",
-   "alternatives": [
-    "rica"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 377,
    "user_hint": "",
@@ -29510,7 +30033,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que tem muito dinheiro."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001283:f:FEM",
+     "lemma_id": "en:000001283",
+     "grammatical_key": "FEM",
+     "text": "rica",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001284",
@@ -29695,7 +30227,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"catch\" (pegar, apanhar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001383",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001292",
@@ -29708,9 +30243,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "fechado",
-   "alternatives": [
-    "fechada"
-   ],
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2792,
    "user_hint": "",
@@ -29721,6 +30254,15 @@
    },
    "antonyms": [
     "en:000000303"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000001292:f:FEM",
+     "lemma_id": "en:000001292",
+     "grammatical_key": "FEM",
+     "text": "fechada",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -29831,9 +30373,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "médico",
-   "alternatives": [
-    "médica"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 382,
    "description": "Pessoa que trata doentes.",
@@ -29842,7 +30382,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que trata doentes."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001297:f:FEM",
+     "lemma_id": "en:000001297",
+     "grammatical_key": "FEM",
+     "text": "médica",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001298",
@@ -30033,10 +30582,10 @@
    "study_tier": "cedo",
    "study_priority": 1281,
    "user_hint": "",
-   "description": "Ficar maior; cultivar plantas.",
+   "description": "Ficar maior ou mais velho.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ficar maior; cultivar plantas."
+    "pt-BR": "Ficar maior ou mais velho."
    },
    "antonyms": []
   },
@@ -30180,7 +30729,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"show\", como em \"I have shown it\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000191",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000001320",
@@ -30298,9 +30850,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "capitão",
-   "alternatives": [
-    "capitã"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1286,
    "user_hint": "",
@@ -30309,7 +30859,16 @@
    "nativeExplain": {
     "pt-BR": "O líder de um time ou de um navio."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001324:f:FEM",
+     "lemma_id": "en:000001324",
+     "grammatical_key": "FEM",
+     "text": "capitã",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001325",
@@ -30791,9 +31350,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quebrado",
-   "alternatives": [
-    "quebrada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 393,
    "description": "Danificado; que não funciona.",
@@ -30802,7 +31359,16 @@
    "nativeExplain": {
     "pt-BR": "Danificado; que não funciona."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001352:f:FEM",
+     "lemma_id": "en:000001352",
+     "grammatical_key": "FEM",
+     "text": "quebrada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001353",
@@ -30824,7 +31390,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"cause\" (causar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000425",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001354",
@@ -30859,9 +31428,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cristão",
-   "alternatives": [
-    "cristã"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1300,
    "user_hint": "",
@@ -30870,7 +31437,16 @@
    "nativeExplain": {
     "pt-BR": "Que segue o cristianismo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001356:f:FEM",
+     "lemma_id": "en:000001356",
+     "grammatical_key": "FEM",
+     "text": "cristã",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001357",
@@ -30964,7 +31540,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"help\" (ajudar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000163",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001361",
@@ -31012,7 +31591,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"live\" (viver, morar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000253",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001364",
@@ -31237,9 +31819,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "professor",
-   "alternatives": [
-    "professora"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 397,
    "description": "Pessoa que ensina.",
@@ -31248,7 +31828,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que ensina."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001376:f:FEM",
+     "lemma_id": "en:000001376",
+     "grammatical_key": "FEM",
+     "text": "professora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001377",
@@ -31504,9 +32093,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "executivo",
-   "alternatives": [
-    "executiva"
-   ],
+   "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2807,
    "user_hint": "",
@@ -31515,7 +32102,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que dirige uma empresa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001390:f:FEM",
+     "lemma_id": "en:000001390",
+     "grammatical_key": "FEM",
+     "text": "executiva",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001391",
@@ -31730,7 +32326,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"produce\" (produzir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001697",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001402",
@@ -31752,7 +32351,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"run\" (correr)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000299",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001403",
@@ -32208,9 +32810,7 @@
    "description": "Qualidade do que é quente; temperatura alta.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000000981"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "pt-BR": "Qualidade do que é quente; temperatura alta."
    }
@@ -32275,19 +32875,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "localizado",
+   "text": "ficar",
    "alternatives": [
-    "situado"
+    "localizar-se"
    ],
    "study_tier": "herdado",
    "study_priority": 2814,
    "user_hint": "",
-   "description": "Passado do verbo \"locate\"; situado em um lugar.",
+   "description": "Estar em determinado lugar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"locate\"; situado em um lugar."
+    "pt-BR": "Estar em determinado lugar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001426",
@@ -32384,7 +32986,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"show\" (mostrar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000191",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001438",
@@ -32485,18 +33090,20 @@
    "kind": "word",
    "description_en": "Past of \"break\"; also \"broke\" = with no money.",
    "level": "B1",
-   "part_of_speech": "v",
+   "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "quebrou",
-   "alternatives": [],
+   "text": "sem dinheiro",
+   "alternatives": [
+    "duro"
+   ],
    "study_tier": "herdado",
    "study_priority": 2817,
    "user_hint": "",
-   "description": "Passado simples do verbo \"break\" (quebrar).",
+   "description": "Sem nenhum dinheiro (informal).",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado simples do verbo \"break\" (quebrar)."
+    "pt-BR": "Sem nenhum dinheiro (informal)."
    },
    "antonyms": []
   },
@@ -32590,9 +33197,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "gordo",
-   "alternatives": [
-    "gorda"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1339,
    "user_hint": "",
@@ -32603,6 +33208,15 @@
    },
    "antonyms": [
     "en:000003311"
+   ],
+   "forms": [
+    {
+     "form_id": "en:000001447:f:FEM",
+     "lemma_id": "en:000001447",
+     "grammatical_key": "FEM",
+     "text": "gorda",
+     "study_tier": "standard"
+    }
    ]
   },
   {
@@ -32625,7 +33239,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"fall\" (cair)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000741",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001450",
@@ -32677,7 +33294,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"learn\" (aprender)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000674",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001453",
@@ -32755,7 +33375,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"open\" (abrir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000303",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001457",
@@ -32847,7 +33470,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"reach\" (chegar, alcançar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001199",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001461",
@@ -33022,7 +33648,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"sign\" (assinar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000856",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001469",
@@ -33160,8 +33789,9 @@
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "x",
+   "text": "versus",
    "alternatives": [
+    "x",
     "contra"
    ],
    "study_tier": "cedo",
@@ -33424,9 +34054,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "famoso",
-   "alternatives": [
-    "famosa"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 418,
    "user_hint": "",
@@ -33435,7 +34063,16 @@
    "nativeExplain": {
     "pt-BR": "Conhecido por muita gente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001491:f:FEM",
+     "lemma_id": "en:000001491",
+     "grammatical_key": "FEM",
+     "text": "famosa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001493",
@@ -33505,9 +34142,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "parceiro",
-   "alternatives": [
-    "parceira"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1354,
    "description": "Pessoa com quem você faz algo; também cônjuge.",
@@ -33516,7 +34151,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa com quem você faz algo; também cônjuge."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001497:f:FEM",
+     "lemma_id": "en:000001497",
+     "grammatical_key": "FEM",
+     "text": "parceira",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001499",
@@ -33540,7 +34184,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"raise\": criar, levantar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001800",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001501",
@@ -33668,7 +34315,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"stop\" (parar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000273",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001508",
@@ -33924,7 +34574,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"cover\" (cobrir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000839",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001523",
@@ -33986,9 +34639,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quarto",
-   "alternatives": [
-    "quarta"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1364,
    "description": "O número quatro na ordem (4º).",
@@ -33997,7 +34648,16 @@
    "nativeExplain": {
     "pt-BR": "O número quatro na ordem (4º)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001526:f:FEM",
+     "lemma_id": "en:000001526",
+     "grammatical_key": "FEM",
+     "text": "quarta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001527",
@@ -34097,7 +34757,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"mention\" (mencionar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001872",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001531",
@@ -34121,7 +34784,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"miss\": perder ou sentir falta."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000588",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001532",
@@ -34186,9 +34852,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "dono",
-   "alternatives": [
-    "dona"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1367,
    "user_hint": "",
@@ -34197,7 +34861,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa a quem algo pertence."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001534:f:FEM",
+     "lemma_id": "en:000001534",
+     "grammatical_key": "FEM",
+     "text": "dona",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001536",
@@ -34534,9 +35207,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "africano",
-   "alternatives": [
-    "africana"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1377,
    "user_hint": "",
@@ -34545,7 +35216,16 @@
    "nativeExplain": {
     "pt-BR": "Da África."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001554:f:FEM",
+     "lemma_id": "en:000001554",
+     "grammatical_key": "FEM",
+     "text": "africana",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001555",
@@ -34572,7 +35252,8 @@
    "nativeExplain": {
     "pt-BR": "Os membros do corpo entre o ombro e a mão (mais de um)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000001556",
@@ -34694,7 +35375,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"fail\" (falhar, reprovar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002402",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001561",
@@ -34989,7 +35673,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"return\": voltar ou devolver."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000640",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001578",
@@ -35333,9 +36020,7 @@
    "description": "Ir para dentro de um lugar.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000003123"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "pt-BR": "Ir para dentro de um lugar."
    }
@@ -35407,7 +36092,7 @@
     "pt-BR": "Obter mais de algo."
    },
    "antonyms": [
-    "en:000000878"
+    "en:000000850"
    ]
   },
   {
@@ -35421,9 +36106,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "japonês",
-   "alternatives": [
-    "japonesa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1397,
    "user_hint": "",
@@ -35432,7 +36115,16 @@
    "nativeExplain": {
     "pt-BR": "Do Japão; a língua japonesa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001603:f:FEM",
+     "lemma_id": "en:000001603",
+     "grammatical_key": "FEM",
+     "text": "japonesa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001605",
@@ -35697,9 +36389,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "adulto",
-   "alternatives": [
-    "adulta"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1404,
    "description": "Pessoa crescida, que já é madura.",
@@ -35708,7 +36398,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa crescida, que já é madura."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001618:f:FEM",
+     "lemma_id": "en:000001618",
+     "grammatical_key": "FEM",
+     "text": "adulta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001619",
@@ -36186,9 +36885,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vencedor",
-   "alternatives": [
-    "vencedora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1414,
    "user_hint": "",
@@ -36197,7 +36894,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que vence."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001645:f:FEM",
+     "lemma_id": "en:000001645",
+     "grammatical_key": "FEM",
+     "text": "vencedora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001646",
@@ -36219,7 +36925,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"arrive\" (chegar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003180",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001647",
@@ -36369,9 +37078,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "perigoso",
-   "alternatives": [
-    "perigosa"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 447,
    "description": "Que pode machucar você.",
@@ -36382,7 +37089,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que pode machucar você."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001654:f:FEM",
+     "lemma_id": "en:000001654",
+     "grammatical_key": "FEM",
+     "text": "perigosa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001656",
@@ -36545,17 +37261,19 @@
     "play_nature"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "folhas",
+   "text": "folha",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2854,
-   "description": "As partes verdes das plantas (mais de uma).",
+   "description": "Parte verde e achatada da planta.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "As partes verdes das plantas (mais de uma)."
+    "pt-BR": "Parte verde e achatada da planta."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001663",
@@ -36579,7 +37297,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"movie\" (filme)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000691",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000001664",
@@ -36651,7 +37372,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"remove\" (remover, tirar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001976",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001668",
@@ -36842,9 +37566,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "gato",
-   "alternatives": [
-    "gata"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 449,
    "description": "Animal de estimação pequeno que mia.",
@@ -36853,7 +37575,16 @@
    "nativeExplain": {
     "pt-BR": "Animal de estimação pequeno que mia."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001677:f:FEM",
+     "lemma_id": "en:000001677",
+     "grammatical_key": "FEM",
+     "text": "gata",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001679",
@@ -36948,9 +37679,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "quinto",
-   "alternatives": [
-    "quinta"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1429,
    "user_hint": "",
@@ -36959,7 +37688,16 @@
    "nativeExplain": {
     "pt-BR": "Número cinco na ordem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001683:f:FEM",
+     "lemma_id": "en:000001683",
+     "grammatical_key": "FEM",
+     "text": "quinta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001684",
@@ -37174,9 +37912,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "orgulhoso",
-   "alternatives": [
-    "orgulhosa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1435,
    "description": "Satisfeito com algo bom que você ou outros fizeram.",
@@ -37185,7 +37921,16 @@
    "nativeExplain": {
     "pt-BR": "Satisfeito com algo bom que você ou outros fizeram."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001699:f:FEM",
+     "lemma_id": "en:000001699",
+     "grammatical_key": "FEM",
+     "text": "orgulhosa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001700",
@@ -37384,7 +38129,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"carry\" (carregar, levar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001325",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001714",
@@ -37408,7 +38156,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"complete\" (completar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000797",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001715",
@@ -37473,9 +38224,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "querido",
-   "alternatives": [
-    "querida"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1442,
    "user_hint": "",
@@ -37484,7 +38233,16 @@
    "nativeExplain": {
     "pt-BR": "Amado; usado no começo de cartas (\"Querida Ana\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001717:f:FEM",
+     "lemma_id": "en:000001717",
+     "grammatical_key": "FEM",
+     "text": "querida",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001721",
@@ -37881,17 +38639,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "habilidades",
+   "text": "habilidade",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2861,
    "user_hint": "",
-   "description": "Plural de \"skill\" (habilidade).",
+   "description": "Capacidade de fazer algo bem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"skill\" (habilidade)."
+    "pt-BR": "Capacidade de fazer algo bem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001739",
@@ -37975,9 +38735,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vivo",
-   "alternatives": [
-    "viva"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 459,
    "user_hint": "",
@@ -37988,7 +38746,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que vive; que não morreu."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001744:f:FEM",
+     "lemma_id": "en:000001744",
+     "grammatical_key": "FEM",
+     "text": "viva",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001745",
@@ -38302,7 +39069,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"manage\": conseguir ou administrar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002757",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001762",
@@ -38376,7 +39146,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"own\" (possuir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000170",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001765",
@@ -38466,10 +39239,10 @@
    "study_tier": "cedo",
    "study_priority": 1466,
    "user_hint": "",
-   "description": "Plural de \"turn\"; \"take turns\" = fazer um de cada vez.",
+   "description": "Momento de alguém fazer algo, numa ordem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"turn\"; \"take turns\" = fazer um de cada vez."
+    "pt-BR": "Momento de alguém fazer algo, numa ordem."
    },
    "antonyms": []
   },
@@ -38622,7 +39395,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"believe\" (acreditar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000276",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001775",
@@ -38657,20 +39433,27 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ocupado",
-   "alternatives": [
-    "ocupada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 467,
    "user_hint": "",
    "description": "Com muita coisa para fazer.",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000203"
+    "en:000004171"
    ],
    "nativeExplain": {
     "pt-BR": "Com muita coisa para fazer."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001776:f:FEM",
+     "lemma_id": "en:000001776",
+     "grammatical_key": "FEM",
+     "text": "ocupada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001779",
@@ -38683,9 +39466,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "preocupado",
-   "alternatives": [
-    "preocupada"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1472,
    "user_hint": "",
@@ -38694,7 +39475,16 @@
    "nativeExplain": {
     "pt-BR": "Que sente inquietação por algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001779:f:FEM",
+     "lemma_id": "en:000001779",
+     "grammatical_key": "FEM",
+     "text": "preocupada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001780",
@@ -38759,9 +39549,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "criminoso",
-   "alternatives": [
-    "criminosa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1473,
    "user_hint": "",
@@ -38770,7 +39558,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que comete um crime."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001782:f:FEM",
+     "lemma_id": "en:000001782",
+     "grammatical_key": "FEM",
+     "text": "criminosa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001783",
@@ -39047,7 +39844,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"present\" (apresentar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000656",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001800",
@@ -39069,7 +39869,7 @@
    "description": "Levantar algo.",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000785"
+    "en:000004175"
    ],
    "nativeExplain": {
     "pt-BR": "Levantar algo."
@@ -39382,17 +40182,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "descobriu",
+   "text": "descobrir",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2873,
    "user_hint": "",
-   "description": "Passado do verbo \"discover\" (descobrir).",
+   "description": "Achar algo pela primeira vez.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"discover\" (descobrir)."
+    "pt-BR": "Achar algo pela primeira vez."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001820",
@@ -39412,9 +40214,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "seco",
-   "alternatives": [
-    "seca"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 476,
    "description": "Sem umidade.",
@@ -39425,7 +40225,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Sem umidade."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001820:f:FEM",
+     "lemma_id": "en:000001820",
+     "grammatical_key": "FEM",
+     "text": "seca",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001821",
@@ -39690,7 +40499,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"order\": pedir ou encomendar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000297",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001838",
@@ -40062,7 +40874,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"drop\": deixar cair ou cair."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001069",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001859",
@@ -40191,7 +41006,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"join\": entrar ou juntar-se."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001051",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001871",
@@ -40442,9 +41260,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "espanhol",
-   "alternatives": [
-    "espanhola"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1507,
    "user_hint": "",
@@ -40453,7 +41269,16 @@
    "nativeExplain": {
     "pt-BR": "Da Espanha; a língua espanhola."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001883:f:FEM",
+     "lemma_id": "en:000001883",
+     "grammatical_key": "FEM",
+     "text": "espanhola",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001884",
@@ -40575,9 +41400,7 @@
    "nativeExplain": {
     "pt-BR": "O ato de vencer."
    },
-   "antonyms": [
-    "en:000002896"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000001890",
@@ -40645,17 +41468,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "cidadãos",
+   "text": "cidadão",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2885,
    "user_hint": "",
-   "description": "Plural de \"citizen\" (cidadão).",
+   "description": "Pessoa que pertence a um país ou cidade.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"citizen\" (cidadão)."
+    "pt-BR": "Pessoa que pertence a um país ou cidade."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001894",
@@ -40777,7 +41602,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"enter\" (entrar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001596",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001900",
@@ -41002,19 +41830,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "apresentou",
-   "alternatives": [
-    "introduzido"
-   ],
+   "text": "apresentar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2889,
    "user_hint": "",
-   "description": "Passado do verbo \"introduce\": apresentar.",
+   "description": "Fazer duas pessoas se conhecerem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"introduce\": apresentar."
+    "pt-BR": "Fazer duas pessoas se conhecerem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001913",
@@ -41140,7 +41968,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"pick\": escolher ou pegar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000852",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000001921",
@@ -41696,9 +42527,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "barato",
-   "alternatives": [
-    "barata"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 497,
    "user_hint": "",
@@ -41709,7 +42538,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que não custa muito."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000001952:f:FEM",
+     "lemma_id": "en:000001952",
+     "grammatical_key": "FEM",
+     "text": "barata",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001953",
@@ -41828,7 +42666,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"feeling\": emoções."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000744",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000001961",
@@ -41841,9 +42682,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "governador",
-   "alternatives": [
-    "governadora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1539,
    "user_hint": "",
@@ -41852,7 +42691,16 @@
    "nativeExplain": {
     "pt-BR": "O líder de um estado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001961:f:FEM",
+     "lemma_id": "en:000001961",
+     "grammatical_key": "FEM",
+     "text": "governadora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001962",
@@ -42078,19 +42926,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "propôs",
-   "alternatives": [
-    "proposto"
-   ],
+   "text": "propor",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2898,
    "user_hint": "",
-   "description": "Passado do verbo \"propose\" (propor).",
+   "description": "Sugerir um plano ou ideia.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"propose\" (propor)."
+    "pt-BR": "Sugerir um plano ou ideia."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000001974",
@@ -42259,9 +43107,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cansado",
-   "alternatives": [
-    "cansada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 504,
    "description": "Que precisa de descanso ou sono.",
@@ -42270,7 +43116,16 @@
    "nativeExplain": {
     "pt-BR": "Que precisa de descanso ou sono."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000001984:f:FEM",
+     "lemma_id": "en:000001984",
+     "grammatical_key": "FEM",
+     "text": "cansada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000001988",
@@ -42505,17 +43360,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "elementos",
+   "text": "elemento",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2901,
    "user_hint": "",
-   "description": "Plural de \"element\" (elemento).",
+   "description": "Uma das partes de algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"element\" (elemento)."
+    "pt-BR": "Uma das partes de algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002000",
@@ -42528,9 +43385,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "inimigo",
-   "alternatives": [
-    "inimiga"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1553,
    "user_hint": "",
@@ -42541,7 +43396,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Pessoa que luta contra você."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002000:f:FEM",
+     "lemma_id": "en:000002000",
+     "grammatical_key": "FEM",
+     "text": "inimiga",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002001",
@@ -42609,7 +43473,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"fix\": consertar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001790",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002005",
@@ -42675,19 +43542,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "pretendido",
-   "alternatives": [
-    "planejado"
-   ],
+   "text": "pretender",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2903,
    "user_hint": "",
-   "description": "Passado do verbo \"intend\": pretender.",
+   "description": "Ter a intenção de fazer algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"intend\": pretender."
+    "pt-BR": "Ter a intenção de fazer algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002008",
@@ -42915,9 +43782,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "asiático",
-   "alternatives": [
-    "asiática"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1560,
    "user_hint": "",
@@ -42926,7 +43791,16 @@
    "nativeExplain": {
     "pt-BR": "Da Ásia."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002021:f:FEM",
+     "lemma_id": "en:000002021",
+     "grammatical_key": "FEM",
+     "text": "asiática",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002022",
@@ -42939,9 +43813,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "advogado",
-   "alternatives": [
-    "advogada"
-   ],
+   "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2906,
    "user_hint": "",
@@ -42951,7 +43823,16 @@
     "pt-BR": "Um advogado."
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "search_only",
+   "forms": [
+    {
+     "form_id": "en:000002022:f:FEM",
+     "lemma_id": "en:000002022",
+     "grammatical_key": "FEM",
+     "text": "advogada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002024",
@@ -43063,9 +43944,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "caro",
-   "alternatives": [
-    "cara"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 511,
    "user_hint": "",
@@ -43076,7 +43955,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que custa muito dinheiro."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002033:f:FEM",
+     "lemma_id": "en:000002033",
+     "grammatical_key": "FEM",
+     "text": "cara",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002034",
@@ -43098,7 +43986,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"grow\" (crescer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001309",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002035",
@@ -43314,7 +44205,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"plan\" (planejar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000497",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002048",
@@ -43497,9 +44391,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "usuário",
-   "alternatives": [
-    "usuária"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1574,
    "user_hint": "",
@@ -43508,7 +44400,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que usa algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002057:f:FEM",
+     "lemma_id": "en:000002057",
+     "grammatical_key": "FEM",
+     "text": "usuária",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002058",
@@ -43521,9 +44422,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "escritor",
-   "alternatives": [
-    "escritora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1575,
    "user_hint": "",
@@ -43532,7 +44431,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que escreve."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002058:f:FEM",
+     "lemma_id": "en:000002058",
+     "grammatical_key": "FEM",
+     "text": "escritora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002059",
@@ -43545,9 +44453,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "amarelo",
-   "alternatives": [
-    "amarela"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 514,
    "user_hint": "",
@@ -43556,7 +44462,16 @@
    "nativeExplain": {
     "pt-BR": "A cor da banana."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002059:f:FEM",
+     "lemma_id": "en:000002059",
+     "grammatical_key": "FEM",
+     "text": "amarela",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002060",
@@ -44011,19 +44926,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "selecionou",
-   "alternatives": [
-    "selecionado"
-   ],
+   "text": "selecionar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2918,
    "user_hint": "",
-   "description": "Passado do verbo \"select\" (selecionar).",
+   "description": "Escolher com cuidado dentro de um grupo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"select\" (selecionar)."
+    "pt-BR": "Escolher com cuidado dentro de um grupo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002091",
@@ -44072,7 +44987,7 @@
    "description": "Que não é duro.",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000263"
+    "en:000004172"
    ],
    "nativeExplain": {
     "pt-BR": "Que não é duro."
@@ -44153,9 +45068,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "surpreso",
-   "alternatives": [
-    "surpresa"
-   ],
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2921,
    "description": "Sentindo surpresa.",
@@ -44164,7 +45077,16 @@
    "nativeExplain": {
     "pt-BR": "Sentindo surpresa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002097:f:FEM",
+     "lemma_id": "en:000002097",
+     "grammatical_key": "FEM",
+     "text": "surpresa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002098",
@@ -44186,7 +45108,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"teach\" (ensinar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002145",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002099",
@@ -44256,7 +45181,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"accept\" (aceitar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001438",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002103",
@@ -44268,19 +45196,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "assuntos",
-   "alternatives": [
-    "negócios"
-   ],
+   "text": "assunto",
+   "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2925,
    "user_hint": "",
-   "description": "Plural de \"affair\": assuntos e negócios.",
+   "description": "Questão ou acontecimento.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"affair\": assuntos e negócios."
+    "pt-BR": "Questão ou acontecimento."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002105",
@@ -44340,19 +45268,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "confirmou",
-   "alternatives": [
-    "confirmado"
-   ],
+   "text": "confirmar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2927,
    "user_hint": "",
-   "description": "Passado do verbo \"confirm\" (confirmar).",
+   "description": "Dizer ou verificar que algo é certo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"confirm\" (confirmar)."
+    "pt-BR": "Dizer ou verificar que algo é certo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002112",
@@ -44600,9 +45528,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "advogado",
-   "alternatives": [
-    "advogada"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1593,
    "user_hint": "",
@@ -44611,7 +45537,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que dá orientação jurídica."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002124:f:FEM",
+     "lemma_id": "en:000002124",
+     "grammatical_key": "FEM",
+     "text": "advogada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002125",
@@ -44633,7 +45568,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"leg\" (perna)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002177",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002128",
@@ -44696,9 +45634,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "muçulmano",
-   "alternatives": [
-    "muçulmana"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1595,
    "user_hint": "",
@@ -44707,7 +45643,16 @@
    "nativeExplain": {
     "pt-BR": "Que segue o islamismo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002130:f:FEM",
+     "lemma_id": "en:000002130",
+     "grammatical_key": "FEM",
+     "text": "muçulmana",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002132",
@@ -44785,7 +45730,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"pull\" (puxar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001575",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002135",
@@ -44821,19 +45769,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "relações",
-   "alternatives": [
-    "parentes"
-   ],
+   "text": "relação",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2932,
    "user_hint": "",
-   "description": "Plural de \"relation\": ligações; também parentes.",
+   "description": "Forma como pessoas ou coisas se ligam.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"relation\": ligações; também parentes."
+    "pt-BR": "Forma como pessoas ou coisas se ligam."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002138",
@@ -44888,7 +45836,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"save\": salvar ou economizar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000730",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002140",
@@ -44972,7 +45923,10 @@
    "nativeExplain": {
     "pt-BR": "Calçados para os pés (mais de um)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003239",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002143",
@@ -45071,7 +46025,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"walk\" (andar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000862",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002152",
@@ -45137,9 +46094,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "candidato",
-   "alternatives": [
-    "candidata"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1603,
    "user_hint": "",
@@ -45148,7 +46103,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que tenta ser escolhida."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002155:f:FEM",
+     "lemma_id": "en:000002155",
+     "grammatical_key": "FEM",
+     "text": "candidata",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002156",
@@ -45388,9 +46352,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "italiano",
-   "alternatives": [
-    "italiana"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1610,
    "user_hint": "",
@@ -45399,7 +46361,16 @@
    "nativeExplain": {
     "pt-BR": "Da Itália; a língua italiana."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002173:f:FEM",
+     "lemma_id": "en:000002173",
+     "grammatical_key": "FEM",
+     "text": "italiana",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002175",
@@ -45683,7 +46654,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"record\" (gravar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000604",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002190",
@@ -45843,9 +46817,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "fraco",
-   "alternatives": [
-    "fraca"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 537,
    "user_hint": "",
@@ -45856,7 +46828,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que não é forte."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002199:f:FEM",
+     "lemma_id": "en:000002199",
+     "grammatical_key": "FEM",
+     "text": "fraca",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002201",
@@ -46393,19 +47374,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "revelou",
-   "alternatives": [
-    "revelado"
-   ],
+   "text": "revelar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2943,
    "user_hint": "",
-   "description": "Passado do verbo \"reveal\" (revelar).",
+   "description": "Tornar conhecido algo que era segredo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"reveal\" (revelar)."
+    "pt-BR": "Tornar conhecido algo que era segredo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002230",
@@ -46555,7 +47536,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"affect\" (afetar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002471",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002239",
@@ -46596,19 +47580,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "aprovado",
-   "alternatives": [
-    "aprovou"
-   ],
+   "text": "aprovar",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2946,
    "user_hint": "",
-   "description": "Passado do verbo \"approve\" (aprovar).",
+   "description": "Dar acordo oficial a algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"approve\" (aprovar)."
+    "pt-BR": "Dar acordo oficial a algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002242",
@@ -46683,7 +47667,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"arrest\" (prender)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002672",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002246",
@@ -46941,7 +47928,10 @@
    "nativeExplain": {
     "pt-BR": "Partes coloridas das plantas (mais de uma)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003125",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002261",
@@ -46995,7 +47985,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"lady\" (senhora)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001160",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002263",
@@ -47041,7 +48034,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"light\" (luz)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000449",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002266",
@@ -47145,17 +48141,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "requisitos",
+   "text": "requisito",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2957,
    "user_hint": "",
-   "description": "Plural de \"requirement\": o que é exigido.",
+   "description": "Algo que é necessário.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"requirement\": o que é exigido."
+    "pt-BR": "Algo que é necessário."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002272",
@@ -47167,17 +48165,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "moradores",
+   "text": "morador",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2958,
    "user_hint": "",
-   "description": "Plural de \"resident\": quem mora num lugar.",
+   "description": "Pessoa que mora num lugar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"resident\": quem mora num lugar."
+    "pt-BR": "Pessoa que mora num lugar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002273",
@@ -47221,7 +48221,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"sit\" (sentar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001320",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002276",
@@ -47627,19 +48630,22 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "coletou",
+   "text": "juntar",
    "alternatives": [
-    "recolhido"
+    "coletar",
+    "colecionar"
    ],
    "study_tier": "herdado",
    "study_priority": 2962,
    "user_hint": "",
-   "description": "Passado do verbo \"collect\" (coletar).",
+   "description": "Reunir coisas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"collect\" (coletar)."
+    "pt-BR": "Reunir coisas."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002297",
@@ -47746,19 +48752,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "eleito",
-   "alternatives": [
-    "elegeu"
-   ],
+   "text": "eleger",
+   "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2965,
    "user_hint": "",
-   "description": "Passado do verbo \"elect\" (eleger).",
+   "description": "Escolher alguém por votação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"elect\" (eleger)."
+    "pt-BR": "Escolher alguém por votação."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002304",
@@ -47848,7 +48854,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"forget\" (esquecer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000895",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002312",
@@ -47916,7 +48925,8 @@
    "nativeExplain": {
     "pt-BR": "Mãe (informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002316",
@@ -48039,7 +49049,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"notice\" (notar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001312",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002321",
@@ -48137,7 +49150,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"score\": marcar pontos ou gols."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001540",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002327",
@@ -48310,9 +49326,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "preocupado",
-   "alternatives": [
-    "preocupada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 559,
    "description": "Inquieto, com receio de algo.",
@@ -48321,7 +49335,16 @@
    "nativeExplain": {
     "pt-BR": "Inquieto, com receio de algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002337:f:FEM",
+     "lemma_id": "en:000002337",
+     "grammatical_key": "FEM",
+     "text": "preocupada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002338",
@@ -48361,9 +49384,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "campeão",
-   "alternatives": [
-    "campeã"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 561,
    "user_hint": "",
@@ -48372,7 +49393,16 @@
    "nativeExplain": {
     "pt-BR": "O vencedor de uma competição."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002342:f:FEM",
+     "lemma_id": "en:000002342",
+     "grammatical_key": "FEM",
+     "text": "campeã",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002344",
@@ -48447,7 +49477,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"deliver\" (entregar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002683",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002348",
@@ -48460,9 +49493,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "editor",
-   "alternatives": [
-    "editora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1665,
    "user_hint": "",
@@ -48471,7 +49502,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que corrige e prepara textos ou vídeos."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002348:f:FEM",
+     "lemma_id": "en:000002348",
+     "grammatical_key": "FEM",
+     "text": "editora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002349",
@@ -48596,9 +49636,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "prefeito",
-   "alternatives": [
-    "prefeita"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1670,
    "user_hint": "",
@@ -48607,7 +49645,16 @@
    "nativeExplain": {
     "pt-BR": "O líder de uma cidade."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002357:f:FEM",
+     "lemma_id": "en:000002357",
+     "grammatical_key": "FEM",
+     "text": "prefeita",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002358",
@@ -48744,7 +49791,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"remain\" (permanecer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001538",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002365",
@@ -48888,7 +49938,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"talk\" (falar, conversar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000355",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002372",
@@ -49053,7 +50106,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"vote\" (votar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000792",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002384",
@@ -49220,7 +50276,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"choose\", como em \"I have chosen\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001262",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000002393",
@@ -49341,7 +50400,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"destroy\" (destruir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002845",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002399",
@@ -49633,19 +50695,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "referiu-se",
+   "text": "referir-se a",
    "alternatives": [
-    "encaminhado"
+    "mencionar"
    ],
    "study_tier": "herdado",
    "study_priority": 2981,
    "user_hint": "",
-   "description": "Passado do verbo \"refer\": referir-se.",
+   "description": "Falar de algo ou mencioná-lo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"refer\": referir-se."
+    "pt-BR": "Falar de algo ou mencioná-lo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002422",
@@ -49735,7 +50799,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"speak\" (falar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000973",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002429",
@@ -49936,7 +51003,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"direct\": dirigir ou orientar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001268",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002442",
@@ -50450,17 +51520,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "nomeado",
+   "text": "nomear",
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2989,
    "user_hint": "",
-   "description": "Passado do verbo \"appoint\": nomear.",
+   "description": "Escolher alguém oficialmente para um cargo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"appoint\": nomear."
+    "pt-BR": "Escolher alguém oficialmente para um cargo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002473",
@@ -50668,17 +51740,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "circunstâncias",
+   "text": "circunstância",
    "alternatives": [],
    "study_tier": "intermediário",
    "study_priority": 2990,
    "user_hint": "",
-   "description": "Plural de \"circumstance\": situações.",
+   "description": "Condição que envolve um fato.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"circumstance\": situações."
+    "pt-BR": "Condição que envolve um fato."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002485",
@@ -50846,9 +51920,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "vazio",
-   "alternatives": [
-    "vazia"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 580,
    "description": "Sem nada dentro.",
@@ -50859,7 +51931,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Sem nada dentro."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002494:f:FEM",
+     "lemma_id": "en:000002494",
+     "grammatical_key": "FEM",
+     "text": "vazia",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002495",
@@ -50884,7 +51965,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"enjoy\": aproveitar, gostar de."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000820",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002496",
@@ -50906,7 +51990,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"explain\" (explicar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001330",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002498",
@@ -51089,7 +52176,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"realize\" (perceber)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001537",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002512",
@@ -51240,7 +52330,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"tool\" (ferramenta)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002664",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002523",
@@ -51666,17 +52759,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "instituições",
+   "text": "instituição",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 2998,
    "user_hint": "",
-   "description": "Plural de \"institution\": instituições.",
+   "description": "Grande organização, como escola ou banco.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"institution\": instituições."
+    "pt-BR": "Grande organização, como escola ou banco."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002547",
@@ -51900,9 +52995,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "senador",
-   "alternatives": [
-    "senadora"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1752,
    "user_hint": "",
@@ -51911,7 +53004,16 @@
    "nativeExplain": {
     "pt-BR": "Membro do senado."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002559:f:FEM",
+     "lemma_id": "en:000002559",
+     "grammatical_key": "FEM",
+     "text": "senadora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002560",
@@ -51970,7 +53072,10 @@
    "nativeExplain": {
     "pt-BR": "Os dentes (mais de um dente)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003214",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002564",
@@ -51994,7 +53099,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"understand\" (entender)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000412",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002565",
@@ -52626,7 +53734,8 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"occur\" (ocorrer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002596",
@@ -52889,7 +53998,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"stand\" (ficar de pé)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000731",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002607",
@@ -53342,17 +54454,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "definido",
+   "text": "definir",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3011,
    "user_hint": "",
-   "description": "Passado do verbo \"define\" (definir).",
+   "description": "Dizer exatamente o que algo significa.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"define\" (definir)."
+    "pt-BR": "Dizer exatamente o que algo significa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002630",
@@ -53689,7 +54803,8 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"lay\" (pôr, colocar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002647",
@@ -54242,7 +55357,10 @@
    "nativeExplain": {
     "pt-BR": "Passado simples do verbo \"choose\" (escolher)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001262",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002679",
@@ -54335,17 +55453,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "declarou",
+   "text": "declarar",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3020,
    "user_hint": "",
-   "description": "Passado do verbo \"declare\" (declarar).",
+   "description": "Dizer algo de forma oficial e clara.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"declare\" (declarar)."
+    "pt-BR": "Dizer algo de forma oficial e clara."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002683",
@@ -54433,9 +55553,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sujo",
-   "alternatives": [
-    "suja"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 600,
    "description": "Que não está limpo.",
@@ -54446,7 +55564,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Que não está limpo."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002686:f:FEM",
+     "lemma_id": "en:000002686",
+     "grammatical_key": "FEM",
+     "text": "suja",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002688",
@@ -54458,17 +55585,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "ganhou (por mérito)",
+   "text": "ganhar",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3022,
    "user_hint": "",
-   "description": "Passado do verbo \"earn\": ganhar com esforço.",
+   "description": "Receber dinheiro pelo trabalho.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"earn\": ganhar com esforço."
+    "pt-BR": "Receber dinheiro pelo trabalho."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002689",
@@ -54596,8 +55725,10 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "indo para",
-   "alternatives": [],
+   "text": "dirigir-se a",
+   "alternatives": [
+    "ir para"
+   ],
    "study_tier": "herdado",
    "study_priority": 3023,
    "user_hint": "",
@@ -54956,7 +56087,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"replace\" (substituir)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002554",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002715",
@@ -55483,7 +56617,10 @@
    "nativeExplain": {
     "pt-BR": "Unidades de temperatura ou ângulo (mais de uma)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001183",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002746",
@@ -55507,7 +56644,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"drive\", como em \"I have driven\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000739",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000002747",
@@ -55730,17 +56870,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "políticos",
+   "text": "político",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3036,
    "user_hint": "",
-   "description": "Plural de \"politician\" (político).",
+   "description": "Pessoa que trabalha com política.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"politician\" (político)."
+    "pt-BR": "Pessoa que trabalha com política."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002763",
@@ -55804,17 +56946,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "recusou",
+   "text": "recusar",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3037,
    "user_hint": "",
-   "description": "Passado do verbo \"refuse\" (recusar).",
+   "description": "Dizer não a algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"refuse\" (recusar)."
+    "pt-BR": "Dizer não a algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002767",
@@ -55929,9 +57073,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "molhado",
-   "alternatives": [
-    "molhada"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 613,
    "description": "Coberto de água.",
@@ -55942,7 +57084,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Coberto de água."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002772:f:FEM",
+     "lemma_id": "en:000002772",
+     "grammatical_key": "FEM",
+     "text": "molhada",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002773",
@@ -56221,17 +57372,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "depende",
+   "text": "depender",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3038,
    "user_hint": "",
-   "description": "Forma de \"depend\" na 3ª pessoa, como em \"it depends\".",
+   "description": "Variar conforme algo (\"depende\").",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Forma de \"depend\" na 3ª pessoa, como em \"it depends\"."
+    "pt-BR": "Variar conforme algo (\"depende\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002788",
@@ -56253,7 +57406,10 @@
    "nativeExplain": {
     "pt-BR": "Particípio de \"draw\" (desenhar, puxar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001593",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "pt-BR:en:000002792",
@@ -56568,7 +57724,8 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"pound\" (libra, em dinheiro ou peso)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002808",
@@ -56625,9 +57782,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cru",
-   "alternatives": [
-    "crua"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 620,
    "user_hint": "",
@@ -56636,7 +57791,16 @@
    "nativeExplain": {
     "pt-BR": "Que não foi cozido."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002811:f:FEM",
+     "lemma_id": "en:000002811",
+     "grammatical_key": "FEM",
+     "text": "crua",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002812",
@@ -56821,7 +57985,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"stay\" (ficar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000455",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002823",
@@ -56939,7 +58106,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"attack\" (atacar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000004177",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002833",
@@ -57010,9 +58180,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cego",
-   "alternatives": [
-    "cega"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1879,
    "description": "Que não consegue enxergar.",
@@ -57021,7 +58189,16 @@
    "nativeExplain": {
     "pt-BR": "Que não consegue enxergar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002837:f:FEM",
+     "lemma_id": "en:000002837",
+     "grammatical_key": "FEM",
+     "text": "cega",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002838",
@@ -57207,9 +58384,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "noivo",
-   "alternatives": [
-    "noiva"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1885,
    "user_hint": "",
@@ -57218,7 +58393,16 @@
    "nativeExplain": {
     "pt-BR": "Que prometeu casar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002848:f:FEM",
+     "lemma_id": "en:000002848",
+     "grammatical_key": "FEM",
+     "text": "noiva",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002850",
@@ -57242,7 +58426,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"express\" (expressar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002072",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002851",
@@ -57547,7 +58734,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"recognize\" (reconhecer)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002865",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002867",
@@ -57571,7 +58761,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"register\" (registrar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002514",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002868",
@@ -57641,9 +58834,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cantor",
-   "alternatives": [
-    "cantora"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 625,
    "user_hint": "",
@@ -57652,7 +58843,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que canta."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002873:f:FEM",
+     "lemma_id": "en:000002873",
+     "grammatical_key": "FEM",
+     "text": "cantora",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002874",
@@ -57710,17 +58910,19 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "sofreu",
+   "text": "sofrer",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3054,
    "user_hint": "",
-   "description": "Passado do verbo \"suffer\" (sofrer).",
+   "description": "Sentir dor ou passar por dificuldades.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passado do verbo \"suffer\" (sofrer)."
+    "pt-BR": "Sentir dor ou passar por dificuldades."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002877",
@@ -57755,9 +58957,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alto",
-   "alternatives": [
-    "alta"
-   ],
+   "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 626,
    "user_hint": "",
@@ -57768,7 +58968,16 @@
    ],
    "nativeExplain": {
     "pt-BR": "Com altura acima do normal."
-   }
+   },
+   "forms": [
+    {
+     "form_id": "en:000002878:f:FEM",
+     "lemma_id": "en:000002878",
+     "grammatical_key": "FEM",
+     "text": "alta",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002880",
@@ -58074,9 +59283,7 @@
    "nativeExplain": {
     "pt-BR": "Vencer alguém."
    },
-   "antonyms": [
-    "en:000001889"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000002897",
@@ -58231,7 +59438,8 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"feed\": alimentar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000002904",
@@ -58455,7 +59663,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"protect\" (proteger)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001249",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002920",
@@ -58519,9 +59730,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "suspeito",
-   "alternatives": [
-    "suspeita"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1913,
    "user_hint": "",
@@ -58530,7 +59739,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que se acredita ter cometido um crime."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002924:f:FEM",
+     "lemma_id": "en:000002924",
+     "grammatical_key": "FEM",
+     "text": "suspeita",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002925",
@@ -58566,17 +59784,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "técnicas",
+   "text": "técnica",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3067,
    "user_hint": "",
-   "description": "Plural de \"technique\" (técnica).",
+   "description": "Maneira especial de fazer algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"technique\" (técnica)."
+    "pt-BR": "Maneira especial de fazer algo."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002927",
@@ -58752,17 +59972,19 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "aspectos",
+   "text": "aspecto",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3070,
    "user_hint": "",
-   "description": "Plural de \"aspect\" (aspecto).",
+   "description": "Um lado de uma situação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"aspect\" (aspecto)."
+    "pt-BR": "Um lado de uma situação."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002938",
@@ -58935,7 +60157,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"egg\" (ovo)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003122",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002946",
@@ -58953,9 +60178,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "funcionário",
-   "alternatives": [
-    "funcionária"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1922,
    "description": "Pessoa que trabalha para uma empresa.",
@@ -58964,7 +60187,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que trabalha para uma empresa."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002946:f:FEM",
+     "lemma_id": "en:000002946",
+     "grammatical_key": "FEM",
+     "text": "funcionária",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002948",
@@ -58977,9 +60209,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "engenheiro",
-   "alternatives": [
-    "engenheira"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1923,
    "user_hint": "",
@@ -58988,7 +60218,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que projeta máquinas ou prédios."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002948:f:FEM",
+     "lemma_id": "en:000002948",
+     "grammatical_key": "FEM",
+     "text": "engenheira",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002949",
@@ -59061,7 +60300,10 @@
    "nativeExplain": {
     "pt-BR": "As partes móveis da mão (mais de uma)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003223",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002954",
@@ -59085,7 +60327,10 @@
    "nativeExplain": {
     "pt-BR": "Passado de \"found\" (criar uma organização): \"The school was founded in 1900\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000189",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002956",
@@ -59144,9 +60389,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "grego",
-   "alternatives": [
-    "grega"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1927,
    "user_hint": "",
@@ -59155,7 +60398,16 @@
    "nativeExplain": {
     "pt-BR": "Da Grécia; a língua grega."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000002958:f:FEM",
+     "lemma_id": "en:000002958",
+     "grammatical_key": "FEM",
+     "text": "grega",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000002960",
@@ -59234,7 +60486,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"mark\": marcar ou corrigir."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000918",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002967",
@@ -59393,19 +60648,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "regulamentos",
+   "text": "regulamento",
    "alternatives": [
-    "normas"
+    "regra"
    ],
    "study_tier": "herdado",
    "study_priority": 3077,
    "user_hint": "",
-   "description": "Plural de \"regulation\": regras oficiais.",
+   "description": "Regra oficial.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Plural de \"regulation\": regras oficiais."
+    "pt-BR": "Regra oficial."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "pt-BR:en:000002977",
@@ -59493,7 +60750,10 @@
    "nativeExplain": {
     "pt-BR": "Plural de \"scientist\" (cientista)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003405",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000002982",
@@ -59625,7 +60885,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"visit\" (visitar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000949",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002991",
@@ -59693,7 +60956,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"achieve\" (alcançar)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002568",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002995",
@@ -59717,7 +60983,10 @@
    "nativeExplain": {
     "pt-BR": "Passado do verbo \"admit\": admitir ou aceitar numa escola."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002528",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000002996",
@@ -62008,9 +63277,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "nosso",
-   "alternatives": [
-    "nossa"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1960,
    "description": "O que pertence a nós.",
@@ -62019,7 +63286,16 @@
    "nativeExplain": {
     "pt-BR": "O que pertence a nós."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000003109:f:FEM",
+     "lemma_id": "en:000003109",
+     "grammatical_key": "FEM",
+     "text": "nossa",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000003110",
@@ -62426,7 +63702,7 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000001596"
+    "en:000004182"
    ],
    "nativeExplain": {
     "pt-BR": "Por onde se sai de um lugar."
@@ -63001,9 +64277,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "passageiro",
-   "alternatives": [
-    "passageira"
-   ],
+   "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1980,
    "description": "Pessoa que viaja num veículo sem dirigir.",
@@ -63012,7 +64286,16 @@
    "nativeExplain": {
     "pt-BR": "Pessoa que viaja num veículo sem dirigir."
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": [
+    {
+     "form_id": "en:000003143:f:FEM",
+     "lemma_id": "en:000003143",
+     "grammatical_key": "FEM",
+     "text": "passageira",
+     "study_tier": "standard"
+    }
+   ]
   },
   {
    "id": "pt-BR:en:000003144",
@@ -63362,7 +64645,8 @@
    "nativeExplain": {
     "pt-BR": "Prédio para peças de teatro ou filmes."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003156",
@@ -64553,7 +65837,10 @@
     "pt-BR": "Passado de \"look\": voltou os olhos para algo."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000145",
+   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000796",
@@ -64641,7 +65928,10 @@
     "pt-BR": "Plural de \"way\": métodos ou modos de fazer algo."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000099",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000934",
@@ -64707,7 +65997,10 @@
     "pt-BR": "Plural de \"boy\": crianças do sexo masculino."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000664",
+   "inflection_key": "PL"
   },
   {
    "id": "pt-BR:en:000000958",
@@ -67256,8 +68549,7 @@
    },
    "level": "A1",
    "antonyms": [
-    "en:000000207",
-    "en:000000394"
+    "en:000000207"
    ]
   },
   {
@@ -67691,9 +68983,7 @@
     "pt-BR": "Sentir que precisa comer."
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003217"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000003217",
@@ -67715,9 +69005,7 @@
     "pt-BR": "Sentir que precisa beber."
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003216"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000003218",
@@ -72541,7 +73829,8 @@
     "pt-BR": "Bolsa grande carregada nas costas em viagens."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003437",
@@ -76896,7 +78185,7 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "When the sun or moon is hidden by a shadow.",
-   "text": "eclipse",
+   "text": "eclipse solar",
    "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -76904,14 +78193,14 @@
    "study_priority": 3163,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Quando o sol ou a lua fica escondido por uma sombra.",
+   "description": "Quando a Lua encobre o Sol.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Quando o sol ou a lua fica escondido por uma sombra."
+    "pt-BR": "Quando a Lua encobre o Sol."
    },
    "level": "B2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000003635",
@@ -82500,9 +83789,7 @@
     "pt-BR": "Pessoa que segue alguém, sobretudo na internet."
    },
    "level": "C1",
-   "antonyms": [
-    "en:000001161"
-   ]
+   "antonyms": []
   },
   {
    "id": "pt-BR:en:000003888",
@@ -85155,7 +86442,8 @@
     "pt-BR": "Publicação periódica de pesquisas."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000004010",
@@ -86999,7 +88287,7 @@
    },
    "level": "B1",
    "antonyms": [
-    "en:000000814"
+    "en:000004177"
    ]
   },
   {
@@ -88581,7 +89869,8 @@
    "description": "Irmão que nasceu antes de você.",
    "nativeExplain": {
     "pt-BR": "Irmão que nasceu antes de você."
-   }
+   },
+   "core_status": "search_only"
   },
   {
    "kind": "word",
@@ -88606,7 +89895,8 @@
    "description": "Irmão que nasceu depois de você.",
    "nativeExplain": {
     "pt-BR": "Irmão que nasceu depois de você."
-   }
+   },
+   "core_status": "search_only"
   },
   {
    "kind": "word",
@@ -88631,7 +89921,8 @@
    "description": "Irmã que nasceu antes de você.",
    "nativeExplain": {
     "pt-BR": "Irmã que nasceu antes de você."
-   }
+   },
+   "core_status": "search_only"
   },
   {
    "kind": "word",
@@ -88656,7 +89947,8 @@
    "description": "Irmã que nasceu depois de você.",
    "nativeExplain": {
     "pt-BR": "Irmã que nasceu depois de você."
-   }
+   },
+   "core_status": "search_only"
   },
   {
    "kind": "word",
@@ -88732,6 +90024,519 @@
    "nativeExplain": {
     "pt-BR": "Filha do seu irmão ou da sua irmã."
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004170",
+   "english_id": "en:000004170",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "state-condition",
+   "study_priority": 243,
+   "description_en": "The condition someone or something is in.",
+   "text": "estado",
+   "alternatives": [
+    "condição"
+   ],
+   "description": "Condição em que alguém ou algo se encontra.",
+   "nativeExplain": {
+    "pt-BR": "Condição em que alguém ou algo se encontra."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004171",
+   "english_id": "en:000004171",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000001776"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "free-notbusy",
+   "study_priority": 243,
+   "description_en": "Not busy; having time.",
+   "text": "livre",
+   "alternatives": [
+    "desocupado"
+   ],
+   "description": "Sem compromisso; com tempo livre.",
+   "nativeExplain": {
+    "pt-BR": "Sem compromisso; com tempo livre."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004172",
+   "english_id": "en:000004172",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000002092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "hard-solid",
+   "study_priority": 243,
+   "description_en": "Firm and not soft to touch.",
+   "text": "duro",
+   "alternatives": [],
+   "description": "Firme, que não é mole ao toque.",
+   "nativeExplain": {
+    "pt-BR": "Firme, que não é mole ao toque."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004173",
+   "english_id": "en:000004173",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000422"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "present-now",
+   "study_priority": 243,
+   "description_en": "The time now.",
+   "text": "presente",
+   "alternatives": [],
+   "description": "O tempo de agora.",
+   "nativeExplain": {
+    "pt-BR": "O tempo de agora."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004174",
+   "english_id": "en:000004174",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sorry-feel",
+   "study_priority": 243,
+   "description_en": "Feeling sad for someone (\"I'm sorry to hear that\").",
+   "text": "com pena",
+   "alternatives": [
+    "sentir muito"
+   ],
+   "description": "Sentir tristeza pelo problema de alguém.",
+   "nativeExplain": {
+    "pt-BR": "Sentir tristeza pelo problema de alguém."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004175",
+   "english_id": "en:000004175",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000001800"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "lower-verb",
+   "study_priority": 243,
+   "description_en": "To move something down or make it less.",
+   "text": "abaixar",
+   "alternatives": [
+    "baixar"
+   ],
+   "description": "Pôr mais para baixo ou diminuir.",
+   "nativeExplain": {
+    "pt-BR": "Pôr mais para baixo ou diminuir."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004176",
+   "english_id": "en:000004176",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000814"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "defense",
+   "study_priority": 243,
+   "description_en": "Protecting yourself or something from attack.",
+   "text": "defesa",
+   "alternatives": [],
+   "description": "Ato de proteger-se contra um ataque.",
+   "nativeExplain": {
+    "pt-BR": "Ato de proteger-se contra um ataque."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004177",
+   "english_id": "en:000004177",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000004092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "attack-verb",
+   "study_priority": 243,
+   "description_en": "To try to hurt or defeat someone.",
+   "text": "atacar",
+   "alternatives": [],
+   "description": "Tentar ferir ou vencer alguém.",
+   "nativeExplain": {
+    "pt-BR": "Tentar ferir ou vencer alguém."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004178",
+   "english_id": "en:000004178",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rare-meat",
+   "study_priority": 243,
+   "description_en": "(Of meat) cooked only a little, still red inside.",
+   "text": "mal passado",
+   "alternatives": [],
+   "description": "(Carne) pouco cozida, ainda vermelha por dentro.",
+   "nativeExplain": {
+    "pt-BR": "(Carne) pouco cozida, ainda vermelha por dentro."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004179",
+   "english_id": "en:000004179",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rice-cooked",
+   "study_priority": 243,
+   "description_en": "Rice that has been cooked, eaten as food.",
+   "text": "arroz",
+   "alternatives": [],
+   "description": "Arroz cozido, servido como comida.",
+   "nativeExplain": {
+    "pt-BR": "Arroz cozido, servido como comida."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004180",
+   "english_id": "en:000004180",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "lunar-eclipse",
+   "study_priority": 243,
+   "description_en": "When the earth's shadow hides the moon.",
+   "text": "eclipse lunar",
+   "alternatives": [],
+   "description": "Quando a sombra da Terra encobre a Lua.",
+   "nativeExplain": {
+    "pt-BR": "Quando a sombra da Terra encobre a Lua."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004181",
+   "english_id": "en:000004181",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sound-adj",
+   "study_priority": 243,
+   "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
+   "text": "são",
+   "alternatives": [],
+   "description": "Sem ferimento nem dano (\"são e salvo\").",
+   "nativeExplain": {
+    "pt-BR": "Sem ferimento nem dano (\"são e salvo\")."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004182",
+   "english_id": "en:000004182",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000003123"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "entrance",
+   "study_priority": 243,
+   "description_en": "The way in.",
+   "text": "entrada",
+   "alternatives": [],
+   "description": "Lugar por onde se entra.",
+   "nativeExplain": {
+    "pt-BR": "Lugar por onde se entra."
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004183",
+   "english_id": "en:000004183",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (father's side).",
+   "text": "primo mais velho (filho do irmão do pai)",
+   "alternatives": [],
+   "description": "Um primo ou prima: primo mais velho (lado do pai).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: primo mais velho (lado do pai)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004184",
+   "english_id": "en:000004184",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (father's side).",
+   "text": "primo mais novo (filho do irmão do pai)",
+   "alternatives": [],
+   "description": "Um primo ou prima: primo mais novo (lado do pai).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: primo mais novo (lado do pai)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004185",
+   "english_id": "en:000004185",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (father's side).",
+   "text": "prima mais velha (filha do irmão do pai)",
+   "alternatives": [],
+   "description": "Um primo ou prima: prima mais velha (lado do pai).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: prima mais velha (lado do pai)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004186",
+   "english_id": "en:000004186",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (father's side).",
+   "text": "prima mais nova (filha do irmão do pai)",
+   "alternatives": [],
+   "description": "Um primo ou prima: prima mais nova (lado do pai).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: prima mais nova (lado do pai)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004187",
+   "english_id": "en:000004187",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (mother's side).",
+   "text": "primo mais velho (família da mãe ou tia paterna)",
+   "alternatives": [],
+   "description": "Um primo ou prima: primo mais velho (lado da mãe).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: primo mais velho (lado da mãe)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004188",
+   "english_id": "en:000004188",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (mother's side).",
+   "text": "primo mais novo (família da mãe ou tia paterna)",
+   "alternatives": [],
+   "description": "Um primo ou prima: primo mais novo (lado da mãe).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: primo mais novo (lado da mãe)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004189",
+   "english_id": "en:000004189",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (mother's side).",
+   "text": "prima mais velha (família da mãe ou tia paterna)",
+   "alternatives": [],
+   "description": "Um primo ou prima: prima mais velha (lado da mãe).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: prima mais velha (lado da mãe)."
+   },
+   "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "pt-BR:en:000004190",
+   "english_id": "en:000004190",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (mother's side).",
+   "text": "prima mais nova (família da mãe ou tia paterna)",
+   "alternatives": [],
+   "description": "Um primo ou prima: prima mais nova (lado da mãe).",
+   "nativeExplain": {
+    "pt-BR": "Um primo ou prima: prima mais nova (lado da mãe)."
+   },
+   "core_status": "search_only"
   }
  ]
 }

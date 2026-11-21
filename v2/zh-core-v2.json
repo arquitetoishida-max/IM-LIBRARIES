@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.5.0",
+ "version": "2.5.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -39,7 +39,8 @@
   "2.4.7: zh 叫 = chamar-se (named); latir = 吠.",
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
-  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a."
+  "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
  ],
  "entries": [
   {
@@ -227,7 +228,10 @@
    "nativeExplain": {
     "zh": "“be”的现在形式，和 he、she、it 连用。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000007",
@@ -529,7 +533,10 @@
    "description": "“be”的过去形式（was）。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000015",
@@ -643,7 +650,10 @@
    "nativeExplain": {
     "zh": "“be”的现在形式，和 you、we、they 连用。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000018",
@@ -1678,7 +1688,10 @@
    "nativeExplain": {
     "zh": "“have”和 he、she、it 连用的形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000018",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000046",
@@ -1866,7 +1879,10 @@
    "nativeExplain": {
     "zh": "“be”的过去形式（were）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000051",
@@ -1936,7 +1952,10 @@
    "nativeExplain": {
     "zh": "“have”的过去形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000018",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000053",
@@ -2204,7 +2223,10 @@
    "nativeExplain": {
     "zh": "“be”的过去分词（“我去过那里”）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000015",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000000061",
@@ -3583,7 +3605,10 @@
    "nativeExplain": {
     "zh": "“say”（说）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000130",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000099",
@@ -4019,7 +4044,7 @@
    "alternatives": [],
    "reading": "zuò le",
    "romanization": "zuò le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2474,
    "description": "“do”的过去形式。",
@@ -4028,7 +4053,9 @@
    "nativeExplain": {
     "zh": "“do”的过去形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000048",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000111",
@@ -4292,7 +4319,8 @@
    "nativeExplain": {
     "zh": "“go”的进行形式；“going to”表示将来。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000119",
@@ -4425,7 +4453,7 @@
    ],
    "reading": "zuò le",
    "romanization": "zuò le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2477,
    "user_hint": "",
@@ -4434,7 +4462,9 @@
    "nativeExplain": {
     "zh": "“make”（做）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000085",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000123",
@@ -4535,7 +4565,7 @@
    ],
    "reading": "dédào le",
    "romanization": "dédào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2478,
    "user_hint": "",
@@ -4544,7 +4574,9 @@
    "nativeExplain": {
     "zh": "“get”（得到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000059",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000126",
@@ -5513,7 +5545,7 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2484,
    "description": "“be”和 I 连用的形式。",
@@ -5522,7 +5554,9 @@
    "nativeExplain": {
     "zh": "“be”和 I 连用的形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000015",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000154",
@@ -5635,9 +5669,9 @@
    "study_priority": 2485,
    "nativeExplain": {
     "pt-BR": "dois sentidos: estado (região) e estado (condição)",
-    "zh": "国家或其下的行政区；也指状态。"
+    "zh": "国家里有自己政府的一级行政区。"
    },
-   "description": "国家或其下的行政区；也指状态。",
+   "description": "国家里有自己政府的一级行政区。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -6098,7 +6132,7 @@
    "alternatives": [],
    "reading": "zuò",
    "romanization": "zuò",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2487,
    "description": "“do”和 he、she、it 连用的形式。",
@@ -6107,7 +6141,9 @@
    "nativeExplain": {
     "zh": "“do”和 he、she、it 连用的形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000048",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000170",
@@ -6737,7 +6773,7 @@
    "alternatives": [],
    "reading": "zhǎodào le",
    "romanization": "zhǎodào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2492,
    "user_hint": "",
@@ -6746,7 +6782,9 @@
    "nativeExplain": {
     "zh": "“find”（找到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000162",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000190",
@@ -7268,9 +7306,7 @@
    "user_hint": "",
    "description": "不花钱；也指不受控制，自由。",
    "novrev_status": "reviewed",
-   "antonyms": [
-    "en:000001776"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "zh": "不花钱；也指不受控制，自由。"
    }
@@ -8166,7 +8202,10 @@
    "nativeExplain": {
     "zh": "“woman”（女人）的不规则复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000435",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000237",
@@ -8909,7 +8948,10 @@
    "nativeExplain": {
     "zh": "“tell”（告诉）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000267",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000259",
@@ -9078,7 +9120,7 @@
    "description": "困难；也指硬，不软。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000002092"
+    "en:000000492"
    ],
    "nativeExplain": {
     "zh": "困难；也指硬，不软。"
@@ -9345,7 +9387,10 @@
    "nativeExplain": {
     "zh": "“see”（看见）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000000273",
@@ -9593,7 +9638,10 @@
    "nativeExplain": {
     "zh": "“man”（男人）的不规则复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000142",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000280",
@@ -9682,7 +9730,10 @@
    "nativeExplain": {
     "zh": "“take”（拿，带走）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000283",
@@ -9740,7 +9791,10 @@
    "nativeExplain": {
     "zh": "“come”（来）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000154",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000285",
@@ -9956,7 +10010,10 @@
    "nativeExplain": {
     "zh": "“go”（去）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000096",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000291",
@@ -10528,7 +10585,10 @@
    "nativeExplain": {
     "zh": "“child”的复数：年幼的人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000481",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000308",
@@ -11355,7 +11415,7 @@
    "alternatives": [],
    "reading": "yìsi shì",
    "romanization": "yìsi shì",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2502,
    "user_hint": "",
@@ -11364,7 +11424,9 @@
    "nativeExplain": {
     "zh": "“mean”的第三人称单数形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000264",
+   "inflection_key": "PRES.3SG"
   },
   {
    "id": "zh:en:000000338",
@@ -11569,7 +11631,10 @@
    "nativeExplain": {
     "zh": "“friend”（朋友）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000405",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000344",
@@ -12055,7 +12120,8 @@
    "nativeExplain": {
     "zh": "“give”的过去分词；也指已知的、既定的。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000359",
@@ -13203,9 +13269,7 @@
    "nativeExplain": {
     "zh": "不正确。"
    },
-   "antonyms": [
-    "en:000003194"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000000395",
@@ -13966,7 +14030,7 @@
    },
    "antonyms": [
     "en:000000448",
-    "en:000000656"
+    "en:000004173"
    ]
   },
   {
@@ -14591,7 +14655,10 @@
    "nativeExplain": {
     "zh": "“see”（看见）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000083",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000443",
@@ -15064,7 +15131,10 @@
    "nativeExplain": {
     "zh": "“take”（拿）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000124",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000000457",
@@ -15703,7 +15773,10 @@
    "nativeExplain": {
     "zh": "“minute”（分钟）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001090",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000475",
@@ -16221,7 +16294,8 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000874"
+    "en:000000874",
+    "en:000000263"
    ],
    "nativeExplain": {
     "zh": "不难。"
@@ -16725,7 +16799,10 @@
    "nativeExplain": {
     "zh": "“kid”的复数；口语中指孩子。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001073",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000511",
@@ -17100,7 +17177,7 @@
    "alternatives": [],
    "reading": "tīngdào le",
    "romanization": "tīngdào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2585,
    "user_hint": "",
@@ -17109,7 +17186,9 @@
    "nativeExplain": {
     "zh": "“hear”（听到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000568",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000524",
@@ -17664,7 +17743,7 @@
    "alternatives": [],
    "reading": "gěi le",
    "romanization": "gěi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2587,
    "user_hint": "",
@@ -17673,7 +17752,9 @@
    "nativeExplain": {
     "zh": "“give”（给）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000177",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000541",
@@ -18032,7 +18113,7 @@
    ],
    "reading": "wòzhù le",
    "romanization": "ná zhe le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2589,
    "user_hint": "",
@@ -18041,7 +18122,9 @@
    "nativeExplain": {
     "zh": "“hold”（拿着）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000632",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000553",
@@ -18834,7 +18917,7 @@
    "alternatives": [],
    "reading": "shā le",
    "romanization": "shā le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2590,
    "user_hint": "",
@@ -18843,7 +18926,9 @@
    "nativeExplain": {
     "zh": "“kill”（杀）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000824",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000587",
@@ -19207,7 +19292,10 @@
    "nativeExplain": {
     "zh": "用来看东西的两只器官。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000986",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000599",
@@ -19607,7 +19695,10 @@
    "nativeExplain": {
     "zh": "“die”（死）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000873",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000611",
@@ -19674,7 +19765,10 @@
    "nativeExplain": {
     "zh": "“happen”的过去形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000631",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000613",
@@ -19700,7 +19794,10 @@
    "nativeExplain": {
     "zh": "“know”（知道）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000082",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000614",
@@ -20025,7 +20122,10 @@
    "nativeExplain": {
     "zh": "“win”（赢）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000393",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000625",
@@ -20220,12 +20320,12 @@
     "actions"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "拿着",
+   "text": "拿",
    "alternatives": [
     "握"
    ],
-   "reading": "ná zhe",
-   "romanization": "ná zhe",
+   "reading": "ná",
+   "romanization": "ná",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 192,
    "description": "拿在手里。",
@@ -20717,7 +20817,9 @@
    "nativeExplain": {
     "zh": "“high”（高）的比较级。"
    },
-   "antonyms": []
+   "antonyms": [
+    "en:000000785"
+   ]
   },
   {
    "id": "zh:en:000000652",
@@ -20866,9 +20968,7 @@
    "nativeExplain": {
     "zh": "赠送给别人的礼物；也指现在。"
    },
-   "antonyms": [
-    "en:000000422"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000000657",
@@ -20909,7 +21009,7 @@
    "kind": "word",
    "description_en": "Feeling bad about something; used to apologize.",
    "level": "A2",
-   "part_of_speech": "adj",
+   "part_of_speech": "int",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "vcu14_rank": 173,
@@ -21505,7 +21605,10 @@
    "nativeExplain": {
     "zh": "“add”（加）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000812",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000679",
@@ -21628,7 +21731,10 @@
    "nativeExplain": {
     "zh": "“bring”（带来）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000517",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000683",
@@ -22033,7 +22139,10 @@
    "nativeExplain": {
     "zh": "“receive”（收到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001461",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000697",
@@ -22093,7 +22202,10 @@
    "nativeExplain": {
     "zh": "“send”（寄，发）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000790",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000699",
@@ -22147,7 +22259,10 @@
    "nativeExplain": {
     "zh": "“try”（试）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000289",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000702",
@@ -22197,7 +22312,7 @@
    ],
    "reading": "chéngwéi le",
    "romanization": "chéngwéi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2653,
    "user_hint": "",
@@ -22206,7 +22321,9 @@
    "nativeExplain": {
     "zh": "“become”（成为）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000367",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000705",
@@ -22719,12 +22836,13 @@
     "actions"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "跟着",
+   "text": "跟",
    "alternatives": [
-    "跟随"
+    "跟随",
+    "跟着"
    ],
-   "reading": "gēnzhe",
-   "romanization": "gēnzhe",
+   "reading": "gēn",
+   "romanization": "gēn",
    "study_tier": "inicial",
    "study_priority": 225,
    "description": "跟在某人或某物后面。",
@@ -23397,7 +23515,7 @@
    "alternatives": [],
    "reading": "gǎnjué dào le",
    "romanization": "gǎnjué dào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2656,
    "user_hint": "",
@@ -23406,7 +23524,9 @@
    "nativeExplain": {
     "zh": "“feel”（感觉）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000193",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000746",
@@ -23969,7 +24089,7 @@
    "alternatives": [],
    "reading": "fù le",
    "romanization": "fù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2659,
    "user_hint": "",
@@ -23978,7 +24098,9 @@
    "nativeExplain": {
     "zh": "“pay”（付）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000376",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000766",
@@ -24498,7 +24620,7 @@
    ],
    "reading": "dàilǐng le",
    "romanization": "dàilǐng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2664,
    "user_hint": "",
@@ -24507,7 +24629,9 @@
    "nativeExplain": {
     "zh": "“lead”（带领）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000614",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000785",
@@ -24531,7 +24655,7 @@
    "description": "“low”（低）的比较级。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000001800"
+    "en:000000651"
    ],
    "nativeExplain": {
     "zh": "“low”（低）的比较级。"
@@ -25380,7 +25504,7 @@
     "zh": "对某人的暴力行为。"
    },
    "antonyms": [
-    "en:000004092"
+    "en:000004176"
    ]
   },
   {
@@ -25482,7 +25606,10 @@
    "nativeExplain": {
     "zh": "“decide”（决定）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001679",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000819",
@@ -25702,7 +25829,10 @@
    "nativeExplain": {
     "zh": "“meet”（见面）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000524",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000826",
@@ -25945,7 +26075,10 @@
    "nativeExplain": {
     "zh": "“write”（写）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000977",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000000834",
@@ -26032,7 +26165,10 @@
    "nativeExplain": {
     "zh": "“consider”（认为，考虑）的过去式和过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001067",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000837",
@@ -26449,7 +26585,8 @@
    "user_hint": "",
    "antonyms": [
     "en:000000162",
-    "en:000000393"
+    "en:000000393",
+    "en:000001600"
    ],
    "nativeExplain": {
     "zh": "不再拥有某物；也指输掉。"
@@ -26907,7 +27044,10 @@
    "nativeExplain": {
     "zh": "“begin”（开始）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001484",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000866",
@@ -26933,7 +27073,10 @@
    "nativeExplain": {
     "zh": "“build”（建造）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000932",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000867",
@@ -27277,9 +27420,7 @@
    "nativeExplain": {
     "zh": "失去某物。"
    },
-   "antonyms": [
-    "en:000001600"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000000879",
@@ -27416,21 +27557,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "出版了",
-   "alternatives": [
-    "发表了"
-   ],
-   "reading": "chūbǎn le",
-   "romanization": "chūbǎn le",
+   "text": "出版",
+   "alternatives": [],
+   "reading": "chūbǎn",
+   "romanization": "chūbǎn",
    "study_tier": "após reconciliar o sentido",
    "study_priority": 2722,
    "user_hint": "",
-   "description": "“publish”（出版）的过去式。",
+   "description": "把书等印出来让公众看到。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“publish”（出版）的过去式。"
+    "zh": "把书等印出来让公众看到。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000000885",
@@ -27876,7 +28017,8 @@
    "nativeExplain": {
     "zh": "可以，行；表示同意。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000000901",
@@ -27973,13 +28115,13 @@
    "study_tier": "cedo",
    "study_priority": 1116,
    "user_hint": "",
-   "description": "礼貌地称呼一位男士。",
+   "description": "对男士（如顾客）的礼貌称呼。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "礼貌地称呼一位男士。"
+    "zh": "对男士（如顾客）的礼貌称呼。"
    },
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "zh:en:000000905",
@@ -28193,7 +28335,7 @@
    ],
    "reading": "chuàngzào le",
    "romanization": "chuàngzào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2731,
    "user_hint": "",
@@ -28202,7 +28344,9 @@
    "nativeExplain": {
     "zh": "“create”（创造）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000982",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000914",
@@ -29231,7 +29375,7 @@
    "alternatives": [],
    "reading": "xiě le",
    "romanization": "xiě le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2734,
    "user_hint": "",
@@ -29240,7 +29384,9 @@
    "nativeExplain": {
     "zh": "“write”（写）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000977",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000954",
@@ -29969,8 +30115,7 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000000687",
-    "en:000001421"
+    "en:000000687"
    ]
   },
   {
@@ -30368,7 +30513,7 @@
    ],
    "reading": "huā le",
    "romanization": "huā le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2737,
    "user_hint": "",
@@ -30377,7 +30522,9 @@
    "nativeExplain": {
     "zh": "“spend”（花，度过）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001118",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000998",
@@ -31120,7 +31267,7 @@
    ],
    "reading": "dòng le",
    "romanization": "dòng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2741,
    "user_hint": "",
@@ -31129,7 +31276,9 @@
    "nativeExplain": {
     "zh": "“move”（动，搬）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000431",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001022",
@@ -31759,7 +31908,7 @@
    "alternatives": [],
    "reading": "miáoshù le",
    "romanization": "miáoshù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2745,
    "user_hint": "",
@@ -31768,7 +31917,9 @@
    "nativeExplain": {
     "zh": "“describe”（描述）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002632",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001043",
@@ -32087,7 +32238,7 @@
    ],
    "reading": "bǎoliú le",
    "romanization": "bǎoliú le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2747,
    "user_hint": "",
@@ -32096,7 +32247,9 @@
    "nativeExplain": {
     "zh": "“keep”（保持，保留）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000198",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001055",
@@ -32337,7 +32490,7 @@
    ],
    "reading": "bàodào le",
    "romanization": "bàodào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2750,
    "user_hint": "",
@@ -32346,7 +32499,9 @@
    "nativeExplain": {
     "zh": "“report”（报告，报道）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001318",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001063",
@@ -32662,7 +32817,10 @@
    "nativeExplain": {
     "zh": "脚的复数，指不止一只脚。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001391",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000001073",
@@ -33308,7 +33466,10 @@
    "nativeExplain": {
     "zh": "“study”的复数：学习或研究。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000534",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000001097",
@@ -33826,7 +33987,7 @@
    ],
    "reading": "mài le",
    "romanization": "mài le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2756,
    "user_hint": "",
@@ -33835,7 +33996,9 @@
    "nativeExplain": {
     "zh": "“sell”（卖）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001094",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001117",
@@ -33859,7 +34022,8 @@
    "nativeExplain": {
     "zh": "“sound”的第三人称单数形式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001118",
@@ -34004,20 +34168,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "宣布了",
+   "text": "宣布",
    "alternatives": [],
-   "reading": "xuānbù le",
-   "romanization": "xuānbù le",
-   "core_status": "retired",
+   "reading": "xuānbù",
+   "romanization": "xuānbù",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2758,
    "user_hint": "",
-   "description": "“announce”（宣布）的过去式。",
+   "description": "正式告诉大家。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“announce”（宣布）的过去式。"
+    "zh": "正式告诉大家。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001126",
@@ -34998,9 +35163,7 @@
    "nativeExplain": {
     "zh": "带领团体的人。"
    },
-   "antonyms": [
-    "en:000003887"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000001162",
@@ -35101,7 +35264,10 @@
    "nativeExplain": {
     "zh": "“name”（命名）的过去式和过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000212",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001166",
@@ -35394,21 +35560,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "工人们",
-   "alternatives": [
-    "员工"
-   ],
-   "reading": "gōngrénmen",
-   "romanization": "gōngrénmen",
+   "text": "工人",
+   "alternatives": [],
+   "reading": "gōngrén",
+   "romanization": "gōngrén",
    "study_tier": "herdado",
    "study_priority": 2768,
    "user_hint": "",
-   "description": "“worker”（工人）的复数。",
+   "description": "工作的人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“worker”（工人）的复数。"
+    "zh": "工作的人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000001177",
@@ -35850,7 +36016,7 @@
    ],
    "reading": "yìsi shì",
    "romanization": "yìsi shì",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2772,
    "user_hint": "",
@@ -35859,7 +36025,9 @@
    "nativeExplain": {
     "zh": "“mean”（意思是）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000264",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001195",
@@ -36954,20 +37122,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "比较了",
+   "text": "比较",
    "alternatives": [],
-   "reading": "bǐjiào le",
-   "romanization": "bǐjiào le",
-   "core_status": "retired",
+   "reading": "bǐjiào",
+   "romanization": "bǐjiào",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2779,
    "user_hint": "",
-   "description": "“compare”（比较）的过去式。",
+   "description": "看事物的相同和不同。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“compare”（比较）的过去式。"
+    "zh": "看事物的相同和不同。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001234",
@@ -37015,7 +37184,7 @@
    "alternatives": [],
    "reading": "jiéshù le",
    "romanization": "jiéshù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2780,
    "user_hint": "",
@@ -37024,7 +37193,9 @@
    "nativeExplain": {
     "zh": "“end”（结束）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000188",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001236",
@@ -37365,7 +37536,7 @@
    ],
    "reading": "tōngguò le",
    "romanization": "tōngguò le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2782,
    "user_hint": "",
@@ -37374,7 +37545,9 @@
    "nativeExplain": {
     "zh": "“pass”（经过）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000921",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001249",
@@ -37714,7 +37887,7 @@
    "alternatives": [],
    "reading": "mǎi le",
    "romanization": "mǎi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2784,
    "user_hint": "",
@@ -37723,7 +37896,9 @@
    "nativeExplain": {
     "zh": "“buy”（买）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000458",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001262",
@@ -38257,12 +38432,14 @@
    "study_tier": "herdado",
    "study_priority": 2788,
    "user_hint": "",
-   "description": "“resource”（资源）的复数。",
+   "description": "可以利用的东西，如水或钱。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“resource”（资源）的复数。"
+    "zh": "可以利用的东西，如水或钱。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000001283",
@@ -38532,7 +38709,7 @@
    ],
    "reading": "zhuāzhù le",
    "romanization": "zhuāzhù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2791,
    "user_hint": "",
@@ -38541,7 +38718,9 @@
    "nativeExplain": {
     "zh": "“catch”（抓住）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001383",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001292",
@@ -39154,7 +39333,7 @@
    ],
    "reading": "gěi…kàn guo",
    "romanization": "xiǎnshì de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2798,
    "user_hint": "",
@@ -39163,7 +39342,9 @@
    "nativeExplain": {
     "zh": "“show”（给看）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000191",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000001320",
@@ -39996,7 +40177,7 @@
    ],
    "reading": "zàochéng le",
    "romanization": "zàochéng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2802,
    "user_hint": "",
@@ -40005,7 +40186,9 @@
    "nativeExplain": {
     "zh": "“cause”（造成）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000425",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001354",
@@ -40187,7 +40370,7 @@
    ],
    "reading": "bāng le",
    "romanization": "bāng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2803,
    "user_hint": "",
@@ -40196,7 +40379,9 @@
    "nativeExplain": {
     "zh": "“help”（帮助）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000163",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001361",
@@ -40238,7 +40423,7 @@
    ],
    "reading": "zhù guo",
    "romanization": "zhù guo",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2804,
    "user_hint": "",
@@ -40247,7 +40432,9 @@
    "nativeExplain": {
     "zh": "“live”（住，活）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000253",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001364",
@@ -41218,7 +41405,7 @@
    ],
    "reading": "shēngchǎn le",
    "romanization": "shēngchǎn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2809,
    "user_hint": "",
@@ -41227,7 +41414,9 @@
    "nativeExplain": {
     "zh": "“produce”（生产）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001697",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001402",
@@ -41243,7 +41432,7 @@
    "alternatives": [],
    "reading": "pǎo le",
    "romanization": "pǎo le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2810,
    "user_hint": "",
@@ -41252,7 +41441,9 @@
    "nativeExplain": {
     "zh": "“run”（跑）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000299",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001403",
@@ -41855,9 +42046,7 @@
    "description": "很高的温度；物体发烫的状态。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000000981"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "zh": "很高的温度；物体发烫的状态。"
    }
@@ -41956,16 +42145,17 @@
      "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
     }
    ],
-   "core_status": "retired",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2814,
    "user_hint": "",
-   "description": "位于某处；“locate”的过去分词。",
+   "description": "在某个地方。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "位于某处；“locate”的过去分词。"
+    "zh": "在某个地方。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001426",
@@ -42074,7 +42264,7 @@
    ],
    "reading": "gěi…kàn le",
    "romanization": "gěi…kàn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2815,
    "user_hint": "",
@@ -42083,7 +42273,9 @@
    "nativeExplain": {
     "zh": "“show”（给看）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000191",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001438",
@@ -42218,21 +42410,21 @@
    "kind": "word",
    "description_en": "Past of \"break\"; also \"broke\" = with no money.",
    "level": "B1",
-   "part_of_speech": "v",
+   "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "打破了",
+   "text": "没钱",
    "alternatives": [],
-   "reading": "dǎpò le",
-   "romanization": "dǎpò le",
+   "reading": "méi qián",
+   "romanization": "méi qián",
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 2817,
    "user_hint": "",
-   "description": "“break”（打破）的过去式。",
+   "description": "一点钱也没有（口语）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“break”（打破）的过去式。"
+    "zh": "一点钱也没有（口语）。"
    },
    "antonyms": []
   },
@@ -42395,7 +42587,7 @@
    ],
    "reading": "diào le",
    "romanization": "diào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2818,
    "user_hint": "",
@@ -42404,7 +42596,9 @@
    "nativeExplain": {
     "zh": "“fall”（落下）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000741",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001450",
@@ -42463,7 +42657,7 @@
    ],
    "reading": "xuéhuì le",
    "romanization": "xuéhuì le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2819,
    "user_hint": "",
@@ -42472,7 +42666,9 @@
    "nativeExplain": {
     "zh": "“learn”（学）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000674",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001453",
@@ -42556,7 +42752,7 @@
    ],
    "reading": "dǎkāi le",
    "romanization": "dǎkāi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2820,
    "user_hint": "",
@@ -42565,7 +42761,9 @@
    "nativeExplain": {
     "zh": "“open”（打开）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000303",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001457",
@@ -42665,7 +42863,7 @@
    ],
    "reading": "dàodá le",
    "romanization": "dàodá le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2822,
    "user_hint": "",
@@ -42674,7 +42872,9 @@
    "nativeExplain": {
     "zh": "“reach”（到达）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001199",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001461",
@@ -42892,7 +43092,7 @@
    ],
    "reading": "qiān le zì",
    "romanization": "qiān le zì",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2824,
    "user_hint": "",
@@ -42901,7 +43101,9 @@
    "nativeExplain": {
     "zh": "“sign”（签名）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000856",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001469",
@@ -43580,7 +43782,7 @@
    ],
    "reading": "yǎng dà le",
    "romanization": "yǎng dà de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2829,
    "user_hint": "",
@@ -43589,7 +43791,9 @@
    "nativeExplain": {
     "zh": "“raise”（养育，举起）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001800",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001501",
@@ -43732,7 +43936,7 @@
    "alternatives": [],
    "reading": "tíng le",
    "romanization": "tíng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2830,
    "user_hint": "",
@@ -43741,7 +43945,9 @@
    "nativeExplain": {
     "zh": "“stop”（停）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000273",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001508",
@@ -44063,7 +44269,7 @@
    ],
    "reading": "gàizhù le",
    "romanization": "gàizhù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2832,
    "user_hint": "",
@@ -44072,7 +44278,9 @@
    "nativeExplain": {
     "zh": "“cover”（盖住）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000839",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001523",
@@ -44270,7 +44478,7 @@
    "alternatives": [],
    "reading": "tídào le",
    "romanization": "tídào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2834,
    "user_hint": "",
@@ -44279,7 +44487,9 @@
    "nativeExplain": {
     "zh": "“mention”（提到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001872",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001531",
@@ -44297,7 +44507,7 @@
    ],
    "reading": "cuòguò le",
    "romanization": "cuòguò le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2835,
    "user_hint": "",
@@ -44306,7 +44516,9 @@
    "nativeExplain": {
     "zh": "“miss”（错过，想念）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000588",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001532",
@@ -44896,7 +45108,8 @@
    "nativeExplain": {
     "zh": "从肩到手的部分（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000001556",
@@ -45046,7 +45259,7 @@
    ],
    "reading": "shībài le",
    "romanization": "shībài le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2839,
    "user_hint": "",
@@ -45055,7 +45268,9 @@
    "nativeExplain": {
     "zh": "“fail”（失败）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002402",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001561",
@@ -45448,7 +45663,7 @@
    ],
    "reading": "huílai le",
    "romanization": "huílai le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2841,
    "user_hint": "",
@@ -45457,7 +45672,9 @@
    "nativeExplain": {
     "zh": "“return”（返回，归还）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000640",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001578",
@@ -45923,9 +46140,7 @@
    "description": "走进某个地方。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": [
-    "en:000003123"
-   ],
+   "antonyms": [],
    "nativeExplain": {
     "zh": "走进某个地方。"
    }
@@ -46033,7 +46248,7 @@
     "zh": "获得更多某物。"
    },
    "antonyms": [
-    "en:000000878"
+    "en:000000850"
    ]
   },
   {
@@ -47098,7 +47313,7 @@
    ],
    "reading": "dào le",
    "romanization": "dào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2851,
    "user_hint": "",
@@ -47107,7 +47322,9 @@
    "nativeExplain": {
     "zh": "“arrive”（到达）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000003180",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001647",
@@ -47535,13 +47752,15 @@
    ],
    "study_tier": "herdado",
    "study_priority": 2854,
-   "description": "植物上绿色的片状部分（复数）。",
+   "description": "植物上扁平的绿色部分。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "植物上绿色的片状部分（复数）。"
+    "zh": "植物上扁平的绿色部分。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000001663",
@@ -47565,7 +47784,10 @@
    "nativeExplain": {
     "zh": "“movie”（电影）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000691",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000001664",
@@ -47645,7 +47867,7 @@
    ],
    "reading": "qùdiào le",
    "romanization": "qùdiào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2856,
    "user_hint": "",
@@ -47654,7 +47876,9 @@
    "nativeExplain": {
     "zh": "“remove”（去掉）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001976",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001668",
@@ -48610,7 +48834,7 @@
    ],
    "reading": "ná le",
    "romanization": "ná le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2858,
    "user_hint": "",
@@ -48619,7 +48843,9 @@
    "nativeExplain": {
     "zh": "“carry”（拿，搬）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001325",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001714",
@@ -48635,7 +48861,7 @@
    "alternatives": [],
    "reading": "wánchéng le",
    "romanization": "wánchéng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2859,
    "user_hint": "",
@@ -48644,7 +48870,9 @@
    "nativeExplain": {
     "zh": "“complete”（完成）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000797",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001715",
@@ -49258,12 +49486,14 @@
    "study_tier": "herdado",
    "study_priority": 2861,
    "user_hint": "",
-   "description": "“skill”（技能）的复数。",
+   "description": "把事情做好的能力。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“skill”（技能）的复数。"
+    "zh": "把事情做好的能力。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000001739",
@@ -49789,7 +50019,10 @@
    "nativeExplain": {
     "zh": "“manage”（设法做到，管理）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002757",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001762",
@@ -49877,7 +50110,7 @@
    "alternatives": [],
    "reading": "yōngyǒu de",
    "romanization": "yōngyǒu de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2866,
    "user_hint": "",
@@ -49886,7 +50119,9 @@
    "nativeExplain": {
     "zh": "“own”（拥有）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000170",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001765",
@@ -50208,7 +50443,7 @@
    ],
    "reading": "xiāngxìn le",
    "romanization": "xiāngxìn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2868,
    "user_hint": "",
@@ -50217,7 +50452,9 @@
    "nativeExplain": {
     "zh": "“believe”（相信）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000276",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001775",
@@ -50271,7 +50508,7 @@
    "description": "有很多事要做。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000203"
+    "en:000004171"
    ],
    "nativeExplain": {
     "zh": "有很多事要做。"
@@ -50770,7 +51007,7 @@
    ],
    "reading": "zhǎnshì le",
    "romanization": "zhǎnshì le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2870,
    "user_hint": "",
@@ -50779,7 +51016,9 @@
    "nativeExplain": {
     "zh": "“present”（展示，赠送）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000656",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001800",
@@ -50803,7 +51042,7 @@
    "description": "向上抬起。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000785"
+    "en:000004175"
    ],
    "nativeExplain": {
     "zh": "向上抬起。"
@@ -51235,20 +51474,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "发现了",
+   "text": "发现",
    "alternatives": [],
-   "reading": "fāxiàn le",
-   "romanization": "fāxiàn le",
-   "core_status": "retired",
+   "reading": "fāxiàn",
+   "romanization": "fāxiàn",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2873,
    "user_hint": "",
-   "description": "“discover”（发现）的过去式。",
+   "description": "第一次找到。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“discover”（发现）的过去式。"
+    "zh": "第一次找到。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001820",
@@ -51635,7 +51875,7 @@
    ],
    "reading": "diǎn le",
    "romanization": "diǎn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2874,
    "user_hint": "",
@@ -51644,7 +51884,9 @@
    "nativeExplain": {
     "zh": "“order”（点，订购）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000297",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001838",
@@ -52116,7 +52358,7 @@
    ],
    "reading": "diào le",
    "romanization": "diào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2880,
    "user_hint": "",
@@ -52125,7 +52367,9 @@
    "nativeExplain": {
     "zh": "“drop”（掉落）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001069",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001859",
@@ -52288,7 +52532,7 @@
    ],
    "reading": "jiārù le",
    "romanization": "jiārù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2882,
    "user_hint": "",
@@ -52297,7 +52541,9 @@
    "nativeExplain": {
     "zh": "“join”（加入）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001051",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001871",
@@ -52825,9 +53071,7 @@
    "nativeExplain": {
     "zh": "获胜。"
    },
-   "antonyms": [
-    "en:000002896"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000001890",
@@ -52917,21 +53161,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "公民们",
-   "alternatives": [
-    "市民"
-   ],
-   "reading": "gōngmínmen",
-   "romanization": "gōngmínmen",
+   "text": "公民",
+   "alternatives": [],
+   "reading": "gōngmín",
+   "romanization": "gōngmín",
    "study_tier": "herdado",
    "study_priority": 2885,
    "user_hint": "",
-   "description": "“citizen”（公民）的复数。",
+   "description": "属于一个国家或城市的人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“citizen”（公民）的复数。"
+    "zh": "属于一个国家或城市的人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000001894",
@@ -53065,7 +53309,7 @@
    ],
    "reading": "jìnrù le",
    "romanization": "jìnrù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2886,
    "user_hint": "",
@@ -53074,7 +53318,9 @@
    "nativeExplain": {
     "zh": "“enter”（进入）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001596",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001900",
@@ -53349,22 +53595,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "介绍了",
-   "alternatives": [
-    "引进了"
-   ],
-   "reading": "jièshào le",
-   "romanization": "jièshào le",
-   "core_status": "retired",
+   "text": "介绍",
+   "alternatives": [],
+   "reading": "jièshào",
+   "romanization": "jièshào",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2889,
    "user_hint": "",
-   "description": "“introduce”（介绍）的过去式。",
+   "description": "让人们互相认识。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“introduce”（介绍）的过去式。"
+    "zh": "让人们互相认识。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001913",
@@ -53508,7 +53753,7 @@
    ],
    "reading": "tiāo le",
    "romanization": "tiāo le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2891,
    "user_hint": "",
@@ -53517,7 +53762,9 @@
    "nativeExplain": {
     "zh": "“pick”（挑选）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000852",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000001921",
@@ -54411,7 +54658,10 @@
    "nativeExplain": {
     "zh": "“feeling”的复数：情绪。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000744",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000001961",
@@ -54707,22 +54957,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "提议了",
-   "alternatives": [
-    "提出了"
-   ],
-   "reading": "tíyì le",
-   "romanization": "tíyì le",
-   "core_status": "retired",
+   "text": "提议",
+   "alternatives": [],
+   "reading": "tíyì",
+   "romanization": "tíyì",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2898,
    "user_hint": "",
-   "description": "“propose”（提议）的过去式。",
+   "description": "提出计划或想法。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“propose”（提议）的过去式。"
+    "zh": "提出计划或想法。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000001974",
@@ -55265,12 +55514,10 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "元素",
-   "alternatives": [
-    "要素"
-   ],
-   "reading": "yuánsù",
-   "romanization": "yuánsù",
+   "text": "要素",
+   "alternatives": [],
+   "reading": "yàosù",
+   "romanization": "yàosù",
    "classifications": [
     {
      "system": "HSK",
@@ -55282,12 +55529,14 @@
    "study_tier": "herdado",
    "study_priority": 2901,
    "user_hint": "",
-   "description": "“element”（元素）的复数。",
+   "description": "组成事物的一部分。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“element”（元素）的复数。"
+    "zh": "组成事物的一部分。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002000",
@@ -55395,7 +55644,7 @@
    "alternatives": [],
    "reading": "xiū hǎo le",
    "romanization": "xiū hǎo le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2902,
    "user_hint": "",
@@ -55404,7 +55653,9 @@
    "nativeExplain": {
     "zh": "“fix”（修理）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001790",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002005",
@@ -55493,22 +55744,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "打算的",
-   "alternatives": [
-    "预定的"
-   ],
-   "reading": "dǎsuàn de",
-   "romanization": "dǎsuàn de",
-   "core_status": "retired",
+   "text": "打算",
+   "alternatives": [],
+   "reading": "dǎsuan",
+   "romanization": "dǎsuan",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2903,
    "user_hint": "",
-   "description": "“intend”（打算）的过去分词。",
+   "description": "计划做某事。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“intend”（打算）的过去分词。"
+    "zh": "计划做某事。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002008",
@@ -56063,7 +56313,7 @@
    ],
    "reading": "zhǎngdà le",
    "romanization": "zhǎngdà le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2909,
    "user_hint": "",
@@ -56072,7 +56322,9 @@
    "nativeExplain": {
     "zh": "“grow”（成长）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001309",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002035",
@@ -56338,7 +56590,7 @@
    "alternatives": [],
    "reading": "jìhuà le",
    "romanization": "jìhuà le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2911,
    "user_hint": "",
@@ -56347,7 +56599,9 @@
    "nativeExplain": {
     "zh": "“plan”（计划）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000497",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002048",
@@ -57278,22 +57532,23 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "选择了",
+   "text": "挑选",
    "alternatives": [
-    "选定的"
+    "选择"
    ],
-   "reading": "xuǎnzé le",
-   "romanization": "bèi xuǎnzhòng de",
-   "core_status": "retired",
+   "reading": "tiāoxuǎn",
+   "romanization": "tiāoxuǎn",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2918,
    "user_hint": "",
-   "description": "“select”（选择）的过去分词。",
+   "description": "从一些里面仔细挑。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“select”（选择）的过去分词。"
+    "zh": "从一些里面仔细挑。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002091",
@@ -57364,7 +57619,7 @@
    "description": "不硬。",
    "novrev_status": "reviewed",
    "antonyms": [
-    "en:000000263"
+    "en:000004172"
    ],
    "nativeExplain": {
     "zh": "不硬。"
@@ -57496,7 +57751,7 @@
    "alternatives": [],
    "reading": "jiāo le",
    "romanization": "jiāo le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2922,
    "user_hint": "",
@@ -57505,7 +57760,9 @@
    "nativeExplain": {
     "zh": "“teach”（教）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002145",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002099",
@@ -57582,7 +57839,7 @@
    "alternatives": [],
    "reading": "jiēshòu le",
    "romanization": "jiēshòu le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2924,
    "user_hint": "",
@@ -57591,7 +57848,9 @@
    "nativeExplain": {
     "zh": "“accept”（接受）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001438",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002103",
@@ -57604,9 +57863,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "事务",
-   "alternatives": [
-    "事情"
-   ],
+   "alternatives": [],
    "reading": "shìwù",
    "romanization": "shìwù",
    "classifications": [
@@ -57620,12 +57877,14 @@
    "study_tier": "intermediário",
    "study_priority": 2925,
    "user_hint": "",
-   "description": "“affair”的复数：事务。",
+   "description": "事情或事件。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“affair”的复数：事务。"
+    "zh": "事情或事件。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002105",
@@ -57690,20 +57949,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "确认了",
+   "text": "确认",
    "alternatives": [],
-   "reading": "quèrèn le",
-   "romanization": "quèrèn le",
-   "core_status": "retired",
+   "reading": "quèrèn",
+   "romanization": "quèrèn",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2927,
    "user_hint": "",
-   "description": "“confirm”（确认）的过去式。",
+   "description": "核实或说明某事是真的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“confirm”（确认）的过去式。"
+    "zh": "核实或说明某事是真的。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002112",
@@ -58070,7 +58330,10 @@
    "nativeExplain": {
     "zh": "“leg”（腿）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002177",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002128",
@@ -58253,7 +58516,7 @@
    "alternatives": [],
    "reading": "lā le",
    "romanization": "lā le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2931,
    "user_hint": "",
@@ -58262,7 +58525,9 @@
    "nativeExplain": {
     "zh": "“pull”（拉）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001575",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002135",
@@ -58307,9 +58572,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "关系",
-   "alternatives": [
-    "亲戚"
-   ],
+   "alternatives": [],
    "reading": "guānxi",
    "romanization": "guānxi",
    "classifications": [
@@ -58323,12 +58586,14 @@
    "study_tier": "herdado",
    "study_priority": 2932,
    "user_hint": "",
-   "description": "“relation”的复数：关系；也指亲戚。",
+   "description": "人或事物之间的联系。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“relation”的复数：关系；也指亲戚。"
+    "zh": "人或事物之间的联系。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002138",
@@ -58386,7 +58651,7 @@
    ],
    "reading": "jiù le",
    "romanization": "jiù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2933,
    "user_hint": "",
@@ -58395,7 +58660,9 @@
    "nativeExplain": {
     "zh": "“save”（救，存）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000730",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002140",
@@ -58503,7 +58770,10 @@
    "nativeExplain": {
     "zh": "穿在脚上的东西（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003239",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002143",
@@ -58619,7 +58889,7 @@
    ],
    "reading": "zǒu le",
    "romanization": "zǒu le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2935,
    "user_hint": "",
@@ -58628,7 +58898,9 @@
    "nativeExplain": {
     "zh": "“walk”（走）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000862",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002152",
@@ -59416,7 +59688,7 @@
    ],
    "reading": "lù le",
    "romanization": "lù le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2940,
    "user_hint": "",
@@ -59425,7 +59697,9 @@
    "nativeExplain": {
     "zh": "“record”（录制）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000604",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002190",
@@ -60365,22 +60639,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "透露了",
-   "alternatives": [
-    "揭示了"
-   ],
-   "reading": "tòulù le",
-   "romanization": "tòulù le",
-   "core_status": "retired",
+   "text": "透露",
+   "alternatives": [],
+   "reading": "tòulù",
+   "romanization": "tòulù",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2943,
    "user_hint": "",
-   "description": "“reveal”（透露）的过去式。",
+   "description": "让秘密的事被知道。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“reveal”（透露）的过去式。"
+    "zh": "让秘密的事被知道。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002230",
@@ -60550,7 +60823,7 @@
    "alternatives": [],
    "reading": "shòu yǐngxiǎng de",
    "romanization": "shòu yǐngxiǎng de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2944,
    "user_hint": "",
@@ -60559,7 +60832,9 @@
    "nativeExplain": {
     "zh": "“affect”（影响）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002471",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002239",
@@ -60610,22 +60885,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "批准了",
-   "alternatives": [
-    "通过的"
-   ],
-   "reading": "pīzhǔn le",
-   "romanization": "pīzhǔn le",
-   "core_status": "retired",
+   "text": "批准",
+   "alternatives": [],
+   "reading": "pīzhǔn",
+   "romanization": "pīzhǔn",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2946,
    "user_hint": "",
-   "description": "“approve”（批准）的过去式。",
+   "description": "正式同意。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“approve”（批准）的过去式。"
+    "zh": "正式同意。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002242",
@@ -60716,7 +60990,7 @@
    ],
    "reading": "bèibǔ le",
    "romanization": "bèibǔ le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2947,
    "user_hint": "",
@@ -60725,7 +60999,9 @@
    "nativeExplain": {
     "zh": "“arrest”（逮捕）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002672",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002246",
@@ -61057,7 +61333,10 @@
    "nativeExplain": {
     "zh": "植物上开出的美丽部分（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003125",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002261",
@@ -61121,7 +61400,10 @@
    "nativeExplain": {
     "zh": "“lady”（女士）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001160",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002263",
@@ -61187,7 +61469,10 @@
    "nativeExplain": {
     "zh": "“light”（灯、光）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000449",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002266",
@@ -61309,9 +61594,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "要求",
-   "alternatives": [
-    "条件"
-   ],
+   "alternatives": [],
    "reading": "yāoqiú",
    "romanization": "yāoqiú",
    "classifications": [
@@ -61325,12 +61608,14 @@
    "study_tier": "herdado",
    "study_priority": 2957,
    "user_hint": "",
-   "description": "“requirement”的复数：被要求的条件。",
+   "description": "需要的条件。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“requirement”的复数：被要求的条件。"
+    "zh": "需要的条件。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002272",
@@ -61357,12 +61642,14 @@
    "study_tier": "herdado",
    "study_priority": 2958,
    "user_hint": "",
-   "description": "“resident”的复数：居住在某地的人。",
+   "description": "住在某地的人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“resident”的复数：居住在某地的人。"
+    "zh": "住在某地的人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002273",
@@ -61412,7 +61699,7 @@
    "alternatives": [],
    "reading": "zuò le",
    "romanization": "zuò le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2960,
    "user_hint": "",
@@ -61421,7 +61708,9 @@
    "nativeExplain": {
     "zh": "“sit”（坐）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001320",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002276",
@@ -61962,20 +62251,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "收集了",
+   "text": "收集",
    "alternatives": [],
-   "reading": "shōují le",
-   "romanization": "shōují le",
-   "core_status": "retired",
+   "reading": "shōují",
+   "romanization": "shōují",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2962,
    "user_hint": "",
-   "description": "“collect”（收集）的过去式。",
+   "description": "把东西聚在一起。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“collect”（收集）的过去式。"
+    "zh": "把东西聚在一起。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002297",
@@ -62112,22 +62402,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "当选的",
-   "alternatives": [
-    "选出的"
-   ],
-   "reading": "dāngxuǎn de",
-   "romanization": "dāngxuǎn de",
-   "core_status": "retired",
+   "text": "选举",
+   "alternatives": [],
+   "reading": "xuǎnjǔ",
+   "romanization": "xuǎnjǔ",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2965,
    "user_hint": "",
-   "description": "“elect”（选举）的过去式。",
+   "description": "通过投票选人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“elect”（选举）的过去式。"
+    "zh": "通过投票选人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002304",
@@ -62223,7 +62512,7 @@
    "alternatives": [],
    "reading": "wàng le",
    "romanization": "wàng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2968,
    "user_hint": "",
@@ -62232,7 +62521,9 @@
    "nativeExplain": {
     "zh": "“forget”（忘记）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000895",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002312",
@@ -62317,7 +62608,8 @@
    "nativeExplain": {
     "zh": "妈妈（口语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002316",
@@ -62474,7 +62766,7 @@
    "alternatives": [],
    "reading": "zhùyì dào le",
    "romanization": "zhùyì dào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2970,
    "user_hint": "",
@@ -62483,7 +62775,9 @@
    "nativeExplain": {
     "zh": "“notice”（注意到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001312",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002321",
@@ -62595,7 +62889,7 @@
    ],
    "reading": "défēn le",
    "romanization": "défēn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2971,
    "user_hint": "",
@@ -62604,7 +62898,9 @@
    "nativeExplain": {
     "zh": "“score”（得分）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001540",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002327",
@@ -62977,7 +63273,7 @@
    ],
    "reading": "sòngdào le",
    "romanization": "sòngdào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2972,
    "user_hint": "",
@@ -62986,7 +63282,9 @@
    "nativeExplain": {
     "zh": "“deliver”（递送）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002683",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002348",
@@ -63330,7 +63628,7 @@
    ],
    "reading": "liúxià le",
    "romanization": "liúxià le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2974,
    "user_hint": "",
@@ -63339,7 +63637,9 @@
    "nativeExplain": {
     "zh": "“remain”（留下）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001538",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002365",
@@ -63513,7 +63813,7 @@
    ],
    "reading": "liáo le",
    "romanization": "liáo le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2975,
    "user_hint": "",
@@ -63522,7 +63822,9 @@
    "nativeExplain": {
     "zh": "“talk”（说话）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000355",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002372",
@@ -63711,7 +64013,7 @@
    "alternatives": [],
    "reading": "tóu le piào",
    "romanization": "tóu le piào",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2976,
    "user_hint": "",
@@ -63720,7 +64022,9 @@
    "nativeExplain": {
     "zh": "“vote”（投票）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000792",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002384",
@@ -63932,7 +64236,7 @@
    ],
    "reading": "xuǎnzé le",
    "romanization": "bèi xuǎnzhòng de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2977,
    "user_hint": "",
@@ -63941,7 +64245,9 @@
    "nativeExplain": {
     "zh": "“choose”（选择）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001262",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000002393",
@@ -64094,7 +64400,7 @@
    ],
    "reading": "huǐ le",
    "romanization": "huǐ le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2978,
    "user_hint": "",
@@ -64103,7 +64409,9 @@
    "nativeExplain": {
     "zh": "“destroy”（毁坏）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002845",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002399",
@@ -64461,22 +64769,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "提到了",
-   "alternatives": [
-    "转介了"
-   ],
-   "reading": "tídào le",
-   "romanization": "tídào le",
-   "core_status": "retired",
+   "text": "提到",
+   "alternatives": [],
+   "reading": "tídào",
+   "romanization": "tídào",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 2981,
    "user_hint": "",
-   "description": "“refer”（提及）的过去式。",
+   "description": "说到某事。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“refer”（提及）的过去式。"
+    "zh": "说到某事。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002422",
@@ -64578,7 +64885,7 @@
    ],
    "reading": "shuō le",
    "romanization": "shuō le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2982,
    "user_hint": "",
@@ -64587,7 +64894,9 @@
    "nativeExplain": {
     "zh": "“speak”（说）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000973",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002429",
@@ -64838,7 +65147,7 @@
    ],
    "reading": "dǎoyǎn de",
    "romanization": "dǎoyǎn de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2983,
    "user_hint": "",
@@ -64847,7 +65156,9 @@
    "nativeExplain": {
     "zh": "“direct”（指导，执导）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001268",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002442",
@@ -65552,20 +65863,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "被任命的",
+   "text": "任命",
    "alternatives": [],
-   "reading": "bèi rènmìng de",
-   "romanization": "bèi rènmìng de",
-   "core_status": "retired",
+   "reading": "rènmìng",
+   "romanization": "rènmìng",
+   "core_status": null,
    "study_tier": "intermediário",
    "study_priority": 2989,
    "user_hint": "",
-   "description": "“appoint”（任命）的过去式。",
+   "description": "正式让某人担任职务。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“appoint”（任命）的过去式。"
+    "zh": "正式让某人担任职务。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002473",
@@ -65840,9 +66152,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "情况",
-   "alternatives": [
-    "环境"
-   ],
+   "alternatives": [],
    "reading": "qíngkuàng",
    "romanization": "qíngkuàng",
    "classifications": [
@@ -65856,12 +66166,14 @@
    "study_tier": "intermediário",
    "study_priority": 2990,
    "user_hint": "",
-   "description": "“circumstance”的复数：情况。",
+   "description": "事情发生时的情况。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“circumstance”的复数：情况。"
+    "zh": "事情发生时的情况。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002485",
@@ -66104,7 +66416,7 @@
    ],
    "reading": "xiǎngshòu le",
    "romanization": "xiǎngshòu le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2992,
    "user_hint": "",
@@ -66113,7 +66425,9 @@
    "nativeExplain": {
     "zh": "“enjoy”（享受）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000820",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002496",
@@ -66129,7 +66443,7 @@
    "alternatives": [],
    "reading": "jiěshì le",
    "romanization": "jiěshì le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2993,
    "user_hint": "",
@@ -66138,7 +66452,9 @@
    "nativeExplain": {
     "zh": "“explain”（解释）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001330",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002498",
@@ -66382,7 +66698,7 @@
    ],
    "reading": "yìshí dào le",
    "romanization": "yìshí dào le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 2994,
    "user_hint": "",
@@ -66391,7 +66707,9 @@
    "nativeExplain": {
     "zh": "“realize”（意识到）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001537",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002512",
@@ -66574,7 +66892,10 @@
    "nativeExplain": {
     "zh": "“tool”（工具）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000002664",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002523",
@@ -67148,12 +67469,14 @@
    "study_tier": "herdado",
    "study_priority": 2998,
    "user_hint": "",
-   "description": "“institution”的复数：机构。",
+   "description": "像学校或银行那样的大组织。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“institution”的复数：机构。"
+    "zh": "像学校或银行那样的大组织。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002547",
@@ -67539,7 +67862,10 @@
    "nativeExplain": {
     "zh": "嘴里用来咀嚼的硬质结构（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003214",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002564",
@@ -67557,7 +67883,7 @@
    ],
    "reading": "míngbai le",
    "romanization": "míngbai le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3002,
    "user_hint": "",
@@ -67566,7 +67892,9 @@
    "nativeExplain": {
     "zh": "“understand”（理解）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000412",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002565",
@@ -68352,7 +68680,7 @@
    "alternatives": [],
    "reading": "fāshēng le",
    "romanization": "fāshēng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3006,
    "user_hint": "",
@@ -68710,7 +69038,7 @@
    ],
    "reading": "zhàn le",
    "romanization": "zhànzhe",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3008,
    "user_hint": "",
@@ -68719,7 +69047,9 @@
    "nativeExplain": {
     "zh": "“stand”（站）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000731",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002607",
@@ -69334,22 +69664,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "定义的",
-   "alternatives": [
-    "明确的"
-   ],
-   "reading": "dìngyì de",
-   "romanization": "dìngyì de",
-   "core_status": "retired",
+   "text": "定义",
+   "alternatives": [],
+   "reading": "dìngyì",
+   "romanization": "dìngyì",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 3011,
    "user_hint": "",
-   "description": "“define”（定义）的过去式。",
+   "description": "说明词语的确切意思。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“define”（定义）的过去式。"
+    "zh": "说明词语的确切意思。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002630",
@@ -69791,7 +70120,7 @@
    ],
    "reading": "fàng le",
    "romanization": "fàng le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3013,
    "user_hint": "",
@@ -70528,7 +70857,7 @@
    ],
    "reading": "xuǎn le",
    "romanization": "xuǎn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3019,
    "user_hint": "",
@@ -70537,7 +70866,9 @@
    "nativeExplain": {
     "zh": "“choose”（选择）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001262",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002679",
@@ -70646,22 +70977,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "宣布了",
-   "alternatives": [
-    "声明了"
-   ],
-   "reading": "xuānbù le",
-   "romanization": "xuānbù le",
-   "core_status": "retired",
+   "text": "声明",
+   "alternatives": [],
+   "reading": "shēngmíng",
+   "romanization": "shēngmíng",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 3020,
    "user_hint": "",
-   "description": "“declare”（宣布）的过去式。",
+   "description": "正式而清楚地说。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“declare”（宣布）的过去式。"
+    "zh": "正式而清楚地说。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002683",
@@ -70814,22 +71144,23 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "挣了",
+   "text": "挣",
    "alternatives": [
-    "赢得了"
+    "赚"
    ],
-   "reading": "zhèng le",
-   "romanization": "zhèng le",
-   "core_status": "retired",
+   "reading": "zhèng",
+   "romanization": "zhèng",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 3022,
    "user_hint": "",
-   "description": "“earn”（挣得）的过去式。",
+   "description": "工作得到钱。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“earn”（挣得）的过去式。"
+    "zh": "工作得到钱。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002689",
@@ -71510,7 +71841,7 @@
    ],
    "reading": "huàn le",
    "romanization": "huàn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3025,
    "user_hint": "",
@@ -71519,7 +71850,9 @@
    "nativeExplain": {
     "zh": "“replace”（替换）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002554",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002715",
@@ -72196,7 +72529,10 @@
    "nativeExplain": {
     "zh": "温度或角度的单位（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000001183",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002746",
@@ -72214,7 +72550,7 @@
    ],
    "reading": "kāiguo",
    "romanization": "kāichē de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3033,
    "user_hint": "",
@@ -72223,7 +72559,9 @@
    "nativeExplain": {
     "zh": "“drive”（驾驶）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000739",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000002747",
@@ -72521,20 +72859,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "政治家",
-   "alternatives": [
-    "政客"
-   ],
+   "alternatives": [],
    "reading": "zhèngzhìjiā",
    "romanization": "zhèngzhìjiā",
    "study_tier": "herdado",
    "study_priority": 3036,
    "user_hint": "",
-   "description": "“politician”（政治家）的复数。",
+   "description": "从事政治的人。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“politician”（政治家）的复数。"
+    "zh": "从事政治的人。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002763",
@@ -72620,20 +72958,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "拒绝了",
+   "text": "拒绝",
    "alternatives": [],
-   "reading": "jùjué le",
-   "romanization": "jùjué le",
-   "core_status": "retired",
+   "reading": "jùjué",
+   "romanization": "jùjué",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 3037,
    "user_hint": "",
-   "description": "“refuse”（拒绝）的过去式。",
+   "description": "不接受。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“refuse”（拒绝）的过去式。"
+    "zh": "不接受。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002767",
@@ -73164,21 +73503,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "看情况",
-   "alternatives": [
-    "要看"
-   ],
-   "reading": "kàn qíngkuàng",
-   "romanization": "kàn qíngkuàng",
+   "text": "取决于",
+   "alternatives": [],
+   "reading": "qǔjué yú",
+   "romanization": "qǔjué yú",
    "study_tier": "herdado",
    "study_priority": 3038,
    "user_hint": "",
-   "description": "“depend”的第三人称单数形式，如“it depends”。",
+   "description": "根据某事而变化。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“depend”的第三人称单数形式，如“it depends”。"
+    "zh": "根据某事而变化。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002788",
@@ -73196,7 +73535,7 @@
    ],
    "reading": "huà de",
    "romanization": "huà de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3039,
    "user_hint": "",
@@ -73205,7 +73544,9 @@
    "nativeExplain": {
     "zh": "“draw”（画，拉）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001593",
+   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "zh:en:000002792",
@@ -73598,7 +73939,8 @@
    "user_hint": "",
    "description": "“pound”的复数：英镑或磅。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000002808",
@@ -73921,7 +74263,7 @@
    ],
    "reading": "dāi le",
    "romanization": "dāi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3044,
    "user_hint": "",
@@ -73930,7 +74272,9 @@
    "nativeExplain": {
     "zh": "“stay”（停留，住）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000455",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002823",
@@ -74058,7 +74402,7 @@
    "alternatives": [],
    "reading": "gōngjī le",
    "romanization": "gōngjī le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3046,
    "user_hint": "",
@@ -74067,7 +74411,9 @@
    "nativeExplain": {
     "zh": "“attack”（攻击）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000004177",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002833",
@@ -74433,7 +74779,7 @@
    "alternatives": [],
    "reading": "biǎodá le",
    "romanization": "biǎodá le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3049,
    "user_hint": "",
@@ -74442,7 +74788,9 @@
    "nativeExplain": {
     "zh": "“express”（表达）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002072",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002851",
@@ -74827,7 +75175,7 @@
    ],
    "reading": "rènchū le",
    "romanization": "rènchū le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3051,
    "user_hint": "",
@@ -74836,7 +75184,9 @@
    "nativeExplain": {
     "zh": "“recognize”（认出，认可）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002865",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002867",
@@ -74854,7 +75204,7 @@
    ],
    "reading": "zhùcè le",
    "romanization": "zhùcè le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3052,
    "user_hint": "",
@@ -74863,7 +75213,9 @@
    "nativeExplain": {
     "zh": "“register”（登记）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002514",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002868",
@@ -75028,22 +75380,21 @@
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "受了苦",
-   "alternatives": [
-    "遭受了"
-   ],
-   "reading": "shòu le kǔ",
-   "romanization": "shòu le kǔ",
-   "core_status": "retired",
+   "text": "受苦",
+   "alternatives": [],
+   "reading": "shòukǔ",
+   "romanization": "shòukǔ",
+   "core_status": null,
    "study_tier": "herdado",
    "study_priority": 3054,
    "user_hint": "",
-   "description": "“suffer”（遭受）的过去式。",
+   "description": "感到痛苦。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“suffer”（遭受）的过去式。"
+    "zh": "感到痛苦。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "forms": []
   },
   {
    "id": "zh:en:000002877",
@@ -75522,9 +75873,7 @@
    "nativeExplain": {
     "zh": "战胜对手。"
    },
-   "antonyms": [
-    "en:000001889"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000002897",
@@ -75708,7 +76057,7 @@
    "alternatives": [],
    "reading": "wèi le",
    "romanization": "wèi le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3063,
    "user_hint": "",
@@ -75982,7 +76331,7 @@
    "alternatives": [],
    "reading": "shòu bǎohù de",
    "romanization": "shòu bǎohù de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3066,
    "user_hint": "",
@@ -75991,7 +76340,9 @@
    "nativeExplain": {
     "zh": "“protect”（保护）的过去分词。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000001249",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002920",
@@ -76135,9 +76486,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "技巧",
-   "alternatives": [
-    "技术"
-   ],
+   "alternatives": [],
    "reading": "jìqiǎo",
    "romanization": "jìqiǎo",
    "classifications": [
@@ -76151,12 +76500,14 @@
    "study_tier": "herdado",
    "study_priority": 3067,
    "user_hint": "",
-   "description": "“technique”（技巧）的复数。",
+   "description": "做事的特别方法。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“technique”（技巧）的复数。"
+    "zh": "做事的特别方法。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002927",
@@ -76403,12 +76754,14 @@
    "study_tier": "herdado",
    "study_priority": 3070,
    "user_hint": "",
-   "description": "“aspect”（方面）的复数。",
+   "description": "事情的一个方面。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“aspect”（方面）的复数。"
+    "zh": "事情的一个方面。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002938",
@@ -76644,7 +76997,10 @@
    "nativeExplain": {
     "zh": "“egg”（蛋）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003122",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002946",
@@ -76804,7 +77160,10 @@
    "nativeExplain": {
     "zh": "手上能活动的部分（复数）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003223",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002954",
@@ -76822,7 +77181,7 @@
    ],
    "reading": "jiànlì de",
    "romanization": "jiànlì de",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3073,
    "user_hint": "",
@@ -76831,7 +77190,9 @@
    "nativeExplain": {
     "zh": "“found”（创立）的过去式，如“The school was founded in 1900”。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000189",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002956",
@@ -77001,7 +77362,7 @@
    ],
    "reading": "biāojì le",
    "romanization": "dǎ le fēn",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3075,
    "user_hint": "",
@@ -77010,7 +77371,9 @@
    "nativeExplain": {
     "zh": "“mark”（做记号，评分）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000918",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002967",
@@ -77220,9 +77583,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "规定",
-   "alternatives": [
-    "规章"
-   ],
+   "alternatives": [],
    "reading": "guīdìng",
    "romanization": "guīdìng",
    "classifications": [
@@ -77236,12 +77597,14 @@
    "study_tier": "herdado",
    "study_priority": 3077,
    "user_hint": "",
-   "description": "“regulation”的复数：官方规定。",
+   "description": "正式的规定。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“regulation”的复数：官方规定。"
+    "zh": "正式的规定。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": null,
+   "forms": []
   },
   {
    "id": "zh:en:000002977",
@@ -77358,7 +77721,10 @@
    "nativeExplain": {
     "zh": "“scientist”（科学家）的复数。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000003405",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000002982",
@@ -77516,7 +77882,7 @@
    ],
    "reading": "cānguān le",
    "romanization": "cānguān le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3080,
    "user_hint": "",
@@ -77525,7 +77891,9 @@
    "nativeExplain": {
     "zh": "“visit”（参观，拜访）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000000949",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002991",
@@ -77601,7 +77969,7 @@
    ],
    "reading": "shíxiàn le",
    "romanization": "shíxiàn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3081,
    "user_hint": "",
@@ -77610,7 +77978,9 @@
    "nativeExplain": {
     "zh": "“achieve”（实现）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002568",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002995",
@@ -77628,7 +77998,7 @@
    ],
    "reading": "chéngrèn le",
    "romanization": "chéngrèn le",
-   "core_status": "retired",
+   "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3082,
    "user_hint": "",
@@ -77637,7 +78007,9 @@
    "nativeExplain": {
     "zh": "“admit”（承认，录取）的过去式。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "inflection_of": "en:000002528",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000002996",
@@ -80879,7 +81251,7 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
-    "en:000001596"
+    "en:000004182"
    ],
    "nativeExplain": {
     "zh": "出去的地方。"
@@ -82036,7 +82408,8 @@
    "nativeExplain": {
     "zh": "上演戏剧或电影的建筑。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003156",
@@ -83470,7 +83843,10 @@
     "zh": "“look”（看）的过去式：把目光转向某物。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000145",
+   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000796",
@@ -83566,7 +83942,10 @@
     "zh": "“way”的复数：做事的方法。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000099",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000934",
@@ -83638,7 +84017,10 @@
     "zh": "“boy”的复数：男孩们。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only",
+   "inflection_of": "en:000000664",
+   "inflection_key": "PL"
   },
   {
    "id": "zh:en:000000958",
@@ -86421,8 +86803,7 @@
    },
    "level": "A1",
    "antonyms": [
-    "en:000000207",
-    "en:000000394"
+    "en:000000207"
    ]
   },
   {
@@ -86896,9 +87277,7 @@
     "zh": "觉得需要吃东西。"
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003217"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000003217",
@@ -86922,9 +87301,7 @@
     "zh": "觉得需要喝水。"
    },
    "level": "A1",
-   "antonyms": [
-    "en:000003216"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000003218",
@@ -92196,7 +92573,8 @@
     "zh": "旅行时背在背上的大包。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003437",
@@ -96960,9 +97338,7 @@
    "kind": "word",
    "description_en": "When the sun or moon is hidden by a shadow.",
    "text": "日食",
-   "alternatives": [
-    "月食"
-   ],
+   "alternatives": [],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "rìshí",
@@ -96971,14 +97347,14 @@
    "study_priority": 3163,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "太阳或月亮被影子遮住。",
+   "description": "月亮挡住太阳的现象。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "太阳或月亮被影子遮住。"
+    "zh": "月亮挡住太阳的现象。"
    },
    "level": "B2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "zh:en:000003635",
@@ -103115,9 +103491,7 @@
     "zh": "关注某人的人，尤指网络上的。"
    },
    "level": "C1",
-   "antonyms": [
-    "en:000001161"
-   ]
+   "antonyms": []
   },
   {
    "id": "zh:en:000003888",
@@ -106030,7 +106404,8 @@
     "zh": "定期刊登研究成果的出版物。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000004010",
@@ -108044,7 +108419,7 @@
    },
    "level": "B1",
    "antonyms": [
-    "en:000000814"
+    "en:000004177"
    ]
   },
   {
@@ -109951,6 +110326,551 @@
    "description": "兄弟的女儿（姐妹的女儿叫外甥女）。",
    "nativeExplain": {
     "zh": "兄弟的女儿（姐妹的女儿叫外甥女）。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004170",
+   "english_id": "en:000004170",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "state-condition",
+   "study_priority": 243,
+   "description_en": "The condition someone or something is in.",
+   "text": "状态",
+   "reading": "zhuàngtài",
+   "romanization": "zhuàngtài",
+   "alternatives": [],
+   "description": "人或事物所处的样子。",
+   "nativeExplain": {
+    "zh": "人或事物所处的样子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004171",
+   "english_id": "en:000004171",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000001776"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "free-notbusy",
+   "study_priority": 243,
+   "description_en": "Not busy; having time.",
+   "text": "有空",
+   "reading": "yǒu kòng",
+   "romanization": "yǒu kòng",
+   "alternatives": [],
+   "description": "没有事情做，有时间。",
+   "nativeExplain": {
+    "zh": "没有事情做，有时间。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004172",
+   "english_id": "en:000004172",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [
+    "en:000002092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "hard-solid",
+   "study_priority": 243,
+   "description_en": "Firm and not soft to touch.",
+   "text": "硬",
+   "reading": "yìng",
+   "romanization": "yìng",
+   "alternatives": [],
+   "description": "摸起来不软。",
+   "nativeExplain": {
+    "zh": "摸起来不软。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004173",
+   "english_id": "en:000004173",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000422"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "present-now",
+   "study_priority": 243,
+   "description_en": "The time now.",
+   "text": "现在",
+   "reading": "xiànzài",
+   "romanization": "xiànzài",
+   "alternatives": [],
+   "description": "现在这个时候。",
+   "nativeExplain": {
+    "zh": "现在这个时候。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004174",
+   "english_id": "en:000004174",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sorry-feel",
+   "study_priority": 243,
+   "description_en": "Feeling sad for someone (\"I'm sorry to hear that\").",
+   "text": "难过",
+   "reading": "nánguò",
+   "romanization": "nánguò",
+   "alternatives": [
+    "同情"
+   ],
+   "description": "为别人的不幸感到难过。",
+   "nativeExplain": {
+    "zh": "为别人的不幸感到难过。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004175",
+   "english_id": "en:000004175",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000001800"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "lower-verb",
+   "study_priority": 243,
+   "description_en": "To move something down or make it less.",
+   "text": "降低",
+   "reading": "jiàngdī",
+   "romanization": "jiàngdī",
+   "alternatives": [],
+   "description": "使位置或数量变低。",
+   "nativeExplain": {
+    "zh": "使位置或数量变低。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004176",
+   "english_id": "en:000004176",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000000814"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "defense",
+   "study_priority": 243,
+   "description_en": "Protecting yourself or something from attack.",
+   "text": "防守",
+   "reading": "fángshǒu",
+   "romanization": "fángshǒu",
+   "alternatives": [
+    "防御"
+   ],
+   "description": "保护自己不受攻击。",
+   "nativeExplain": {
+    "zh": "保护自己不受攻击。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004177",
+   "english_id": "en:000004177",
+   "english_sense_id": null,
+   "part_of_speech": "v",
+   "level": "A2",
+   "antonyms": [
+    "en:000004092"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "attack-verb",
+   "study_priority": 243,
+   "description_en": "To try to hurt or defeat someone.",
+   "text": "攻击",
+   "reading": "gōngjī",
+   "romanization": "gōngjī",
+   "alternatives": [],
+   "description": "想伤害或打败对方。",
+   "nativeExplain": {
+    "zh": "想伤害或打败对方。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004178",
+   "english_id": "en:000004178",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rare-meat",
+   "study_priority": 243,
+   "description_en": "(Of meat) cooked only a little, still red inside.",
+   "text": "三分熟",
+   "reading": "sān fēn shú",
+   "romanization": "sān fēn shú",
+   "alternatives": [],
+   "description": "（肉）只煎一点，里面还是红的。",
+   "nativeExplain": {
+    "zh": "（肉）只煎一点，里面还是红的。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004179",
+   "english_id": "en:000004179",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "rice-cooked",
+   "study_priority": 243,
+   "description_en": "Rice that has been cooked, eaten as food.",
+   "text": "米饭",
+   "reading": "mǐfàn",
+   "romanization": "mǐfàn",
+   "alternatives": [],
+   "description": "煮熟的米。",
+   "nativeExplain": {
+    "zh": "煮熟的米。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004180",
+   "english_id": "en:000004180",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "lunar-eclipse",
+   "study_priority": 243,
+   "description_en": "When the earth's shadow hides the moon.",
+   "text": "月食",
+   "reading": "yuèshí",
+   "romanization": "yuèshí",
+   "alternatives": [],
+   "description": "地球的影子挡住月亮的现象。",
+   "nativeExplain": {
+    "zh": "地球的影子挡住月亮的现象。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004181",
+   "english_id": "en:000004181",
+   "english_sense_id": null,
+   "part_of_speech": "adj",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "sound-adj",
+   "study_priority": 243,
+   "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
+   "text": "完好",
+   "reading": "wánhǎo",
+   "romanization": "wánhǎo",
+   "alternatives": [
+    "安然无恙"
+   ],
+   "description": "没有受伤或损坏。",
+   "nativeExplain": {
+    "zh": "没有受伤或损坏。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004182",
+   "english_id": "en:000004182",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [
+    "en:000003123"
+   ],
+   "novrev_status": "reviewed",
+   "t7_key": "entrance",
+   "study_priority": 243,
+   "description_en": "The way in.",
+   "text": "入口",
+   "reading": "rùkǒu",
+   "romanization": "rùkǒu",
+   "alternatives": [],
+   "description": "进去的地方。",
+   "nativeExplain": {
+    "zh": "进去的地方。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004183",
+   "english_id": "en:000004183",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (father's side).",
+   "text": "堂哥",
+   "reading": "táng gē",
+   "romanization": "táng gē",
+   "alternatives": [],
+   "description": "堂哥：父亲兄弟的孩子。",
+   "nativeExplain": {
+    "zh": "堂哥：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004184",
+   "english_id": "en:000004184",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (father's side).",
+   "text": "堂弟",
+   "reading": "táng dì",
+   "romanization": "táng dì",
+   "alternatives": [],
+   "description": "堂弟：父亲兄弟的孩子。",
+   "nativeExplain": {
+    "zh": "堂弟：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004185",
+   "english_id": "en:000004185",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (father's side).",
+   "text": "堂姐",
+   "reading": "táng jiě",
+   "romanization": "táng jiě",
+   "alternatives": [],
+   "description": "堂姐：父亲兄弟的孩子。",
+   "nativeExplain": {
+    "zh": "堂姐：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004186",
+   "english_id": "en:000004186",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-堂妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (father's side).",
+   "text": "堂妹",
+   "reading": "táng mèi",
+   "romanization": "táng mèi",
+   "alternatives": [],
+   "description": "堂妹：父亲兄弟的孩子。",
+   "nativeExplain": {
+    "zh": "堂妹：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004187",
+   "english_id": "en:000004187",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表哥",
+   "study_priority": 243,
+   "description_en": "A cousin: older male cousin (mother's side).",
+   "text": "表哥",
+   "reading": "biǎo gē",
+   "romanization": "biǎo gē",
+   "alternatives": [],
+   "description": "表哥：母亲兄弟姐妹或父亲姐妹的孩子。",
+   "nativeExplain": {
+    "zh": "表哥：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004188",
+   "english_id": "en:000004188",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表弟",
+   "study_priority": 243,
+   "description_en": "A cousin: younger male cousin (mother's side).",
+   "text": "表弟",
+   "reading": "biǎo dì",
+   "romanization": "biǎo dì",
+   "alternatives": [],
+   "description": "表弟：母亲兄弟姐妹或父亲姐妹的孩子。",
+   "nativeExplain": {
+    "zh": "表弟：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004189",
+   "english_id": "en:000004189",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表姐",
+   "study_priority": 243,
+   "description_en": "A cousin: older female cousin (mother's side).",
+   "text": "表姐",
+   "reading": "biǎo jiě",
+   "romanization": "biǎo jiě",
+   "alternatives": [],
+   "description": "表姐：母亲兄弟姐妹或父亲姐妹的孩子。",
+   "nativeExplain": {
+    "zh": "表姐：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "inicial",
+   "user_hint": "",
+   "id": "zh:en:000004190",
+   "english_id": "en:000004190",
+   "english_sense_id": null,
+   "part_of_speech": "n",
+   "level": "A2",
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "cousin-表妹",
+   "study_priority": 243,
+   "description_en": "A cousin: younger female cousin (mother's side).",
+   "text": "表妹",
+   "reading": "biǎo mèi",
+   "romanization": "biǎo mèi",
+   "alternatives": [],
+   "description": "表妹：母亲兄弟姐妹或父亲姐妹的孩子。",
+   "nativeExplain": {
+    "zh": "表妹：母亲兄弟姐妹或父亲姐妹的孩子。"
    }
   }
  ],
