@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.5.1",
+ "version": "2.5.2",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -41,7 +41,8 @@
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
-  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -37854,10 +37855,10 @@
    "study_tier": "cedo",
    "study_priority": 999,
    "user_hint": "",
-   "description": "人の名前の後につける敬称（男女どちらにも使う）。",
+   "description": "男の人の名前のあとにつける呼び方。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人の名前の後につける敬称（男女どちらにも使う）。"
+    "ja": "男の人の名前のあとにつける呼び方。"
    },
    "antonyms": []
   },
@@ -80600,16 +80601,15 @@
    "romanization": "san",
    "class_real": "honorific suffix",
    "nativeExplain": {
-    "pt-BR": "casada",
-    "ja": "結婚している女の人の名前の前につける敬称。"
+    "ja": "結婚している女の人の名前のあとにつける呼び方。"
    },
    "study_tier": "cedo",
    "study_priority": 1292,
    "user_hint": "",
-   "description": "結婚している女の人の名前の前につける敬称。",
+   "description": "結婚している女の人の名前のあとにつける呼び方。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "ja:en:000001339",
@@ -104409,13 +104409,12 @@
    "romanization": "~ san",
    "class_real": "honorific suffix",
    "nativeExplain": {
-    "pt-BR": "sem indicar estado civil",
-    "ja": "結婚しているかどうかに関係なく、女の人の名前のあとにつける呼び方。"
+    "ja": "女の人の名前のあとにつける呼び方。"
    },
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
-   "description": "結婚しているかどうかに関係なく、女の人の名前のあとにつける呼び方。",
+   "description": "女の人の名前のあとにつける呼び方。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -112200,20 +112199,22 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "身分証明書",
-   "alternatives": [],
+   "alternatives": [
+    "身分証"
+   ],
    "reading": "みぶんしょうめいしょ",
    "romanization": "mibun shoumeisho",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1693,
    "user_hint": "",
-   "description": "身元を示すカード。",
+   "description": "自分がだれかを示すカード。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "身元を示すカード。"
+    "ja": "自分がだれかを示すカード。"
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "ja:en:000002411",
@@ -115550,10 +115551,10 @@
    "study_tier": "inicial",
    "study_priority": 583,
    "user_hint": "",
-   "description": "人のためにしてあげる親切。",
+   "description": "人のためにしてあげる親切なこと。「お願いがあります」のように頼むときにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人のためにしてあげる親切。"
+    "ja": "人のためにしてあげる親切なこと。「お願いがあります」のように頼むときにも使う。"
    },
    "antonyms": []
   },
@@ -118421,10 +118422,12 @@
     "school"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "説明する",
-   "alternatives": [],
-   "reading": "せつめいする",
-   "romanization": "setsumei suru",
+   "text": "描写する",
+   "alternatives": [
+    "述べる"
+   ],
+   "reading": "びょうしゃする",
+   "romanization": "byousha suru",
    "class_real": "suru-verb",
    "forms": [
     {
@@ -118518,11 +118521,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1791,
-   "description": "物や人がどんなかを言葉で伝えること。",
+   "description": "ものや人がどんなようすかを言葉で表す。「説明する」はわけを話すこと。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物や人がどんなかを言葉で伝えること。"
+    "ja": "ものや人がどんなようすかを言葉で表す。「説明する」はわけを話すこと。"
    },
    "antonyms": []
   },
@@ -123851,10 +123854,10 @@
    "study_tier": "cedo",
    "study_priority": 1870,
    "user_hint": "",
-   "description": "年をとって仕事を辞めること。",
+   "description": "年をとって仕事をやめること。「退職」は理由に関係なく仕事をやめること。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "年をとって仕事を辞めること。"
+    "ja": "年をとって仕事をやめること。「退職」は理由に関係なく仕事をやめること。"
    },
    "antonyms": []
   },
@@ -129160,7 +129163,8 @@
    "nativeExplain": {
     "ja": "持っているお金や勝ち分を現金に換える。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003062",
@@ -129537,7 +129541,8 @@
    "nativeExplain": {
     "ja": "少しだけ待ってほしいときに言う言葉。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003014",
@@ -129563,7 +129568,8 @@
    "nativeExplain": {
     "ja": "さっと軽く食べる。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003052",
@@ -129589,7 +129595,8 @@
    "nativeExplain": {
     "ja": "人と会ってコーヒーを飲む。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003019",
@@ -129641,7 +129648,8 @@
    "nativeExplain": {
     "ja": "友だちとのんびり時間を過ごす。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003043",
@@ -129772,7 +129780,8 @@
    "nativeExplain": {
     "ja": "旅や移動に出かける。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003072",
@@ -130104,7 +130113,8 @@
    "nativeExplain": {
     "ja": "「私がお金を出す」という意味。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003089",
@@ -130190,7 +130200,8 @@
    "nativeExplain": {
     "ja": "問題ない、気にしないで、という意味。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003051",
@@ -130218,7 +130229,8 @@
    "nativeExplain": {
     "ja": "店のサービスで、お金はいらない。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003046",
@@ -130243,7 +130255,8 @@
    "nativeExplain": {
     "ja": "とてもかんたんなこと。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003002",
@@ -130587,7 +130600,8 @@
    "nativeExplain": {
     "ja": "体調が少しよくない。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003060",
@@ -130638,7 +130652,8 @@
    "nativeExplain": {
     "ja": "「やあ、元気？」（とてもくだけた言い方）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003005",
@@ -138614,7 +138629,8 @@
     "ja": "赤ちゃん用に、つぶしてやわらかくしたバナナ。"
    },
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003227",
@@ -142290,7 +142306,8 @@
     "ja": "指で空中に形をえがく。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003335",
@@ -145762,7 +145779,8 @@
     "ja": "海の水の中を泳ぐ。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003456",
@@ -146548,7 +146566,8 @@
     "ja": "公園で遊ぶ。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003470",
@@ -147676,7 +147695,8 @@
     "ja": "おとぎ話に出てくる城。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003498",
@@ -156578,6 +156598,7 @@
    "description_en": "The state of being happy.",
    "text": "幸せ",
    "alternatives": [
+    "幸福",
     "幸福"
    ],
    "source_status": "base4-reviewed",
@@ -156620,7 +156641,8 @@
     "ja": "体も心も健やかで、満ち足りていること。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "ja:en:000003866",
@@ -160041,24 +160063,26 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An event with stalls, rides and games.",
-   "text": "縁日",
-   "alternatives": [],
+   "text": "フェア",
+   "alternatives": [
+    "市"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "えんにち",
-   "romanization": "ennichi",
+   "reading": "フェア",
+   "romanization": "fea",
    "study_tier": "cedo",
    "study_priority": 2329,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "屋台や遊びがならぶ、にぎやかな催し。",
+   "description": "店がならび、物を見せたり売ったりする催し。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "屋台や遊びがならぶ、にぎやかな催し。"
+    "ja": "店がならび、物を見せたり売ったりする催し。"
    },
    "level": "A2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "ja:en:000003975",
@@ -162989,114 +163013,27 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "To use rude or offensive words.",
-   "text": "悪口を言う",
-   "alternatives": [],
+   "text": "ののしる",
+   "alternatives": [
+    "悪態をつく"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "わるくちをいう",
-   "romanization": "warukuchioiu",
+   "reading": "ののしる",
+   "romanization": "nonoshiru",
    "study_tier": "cedo",
    "study_priority": 2410,
    "part_of_speech": "v",
-   "forms": [
-    {
-     "form_id": "ja:en:000004055:f:NP.POLITE.POS",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "NP.POLITE.POS",
-     "text": "悪口を言います",
-     "reading": "わるくちをいいます",
-     "romanization": "warukuchioiimasu",
-     "study_tier": "essential",
-     "description_en": "Polite non-past (ます form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:NP.PLAIN.NEG",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "NP.PLAIN.NEG",
-     "text": "悪口を言わない",
-     "reading": "わるくちをいわない",
-     "romanization": "warukuchioiwanai",
-     "study_tier": "essential",
-     "description_en": "Plain negative (ない form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:NP.POLITE.NEG",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "NP.POLITE.NEG",
-     "text": "悪口を言いません",
-     "reading": "わるくちをいいません",
-     "romanization": "warukuchioiimasen",
-     "study_tier": "essential",
-     "description_en": "Polite negative (ません).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:PAST.PLAIN.POS",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "PAST.PLAIN.POS",
-     "text": "悪口を言った",
-     "reading": "わるくちをいった",
-     "romanization": "warukuchioitta",
-     "study_tier": "essential",
-     "description_en": "Plain past (た form).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:PAST.POLITE.POS",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "PAST.POLITE.POS",
-     "text": "悪口を言いました",
-     "reading": "わるくちをいいました",
-     "romanization": "warukuchioiimashita",
-     "study_tier": "essential",
-     "description_en": "Polite past (ました).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:PAST.PLAIN.NEG",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "PAST.PLAIN.NEG",
-     "text": "悪口を言わなかった",
-     "reading": "わるくちをいわなかった",
-     "romanization": "warukuchioiwanakatta",
-     "study_tier": "standard",
-     "description_en": "Plain past negative (なかった).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:PAST.POLITE.NEG",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "PAST.POLITE.NEG",
-     "text": "悪口を言いませんでした",
-     "reading": "わるくちをいいませんでした",
-     "romanization": "warukuchioiimasendeshita",
-     "study_tier": "standard",
-     "description_en": "Polite past negative (ませんでした).",
-     "verb_class": "godan"
-    },
-    {
-     "form_id": "ja:en:000004055:f:TE",
-     "lemma_id": "ja:en:000004055",
-     "grammatical_key": "TE",
-     "text": "悪口を言って",
-     "reading": "わるくちをいって",
-     "romanization": "warukuchioitte",
-     "study_tier": "essential",
-     "description_en": "Te-form: connects actions; base of ている.",
-     "verb_class": "godan"
-    }
-   ],
+   "forms": [],
    "user_hint": "",
-   "description": "人をきずつける、乱暴な言葉を使う。",
+   "description": "ひどい言葉で人を悪く言う。「悪口を言う」はその人がいないところで悪く言うこと。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人をきずつける、乱暴な言葉を使う。"
+    "ja": "ひどい言葉で人を悪く言う。「悪口を言う」はその人がいないところで悪く言うこと。"
    },
    "level": "C2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "ja:en:000004056",
@@ -167860,6 +167797,30 @@
     "ja": "親のきょうだいの子ども。"
    },
    "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "n",
+   "level": "A1",
+   "id": "ja:en:000004191",
+   "english_id": "en:000004191",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "title-miss",
+   "description_en": "Title before an unmarried woman's name (Miss Smith).",
+   "text": "〜さん",
+   "reading": "〜さん",
+   "romanization": "~ san",
+   "alternatives": [],
+   "description": "結婚していない女の人の名前のあとにつける呼び方。",
+   "nativeExplain": {
+    "ja": "結婚していない女の人の名前のあとにつける呼び方。"
+   }
   }
  ]
 }

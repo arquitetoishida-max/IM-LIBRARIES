@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.5.1",
+ "version": "2.5.2",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -40,7 +40,8 @@
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
-  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
  ],
  "entries": [
   {
@@ -6608,10 +6609,10 @@
    "study_tier": "cedo",
    "study_priority": 999,
    "user_hint": "",
-   "description": "放在男士姓氏后面的称呼（如史密斯先生）。",
+   "description": "放在男士的姓后面的称呼（如：王先生）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "放在男士姓氏后面的称呼（如史密斯先生）。"
+    "zh": "放在男士的姓后面的称呼（如：王先生）。"
    },
    "antonyms": []
   },
@@ -39758,13 +39759,13 @@
    "study_tier": "cedo",
    "study_priority": 1292,
    "user_hint": "",
-   "description": "用在已婚女士姓名前的称呼。",
+   "description": "放在已婚女士的姓后面（如：王太太）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用在已婚女士姓名前的称呼。"
+    "zh": "放在已婚女士的姓后面（如：王太太）。"
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "zh:en:000001339",
@@ -58400,10 +58401,10 @@
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
-   "description": "放在女性姓氏后的称呼，不论婚否。",
+   "description": "放在女士的姓后面的称呼，不论是否已婚（如：王女士）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "放在女性姓氏后的称呼，不论婚否。"
+    "zh": "放在女士的姓后面的称呼，不论是否已婚（如：王女士）。"
    },
    "antonyms": []
   },
@@ -64602,13 +64603,13 @@
    "study_tier": "cedo",
    "study_priority": 1693,
    "user_hint": "",
-   "description": "“identification”的缩写：证明身份的证件。",
+   "description": "证明自己身份的证件。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "“identification”的缩写：证明身份的证件。"
+    "zh": "证明自己身份的证件。"
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "zh:en:000002411",
@@ -69757,7 +69758,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "描述",
    "alternatives": [
-    "形容"
+    "描写"
    ],
    "reading": "miáoshù",
    "romanization": "miáoshù",
@@ -78459,7 +78460,8 @@
    "nativeExplain": {
     "zh": "取出自己的钱或赢得的钱。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003062",
@@ -78858,7 +78860,8 @@
    "nativeExplain": {
     "zh": "“请稍等一下。”"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003014",
@@ -78882,7 +78885,8 @@
    "nativeExplain": {
     "zh": "匆匆吃点东西。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003052",
@@ -78906,7 +78910,8 @@
    "nativeExplain": {
     "zh": "约人喝杯咖啡。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003019",
@@ -78957,7 +78962,8 @@
    "nativeExplain": {
     "zh": "和朋友一起放松消磨时间。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003043",
@@ -79095,7 +79101,8 @@
    "nativeExplain": {
     "zh": "启程上路。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003072",
@@ -79429,7 +79436,8 @@
    "nativeExplain": {
     "zh": "“我来请客。”"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003089",
@@ -79515,7 +79523,8 @@
    "nativeExplain": {
     "zh": "“没问题，别担心。”"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003051",
@@ -79541,7 +79550,8 @@
    "nativeExplain": {
     "zh": "免费，由餐厅或酒吧买单。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003046",
@@ -79565,7 +79575,8 @@
    "nativeExplain": {
     "zh": "非常容易的事。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003002",
@@ -79955,7 +79966,8 @@
    "nativeExplain": {
     "zh": "身体有点不舒服。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003060",
@@ -80012,7 +80024,8 @@
    "nativeExplain": {
     "zh": "“嗨，最近怎么样？”（很口语）。"
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003005",
@@ -87517,7 +87530,8 @@
     "zh": "捣成泥的香蕉，给婴儿吃的软食。"
    },
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003227",
@@ -90101,7 +90115,8 @@
     "zh": "用手指在空中画图形。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003335",
@@ -93033,7 +93048,8 @@
     "zh": "在海里游泳。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003456",
@@ -93369,7 +93385,8 @@
     "zh": "在公园里玩。"
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003470",
@@ -94047,7 +94064,8 @@
     "zh": "童话故事里的城堡。"
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003498",
@@ -102914,7 +102932,9 @@
    "kind": "word",
    "description_en": "The state of being happy.",
    "text": "幸福",
-   "alternatives": [],
+   "alternatives": [
+    "幸福感"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "xìngfú",
@@ -102955,7 +102975,8 @@
     "zh": "身心健康、快乐的状态。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "zh:en:000003866",
@@ -105539,26 +105560,26 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "An event with stalls, rides and games.",
-   "text": "游园会",
+   "text": "集市",
    "alternatives": [
-    "庙会"
+    "博览会"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yóuyuánhuì",
+   "reading": "jíshì",
    "romanization": "jíshì",
    "study_tier": "cedo",
    "study_priority": 2329,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "有摊位、游乐设施和游戏的集会。",
+   "description": "摆摊展示或出售东西的活动。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有摊位、游乐设施和游戏的集会。"
+    "zh": "摆摊展示或出售东西的活动。"
    },
    "level": "A2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "zh:en:000003975",
@@ -107501,10 +107522,12 @@
    "kind": "word",
    "description_en": "To use rude or offensive words.",
    "text": "骂人",
-   "alternatives": [],
+   "alternatives": [
+    "说脏话"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "màrén",
+   "reading": "mà rén",
    "romanization": "màrén",
    "study_tier": "cedo",
    "study_priority": 2410,
@@ -107517,7 +107540,7 @@
    },
    "level": "C2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "zh:en:000004056",
@@ -110871,6 +110894,30 @@
    "description": "表妹：母亲兄弟姐妹或父亲姐妹的孩子。",
    "nativeExplain": {
     "zh": "表妹：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "n",
+   "level": "A1",
+   "id": "zh:en:000004191",
+   "english_id": "en:000004191",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "title-miss",
+   "description_en": "Title before an unmarried woman's name (Miss Smith).",
+   "text": "小姐",
+   "reading": "xiǎojiě",
+   "romanization": "xiǎojiě",
+   "alternatives": [],
+   "description": "放在未婚女子的姓后面（如：李小姐）。",
+   "nativeExplain": {
+    "zh": "放在未婚女子的姓后面（如：李小姐）。"
    }
   }
  ],

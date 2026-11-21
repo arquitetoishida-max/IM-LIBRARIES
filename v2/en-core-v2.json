@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.5.1",
+ "version": "2.5.2",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -40,7 +40,8 @@
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
-  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -34091,22 +34092,21 @@
    "english_id": "en:000001337",
    "text": "Mrs",
    "kind": "word",
-   "description_en": "Title before a married woman's name.",
+   "description_en": "Title before a married woman's name (Mrs. Smith).",
    "level": "B1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
    "part_of_speech": "abbr",
    "nativeExplain": {
-    "pt-BR": "casada",
-    "en": "Title before a married woman's name."
+    "en": "Title before a married woman's name (Mrs. Smith)."
    },
    "study_tier": "cedo",
    "study_priority": 1292,
    "user_hint": "",
-   "description": "Title before a married woman's name.",
+   "description": "Title before a married woman's name (Mrs. Smith).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "en:000001339",
@@ -49691,19 +49691,18 @@
    "english_id": "en:000002129",
    "text": "Ms",
    "kind": "word",
-   "description_en": "Title before a woman's name (married or not).",
+   "description_en": "Title before a woman's name, married or not (Ms. Smith).",
    "level": "B2",
    "region_tags": [],
    "source_status": "editorial-reviewed",
    "part_of_speech": "abbr",
    "nativeExplain": {
-    "pt-BR": "sem indicar estado civil",
-    "en": "Title before a woman's name (married or not)."
+    "en": "Title before a woman's name, married or not (Ms. Smith)."
    },
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
-   "description": "Title before a woman's name (married or not).",
+   "description": "Title before a woman's name, married or not (Ms. Smith).",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -55042,7 +55041,7 @@
    "english_id": "en:000002409",
    "text": "ID",
    "kind": "word",
-   "description_en": "Short for \"identification\": a card showing who you are.",
+   "description_en": "A card that shows who you are.",
    "level": "C1",
    "region_tags": [],
    "source_status": "editorial-reviewed",
@@ -55050,13 +55049,17 @@
    "study_tier": "cedo",
    "study_priority": 1693,
    "user_hint": "",
-   "description": "Short for \"identification\": a card showing who you are.",
+   "description": "A card that shows who you are.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Short for \"identification\": a card showing who you are."
+    "en": "A card that shows who you are."
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null,
+   "alternatives": [
+    "identity card",
+    "identity"
+   ]
   },
   {
    "id": "en:000002411",
@@ -90573,7 +90576,9 @@
    "kind": "word",
    "description_en": "The state of being happy.",
    "text": "happiness",
-   "alternatives": [],
+   "alternatives": [
+    "well-being"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -90610,7 +90615,8 @@
     "en": "The state of being healthy and happy."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "en:000003866",
@@ -93261,7 +93267,7 @@
    "english_id": "en:000003974",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "An event with stalls, rides and games.",
+   "description_en": "An event with stalls where things are shown or sold.",
    "text": "fair",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -93270,14 +93276,14 @@
    "study_priority": 2329,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "An event with stalls, rides and games.",
+   "description": "An event with stalls where things are shown or sold.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "An event with stalls, rides and games."
+    "en": "An event with stalls where things are shown or sold."
    },
    "level": "A2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "en:000003975",
@@ -95424,7 +95430,7 @@
    },
    "level": "C2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "en:000004056",
@@ -98991,6 +98997,27 @@
     "en": "A cousin: younger female cousin (mother's side)."
    },
    "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "abbr",
+   "level": "A1",
+   "id": "en:en:000004191",
+   "english_id": "en:000004191",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "title-miss",
+   "description_en": "Title before an unmarried woman's name (Miss Smith).",
+   "text": "Miss",
+   "alternatives": [],
+   "description": "Title before an unmarried woman's name (Miss Smith).",
+   "nativeExplain": {
+    "en": "Title before an unmarried woman's name (Miss Smith)."
+   }
   }
  ]
 }

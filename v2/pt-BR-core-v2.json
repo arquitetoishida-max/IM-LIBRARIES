@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.5.1",
+ "version": "2.5.2",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -40,7 +40,8 @@
   "2.4.8: gírias/regionalismos (y'all, finna, hella, jawn, bodega…) saem do núcleo (search_only); その→それの, 〜ごろ/ぐらい, アメリカの (coisas vs nacionalidade).",
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
-  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora."
+  "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
  ],
  "entries": [
   {
@@ -5367,9 +5368,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "senhor",
+   "text": "Sr.",
    "alternatives": [
-    "Sr."
+    "senhor"
    ],
    "study_tier": "cedo",
    "study_priority": 999,
@@ -14260,9 +14261,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "doutor",
+   "text": "Dr.",
    "alternatives": [
-    "Dr."
+    "doutor"
    ],
    "study_tier": "cedo",
    "study_priority": 1059,
@@ -31053,9 +31054,9 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "senhora",
+   "text": "Sra.",
    "alternatives": [
-    "Sra."
+    "senhora"
    ],
    "study_tier": "cedo",
    "study_priority": 1292,
@@ -31066,7 +31067,7 @@
     "pt-BR": "Título antes do nome de uma mulher casada."
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000001339",
@@ -45611,8 +45612,10 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "senhora (Sra.)",
-   "alternatives": [],
+   "text": "Sra.",
+   "alternatives": [
+    "senhora"
+   ],
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
@@ -50555,18 +50558,21 @@
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "identidade (documento)",
-   "alternatives": [],
+   "text": "identidade",
+   "alternatives": [
+    "RG",
+    "carteira de identidade"
+   ],
    "study_tier": "cedo",
    "study_priority": 1693,
    "user_hint": "",
-   "description": "Sigla de \"identification\": documento que mostra quem você é.",
+   "description": "Documento que mostra quem você é.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sigla de \"identification\": documento que mostra quem você é."
+    "pt-BR": "Documento que mostra quem você é."
    },
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000002411",
@@ -57863,10 +57869,10 @@
    "study_tier": "cedo",
    "study_priority": 1870,
    "user_hint": "",
-   "description": "Parar de trabalhar por causa da idade.",
+   "description": "Deixar de trabalhar por causa da idade. (Em japonês, 退職 é sair do emprego por qualquer motivo; 定年退職 é a aposentadoria.)",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Parar de trabalhar por causa da idade."
+    "pt-BR": "Deixar de trabalhar por causa da idade. (Em japonês, 退職 é sair do emprego por qualquer motivo; 定年退職 é a aposentadoria.)"
    },
    "antonyms": []
   },
@@ -61364,7 +61370,8 @@
    "nativeExplain": {
     "pt-BR": "Retirar o seu dinheiro ou os ganhos."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003062",
@@ -61703,7 +61710,8 @@
    "nativeExplain": {
     "pt-BR": "\"Espere um segundo, por favor.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003014",
@@ -61727,7 +61735,8 @@
    "nativeExplain": {
     "pt-BR": "Comer algo rapidamente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003052",
@@ -61749,7 +61758,8 @@
    "nativeExplain": {
     "pt-BR": "Encontrar alguém para tomar um café."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003019",
@@ -61798,7 +61808,8 @@
    "nativeExplain": {
     "pt-BR": "Passar o tempo relaxando com amigos."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003043",
@@ -61916,7 +61927,8 @@
    "nativeExplain": {
     "pt-BR": "Sair para uma viagem."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003072",
@@ -62202,7 +62214,8 @@
    "nativeExplain": {
     "pt-BR": "\"Eu pago para você.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003089",
@@ -62276,7 +62289,8 @@
    "nativeExplain": {
     "pt-BR": "\"Sem problema; não se preocupe.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003051",
@@ -62298,7 +62312,8 @@
    "nativeExplain": {
     "pt-BR": "De graça, pago pelo restaurante ou bar."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003046",
@@ -62322,7 +62337,8 @@
    "nativeExplain": {
     "pt-BR": "Algo muito fácil."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003002",
@@ -62628,7 +62644,8 @@
    "nativeExplain": {
     "pt-BR": "Sentir-se um pouco doente."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003060",
@@ -62675,7 +62692,8 @@
    "nativeExplain": {
     "pt-BR": "\"Oi, tudo bem?\" (muito informal)."
    },
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003005",
@@ -69203,7 +69221,8 @@
     "pt-BR": "Banana amassada, comida mole para bebês."
    },
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003227",
@@ -71571,7 +71590,8 @@
     "pt-BR": "Desenhar formas no ar com o dedo."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003335",
@@ -74249,7 +74269,8 @@
     "pt-BR": "Nadar no mar."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003456",
@@ -74559,7 +74580,8 @@
     "pt-BR": "Brincar no parque."
    },
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003470",
@@ -75179,7 +75201,8 @@
     "pt-BR": "Um castelo dos contos de fadas."
    },
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003498",
@@ -83262,7 +83285,9 @@
    "kind": "word",
    "description_en": "The state of being happy.",
    "text": "felicidade",
-   "alternatives": [],
+   "alternatives": [
+    "bem-estar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -83299,7 +83324,8 @@
     "pt-BR": "O estado de estar saudável e feliz."
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "search_only"
   },
   {
    "id": "pt-BR:en:000003866",
@@ -85661,14 +85687,14 @@
    "study_priority": 2329,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Evento com barracas, brinquedos e jogos.",
+   "description": "Evento com barracas para mostrar ou vender coisas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Evento com barracas, brinquedos e jogos."
+    "pt-BR": "Evento com barracas para mostrar ou vender coisas."
    },
    "level": "A2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000003975",
@@ -87458,14 +87484,14 @@
    "study_priority": 2410,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Usar palavras grosseiras ou ofensivas.",
+   "description": "Usar palavrões ou ofender alguém com palavras. (Falar mal de alguém pelas costas é outra coisa: maldizer, fofocar.)",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Usar palavras grosseiras ou ofensivas."
+    "pt-BR": "Usar palavrões ou ofender alguém com palavras. (Falar mal de alguém pelas costas é outra coisa: maldizer, fofocar.)"
    },
    "level": "C2",
    "antonyms": [],
-   "core_status": "pending"
+   "core_status": null
   },
   {
    "id": "pt-BR:en:000004056",
@@ -90537,6 +90563,30 @@
     "pt-BR": "Um primo ou prima: prima mais nova (lado da mãe)."
    },
    "core_status": "search_only"
+  },
+  {
+   "kind": "word",
+   "source_status": "editorial-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "n",
+   "level": "A1",
+   "id": "pt-BR:en:000004191",
+   "english_id": "en:000004191",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "title-miss",
+   "description_en": "Title before an unmarried woman's name (Miss Smith).",
+   "text": "Srta.",
+   "alternatives": [
+    "senhorita"
+   ],
+   "description": "Título antes do nome de uma mulher solteira.",
+   "nativeExplain": {
+    "pt-BR": "Título antes do nome de uma mulher solteira."
+   }
   }
  ]
 }
