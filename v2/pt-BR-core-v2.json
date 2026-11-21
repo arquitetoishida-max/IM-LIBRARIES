@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.5.2",
+ "version": "2.5.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -41,7 +41,8 @@
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
   "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
-  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
+  "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい)."
  ],
  "entries": [
   {
@@ -84530,19 +84531,21 @@
    "english_id": "en:000003919",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Approximately; about.",
-   "text": "cerca de",
-   "alternatives": [],
+   "description_en": "At about a certain time (\"around 3 o'clock\").",
+   "text": "por volta de",
+   "alternatives": [
+    "lá pelas"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2274,
    "part_of_speech": "adv",
    "user_hint": "",
-   "description": "Aproximadamente; mais ou menos.",
+   "description": "Perto de certo horário (\"por volta das 3\").",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Aproximadamente; mais ou menos."
+    "pt-BR": "Perto de certo horário (\"por volta das 3\")."
    },
    "level": "A1",
    "antonyms": []
@@ -90587,6 +90590,33 @@
    "nativeExplain": {
     "pt-BR": "Título antes do nome de uma mulher solteira."
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "adv",
+   "level": "A1",
+   "study_priority": 2274,
+   "id": "pt-BR:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "about-amount",
+   "forms": [],
+   "text": "cerca de",
+   "alternatives": [
+    "uns",
+    "mais ou menos"
+   ],
+   "description": "Aproximadamente, com quantidades (\"cerca de 10 pessoas\").",
+   "nativeExplain": {
+    "pt-BR": "Aproximadamente, com quantidades (\"cerca de 10 pessoas\")."
+   },
+   "description_en": "Approximately, used with amounts (\"about 10 people\", \"about an hour\")."
   }
  ]
 }
