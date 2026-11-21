@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -13,7 +13,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3638,
+      "entry_count": 3639,
       "has_ui": false,
       "flag": "🇺🇸",
       "locale": "en-US",
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "625427619f9484769b3e4f2a4a482b056519a0e62719ac38e656f6a76efc569a",
-      "version": "2.5.2",
-      "size_bytes": 2560896
+      "sha256": "f4418aaae7c6fede823042818fa2f5ff70e3f8e39845efcb033645e3b3554202",
+      "version": "2.5.3",
+      "size_bytes": 2561851
     },
     {
       "id": "pt-BR-core-v2",
@@ -35,7 +35,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3638,
+      "entry_count": 3639,
       "has_ui": false,
       "flag": "🇧🇷",
       "locale": "pt-BR",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "b2d6f45ad64a074db7c8400752372aa4b713c8a407345666c4f206a612de4af9",
-      "version": "2.5.2",
-      "size_bytes": 2458679
+      "sha256": "06571c402e18da96c3b8ccbc49955c916676b8001e96261848274be16576b6c7",
+      "version": "2.5.3",
+      "size_bytes": 2459633
     },
     {
       "id": "pt-PT-core-v2",
@@ -80,7 +80,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3638,
+      "entry_count": 3639,
       "has_ui": false,
       "flag": "🇯🇵",
       "locale": "ja-JP",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "e150e2b02640f309b0cc6472ea9bcfdce96fc5e724db694495f9f2e71d99b16d",
-      "version": "2.5.2",
-      "size_bytes": 4658119
+      "sha256": "01b706b6a213fccb26fc637f691fc9ababb4af5e871ad3ebcc9326eb91949e55",
+      "version": "2.5.3",
+      "size_bytes": 4659378
     },
     {
       "id": "es-core-v2",
@@ -194,7 +194,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3638,
+      "entry_count": 3639,
       "has_ui": false,
       "flag": "🇨🇳",
       "locale": "zh-CN",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "3c7dd1ba67e4056a96d1b6989160016fb8ccfadf0166695ecfdd3dcf75a813d4",
-      "version": "2.5.2",
-      "size_bytes": 2878429
+      "sha256": "435af009a035a8ac7b170afed0c9c3eb1c0ac18d4cd363d559a24defb0c8e131",
+      "version": "2.5.3",
+      "size_bytes": 2879372
     },
     {
       "id": "ko-core-v2",
@@ -1030,6 +1030,7 @@
     "1.4.9: core 2.4.9.",
     "1.5.0: core 2.5.0.",
     "1.5.1: core 2.5.1.",
-    "1.5.2: core 2.5.2."
+    "1.5.2: core 2.5.2.",
+    "1.5.3: core 2.5.3."
   ]
 }

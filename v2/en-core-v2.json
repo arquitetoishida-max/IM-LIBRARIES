@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.5.2",
+ "version": "2.5.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -41,7 +41,8 @@
   "2.4.9: revisão T5 de 100% dos conceitos nos 4 idiomas (≈400 correções; gírias, siglas e nomes próprios fora do núcleo).",
   "2.5.0: revisão T6 linha por linha (744 correções: palavras, leituras, pinyin, descrições, alternativas, flexões, classes; gírias/siglas/regionalismos fora; pendentes ocultos) + irmão/irmã mais velho/mais novo, neto, sobrinho/a.",
   "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
-  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais)."
+  "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
+  "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -91881,7 +91882,7 @@
    "english_id": "en:000003919",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Approximately; about.",
+   "description_en": "At about a certain time (\"around 3 o'clock\").",
    "text": "around",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -91890,10 +91891,10 @@
    "study_priority": 2274,
    "part_of_speech": "adv",
    "user_hint": "",
-   "description": "Approximately; about.",
+   "description": "At about a certain time (\"around 3 o'clock\").",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Approximately; about."
+    "en": "At about a certain time (\"around 3 o'clock\")."
    },
    "level": "A1",
    "antonyms": []
@@ -99018,6 +99019,32 @@
    "nativeExplain": {
     "en": "Title before an unmarried woman's name (Miss Smith)."
    }
+  },
+  {
+   "kind": "word",
+   "source_status": "base4-reviewed",
+   "translation_confidence": "editorial-reviewed",
+   "study_tier": "cedo",
+   "user_hint": "",
+   "part_of_speech": "adv",
+   "level": "A1",
+   "study_priority": 2274,
+   "id": "en:en:000004192",
+   "english_id": "en:000004192",
+   "english_sense_id": null,
+   "antonyms": [],
+   "novrev_status": "reviewed",
+   "t7_key": "about-amount",
+   "forms": [],
+   "text": "about",
+   "alternatives": [
+    "around"
+   ],
+   "description": "Approximately, used with amounts (\"about 10 people\", \"about an hour\").",
+   "nativeExplain": {
+    "en": "Approximately, used with amounts (\"about 10 people\", \"about an hour\")."
+   },
+   "description_en": "Approximately, used with amounts (\"about 10 people\", \"about an hour\")."
   }
  ]
 }
