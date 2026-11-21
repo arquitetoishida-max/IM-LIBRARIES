@@ -1,0 +1,88 @@
+{"i":"000002054","d":{"pt":"Ciência aplicada a ferramentas, máquinas e aparelhos (uso informal).","ja":"科学の知識を使った技術。","zh":"“科学技术”的简称。"},"why":"descrições ja/zh erradas (テクノロジー não é forma curta; 科技 não é 口语 de 技术) e pt repetia a palavra"}
+{"i":"000002073","w":{"zh":{"t":"流动","r":"liúdòng","a":[]}},"why":"zh 流 sozinho não é o substantivo comum para 'flow'"}
+{"i":"000002089","w":{"pt":{"t":"selecionou","a":["selecionado"]},"ja":{"t":"選んだ","r":"えらんだ","ro":"eranda","a":["選ばれた"]},"zh":{"t":"选择了","r":"xuǎnzé le","a":["选定的"]}},"d":{"ja":"「select」（選ぶ）の過去形。"},"why":"forma de passado de select: ja/zh estavam na passiva, inconsistente com os outros verbos no passado"}
+{"i":"000002100","w":{"ja":{"ro":"~ dewa nakatta"},"zh":{"t":"不是","a":["没有"]}},"why":"romaji fora do padrão; zh com anotação '(过去)' dentro do termo"}
+{"i":"000002111","w":{"ja":{"ro":"kakunin shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002117","forms":{"ja":{"NP.POLITE.POS":{"t":"食べさせます","r":"たべさせます","ro":"tabesasemasu"},"NP.PLAIN.NEG":{"t":"食べさせない","r":"たべさせない","ro":"tabesasenai"},"NP.POLITE.NEG":{"t":"食べさせません","r":"たべさせません","ro":"tabesasemasen"},"PAST.PLAIN.POS":{"t":"食べさせた","r":"たべさせた","ro":"tabesaseta"},"PAST.POLITE.POS":{"t":"食べさせました","r":"たべさせました","ro":"tabesasemashita"},"PAST.PLAIN.NEG":{"t":"食べさせなかった","r":"たべさせなかった","ro":"tabesasenakatta"},"PAST.POLITE.NEG":{"t":"食べさせませんでした","r":"たべさせませんでした","ro":"tabesasemasendeshita"},"TE":{"t":"食べさせて","r":"たべさせて","ro":"tabesasete"}}},"why":"flexões ja eram de えさをやる, não do termo principal 食べさせる"}
+{"i":"000002119","w":{"zh":{"a":["准许"]}},"why":"zh alt 同意 (concordar) não é sinônimo de conceder"}
+{"i":"000002120","w":{"ja":{"ro":"seichou shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002129","w":{"ja":{"ro":"~ san"}},"d":{"ja":"結婚しているかどうかに関係なく、女の人の名前のあとにつける呼び方。","zh":"放在女性姓氏后的称呼，不论婚否。"},"why":"さん e 女士 vêm DEPOIS do nome, não antes; romaji fora do padrão"}
+{"i":"000002163","w":{"ja":{"t":"どこにでも","r":"どこにでも","ro":"doko ni demo","a":["至る所に"]}},"why":"どこでも = 'em qualquer lugar' (anywhere); 'everywhere' = どこにでも/至る所"}
+{"i":"000002180","w":{"ja":{"ro":"kiku koto"}},"why":"romaji: separar 'koto'"}
+{"i":"000002189","w":{"ja":{"ro":"rokuon shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002210","forms":{"ja":{"NP.PLAIN.NEG":{"t":"かわいくない","r":"かわいくない","ro":"kawaikunai"},"PAST.PLAIN.POS":{"t":"かわいかった","r":"かわいかった","ro":"kawaikatta"},"PAST.PLAIN.NEG":{"t":"かわいくなかった","r":"かわいくなかった","ro":"kawaikunakatta"}}},"why":"flexões absurdas (かわよくない): かわいい é regular, não segue いい→よい"}
+{"i":"000002217","d":{"ja":"遠くへ出かけること。長い道のりの移動。"},"why":"descrição ja repetia a palavra 旅"}
+{"i":"000002221","w":{"ja":{"ro":"iji suru"}},"why":"romaji: separar 'suru'"}
+{"i":"000002230","d":{"ja":"ほかと分けて、それだけを取りあげて。"},"why":"descrição ja repetia a palavra (とくに)"}
+{"i":"000002241","w":{"ja":{"ro":"shounin sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002244","w":{"ja":{"ro":"taiho sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002254","w":{"ja":{"ro":"enchou sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002268","d":{"ja":"正しいやり方で、ていねいに。"},"why":"descrição ja repetia a palavra (きちんと)"}
+{"i":"000002293","w":{"ja":{"t":"ボウル","r":"ボウル","ro":"bouru","a":["お椀","茶碗"]}},"why":"おわん é só a tigela de sopa (laqueada); 'bowl' genérico = ボウル"}
+{"i":"000002315","w":{"ja":{"t":"母さん","r":"かあさん","ro":"kaasan","a":["ママ"]}},"d":{"ja":"母親のくだけた呼び方。"},"why":"conceito é informal; お母さん não é a forma informal"}
+{"i":"000002326","w":{"ja":{"ro":"tokuten shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002344","d":{"ja":"牛乳の脂肪の部分。肌にぬる薬の意味もある。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002347","w":{"ja":{"ro":"haitatsu shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002362","d":{"ja":"ほかの人ではなく、私たちが自分で、という意味。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002374","w":{"ja":{"t":"ちっちゃい","r":"ちっちゃい","ro":"chicchai","a":["ちっぽけな","ごく小さい"]},"zh":{"t":"小小的","r":"xiǎoxiǎo de","a":["微小"]}},"forms":{"ja":{"NP.PLAIN.NEG":{"t":"ちっちゃくない","r":"ちっちゃくない","ro":"chicchakunai"},"PAST.PLAIN.POS":{"t":"ちっちゃかった","r":"ちっちゃかった","ro":"chicchakatta"},"PAST.PLAIN.NEG":{"t":"ちっちゃくなかった","r":"ちっちゃくなかった","ro":"chicchakunakatta"}}},"why":"ja 'とても小さい' e zh '很小' são locuções (muito + pequeno), não a palavra para 'tiny'"}
+{"i":"000002377","w":{"ja":{"ro":"zannen nagara"}},"why":"romaji: separar 'nagara'"}
+{"i":"000002381","w":{"ja":{"ro":"touhyou shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002384","forms":{"ja":{"NP.POLITE.POS":{"t":"手を振ります","r":"てをふります","ro":"te o furimasu"},"NP.PLAIN.NEG":{"t":"手を振らない","r":"てをふらない","ro":"te o furanai"},"NP.POLITE.NEG":{"t":"手を振りません","r":"てをふりません","ro":"te o furimasen"},"PAST.PLAIN.POS":{"t":"手を振った","r":"てをふった","ro":"te o futta"},"PAST.POLITE.POS":{"t":"手を振りました","r":"てをふりました","ro":"te o furimashita"},"PAST.PLAIN.NEG":{"t":"手を振らなかった","r":"てをふらなかった","ro":"te o furanakatta"},"PAST.POLITE.NEG":{"t":"手を振りませんでした","r":"てをふりませんでした","ro":"te o furimasendeshita"},"TE":{"t":"手を振って","r":"てをふって","ro":"te o futte"}}},"why":"romaji das flexões com partícula colada (teofurimasu)"}
+{"i":"000002392","w":{"ja":{"t":"選んだ","r":"えらんだ","ro":"eranda","a":["選ばれた"]},"zh":{"t":"选择了","r":"xuǎnzé le","a":["被选中的"]}},"why":"'I have chosen' é ativo; ja/zh estavam na passiva"}
+{"i":"000002397","w":{"ja":{"t":"願望","r":"がんぼう","ro":"ganbou","a":["欲望"]}},"why":"欲望 tem conotação de cobiça/luxúria; 'strong wish' = 願望"}
+{"i":"000002412","d":{"ja":"大部分は。だいたいは。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002420","d":{"ja":"よいと思うものを、使ったり選んだりするよう人に言う。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002421","w":{"ja":{"ro":"genkyuu shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002423","w":{"ja":{"t":"求める","r":"もとめる","ro":"motomeru","a":["探す"]}},"d":{"ja":"ほしいものを手に入れようとさがす（かたい言い方）。"},"forms":{"ja":{"NP.POLITE.POS":{"t":"求めます","r":"もとめます","ro":"motomemasu"},"NP.PLAIN.NEG":{"t":"求めない","r":"もとめない","ro":"motomenai"},"NP.POLITE.NEG":{"t":"求めません","r":"もとめません","ro":"motomemasen"},"PAST.PLAIN.POS":{"t":"求めた","r":"もとめた","ro":"motometa"},"PAST.POLITE.POS":{"t":"求めました","r":"もとめました","ro":"motomemashita"},"PAST.PLAIN.NEG":{"t":"求めなかった","r":"もとめなかった","ro":"motomenakatta"},"PAST.POLITE.NEG":{"t":"求めませんでした","r":"もとめませんでした","ro":"motomemasendeshita"},"TE":{"t":"求めて","r":"もとめて","ro":"motomete"}}},"why":"'seek' é formal: 求める; 探す é o neutro e a descrição repetia a palavra"}
+{"i":"000002431","w":{"ja":{"ro":"douyou shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002440","w":{"ja":{"ro":"kantoku shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002450","d":{"ja":"知らせや知識、データのこと。","zh":"消息或资料（口语）。"},"why":"ja dizia que 情報 é forma curta de 情報 (absurdo); zh repetia a palavra"}
+{"i":"000002451","d":{"ja":"いちばん大きな部分として。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002455","w":{"zh":{"a":["绘画"]}},"why":"zh alt 油画 é só pintura a óleo (sentido mais estreito)"}
+{"i":"000002465","d":{"zh":"用来接通或切断电源的装置。"},"why":"descrição zh repetia a palavra"}
+{"i":"000002472","w":{"ja":{"ro":"ninmei sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002478","w":{"zh":{"t":"纽带","r":"niǔdài","a":["联系"]}},"why":"联系 é 'contato/ligação' genérico; vínculo afetivo = 纽带"}
+{"i":"000002488","w":{"zh":{"t":"很多","r":"hěn duō","a":["一堆"]}},"d":{"ja":"数や量が多いこと。"},"why":"zh 一堆 = 'uma pilha' (pinyin também sem sandhi); 'a lot' comum = 很多; desc ja repetia a palavra"}
+{"i":"000002496","w":{"ja":{"ro":"setsumei shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002515","d":{"ja":"かたく心に決めること。画面のきめ細かさの意味もある。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002523","d":{"zh":"最能体现某类事物普遍特点的。"},"why":"descrição zh repetia a palavra"}
+{"i":"000002528","d":{"ja":"本当だと、しぶしぶ受け入れる。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002534","w":{"zh":{"t":"投入的","r":"tóurù de","a":["敬业的"]}},"d":{"ja":"あることに力をつくして、うちこんでいる。"},"why":"zh 专心的 = concentrado (focused), não dedicado; desc ja repetia a palavra"}
+{"i":"000002536","d":{"ja":"えんぴつやペンで線をかいてつくったもの。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002559","w":{"ja":{"ro":"jouin giin"}},"why":"romaji: separar palavras do composto"}
+{"i":"000002579","w":{"ja":{"ro":"kagaku busshitsu"}},"why":"romaji: separar palavras do composto"}
+{"i":"000002603","d":{"ja":"集団の代わりに話したり行動したりする人。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002611","w":{"ja":{"ro":"koutsuu kikan"}},"why":"romaji: separar palavras do composto"}
+{"i":"000002612","d":{"zh":"经过种种之后，到最后。"},"why":"descrição zh repetia a palavra"}
+{"i":"000002615","d":{"ja":"家のまわりの土地。約0.9メートルの長さの単位の意味もある。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002629","w":{"ja":{"ro":"teigi sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002630","pos":"phr","d":{"ja":"あることの違いで、結果が変わるという意味。"},"why":"'depending on' não é verbo; desc ja repetia a palavra"}
+{"i":"000002644","d":{"ja":"大切である度合い。","zh":"某事有多么要紧。"},"why":"descrições ja/zh repetiam a palavra"}
+{"i":"000002657","w":{"zh":{"r":"yìliú de"}},"why":"pinyin: 一 antes de 2º tom = yì (padrão do arquivo com sandhi)"}
+{"i":"000002660","w":{"ja":{"t":"スペース","r":"スペース","ro":"supeesu","a":["余地"]}},"why":"'room' (espaço livre, 'there's no room') em ja comum = スペース/余地; 空間 é 'espaço' abstrato/arquitetônico"}
+{"i":"000002673","w":{"zh":{"a":["出席"]}},"why":"alt zh '上（学）' com parênteses não é um termo"}
+{"i":"000002682","w":{"ja":{"ro":"sengen shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002684","d":{"ja":"表面から底までの距離。","zh":"从表面到底部的距离。"},"why":"descrições ja/zh repetiam a palavra"}
+{"i":"000002697","d":{"ja":"とてもうれしい気持ち。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002699","d":{"ja":"国が定めた決まりの全体。","zh":"国家制定的各项法规。"},"why":"descrições ja/zh repetiam a palavra"}
+{"i":"000002700","w":{"zh":{"t":"维护","r":"wéihù","a":["保养","维修"]}},"why":"zh 维修 = conserto; manutenção (manter em bom estado) = 维护/保养"}
+{"i":"000002717","w":{"ja":{"t":"米","r":"こめ","ro":"kome","a":["ご飯"]},"zh":{"t":"米","r":"mǐ","a":["米饭"]}},"d":{"ja":"白い小さな粒の穀物。たいたものは「ご飯」と言う。","zh":"白色小颗粒的粮食，煮熟后叫“米饭”。"},"why":"conceito = os grãos; ご飯/米饭 é só o arroz cozido; descrição agora cita a distinção"}
+{"i":"000002725","d":{"ja":"まちがいなく、たしかに。","zh":"没有疑问，必然。"},"why":"descrições ja/zh repetiam a palavra"}
+{"i":"000002727","w":{"ja":{"ro":"koushin sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002744","retire":true,"why":"Democrat = partido político dos EUA (regionalismo/nome próprio)"}
+{"i":"000002746","w":{"ja":{"ro":"unten shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002753","d":{"ja":"人から見えないところへしまう。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002754","d":{"ja":"起こったこと。よくないことが多い。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002769","d":{"ja":"声を使って、メロディーのある音を出すこと。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002784","w":{"ja":{"t":"絶えず","r":"たえず","ro":"taezu","a":["常に","いつも"]}},"d":{"ja":"休みなく、ずっと続けて。"},"why":"いつも = 'sempre/habitualmente'; 'constantly' (sem parar) = 絶えず/常に"}
+{"i":"000002787","forms":{"ja":{"NP.POLITE.POS":{"t":"場合によります","r":"ばあいによります","ro":"baai ni yorimasu"},"NP.PLAIN.NEG":{"t":"場合によらない","r":"ばあいによらない","ro":"baai ni yoranai"},"NP.POLITE.NEG":{"t":"場合によりません","r":"ばあいによりません","ro":"baai ni yorimasen"},"PAST.PLAIN.POS":{"t":"場合によった","r":"ばあいによった","ro":"baai ni yotta"},"PAST.POLITE.POS":{"t":"場合によりました","r":"ばあいによりました","ro":"baai ni yorimashita"},"PAST.PLAIN.NEG":{"t":"場合によらなかった","r":"ばあいによらなかった","ro":"baai ni yoranakatta"},"PAST.POLITE.NEG":{"t":"場合によりませんでした","r":"ばあいによりませんでした","ro":"baai ni yorimasendeshita"},"TE":{"t":"場合によって","r":"ばあいによって","ro":"baai ni yotte"}}},"why":"romaji das flexões com partícula colada (baainiyorimasu)"}
+{"i":"000002792","d":{"ja":"ごくわずかしか〜しない。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002794","d":{"ja":"下から上までの長さ。"},"why":"descrição ja repetia a palavra"}
+{"i":"000002797","w":{"ja":{"ro":"shoutai sareta"}},"why":"romaji: separar 'sareta'"}
+{"i":"000002816","w":{"ja":{"t":"定年退職","r":"ていねんたいしょく","ro":"teinen taishoku","a":["退職","引退"]}},"why":"退職 = sair do emprego por qualquer motivo; aposentadoria por idade = 定年退職"}
+{"i":"000002830","pos":"v","why":"'wondering' (perguntando-se) é forma verbal, não substantivo"}
+{"i":"000002832","w":{"ja":{"ro":"kougeki shita"}},"why":"romaji: separar 'shita'"}
+{"i":"000002837","w":{"zh":{"t":"失明的","r":"shīmíng de","a":["盲","瞎"]}},"d":{"ja":"視力がなく、物を見ることができない。"},"forms":{"ja":{"NP.PLAIN.NEG":{"t":"目が見える","r":"めがみえる","ro":"me ga mieru"},"PAST.PLAIN.POS":{"t":"目が見えなかった","r":"めがみえなかった","ro":"me ga mienakatta"},"PAST.PLAIN.NEG":{"t":"目が見えた","r":"めがみえた","ro":"me ga mieta"}}},"why":"flexões absurdas (目が見えなくない = dupla negação); zh 失明 é verbo 'perder a visão'; desc ja repetia a palavra"}
+{"i":"000002804","retire":true,"why":"sigla (PC); regra do dono: sigla → aposentar"}
+{"i":"000002409","retire":true,"why":"sigla (ID); regra do dono: sigla → aposentar"}
+{"i":"000002184","retire":true,"why":"abreviação informal (max) que duplica o conceito 'maximum' (000002452)"}

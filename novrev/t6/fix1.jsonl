@@ -1,0 +1,91 @@
+{"i":"000000008","w":{"pt":{"a":["aquela","esse","essa"]}},"why":"aquilo é pronome, não determinante"}
+{"i":"000000009","w":{"zh":{"a":["你们","您"]}},"d":{"pt":"A pessoa ou as pessoas com quem se fala (tu em algumas regiões).","ja":"話している相手を指す言葉。目上の人にはあまり使わない。","zh":"指正在对话的对方；礼貌的说法是“您”。"},"why":"desc pt repetia 'você'; nuance formal ja/zh"}
+{"i":"000000013","w":{"pt":{"a":["esta","esse","essa"]}},"why":"isto é pronome, não determinante"}
+{"i":"000000016","w":{"zh":{"a":[]}},"d":{"ja":"同じやり方であることを表す言葉。"},"why":"作为 é outro sentido (na qualidade de); desc ja repetia ように"}
+{"i":"000000022","d":{"ja":"そばに。また、だれがしたかを示す言葉。"},"why":"desc ja repetia a palavra"}
+{"i":"000000038","w":{"ja":{"r":"つもり"}},"why":"leitura não deve conter ~"}
+{"i":"000000046","w":{"ja":{"a":["〜とき"]}},"why":"sentido conjunção (no momento em que) = とき"}
+{"i":"000000064","d":{"ja":"男の人、女の人、子どもなど、多くの人。"},"why":"desc ja repetia 人々"}
+{"i":"000000073","d":{"ja":"その物や動物のもの。"},"why":"desc ja repetia それの"}
+{"i":"000000079","w":{"zh":{"a":[]}},"why":"首先 é advérbio (antes de tudo), outra classe"}
+{"i":"000000082","forms":{"ja":{"NP.PLAIN.NEG":{"t":"知らない","r":"しらない","ro":"shiranai"},"NP.POLITE.NEG":{"t":"知りません","r":"しりません","ro":"shirimasen"},"PAST.PLAIN.NEG":{"t":"知らなかった","r":"しらなかった","ro":"shiranakatta"},"PAST.POLITE.NEG":{"t":"知りませんでした","r":"しりませんでした","ro":"shirimasendeshita"}}},"why":"negativo de 知っている é 知らない; 知っていない é antinatural"}
+{"i":"000000095","w":{"ja":{"a":["から","ので"]}},"why":"conjunções causais mais comuns"}
+{"i":"000000097","d":{"ja":"うまく、よい状態で。"},"why":"desc ja repetia じょうずに"}
+{"i":"000000099","d":{"ja":"通るところ。または、やり方。"},"why":"desc ja repetia 道"}
+{"i":"000000109","d":{"ja":"うそではなく、心から。"},"why":"desc ja repetia 本当に"}
+{"i":"000000111","d":{"ja":"まちがいがないこと。"},"why":"desc ja repetia 正しい"}
+{"i":"000000112","d":{"ja":"お金をかせぐためにすること。"},"why":"desc ja repetia しごと"}
+{"i":"000000115","w":{"zh":{"a":[]}},"why":"人 não é sinônimo de 生物"}
+{"i":"000000130","d":{"ja":"言葉を口に出すこと。"},"why":"desc ja repetia 言う"}
+{"i":"000000140","d":{"pt":"Desse tipo; tanto (\"um dia tão bom\")."},"why":"exemplo pt agramatical ('tão bom dia')"}
+{"i":"000000147","d":{"ja":"目的のために物を役立てること。"},"why":"desc ja repetia 使う"}
+{"i":"000000176","d":{"ja":"形のある品や、何かのこと。"},"why":"desc ja repetia 物"}
+{"i":"000000179","d":{"ja":"ある決まったところ。"},"why":"desc ja repetia 場所"}
+{"i":"000000181","d":{"ja":"もう一回。"},"why":"desc ja repetia また"}
+{"i":"000000183","d":{"ja":"ひとつひとつ、別々に。"},"why":"desc ja repetia それぞれ"}
+{"i":"000000184","d":{"ja":"人の名前の後につける敬称（男女どちらにも使う）。","zh":"放在男士姓氏后面的称呼（如史密斯先生）。"},"why":"さん e 先生 vêm DEPOIS do nome, não antes"}
+{"i":"000000201","d":{"ja":"物をある場所に下ろしておくこと。"},"why":"desc ja repetia 置く"}
+{"i":"000000211","d":{"ja":"数や量が多いこと。"},"why":"desc ja repetia たくさん"}
+{"i":"000000214","d":{"ja":"楽しいことをして時間を過ごすこと。楽器で演奏する意味もある。"},"why":"desc ja repetia 遊ぶ"}
+{"i":"000000221","d":{"ja":"実際にある。にせ物ではない。"},"why":"desc ja repetia 本当"}
+{"i":"000000225","d":{"ja":"物をある場所にすえる。整える。"},"why":"desc ja repetia 置く"}
+{"i":"000000226","d":{"ja":"頭の中にある思いや意見。"},"why":"desc ja repetia 考え"}
+{"i":"000000227","d":{"ja":"もう済んでいる。"},"why":"desc ja repetia 終わる"}
+{"i":"000000228","d":{"ja":"それでも。前と反対のことを言うときの言葉。"},"why":"desc ja repetia しかし"}
+{"i":"000000230","w":{"pt":{"t":"deus","a":["Deus"]},"zh":{"t":"神","r":"shén","a":["上帝"]}},"d":{"ja":"人々があがめる、人をこえた存在。","zh":"人们崇拜的超自然存在；一神教中指上帝。"},"why":"conceito genérico: pt minúsculo; zh 上帝 é o Deus cristão, genérico é 神; desc ja repetia 神 e falava de maiúscula"}
+{"i":"000000239","d":{"ja":"何かを新しくやりだすこと。","zh":"从某一点起着手做某事。"},"why":"desc ja/zh repetiam a palavra"}
+{"i":"000000256","d":{"ja":"人を助ける。物が倒れないよう下から持つ。"},"why":"desc ja repetia 支える"}
+{"i":"000000267","forms":{"ja":{"NP.POLITE.POS":{"t":"伝えます","r":"つたえます","ro":"tsutaemasu"},"NP.PLAIN.NEG":{"t":"伝えない","r":"つたえない","ro":"tsutaenai"},"NP.POLITE.NEG":{"t":"伝えません","r":"つたえません","ro":"tsutaemasen"},"PAST.POLITE.POS":{"t":"伝えました","r":"つたえました","ro":"tsutaemashita"},"PAST.PLAIN.NEG":{"t":"伝えなかった","r":"つたえなかった","ro":"tsutaenakatta"},"PAST.POLITE.NEG":{"t":"伝えませんでした","r":"つたえませんでした","ro":"tsutaemasendeshita"},"TE":{"t":"伝えて","r":"つたえて","ro":"tsutaete"}}},"why":"flexões eram de 話す, mas a palavra é 伝える"}
+{"i":"000000268","d":{"ja":"あるものを一部として入れて。"},"why":"desc ja repetia 含めて"}
+{"i":"000000273","w":{"ja":{"a":["やめる","止める"]}},"why":"やめる é o comum para parar de fazer algo"}
+{"i":"000000286","d":{"ja":"お金をもらってする働き。または、やるべきこと。"},"why":"desc ja repetia 仕事"}
+{"i":"000000293","d":{"zh":"美国的，指事物；人的国籍说“美国人”。"},"why":"aspas ASCII no zh"}
+{"i":"000000302","d":{"ja":"独自の土地と政府をもつところ。"},"why":"desc ja repetia 国"}
+{"i":"000000263","d":{"ja":"やるのに力がいる。かたくて、やわらかくない意味もある。"},"why":"desc ja repetia むずかしい"}
+{"i":"000000319","d":{"ja":"おたがいにそろって。"},"why":"desc ja repetia いっしょに"}
+{"i":"000000325","d":{"ja":"ものを分けたときのひとつのまとまり（「どんな音楽？」）。"},"why":"desc ja repetia 種類"}
+{"i":"000000327","d":{"ja":"それぞれについて。「1時間に10ドル」のように使う。"},"why":"desc ja repetia あたり"}
+{"i":"000000329","d":{"ja":"本当にあったことや作った出来事を語ったもの。"},"why":"desc ja repetia 話"}
+{"i":"000000348","d":{"ja":"ネットに文や写真をのせる。郵便で送る意味もある。"},"why":"desc ja repetia 投稿"}
+{"i":"000000353","w":{"ja":{"ro":"hoka no hitotachi"}},"why":"romaji fora do padrão do arquivo (hitotachi junto)"}
+{"i":"000000359","retire":true,"why":"gíria/informal do inglês (guys), sem equivalente próprio em ja/zh"}
+{"i":"000000373","retire":true,"why":"gíria/informal do inglês (guy); ja/zh usam palavra neutra"}
+{"i":"000000364","d":{"ja":"考えたり感じたりする、自分の内側のはたらき。"},"why":"desc ja repetia 心"}
+{"i":"000000368","d":{"ja":"人の頭から足までの全体。","zh":"人从头到脚的整体。"},"why":"desc ja/zh repetiam a palavra"}
+{"i":"000000369","pending":true,"why":"flexões ja são de 今行く (imaikimasu), não de 来る/来るところ; particípio não deveria ter conjugação"}
+{"i":"000000379","d":{"ja":"まちがいがない。うそではない。"},"why":"desc ja repetia 本当の"}
+{"i":"000000385","d":{"ja":"サイズがふつうより上である。"},"why":"desc ja repetia 大きい"}
+{"i":"000000192","d":{"ja":"サイズがふつうより上である。"},"why":"desc ja repetia 大きい"}
+{"i":"000000394","d":{"ja":"正しくない。"},"why":"desc ja repetia まちがう"}
+{"i":"000000401","d":{"ja":"ずいぶん、思ったより。形容詞では、きれいなこと。"},"why":"desc ja repetia かなり"}
+{"i":"000000404","d":{"ja":"ごくわずかな量や部分。"},"why":"desc ja repetia 少し"}
+{"i":"000000410","d":{"ja":"そうなる可能性が高いこと。"},"why":"desc ja repetia たぶん"}
+{"i":"000000412","d":{"ja":"意味や内容が頭に入ること。"},"why":"desc ja repetia わかる"}
+{"i":"000000428","d":{"ja":"私たち人のこと。"},"why":"desc ja repetia 人間"}
+{"i":"000000435","d":{"ja":"大人になった女性。"},"why":"desc ja repetia 女の人"}
+{"i":"000000142","d":{"ja":"大人になった男性。"},"why":"desc ja repetia 男の人"}
+{"i":"000000440","d":{"ja":"ある場所からはなれていくこと。"},"why":"desc ja repetia 出る"}
+{"i":"000000454","d":{"ja":"長くない。（背については「低い」を使う。）"},"why":"短い não significa baixo de estatura; isso é 背が低い"}
+{"i":"000000460","d":{"ja":"思ったより、ずいぶん。「rather than」でむしろの意味。"},"why":"desc ja repetia かなり"}
+{"i":"000000472","d":{"ja":"もっと。もっと遠く。"},"why":"desc ja repetia さらに"}
+{"i":"000000478","d":{"ja":"何かを行う。劇で演じる。"},"why":"desc ja repetia 行動する"}
+{"i":"000000493","retire":true,"why":"gíria/informal do inglês (gonna)"}
+{"i":"000000499","d":{"ja":"思ったより、ずいぶん。"},"why":"desc ja repetia かなり"}
+{"i":"000000509","d":{"ja":"顔が向いている方の側。"},"why":"desc ja repetia 前"}
+{"i":"000000513","d":{"ja":"いつもではなく、たまに。"},"why":"desc ja repetia ときどき"}
+{"i":"000000517","forms":{"ja":{"NP.POLITE.POS":{"t":"持ってきます","r":"もってきます","ro":"mottekimasu"},"NP.PLAIN.NEG":{"t":"持ってこない","r":"もってこない","ro":"mottekonai"},"NP.POLITE.NEG":{"t":"持ってきません","r":"もってきません","ro":"mottekimasen"},"PAST.POLITE.POS":{"t":"持ってきました","r":"もってきました","ro":"mottekimashita"},"PAST.PLAIN.NEG":{"t":"持ってこなかった","r":"もってこなかった","ro":"mottekonakatta"},"PAST.POLITE.NEG":{"t":"持ってきませんでした","r":"もってきませんでした","ro":"mottekimasendeshita"},"TE":{"t":"持ってきて","r":"もってきて","ro":"mottekite"}}},"why":"conjugação absurda (持ってくります/くらない/くって); くる é irregular"}
+{"i":"000000521","d":{"ja":"やってみて身についた知識。自分の身に起きたこと。"},"why":"desc ja repetia 経験"}
+{"i":"000000524","d":{"ja":"人と顔を合わせること。"},"why":"desc ja repetia 会う"}
+{"i":"000000529","w":{"ja":{"a":["お父さん"]}},"d":{"pt":"Genitor do sexo masculino.","ja":"男の親。呼びかけや他人の父には「お父さん」を使う。"},"why":"desc pt tautológica; nuance ja 父/お父さん"}
+{"i":"000000535","d":{"ja":"意味をもつ、文を作る小さな単位。"},"why":"desc ja repetia 言葉"}
+{"i":"000000538","d":{"ja":"わかりやすい。向こうがすけて見える。"},"why":"desc ja repetia はっきり"}
+{"i":"000000541","d":{"ja":"その男の人本人のこと。"},"why":"desc ja repetia 彼自身"}
+{"i":"000000550","d":{"ja":"医者などの名前の後につける敬称。"},"why":"先生 vem DEPOIS do nome, não antes"}
+{"i":"000000556","w":{"ja":{"a":["お母さん"]}},"d":{"pt":"Genitora do sexo feminino.","ja":"女の親。呼びかけや他人の母には「お母さん」を使う。"},"why":"desc pt tautológica; nuance ja 母/お母さん"}
+{"i":"000000566","d":{"ja":"体や気分が問題なく、よい状態。"},"why":"desc ja repetia 元気"}
+{"i":"000000567","d":{"ja":"押したり引いたりするときに働くもの。"},"why":"desc ja repetia 力"}
+{"i":"000000580","d":{"ja":"学校の一年を分けたひとつの期間。専門的な意味をもつ言葉の意味もある。"},"why":"desc ja repetia 学期"}
+{"i":"000000581","d":{"ja":"結婚している相手の女の人。他人の妻は「奥さん」と言う。"},"why":"nuance ja 妻/奥さん"}
+{"i":"000000583","d":{"ja":"とてもきれい。"},"why":"desc ja repetia 美しい"}
+{"i":"000000597","d":{"ja":"ほかよりも、とりわけ。"},"why":"desc ja repetia とくに"}
+{"i":"000000609","d":{"ja":"しばしば見られる。多くの人に共通の。"},"why":"desc ja repetia よくある"}
