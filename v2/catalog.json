@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "format": "ishida-monolingual-only",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "discovery_rule": "available == true and kind == ishida-monolingual and schema_version == 2",
   "packages": [
     {
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "f4418aaae7c6fede823042818fa2f5ff70e3f8e39845efcb033645e3b3554202",
-      "version": "2.5.3",
-      "size_bytes": 2561851
+      "sha256": "dc1859ec51ea46068446c7df674d0de599f714868a5132d09b7c52c2ec8392e3",
+      "version": "2.5.4",
+      "size_bytes": 2578241
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "06571c402e18da96c3b8ccbc49955c916676b8001e96261848274be16576b6c7",
-      "version": "2.5.3",
-      "size_bytes": 2459633
+      "sha256": "190eb7c484599f73e0b90dab5419e48ace480024ec1df73afcfdb515df519ad5",
+      "version": "2.5.4",
+      "size_bytes": 2478730
     },
     {
       "id": "pt-PT-core-v2",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "01b706b6a213fccb26fc637f691fc9ababb4af5e871ad3ebcc9326eb91949e55",
-      "version": "2.5.3",
-      "size_bytes": 4659378
+      "sha256": "a81d2c45fae8875b524f88a02d0f0012f853096afa6e0e5c8a15d3f6b0f1c32b",
+      "version": "2.5.4",
+      "size_bytes": 4679927
     },
     {
       "id": "es-core-v2",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "435af009a035a8ac7b170afed0c9c3eb1c0ac18d4cd363d559a24defb0c8e131",
-      "version": "2.5.3",
-      "size_bytes": 2879372
+      "sha256": "c51e82e6a4ec82ee9b34dda50cd20232558de713b6afc4e021d9b40ae19675ca",
+      "version": "2.5.4",
+      "size_bytes": 2894695
     },
     {
       "id": "ko-core-v2",
@@ -1031,6 +1031,7 @@
     "1.5.0: core 2.5.0.",
     "1.5.1: core 2.5.1.",
     "1.5.2: core 2.5.2.",
-    "1.5.3: core 2.5.3."
+    "1.5.3: core 2.5.3.",
+    "1.5.4: candidato NOVREV dos quatro núcleos 2.5.4."
   ]
 }

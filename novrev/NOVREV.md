@@ -2,13 +2,21 @@
 
 ## Ordem de execução vigente — 23/11/2026
 
-Revisão editorial pausada, conforme a ordem do proprietário. [LEXICON #88](https://github.com/arquitetoishida-max/LEXICON/issues/88) concentra as decisões editoriais. [IM-LIBRARIES #505](https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/505) concentra os checkpoints e a entrega. O flip do APK é tratado em [ISHIDA-MULTILANG #122](https://github.com/arquitetoishida-max/ISHIDA-MULTILANG/issues/122).
+Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](https://github.com/arquitetoishida-max/LEXICON/issues/88) concentra as decisões editoriais. [IM-LIBRARIES #505](https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/505) concentra os checkpoints e a entrega. O flip do APK é tratado em [ISHIDA-MULTILANG #122](https://github.com/arquitetoishida-max/ISHIDA-MULTILANG/issues/122).
 
 1. Fixar a versão dos quatro núcleos e cruzar a matriz com os registros por `english_id` e sentido. A linha do XLS é o ponto de partida da revisão. Conferir presença e identidade antes de tomar decisões sobre os termos.
 2. Revisar uma coluna inteira de cada vez, EN-US → PT-BR → JA → ZH. Manter boas descrições. Redigir alterações no próprio idioma, com o uso principal primeiro e até quatro usos cotidianos, com um quinto quando distinto e útil. Usar a referência editorial interna quando confirmar o mesmo sentido. Consultar outra fonte quando faltar evidência.
 3. Encerradas as quatro colunas, comparar os quatro termos por ID e sentido. Preservar equivalências práticas. Corrigir a divergência clara e usar o estado editorial existente nos casos inconciliáveis.
 4. Preservar VCU14, NHK e as classificações não afetadas. Informação JLPT ou da camada inglesa pode ser aproveitada quando a referência de fato trouxer dado equivalente. Registrar expressões fora do núcleo como Reservar ou Ignorar no XLS de pendências, ao lado da matriz.
 5. Registrar o último bloco e o próximo ID no Git. Verificar os deltas, as classificações, os IDs, a ordem de cada pacote e os hashes antes de encaminhar os candidatos. A validação do APK segue suas issues e a regra de compilação da ISHIDA-MULTILANG #107.
+
+## Registro da execução — 23/11/2026
+
+- Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. Os quatro mantêm 3.639 IDs, a sequência interna de cada arquivo e os níveis A1–C2 usados no inglês. O campo `study_priority` agora tem ordem única em cada idioma, preservando a prioridade relativa entre entradas ativas. Empates herdados seguem a ordem já presente no respectivo pacote. Pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 278 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.295 conceitos com revisão semântica em aberto. As posições 1–200 foram percorridas. Retomar na posição 201, `en:000000143` (home). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ## Registro anterior — 19/11/2026
 
