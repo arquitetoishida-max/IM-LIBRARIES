@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.659 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 731 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 50 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.862 conceitos com revisão semântica em aberto. As posições 1–665 foram percorridas. Retomar na posição 666, `en:000000823` (January). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.669 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 772 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 60 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.831 conceitos com revisão semântica em aberto. As posições 1–695 foram percorridas. Retomar na posição 696, `en:000002217` (journey). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -92,6 +92,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Seis espelhos novos, de `en:000004207` a `en:000004212`: *play* como jogar e como tocar instrumento, *star* como pessoa famosa, *fly* como viajar de avião, *oil* como petróleo e *serious* como grave. O ID anterior de *play* conserva o sentido de brincar.
 - Quatro IDs históricos reativados após conferir que o vínculo como duplicata juntava sentidos diferentes: [*pass*](https://dictionary.cambridge.org/dictionary/english/pass) como passar numa prova (`en:000003962`) e entregar algo a alguém (`en:000003963`), *patient* como pessoa em tratamento (`en:000004010`) e *volume* como livro de uma coleção (`en:000004013`). Mantidos os IDs, prioridades e classificações dessas quatro entradas.
 - Validados os IDs, ordem, XLS, classificações, tamanhos e hashes. As prioridades das 26 pendências avançaram seis posições. Os 16 testes locais passaram.
+
+### Lote 666–695
+
+- 29 conceitos conferidos em EN-US, PT-BR, JA e ZH nesse intervalo. A posição 678 já estava revisada. Também foram conferidos dois IDs posteriores relacionados a *platform* e *sign*.
+- O ID de [*platform*](https://dictionary.cambridge.org/dictionary/english/platform) mantém o sentido ferroviário e a forma japonesa [ホーム](https://www.japandict.com/%E3%83%9B%E3%83%BC%E3%83%A0). Reativado o ID `en:000004027` para o sentido digital, com プラットフォーム e 平台, mantendo sua prioridade e classificações. Os sentidos de superfície elevada e programa político têm espelhos próprios.
+- Outros espelhos separam *update* (novas informações e ato de atualizar), *lose* (perder uma disputa), *pick* (colher), *sign* (assinar), *pool* (sinuca), *safe* (cofre) e *writing* (texto produzido). O ID `en:000001977` de *sign* corresponde a indício, separado da placa. [*Holiday*](https://dictionary.cambridge.org/dictionary/english/holiday) fica em feriado no núcleo EN-US, com 祝日 e 法定节假日. *Vacation* já tem ID próprio.
+- A Kanji Study foi consultada para 月, 髪, 選, 難, 靴, 聞, 払, 嵐, 章 e caracteres dos compostos afetados. Mantidas as camadas e a ordem relativa de estudo. Passaram os 16 testes do repositório, o validador do catálogo e as conferências da planilha, dos IDs e dos hashes.
 
 ## Registro anterior — 19/11/2026
 
