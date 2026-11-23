@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.653 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 660 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 44 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.927 conceitos com revisão semântica em aberto. As posições 1–600 foram percorridas. Retomar na posição 601, `en:000000623`. O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.659 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 731 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 50 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.862 conceitos com revisão semântica em aberto. As posições 1–665 foram percorridas. Retomar na posição 666, `en:000000823` (January). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -85,6 +85,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 61 conceitos conferidos em EN-US, PT-BR, JA e ZH e cruzados por ID e sentido. Foram reaproveitados os verbetes existentes de *plant* (instalação industrial), *application* (aplicativo), *glass* (copo de vidro), *square* (praça) e *date* (encontro). *Chance* e *site* reaproveitam os conceitos de possibilidade e local físico quando cabível.
 - Criados quatro espelhos, de `en:000004203` a `en:000004206`: *clear* como transparente, *exchange* como intercâmbio estudantil, [*mobile*](https://dictionary.cambridge.org/pt/dicionario/ingles/mobile) como móvel e *ring* como toque. O ID de telefone usa a forma plena *mobile phone*.
 - Validados os IDs, ordem dos pacotes, XLS, classificações, tamanhos e hashes do catálogo. As prioridades das 26 pendências avançaram quatro posições. Os 16 testes locais passaram.
+
+### Lote 601–665 e retomada de sentidos legados
+
+- 61 conceitos conferidos no intervalo em EN-US, PT-BR, JA e ZH. *Present* como presente e como tempo atual já tem IDs distintos. *File* fica no sentido de arquivo digital, com o verbete existente de *folder* para pasta.
+- Seis espelhos novos, de `en:000004207` a `en:000004212`: *play* como jogar e como tocar instrumento, *star* como pessoa famosa, *fly* como viajar de avião, *oil* como petróleo e *serious* como grave. O ID anterior de *play* conserva o sentido de brincar.
+- Quatro IDs históricos reativados após conferir que o vínculo como duplicata juntava sentidos diferentes: [*pass*](https://dictionary.cambridge.org/dictionary/english/pass) como passar numa prova (`en:000003962`) e entregar algo a alguém (`en:000003963`), *patient* como pessoa em tratamento (`en:000004010`) e *volume* como livro de uma coleção (`en:000004013`). Mantidos os IDs, prioridades e classificações dessas quatro entradas.
+- Validados os IDs, ordem, XLS, classificações, tamanhos e hashes. As prioridades das 26 pendências avançaram seis posições. Os 16 testes locais passaram.
 
 ## Registro anterior — 19/11/2026
 
