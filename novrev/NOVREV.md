@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.669 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 772 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 60 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.831 conceitos com revisão semântica em aberto. As posições 1–695 foram percorridas. Retomar na posição 696, `en:000002217` (journey). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.674 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 815 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 65 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.793 conceitos com revisão semântica em aberto. As posições 1–730 foram percorridas. Retomar na posição 731, `en:000000994` (recently). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -99,6 +99,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - O ID de [*platform*](https://dictionary.cambridge.org/dictionary/english/platform) mantém o sentido ferroviário e a forma japonesa [ホーム](https://www.japandict.com/%E3%83%9B%E3%83%BC%E3%83%A0). Reativado o ID `en:000004027` para o sentido digital, com プラットフォーム e 平台, mantendo sua prioridade e classificações. Os sentidos de superfície elevada e programa político têm espelhos próprios.
 - Outros espelhos separam *update* (novas informações e ato de atualizar), *lose* (perder uma disputa), *pick* (colher), *sign* (assinar), *pool* (sinuca), *safe* (cofre) e *writing* (texto produzido). O ID `en:000001977` de *sign* corresponde a indício, separado da placa. [*Holiday*](https://dictionary.cambridge.org/dictionary/english/holiday) fica em feriado no núcleo EN-US, com 祝日 e 法定节假日. *Vacation* já tem ID próprio.
 - A Kanji Study foi consultada para 月, 髪, 選, 難, 靴, 聞, 払, 嵐, 章 e caracteres dos compostos afetados. Mantidas as camadas e a ordem relativa de estudo. Passaram os 16 testes do repositório, o validador do catálogo e as conferências da planilha, dos IDs e dos hashes.
+
+### Lote 696–730
+
+- 35 conceitos conferidos no intervalo em EN-US, PT-BR, JA e ZH. Também foram conferidos três registros posteriores, relativos a nota escolar, objeto perdido e carne de frango.
+- Reativados os IDs históricos `en:000003937` para *lost* (objeto perdido) e `en:000004033` para [*chicken*](https://dictionary.cambridge.org/dictionary/english/chicken) (carne). Os IDs de *lost* para quem perdeu o caminho e de *chicken* para a ave conservam os sentidos próprios. *Mark* fica no sentido de marca física e o ID de *grade* foi delimitado ao desempenho escolar.
+- *Rock* (música), *charge* (cobrar), *table* (tabela) e *sleep* (sono) já têm IDs próprios. Criados espelhos para *offer* (oferta), *note* (nota musical escrita), *visit* (visitar lugar), *network* (rede de contatos) e *charge* (acusar formalmente). [*Shall*](https://dictionary.cambridge.org/dictionary/english/shall) permanece no uso de convite. O futuro formal e o uso normativo foram registrados na planilha para decisão editorial.
+- A Kanji Study foi consultada para 旅, 印, 寝, 眠, 建, 親, 箱, 訪, 鳥, 鶏, 痛, 岩, 話, 書 e outros caracteres dos compostos. Mantidas as camadas, os IDs, a ordem física e a prioridade relativa. Passaram os 16 testes, o validador do catálogo e as conferências da planilha e dos hashes.
 
 ## Registro anterior — 19/11/2026
 
