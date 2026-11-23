@@ -10,12 +10,14 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 4. Preservar VCU14, NHK e as classificações não afetadas. Informação JLPT ou da camada inglesa pode ser aproveitada quando a referência de fato trouxer dado equivalente. Registrar expressões fora do núcleo como Reservar ou Ignorar no XLS de pendências, ao lado da matriz.
 5. Registrar o último bloco e o próximo ID no Git. Verificar os deltas, as classificações, os IDs, a ordem de cada pacote e os hashes antes de encaminhar os candidatos. A validação do APK segue suas issues e a regra de compilação da ISHIDA-MULTILANG #107.
 
+Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes diferentes em outro idioma, desambiguar os verbetes e espelhar a forma no idioma em que ela se repete. Reaproveitar um conceito já cadastrado para aquele sentido. Se faltar, criar um ID próprio nos quatro núcleos quando houver equivalência prática. Preservar o vínculo do ID legado e usar a descrição nativa para distinguir os sentidos. Manter as classificações dos verbetes existentes e conferir as do novo sentido separadamente. Se o novo sentido não tiver quatro equivalentes práticos, registrar o caso no XLS de pendências. Aplicar esta regra a toda a revisão, inclusive aos lotes anteriores quando houver um caso semelhante.
+
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. Os quatro mantêm 3.639 IDs, a sequência interna de cada arquivo e os níveis A1–C2 usados no inglês. O campo `study_priority` agora tem ordem única em cada idioma, preservando a prioridade relativa entre entradas ativas. Empates herdados seguem a ordem já presente no respectivo pacote. Pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 462 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 3.111 conceitos com revisão semântica em aberto. As posições 1–400 foram percorridas. Retomar na posição 401, `en:000000764` (page). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.640 IDs por núcleo com o espelho de *line* no sentido de fila. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 495 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 31 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.079 conceitos com revisão semântica em aberto. As posições 1–435 foram percorridas. Retomar na posição 436, `en:000000331` (course). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -53,6 +55,12 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 - 28 conceitos conferidos, de `en:000001677` a `en:000000759`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
 - Kanji Study confirma 読 no sentido de ler. O texto de 読む foi corrigido, pois descrevia a ação de apoiar. [*Volume*](https://dictionary.cambridge.org/pt/dicionario/learner-english/volume) mantém a intensidade sonora. O ID de *whom* preserva o estado de busca, com explicações locais sobre a função de objeto.
 - Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
+
+### Lote 401–435
+
+- 32 conceitos conferidos de `en:000000764` (page) a `en:000000933` (card), na sequência EN-US, PT-BR, JA e ZH e por ID e sentido. Três posições já estavam cobertas.
+- Kanji Study conferida para 線, 通, 雨, 海 e 雪. [*Line*](https://dictionary.cambridge.org/dictionary/english/line) tem um ID para traço, `en:000000296` (linha, 線, 线), e um espelho para fila, `en:000004193` (fila, 行列, 队伍). O segundo foi acrescido depois da matriz e antes das pendências na ordem de estudo. As prioridades numéricas das 26 pendências avançaram uma posição em cada núcleo. *Pass* compartilha o sentido de passar por um lugar, com explicações locais sobre aprovação onde aplicável. A definição de *card* contempla peças de papel firme ou plástico.
+- Mantidos IDs, sequências, estados, prioridades e camadas. Validados o XLS, os quatro pacotes e os hashes do catálogo. Passaram os 16 testes locais.
 
 ## Registro anterior — 19/11/2026
 
