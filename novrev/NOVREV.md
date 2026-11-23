@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.649 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 595 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 40 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.988 conceitos com revisão semântica em aberto. As posições 1–535 foram percorridas. Retomar na posição 536, `en:000001330` (explain). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.653 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 660 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 44 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.927 conceitos com revisão semântica em aberto. As posições 1–600 foram percorridas. Retomar na posição 601, `en:000000623`. O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -79,6 +79,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 27 conceitos conferidos em EN-US, PT-BR, JA e ZH, com cruzamento por ID e sentido. Os sentidos de *fan* para fã, leque e ventilador ficam em verbetes distintos. *Form* como formato reaproveita o conceito de *shape*. *Living* como adjetivo reaproveita *alive*. O ID de *living* como sustento passou de 生活 a [生計](https://www.japandict.com/%E7%94%9F%E8%A8%88), com leitura e romaji atualizados.
 - Três espelhos acrescentados, de `en:000004200` a `en:000004202`: *stay* como ficar hospedado, *heart* no sentido de sentimentos e *shower* no sentido de chuveiro. Mantidos os vínculos preexistentes.
 - Validados os IDs, a ordem dos pacotes, o XLS, as classificações, os tamanhos e os hashes do catálogo. As prioridades das 26 pendências avançaram três posições. Os 16 testes locais passaram.
+
+### Lote 536–600
+
+- 61 conceitos conferidos em EN-US, PT-BR, JA e ZH e cruzados por ID e sentido. Foram reaproveitados os verbetes existentes de *plant* (instalação industrial), *application* (aplicativo), *glass* (copo de vidro), *square* (praça) e *date* (encontro). *Chance* e *site* reaproveitam os conceitos de possibilidade e local físico quando cabível.
+- Criados quatro espelhos, de `en:000004203` a `en:000004206`: *clear* como transparente, *exchange* como intercâmbio estudantil, [*mobile*](https://dictionary.cambridge.org/pt/dicionario/ingles/mobile) como móvel e *ring* como toque. O ID de telefone usa a forma plena *mobile phone*.
+- Validados os IDs, ordem dos pacotes, XLS, classificações, tamanhos e hashes do catálogo. As prioridades das 26 pendências avançaram quatro posições. Os 16 testes locais passaram.
 
 ## Registro anterior — 19/11/2026
 
