@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.674 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 815 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 65 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.793 conceitos com revisão semântica em aberto. As posições 1–730 foram percorridas. Retomar na posição 731, `en:000000994` (recently). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.686 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 866 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 77 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.754 conceitos com revisão semântica em aberto. As posições 1–770 foram percorridas. Retomar na posição 771, `en:000001162` (letter). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -106,6 +106,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Reativados os IDs históricos `en:000003937` para *lost* (objeto perdido) e `en:000004033` para [*chicken*](https://dictionary.cambridge.org/dictionary/english/chicken) (carne). Os IDs de *lost* para quem perdeu o caminho e de *chicken* para a ave conservam os sentidos próprios. *Mark* fica no sentido de marca física e o ID de *grade* foi delimitado ao desempenho escolar.
 - *Rock* (música), *charge* (cobrar), *table* (tabela) e *sleep* (sono) já têm IDs próprios. Criados espelhos para *offer* (oferta), *note* (nota musical escrita), *visit* (visitar lugar), *network* (rede de contatos) e *charge* (acusar formalmente). [*Shall*](https://dictionary.cambridge.org/dictionary/english/shall) permanece no uso de convite. O futuro formal e o uso normativo foram registrados na planilha para decisão editorial.
 - A Kanji Study foi consultada para 旅, 印, 寝, 眠, 建, 親, 箱, 訪, 鳥, 鶏, 痛, 岩, 話, 書 e outros caracteres dos compostos. Mantidas as camadas, os IDs, a ordem física e a prioridade relativa. Passaram os 16 testes, o validador do catálogo e as conferências da planilha e dos hashes.
+
+### Lote 731–770
+
+- 39 conceitos conferidos em EN-US, PT-BR, JA e ZH. A posição 766 permanece reservada por conter a grafia britânica *centre*.
+- *Stream* (transmissão), *gas* (estado gasoso), *branch* (filial) e *sentence* (pena judicial) já têm IDs distintos. Os IDs da faixa revisada ficam em riacho, gasolina, galho e frase, respectivamente.
+- Criados 12 espelhos, de `en:000004228` a `en:000004239`, para [*track*](https://dictionary.cambridge.org/dictionary/english/track) (faixa, trilha, via férrea e rastrear), *ahead* (futuro), *text* (texto escrito), *credit* (reconhecimento), *contact* (pessoa), *guest* (hóspede), *spend* (passar tempo), *button* (comando) e *counter* (bancada). As acepções de pintura e desenho preservam 絵 e 画 nas duas entradas, com as definições locais distinguindo os processos.
+- A Kanji Study foi consultada para 川, 絵, 画, 文, 枝, 品, 客, 夫, 氷, 誤 e outros caracteres dos compostos. Passaram os 16 testes, o validador do catálogo e as verificações da planilha, dos IDs, das camadas e dos hashes.
 
 ## Registro anterior — 19/11/2026
 
