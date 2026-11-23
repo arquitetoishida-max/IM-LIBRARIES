@@ -14,8 +14,8 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. Os quatro mantêm 3.639 IDs, a sequência interna de cada arquivo e os níveis A1–C2 usados no inglês. O campo `study_priority` agora tem ordem única em cada idioma, preservando a prioridade relativa entre entradas ativas. Empates herdados seguem a ordem já presente no respectivo pacote. Pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 434 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 3.139 conceitos com revisão semântica em aberto. As posições 1–370 foram percorridas. Retomar na posição 371, `en:000001677` (cat). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 462 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.111 conceitos com revisão semântica em aberto. As posições 1–400 foram percorridas. Retomar na posição 401, `en:000000764` (page). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -46,6 +46,12 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 
 - 25 conceitos conferidos, de `en:000002639` a `en:000000644`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
 - O sentido material de [*board*](https://dictionary.cambridge.org/dictionary/english/board) foi separado de quadro escolar. A entrada de *play* corresponde a brincar e jogar, sem equivalentes de tocar um instrumento. As quatro descrições de *money* passaram a incluir valores em conta.
+- Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
+
+### Lote 371–400
+
+- 28 conceitos conferidos, de `en:000001677` a `en:000000759`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
+- Kanji Study confirma 読 no sentido de ler. O texto de 読む foi corrigido, pois descrevia a ação de apoiar. [*Volume*](https://dictionary.cambridge.org/pt/dicionario/learner-english/volume) mantém a intensidade sonora. O ID de *whom* preserva o estado de busca, com explicações locais sobre a função de objeto.
 - Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
 
 ## Registro anterior — 19/11/2026
