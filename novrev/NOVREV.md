@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.699 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 923 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 90 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.710 conceitos com revisão semântica em aberto. As posições 1–815 foram percorridas. Retomar na posição 816, `en:000001426` (location). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.711 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 994 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 102 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 2.651 conceitos com revisão semântica em aberto. As posições 1–875 foram percorridas. Retomar na posição 876, `en:000001989` (afraid). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -119,6 +119,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 44 conceitos conferidos em EN-US, PT-BR, JA e ZH. A posição 812 já estava revisada. O ID de *letter* conserva letra do alfabeto, *degree* fica em unidade de medida e *tie* em gravata. Carta, diploma universitário e empate já têm IDs próprios.
 - Criados 13 espelhos, de `en:000004240` a `en:000004252`, para *bathroom* (banheiro público), *seriously?* (pedido de confirmação), *burn* (lesão na pele), *ship* (despachar), *chest* (baú), *shipping* (valor do frete), [*cap*](https://dictionary.cambridge.org/dictionary/english/cap) (tampa e teto), *sweet* (afetuoso), *tie* (amarrar), *drink* (bebida) e *division* (separação e departamento).
 - A Kanji Study foi consultada para 皿, 姉, 妹, 度, 印, 刷, 焼, 船, 胸, 着, 甘, 触, 飲, 割 e os demais caracteres pertinentes. Passaram os 16 testes, o validador do catálogo e as conferências da planilha, dos IDs, das camadas e dos hashes.
+
+### Lote 816–875
+
+- 59 conceitos conferidos em EN-US, PT-BR, JA e ZH, incluindo a reativação de `en:000002651` para *partner* em relacionamento amoroso. O ID de maior prioridade conserva *partner* como pessoa com quem se trabalha ou colabora. Retiradas as glosas de ano escolar do ID de nota escolar. O ano escolar já tem verbete próprio.
+- *Arms* mantém um ID de busca para o plural anatômico e outro ID para armas. *Iron* mantém o metal em um ID e o ferro de passar em outro. *Bear* já tem o verbo aguentar, em ID próprio. *Ride* mantém a carona registrada como pendente no XLS.
+- Criados 12 espelhos, de `en:000004253` a `en:000004264`, para *ride* (como passageiro), *worry* (preocupação), *smart* (dispositivos), *profile* (vista lateral), *enter* (inserir dados), *host* (apresentador), *fix* (estabelecer), *iron* (passar a ferro), *plane* (plano geométrico e plaina) e *quarter* (15 minutos e trimestre).
+- A Kanji Study foi consultada para 場, 距, 受, 乗, 底, 腕, 引, 入, 石, 危, 鉄, 茶, 郵, 空, 熊 e outros caracteres pertinentes. Passaram os 16 testes, o validador do catálogo e as conferências da planilha, dos IDs, das camadas e dos hashes.
 
 ## Registro anterior — 19/11/2026
 
