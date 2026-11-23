@@ -35839,14 +35839,14 @@
    ],
    "study_tier": "cedo",
    "study_priority": 979,
-   "description": "長さや時間が大きい。",
+   "description": "端から端までの距離が大きい。また、始まってから終わるまでの時間が多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000454"
    ],
    "nativeExplain": {
-    "ja": "長さや時間が大きい。"
+    "ja": "端から端までの距離が大きい。また、始まってから終わるまでの時間が多い。"
    }
   },
   {
@@ -35969,11 +35969,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 55,
-   "description": "目を向けて見ること。",
+   "description": "人や物のほうに目を向けて、その様子をとらえる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "目を向けて見ること。"
+    "ja": "人や物のほうに目を向けて、その様子をとらえる。"
    },
    "antonyms": []
   },
@@ -36021,7 +36021,7 @@
    "english_id": "en:000000147",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To do something with an object for a purpose.",
+   "description_en": "To put something to work for a purpose, such as a tool, a language, or a method.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -36117,11 +36117,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 57,
-   "description": "目的のために物を役立てること。",
+   "description": "道具や方法、言葉などを目的に合わせて役立てる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "目的のために物を役立てること。"
+    "ja": "道具や方法、言葉などを目的に合わせて役立てる。"
    },
    "antonyms": []
   },
@@ -36422,11 +36422,11 @@
    "core_status": "search_only",
    "study_tier": "herdado",
    "study_priority": 3176,
-   "description": "「I」と使う「be」の形。",
+   "description": "名詞などのあとに付け、身分や種類などを丁寧に述べる。話し手について述べる文にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "「I」と使う「be」の形。"
+    "ja": "名詞などのあとに付け、身分や種類などを丁寧に述べる。話し手について述べる文にも使う。"
    },
    "antonyms": [],
    "inflection_of": "en:000000015",
@@ -36617,7 +36617,7 @@
    "study_tier": "intermediário",
    "study_priority": 2392,
    "nativeExplain": {
-    "pt-BR": "dois sentidos: estado (região) e estado (condição)",
+    "pt-BR": "estado como divisão política de um país",
     "ja": "国の中の、自分の政府をもつ地域。"
    },
    "description": "国の中の、自分の政府をもつ地域。",
@@ -44296,7 +44296,7 @@
    "english_id": "en:000000334",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To want something to happen.",
+   "description_en": "To want something to happen and believe that it might.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -44316,11 +44316,11 @@
    "class_real": "godan verb",
    "nativeExplain": {
     "pt-BR": "desejar",
-    "ja": "何かがそうなってほしいと願うこと。"
+    "ja": "望んでいることが実現してほしいという気持ちを表す言い方。"
    },
    "study_tier": "cedo",
    "study_priority": 1013,
-   "description": "何かがそうなってほしいと願うこと。",
+   "description": "望んでいることが実現してほしいという気持ちを表す言い方。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -44636,7 +44636,7 @@
    "english_id": "en:000000342",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Before the usual time.",
+   "description_en": "Before the usual or expected time. Also near the beginning of a period or process.",
    "level": "A1",
    "part_of_speech": "adv",
    "source_status": "editorial-reviewed",
@@ -44654,14 +44654,14 @@
    "class_real": "adverbial form of i-adjective 早い",
    "study_tier": "inicial",
    "study_priority": 88,
-   "description": "ふだんより前の時間。",
+   "description": "時刻や時期が、ふだんや予定より前である。ある期間の初めのほうであることにもいう。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000439"
    ],
    "nativeExplain": {
-    "ja": "ふだんより前の時間。"
+    "ja": "時刻や時期が、ふだんや予定より前である。ある期間の初めのほうであることにもいう。"
    }
   },
   {
@@ -60732,7 +60732,7 @@
    "english_id": "en:000000771",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "On (formal).",
+   "description_en": "On top of or resting on something. In formal contexts, upon can also introduce the event that something happens at or right after.",
    "level": "A2",
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
@@ -60749,12 +60749,12 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "formal",
-    "ja": "「〜の上に」の、かたい言い方。"
+    "pt-BR": "em cima de, sobre",
+    "ja": "物が別の物の上側にあることや、そこへ置くことを表す。"
    },
    "study_tier": "intermediário",
    "study_priority": 2503,
-   "description": "「〜の上に」の、かたい言い方。",
+   "description": "物が別の物の上側にあることや、そこへ置くことを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -61876,7 +61876,7 @@
    "english_id": "en:000000802",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Refers back to \"it\".",
+   "description_en": "Refers back to the thing or animal already called “it.” It can also emphasize the thing in its own right, as in “the idea itself.”",
    "level": "A2",
    "part_of_speech": "pron",
    "source_status": "editorial-reviewed",
@@ -61893,11 +61893,11 @@
    "class_real": "pronoun phrase",
    "nativeExplain": {
     "pt-BR": "referente a coisa",
-    "ja": "それ自身のこと。"
+    "ja": "すでに話題に出た物事そのものを指す表現。"
    },
    "study_tier": "expansão cotidiana",
    "study_priority": 2510,
-   "description": "それ自身のこと。",
+   "description": "すでに話題に出た物事そのものを指す表現。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -70163,9 +70163,9 @@
    "study_priority": 331,
    "nativeExplain": {
     "pt-BR": "estação (trem) vs estação (rádio/TV)",
-    "ja": "電車やバスが止まる場所。"
+    "ja": "鉄道などで、乗客が列車に乗り降りする場所。"
    },
-   "description": "電車やバスが止まる場所。",
+   "description": "鉄道などで、乗客が列車に乗り降りする場所。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []

@@ -14,8 +14,8 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. Os quatro mantêm 3.639 IDs, a sequência interna de cada arquivo e os níveis A1–C2 usados no inglês. O campo `study_priority` agora tem ordem única em cada idioma, preservando a prioridade relativa entre entradas ativas. Empates herdados seguem a ordem já presente no respectivo pacote. Pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 351 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 3.222 conceitos com revisão semântica em aberto. As posições 1–283 foram percorridas. Retomar na posição 285, `en:000000329` (story). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 371 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.202 conceitos com revisão semântica em aberto. As posições 1–305 foram percorridas. Retomar na posição 306, `en:000001109` (manager). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -23,6 +23,12 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 - 16 conceitos conferidos, de `en:000001984` (tired) a `en:000000137` (that's). A posição 268 já estava revisada. Comparação por `english_id` e sentido em EN-US, PT-BR, JA e ZH.
 - Kanji Study, abas de kanji, consultada para 森, 疲, 言, 開 e os caracteres dos compostos. Para os compostos, o sentido foi conferido no contexto do verbete. O sentido comercial de *order* foi confirmado no [Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/order). Em mandarim, foram conferidas as formas e alternativas vigentes. Nos quatro pacotes, o ID de *order* fica no sentido de pedido comercial. As colocações gramaticais de *you're* e *that's* tiveram as explicações locais corrigidas, com os estados existentes preservados.
 - Mantidos os 3.639 IDs por pacote, a ordem física, as prioridades, as classificações e os estados. Atualizados os hashes e tamanhos do catálogo 1.5.4 para o candidato 2.5.4.
+
+### Lote 285–305
+
+- 20 conceitos conferidos, de `en:000000329` a `en:000000156`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
+- Conferidos os sentidos espaciais de [*upon*](https://dictionary.cambridge.org/dictionary/english/upon) e políticos de [*state*](https://dictionary.cambridge.org/dictionary/english/state). O ID de *state* mantém a divisão administrativa, sem a glosa chinesa de condição. A definição de 駅 foi ajustada ao uso ferroviário. *Am* conserva o estado de busca, com notas locais para as formas japonesa e chinesa.
+- Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
 
 ## Registro anterior — 19/11/2026
 
