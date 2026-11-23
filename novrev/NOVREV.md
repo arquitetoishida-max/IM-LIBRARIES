@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–990 foram percorridas. Retomar na posição 991, `en:000003119` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1050 foram percorridas. Retomar na posição 1051, `en:000003182` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -138,6 +138,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 - 57 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 931–990; 934, 953 e 972 já revisadas). Retiradas glosas de outros sentidos: *tip* (gorjeta) ficou sem a acepção de dica, que tem ID próprio; *mouse* (animal) ficou sem o mouse do computador; *rice* (grão) ficou sem o arroz cozido. Em *paint*, o japonês passou a incluir 絵の具 e 塗料. Em *loud*, o chinês manteve 吵 com a nuance de incômodo.
 - Criado o espelho `en:000004272` para *tap* (torneira): torneira, 蛇口, 水龙头. A Kanji Study foi consultada para 親, 米, 蛇, 口, 絵, 録, 描, 妊, 衝, 突 e 穏. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 991–1050
+
+- 57 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 991–1050; 997, 1018 e 1027 já tratadas ou reservadas). *Collar* ficou no colarinho, pois a coleira tem ID próprio. *Tablet* ficou no computador, pois o comprimido tem ID próprio. *Gate* ficou no portão de cerca ou muro.
+- Corrigido o lote anterior: o espelho de *tap* (torneira) criado em `en:000004272` duplicava o ID de *faucet* (`en:000003124`) e foi removido. No lugar, `en:000004272` passou a ser *gate* no aeroporto: portão de embarque, 搭乗口, 登机口. Em *sink*, o japonês passou a usar シンク, com 流し e 洗面台 como alternativas. Em *assignment*, o japonês passou a usar 課題, distinto de 宿題 (*homework*).
+- A Kanji Study foi consultada para 襟, 門, 蛇, 口, 流, 洗, 課, 題 e 搭. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 

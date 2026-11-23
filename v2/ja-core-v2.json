@@ -131625,7 +131625,7 @@
    "english_id": "en:000003120",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The part of a shirt around the neck.",
+   "description_en": "The part of a shirt that goes around the neck.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -131646,9 +131646,9 @@
    "study_priority": 3027,
    "nativeExplain": {
     "pt-BR": "gola vs coleira (animal)",
-    "ja": "シャツの首まわりの部分。ペットの首輪の意味もある。"
+    "ja": "シャツの首まわりの部分。"
    },
-   "description": "シャツの首まわりの部分。ペットの首輪の意味もある。",
+   "description": "シャツの首まわりの部分。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -131861,7 +131861,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "冷凍の",
-   "alternatives": [],
+   "alternatives": [
+    "凍った"
+   ],
    "reading": "れいとうの",
    "romanization": "reitou no",
    "class_real": "noun + の",
@@ -131929,11 +131931,11 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1953,
-   "description": "塀などにある出入り口。空港の搭乗口の意味もある。",
+   "description": "塀や柵などにある出入り口。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "塀などにある出入り口。空港の搭乗口の意味もある。"
+    "ja": "塀や柵などにある出入り口。"
    },
    "antonyms": []
   },
@@ -132745,18 +132747,21 @@
     "core_coverage_review"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "流し",
-   "alternatives": [],
-   "reading": "ながし",
-   "romanization": "nagashi",
+   "text": "シンク",
+   "alternatives": [
+    "流し",
+    "洗面台"
+   ],
+   "reading": "シンク",
+   "romanization": "shinku",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1967,
-   "description": "台所や洗面所にある、蛇口のついた水を受ける所。",
+   "description": "台所や洗面所にある、蛇口の下の水を受ける所。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "台所や洗面所にある、蛇口のついた水を受ける所。"
+    "ja": "台所や洗面所にある、蛇口の下の水を受ける所。"
    },
    "antonyms": []
   },
@@ -132827,7 +132832,7 @@
    "english_id": "en:000003154",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A flat touchscreen computer.",
+   "description_en": "A flat computer with a touchscreen.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -132846,11 +132851,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1968,
-   "description": "タッチ画面の平たいコンピューター。薬の錠剤の意味もある。",
+   "description": "タッチ画面で操作する、平たいコンピューター。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "タッチ画面の平たいコンピューター。薬の錠剤の意味もある。"
+    "ja": "タッチ画面で操作する、平たいコンピューター。"
    },
    "antonyms": []
   },
@@ -133277,14 +133282,14 @@
    "class_real": "pronoun",
    "study_tier": "cedo",
    "study_priority": 1971,
-   "description": "どんな人でも。",
+   "description": "どんな人でも。「誰か」「誰も〜ない」にあたる使い方もある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001166"
    ],
    "nativeExplain": {
-    "ja": "どんな人でも。"
+    "ja": "どんな人でも。「誰か」「誰も〜ない」にあたる使い方もある。"
    }
   },
   {
@@ -133858,18 +133863,20 @@
     "school_learning"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "宿題",
-   "alternatives": [],
-   "reading": "しゅくだい",
-   "romanization": "shukudai",
+   "text": "課題",
+   "alternatives": [
+    "宿題"
+   ],
+   "reading": "かだい",
+   "romanization": "kadai",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "trabalho escolar",
-    "ja": "先生が生徒に出す課題。"
+    "ja": "先生などから与えられる、やるべき勉強や仕事。"
    },
    "study_tier": "cedo",
    "study_priority": 1982,
-   "description": "先生が生徒に出す課題。",
+   "description": "先生などから与えられる、やるべき勉強や仕事。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -169637,24 +169644,24 @@
    "id": "ja:en:000004272",
    "english_id": "en:000004272",
    "english_sense_id": null,
-   "text": "蛇口",
+   "text": "搭乗口",
    "kind": "word",
-   "description_en": "A device with a handle that controls the flow of water from a pipe.",
-   "level": "A1",
+   "description_en": "The place in an airport where you board a plane.",
+   "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "study_priority": 3693,
-   "description": "ひねったり上げたりして、水を出したり止めたりする口。",
+   "description": "空港で、飛行機に乗るために入る場所。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ひねったり上げたりして、水を出したり止めたりする口。"
+    "ja": "空港で、飛行機に乗るために入る場所。"
    },
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "reading": "じゃぐち",
-   "romanization": "jaguchi"
+   "reading": "とうじょうぐち",
+   "romanization": "toujouguchi"
   }
  ]
 }
