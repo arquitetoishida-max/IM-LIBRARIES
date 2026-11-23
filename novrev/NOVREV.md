@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–930 foram percorridas. Retomar na posição 931, `en:000002597` (parent). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–990 foram percorridas. Retomar na posição 991, `en:000003119` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -133,6 +133,11 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Reativados os IDs históricos `en:000004026` para [*exercise*](https://dictionary.cambridge.org/dictionary/english/exercise) (atividade de prática), `en:000004035` para *cream* (creme para a pele) e `en:000004036` para *orange* (cor). Os demais IDs mantêm exercício físico, creme de leite e a fruta.
 - Criados sete espelhos, de `en:000004265` a `en:000004271`, para *exercise* (exercitar-se), *fault* (defeito), *display* (exposição e exibir), *novel* (inédito), *chat* (conversar por chat) e *index* (indicador numérico). O ID de *aircraft* passou a usar 航空器, que também abrange helicópteros e planadores.
 - A Kanji Study foi consultada para 月, 芸, 術, 運, 動, 花, 画, 面, 責, 任, 塩, 泣, 枠, 索 e outros caracteres pertinentes. Passaram os 16 testes, o validador do catálogo e as verificações da planilha, dos IDs, das camadas e dos hashes.
+
+### Lote 931–990
+
+- 57 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 931–990; 934, 953 e 972 já revisadas). Retiradas glosas de outros sentidos: *tip* (gorjeta) ficou sem a acepção de dica, que tem ID próprio; *mouse* (animal) ficou sem o mouse do computador; *rice* (grão) ficou sem o arroz cozido. Em *paint*, o japonês passou a incluir 絵の具 e 塗料. Em *loud*, o chinês manteve 吵 com a nuance de incômodo.
+- Criado o espelho `en:000004272` para *tap* (torneira): torneira, 蛇口, 水龙头. A Kanji Study foi consultada para 親, 米, 蛇, 口, 絵, 録, 描, 妊, 衝, 突 e 穏. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
