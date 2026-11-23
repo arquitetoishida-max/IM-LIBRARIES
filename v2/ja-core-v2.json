@@ -30103,7 +30103,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3702,
+   "study_priority": 3709,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi",
     "ja": "「be」の過去の形。"
@@ -30301,7 +30301,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3703,
+   "study_priority": 3710,
    "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31167,7 +31167,7 @@
    "romanization": "~ tsumori",
    "usage_note": "Intention: 〜するつもり; prediction: 〜でしょう/だろう; often just the non-past form. Japanese has no future tense.",
    "study_tier": "expansão estruturante",
-   "study_priority": 3696,
+   "study_priority": 3703,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "ja": "これからすることや決めたことを表す言葉。"
@@ -31404,7 +31404,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3704,
+   "study_priority": 3711,
    "description": "「彼・彼女・それ」と使う「have」の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31676,7 +31676,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3705,
+   "study_priority": 3712,
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
@@ -31760,7 +31760,7 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_tier": "praticar com lema",
-   "study_priority": 3706,
+   "study_priority": 3713,
    "description": "「have」の過去の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32106,7 +32106,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3707,
+   "study_priority": 3714,
    "description": "「be」の過去分詞（「そこに行ったことがある」）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32139,7 +32139,7 @@
    "core_status": "pending",
    "retired_reason": "WOULD_SENSES_SPLIT_PENDING",
    "study_tier": "expansão estruturante",
-   "study_priority": 3697,
+   "study_priority": 3704,
    "description": "仮定や、ていねいな言い方に使う言葉。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -33567,7 +33567,7 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_tier": "praticar com lema",
-   "study_priority": 3708,
+   "study_priority": 3715,
    "description": "「can」の過去。ていねいな依頼にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -34074,7 +34074,7 @@
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
    "study_tier": "expansão estruturante",
-   "study_priority": 3698,
+   "study_priority": 3705,
    "description": "順番や程度の最上位を表す。「一番大きい」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -39364,7 +39364,7 @@
    "reading": "すこしの",
    "romanization": "sukoshi no",
    "class_real": "adnominal (adverb + の)",
-   "study_priority": 3710,
+   "study_priority": 3717,
    "description": "物の数や量が少ないことを名詞の前で表す。「少しのお金」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -45780,7 +45780,7 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 3709,
+   "study_priority": 3716,
    "user_hint": "",
    "description": "「come」の〜ing形。",
    "novrev_status": "reviewed",
@@ -52428,7 +52428,7 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 3699,
+   "study_priority": 3706,
    "description": "一方から反対側へ。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -52975,7 +52975,7 @@
    "romanization": "kawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 3700,
+   "study_priority": 3707,
    "description": "別のものの代わりに。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -100774,7 +100774,7 @@
    "english_id": "en:000001990",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Painting, music, theater and other creative activities.",
+   "description_en": "Creative activities such as painting, music, dance, and theater, considered together.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -100785,19 +100785,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "芸術",
-   "alternatives": [
-    "美術"
-   ],
+   "alternatives": [],
    "reading": "げいじゅつ",
    "romanization": "geijutsu",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1537,
-   "description": "絵や音楽、劇など、人が美をつくりだす活動。",
+   "description": "絵画、音楽、踊り、演劇など、表現を作り出す活動の総称。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "絵や音楽、劇など、人が美をつくりだす活動。"
+    "ja": "絵画、音楽、踊り、演劇など、表現を作り出す活動の総称。"
    },
    "antonyms": []
   },
@@ -101381,7 +101379,7 @@
    "english_id": "en:000002010",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The thing that shines in the sky at night.",
+   "description_en": "Earth's natural satellite, which we see because it reflects sunlight.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -101397,11 +101395,11 @@
    "romanization": "tsuki",
    "study_tier": "inicial",
    "study_priority": 513,
-   "description": "夜空で光る、地球のまわりをまわる天体。",
+   "description": "地球のまわりを回り、太陽の光を反射する天然の衛星。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "夜空で光る、地球のまわりをまわる天体。"
+    "ja": "地球のまわりを回り、太陽の光を反射する天然の衛星。"
    },
    "antonyms": []
   },
@@ -101887,7 +101885,7 @@
    "english_id": "en:000002037",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Truly; \"honestly?\" = really?",
+   "description_en": "In a truthful, straightforward manner. At the start of a statement it can introduce what you really think.",
    "level": "B2",
    "part_of_speech": "adv",
    "source_status": "editorial-reviewed",
@@ -101906,11 +101904,11 @@
    "class_real": "na-adjective + に (adverbial)",
    "study_tier": "cedo",
    "study_priority": 1553,
-   "description": "本当のことを言うと。",
+   "description": "うそやごまかしがないように。文の初めでは、本当の気持ちを率直に述べるときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "本当のことを言うと。"
+    "ja": "うそやごまかしがないように。文の初めでは、本当の気持ちを率直に述べるときにも使う。"
    },
    "antonyms": []
   },
@@ -102948,7 +102946,7 @@
    "english_id": "en:000002071",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Physical activity to stay healthy.",
+   "description_en": "Physical activity you do to improve or maintain your health, strength, or fitness.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -102967,9 +102965,9 @@
    "study_priority": 2995,
    "nativeExplain": {
     "pt-BR": "exercício físico vs exercício escolar",
-    "ja": "健康のために体を動かすこと。練習問題の意味もある。"
+    "ja": "健康や体力を保ったり高めたりするために体を動かすこと。"
    },
-   "description": "健康のために体を動かすこと。練習問題の意味もある。",
+   "description": "健康や体力を保ったり高めたりするために体を動かすこと。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -103382,7 +103380,7 @@
    "english_id": "en:000002091",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Buying things in shops.",
+   "description_en": "The activity of looking for or buying things in stores or online.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -103406,11 +103404,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 526,
-   "description": "店で物を買うこと。",
+   "description": "店やインターネットで品物を探したり買ったりすること。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "店で物を買うこと。"
+    "ja": "店やインターネットで品物を探したり買ったりすること。"
    },
    "antonyms": []
   },
@@ -103526,7 +103524,7 @@
    "english_id": "en:000002094",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A sweet substance.",
+   "description_en": "A sweet substance, often in crystals or powder, added to food and drinks.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -103550,11 +103548,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 528,
-   "description": "甘い味をつける白い粉。",
+   "description": "食べ物や飲み物を甘くするために使う、粒や粉などの甘い物質。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "甘い味をつける白い粉。"
+    "ja": "食べ物や飲み物を甘くするために使う、粒や粉などの甘い物質。"
    },
    "antonyms": []
   },
@@ -105708,7 +105706,7 @@
    "english_id": "en:000002185",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A white drink from cows.",
+   "description_en": "The white liquid obtained from cows, commonly drunk or used to make dairy products.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -105724,11 +105722,11 @@
    "romanization": "gyuunyuu",
    "study_tier": "inicial",
    "study_priority": 539,
-   "description": "牛からとれる白い飲み物。",
+   "description": "牛からしぼる白い液体。飲み物や乳製品の原料にする。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "牛からとれる白い飲み物。"
+    "ja": "牛からしぼる白い液体。飲み物や乳製品の原料にする。"
    },
    "antonyms": []
   },
@@ -107634,7 +107632,7 @@
    "english_id": "en:000002239",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A plane or helicopter.",
+   "description_en": "A machine that flies, such as an airplane, helicopter, or glider.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -107650,11 +107648,11 @@
    "romanization": "koukuuki",
    "study_tier": "intermediário",
    "study_priority": 2656,
-   "description": "飛行機やヘリコプターなど、空を飛ぶ乗り物。",
+   "description": "飛行機、ヘリコプター、グライダーなど、空を飛ぶ機械。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "飛行機やヘリコプターなど、空を飛ぶ乗り物。"
+    "ja": "飛行機、ヘリコプター、グライダーなど、空を飛ぶ機械。"
    },
    "antonyms": []
   },
@@ -108112,7 +108110,7 @@
    "english_id": "en:000002257",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Responsibility for a mistake.",
+   "description_en": "Responsibility for causing a mistake or something that went wrong.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -108139,11 +108137,11 @@
    "class_real": "noun (formal noun)",
    "study_tier": "cedo",
    "study_priority": 1630,
-   "description": "失敗したときの、その原因や責任。",
+   "description": "失敗したことや、うまくいかなかったことの原因を作った責任。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "失敗したときの、その原因や責任。"
+    "ja": "失敗したことや、うまくいかなかったことの原因を作った責任。"
    },
    "antonyms": []
   },
@@ -108275,7 +108273,7 @@
    "english_id": "en:000002260",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The colorful part of a plant: a flower.",
+   "description_en": "The plural of flower. It can refer to several blooms or to flowers picked for decoration.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -108300,11 +108298,11 @@
    "class_real": "noun",
    "study_tier": "herdado",
    "study_priority": 3285,
-   "description": "植物にさく、色のきれいな部分（複数）。",
+   "description": "植物に咲く花や、飾るために切った花。英語 flowers は複数形で、日本語の花には複数の形がない。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "植物にさく、色のきれいな部分（複数）。"
+    "ja": "植物に咲く花や、飾るために切った花。英語 flowers は複数形で、日本語の花には複数の形がない。"
    },
    "antonyms": [],
    "core_status": "search_only",
@@ -109174,7 +109172,7 @@
    "english_id": "en:000002289",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "In addition to.",
+   "description_en": "In addition to someone or something that has already been mentioned.",
    "level": "B2",
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
@@ -109192,11 +109190,11 @@
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "além disso, também",
-    "ja": "それに加えて。"
+    "ja": "すでに述べた人や物に加えて、さらに別のものがあることを表す。"
    },
    "study_tier": "cedo",
    "study_priority": 1638,
-   "description": "それに加えて。",
+   "description": "すでに述べた人や物に加えて、さらに別のものがあることを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -109632,7 +109630,7 @@
    "english_id": "en:000002300",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A screen that shows things.",
+   "description_en": "The screen or electronic panel that shows an image, numbers, or other information.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -109649,11 +109647,11 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "exibição; mostrador",
-    "ja": "物や映像を見せる画面や展示。"
+    "ja": "画像や数字などの情報を目で見えるように表示する画面やパネル。"
    },
    "study_tier": "cedo",
    "study_priority": 1642,
-   "description": "物や映像を見せる画面や展示。",
+   "description": "画像や数字などの情報を目で見えるように表示する画面やパネル。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -110071,7 +110069,7 @@
    "english_id": "en:000002321",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A long written story.",
+   "description_en": "A long work of fiction written in prose.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -110087,11 +110085,11 @@
    "romanization": "shousetsu",
    "study_tier": "cedo",
    "study_priority": 1645,
-   "description": "長い物語の本。",
+   "description": "散文で書かれた長めの作り話。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "長い物語の本。"
+    "ja": "散文で書かれた長めの作り話。"
    },
    "antonyms": []
   },
@@ -110480,7 +110478,7 @@
    "english_id": "en:000002344",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The thick part of milk; also a lotion.",
+   "description_en": "The fatty portion taken from milk and used in cooking or food preparation.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -110490,10 +110488,10 @@
     "food"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "クリーム",
+   "text": "生クリーム",
    "alternatives": [],
-   "reading": "クリーム",
-   "romanization": "kuriimu",
+   "reading": "なまクリーム",
+   "romanization": "nama kuriimu",
    "classifications": [
     {
      "system": "JLPT",
@@ -110507,9 +110505,9 @@
    "study_priority": 1651,
    "nativeExplain": {
     "pt-BR": "creme (de leite) vs creme (cosmético)",
-    "ja": "牛乳の脂肪の部分。肌にぬる薬の意味もある。"
+    "ja": "牛乳から分けた脂肪分の多い部分。料理や菓子作りに使う。"
    },
-   "description": "牛乳の脂肪の部分。肌にぬる薬の意味もある。",
+   "description": "牛乳から分けた脂肪分の多い部分。料理や菓子作りに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -110826,7 +110824,7 @@
    "english_id": "en:000002361",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A round orange fruit; also the color.",
+   "description_en": "A round citrus fruit with a thick skin and juicy segments.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -110844,9 +110842,9 @@
    "study_priority": 567,
    "nativeExplain": {
     "pt-BR": "laranja (fruta) vs laranja (cor)",
-    "ja": "丸いだいだい色の果物。その色の名前でもある。"
+    "ja": "厚い皮と果汁の多い房を持つ、丸いかんきつ類の果物。"
    },
-   "description": "丸いだいだい色の果物。その色の名前でもある。",
+   "description": "厚い皮と果汁の多い房を持つ、丸いかんきつ類の果物。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -113091,7 +113089,7 @@
    "english_id": "en:000002448",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To hang something on a hook.",
+   "description_en": "To suspend something from a hook, line, or other support so that it hangs downward.",
    "level": "C1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -113198,11 +113196,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1698,
-   "description": "フックなどに物をぶら下げること。",
+   "description": "フックやひもなどに物をかけ、下に垂れるようにする。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "フックなどに物をぶら下げること。"
+    "ja": "フックやひもなどに物をかけ、下に垂れるようにする。"
    },
    "antonyms": []
   },
@@ -113521,7 +113519,7 @@
    "english_id": "en:000002460",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A white substance that makes food salty.",
+   "description_en": "A seasoning, usually in small crystals, used to give food a salty taste or preserve it.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -113546,11 +113544,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 577,
-   "description": "食べ物にしょっぱい味をつける白い粉。",
+   "description": "ふつう小さな粒で、食べ物に塩味をつけたり保存したりするために使うもの。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "食べ物にしょっぱい味をつける白い粉。"
+    "ja": "ふつう小さな粒で、食べ物に塩味をつけたり保存したりするために使うもの。"
    },
    "antonyms": []
   },
@@ -113559,7 +113557,7 @@
    "english_id": "en:000002461",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Afraid.",
+   "description_en": "Feeling fear, often after something has frightened you.",
    "level": "C1",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -113569,10 +113567,10 @@
     "feelings"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "怖がった",
+   "text": "おびえた",
    "alternatives": [],
-   "reading": "こわがった",
-   "romanization": "kowagatta",
+   "reading": "おびえた",
+   "romanization": "obieta",
    "lexical_type": "form",
    "lemma": "怖がる",
    "lemma_id": null,
@@ -113585,11 +113583,11 @@
    "key_pending": true,
    "study_tier": "inicial",
    "study_priority": 578,
-   "description": "こわいと感じている。",
+   "description": "何かにおびえたり、怖いと感じたりしている。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "こわいと感じている。"
+    "ja": "何かにおびえたり、怖いと感じたりしている。"
    },
    "antonyms": []
   },
@@ -115054,7 +115052,7 @@
    "english_id": "en:000002520",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Making music with your voice.",
+   "description_en": "The activity of making music by singing with your voice.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -115072,11 +115070,11 @@
    "class_real": "nominalized verb construction",
    "study_tier": "herdado",
    "study_priority": 2684,
-   "description": "声を出して歌を歌うこと。",
+   "description": "声を使って歌を歌うこと。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "声を出して歌を歌うこと。"
+    "ja": "声を使って歌を歌うこと。"
    },
    "antonyms": []
   },
@@ -115574,7 +115572,7 @@
    "english_id": "en:000002539",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The border around a picture or window.",
+   "description_en": "A rigid border around a picture, window, or similar object, used for support or decoration.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -115591,11 +115589,11 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1729,
-   "description": "絵や窓のまわりを囲む縁。",
+   "description": "絵や窓などのまわりにつけて、支えたり飾ったりする硬い縁。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "絵や窓のまわりを囲む縁。"
+    "ja": "絵や窓などのまわりにつけて、支えたり飾ったりする硬い縁。"
    },
    "antonyms": []
   },
@@ -116793,7 +116791,7 @@
    "english_id": "en:000002577",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To talk in a friendly way.",
+   "description_en": "To talk casually and informally with someone.",
    "level": "C1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -116900,11 +116898,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "bater papo; por mensagem",
-    "ja": "気軽に話す。ネットでメッセージをやりとりする意味もある。"
+    "ja": "相手と気軽におしゃべりする。"
    },
    "study_tier": "inicial",
    "study_priority": 593,
-   "description": "気軽に話す。ネットでメッセージをやりとりする意味もある。",
+   "description": "相手と気軽におしゃべりする。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -117115,7 +117113,7 @@
    "english_id": "en:000002586",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Sweet food that grows on plants, like apples.",
+   "description_en": "An edible part of a plant, such as an apple, strawberry, or lemon, often eaten by itself.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -117132,11 +117130,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 595,
-   "description": "りんごなど、木や草になる甘い食べ物。",
+   "description": "りんご、いちご、レモンなど、食用にされる植物の部分。そのまま食べることも多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "りんごなど、木や草になる甘い食べ物。"
+    "ja": "りんご、いちご、レモンなど、食用にされる植物の部分。そのまま食べることも多い。"
    },
    "antonyms": []
   },
@@ -117197,7 +117195,7 @@
    "english_id": "en:000002589",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A list at the end of a book.",
+   "description_en": "A list of names or topics in a book that tells you which pages to look at.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -117222,11 +117220,11 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1754,
-   "description": "本の終わりにある、言葉の一覧。",
+   "description": "本に出てくる名前や項目を並べ、それぞれが載っているページを示した一覧。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "本の終わりにある、言葉の一覧。"
+    "ja": "本に出てくる名前や項目を並べ、それぞれが載っているページを示した一覧。"
    },
    "antonyms": []
   },
@@ -161918,7 +161916,7 @@
    "english_id": "en:000004026",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A task or set of questions you do to practice something you are learning.",
    "text": "練習問題",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -161927,15 +161925,14 @@
    "romanization": "renshuumondai",
    "study_tier": "cedo",
    "study_priority": 3484,
-   "core_status": "retired",
-   "duplicate_of": "en:000002071",
    "user_hint": "",
-   "description": "勉強のために解く、練習の問題。",
+   "description": "習ったことを身につけるために取り組む課題や問題。",
    "nativeExplain": {
-    "ja": "勉強のために解く、練習の問題。"
+    "ja": "習ったことを身につけるために取り組む課題や問題。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "part_of_speech": "n"
   },
   {
    "id": "ja:en:000004027",
@@ -162224,7 +162221,7 @@
    "english_id": "en:000004035",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "A thick soft preparation applied to the skin to protect or moisturize it.",
    "text": "クリーム",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -162233,22 +162230,21 @@
    "romanization": "kuriimu",
    "study_tier": "cedo",
    "study_priority": 3488,
-   "core_status": "retired",
-   "duplicate_of": "en:000002344",
    "user_hint": "",
-   "description": "肌にぬったり食べたりする、やわらかいもの。",
+   "description": "肌を保護したり乾燥を防いだりするためにぬる、やわらかく濃いもの。",
    "nativeExplain": {
-    "ja": "肌にぬったり食べたりする、やわらかいもの。"
+    "ja": "肌を保護したり乾燥を防いだりするためにぬる、やわらかく濃いもの。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "part_of_speech": "n"
   },
   {
    "id": "ja:en:000004036",
    "english_id": "en:000004036",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
+   "description_en": "The color between red and yellow, like the peel of a ripe orange.",
    "text": "オレンジ色",
    "alternatives": [],
    "source_status": "base4-reviewed",
@@ -162257,15 +162253,14 @@
    "romanization": "orenjiiro",
    "study_tier": "cedo",
    "study_priority": 3489,
-   "core_status": "retired",
-   "duplicate_of": "en:000002361",
    "user_hint": "",
-   "description": "赤と黄色の間の色。",
+   "description": "赤と黄色の間の、熟したオレンジの皮に似た色。",
    "nativeExplain": {
-    "ja": "赤と黄色の間の色。"
+    "ja": "赤と黄色の間の、熟したオレンジの皮に似た色。"
    },
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "part_of_speech": "n"
   },
   {
    "id": "ja:en:000004037",
@@ -163036,7 +163031,7 @@
    "reading": "くるまにのせること",
    "romanization": "kurumaninoserukoto",
    "study_tier": "cedo",
-   "study_priority": 3701,
+   "study_priority": 3708,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "人の車に、ただで乗せてもらうこと。",
@@ -167142,7 +167137,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3695,
+   "study_priority": 3702,
    "novrev_status": "reviewed",
    "text": "孫",
    "reading": "まご",
@@ -167517,7 +167512,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3686,
+   "study_priority": 3693,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "無事な",
    "reading": "ぶじな",
@@ -167570,7 +167565,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3687,
+   "study_priority": 3694,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167596,7 +167591,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3688,
+   "study_priority": 3695,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167622,7 +167617,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3689,
+   "study_priority": 3696,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167648,7 +167643,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3690,
+   "study_priority": 3697,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167674,7 +167669,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3691,
+   "study_priority": 3698,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167700,7 +167695,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3692,
+   "study_priority": 3699,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167726,7 +167721,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3693,
+   "study_priority": 3700,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167752,7 +167747,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3694,
+   "study_priority": 3701,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167788,7 +167783,7 @@
     "ja": "結婚していない女の人の名前のあとにつける呼び方。"
    },
    "core_status": "pending",
-   "study_priority": 3711
+   "study_priority": 3718
   },
   {
    "kind": "word",
@@ -169473,6 +169468,167 @@
    "alternatives": [],
    "reading": "しはんき",
    "romanization": "shihanki"
+  },
+  {
+   "id": "ja:en:000004265",
+   "english_id": "en:000004265",
+   "english_sense_id": null,
+   "text": "運動する",
+   "kind": "word",
+   "description_en": "To do physical activity to stay healthy or improve strength and fitness.",
+   "level": "B1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3686,
+   "description": "健康や体力のために体を動かす。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "健康や体力のために体を動かす。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "うんどうする",
+   "romanization": "undou suru"
+  },
+  {
+   "id": "ja:en:000004266",
+   "english_id": "en:000004266",
+   "english_sense_id": null,
+   "text": "欠陥",
+   "kind": "word",
+   "description_en": "A defect in something that makes it work incorrectly or reduces its quality.",
+   "level": "B2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3687,
+   "description": "物の働きを悪くしたり、品質を下げたりする欠点。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "物の働きを悪くしたり、品質を下げたりする欠点。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "けっかん",
+   "romanization": "kekkan"
+  },
+  {
+   "id": "ja:en:000004267",
+   "english_id": "en:000004267",
+   "english_sense_id": null,
+   "text": "展示",
+   "kind": "word",
+   "description_en": "An arrangement of things set out so that people can see them.",
+   "level": "B2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3688,
+   "description": "人が見られるように物を並べて示すこと。また、その並び。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "人が見られるように物を並べて示すこと。また、その並び。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "てんじ",
+   "romanization": "tenji"
+  },
+  {
+   "id": "ja:en:000004268",
+   "english_id": "en:000004268",
+   "english_sense_id": null,
+   "text": "表示する",
+   "kind": "word",
+   "description_en": "To put something where people can see it, or show it on a screen.",
+   "level": "B2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3689,
+   "description": "文字や画像などを見える形で示す。画面に出すときにも使う。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "文字や画像などを見える形で示す。画面に出すときにも使う。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "ひょうじする",
+   "romanization": "hyouji suru"
+  },
+  {
+   "id": "ja:en:000004269",
+   "english_id": "en:000004269",
+   "english_sense_id": null,
+   "text": "斬新な",
+   "kind": "word",
+   "description_en": "New or original in a way that is unusual and has not been seen or used before.",
+   "level": "C1",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3690,
+   "description": "それまでにない新しい発想や特徴がある。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "それまでにない新しい発想や特徴がある。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "ざんしんな",
+   "romanization": "zanshin na"
+  },
+  {
+   "id": "ja:en:000004270",
+   "english_id": "en:000004270",
+   "english_sense_id": null,
+   "text": "チャットする",
+   "kind": "word",
+   "description_en": "To exchange informal messages in real time online.",
+   "level": "B1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3691,
+   "description": "インターネットで、気軽なメッセージをその場でやり取りする。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "インターネットで、気軽なメッセージをその場でやり取りする。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "チャットする",
+   "romanization": "chatto suru"
+  },
+  {
+   "id": "ja:en:000004271",
+   "english_id": "en:000004271",
+   "english_sense_id": null,
+   "text": "指数",
+   "kind": "word",
+   "description_en": "A number or set of numbers that summarizes changes in prices, markets, or other measured conditions.",
+   "level": "B2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3692,
+   "description": "物価や市場などに起きた変化を要約して示す数値。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "物価や市場などに起きた変化を要約して示す数値。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "しすう",
+   "romanization": "shisuu"
   }
  ]
 }
