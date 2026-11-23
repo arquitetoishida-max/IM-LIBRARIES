@@ -4758,11 +4758,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 50,
-   "description": "用话语说出来。",
+   "description": "用话表达自己的意思，或把某个消息告诉别人。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "用话语说出来。"
+    "zh": "用话表达自己的意思，或把某个消息告诉别人。"
    },
    "antonyms": []
   },
@@ -4854,11 +4854,11 @@
    "romanization": "hěn bàng",
    "study_tier": "inicial",
    "study_priority": 51,
-   "description": "非常好，很出色。",
+   "description": "用来称赞人或事物很出色，也可以表示对某件事很满意。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "非常好，很出色。"
+    "zh": "用来称赞人或事物很出色，也可以表示对某件事很满意。"
    },
    "antonyms": []
   },
@@ -4925,11 +4925,11 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 3465,
-   "description": "“you are”的缩写。",
+   "description": "用来向对方说明其身份或所属类别，例如“你是老师”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "“you are”的缩写。"
+    "zh": "用来向对方说明其身份或所属类别，例如“你是老师”。"
    },
    "antonyms": []
   },
@@ -4989,11 +4989,11 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 3466,
-   "description": "“that is”的缩写。",
+   "description": "用来指出或说明刚提到的人或事物的身份或类别。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "“that is”的缩写。"
+    "zh": "用来指出或说明刚提到的人或事物的身份或类别。"
    },
    "antonyms": []
   },
@@ -9839,7 +9839,7 @@
    "english_id": "en:000000286",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Work you do, often for pay; a task.",
+   "description_en": "A paid position or regular work someone does for a living. In other contexts, a piece of work that needs doing.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -10236,7 +10236,7 @@
    "english_id": "en:000000297",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A request for food or goods; also arrangement.",
+   "description_en": "A customer’s request for food or goods, or the food or goods requested.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -10248,18 +10248,15 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "订单",
-   "alternatives": [
-    "点菜",
-    "顺序"
-   ],
+   "alternatives": [],
    "reading": "dìngdān",
    "romanization": "dìngdān",
    "study_priority": 3104,
-   "description": "对食物或商品的订购；也指顺序。",
+   "description": "顾客向商家订购商品或餐食的记录，也指这笔订购。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "对食物或商品的订购；也指顺序。"
+    "zh": "顾客向商家订购商品或餐食的记录，也指这笔订购。"
    },
    "antonyms": []
   },
@@ -10268,7 +10265,7 @@
    "english_id": "en:000000298",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A celebration with friends.",
+   "description_en": "A social event where people get together to celebrate or have fun.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -10294,11 +10291,11 @@
     }
    ],
    "study_priority": 3105,
-   "description": "和朋友一起庆祝的聚会。",
+   "description": "亲友等聚在一起聊天、娱乐或庆祝的活动。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "和朋友一起庆祝的聚会。"
+    "zh": "亲友等聚在一起聊天、娱乐或庆祝的活动。"
    },
    "antonyms": []
   },
@@ -10418,7 +10415,7 @@
    "english_id": "en:000000303",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To make something not closed.",
+   "description_en": "To move a door, lid, or other barrier so that people can get through or reach what is inside.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -10445,7 +10442,7 @@
    ],
    "study_tier": "inicial",
    "study_priority": 76,
-   "description": "把关着的东西打开。",
+   "description": "使关着的门、盖子等敞开，也可指在设备上开启文件或应用。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -10454,7 +10451,7 @@
     "en:000001702"
    ],
    "nativeExplain": {
-    "zh": "把关着的东西打开。"
+    "zh": "使关着的门、盖子等敞开，也可指在设备上开启文件或应用。"
    }
   },
   {
@@ -10553,11 +10550,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 77,
-   "description": "表示感谢。",
+   "description": "对别人给自己的帮助、关心或好意表示谢意。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示感谢。"
+    "zh": "对别人给自己的帮助、关心或好意表示谢意。"
    },
    "antonyms": []
   },
@@ -48360,7 +48357,7 @@
    "english_id": "en:000001687",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Refers back to \"she\": \"she hurt herself\".",
+   "description_en": "Refers back to a woman or girl already mentioned, as in “she hurt herself.” Also emphasizes that she did something personally.",
    "level": "B1",
    "part_of_speech": "pron",
    "source_status": "editorial-reviewed",
@@ -48377,11 +48374,11 @@
    "romanization": "tā zìjǐ",
    "study_tier": "cedo",
    "study_priority": 1421,
-   "description": "指“她”自己。",
+   "description": "指前面提到的女性本人，可强调是她亲自做的，也可指动作落在她本人身上。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指“她”自己。"
+    "zh": "指前面提到的女性本人，可强调是她亲自做的，也可指动作落在她本人身上。"
    },
    "antonyms": []
   },
@@ -55190,11 +55187,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 509,
-   "description": "需要休息或睡觉。",
+   "description": "因劳作、运动或用脑等感到没力气，想休息。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "需要休息或睡觉。"
+    "zh": "因劳作、运动或用脑等感到没力气，想休息。"
    },
    "antonyms": []
   },

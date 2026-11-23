@@ -35502,11 +35502,11 @@
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 3496,
-   "description": "「you are」の短い形。",
+   "description": "相手の身分や特徴などを述べるときの丁寧な言い方。相手が明らかなときは「あなたは」を省くことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "「you are」の短い形。"
+    "ja": "相手の身分や特徴などを述べるときの丁寧な言い方。相手が明らかなときは「あなたは」を省くことが多い。"
    },
    "antonyms": []
   },
@@ -35566,13 +35566,13 @@
    "lexical_type": "construction",
    "class_real": "sentence pattern",
    "nativeExplain": {
-    "pt-BR": "aquilo, isso já citado",
-    "ja": "「that is」の短い形。"
+    "pt-BR": "isso é",
+    "ja": "すでに話に出たものについて、何であるかやどんなものかを述べる言い方。"
    },
    "core_status": "retired",
    "study_tier": "herdado",
    "study_priority": 3497,
-   "description": "「that is」の短い形。",
+   "description": "すでに話に出たものについて、何であるかやどんなものかを述べる言い方。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -42595,7 +42595,7 @@
    "english_id": "en:000000286",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Work you do, often for pay; a task.",
+   "description_en": "A paid position or regular work someone does for a living. In other contexts, a piece of work that needs doing.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -43040,7 +43040,7 @@
    "english_id": "en:000000297",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A request for food or goods; an order.",
+   "description_en": "A customer’s request for food or goods, or the food or goods requested.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -43057,7 +43057,7 @@
    "romanization": "chuumon",
    "class_real": "noun (suru-noun)",
    "nativeExplain": {
-    "pt-BR": "pedido de compra; ordem",
+    "pt-BR": "pedido de comida ou mercadoria",
     "ja": "食べ物や品物をたのむこと。"
    },
    "study_priority": 3135,
@@ -43071,7 +43071,7 @@
    "english_id": "en:000000298",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A celebration with friends.",
+   "description_en": "A social event where people get together to celebrate or have fun.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -43241,11 +43241,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1004,
-   "description": "店や人が客のために行う手助け。",
+   "description": "客のために行う仕事や提供する設備・機能。店で品物などを無料で付けることにもいう。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "店や人が客のために行う手助け。"
+    "ja": "客のために行う仕事や提供する設備・機能。店で品物などを無料で付けることにもいう。"
    },
    "antonyms": []
   },
@@ -43291,7 +43291,7 @@
    "english_id": "en:000000303",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To make something not closed.",
+   "description_en": "To move a door, lid, or other barrier so that people can get through or reach what is inside.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -43388,7 +43388,7 @@
    ],
    "study_tier": "inicial",
    "study_priority": 76,
-   "description": "閉じていたものをあけること。",
+   "description": "戸やふたを動かして、中に入ったり中身を取り出したりできるようにする。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -43397,7 +43397,7 @@
     "en:000001702"
    ],
    "nativeExplain": {
-    "ja": "閉じていたものをあけること。"
+    "ja": "戸やふたを動かして、中に入ったり中身を取り出したりできるようにする。"
    }
   },
   {
@@ -91576,7 +91576,7 @@
    "english_id": "en:000001687",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Refers back to \"she\": \"she hurt herself\".",
+   "description_en": "Refers back to a woman or girl already mentioned, as in “she hurt herself.” Also emphasizes that she did something personally.",
    "level": "B1",
    "part_of_speech": "pron",
    "source_status": "editorial-reviewed",
@@ -91594,11 +91594,11 @@
    "class_real": "pronoun phrase",
    "study_tier": "cedo",
    "study_priority": 1421,
-   "description": "「she」がその人自身をさすときの言い方。",
+   "description": "ほかの人ではなく、その女性本人を指したり強調したりする表現。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "「she」がその人自身をさすときの言い方。"
+    "ja": "ほかの人ではなく、その女性本人を指したり強調したりする表現。"
    },
    "antonyms": []
   },
@@ -100637,11 +100637,11 @@
    "class_real": "past participle (疲れる), attributive",
    "study_tier": "inicial",
    "study_priority": 509,
-   "description": "休みや眠りが必要な状態。",
+   "description": "体や頭を使ったあとなどで、元気がなくなり休みたくなった状態。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "休みや眠りが必要な状態。"
+    "ja": "体や頭を使ったあとなどで、元気がなくなり休みたくなった状態。"
    },
    "antonyms": []
   },
