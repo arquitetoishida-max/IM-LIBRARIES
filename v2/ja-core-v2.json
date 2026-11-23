@@ -36804,7 +36804,7 @@
    "english_id": "en:000000162",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To discover something you were looking for.",
+   "description_en": "To locate someone or something, either by looking or by chance. Also to discover a fact or answer.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -36900,11 +36900,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "achar algo",
-    "ja": "探していたものが見つかること。"
+    "ja": "探していた人や物の居場所が分かる。また、偶然に人や物に気づく。"
    },
    "study_tier": "inicial",
    "study_priority": 62,
-   "description": "探していたものが見つかること。",
+   "description": "探していた人や物の居場所が分かる。また、偶然に人や物に気づく。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -37307,7 +37307,7 @@
    "english_id": "en:000000169",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Form of \"do\" (he/she/it does).",
+   "description_en": "The present-tense form of “do” used with he, she, it, or a singular subject. It can mean to perform an action or help form a question or negative.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -37333,11 +37333,11 @@
    "retired_reason": "SAME_SURFACE_AS_048",
    "study_tier": "herdado",
    "study_priority": 3177,
-   "description": "「彼・彼女・それ」と使う「do」の形。",
+   "description": "仕事や運動など、ある行為を行う。主語によって形は変わらない。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "「彼・彼女・それ」と使う「do」の形。"
+    "ja": "仕事や運動など、ある行為を行う。主語によって形は変わらない。"
    },
    "antonyms": [],
    "inflection_of": "en:000000048",
@@ -37405,7 +37405,7 @@
    "english_id": "en:000000173",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Throughout a period of time.",
+   "description_en": "At some time within a period, or for part or all of that period.",
    "level": "A1",
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
@@ -37422,11 +37422,11 @@
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 991,
-   "description": "ある期間のあいだずっと。",
+   "description": "ある期間の中で、何かが起きたり行われたりすることを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ある期間のあいだずっと。"
+    "ja": "ある期間の中で、何かが起きたり行われたりすることを表す。"
    },
    "antonyms": []
   },
@@ -47592,7 +47592,7 @@
    "english_id": "en:000000415",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A group of students who learn together.",
+   "description_en": "A group of students taught together. Class can also mean one of their lessons or the time they spend in it.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -73013,11 +73013,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1191,
-   "description": "職場で人をまとめる責任者。",
+   "description": "職場で人や業務を取りまとめる責任者。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "職場で人をまとめる責任者。"
+    "ja": "職場で人や業務を取りまとめる責任者。"
    },
    "antonyms": []
   },
@@ -73951,7 +73951,7 @@
    "english_id": "en:000001142",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Connected railway cars pulled by an engine.",
+   "description_en": "A railway vehicle or set of connected cars that carries passengers or freight along tracks.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -73971,11 +73971,11 @@
    "romanization": "densha",
    "study_tier": "inicial",
    "study_priority": 356,
-   "description": "線路を走る、つながった乗り物。",
+   "description": "電気で動き、線路の上を走る車両。通勤や通学で使う鉄道の車両を指すことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "線路を走る、つながった乗り物。"
+    "ja": "電気で動き、線路の上を走る車両。通勤や通学で使う鉄道の車両を指すことが多い。"
    },
    "antonyms": []
   },
@@ -75409,7 +75409,7 @@
    "english_id": "en:000001187",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The surface you walk on inside a building.",
+   "description_en": "The surface you stand or walk on in a room.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -75422,9 +75422,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "床",
-   "alternatives": [
-    "階"
-   ],
+   "alternatives": [],
    "reading": "ゆか",
    "romanization": "yuka",
    "classifications": [
@@ -75437,7 +75435,7 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "piso dentro de casa; andar",
+    "pt-BR": "chão ou piso de um cômodo",
     "ja": "建物の中で歩く面。"
    },
    "study_tier": "inicial",
@@ -110815,7 +110813,7 @@
    "english_id": "en:000002360",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Completely different; opposite.",
+   "description_en": "As different as possible in meaning, direction, or effect. In a separate spatial use, located directly across from something.",
    "level": "B2",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -110833,11 +110831,11 @@
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1660,
-   "description": "まったく反対の。向かい合った。",
+   "description": "向きや意味、考え方などが逆になっている。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "まったく反対の。向かい合った。"
+    "ja": "向きや意味、考え方などが逆になっている。"
    },
    "antonyms": []
   },
