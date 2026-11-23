@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1110 foram percorridas. Retomar na posição 1111, `en:000000905` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1170 foram percorridas. Retomar na posição 1171, `en:000002537` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -147,8 +147,13 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 ### Lote 1051–1110
 
-- 56 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1051–1110; 1061, 1093 e 1108 já tratadas). Em *earth*, o ID de maior prioridade ficou no planeta. Criado o espelho `en:000004273` para *earth* (solo): terra, 土, 泥土. O japonês de *bathtub* passou a incluir バスタブ e 湯船. As descrições de *guys* e *kids* foram escritas no idioma de cada verbete.
+- 57 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1051–1110; 1061, 1093 e 1108 já tratadas). Em *earth*, o ID de maior prioridade ficou no planeta. Criado o espelho `en:000004273` para *earth* (solo): terra, 土, 泥土. O japonês de *bathtub* passou a incluir バスタブ e 湯船. As descrições de *guys* e *kids* foram escritas no idioma de cada verbete.
 - A Kanji Study foi consultada para 土, 球 e 泥. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 1111–1170
+
+- 57 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1111–1170; 1128 e 1134 já tratadas). O ID `en:000001269` de *dream* passou a ensinar o sentido de desejo para o futuro (sonho, 夢, 梦想), pois o ID `en:000002493` já cobre o sonho durante o sono. Em *bright*, retirada a glosa de inteligente, que o japonês 明るい não cobre. *Hurt* passou a incluir sentir dor. O chinês de *lovely* passou a usar 美好, pois 可爱 já traduz *cute*.
+- A Kanji Study foi consultada para 夢, 傷, 痛 e 偽. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
