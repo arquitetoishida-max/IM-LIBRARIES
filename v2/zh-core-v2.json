@@ -527,7 +527,7 @@
    "reading": "shì",
    "romanization": "céngjīng shì",
    "study_tier": "praticar com lema",
-   "study_priority": 3631,
+   "study_priority": 3633,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi",
     "zh": "“be”的过去形式（was）。"
@@ -645,7 +645,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3632,
+   "study_priority": 3634,
    "description": "“be”的现在形式，和 you、we、they 连用。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1404,7 +1404,7 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 3625,
+   "study_priority": 3627,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "zh": "表示将来的动作、决定或提议。"
@@ -1680,7 +1680,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3633,
+   "study_priority": 3635,
    "description": "“have”和 he、she、it 连用的形式。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1869,7 +1869,7 @@
    "reading": "shì",
    "romanization": "céngjīng shì",
    "study_tier": "praticar com lema",
-   "study_priority": 3634,
+   "study_priority": 3636,
    "description": "“be”的过去形式（were）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1942,7 +1942,7 @@
    "reading": "yǒuguo",
    "romanization": "yǒuguo",
    "study_tier": "praticar com lema",
-   "study_priority": 3635,
+   "study_priority": 3637,
    "description": "“have”的过去形式。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -2213,7 +2213,7 @@
    "reading": "qùguo",
    "romanization": "qùguo",
    "study_tier": "praticar com lema",
-   "study_priority": 3636,
+   "study_priority": 3638,
    "description": "“be”的过去分词（“我去过那里”）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -2255,7 +2255,7 @@
     }
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 3626,
+   "study_priority": 3628,
    "description": "用于假设或客气的说法（“我想要”）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -3300,7 +3300,7 @@
    "reading": "néng",
    "romanization": "néng",
    "study_tier": "praticar com lema",
-   "study_priority": 3637,
+   "study_priority": 3639,
    "description": "“can”的过去形式；也用于客气的请求。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -3668,7 +3668,7 @@
    "reading": "zuì duō",
    "romanization": "zuì duō",
    "study_tier": "expansão estruturante",
-   "study_priority": 3627,
+   "study_priority": 3629,
    "description": "表示在比较的对象中数量最大。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -7756,7 +7756,7 @@
    ],
    "reading": "jǐ ge",
    "romanization": "jǐ ge",
-   "study_priority": 3639,
+   "study_priority": 3641,
    "description": "指不多的几个，通常只表示一个大概的数目。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -11361,7 +11361,7 @@
    "english_id": "en:000000336",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The smallest amount; \"at least\" = no less than.",
+   "description_en": "The smallest amount or number, or the lowest degree of something.",
    "level": "A1",
    "part_of_speech": "det",
    "source_status": "editorial-reviewed",
@@ -11372,21 +11372,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "最少",
-   "alternatives": [
-    "至少"
-   ],
+   "alternatives": [],
    "reading": "zuì shǎo",
    "romanization": "zuì shǎo",
    "study_tier": "intermediário",
    "study_priority": 2401,
-   "description": "最少的数量；“至少”表示不低于。",
+   "description": "和其他选项相比，数量最小或程度最低。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000100"
    ],
    "nativeExplain": {
-    "zh": "最少的数量；“至少”表示不低于。"
+    "zh": "和其他选项相比，数量最小或程度最低。"
    }
   },
   {
@@ -11747,7 +11745,7 @@
    "english_id": "en:000000348",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To publish online; to send by mail.",
+   "description_en": "To publish a message, photo, video, or other content on the internet.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -11773,9 +11771,9 @@
    "study_priority": 1019,
    "nativeExplain": {
     "pt-BR": "postar (publicar on-line)",
-    "zh": "在网上发布；邮寄。"
+    "zh": "把消息、照片或视频发布到网上，比如发一条动态。"
    },
-   "description": "在网上发布；邮寄。",
+   "description": "把消息、照片或视频发布到网上，比如发一条动态。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -12372,7 +12370,7 @@
    "english_id": "en:000000366",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Only one; also not married.",
+   "description_en": "Only one person or thing, rather than two or more.",
    "level": "A1",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -12383,18 +12381,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "单个",
-   "alternatives": [
-    "单身"
-   ],
+   "alternatives": [],
    "reading": "dān gè",
    "romanization": "dān gè",
    "study_tier": "inicial",
    "study_priority": 97,
-   "description": "仅有一个；也指未婚。",
+   "description": "只涉及一个人或一件东西，强调是一个个体。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "仅有一个；也指未婚。"
+    "zh": "只涉及一个人或一件东西，强调是一个个体。"
    },
    "antonyms": []
   },
@@ -12486,7 +12482,7 @@
    "reading": "lái le",
    "romanization": "lái le",
    "study_tier": "herdado",
-   "study_priority": 3638,
+   "study_priority": 3640,
    "user_hint": "",
    "description": "“come”的进行形式。",
    "novrev_status": "reviewed",
@@ -17633,7 +17629,7 @@
    "reading": "héngguò",
    "romanization": "héngguò",
    "study_tier": "cedo",
-   "study_priority": 3628,
+   "study_priority": 3630,
    "description": "从一边到另一边。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -18133,7 +18129,7 @@
    "reading": "érshì",
    "romanization": "érshì",
    "study_tier": "cedo",
-   "study_priority": 3629,
+   "study_priority": 3631,
    "description": "替代另一件事。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -29549,7 +29545,7 @@
    "english_id": "en:000000964",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A police officer; a person with authority.",
+   "description_en": "A member of the police force whose job includes enforcing the law.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -29561,18 +29557,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "警官",
-   "alternatives": [
-    "官员"
-   ],
+   "alternatives": [],
    "reading": "jǐngguān",
    "romanization": "jǐngguān",
    "study_tier": "cedo",
    "study_priority": 1130,
-   "description": "警察；有职权的人。",
+   "description": "在警察机构任职并履行执法职责的人。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "警察；有职权的人。"
+    "zh": "在警察机构任职并履行执法职责的人。"
    },
    "antonyms": []
   },
@@ -30296,9 +30290,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "好笑",
-   "alternatives": [
-    "有意思"
-   ],
+   "alternatives": [],
    "reading": "hǎoxiào",
    "romanization": "hǎoxiào",
    "classifications": [
@@ -30311,11 +30303,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 321,
-   "description": "让人发笑。",
+   "description": "让人觉得滑稽或有趣，忍不住想笑。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "让人发笑。"
+    "zh": "让人觉得滑稽或有趣，忍不住想笑。"
    },
    "antonyms": []
   },
@@ -32791,11 +32783,11 @@
    "romanization": "jiǎo",
    "study_tier": "herdado",
    "study_priority": 3188,
-   "description": "脚的复数，指不止一只脚。",
+   "description": "腿的末端、站立时接触地面的部分。一个或多个都可以叫“脚”；特指两只时可说“双脚”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "脚的复数，指不止一只脚。"
+    "zh": "腿的末端、站立时接触地面的部分。一个或多个都可以叫“脚”；特指两只时可说“双脚”。"
    },
    "antonyms": [],
    "core_status": "search_only",
@@ -54307,9 +54299,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "任何地方",
-   "alternatives": [
-    "哪里"
-   ],
+   "alternatives": [],
    "reading": "rènhé dìfang",
    "romanization": "rènhé dìfang",
    "study_tier": "cedo",
@@ -64872,7 +64862,7 @@
    "english_id": "en:000002429",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A paper that lets you travel or enter an event.",
+   "description_en": "A paper or digital pass that lets you enter an event, performance, or attraction.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -64900,11 +64890,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 574,
-   "description": "用来乘车或进入活动场所的凭证。",
+   "description": "用来进入演出场所、展馆或景区等的纸质或电子凭证。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "用来乘车或进入活动场所的凭证。"
+    "zh": "用来进入演出场所、展馆或景区等的纸质或电子凭证。"
    },
    "antonyms": []
   },
@@ -65689,7 +65679,7 @@
    "english_id": "en:000002465",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A button that turns electricity on or off.",
+   "description_en": "A control that turns a device, light, or electric circuit on or off.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -65717,9 +65707,9 @@
    "study_priority": 2975,
    "nativeExplain": {
     "pt-BR": "interruptor (subst.) vs trocar (verbo)",
-    "zh": "用来接通或切断电源的装置。"
+    "zh": "接通或断开电路，以控制灯、设备等运行的装置。"
    },
-   "description": "用来接通或切断电源的装置。",
+   "description": "接通或断开电路，以控制灯、设备等运行的装置。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -66276,11 +66266,11 @@
    "romanization": "sònghuò",
    "study_tier": "cedo",
    "study_priority": 1711,
-   "description": "把货物送到某人家里。",
+   "description": "按约定把商品送到收货人指定的地址。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "把货物送到某人家里。"
+    "zh": "按约定把商品送到收货人指定的地址。"
    },
    "antonyms": []
   },
@@ -107548,7 +107538,7 @@
    "reading": "dāchē",
    "romanization": "dāchē",
    "study_tier": "cedo",
-   "study_priority": 3630,
+   "study_priority": 3632,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "免费搭别人的车。",
@@ -110248,7 +110238,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3624,
+   "study_priority": 3626,
    "novrev_status": "reviewed",
    "text": "孙子",
    "reading": "sūnzi",
@@ -110626,7 +110616,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3615,
+   "study_priority": 3617,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "完好",
    "reading": "wánhǎo",
@@ -110681,7 +110671,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3616,
+   "study_priority": 3618,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "堂哥",
    "reading": "táng gē",
@@ -110707,7 +110697,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3617,
+   "study_priority": 3619,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "堂弟",
    "reading": "táng dì",
@@ -110733,7 +110723,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3618,
+   "study_priority": 3620,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "堂姐",
    "reading": "táng jiě",
@@ -110759,7 +110749,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3619,
+   "study_priority": 3621,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "堂妹",
    "reading": "táng mèi",
@@ -110785,7 +110775,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3620,
+   "study_priority": 3622,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "表哥",
    "reading": "biǎo gē",
@@ -110811,7 +110801,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3621,
+   "study_priority": 3623,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "表弟",
    "reading": "biǎo dì",
@@ -110837,7 +110827,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3622,
+   "study_priority": 3624,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "表姐",
    "reading": "biǎo jiě",
@@ -110863,7 +110853,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3623,
+   "study_priority": 3625,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "表妹",
    "reading": "biǎo mèi",
@@ -110899,7 +110889,7 @@
     "zh": "放在未婚女子的姓后面（如：李小姐）。"
    },
    "core_status": "pending",
-   "study_priority": 3640
+   "study_priority": 3642
   },
   {
    "kind": "word",
@@ -110952,6 +110942,52 @@
    "alternatives": [],
    "reading": "duìwǔ",
    "romanization": "duìwǔ"
+  },
+  {
+   "id": "zh:en:000004194",
+   "english_id": "en:000004194",
+   "english_sense_id": null,
+   "text": "军官",
+   "kind": "word",
+   "description_en": "A member of the armed forces who holds a rank of command.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3615,
+   "description": "军队中具有相应军衔、担负指挥或其他职责的人员。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "zh": "军队中具有相应军衔、担负指挥或其他职责的人员。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "jūnguān",
+   "romanization": "jūnguān"
+  },
+  {
+   "id": "zh:en:000004195",
+   "english_id": "en:000004195",
+   "english_sense_id": null,
+   "text": "车票",
+   "kind": "word",
+   "description_en": "A paper or electronic pass showing you can take a bus, train, or comparable ground transport service.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3616,
+   "description": "乘坐火车、汽车等交通工具所需的纸质或电子凭证。乘飞机用的票通常叫机票。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "zh": "乘坐火车、汽车等交通工具所需的纸质或电子凭证。乘飞机用的票通常叫机票。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "chēpiào",
+   "romanization": "chēpiào"
   }
  ],
  "third_party": [

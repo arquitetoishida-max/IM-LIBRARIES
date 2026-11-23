@@ -30103,7 +30103,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3631,
+   "study_priority": 3633,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi",
     "ja": "「be」の過去の形。"
@@ -30301,7 +30301,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3632,
+   "study_priority": 3634,
    "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31167,7 +31167,7 @@
    "romanization": "~ tsumori",
    "usage_note": "Intention: 〜するつもり; prediction: 〜でしょう/だろう; often just the non-past form. Japanese has no future tense.",
    "study_tier": "expansão estruturante",
-   "study_priority": 3625,
+   "study_priority": 3627,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "ja": "これからすることや決めたことを表す言葉。"
@@ -31404,7 +31404,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3633,
+   "study_priority": 3635,
    "description": "「彼・彼女・それ」と使う「have」の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31676,7 +31676,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3634,
+   "study_priority": 3636,
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
@@ -31760,7 +31760,7 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_tier": "praticar com lema",
-   "study_priority": 3635,
+   "study_priority": 3637,
    "description": "「have」の過去の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32106,7 +32106,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3636,
+   "study_priority": 3638,
    "description": "「be」の過去分詞（「そこに行ったことがある」）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32139,7 +32139,7 @@
    "core_status": "pending",
    "retired_reason": "WOULD_SENSES_SPLIT_PENDING",
    "study_tier": "expansão estruturante",
-   "study_priority": 3626,
+   "study_priority": 3628,
    "description": "仮定や、ていねいな言い方に使う言葉。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -33567,7 +33567,7 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_tier": "praticar com lema",
-   "study_priority": 3637,
+   "study_priority": 3639,
    "description": "「can」の過去。ていねいな依頼にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -34074,7 +34074,7 @@
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
    "study_tier": "expansão estruturante",
-   "study_priority": 3627,
+   "study_priority": 3629,
    "description": "順番や程度の最上位を表す。「一番大きい」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -39364,7 +39364,7 @@
    "reading": "すこしの",
    "romanization": "sukoshi no",
    "class_real": "adnominal (adverb + の)",
-   "study_priority": 3639,
+   "study_priority": 3641,
    "description": "物の数や量が少ないことを名詞の前で表す。「少しのお金」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -44361,7 +44361,7 @@
    "english_id": "en:000000336",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The smallest amount.",
+   "description_en": "The smallest amount or number, or the lowest degree of something.",
    "level": "A1",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -44378,14 +44378,14 @@
    "class_real": "adjective phrase",
    "study_tier": "intermediário",
    "study_priority": 2401,
-   "description": "いちばん少ない量。「少なくとも」という言い方もある。",
+   "description": "比べた中で、数や量がいちばん少ないこと。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000100"
    ],
    "nativeExplain": {
-    "ja": "いちばん少ない量。「少なくとも」という言い方もある。"
+    "ja": "比べた中で、数や量がいちばん少ないこと。"
    }
   },
   {
@@ -44805,7 +44805,7 @@
    "english_id": "en:000000348",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To post online, such as on social media.",
+   "description_en": "To publish a message, photo, video, or other content on the internet.",
    "level": "A1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -44914,9 +44914,9 @@
    "study_priority": 1019,
    "nativeExplain": {
     "pt-BR": "postar (publicar on-line)",
-    "ja": "ネットに文や写真をのせる。郵便で送る意味もある。"
+    "ja": "文章や写真、動画などをインターネット上に公開する。新聞や雑誌に原稿を寄せるときにも使う。"
    },
-   "description": "ネットに文や写真をのせる。郵便で送る意味もある。",
+   "description": "文章や写真、動画などをインターネット上に公開する。新聞や雑誌に原稿を寄せるときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -45583,7 +45583,7 @@
    "english_id": "en:000000366",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "One; a single.",
+   "description_en": "Only one person or thing, rather than two or more.",
    "level": "A1",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -45594,19 +45594,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "一つの",
-   "alternatives": [
-    "独身の"
-   ],
+   "alternatives": [],
    "reading": "ひとつの",
    "romanization": "hitotsu no",
    "class_real": "numeral + の",
    "nativeExplain": {
-    "pt-BR": "um só; solteiro",
-    "ja": "ただひとつの。結婚していない意味もある。"
+    "pt-BR": "apenas um no conjunto",
+    "ja": "数が一つだけであることを表す。"
    },
    "study_tier": "inicial",
    "study_priority": 97,
-   "description": "ただひとつの。結婚していない意味もある。",
+   "description": "数が一つだけであることを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -45782,7 +45780,7 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 3638,
+   "study_priority": 3640,
    "user_hint": "",
    "description": "「come」の〜ing形。",
    "novrev_status": "reviewed",
@@ -52430,7 +52428,7 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 3628,
+   "study_priority": 3630,
    "description": "一方から反対側へ。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -52977,7 +52975,7 @@
    "romanization": "kawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 3629,
+   "study_priority": 3631,
    "description": "別のものの代わりに。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -67706,7 +67704,7 @@
    "english_id": "en:000000964",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A police officer.",
+   "description_en": "A member of the police force whose job includes enforcing the law.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -67723,12 +67721,12 @@
    "romanization": "keisatsukan",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "pessoa: oficial, policial",
-    "ja": "警察官。または、役目をもつ人。"
+    "pt-BR": "integrante da força policial",
+    "ja": "警察に所属し、法律に基づいて人々の安全や秩序を守る仕事をする人。"
    },
    "study_tier": "cedo",
    "study_priority": 1130,
-   "description": "警察官。または、役目をもつ人。",
+   "description": "警察に所属し、法律に基づいて人々の安全や秩序を守る仕事をする人。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -68824,11 +68822,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 321,
-   "description": "笑ってしまうようなこと。",
+   "description": "冗談や話などが、思わず笑ってしまうほど楽しい。内容に興味を引かれる場合にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "笑ってしまうようなこと。"
+    "ja": "冗談や話などが、思わず笑ってしまうほど楽しい。内容に興味を引かれる場合にも使う。"
    },
    "antonyms": []
   },
@@ -71887,11 +71885,11 @@
    "class_real": "noun",
    "study_tier": "herdado",
    "study_priority": 3219,
-   "description": "足が2つ以上あること（複数）。",
+   "description": "立ったり歩いたりするときに地面につく、脚の先の部分。日本語では一つの場合にも複数の場合にも「足」と言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "足が2つ以上あること（複数）。"
+    "ja": "立ったり歩いたりするときに地面につく、脚の先の部分。日本語では一つの場合にも複数の場合にも「足」と言う。"
    },
    "antonyms": [],
    "core_status": "search_only",
@@ -112695,7 +112693,7 @@
    "english_id": "en:000002429",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A paper that lets you travel or enter an event.",
+   "description_en": "A paper or digital pass that lets you enter an event, performance, or attraction.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -112708,19 +112706,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "チケット",
-   "alternatives": [
-    "切符"
-   ],
+   "alternatives": [],
    "reading": "チケット",
    "romanization": "chiketto",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 574,
-   "description": "乗り物に乗ったり、会場に入ったりするための券。",
+   "description": "催し物や施設に入るための券。紙の券だけでなく、電子チケットもある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "乗り物に乗ったり、会場に入ったりするための券。"
+    "ja": "催し物や施設に入るための券。紙の券だけでなく、電子チケットもある。"
    },
    "antonyms": []
   },
@@ -113641,7 +113637,7 @@
    "english_id": "en:000002465",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A button that turns electricity on or off.",
+   "description_en": "A control that turns a device, light, or electric circuit on or off.",
    "level": "C1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -113662,9 +113658,9 @@
    "study_priority": 3007,
    "nativeExplain": {
     "pt-BR": "interruptor (subst.) vs trocar (verbo)",
-    "ja": "電気を入れたり切ったりするボタン。"
+    "ja": "照明や機器などを入れたり切ったりするための操作部。"
    },
-   "description": "電気を入れたり切ったりするボタン。",
+   "description": "照明や機器などを入れたり切ったりするための操作部。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -163068,7 +163064,7 @@
    "reading": "くるまにのせること",
    "romanization": "kurumaninoserukoto",
    "study_tier": "cedo",
-   "study_priority": 3630,
+   "study_priority": 3632,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "人の車に、ただで乗せてもらうこと。",
@@ -167174,7 +167170,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3624,
+   "study_priority": 3626,
    "novrev_status": "reviewed",
    "text": "孫",
    "reading": "まご",
@@ -167549,7 +167545,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3615,
+   "study_priority": 3617,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "無事な",
    "reading": "ぶじな",
@@ -167602,7 +167598,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3616,
+   "study_priority": 3618,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167628,7 +167624,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3617,
+   "study_priority": 3619,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167654,7 +167650,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3618,
+   "study_priority": 3620,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167680,7 +167676,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3619,
+   "study_priority": 3621,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167706,7 +167702,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3620,
+   "study_priority": 3622,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167732,7 +167728,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3621,
+   "study_priority": 3623,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167758,7 +167754,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3622,
+   "study_priority": 3624,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167784,7 +167780,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3623,
+   "study_priority": 3625,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167820,7 +167816,7 @@
     "ja": "結婚していない女の人の名前のあとにつける呼び方。"
    },
    "core_status": "pending",
-   "study_priority": 3640
+   "study_priority": 3642
   },
   {
    "kind": "word",
@@ -167872,6 +167868,52 @@
    "alternatives": [],
    "reading": "ぎょうれつ",
    "romanization": "gyouretsu"
+  },
+  {
+   "id": "ja:en:000004194",
+   "english_id": "en:000004194",
+   "english_sense_id": null,
+   "text": "将校",
+   "kind": "word",
+   "description_en": "A member of the armed forces who holds a rank of command.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3615,
+   "description": "軍隊で、部隊の指揮などを任される一定以上の階級の軍人。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "軍隊で、部隊の指揮などを任される一定以上の階級の軍人。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "しょうこう",
+   "romanization": "shoukou"
+  },
+  {
+   "id": "ja:en:000004195",
+   "english_id": "en:000004195",
+   "english_sense_id": null,
+   "text": "乗車券",
+   "kind": "word",
+   "description_en": "A paper or electronic pass showing you can take a bus, train, or comparable ground transport service.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3616,
+   "description": "電車やバスなどに乗るための券。飛行機に乗るための券は、ふつう航空券という。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "電車やバスなどに乗るための券。飛行機に乗るための券は、ふつう航空券という。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "じょうしゃけん",
+   "romanization": "joushaken"
   }
  ]
 }

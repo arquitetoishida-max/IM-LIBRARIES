@@ -15,9 +15,9 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ## Registro da execução — 23/11/2026
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
-- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.640 IDs por núcleo com o espelho de *line* no sentido de fila. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 495 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 31 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 3.079 conceitos com revisão semântica em aberto. As posições 1–435 foram percorridas. Retomar na posição 436, `en:000000331` (course). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.642 IDs por núcleo com os espelhos de *line*, *officer* e *ticket*. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 529 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 33 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.047 conceitos com revisão semântica em aberto. As posições 1–470 foram percorridas. Retomar na posição 471, `en:000000385` (large). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -61,6 +61,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 32 conceitos conferidos de `en:000000764` (page) a `en:000000933` (card), na sequência EN-US, PT-BR, JA e ZH e por ID e sentido. Três posições já estavam cobertas.
 - Kanji Study conferida para 線, 通, 雨, 海 e 雪. [*Line*](https://dictionary.cambridge.org/dictionary/english/line) tem um ID para traço, `en:000000296` (linha, 線, 线), e um espelho para fila, `en:000004193` (fila, 行列, 队伍). O segundo foi acrescido depois da matriz e antes das pendências na ordem de estudo. As prioridades numéricas das 26 pendências avançaram uma posição em cada núcleo. *Pass* compartilha o sentido de passar por um lugar, com explicações locais sobre aprovação onde aplicável. A definição de *card* contempla peças de papel firme ou plástico.
 - Mantidos IDs, sequências, estados, prioridades e camadas. Validados o XLS, os quatro pacotes e os hashes do catálogo. Passaram os 16 testes locais.
+
+### Lote 436–470
+
+- 32 conceitos conferidos na sequência EN-US, PT-BR, JA e ZH, com cruzamento por ID e sentido. Os sentidos de [*officer*](https://dictionary.cambridge.org/pt/dicionario/ingles/officer) e *ticket* foram desdobrados. Os IDs legados mantêm policial e ingresso. Os espelhos `en:000004194` e `en:000004195` correspondem a oficial das forças armadas e passagem de transporte terrestre, respectivamente.
+- *Least* recupera a separação em relação ao ID de *at least*. *Single* mantém o sentido de único, separado do ID de solteiro. O ID de [*post*](https://dictionary.cambridge.org/us/dictionary/english/post) conserva o uso digital. O sentido postal em EN-US tem o verbete *mail* e o substantivo de poste tem um ID separado de *post*. O sentido informal de *funny* como estranho foi registrado no conceito existente de *weird*. A descrição de *feet* distingue a flexão inglesa dos usos sem marca de número de 足 e 脚.
+- Mantidos os IDs, a sequência física e as classificações legadas. As prioridades das 26 pendências avançaram duas posições para acomodar os espelhos. Validados o XLS, os quatro pacotes, os hashes do catálogo e os 16 testes locais.
 
 ## Registro anterior — 19/11/2026
 
