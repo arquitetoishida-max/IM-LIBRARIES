@@ -14,8 +14,8 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. Os quatro mantêm 3.639 IDs, a sequência interna de cada arquivo e os níveis A1–C2 usados no inglês. O campo `study_priority` agora tem ordem única em cada idioma, preservando a prioridade relativa entre entradas ativas. Empates herdados seguem a ordem já presente no respectivo pacote. Pendências ficam depois das entradas elegíveis.
-- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 390 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 3.183 conceitos com revisão semântica em aberto. As posições 1–325 foram percorridas. Retomar na posição 326, `en:000002362` (ourselves). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 409 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 30 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
+- A matriz tem 3.164 conceitos com revisão semântica em aberto. As posições 1–345 foram percorridas. Retomar na posição 346, `en:000002639` (frequently). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -34,6 +34,12 @@ Revisão editorial autorizada pelo proprietário em 23/11/2026. [LEXICON #88](ht
 
 - 19 conceitos conferidos, de `en:000001109` a `en:000002360`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
 - *Class* mantém o sentido de turma e *floor*, o de piso interno. A definição de [*during*](https://dictionary.cambridge.org/dictionary/english/during) distingue um acontecimento dentro do período da duração pelo período inteiro. O campo japonês de 電車 explicita a tração elétrica, e 列車 permanece como alternativa mais abrangente.
+- Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
+
+### Lote 326–345
+
+- 19 conceitos conferidos, de `en:000002362` a `en:000000197`. Cruzamento de EN-US, PT-BR, JA e ZH por ID e sentido.
+- O ID de [*address*](https://dictionary.cambridge.org/pt/dicionario/learner-english/address) mantém o endereço físico. Em *appointment*, as glosas de encontro social foram retiradas das entradas de consulta agendada. As descrições de *fish* e *foot* foram ajustadas para delimitar os conceitos, e a de *ourselves* passou a mostrar os usos reflexivo e enfático.
 - Validação dos IDs, ordenação, prioridades, estados, camadas, contagens, tamanhos e hashes. Os 16 testes locais passaram.
 
 ## Registro anterior — 19/11/2026
