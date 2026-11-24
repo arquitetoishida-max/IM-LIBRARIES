@@ -16017,11 +16017,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 160,
-   "description": "To divide with a knife or scissors.",
+   "description": "To divide with a knife or scissors: \"cut bread\". Also means to reduce (\"cut costs\"), to remove, or to stop: \"cut the call\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To divide with a knife or scissors."
+    "en": "To divide with a knife or scissors: \"cut bread\". Also means to reduce (\"cut costs\"), to remove, or to stop: \"cut the call\"."
    },
    "antonyms": [],
    "forms": [
@@ -16053,6 +16053,10 @@
      "text": "cutting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "slice",
+    "trim"
    ]
   },
   {
@@ -16203,13 +16207,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 161,
-   "description": "A very short period of time.",
+   "description": "A very short period of time: \"wait a moment\". Also means a particular point in time: \"at that moment\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A very short period of time."
+    "en": "A very short period of time: \"wait a moment\". Also means a particular point in time: \"at that moment\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "instant",
+    "second"
+   ]
   },
   {
    "id": "en:000000556",
@@ -16406,14 +16414,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "estar bem",
-    "en": "OK; well (\"I'm fine\")."
+    "en": "OK or well: \"I'm fine.\" Also means of good quality (\"a fine day\") or a payment for breaking a rule."
    },
    "study_tier": "inicial",
    "study_priority": 165,
-   "description": "OK; well (\"I'm fine\").",
+   "description": "OK or well: \"I'm fine.\" Also means of good quality (\"a fine day\") or a payment for breaking a rule.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "well",
+    "good"
+   ]
   },
   {
    "id": "en:000000567",
@@ -16453,11 +16465,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 166,
-   "description": "To notice sounds with your ears.",
+   "description": "To notice sounds with your ears: \"I hear music\". Also means to receive news (\"I heard you moved\") or to listen in court.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To notice sounds with your ears."
+    "en": "To notice sounds with your ears: \"I hear music\". Also means to receive news (\"I heard you moved\") or to listen in court."
    },
    "antonyms": [],
    "forms": [
@@ -16490,6 +16502,10 @@
      "text": "hearing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "listen",
+    "catch"
    ]
   },
   {
@@ -16531,13 +16547,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 167,
-   "description": "How much money something costs.",
+   "description": "How much money something costs: \"a high price\". Also means what you lose to get something: \"the price of fame\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "How much money something costs."
+    "en": "How much money something costs: \"a high price\". Also means what you lose to get something: \"the price of fame\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "cost",
+    "charge"
+   ]
   },
   {
    "id": "en:000000574",
@@ -16600,15 +16620,18 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 168,
-   "description": "The warmest season.",
+   "description": "The warmest season, between spring and autumn: \"summer vacation\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001345"
    ],
    "nativeExplain": {
-    "en": "The warmest season."
-   }
+    "en": "The warmest season, between spring and autumn: \"summer vacation\"."
+   },
+   "alternatives": [
+    "warm season"
+   ]
   },
   {
    "id": "en:000000580",
@@ -16649,15 +16672,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 169,
-   "description": "The woman someone is married to.",
+   "description": "The woman someone is married to: \"his wife\". Also called a spouse or partner.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001047"
    ],
    "nativeExplain": {
-    "en": "The woman someone is married to."
-   }
+    "en": "The woman someone is married to: \"his wife\". Also called a spouse or partner."
+   },
+   "alternatives": [
+    "spouse",
+    "partner"
+   ]
   },
   {
    "id": "en:000000583",
@@ -16672,12 +16699,16 @@
    "study_tier": "inicial",
    "study_priority": 170,
    "user_hint": "",
-   "description": "Very pretty.",
+   "description": "Very pretty or pleasant to see or hear: \"a beautiful view\". Also describes a kind act or a great result.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Very pretty."
+    "en": "Very pretty or pleasant to see or hear: \"a beautiful view\". Also describes a kind act or a great result."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "pretty",
+    "lovely"
+   ]
   },
   {
    "id": "en:000000584",
@@ -16828,13 +16859,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 171,
-   "description": "A planned piece of work.",
+   "description": "A planned piece of work: \"a school project\". Also means a plan or proposal for the future.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A planned piece of work."
+    "en": "A planned piece of work: \"a school project\". Also means a plan or proposal for the future."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "plan",
+    "task"
+   ]
   },
   {
    "id": "en:000000591",
@@ -16896,14 +16931,18 @@
    "study_tier": "inicial",
    "study_priority": 173,
    "user_hint": "",
-   "description": "Having a lot of power.",
+   "description": "Having a lot of power: \"a strong man\". Also means firm, intense or hard to break: \"strong wind\", \"strong coffee\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002199"
    ],
    "nativeExplain": {
-    "en": "Having a lot of power."
-   }
+    "en": "Having a lot of power: \"a strong man\". Also means firm, intense or hard to break: \"strong wind\", \"strong coffee\"."
+   },
+   "alternatives": [
+    "powerful",
+    "sturdy"
+   ]
   },
   {
    "id": "en:000000594",
@@ -17107,11 +17146,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 174,
-   "description": "The sixth month of the year.",
+   "description": "The sixth month of the year, between May and July. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The sixth month of the year."
+    "en": "The sixth month of the year, between May and July. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -17260,13 +17299,17 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 176,
-   "description": "Almost the same.",
+   "description": "Almost the same: \"similar colors\". Also used to compare people or ideas that share features.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Almost the same."
+    "en": "Almost the same: \"similar colors\". Also used to compare people or ideas that share features."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "alike",
+    "comparable"
+   ]
   },
   {
    "id": "en:000000606",
@@ -17312,14 +17355,18 @@
    "part_of_speech": "prep",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 177,
-   "description": "Higher than.",
+   "description": "Higher than: \"above the table\". Also means more than a number (\"above ten\") or earlier in a text.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Higher than."
+    "en": "Higher than: \"above the table\". Also means more than a number (\"above ten\") or earlier in a text."
    },
    "antonyms": [
     "en:000000912"
+   ],
+   "alternatives": [
+    "over",
+    "higher than"
    ]
   },
   {
@@ -17411,14 +17458,18 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "en": "A movie."
+    "en": "A movie: \"watch a film\". Also means a thin layer on a camera, or a thin coating of something."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 178,
-   "description": "A movie.",
+   "description": "A movie: \"watch a film\". Also means a thin layer on a camera, or a thin coating of something.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "movie",
+    "picture"
+   ]
   },
   {
    "id": "en:000000612",
@@ -17597,12 +17648,16 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 179,
    "user_hint": "",
-   "description": "Without any mistakes.",
+   "description": "Without any mistakes: \"a perfect answer\". Also means ideal or complete: \"a perfect day\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Without any mistakes."
+    "en": "Without any mistakes: \"a perfect answer\". Also means ideal or complete: \"a perfect day\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "flawless",
+    "ideal"
+   ]
   },
   {
    "id": "en:000000618",
@@ -17724,13 +17779,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 181,
-   "description": "Television.",
+   "description": "Television, the device or the shows: \"watch TV\". Common short form of \"television\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Television."
+    "en": "Television, the device or the shows: \"watch TV\". Common short form of \"television\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "television",
+    "telly"
+   ]
   },
   {
    "id": "en:000000623",
@@ -17832,11 +17891,11 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 182,
-   "description": "The fourth month of the year.",
+   "description": "The fourth month of the year, between March and May. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The fourth month of the year."
+    "en": "The fourth month of the year, between March and May. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -17899,14 +17958,18 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 183,
    "user_hint": "",
-   "description": "No longer alive.",
+   "description": "No longer alive: \"a dead plant\". Also means not working (\"a dead battery\") or without activity: \"a dead town\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001744"
    ],
    "nativeExplain": {
-    "en": "No longer alive."
-   }
+    "en": "No longer alive: \"a dead plant\". Also means not working (\"a dead battery\") or without activity: \"a dead town\"."
+   },
+   "alternatives": [
+    "lifeless",
+    "deceased"
+   ]
   },
   {
    "id": "en:000000630",
@@ -17921,12 +17984,15 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 184,
    "user_hint": "",
-   "description": "The English language.",
+   "description": "The language of England and many other countries: \"speak English\". Also names the school subject.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The English language."
+    "en": "The language of England and many other countries: \"speak English\". Also names the school subject."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "English language"
+   ]
   },
   {
    "id": "en:000000631",
@@ -17941,10 +18007,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 185,
    "user_hint": "",
-   "description": "To take place.",
+   "description": "To take place: \"what happened?\". Also means to occur by chance: \"I happened to see her\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To take place."
+    "en": "To take place: \"what happened?\". Also means to occur by chance: \"I happened to see her\"."
    },
    "antonyms": [],
    "forms": [
@@ -17984,6 +18050,10 @@
      "text": "happening",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "occur",
+    "take place"
    ]
   },
   {
@@ -18003,11 +18073,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 186,
-   "description": "To have in your hands.",
+   "description": "To have in your hands: \"hold a rope\". Also means to keep (\"hold a seat\"), to contain, or to wait on the phone: \"hold on\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To have in your hands."
+    "en": "To have in your hands: \"hold a rope\". Also means to keep (\"hold a seat\"), to contain, or to wait on the phone: \"hold on\"."
    },
    "antonyms": [],
    "forms": [
@@ -18040,6 +18110,10 @@
      "text": "holding",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "grip",
+    "keep"
    ]
   },
   {
@@ -18080,15 +18154,19 @@
    "part_of_speech": "adv",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 187,
-   "description": "In or into a building or container.",
+   "description": "In or into a building or container: \"go inside\". Also means in your own thoughts or feelings.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000543"
    ],
    "nativeExplain": {
-    "en": "In or into a building or container."
-   }
+    "en": "In or into a building or container: \"go inside\". Also means in your own thoughts or feelings."
+   },
+   "alternatives": [
+    "indoors",
+    "within"
+   ]
   },
   {
    "id": "en:000000636",
@@ -18107,13 +18185,17 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 188,
-   "description": "On the internet.",
+   "description": "On the internet: \"an online class\". Also means connected: \"I am online\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "On the internet."
+    "en": "On the internet: \"an online class\". Also means connected: \"I am online\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "on the internet",
+    "connected"
+   ]
   },
   {
    "id": "en:000000637",
@@ -18279,13 +18361,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 191,
-   "description": "An exam to check what you know.",
+   "description": "An exam to check what you know: \"a math test\". Also means a trial of a product or a medical check.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An exam to check what you know."
+    "en": "An exam to check what you know: \"a math test\". Also means a trial of a product or a medical check."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "exam",
+    "quiz"
+   ]
   },
   {
    "id": "en:000000645",
@@ -18328,11 +18414,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 192,
-   "description": "To make something separate into pieces.",
+   "description": "To make something separate into pieces: \"break a glass\". Also means to stop working, to end (\"break a habit\") or to rest: \"take a break\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make something separate into pieces."
+    "en": "To make something separate into pieces: \"break a glass\". Also means to stop working, to end (\"break a habit\") or to rest: \"take a break\"."
    },
    "antonyms": [],
    "forms": [
@@ -18364,6 +18450,10 @@
      "text": "breaking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "smash",
+    "snap"
    ]
   },
   {
@@ -18454,13 +18544,16 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 193,
-   "description": "Sixty minutes.",
+   "description": "Sixty minutes: \"one hour\". Also means the time shown on a clock: \"what hour is it?\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Sixty minutes."
+    "en": "Sixty minutes: \"one hour\". Also means the time shown on a clock: \"what hour is it?\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "60 minutes"
+   ]
   },
   {
    "id": "en:000000653",
@@ -18499,13 +18592,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 194,
-   "description": "The center part.",
+   "description": "The center part: \"the middle of the room\". Also means a point between two ends in time or amount.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The center part."
+    "en": "The center part: \"the middle of the room\". Also means a point between two ends in time or amount."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "center",
+    "midpoint"
+   ]
   },
   {
    "id": "en:000000656",
@@ -18525,15 +18622,19 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "objeto dado a outra pessoa",
-    "en": "A gift."
+    "en": "A gift: \"a birthday present\". Also means the time now: \"at present\"."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 195,
-   "description": "A gift.",
+   "description": "A gift: \"a birthday present\". Also means the time now: \"at present\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
-   "forms": []
+   "forms": [],
+   "alternatives": [
+    "gift",
+    "giving"
+   ]
   },
   {
    "id": "en:000000657",
@@ -18720,14 +18821,18 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "resposta a pergunta",
-    "en": "A reply to a question."
+    "en": "A reply to a question: \"the right answer\". Also means a solution or a response to a call or request."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 197,
-   "description": "A reply to a question.",
+   "description": "A reply to a question: \"the right answer\". Also means a solution or a response to a call or request.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "reply",
+    "response"
+   ]
   },
   {
    "id": "en:000000664",
@@ -18746,14 +18851,14 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 198,
-   "description": "A male child.",
+   "description": "A male child: \"a boy of five\". Also used for a young man or a son.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000398"
    ],
    "nativeExplain": {
-    "en": "A male child."
+    "en": "A male child: \"a boy of five\". Also used for a young man or a son."
    },
    "forms": [
     {
@@ -18764,6 +18869,10 @@
      "study_tier": "standard",
      "description_en": "Plural of boy: male children."
     }
+   ],
+   "alternatives": [
+    "lad",
+    "youth"
    ]
   },
   {
@@ -18820,12 +18929,15 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 199,
    "user_hint": "",
-   "description": "A yellow precious metal.",
+   "description": "A yellow precious metal: \"a gold ring\". Also means the color, or a medal for first place.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A yellow precious metal."
+    "en": "A yellow precious metal: \"a gold ring\". Also means the color, or a medal for first place."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "golden"
+   ]
   },
   {
    "id": "en:000000669",
@@ -18940,11 +19052,11 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 200,
-   "description": "The seventh month of the year.",
+   "description": "The seventh month of the year, between June and August. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The seventh month of the year."
+    "en": "The seventh month of the year, between June and August. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -18987,14 +19099,14 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 201,
-   "description": "To get knowledge or a skill.",
+   "description": "To get knowledge or a skill: \"learn English\". Also means to find out a fact: \"I learned the news\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002145"
    ],
    "nativeExplain": {
-    "en": "To get knowledge or a skill."
+    "en": "To get knowledge or a skill: \"learn English\". Also means to find out a fact: \"I learned the news\"."
    },
    "forms": [
     {
@@ -19026,6 +19138,10 @@
      "text": "learning",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "study",
+    "pick up"
    ]
   },
   {
@@ -19113,12 +19229,16 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 202,
    "user_hint": "",
-   "description": "Without other people.",
+   "description": "Without other people: \"I live alone\". Also means without help: \"do it alone\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Without other people."
+    "en": "Without other people: \"I live alone\". Also means without help: \"do it alone\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "by yourself",
+    "solo"
+   ]
   },
   {
    "id": "en:000000680",
@@ -19262,15 +19382,19 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 204,
-   "description": "The direction where the sun rises.",
+   "description": "The direction where the sun rises: \"east of the city\". Also names a region, such as the Far East.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000502"
    ],
    "nativeExplain": {
-    "en": "The direction where the sun rises."
-   }
+    "en": "The direction where the sun rises: \"east of the city\". Also names a region, such as the Far East."
+   },
+   "alternatives": [
+    "sunrise side",
+    "orient"
+   ]
   },
   {
    "id": "en:000000687",
@@ -19290,15 +19414,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "muito quente",
-    "en": "Very warm."
+    "en": "Very warm: \"hot coffee\". Also means spicy (\"hot sauce\") or very popular: \"a hot topic\"."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 205,
-   "description": "Very warm.",
+   "description": "Very warm: \"hot coffee\". Also means spicy (\"hot sauce\") or very popular: \"a hot topic\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000981"
+   ],
+   "alternatives": [
+    "warm",
+    "spicy"
    ]
   },
   {
@@ -19345,13 +19473,17 @@
    "usage_note": "suggestion",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 206,
-   "description": "\"Let us\": a suggestion (\"let's go!\").",
+   "description": "Short for \"let us\": a suggestion, \"let's go!\". Used for inviting others to do something with you.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "\"Let us\": a suggestion (\"let's go!\")."
+    "en": "Short for \"let us\": a suggestion, \"let's go!\". Used for inviting others to do something with you."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "let us",
+    "shall we"
+   ]
   },
   {
    "id": "en:000000690",
@@ -19391,11 +19523,11 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "en": "A film shown at the cinema or on TV."
+    "en": "A film shown at the cinema or on TV: \"see a movie\". Also means the cinema itself: \"go to the movies\"."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 207,
-   "description": "A film shown at the cinema or on TV.",
+   "description": "A film shown at the cinema or on TV: \"see a movie\". Also means the cinema itself: \"go to the movies\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -19408,6 +19540,10 @@
      "study_tier": "standard",
      "description_en": "The plural of movie."
     }
+   ],
+   "alternatives": [
+    "film",
+    "picture"
    ]
   },
   {
@@ -19496,11 +19632,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 209,
-   "description": "To push with your finger.",
+   "description": "To push with your finger or hand: \"press a button\". Also means to squeeze, to iron, or to urge someone.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To push with your finger."
+    "en": "To push with your finger or hand: \"press a button\". Also means to squeeze, to iron, or to urge someone."
    },
    "antonyms": [],
    "forms": [
@@ -19532,6 +19668,10 @@
      "text": "pressing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "push",
+    "squeeze"
    ]
   },
   {
@@ -19967,11 +20107,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 212,
-   "description": "The ninth month of the year.",
+   "description": "The ninth month of the year, between August and October. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The ninth month of the year."
+    "en": "The ninth month of the year, between August and October. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -19988,12 +20128,16 @@
    "study_tier": "inicial",
    "study_priority": 213,
    "user_hint": "",
-   "description": "Something you hear.",
+   "description": "Something you hear: \"the sound of music\". Also means volume or quality of audio: \"turn the sound up\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Something you hear."
+    "en": "Something you hear: \"the sound of music\". Also means volume or quality of audio: \"turn the sound up\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "noise",
+    "audio"
+   ]
   },
   {
    "id": "en:000000718",
@@ -20100,11 +20244,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 215,
-   "description": "To go after someone or something.",
+   "description": "To go after someone or something: \"follow me\". Also means to obey, to understand, or to track a person online.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To go after someone or something."
+    "en": "To go after someone or something: \"follow me\". Also means to obey, to understand, or to track a person online."
    },
    "antonyms": [],
    "forms": [
@@ -20136,6 +20280,10 @@
      "text": "following",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "pursue",
+    "obey"
    ]
   },
   {
@@ -20177,13 +20325,17 @@
    "part_of_speech": "int",
    "study_tier": "inicial",
    "study_priority": 216,
-   "description": "All right; acceptable.",
+   "description": "All right or acceptable: \"OK, let's go\". Used to agree, confirm or say something is fine.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "All right; acceptable."
+    "en": "All right or acceptable: \"OK, let's go\". Used to agree, confirm or say something is fine."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "okay",
+    "fine"
+   ]
   },
   {
    "id": "en:000000726",
@@ -20265,12 +20417,16 @@
    "study_tier": "inicial",
    "study_priority": 217,
    "user_hint": "",
-   "description": "Shaped like a circle or ball.",
+   "description": "Shaped like a circle or ball: \"a round table\". Also means approximate: \"a round number\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Shaped like a circle or ball."
+    "en": "Shaped like a circle or ball: \"a round table\". Also means approximate: \"a round number\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "circular",
+    "spherical"
+   ]
   },
   {
    "id": "en:000000730",
@@ -20348,14 +20504,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 218,
-   "description": "To be on your feet.",
+   "description": "To be on your feet: \"stand up\". Also means to bear or tolerate (\"I can't stand it\") or to remain in place.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001320"
    ],
    "nativeExplain": {
-    "en": "To be on your feet."
+    "en": "To be on your feet: \"stand up\". Also means to bear or tolerate (\"I can't stand it\") or to remain in place."
    },
    "forms": [
     {
@@ -20387,6 +20543,10 @@
      "text": "standing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "rise",
+    "bear"
    ]
   },
   {
@@ -20402,12 +20562,16 @@
    "study_tier": "inicial",
    "study_priority": 219,
    "user_hint": "",
-   "description": "Things in general (informal).",
+   "description": "Things in general, informal: \"I have a lot of stuff\". Replaces names of items you do not need to say.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Things in general (informal)."
+    "en": "Things in general, informal: \"I have a lot of stuff\". Replaces names of items you do not need to say."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "things",
+    "gear"
+   ]
   },
   {
    "id": "en:000000733",
@@ -20494,12 +20658,16 @@
    "study_tier": "inicial",
    "study_priority": 221,
    "user_hint": "",
-   "description": "The color of the sky.",
+   "description": "The color of the sky: \"a blue shirt\". Also means sad: \"I feel blue\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The color of the sky."
+    "en": "The color of the sky: \"a blue shirt\". Also means sad: \"I feel blue\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "navy",
+    "sky-colored"
+   ]
   },
   {
    "id": "en:000000739",
@@ -20518,11 +20686,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 222,
-   "description": "To control a car.",
+   "description": "To control a car: \"drive to work\". Also means to push or force: \"drive a nail\", or to motivate: \"drive sales\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To control a car."
+    "en": "To control a car: \"drive to work\". Also means to push or force: \"drive a nail\", or to motivate: \"drive sales\"."
    },
    "antonyms": [],
    "forms": [
@@ -20555,6 +20723,10 @@
      "text": "driving",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "steer",
+    "operate"
    ]
   },
   {
@@ -20632,11 +20804,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 224,
-   "description": "To go down to the ground suddenly.",
+   "description": "To go down to the ground suddenly: \"fall off a chair\". Also means to decrease (\"prices fall\") or to become: \"fall asleep\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To go down to the ground suddenly."
+    "en": "To go down to the ground suddenly: \"fall off a chair\". Also means to decrease (\"prices fall\") or to become: \"fall asleep\"."
    },
    "antonyms": [
     "en:000001609"
@@ -20671,6 +20843,10 @@
      "text": "falling",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "drop",
+    "tumble"
    ]
   },
   {
@@ -20685,15 +20861,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "velocidade",
-    "en": "Quick."
+    "en": "Quick: \"a fast car\". Also means firmly fixed: \"hold fast\", and quickly: \"run fast\"."
    },
    "study_tier": "inicial",
    "study_priority": 225,
    "user_hint": "",
-   "description": "Quick.",
+   "description": "Quick: \"a fast car\". Also means firmly fixed: \"hold fast\", and quickly: \"run fast\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001469"
+   ],
+   "alternatives": [
+    "quick",
+    "rapid"
    ]
   },
   {
@@ -20790,12 +20970,15 @@
    "study_tier": "inicial",
    "study_priority": 226,
    "user_hint": "",
-   "description": "The color of grass.",
+   "description": "The color of grass and leaves: \"a green apple\". Also means unripe, new to something, or friendly to nature.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The color of grass."
+    "en": "The color of grass and leaves: \"a green apple\". Also means unripe, new to something, or friendly to nature."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "leafy"
+   ]
   },
   {
    "id": "en:000000747",
@@ -20925,13 +21108,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 228,
-   "description": "How big something is.",
+   "description": "How big something is: \"the size of a shirt\". Also means a standard measure for clothes or shoes.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "How big something is."
+    "en": "How big something is: \"the size of a shirt\". Also means a standard measure for clothes or shoes."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dimension",
+    "measure"
+   ]
   },
   {
    "id": "en:000000753",
@@ -21116,12 +21303,16 @@
    "study_tier": "inicial",
    "study_priority": 229,
    "user_hint": "",
-   "description": "Informal hello or call for attention.",
+   "description": "Informal hello or call for attention: \"hey, wait!\". Also used to show surprise.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Informal hello or call for attention."
+    "en": "Informal hello or call for attention: \"hey, wait!\". Also used to show surprise."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "hi",
+    "hello"
+   ]
   },
   {
    "id": "en:000000762",
@@ -21165,14 +21356,18 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "en": "Mother (informal)."
+    "en": "Mother, informal: \"Mom, come here!\". Used by children and adults."
    },
    "study_tier": "inicial",
    "study_priority": 231,
-   "description": "Mother (informal).",
+   "description": "Mother, informal: \"Mom, come here!\". Used by children and adults.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "mother",
+    "mommy"
+   ]
   },
   {
    "id": "en:000000764",
@@ -21547,13 +21742,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 246,
-   "description": "A small container for drinking.",
+   "description": "A small container for drinking: \"a cup of tea\". Also means a prize in sports, or a measure in cooking.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A small container for drinking."
+    "en": "A small container for drinking: \"a cup of tea\". Also means a prize in sports, or a measure in cooking."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "mug",
+    "glass"
+   ]
   },
   {
    "id": "en:000000779",
@@ -21603,14 +21802,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 249,
-   "description": "To strongly dislike.",
+   "description": "To strongly dislike: \"I hate waiting\". Also used lightly for things you find annoying.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000141"
    ],
    "nativeExplain": {
-    "en": "To strongly dislike."
+    "en": "To strongly dislike: \"I hate waiting\". Also used lightly for things you find annoying."
    },
    "forms": [
     {
@@ -21641,6 +21840,10 @@
      "text": "hating",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "detest",
+    "loathe"
    ]
   },
   {
@@ -21788,11 +21991,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 250,
-   "description": "The tenth month of the year.",
+   "description": "The tenth month of the year, between September and November. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The tenth month of the year."
+    "en": "The tenth month of the year, between September and November. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -21854,11 +22057,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 251,
-   "description": "To make something go to another place.",
+   "description": "To make something go to another place: \"send a letter\". Also means to message (\"send a text\") or to cause to move.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make something go to another place."
+    "en": "To make something go to another place: \"send a letter\". Also means to message (\"send a text\") or to cause to move."
    },
    "antonyms": [],
    "forms": [
@@ -21891,6 +22094,10 @@
      "text": "sending",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "mail",
+    "dispatch"
    ]
   },
   {
@@ -21976,14 +22183,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "surpreendente e bom",
-    "en": "Very surprising and good."
+    "en": "Very surprising and good: \"an amazing view\". Also describes a great person or result."
    },
    "study_tier": "inicial",
    "study_priority": 252,
    "user_hint": "",
-   "description": "Very surprising and good.",
+   "description": "Very surprising and good: \"an amazing view\". Also describes a great person or result.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "incredible",
+    "wonderful"
+   ]
   },
   {
    "id": "en:000000794",
@@ -22002,11 +22213,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 253,
-   "description": "The eighth month of the year.",
+   "description": "The eighth month of the year, between July and September. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The eighth month of the year."
+    "en": "The eighth month of the year, between July and September. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -22027,13 +22238,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 254,
-   "description": "The red liquid in your body.",
+   "description": "The red liquid in your body: \"blood test\". Also means family origin: \"of the same blood\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The red liquid in your body."
+    "en": "The red liquid in your body: \"blood test\". Also means family origin: \"of the same blood\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "bodily fluid"
+   ]
   },
   {
    "id": "en:000000797",
@@ -22221,11 +22435,11 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 257,
-   "description": "The eleventh month of the year.",
+   "description": "The eleventh month of the year, between October and December. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The eleventh month of the year."
+    "en": "The eleventh month of the year, between October and December. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -22582,13 +22796,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 261,
-   "description": "A choice that you make.",
+   "description": "A choice that you make: \"make a decision\". Also means the result of a court or a committee.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A choice that you make."
+    "en": "A choice that you make: \"make a decision\". Also means the result of a court or a committee."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "choice",
+    "ruling"
+   ]
   },
   {
    "id": "en:000000820",
@@ -22603,10 +22821,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 262,
    "user_hint": "",
-   "description": "To like doing something.",
+   "description": "To like doing something: \"enjoy music\". Also means to have the benefit of something: \"enjoy good health\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To like doing something."
+    "en": "To like doing something: \"enjoy music\". Also means to have the benefit of something: \"enjoy good health\"."
    },
    "antonyms": [],
    "forms": [
@@ -22639,6 +22857,10 @@
      "text": "enjoying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "like",
+    "love"
    ]
   },
   {
@@ -22699,11 +22921,11 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 263,
-   "description": "The first month of the year.",
+   "description": "The first month of the year, when the calendar starts again. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The first month of the year."
+    "en": "The first month of the year, when the calendar starts again. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -22808,14 +23030,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "mais formal",
-    "en": "Maybe; possibly."
+    "en": "Maybe or possibly: \"perhaps he will come\". Also softens a question or offer politely."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 264,
-   "description": "Maybe; possibly.",
+   "description": "Maybe or possibly: \"perhaps he will come\". Also softens a question or offer politely.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "maybe",
+    "possibly"
+   ]
   },
   {
    "id": "en:000000827",
@@ -23077,10 +23303,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 267,
    "user_hint": "",
-   "description": "To keep doing something.",
+   "description": "To keep doing something: \"continue studying\". Also means to start again after a stop, or to go on further.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To keep doing something."
+    "en": "To keep doing something: \"continue studying\". Also means to start again after a stop, or to go on further."
    },
    "antonyms": [],
    "forms": [
@@ -23112,6 +23338,10 @@
      "text": "continuing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "carry on",
+    "go on"
    ]
   },
   {
@@ -23173,13 +23403,17 @@
    "part_of_speech": "adv",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 268,
-   "description": "Now.",
+   "description": "At the present time: \"I currently live here\". Also describes what is true now, not in the past.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Now."
+    "en": "At the present time: \"I currently live here\". Also describes what is true now, not in the past."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "now",
+    "at present"
+   ]
   },
   {
    "id": "en:000000841",
@@ -23535,10 +23769,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 273,
    "user_hint": "",
-   "description": "To appear to be.",
+   "description": "To appear to be: \"you seem tired\". Also softens an opinion: \"it seems to me\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To appear to be."
+    "en": "To appear to be: \"you seem tired\". Also softens an opinion: \"it seems to me\"."
    },
    "antonyms": [],
    "forms": [
@@ -23570,6 +23804,10 @@
      "text": "seeming",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "appear",
+    "look"
    ]
   },
   {
@@ -23590,11 +23828,11 @@
    "part_of_speech": "num",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 274,
-   "description": "The number 7.",
+   "description": "The number 7. Also used for a group of seven: \"seven days\", \"seven o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 7."
+    "en": "The number 7. Also used for a group of seven: \"seven days\", \"seven o'clock\"."
    },
    "antonyms": []
   },
@@ -23782,13 +24020,17 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 276,
-   "description": "To move on foot at a normal pace.",
+   "description": "To move on foot at a normal pace: \"walk to school\". Also means to take a pet outside: \"walk the dog\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To move on foot at a normal pace."
+    "en": "To move on foot at a normal pace: \"walk to school\". Also means to take a pet outside: \"walk the dog\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "stroll",
+    "step"
+   ]
   },
   {
    "id": "en:000000864",
@@ -23808,13 +24050,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 277,
-   "description": "Furniture you sleep on.",
+   "description": "Furniture you sleep on: \"go to bed\". Also means a garden area (\"flower bed\") or the bottom of a river.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Furniture you sleep on."
+    "en": "Furniture you sleep on: \"go to bed\". Also means a garden area (\"flower bed\") or the bottom of a river."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "bunk",
+    "cot"
+   ]
   },
   {
    "id": "en:000000865",
@@ -23936,13 +24182,17 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 278,
-   "description": "Happening every day.",
+   "description": "Happening every day: \"a daily routine\". Also means done or paid each day: \"daily news\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Happening every day."
+    "en": "Happening every day: \"a daily routine\". Also means done or paid each day: \"daily news\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "everyday",
+    "day-to-day"
+   ]
   },
   {
    "id": "en:000000871",
@@ -23961,14 +24211,18 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 279,
-   "description": "A female child of a parent.",
+   "description": "A female child of a parent: \"my daughter\". Also a girl or woman of any age in relation to her parents.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A female child of a parent."
+    "en": "A female child of a parent: \"my daughter\". Also a girl or woman of any age in relation to her parents."
    },
    "antonyms": [
     "en:000000514"
+   ],
+   "alternatives": [
+    "girl",
+    "female child"
    ]
   },
   {
@@ -23988,11 +24242,11 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 280,
-   "description": "The twelfth month of the year.",
+   "description": "The twelfth month of the year, the last on the calendar. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The twelfth month of the year."
+    "en": "The twelfth month of the year, the last on the calendar. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -24009,10 +24263,10 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 281,
    "user_hint": "",
-   "description": "To stop living.",
+   "description": "To stop living: \"the fish died\". Also means to stop working (\"the engine died\") or to feel strongly: \"die of laughter\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To stop living."
+    "en": "To stop living: \"the fish died\". Also means to stop working (\"the engine died\") or to feel strongly: \"die of laughter\"."
    },
    "antonyms": [],
    "forms": [
@@ -24045,6 +24299,10 @@
      "text": "dying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "pass away",
+    "perish"
    ]
   },
   {
@@ -24064,15 +24322,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "Not easy."
+    "en": "Not easy: \"a difficult test\". Also describes a hard person or a delicate situation."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 282,
-   "description": "Not easy.",
+   "description": "Not easy: \"a difficult test\". Also describes a hard person or a delicate situation.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000492"
+   ],
+   "alternatives": [
+    "hard",
+    "tough"
    ]
   },
   {
@@ -24114,13 +24376,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 283,
-   "description": "A place where sick people are treated.",
+   "description": "A place where sick people are treated: \"go to the hospital\". Also means the staff and services of that place.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A place where sick people are treated."
+    "en": "A place where sick people are treated: \"go to the hospital\". Also means the staff and services of that place."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "clinic",
+    "medical center"
+   ]
   },
   {
    "id": "en:000000878",
@@ -24205,13 +24471,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 284,
-   "description": "Thin material for writing on.",
+   "description": "Thin material for writing on: \"a sheet of paper\". Also means a newspaper or a written document: \"a research paper\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Thin material for writing on."
+    "en": "Thin material for writing on: \"a sheet of paper\". Also means a newspaper or a written document: \"a research paper\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "sheet",
+    "newspaper"
+   ]
   },
   {
    "id": "en:000000883",
@@ -24353,12 +24623,16 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 286,
    "user_hint": "",
-   "description": "The sound of a person speaking.",
+   "description": "The sound of a person speaking or singing: \"a loud voice\". Also means an opinion or a right to speak: \"give them a voice\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The sound of a person speaking."
+    "en": "The sound of a person speaking or singing: \"a loud voice\". Also means an opinion or a right to speak: \"give them a voice\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "speech",
+    "tone"
+   ]
   },
   {
    "id": "en:000000890",
@@ -24378,13 +24652,17 @@
    "part_of_speech": "det",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 287,
-   "description": "Asks to whom something belongs.",
+   "description": "Asks to whom something belongs: \"Whose bag is this?\". Also links a person to a possession: \"the man whose car was stolen\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Asks to whom something belongs."
+    "en": "Asks to whom something belongs: \"Whose bag is this?\". Also links a person to a possession: \"the man whose car was stolen\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "of whom",
+    "belonging to whom"
+   ]
   },
   {
    "id": "en:000000891",
@@ -24443,14 +24721,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "o planeta; solo",
-    "en": "The planet we live on."
+    "en": "The planet we live on: \"the Earth moves\". Also means soil or ground: \"dig the earth\"."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 288,
    "user_hint": "",
-   "description": "The planet we live on.",
+   "description": "The planet we live on: \"the Earth moves\". Also means soil or ground: \"dig the earth\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "planet",
+    "soil"
+   ]
   },
   {
    "id": "en:000000895",
@@ -24469,14 +24751,14 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 289,
-   "description": "Not to remember.",
+   "description": "Not to remember: \"I forgot his name\". Also means to leave something behind: \"I forgot my keys\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000402"
    ],
    "nativeExplain": {
-    "en": "Not to remember."
+    "en": "Not to remember: \"I forgot his name\". Also means to leave something behind: \"I forgot my keys\"."
    },
    "forms": [
     {
@@ -24508,6 +24790,10 @@
      "text": "forgeting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "not recall",
+    "overlook"
    ]
   },
   {
@@ -24543,14 +24829,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "en": "Very big."
+    "en": "Very big: \"a huge house\". Also means very large in amount or importance."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 290,
    "user_hint": "",
-   "description": "Very big.",
+   "description": "Very big: \"a huge house\". Also means very large in amount or importance.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "enormous",
+    "giant"
+   ]
   },
   {
    "id": "en:000000898",
@@ -24570,13 +24860,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 291,
-   "description": "The worldwide computer network.",
+   "description": "The worldwide computer network: \"on the internet\". Also means the online services that use it.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The worldwide computer network."
+    "en": "The worldwide computer network: \"on the internet\". Also means the online services that use it."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "the net",
+    "web"
+   ]
   },
   {
    "id": "en:000000899",
@@ -24595,11 +24889,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 292,
-   "description": "To pay attention to sounds.",
+   "description": "To pay attention to sounds: \"listen to music\". Also means to pay attention to advice: \"listen to me\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To pay attention to sounds."
+    "en": "To pay attention to sounds: \"listen to music\". Also means to pay attention to advice: \"listen to me\"."
    },
    "antonyms": [],
    "forms": [
@@ -24631,6 +24925,10 @@
      "text": "listening",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "hear",
+    "pay attention"
    ]
   },
   {
@@ -24709,13 +25007,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 294,
-   "description": "A large area of salt water.",
+   "description": "A large area of salt water: \"swim in the sea\". Also means a large amount of something: \"a sea of people\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A large area of salt water."
+    "en": "A large area of salt water: \"swim in the sea\". Also means a large amount of something: \"a sea of people\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "ocean",
+    "salt water"
+   ]
   },
   {
    "id": "en:000000904",
@@ -24887,14 +25189,18 @@
    "part_of_speech": "prep",
    "study_tier": "inicial",
    "study_priority": 295,
-   "description": "Lower than.",
+   "description": "Lower than: \"below the table\". Also means less than a number (\"below zero\") or lower in rank.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Lower than."
+    "en": "Lower than: \"below the table\". Also means less than a number (\"below zero\") or lower in rank."
    },
    "antonyms": [
     "en:000000607"
+   ],
+   "alternatives": [
+    "under",
+    "beneath"
    ]
   },
   {
@@ -24941,12 +25247,16 @@
    "study_tier": "inicial",
    "study_priority": 296,
    "user_hint": "",
-   "description": "Going far down.",
+   "description": "Going far down: \"a deep hole\". Also means strong (\"a deep feeling\"), complex (\"a deep idea\") or low in sound.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Going far down."
+    "en": "Going far down: \"a deep hole\". Also means strong (\"a deep feeling\"), complex (\"a deep idea\") or low in sound."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "profound",
+    "far down"
+   ]
   },
   {
    "id": "en:000000917",
@@ -25259,12 +25569,16 @@
    "study_priority": 298,
    "nativeExplain": {
     "pt-BR": "mesa",
-    "en": "Furniture with a flat top and legs."
+    "en": "Furniture with a flat top and legs: \"a dining table\". Also means a list of data arranged in rows and columns."
    },
-   "description": "Furniture with a flat top and legs.",
+   "description": "Furniture with a flat top and legs: \"a dining table\". Also means a list of data arranged in rows and columns.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "desk",
+    "chart"
+   ]
   },
   {
    "id": "en:000000928",
@@ -25284,11 +25598,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 299,
-   "description": "The number 10.",
+   "description": "The number 10. Also used for a group of ten: \"ten fingers\", \"ten o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 10."
+    "en": "The number 10. Also used for a group of ten: \"ten fingers\", \"ten o'clock\"."
    },
    "antonyms": []
   },
@@ -25334,13 +25648,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 300,
-   "description": "A round object used in games.",
+   "description": "A round object used in games: \"kick a ball\". Also means a formal dance party: \"a masked ball\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A round object used in games."
+    "en": "A round object used in games: \"kick a ball\". Also means a formal dance party: \"a masked ball\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "sphere",
+    "globe"
+   ]
   },
   {
    "id": "en:000000931",
@@ -25464,12 +25782,16 @@
    "study_tier": "inicial",
    "study_priority": 303,
    "user_hint": "",
-   "description": "With little light.",
+   "description": "With little light: \"a dark room\". Also means deep in color (\"dark blue\") or sad and serious.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "With little light."
+    "en": "With little light: \"a dark room\". Also means deep in color (\"dark blue\") or sad and serious."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dim",
+    "gloomy"
+   ]
   },
   {
    "id": "en:000000936",
@@ -25653,13 +25975,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 305,
-   "description": "Not curved.",
+   "description": "Not curved: \"a straight line\". Also means honest and direct: \"a straight answer\", or in a row: \"two days straight\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not curved."
+    "en": "Not curved: \"a straight line\". Also means honest and direct: \"a straight answer\", or in a row: \"two days straight\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "direct",
+    "level"
+   ]
   },
   {
    "id": "en:000000949",
@@ -25735,13 +26061,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 307,
-   "description": "The side of a room or building.",
+   "description": "The side of a room or building: \"hang it on the wall\". Also means a barrier, such as a city wall.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The side of a room or building."
+    "en": "The side of a room or building: \"hang it on the wall\". Also means a barrier, such as a city wall."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "barrier",
+    "partition"
+   ]
   },
   {
    "id": "en:000000951",
@@ -25923,11 +26253,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 308,
-   "description": "The second month of the year.",
+   "description": "The second month of the year, the shortest on the calendar. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The second month of the year."
+    "en": "The second month of the year, the shortest on the calendar. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -26089,13 +26419,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 310,
-   "description": "A long natural stream of water.",
+   "description": "A long natural stream of water: \"cross the river\". Also means a large flow of something.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A long natural stream of water."
+    "en": "A long natural stream of water: \"cross the river\". Also means a large flow of something."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "stream",
+    "waterway"
+   ]
   },
   {
    "id": "en:000000971",
@@ -26262,13 +26596,17 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 312,
-   "description": "This evening or night.",
+   "description": "This evening or night: \"I will call tonight\". Also means the night of today.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "This evening or night."
+    "en": "This evening or night: \"I will call tonight\". Also means the night of today."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "this evening",
+    "this night"
+   ]
   },
   {
    "id": "en:000000977",
@@ -26287,11 +26625,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 313,
-   "description": "To put words on paper or a screen.",
+   "description": "To put words on paper or a screen: \"write a letter\". Also means to create a book or song, or to send a message.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To put words on paper or a screen."
+    "en": "To put words on paper or a screen: \"write a letter\". Also means to create a book or song, or to send a message."
    },
    "antonyms": [],
    "forms": [
@@ -26325,6 +26663,10 @@
      "text": "writing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "type",
+    "compose"
    ]
   },
   {
@@ -98785,10 +99127,13 @@
    "study_priority": 247,
    "novrev_status": "reviewed",
    "text": "nephew",
-   "alternatives": [],
-   "description": "The son of one’s brother or sister.",
+   "alternatives": [
+    "brother's son",
+    "sister's son"
+   ],
+   "description": "The son of one's brother or sister: \"my nephew\". Also the son of a spouse's sibling.",
    "nativeExplain": {
-    "en": "The son of one’s brother or sister."
+    "en": "The son of one's brother or sister: \"my nephew\". Also the son of a spouse's sibling."
    }
   },
   {
