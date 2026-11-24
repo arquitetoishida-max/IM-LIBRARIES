@@ -42384,10 +42384,13 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "doente",
-   "alternatives": [],
+   "alternatives": [
+    "enfermo",
+    "adoentado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1502,
-   "description": "Com problemas de saúde.",
+   "description": "Doente: “ficar doente”. Também indica mau: “má sorte”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -42395,7 +42398,7 @@
     "en:000001626"
    ],
    "nativeExplain": {
-    "pt-BR": "Com problemas de saúde."
+    "pt-BR": "Doente: “ficar doente”. Também indica mau: “má sorte”."
    }
   },
   {
@@ -42409,14 +42412,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "inicial",
-   "alternatives": [],
+   "alternatives": [
+    "primeiro",
+    "de partida"
+   ],
    "study_tier": "cedo",
    "study_priority": 1503,
    "user_hint": "",
-   "description": "No começo; primeiro.",
+   "description": "No começo: “o passo inicial”. Também indica a primeira letra: “as iniciais”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "No começo; primeiro."
+    "pt-BR": "No começo: “o passo inicial”. Também indica a primeira letra: “as iniciais”."
    },
    "antonyms": []
   },
@@ -42509,15 +42515,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "enorme",
    "alternatives": [
-    "gigante"
+    "gigante",
+    "imenso"
    ],
    "study_tier": "cedo",
    "study_priority": 1505,
    "user_hint": "",
-   "description": "Muito grande.",
+   "description": "Muito grande: “uma árvore enorme”. Também indica grande em quantidade ou efeito.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito grande."
+    "pt-BR": "Muito grande: “uma árvore enorme”. Também indica grande em quantidade ou efeito."
    },
    "antonyms": []
   },
@@ -42614,15 +42621,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "bastante",
    "alternatives": [
-    "de sobra"
+    "muito",
+    "suficiente"
    ],
    "study_tier": "cedo",
    "study_priority": 1506,
    "user_hint": "",
-   "description": "Muito; mais do que o bastante.",
+   "description": "Muito, mais que suficiente: “bastante tempo”. Também indica quantidade suficiente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito; mais do que o bastante."
+    "pt-BR": "Muito, mais que suficiente: “bastante tempo”. Também indica quantidade suficiente."
    },
    "antonyms": []
   },
@@ -42660,15 +42668,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "adequado",
    "alternatives": [
-    "apropriado"
+    "apropriado",
+    "correto"
    ],
    "study_tier": "cedo",
    "study_priority": 1508,
    "user_hint": "",
-   "description": "Correto; adequado.",
+   "description": "Correto ou adequado: “a ferramenta adequada”. Também indica o que é socialmente apropriado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Correto; adequado."
+    "pt-BR": "Correto ou adequado: “a ferramenta adequada”. Também indica o que é socialmente apropriado."
    },
    "antonyms": []
   },
@@ -42834,15 +42843,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "superior",
    "alternatives": [
-    "de cima"
+    "de cima",
+    "elevado"
    ],
    "study_tier": "cedo",
    "study_priority": 1514,
    "user_hint": "",
-   "description": "Mais alto.",
+   "description": "Mais alto: “o andar de cima”. Também indica nível mais alto: “a classe alta”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mais alto."
+    "pt-BR": "Mais alto: “o andar de cima”. Também indica nível mais alto: “a classe alta”."
    },
    "antonyms": []
   },
@@ -42915,14 +42925,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "disposto",
-   "alternatives": [],
+   "alternatives": [
+    "pronto",
+    "aberto a"
+   ],
    "study_tier": "cedo",
    "study_priority": 1516,
    "user_hint": "",
-   "description": "Que faz algo de bom grado.",
+   "description": "Feliz em fazer algo: “disposto a ajudar”. Também indica pronto a aceitar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que faz algo de bom grado."
+    "pt-BR": "Feliz em fazer algo: “disposto a ajudar”. Também indica pronto a aceitar."
    },
    "antonyms": []
   },
@@ -42983,14 +42996,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "avançado",
-   "alternatives": [],
+   "alternatives": [
+    "superior",
+    "moderno"
+   ],
    "study_tier": "cedo",
    "study_priority": 1518,
    "user_hint": "",
-   "description": "De nível alto; que não é para iniciantes.",
+   "description": "De nível alto: “um curso avançado”. Também indica moderno: “tecnologia avançada”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "De nível alto; que não é para iniciantes."
+    "pt-BR": "De nível alto: “um curso avançado”. Também indica moderno: “tecnologia avançada”."
    },
    "antonyms": []
   },
@@ -43032,14 +43048,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "em qualquer lugar",
-   "alternatives": [],
+   "alternatives": [
+    "onde quer que",
+    "em algum lugar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1520,
-   "description": "Em qualquer lugar.",
+   "description": "Em qualquer lugar: “posso ir a qualquer lugar”. Em frases negativas: “em lugar nenhum”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Em qualquer lugar."
+    "pt-BR": "Em qualquer lugar: “posso ir a qualquer lugar”. Em frases negativas: “em lugar nenhum”."
    },
    "antonyms": []
   },
@@ -43377,14 +43396,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "industrial",
-   "alternatives": [],
+   "alternatives": [
+    "fabril",
+    "manufatureiro"
+   ],
    "study_tier": "cedo",
    "study_priority": 1526,
    "user_hint": "",
-   "description": "Relativo à indústria e às fábricas.",
+   "description": "Relacionado à indústria e às fábricas: “zona industrial”. Também indica estilo de fábrica.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Relativo à indústria e às fábricas."
+    "pt-BR": "Relacionado à indústria e às fábricas: “zona industrial”. Também indica estilo de fábrica."
    },
    "antonyms": []
   },
@@ -43399,14 +43421,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "conjunto",
-   "alternatives": [],
+   "alternatives": [
+    "compartilhado",
+    "coletivo"
+   ],
    "study_tier": "cedo",
    "study_priority": 1527,
    "user_hint": "",
-   "description": "Compartilhado por duas ou mais pessoas.",
+   "description": "Partilhado por duas ou mais pessoas: “conta conjunta”. Também indica articulação do corpo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Compartilhado por duas ou mais pessoas."
+    "pt-BR": "Partilhado por duas ou mais pessoas: “conta conjunta”. Também indica articulação do corpo."
    },
    "antonyms": []
   },
@@ -43514,14 +43539,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "prometer",
-   "alternatives": [],
+   "alternatives": [
+    "jurar",
+    "comprometer-se"
+   ],
    "study_tier": "cedo",
    "study_priority": 1529,
-   "description": "Dizer que com certeza você fará algo.",
+   "description": "Dizer que com certeza fará algo: “prometer ligar”. Também indica sinal de bom futuro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Dizer que com certeza você fará algo."
+    "pt-BR": "Dizer que com certeza fará algo: “prometer ligar”. Também indica sinal de bom futuro."
    },
    "antonyms": []
   },
@@ -43561,15 +43589,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "comprar",
    "alternatives": [
-    "adquirir"
+    "adquirir",
+    "obter"
    ],
    "study_tier": "cedo",
    "study_priority": 1530,
    "user_hint": "",
-   "description": "Comprar (formal).",
+   "description": "Comprar, em uso formal: “adquirir um bilhete”. Também indica o que foi comprado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Comprar (formal)."
+    "pt-BR": "Comprar, em uso formal: “adquirir um bilhete”. Também indica o que foi comprado."
    },
    "antonyms": []
   },
@@ -43617,18 +43646,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "remover",
    "alternatives": [
-    "tirar"
+    "retirar",
+    "apagar"
    ],
    "study_tier": "cedo",
    "study_priority": 1531,
    "user_hint": "",
-   "description": "Tirar algo.",
+   "description": "Tirar de um lugar: “remover uma mancha”. Também indica afastar de um cargo.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000812"
    ],
    "nativeExplain": {
-    "pt-BR": "Tirar algo."
+    "pt-BR": "Tirar de um lugar: “remover uma mancha”. Também indica afastar de um cargo."
    }
   },
   {
@@ -44034,14 +44064,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "garantir",
-   "alternatives": [],
+   "alternatives": [
+    "assegurar",
+    "certificar-se"
+   ],
    "study_tier": "cedo",
    "study_priority": 1540,
    "user_hint": "",
-   "description": "Fazer com que algo seja certo.",
+   "description": "Garantir: “garantir a segurança”. Também indica fazer com que algo aconteça.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Fazer com que algo seja certo."
+    "pt-BR": "Garantir: “garantir a segurança”. Também indica fazer com que algo aconteça."
    },
    "antonyms": []
   },
@@ -44056,14 +44089,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ambiental",
-   "alternatives": [],
+   "alternatives": [
+    "ecológico",
+    "natural"
+   ],
    "study_tier": "cedo",
    "study_priority": 1541,
    "user_hint": "",
-   "description": "Relativo à natureza e ao meio ambiente.",
+   "description": "Relacionado à natureza e ao meio ambiente: “dano ambiental”. Também indica o ambiente em volta.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Relativo à natureza e ao meio ambiente."
+    "pt-BR": "Relacionado à natureza e ao meio ambiente: “dano ambiental”. Também indica o ambiente em volta."
    },
    "antonyms": []
   },
@@ -44624,14 +44660,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "histórico",
-   "alternatives": [],
+   "alternatives": [
+    "do passado",
+    "tradicional"
+   ],
    "study_tier": "cedo",
    "study_priority": 1548,
    "user_hint": "",
-   "description": "Relativo à história.",
+   "description": "Relacionado à história: “um local histórico”. Também indica algo que aconteceu de fato.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Relativo à história."
+    "pt-BR": "Relacionado à história: “um local histórico”. Também indica algo que aconteceu de fato."
    },
    "antonyms": []
   },
@@ -44772,14 +44811,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "nativo",
-   "alternatives": [],
+   "alternatives": [
+    "natural",
+    "local"
+   ],
    "study_tier": "cedo",
    "study_priority": 1553,
    "user_hint": "",
-   "description": "Nascido em um lugar; falante nativo.",
+   "description": "Nascido em um lugar: “falante nativo”. Também indica algo próprio da região: “plantas nativas”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Nascido em um lugar; falante nativo."
+    "pt-BR": "Nascido em um lugar: “falante nativo”. Também indica algo próprio da região: “plantas nativas”."
    },
    "antonyms": []
   },
@@ -44794,14 +44836,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "originalmente",
-   "alternatives": [],
+   "alternatives": [
+    "no início",
+    "inicialmente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1554,
    "user_hint": "",
-   "description": "No começo.",
+   "description": "No começo: “originalmente de Roma”. Também indica de modo inovador.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "No começo."
+    "pt-BR": "No começo: “originalmente de Roma”. Também indica de modo inovador."
    },
    "antonyms": []
   },
@@ -45133,14 +45178,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "antigo",
-   "alternatives": [],
+   "alternatives": [
+    "velho",
+    "remoto"
+   ],
    "study_tier": "cedo",
    "study_priority": 1561,
    "user_hint": "",
-   "description": "Muito velho; de muito tempo atrás.",
+   "description": "Muito antigo: “a Roma antiga”. Também indica coisas de tempos distantes.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito velho; de muito tempo atrás."
+    "pt-BR": "Muito antigo: “a Roma antiga”. Também indica coisas de tempos distantes."
    },
    "antonyms": []
   },
@@ -45335,14 +45383,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "expressar",
-   "alternatives": [],
+   "alternatives": [
+    "manifestar",
+    "exprimir"
+   ],
    "study_tier": "cedo",
    "study_priority": 1565,
    "user_hint": "",
-   "description": "Mostrar sentimentos ou ideias.",
+   "description": "Mostrar sentimentos ou ideias: “expressar uma opinião”. Também indica envio rápido.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mostrar sentimentos ou ideias."
+    "pt-BR": "Mostrar sentimentos ou ideias: “expressar uma opinião”. Também indica envio rápido."
    },
    "antonyms": []
   },
@@ -45432,14 +45483,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ilegal",
-   "alternatives": [],
+   "alternatives": [
+    "ilícito",
+    "proibido"
+   ],
    "study_tier": "cedo",
    "study_priority": 1567,
    "user_hint": "",
-   "description": "Contra a lei.",
+   "description": "Contra a lei: “estacionamento ilegal”. Também indica atos proibidos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Contra a lei."
+    "pt-BR": "Contra a lei: “estacionamento ilegal”. Também indica atos proibidos."
    },
    "antonyms": [
     "en:000000849"
@@ -45874,15 +45928,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "apropriado",
    "alternatives": [
-    "adequado"
+    "adequado",
+    "conveniente"
    ],
    "study_tier": "cedo",
    "study_priority": 1569,
    "user_hint": "",
-   "description": "Adequado.",
+   "description": "Adequado: “um presente apropriado”. Também indica certo para a situação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Adequado."
+    "pt-BR": "Adequado: “um presente apropriado”. Também indica certo para a situação."
    },
    "antonyms": []
   },
@@ -46041,15 +46096,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "alimentar",
    "alternatives": [
-    "dar de comer"
+    "nutrir",
+    "abastecer"
    ],
    "study_tier": "cedo",
    "study_priority": 1575,
-   "description": "Dar comida a alguém ou a um animal.",
+   "description": "Dar comida a: “alimentar o cachorro”. Também indica abastecer.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Dar comida a alguém ou a um animal."
+    "pt-BR": "Dar comida a: “alimentar o cachorro”. Também indica abastecer."
    },
    "antonyms": []
   },
@@ -46065,15 +46121,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "dourado",
    "alternatives": [
-    "de ouro"
+    "de ouro",
+    "amarelado"
    ],
    "study_tier": "cedo",
    "study_priority": 1576,
    "user_hint": "",
-   "description": "Feito de ouro ou da cor do ouro.",
+   "description": "Feito de ouro ou da cor do ouro: “um anel dourado”. Também indica ótimo: “uma chance de ouro”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Feito de ouro ou da cor do ouro."
+    "pt-BR": "Feito de ouro ou da cor do ouro: “um anel dourado”. Também indica ótimo: “uma chance de ouro”."
    },
    "antonyms": []
   },
@@ -46380,15 +46437,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sobre",
    "alternatives": [
+    "quanto a",
     "a respeito de"
    ],
    "study_tier": "cedo",
    "study_priority": 1582,
    "user_hint": "",
-   "description": "Sobre (formal).",
+   "description": "Sobre, em uso formal: “a respeito da sua carta”. Também introduz um assunto.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sobre (formal)."
+    "pt-BR": "Sobre, em uso formal: “a respeito da sua carta”. Também introduz um assunto."
    },
    "antonyms": []
   },
@@ -46519,14 +46577,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "científico",
-   "alternatives": [],
+   "alternatives": [
+    "técnico",
+    "metódico"
+   ],
    "study_tier": "cedo",
    "study_priority": 1585,
    "user_hint": "",
-   "description": "Relativo à ciência.",
+   "description": "Relacionado à ciência: “um estudo científico”. Também indica exato e baseado em provas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Relativo à ciência."
+    "pt-BR": "Relacionado à ciência: “um estudo científico”. Também indica exato e baseado em provas."
    },
    "antonyms": []
   },
@@ -46815,14 +46876,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "conversar sobre",
-   "alternatives": [],
+   "alternatives": [
+    "debater",
+    "tratar de"
+   ],
    "study_tier": "cedo",
    "study_priority": 1590,
-   "description": "Falar sobre um assunto.",
+   "description": "Falar sobre um assunto: “discutir um plano”. Também indica debater com outros.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Falar sobre um assunto."
+    "pt-BR": "Falar sobre um assunto: “discutir um plano”. Também indica debater com outros."
    },
    "antonyms": []
   },
@@ -46838,15 +46902,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "emotivo",
    "alternatives": [
-    "emocional"
+    "sensível",
+    "comovente"
    ],
    "study_tier": "cedo",
    "study_priority": 1591,
    "user_hint": "",
-   "description": "Que sente emoções fortes.",
+   "description": "Que tem sentimentos fortes: “uma cena emotiva”. Também indica ligado aos sentimentos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que sente emoções fortes."
+    "pt-BR": "Que tem sentimentos fortes: “uma cena emotiva”. Também indica ligado aos sentimentos."
    },
    "antonyms": []
   },
@@ -46963,14 +47028,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "interno",
-   "alternatives": [],
+   "alternatives": [
+    "interior",
+    "de dentro"
+   ],
    "study_tier": "cedo",
    "study_priority": 1594,
    "user_hint": "",
-   "description": "Que está dentro.",
+   "description": "Dentro: “uma porta interna”. Também indica dentro de uma organização.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que está dentro."
+    "pt-BR": "Dentro: “uma porta interna”. Também indica dentro de uma organização."
    },
    "antonyms": [
     "en:000002851"
@@ -47097,14 +47165,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "liberal",
-   "alternatives": [],
+   "alternatives": [
+    "aberto",
+    "tolerante"
+   ],
    "study_tier": "cedo",
    "study_priority": 1597,
    "user_hint": "",
-   "description": "Aberto a ideias novas.",
+   "description": "Aberto a novas ideias: “uma visão liberal”. Também indica generoso.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Aberto a ideias novas."
+    "pt-BR": "Aberto a novas ideias: “uma visão liberal”. Também indica generoso."
    },
    "antonyms": [
     "en:000002394"
@@ -47305,14 +47376,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "relativamente",
-   "alternatives": [],
+   "alternatives": [
+    "comparativamente",
+    "razoavelmente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1601,
    "user_hint": "",
-   "description": "Em comparação com outros; bastante.",
+   "description": "Em comparação com outros: “relativamente barato”. Também indica de modo razoável.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Em comparação com outros; bastante."
+    "pt-BR": "Em comparação com outros: “relativamente barato”. Também indica de modo razoável."
    },
    "antonyms": []
   },
@@ -47406,14 +47480,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "bater",
-   "alternatives": [],
+   "alternatives": [
+    "golpear",
+    "fazer greve"
+   ],
    "study_tier": "cedo",
    "study_priority": 1603,
    "user_hint": "",
-   "description": "Dar uma pancada em alguém ou em algo.",
+   "description": "Bater: “bater na bola”. Também indica fazer greve ou vir à mente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dar uma pancada em alguém ou em algo."
+    "pt-BR": "Bater: “bater na bola”. Também indica fazer greve ou vir à mente."
    },
    "antonyms": []
   },
@@ -47515,14 +47592,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "avançar",
-   "alternatives": [],
+   "alternatives": [
+    "progredir",
+    "antecipar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1605,
    "user_hint": "",
-   "description": "Mover-se para a frente.",
+   "description": "Mover para a frente: “avançar o plano”. Também indica emprestar dinheiro antes.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mover-se para a frente."
+    "pt-BR": "Mover para a frente: “avançar o plano”. Também indica emprestar dinheiro antes."
    },
    "antonyms": []
   },
@@ -47616,15 +47696,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "comprometido",
    "alternatives": [
-    "dedicado"
+    "dedicado",
+    "leal"
    ],
    "study_tier": "cedo",
    "study_priority": 1608,
    "user_hint": "",
-   "description": "Dedicado.",
+   "description": "Dedicado: “um funcionário comprometido”. Também indica preso a uma promessa.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dedicado."
+    "pt-BR": "Dedicado: “um funcionário comprometido”. Também indica preso a uma promessa."
    },
    "antonyms": []
   },
@@ -47721,14 +47802,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "igual",
-   "alternatives": [],
+   "alternatives": [
+    "idêntico",
+    "equivalente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1610,
-   "description": "Igual em tamanho, número ou valor.",
+   "description": "Igual em tamanho, número ou valor: “partes iguais”. Também indica justo: “direitos iguais”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Igual em tamanho, número ou valor."
+    "pt-BR": "Igual em tamanho, número ou valor: “partes iguais”. Também indica justo: “direitos iguais”."
    },
    "antonyms": []
   },
@@ -47743,14 +47827,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "falso",
-   "alternatives": [],
+   "alternatives": [
+    "falsificado",
+    "imitado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1611,
    "user_hint": "",
-   "description": "Que não é real.",
+   "description": "Que não é real: “documento falso”. Também indica notícia falsa ou imitação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que não é real."
+    "pt-BR": "Que não é real: “documento falso”. Também indica notícia falsa ou imitação."
    },
    "antonyms": []
   },
@@ -47894,14 +47981,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "manter",
-   "alternatives": [],
+   "alternatives": [
+    "conservar",
+    "preservar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1614,
    "user_hint": "",
-   "description": "Manter em bom estado.",
+   "description": "Manter em bom estado: “manter um carro”. Também indica continuar: “manter a velocidade”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Manter em bom estado."
+    "pt-BR": "Manter em bom estado: “manter um carro”. Também indica continuar: “manter a velocidade”."
    },
    "antonyms": []
   },
@@ -48065,15 +48155,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "dividir",
    "alternatives": [
-    "separar"
+    "repartir",
+    "rachar"
    ],
    "study_tier": "cedo",
    "study_priority": 1618,
    "user_hint": "",
-   "description": "Dividir em partes.",
+   "description": "Dividir em partes: “dividir a conta”. Também indica rachar a madeira.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dividir em partes."
+    "pt-BR": "Dividir em partes: “dividir a conta”. Também indica rachar a madeira."
    },
    "antonyms": []
   },
@@ -48431,15 +48522,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "escapar",
    "alternatives": [
-    "fugir"
+    "fugir",
+    "livrar-se"
    ],
    "study_tier": "cedo",
    "study_priority": 1625,
    "user_hint": "",
-   "description": "Livrar-se de um lugar ou perigo.",
+   "description": "Livrar-se de um lugar ou perigo: “fugir da prisão”. Também indica passar sem ser notado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Livrar-se de um lugar ou perigo."
+    "pt-BR": "Livrar-se de um lugar ou perigo: “fugir da prisão”. Também indica passar sem ser notado."
    },
    "antonyms": []
   },
@@ -48528,15 +48620,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "encher",
    "alternatives": [
-    "preencher"
+    "completar",
+    "ocupar"
    ],
    "study_tier": "cedo",
    "study_priority": 1627,
    "user_hint": "",
-   "description": "Encher.",
+   "description": "Tornar cheio: “encher um copo”. Também indica ocupar: “preencher uma vaga”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Encher."
+    "pt-BR": "Tornar cheio: “encher um copo”. Também indica ocupar: “preencher uma vaga”."
    },
    "antonyms": []
   },
@@ -48757,14 +48850,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "puro",
-   "alternatives": [],
+   "alternatives": [
+    "limpo",
+    "genuíno"
+   ],
    "study_tier": "cedo",
    "study_priority": 1629,
    "user_hint": "",
-   "description": "Que não está misturado com nada.",
+   "description": "Não misturado: “ouro puro”. Também indica limpo e inocente: “pura alegria”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que não está misturado com nada."
+    "pt-BR": "Não misturado: “ouro puro”. Também indica limpo e inocente: “pura alegria”."
    },
    "antonyms": []
   },
@@ -48875,15 +48971,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "protegido",
    "alternatives": [
-    "seguro"
+    "protegido",
+    "firme"
    ],
    "study_tier": "cedo",
    "study_priority": 1630,
    "user_hint": "",
-   "description": "Livre de perigo.",
+   "description": "Seguro: “uma casa segura”. Também indica confiante ou firmemente fixo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Livre de perigo."
+    "pt-BR": "Seguro: “uma casa segura”. Também indica confiante ou firmemente fixo."
    },
    "antonyms": []
   },
@@ -49191,14 +49288,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "culpar",
-   "alternatives": [],
+   "alternatives": [
+    "acusar",
+    "responsabilizar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1635,
    "user_hint": "",
-   "description": "Dizer que alguém fez algo errado.",
+   "description": "Dizer que alguém errou: “culpar ele”. Também indica a culpa em si.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dizer que alguém fez algo errado."
+    "pt-BR": "Dizer que alguém errou: “culpar ele”. Também indica a culpa em si."
    },
    "antonyms": []
   },
@@ -49345,14 +49445,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "determinar",
-   "alternatives": [],
+   "alternatives": [
+    "definir",
+    "apurar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1637,
    "user_hint": "",
-   "description": "Decidir ou descobrir.",
+   "description": "Decidir ou descobrir: “determinar a causa”. Também indica controlar um resultado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Decidir ou descobrir."
+    "pt-BR": "Decidir ou descobrir: “determinar a causa”. Também indica controlar um resultado."
    },
    "antonyms": []
   },
@@ -50550,15 +50653,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "lutar",
    "alternatives": [
-    "batalhar"
+    "batalhar",
+    "esforçar-se"
    ],
    "study_tier": "cedo",
    "study_priority": 1662,
    "user_hint": "",
-   "description": "Esforçar-se muito com dificuldade.",
+   "description": "Tentar com muita dificuldade: “lutar para respirar”. Também indica brigar por algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Esforçar-se muito com dificuldade."
+    "pt-BR": "Tentar com muita dificuldade: “lutar para respirar”. Também indica brigar por algo."
    },
    "antonyms": []
   },
@@ -51133,18 +51237,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "falhar",
    "alternatives": [
-    "reprovar"
+    "não passar",
+    "falhar"
    ],
    "study_tier": "cedo",
    "study_priority": 1674,
    "user_hint": "",
-   "description": "Não ter sucesso; não passar numa prova.",
+   "description": "Não ter sucesso: “reprovar na prova”. Também indica parar de funcionar.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000921"
    ],
    "nativeExplain": {
-    "pt-BR": "Não ter sucesso; não passar numa prova."
+    "pt-BR": "Não ter sucesso: “reprovar na prova”. Também indica parar de funcionar."
    }
   },
   {
@@ -51159,15 +51264,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "familiar",
    "alternatives": [
-    "conhecido"
+    "conhecido",
+    "habitual"
    ],
    "study_tier": "cedo",
    "study_priority": 1675,
    "user_hint": "",
-   "description": "Que você conhece bem.",
+   "description": "Conhecido: “um rosto familiar”. Também indica quem conhece bem: “familiarizado com”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que você conhece bem."
+    "pt-BR": "Conhecido: “um rosto familiar”. Também indica quem conhece bem: “familiarizado com”."
    },
    "antonyms": [
     "en:000002278"
@@ -51283,14 +51389,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "médio",
-   "alternatives": [],
+   "alternatives": [
+    "intermediário",
+    "moderado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1680,
-   "description": "No meio; nem grande nem pequeno.",
+   "description": "No meio, nem grande nem pequeno: “tamanho médio”. Também indica um meio de comunicação.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "No meio; nem grande nem pequeno."
+    "pt-BR": "No meio, nem grande nem pequeno: “tamanho médio”. Também indica um meio de comunicação."
    },
    "antonyms": []
   },
@@ -51398,15 +51507,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "buscar",
    "alternatives": [
-    "procurar"
+    "procurar",
+    "pretender"
    ],
    "study_tier": "cedo",
    "study_priority": 1684,
    "user_hint": "",
-   "description": "Procurar (formal).",
+   "description": "Procurar, em uso formal: “buscar ajuda”. Também indica tentar obter.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Procurar (formal)."
+    "pt-BR": "Procurar, em uso formal: “buscar ajuda”. Também indica tentar obter."
    },
    "antonyms": []
   },
@@ -51714,14 +51824,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "extremo",
-   "alternatives": [],
+   "alternatives": [
+    "intenso",
+    "radical"
+   ],
    "study_tier": "cedo",
    "study_priority": 1692,
    "user_hint": "",
-   "description": "Muito grande; muito longe do normal.",
+   "description": "Muito grande: “calor extremo”. Também indica fora do normal: “esportes radicais”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito grande; muito longe do normal."
+    "pt-BR": "Muito grande: “calor extremo”. Também indica fora do normal: “esportes radicais”."
    },
    "antonyms": []
   },
@@ -51953,14 +52066,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "reservar",
-   "alternatives": [],
+   "alternatives": [
+    "marcar",
+    "guardar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1699,
    "user_hint": "",
-   "description": "Garantir um lugar ou quarto.",
+   "description": "Reservar um lugar ou quarto: “reservar uma mesa”. Também indica guardar para depois.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Garantir um lugar ou quarto."
+    "pt-BR": "Reservar um lugar ou quarto: “reservar uma mesa”. Também indica guardar para depois."
    },
    "antonyms": []
   },
@@ -52148,14 +52264,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "afetar",
-   "alternatives": [],
+   "alternatives": [
+    "influenciar",
+    "atingir"
+   ],
    "study_tier": "cedo",
    "study_priority": 1702,
    "user_hint": "",
-   "description": "Mudar ou influenciar.",
+   "description": "Mudar ou influenciar: “afetar a saúde”. Também indica tocar emocionalmente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mudar ou influenciar."
+    "pt-BR": "Mudar ou influenciar: “afetar a saúde”. Também indica tocar emocionalmente."
    },
    "antonyms": []
   },
@@ -52217,15 +52336,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "de lado",
    "alternatives": [
-    "à parte"
+    "à parte",
+    "de lado"
    ],
    "study_tier": "cedo",
    "study_priority": 1703,
    "user_hint": "",
-   "description": "Para um lado.",
+   "description": "Para um lado: “ficar de lado”. Também indica exceto: “fora isso”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Para um lado."
+    "pt-BR": "Para um lado: “ficar de lado”. Também indica exceto: “fora isso”."
    },
    "antonyms": []
   },
@@ -52289,14 +52409,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "soprar",
-   "alternatives": [],
+   "alternatives": [
+    "assoprar",
+    "ventar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1705,
    "user_hint": "",
-   "description": "Soltar o ar pela boca.",
+   "description": "Soltar ar pela boca: “soprar velas”. Também indica o vento que se move.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Soltar o ar pela boca."
+    "pt-BR": "Soltar ar pela boca: “soprar velas”. Também indica o vento que se move."
    },
    "antonyms": []
   },
@@ -52526,14 +52649,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "merecer",
-   "alternatives": [],
+   "alternatives": [
+    "fazer jus a",
+    "ser digno de"
+   ],
    "study_tier": "cedo",
    "study_priority": 1708,
    "user_hint": "",
-   "description": "Ter conquistado algo.",
+   "description": "Ter conquistado algo: “merecer um prêmio”. Também indica ser digno de respeito.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ter conquistado algo."
+    "pt-BR": "Ter conquistado algo: “merecer um prêmio”. Também indica ser digno de respeito."
    },
    "antonyms": []
   },
@@ -52851,15 +52977,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "razoável",
    "alternatives": [
-    "justo"
+    "sensato",
+    "aceitável"
    ],
    "study_tier": "cedo",
    "study_priority": 1714,
    "user_hint": "",
-   "description": "Justo; sensato.",
+   "description": "Justo ou sensato: “um preço razoável”. Também indica pessoa que pensa com clareza.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Justo; sensato."
+    "pt-BR": "Justo ou sensato: “um preço razoável”. Também indica pessoa que pensa com clareza."
    },
    "antonyms": []
   },
@@ -53629,14 +53756,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "representar",
-   "alternatives": [],
+   "alternatives": [
+    "simbolizar",
+    "atuar por"
+   ],
    "study_tier": "cedo",
    "study_priority": 1735,
    "user_hint": "",
-   "description": "Falar ou agir em nome de outros.",
+   "description": "Falar ou agir por outros: “representar um cliente”. Também indica simbolizar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Falar ou agir em nome de outros."
+    "pt-BR": "Falar ou agir por outros: “representar um cliente”. Também indica simbolizar."
    },
    "antonyms": []
   },
@@ -53842,15 +53972,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "alcançar",
    "alternatives": [
-    "conseguir"
+    "realizar",
+    "atingir"
    ],
    "study_tier": "cedo",
    "study_priority": 1741,
    "user_hint": "",
-   "description": "Conseguir fazer algo com sucesso.",
+   "description": "Conseguir fazer algo: “alcançar uma meta”. Também indica chegar a um resultado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Conseguir fazer algo com sucesso."
+    "pt-BR": "Conseguir fazer algo: “alcançar uma meta”. Também indica chegar a um resultado."
    },
    "antonyms": []
   },
@@ -53866,15 +53997,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "ter dinheiro para",
    "alternatives": [
-    "poder pagar"
+    "bancar",
+    "ter condições de"
    ],
    "study_tier": "cedo",
    "study_priority": 1742,
    "user_hint": "",
-   "description": "Ter dinheiro suficiente para algo.",
+   "description": "Ter dinheiro para algo: “não posso pagar isso”. Também indica poder arriscar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ter dinheiro suficiente para algo."
+    "pt-BR": "Ter dinheiro para algo: “não posso pagar isso”. Também indica poder arriscar."
    },
    "antonyms": []
   },
@@ -54456,14 +54588,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "permanente",
-   "alternatives": [],
+   "alternatives": [
+    "duradouro",
+    "fixo"
+   ],
    "study_tier": "cedo",
    "study_priority": 1756,
    "user_hint": "",
-   "description": "Que dura para sempre.",
+   "description": "Que dura para sempre: “um emprego permanente”. Também indica marcas que não saem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que dura para sempre."
+    "pt-BR": "Que dura para sempre: “um emprego permanente”. Também indica marcas que não saem."
    },
    "antonyms": []
   },
