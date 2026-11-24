@@ -1,4 +1,10 @@
-# NOTA PARA O GPT/CODEX — LEIA ANTES DE QUALQUER AÇÃO (19/11/2026)
+# Nota de execução NOVREV — atualização de 23/11/2026
+
+A revisão dos quatro núcleos está autorizada desde 23/11/2026. A ordem editorial vigente está na [LEXICON #88](https://github.com/arquitetoishida-max/LEXICON/issues/88). A matriz, os pacotes, os checkpoints e a entrega seguem a [IM-LIBRARIES #505](https://github.com/arquitetoishida-max/IM-LIBRARIES/issues/505). A apresentação das duas faces do Card fica com Claude na [ISHIDA-MULTILANG #122](https://github.com/arquitetoishida-max/ISHIDA-MULTILANG/issues/122).
+
+Codex confere integralmente os núcleos NOVREV atuais e registra a cobertura na planilha de pendências. Preservar entradas corretas e usar as filas anteriores como histórico. A divisão de trabalho e a amostragem da nota de 19/11 se referem à reconstrução anterior. Ver [NOVREV.md](NOVREV.md) para a sequência atual.
+
+## Registro anterior — 19/11/2026
 
 **Todas as filas e ordens de revisão antigas estão ENCERRADAS por decisão do dono.** A tarefa agendada horária foi desligada. Não retome QUEUE.csv, nem ordens de serviço antigas de revisão de dicionários, nem PRs de lote dessa fila.
 
