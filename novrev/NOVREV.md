@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1780 foram percorridas. Retomar na posição 1781, `en:000001783` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1870 foram percorridas. Retomar na posição 1871, `en:000002107` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -193,6 +193,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 88 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1691–1780; 1710 e 1726 já tratadas). Delimitados *scale* (escala; a balança tem ID), *foundation* (base de prédio; a fundação como organização tem ID), *journal* (diário; o periódico tem ID), *setting* (cenário de história; a configuração tem ID), *balance* (equilíbrio; o saldo tem ID) e *camp* (acampamento). O ID de *memory* ficou em lembrança (思い出, 回忆), pois o ID `en:000002965` cobre a capacidade de lembrar. Corrigida a descrição de *spirit* em português, que dizia fantasma, e as de *turn* em japonês e chinês, que descreviam um plural. *Magic* passou a usar *magia* como termo principal em português.
 - Criado o espelho `en:000004282` para *Japanese* (língua: japonês, 日本語, 日语); o ID `en:000001603` ficou no adjetivo de origem.
 - A Kanji Study foi consultada para 舞, 台 e 憶. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 1781–1870
+
+- 89 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1781–1870; 1843 já tratada). Sem outras divergências claras entre os quatro termos. *Spanish* ficou no adjetivo de origem. Em *launch*, o ID `en:000002041` ficou em iniciar algo novo ou lançar um produto.
+- Criados dois espelhos: `en:000004283` *Spanish* (língua: espanhol, スペイン語, 西班牙语) e `en:000004284` *launch* (foguete: lançar, 打ち上げる, 发射).
+- A Kanji Study foi consultada para 射 e 発. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
