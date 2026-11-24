@@ -1,5 +1,7 @@
 # Auditoria de sentidos (IM-LIBRARIES #512)
-Cursor: próxima posição = 1400 (posições 0–1400 revisadas).
-Feitas: 0–1400. Novos IDs: en:000004420–4497 (34 + 44 sentidos que faltavam: can, like prep., know, work x2, still, love v., open adj., show, book v., talk, close adj., leave, plan v., park v., test v., blue, hot, stand, hold, cut, mind, mean, point, run, drop n., you're welcome, clean v., hurt, count on, correct v., guide v., surprise v., dry v.).
+Concluída: todas as 3.468 palavras da lista foram passadas (posições 0–3468). Os últimos trechos eram em grande parte formas verbais, gírias, regionais e IDs já criados pelo NOVREV, sem sentidos faltando.
+Novos IDs: en:000004420–4517 (98 sentidos que faltavam, um por ID, nos 4 idiomas). Pacotes: 3.962 entradas.
 Pendentes sem equivalente nos 4 idiomas: *to* (infinitivo), *do* (auxiliar), *that* (conjunção integrante).
-Método: ver issue #512. Novo ID = `gen.py` (romaji/pinyin automáticos) + `apply.py`; validar com pytest, validate_vcu100_catalog.py e check.py; commit na branch novrev/auditoria-sentidos; sem merge, sem APK.
+Fontes: dicionários existentes e conhecimento editorial; sem pesquisa online palavra por palavra.
+Próxima etapa: segunda passada (descrições e alternativas independentes por idioma, issue #512), por prioridade, coluna a coluna.
+Método: novo ID = gerador + `apply.py`; validar com pytest, validate_vcu100_catalog.py e check.py; branch novrev/auditoria-sentidos; sem merge, sem APK.
