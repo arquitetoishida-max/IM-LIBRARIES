@@ -429,7 +429,7 @@
     "foi"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3735,
+   "study_priority": 3736,
    "description": "Passado de \"ser/estar\" (eu/ele/ela era).",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -518,7 +518,7 @@
     "estão"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3736,
+   "study_priority": 3737,
    "description": "Forma do presente de \"ser/estar\" usada com você, nós e eles.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1110,7 +1110,7 @@
     "irá"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 3729,
+   "study_priority": 3730,
    "description": "Indica ações futuras, decisões ou ofertas.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1321,7 +1321,7 @@
    "text": "tem",
    "alternatives": [],
    "study_tier": "praticar com lema",
-   "study_priority": 3737,
+   "study_priority": 3738,
    "description": "Forma de \"ter\" usada com ele, ela e isso.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1473,7 +1473,7 @@
     "foram"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3738,
+   "study_priority": 3739,
    "description": "Passado de \"ser/estar\" (nós/vocês/eles eram).",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1533,7 +1533,7 @@
     "teve"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3739,
+   "study_priority": 3740,
    "description": "Passado de \"ter\".",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1774,7 +1774,7 @@
     "estado"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3740,
+   "study_priority": 3741,
    "description": "Particípio de \"ser/estar\" (\"eu já estive lá\").",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -1806,7 +1806,7 @@
     "iria"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 3730,
+   "study_priority": 3731,
    "description": "Usado para situações imaginadas ou educadas (\"eu gostaria\").",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -2693,7 +2693,7 @@
     "conseguia"
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3741,
+   "study_priority": 3742,
    "description": "Passado de \"poder\"; também possibilidade educada (\"você poderia...?\").",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -2990,7 +2990,7 @@
     "mais"
    ],
    "study_tier": "expansão estruturante",
-   "study_priority": 3731,
+   "study_priority": 3732,
    "description": "A parte numericamente maior de um grupo ou conjunto.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -6262,7 +6262,7 @@
    "alternatives": [
     "alguns"
    ],
-   "study_priority": 3743,
+   "study_priority": 3744,
    "description": "Indica um número pequeno de pessoas ou coisas. Pode sugerir quantidade insuficiente.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -9924,7 +9924,7 @@
     "já vou"
    ],
    "study_tier": "herdado",
-   "study_priority": 3742,
+   "study_priority": 3743,
    "user_hint": "",
    "description": "Forma de gerúndio de \"come\", como em \"she is coming\".",
    "novrev_status": "reviewed",
@@ -13937,7 +13937,7 @@
     "através de"
    ],
    "study_tier": "cedo",
-   "study_priority": 3732,
+   "study_priority": 3733,
    "description": "De um lado ao outro.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -14332,7 +14332,7 @@
     "no lugar"
    ],
    "study_tier": "cedo",
-   "study_priority": 3733,
+   "study_priority": 3734,
    "description": "No lugar de outra coisa.",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -29172,22 +29172,22 @@
    "english_id": "en:000001245",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Medical surgery; working of a machine.",
+   "description_en": "A medical surgery.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "operação",
+   "text": "cirurgia",
    "alternatives": [
-    "cirurgia"
+    "operação"
    ],
    "study_tier": "pendente",
    "study_priority": 2965,
    "user_hint": "",
-   "description": "Cirurgia; também o funcionamento de uma máquina.",
+   "description": "Procedimento em que o médico corta o corpo para tratar um problema.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Cirurgia; também o funcionamento de uma máquina."
+    "pt-BR": "Procedimento em que o médico corta o corpo para tratar um problema."
    },
    "antonyms": []
   },
@@ -32340,22 +32340,20 @@
    "english_id": "en:000001406",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A legal case in court; a test.",
+   "description_en": "A legal case in court.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "julgamento",
-   "alternatives": [
-    "teste"
-   ],
+   "alternatives": [],
    "study_tier": "pendente",
    "study_priority": 2971,
    "user_hint": "",
-   "description": "Caso analisado num tribunal; também um teste.",
+   "description": "Caso analisado e decidido num tribunal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Caso analisado num tribunal; também um teste."
+    "pt-BR": "Caso analisado e decidido num tribunal."
    },
    "antonyms": []
   },
@@ -39886,7 +39884,7 @@
    "english_id": "en:000001808",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To behave toward someone; to give medical care.",
+   "description_en": "To behave toward someone in a certain way.",
    "level": "B2",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -39896,10 +39894,10 @@
    "study_tier": "pendente",
    "study_priority": 2984,
    "user_hint": "",
-   "description": "Agir de certo modo com alguém; também dar tratamento médico.",
+   "description": "Agir de certo modo com alguém.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Agir de certo modo com alguém; também dar tratamento médico."
+    "pt-BR": "Agir de certo modo com alguém."
    },
    "antonyms": []
   },
@@ -40301,22 +40299,20 @@
    "english_id": "en:000001831",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Angry; also crazy.",
+   "description_en": "Angry.",
    "level": "B2",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "bravo",
-   "alternatives": [
-    "louco"
-   ],
+   "alternatives": [],
    "study_tier": "pendente",
    "study_priority": 2986,
    "user_hint": "",
-   "description": "Com raiva; também louco.",
+   "description": "Com raiva.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Com raiva; também louco."
+    "pt-BR": "Com raiva."
    },
    "antonyms": []
   },
@@ -40491,22 +40487,20 @@
    "english_id": "en:000001846",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A spider's net; \"the web\" = the internet.",
+   "description_en": "A net made by a spider.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "teia",
-   "alternatives": [
-    "web"
-   ],
+   "alternatives": [],
    "study_tier": "pendente",
    "study_priority": 2988,
    "user_hint": "",
-   "description": "Rede da aranha; \"the web\" = a internet.",
+   "description": "Rede feita pela aranha.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Rede da aranha; \"the web\" = a internet."
+    "pt-BR": "Rede feita pela aranha."
    },
    "antonyms": []
   },
@@ -47482,22 +47476,20 @@
    "english_id": "en:000002243",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "An angry disagreement; reasons to support an idea.",
+   "description_en": "An angry disagreement.",
    "level": "B2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "discussão",
-   "alternatives": [
-    "argumento"
-   ],
+   "alternatives": [],
    "study_tier": "pendente",
    "study_priority": 3006,
    "user_hint": "",
-   "description": "Desacordo com raiva; também razões que apoiam uma ideia.",
+   "description": "Desacordo com raiva.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Desacordo com raiva; também razões que apoiam uma ideia."
+    "pt-BR": "Desacordo com raiva."
    },
    "antonyms": []
   },
@@ -54869,20 +54861,22 @@
    "english_id": "en:000002658",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To advertise; to give someone a higher job.",
+   "description_en": "To advertise.",
    "level": "C1",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "promover",
-   "alternatives": [],
+   "text": "divulgar",
+   "alternatives": [
+    "promover"
+   ],
    "study_tier": "pendente",
    "study_priority": 3021,
    "user_hint": "",
-   "description": "Anunciar; também dar um cargo mais alto.",
+   "description": "Fazer propaganda de algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Anunciar; também dar um cargo mais alto."
+    "pt-BR": "Fazer propaganda de algo."
    },
    "antonyms": []
   },
@@ -87307,7 +87301,7 @@
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
-   "study_priority": 3734,
+   "study_priority": 3735,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "Viagem de graça no carro de alguém.",
@@ -89775,7 +89769,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3728,
+   "study_priority": 3729,
    "novrev_status": "reviewed",
    "text": "neto",
    "alternatives": [],
@@ -90122,7 +90116,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3719,
+   "study_priority": 3720,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "são",
    "alternatives": [],
@@ -90171,7 +90165,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3720,
+   "study_priority": 3721,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "primo mais velho (filho do irmão do pai)",
    "alternatives": [],
@@ -90195,7 +90189,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3721,
+   "study_priority": 3722,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "primo mais novo (filho do irmão do pai)",
    "alternatives": [],
@@ -90219,7 +90213,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3722,
+   "study_priority": 3723,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "prima mais velha (filha do irmão do pai)",
    "alternatives": [],
@@ -90243,7 +90237,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3723,
+   "study_priority": 3724,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "prima mais nova (filha do irmão do pai)",
    "alternatives": [],
@@ -90267,7 +90261,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3724,
+   "study_priority": 3725,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "primo mais velho (família da mãe ou tia paterna)",
    "alternatives": [],
@@ -90291,7 +90285,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3725,
+   "study_priority": 3726,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "primo mais novo (família da mãe ou tia paterna)",
    "alternatives": [],
@@ -90315,7 +90309,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3726,
+   "study_priority": 3727,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "prima mais velha (família da mãe ou tia paterna)",
    "alternatives": [],
@@ -90339,7 +90333,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3727,
+   "study_priority": 3728,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "prima mais nova (família da mãe ou tia paterna)",
    "alternatives": [],
@@ -90373,7 +90367,7 @@
     "pt-BR": "Título antes do nome de uma mulher solteira."
    },
    "core_status": "pending",
-   "study_priority": 3744
+   "study_priority": 3745
   },
   {
    "kind": "word",
@@ -92639,6 +92633,27 @@
    "user_hint": "",
    "nativeExplain": {
     "pt-BR": "Luz que volta ao bater numa superfície."
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": []
+  },
+  {
+   "id": "pt-BR:en:000004299",
+   "english_id": "en:000004299",
+   "english_sense_id": null,
+   "text": "tratar",
+   "kind": "word",
+   "description_en": "To give medical care to a patient.",
+   "level": "B2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3719,
+   "description": "Dar tratamento médico a um paciente.",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "pt-BR": "Dar tratamento médico a um paciente."
    },
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
