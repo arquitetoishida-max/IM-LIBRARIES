@@ -99559,17 +99559,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "病気の",
-   "alternatives": [],
+   "alternatives": [
+    "病気の",
+    "具合が悪い"
+   ],
    "reading": "びょうきの",
    "romanization": "byouki no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "mais formal",
-    "ja": "体のぐあいが悪い。"
+    "ja": "病気の。「かぜで具合が悪い」。悪い意味でも使う：「不運」。"
    },
    "study_tier": "cedo",
    "study_priority": 1506,
-   "description": "体のぐあいが悪い。",
+   "description": "病気の。「かぜで具合が悪い」。悪い意味でも使う：「不運」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -99588,17 +99591,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "最初の",
-   "alternatives": [],
+   "alternatives": [
+    "最初の",
+    "初めの"
+   ],
    "reading": "さいしょの",
    "romanization": "saisho no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1507,
    "user_hint": "",
-   "description": "はじめの。",
+   "description": "はじめの。「最初の段階」。頭文字の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "はじめの。"
+    "ja": "はじめの。「最初の段階」。頭文字の意味にも使う。"
    },
    "antonyms": []
   },
@@ -99812,18 +99818,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "巨大な",
-   "alternatives": [],
+   "alternatives": [
+    "巨大な",
+    "大規模な"
+   ],
    "reading": "きょだいな",
    "romanization": "kyodai na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
     "pt-BR": "maciço, gigante",
-    "ja": "とても大きい。"
+    "ja": "とても大きい。「巨大な木」。量や影響が大きい意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1509,
    "user_hint": "",
-   "description": "とても大きい。",
+   "description": "とても大きい。「巨大な木」。量や影響が大きい意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -99937,18 +99946,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "たくさん",
-   "alternatives": [],
+   "alternatives": [
+    "たっぷり",
+    "十分"
+   ],
    "reading": "たくさん",
    "romanization": "takusan",
    "class_real": "noun/adverb",
    "nativeExplain": {
     "pt-BR": "mais que suficiente",
-    "ja": "十分すぎるほど多い。"
+    "ja": "たくさん、十分に。「時間はたっぷりある」。"
    },
    "study_tier": "cedo",
    "study_priority": 1510,
    "user_hint": "",
-   "description": "十分すぎるほど多い。",
+   "description": "たくさん、十分に。「時間はたっぷりある」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -99995,17 +100007,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "適切な",
-   "alternatives": [],
+   "alternatives": [
+    "適切な",
+    "きちんとした"
+   ],
    "reading": "てきせつな",
    "romanization": "tekisetsu na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1512,
    "user_hint": "",
-   "description": "正しい。ふさわしい。",
+   "description": "正しい、ふさわしい。「適切な道具」。礼儀にかなう意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "正しい。ふさわしい。"
+    "ja": "正しい、ふさわしい。「適切な道具」。礼儀にかなう意味にも使う。"
    },
    "antonyms": []
   },
@@ -100297,17 +100312,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "上の",
-   "alternatives": [],
+   "alternatives": [
+    "上の",
+    "上位の"
+   ],
    "reading": "うえの",
    "romanization": "ue no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1518,
    "user_hint": "",
-   "description": "上のほうの。",
+   "description": "上のほうの。「上の階」。身分が高い意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "上のほうの。"
+    "ja": "上のほうの。「上の階」。身分が高い意味にも使う。"
    },
    "antonyms": []
   },
@@ -100485,7 +100503,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "〜する気がある",
    "alternatives": [
-    "喜んで〜する"
+    "〜する気がある",
+    "いとわない"
    ],
    "reading": "〜するきがある",
    "romanization": "~ suru ki ga aru",
@@ -100494,10 +100513,10 @@
    "study_tier": "cedo",
    "study_priority": 1520,
    "user_hint": "",
-   "description": "進んでするつもりがある。",
+   "description": "進んでする気がある。「手伝うつもりだ」。受け入れる準備がある意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "進んでするつもりがある。"
+    "ja": "進んでする気がある。「手伝うつもりだ」。受け入れる準備がある意味にも使う。"
    },
    "antonyms": []
   },
@@ -100573,17 +100592,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "上級の",
-   "alternatives": [],
+   "alternatives": [
+    "上級の",
+    "先進の"
+   ],
    "reading": "じょうきゅうの",
    "romanization": "joukyuu no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1522,
    "user_hint": "",
-   "description": "レベルが高い。初心者向けでない。",
+   "description": "程度が高い。「上級コース」。進んだ意味にも使う：「先進的な技術」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "レベルが高い。初心者向けでない。"
+    "ja": "程度が高い。「上級コース」。進んだ意味にも使う：「先進的な技術」。"
    },
    "antonyms": []
   },
@@ -100628,17 +100650,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どこでも",
-   "alternatives": [],
+   "alternatives": [
+    "どこでも",
+    "どこにも"
+   ],
    "reading": "どこでも",
    "romanization": "doko demo",
    "class_real": "indefinite pronoun/adverb",
    "study_tier": "cedo",
    "study_priority": 1524,
-   "description": "どんな場所でも。",
+   "description": "どこでも。「どこへでも行ける」。否定では「どこにも〜ない」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "どんな場所でも。"
+    "ja": "どこでも。「どこへでも行ける」。否定では「どこにも〜ない」。"
    },
    "antonyms": []
   },
@@ -101096,17 +101121,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "工業の",
-   "alternatives": [],
+   "alternatives": [
+    "産業の",
+    "工場の"
+   ],
    "reading": "こうぎょうの",
    "romanization": "kougyou no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1530,
    "user_hint": "",
-   "description": "工場でものをつくる産業に関する。",
+   "description": "工業や工場に関する。「工業地帯」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "工場でものをつくる産業に関する。"
+    "ja": "工業や工場に関する。「工業地帯」。"
    },
    "antonyms": []
   },
@@ -101121,17 +101149,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "共同の",
-   "alternatives": [],
+   "alternatives": [
+    "共同の",
+    "共有の"
+   ],
    "reading": "きょうどうの",
    "romanization": "kyoudou no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1531,
    "user_hint": "",
-   "description": "ふたり以上で分け合う。",
+   "description": "ふたり以上で共有する。「共同口座」。体の関節の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ふたり以上で分け合う。"
+    "ja": "ふたり以上で共有する。「共同口座」。体の関節の意味にも使う。"
    },
    "antonyms": []
   },
@@ -101354,7 +101385,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "約束する",
-   "alternatives": [],
+   "alternatives": [
+    "誓う",
+    "約束する"
+   ],
    "reading": "やくそくする",
    "romanization": "yakusoku suru",
    "class_real": "suru-verb",
@@ -101450,11 +101484,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1533,
-   "description": "必ずすると相手に言うこと。",
+   "description": "必ずすると言う。「電話すると約束する」。将来性がある意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "必ずすると相手に言うこと。"
+    "ja": "必ずすると言う。「電話すると約束する」。将来性がある意味にも使う。"
    },
    "antonyms": []
   },
@@ -101505,7 +101539,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "購入する",
-   "alternatives": [],
+   "alternatives": [
+    "買う",
+    "購入する"
+   ],
    "reading": "こうにゅうする",
    "romanization": "kounyuu suru",
    "class_real": "suru-verb",
@@ -101601,12 +101638,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "formal",
-    "ja": "買う（かたい言い方）。"
+    "ja": "買う（かたい言い方）。「切符を購入する」。"
    },
    "study_tier": "cedo",
    "study_priority": 1534,
    "user_hint": "",
-   "description": "買う（かたい言い方）。",
+   "description": "買う（かたい言い方）。「切符を購入する」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -101663,7 +101700,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "取り除く",
-   "alternatives": [],
+   "alternatives": [
+    "取り去る",
+    "削除する"
+   ],
    "reading": "とりのぞく",
    "romanization": "torinozoku",
    "class_real": "godan verb",
@@ -101749,13 +101789,13 @@
    "study_tier": "cedo",
    "study_priority": 1535,
    "user_hint": "",
-   "description": "あるものを取って、なくす。",
+   "description": "取り除く。「しみを取る」。職をやめさせる意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000812"
    ],
    "nativeExplain": {
-    "ja": "あるものを取って、なくす。"
+    "ja": "取り除く。「しみを取る」。職をやめさせる意味にも使う。"
    }
   },
   {
@@ -102322,7 +102362,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "確実にする",
-   "alternatives": [],
+   "alternatives": [
+    "保証する",
+    "確かめる"
+   ],
    "reading": "かくじつにする",
    "romanization": "kakujitsu ni suru",
    "class_real": "verb construction",
@@ -102419,10 +102462,10 @@
    "study_tier": "cedo",
    "study_priority": 1544,
    "user_hint": "",
-   "description": "まちがいなくなるようにする。",
+   "description": "確実にする。「安全を確保する」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "まちがいなくなるようにする。"
+    "ja": "確実にする。「安全を確保する」。"
    },
    "antonyms": []
   },
@@ -102437,17 +102480,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "環境の",
-   "alternatives": [],
+   "alternatives": [
+    "自然の",
+    "エコの"
+   ],
    "reading": "かんきょうの",
    "romanization": "kankyou no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1545,
    "user_hint": "",
-   "description": "自然やまわりの様子に関する。",
+   "description": "自然や環境に関する。「環境への被害」。まわりの状況にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "自然やまわりの様子に関する。"
+    "ja": "自然や環境に関する。「環境への被害」。まわりの状況にも使う。"
    },
    "antonyms": []
   },
@@ -103153,17 +103199,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "歴史的な",
-   "alternatives": [],
+   "alternatives": [
+    "過去の",
+    "昔の"
+   ],
    "reading": "れきしてきな",
    "romanization": "rekishiteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1552,
    "user_hint": "",
-   "description": "昔の出来事に関する。",
+   "description": "歴史に関する。「歴史的な場所」。実際にあった意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "昔の出来事に関する。"
+    "ja": "歴史に関する。「歴史的な場所」。実際にあった意味にも使う。"
    },
    "antonyms": []
   },
@@ -103521,17 +103570,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ネイティブの",
-   "alternatives": [],
+   "alternatives": [
+    "生まれつきの",
+    "地元の"
+   ],
    "reading": "ネイティブの",
    "romanization": "neitibu no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1557,
    "user_hint": "",
-   "description": "その土地で生まれた。母語として話す人。",
+   "description": "その土地で生まれた。「母語話者」。その土地に自然にある意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "その土地で生まれた。母語として話す人。"
+    "ja": "その土地で生まれた。「母語話者」。その土地に自然にある意味にも使う。"
    },
    "antonyms": []
   },
@@ -103547,17 +103599,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "もともと",
    "alternatives": [
-    "元は"
+    "最初は",
+    "元来"
    ],
    "reading": "もともと",
    "romanization": "motomoto",
    "study_tier": "cedo",
    "study_priority": 1558,
    "user_hint": "",
-   "description": "はじめは。もとは。",
+   "description": "もともと。「もとはローマの出身」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "はじめは。もとは。"
+    "ja": "もともと。「もとはローマの出身」。"
    },
    "antonyms": []
   },
@@ -103957,6 +104010,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "古代の",
    "alternatives": [
+    "古代の",
     "大昔の"
    ],
    "reading": "こだいの",
@@ -103964,12 +104018,12 @@
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "muito velho, de séculos",
-    "ja": "とても古い。大昔の。"
+    "ja": "とても古い。「古代ローマ」。ずっと昔のものにも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1565,
    "user_hint": "",
-   "description": "とても古い。大昔の。",
+   "description": "とても古い。「古代ローマ」。ずっと昔のものにも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -104279,7 +104333,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "表現する",
-   "alternatives": [],
+   "alternatives": [
+    "述べる",
+    "表現する"
+   ],
    "reading": "ひょうげんする",
    "romanization": "hyougen suru",
    "class_real": "suru-verb",
@@ -104365,10 +104422,10 @@
    "study_tier": "cedo",
    "study_priority": 1569,
    "user_hint": "",
-   "description": "気持ちや考えを外に出して伝える。",
+   "description": "気持ちや考えを表す。「意見を述べる」。速達の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "気持ちや考えを外に出して伝える。"
+    "ja": "気持ちや考えを表す。「意見を述べる」。速達の意味にも使う。"
    },
    "antonyms": []
   },
@@ -104493,17 +104550,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "違法の",
-   "alternatives": [],
+   "alternatives": [
+    "違法の",
+    "禁止の"
+   ],
    "reading": "いほうの",
    "romanization": "ihou no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1571,
    "user_hint": "",
-   "description": "法律にそむいている。",
+   "description": "法律に反する。「違法駐車」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "法律にそむいている。"
+    "ja": "法律に反する。「違法駐車」。"
    },
    "antonyms": [
     "en:000000849"
@@ -105094,17 +105154,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "適切な",
-   "alternatives": [],
+   "alternatives": [
+    "適した",
+    "ふさわしい"
+   ],
    "reading": "てきせつな",
    "romanization": "tekisetsu na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1573,
    "user_hint": "",
-   "description": "場面にぴったり合っている。",
+   "description": "ふさわしい。「適切な贈り物」。場面に合う意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "場面にぴったり合っている。"
+    "ja": "ふさわしい。「適切な贈り物」。場面に合う意味にも使う。"
    },
    "antonyms": []
   },
@@ -105292,7 +105355,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "食べさせる",
    "alternatives": [
-    "えさをやる"
+    "育てる",
+    "供給する"
    ],
    "reading": "たべさせる",
    "romanization": "tabesaseru",
@@ -105390,11 +105454,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1579,
-   "description": "人や動物に食べ物を与えること。",
+   "description": "食べ物を与える。「犬にえさをやる」。供給する意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "人や動物に食べ物を与えること。"
+    "ja": "食べ物を与える。「犬にえさをやる」。供給する意味にも使う。"
    },
    "antonyms": []
   },
@@ -105409,17 +105473,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "金色の",
-   "alternatives": [],
+   "alternatives": [
+    "金の",
+    "金色の"
+   ],
    "reading": "きんいろの",
    "romanization": "kin'iro no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1580,
    "user_hint": "",
-   "description": "金でできた。金のような色の。",
+   "description": "金でできた、金色の。「金の指輪」。すばらしい意味にも使う：「絶好の機会」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "金でできた。金のような色の。"
+    "ja": "金でできた、金色の。「金の指輪」。すばらしい意味にも使う：「絶好の機会」。"
    },
    "antonyms": []
   },
@@ -105851,19 +105918,22 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜に関して",
-   "alternatives": [],
+   "alternatives": [
+    "〜に関して",
+    "〜について"
+   ],
    "reading": "〜にかんして",
    "romanization": "~ ni kanshite",
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "formal: a respeito de",
-    "ja": "〜について（かたい言い方）。"
+    "ja": "〜について（かたい言い方）。「お手紙について」。"
    },
    "study_tier": "cedo",
    "study_priority": 1586,
    "user_hint": "",
-   "description": "〜について（かたい言い方）。",
+   "description": "〜について（かたい言い方）。「お手紙について」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -106026,17 +106096,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "科学的な",
-   "alternatives": [],
+   "alternatives": [
+    "科学の",
+    "論理的な"
+   ],
    "reading": "かがくてきな",
    "romanization": "kagakuteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1589,
    "user_hint": "",
-   "description": "科学に関する。",
+   "description": "科学に関する。「科学的な研究」。正確で根拠がある意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "科学に関する。"
+    "ja": "科学に関する。「科学的な研究」。正確で根拠がある意味にも使う。"
    },
    "antonyms": []
   },
@@ -106457,7 +106530,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "話し合う",
-   "alternatives": [],
+   "alternatives": [
+    "話し合う",
+    "議論する"
+   ],
    "reading": "はなしあう",
    "romanization": "hanashiau",
    "class_real": "godan verb",
@@ -106553,11 +106629,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1594,
-   "description": "あるテーマについて意見を出し合うこと。",
+   "description": "話題について話し合う。「計画を話し合う」。討論の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "あるテーマについて意見を出し合うこと。"
+    "ja": "話題について話し合う。「計画を話し合う」。討論の意味にも使う。"
    },
    "antonyms": []
   },
@@ -106572,17 +106648,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "感情的な",
-   "alternatives": [],
+   "alternatives": [
+    "感情的な",
+    "感動的な"
+   ],
    "reading": "かんじょうてきな",
    "romanization": "kanjouteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1595,
    "user_hint": "",
-   "description": "気持ちが強く動く。",
+   "description": "感情が強い。「感動的な場面」。気持ちに関する意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "気持ちが強く動く。"
+    "ja": "感情が強い。「感動的な場面」。気持ちに関する意味にも使う。"
    },
    "antonyms": []
   },
@@ -106722,18 +106801,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "内部の",
-   "alternatives": [],
+   "alternatives": [
+    "内部の",
+    "国内の"
+   ],
    "reading": "ないぶの",
    "romanization": "naibu no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "técnico",
-    "ja": "内側の。"
+    "ja": "内側の。「内部のドア」。組織の中の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1598,
    "user_hint": "",
-   "description": "内側の。",
+   "description": "内側の。「内部のドア」。組織の中の意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002851"
@@ -106956,17 +107038,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "自由主義の",
-   "alternatives": [],
+   "alternatives": [
+    "寛大な",
+    "自由な"
+   ],
    "reading": "じゆうしゅぎの",
    "romanization": "jiyuushugi no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1601,
    "user_hint": "",
-   "description": "新しい考えを受け入れ、自由を大事にする。",
+   "description": "新しい考えに開かれた。「自由な見方」。気前がよい意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "新しい考えを受け入れ、自由を大事にする。"
+    "ja": "新しい考えに開かれた。「自由な見方」。気前がよい意味にも使う。"
    },
    "antonyms": [
     "en:000002394"
@@ -107281,17 +107366,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "比較的",
-   "alternatives": [],
+   "alternatives": [
+    "わりと",
+    "相対的に"
+   ],
    "reading": "ひかくてき",
    "romanization": "hikakuteki",
    "class_real": "adverb",
    "study_tier": "cedo",
    "study_priority": 1605,
    "user_hint": "",
-   "description": "ほかと比べて、わりあいに。",
+   "description": "ほかとくらべて。「比較的安い」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ほかと比べて、わりあいに。"
+    "ja": "ほかとくらべて。「比較的安い」。"
    },
    "antonyms": []
   },
@@ -107411,7 +107499,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "打つ",
-   "alternatives": [],
+   "alternatives": [
+    "打つ",
+    "ストをする"
+   ],
    "reading": "うつ",
    "romanization": "utsu",
    "class_real": "godan verb",
@@ -107507,12 +107598,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "golpe; greve",
-    "ja": "強くたたく。"
+    "ja": "打つ。「ボールを打つ」。ストライキをする意味や、ふと思いつく意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1607,
    "user_hint": "",
-   "description": "強くたたく。",
+   "description": "打つ。「ボールを打つ」。ストライキをする意味や、ふと思いつく意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -107660,7 +107751,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "進む",
-   "alternatives": [],
+   "alternatives": [
+    "前進する",
+    "進歩する"
+   ],
    "reading": "すすむ",
    "romanization": "susumu",
    "class_real": "godan verb",
@@ -107757,10 +107851,10 @@
    "study_tier": "cedo",
    "study_priority": 1609,
    "user_hint": "",
-   "description": "前へ進む。",
+   "description": "前へ進む。「計画を進める」。お金を先に貸す意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "前へ進む。"
+    "ja": "前へ進む。「計画を進める」。お金を先に貸す意味にも使う。"
    },
    "antonyms": []
   },
@@ -107886,17 +107980,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "献身的な",
-   "alternatives": [],
+   "alternatives": [
+    "熱心な",
+    "専念している"
+   ],
    "reading": "けんしんてきな",
    "romanization": "kenshinteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1612,
    "user_hint": "",
-   "description": "全力でうちこんでいる。",
+   "description": "打ちこんでいる。「献身的な社員」。約束で縛られる意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "全力でうちこんでいる。"
+    "ja": "打ちこんでいる。「献身的な社員」。約束で縛られる意味にも使う。"
    },
    "antonyms": []
   },
@@ -108131,7 +108228,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "等しい",
-   "alternatives": [],
+   "alternatives": [
+    "同じ",
+    "等しい"
+   ],
    "reading": "ひとしい",
    "romanization": "hitoshii",
    "classifications": [
@@ -108177,11 +108277,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1614,
-   "description": "大きさや数、価値が同じ。",
+   "description": "大きさ・数・価値が同じ。「等しい部分」。公平な意味にも使う：「平等な権利」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "大きさや数、価値が同じ。"
+    "ja": "大きさ・数・価値が同じ。「等しい部分」。公平な意味にも使う：「平等な権利」。"
    },
    "antonyms": []
   },
@@ -108197,19 +108297,20 @@
    "translation_confidence": "editorial-reviewed",
    "text": "偽の",
    "alternatives": [
-    "偽物の"
+    "偽の",
+    "模造の"
    ],
    "reading": "にせの",
    "romanization": "nise no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "falsificado",
-    "ja": "本物でない。"
+    "ja": "本物ではない。「偽の身分証」。ニセ情報や模造品にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1615,
    "user_hint": "",
-   "description": "本物でない。",
+   "description": "本物ではない。「偽の身分証」。ニセ情報や模造品にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -108370,7 +108471,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "維持する",
-   "alternatives": [],
+   "alternatives": [
+    "維持する",
+    "保つ"
+   ],
    "reading": "いじする",
    "romanization": "iji suru",
    "forms": [
@@ -108465,12 +108569,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "conservar em bom estado",
-    "ja": "よい状態をたもつ。"
+    "ja": "よい状態に保つ。「車を整備する」。続ける意味にも使う：「速度を保つ」。"
    },
    "study_tier": "cedo",
    "study_priority": 1618,
    "user_hint": "",
-   "description": "よい状態をたもつ。",
+   "description": "よい状態に保つ。「車を整備する」。続ける意味にも使う：「速度を保つ」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -108749,6 +108853,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "分ける",
    "alternatives": [
+    "分ける",
     "割る"
    ],
    "reading": "わける",
@@ -108847,10 +108952,10 @@
    "study_tier": "cedo",
    "study_priority": 1622,
    "user_hint": "",
-   "description": "いくつかに分ける。",
+   "description": "いくつかに分ける。「割り勘にする」。裂ける意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "いくつかに分ける。"
+    "ja": "いくつかに分ける。「割り勘にする」。裂ける意味にも使う。"
    },
    "antonyms": []
   },
@@ -109288,7 +109393,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "逃げる",
-   "alternatives": [],
+   "alternatives": [
+    "逃げる",
+    "のがれる"
+   ],
    "reading": "にげる",
    "romanization": "nigeru",
    "classifications": [
@@ -109393,10 +109501,10 @@
    "study_tier": "cedo",
    "study_priority": 1629,
    "user_hint": "",
-   "description": "場所や危険からのがれる。",
+   "description": "場所や危険から逃れる。「脱獄する」。気づかれずにすむ意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "場所や危険からのがれる。"
+    "ja": "場所や危険から逃れる。「脱獄する」。気づかれずにすむ意味にも使う。"
    },
    "antonyms": []
   },
@@ -109511,7 +109619,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "満たす",
-   "alternatives": [],
+   "alternatives": [
+    "満たす",
+    "埋める"
+   ],
    "reading": "みたす",
    "romanization": "mitasu",
    "classifications": [
@@ -109616,10 +109727,10 @@
    "study_tier": "cedo",
    "study_priority": 1631,
    "user_hint": "",
-   "description": "いっぱいにする。",
+   "description": "いっぱいにする。「コップをみたす」。ポストを埋める意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "いっぱいにする。"
+    "ja": "いっぱいにする。「コップをみたす」。ポストを埋める意味にも使う。"
    },
    "antonyms": []
   },
@@ -109977,17 +110088,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "純粋な",
-   "alternatives": [],
+   "alternatives": [
+    "純粋な",
+    "混じりけのない"
+   ],
    "reading": "じゅんすいな",
    "romanization": "junsui na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1633,
    "user_hint": "",
-   "description": "ほかのものがまじっていない。",
+   "description": "ほかのものがまざっていない。「純金」。清らかな意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ほかのものがまじっていない。"
+    "ja": "ほかのものがまざっていない。「純金」。清らかな意味にも使う。"
    },
    "antonyms": []
   },
@@ -110128,17 +110242,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "安全な",
-   "alternatives": [],
+   "alternatives": [
+    "安全な",
+    "しっかりした"
+   ],
    "reading": "あんぜんな",
    "romanization": "anzen na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1634,
    "user_hint": "",
-   "description": "危険がない。",
+   "description": "安全な。「安全な家」。安心している、しっかり固定されている意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "危険がない。"
+    "ja": "安全な。「安全な家」。安心している、しっかり固定されている意味にも使う。"
    },
    "antonyms": []
   },
@@ -110607,7 +110724,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "責める",
-   "alternatives": [],
+   "alternatives": [
+    "責める",
+    "とがめる"
+   ],
    "reading": "せめる",
    "romanization": "semeru",
    "classifications": [
@@ -110712,10 +110832,10 @@
    "study_tier": "cedo",
    "study_priority": 1639,
    "user_hint": "",
-   "description": "悪いのはその人だと言う。",
+   "description": "だれかが悪いと言う。「彼を責める」。責任そのものにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "悪いのはその人だと言う。"
+    "ja": "だれかが悪いと言う。「彼を責める」。責任そのものにも使う。"
    },
    "antonyms": []
   },
@@ -110879,7 +110999,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "決定する",
-   "alternatives": [],
+   "alternatives": [
+    "決定する",
+    "突き止める"
+   ],
    "reading": "けっていする",
    "romanization": "kettei suru",
    "class_real": "suru-verb",
@@ -110976,10 +111099,10 @@
    "study_tier": "cedo",
    "study_priority": 1641,
    "user_hint": "",
-   "description": "決める。はっきりさせる。",
+   "description": "決める、はっきりさせる。「原因を特定する」。結果を左右する意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "決める。はっきりさせる。"
+    "ja": "決める、はっきりさせる。「原因を特定する」。結果を左右する意味にも使う。"
    },
    "antonyms": []
   },
@@ -112419,7 +112542,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "苦労する",
-   "alternatives": [],
+   "alternatives": [
+    "もがく",
+    "奮闘する"
+   ],
    "reading": "くろうする",
    "romanization": "kurou suru",
    "class_real": "suru-verb",
@@ -112516,10 +112642,10 @@
    "study_tier": "cedo",
    "study_priority": 1666,
    "user_hint": "",
-   "description": "苦しみながら、がんばる。",
+   "description": "苦労して努力する。「息をするのに苦しむ」。闘う意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "苦しみながら、がんばる。"
+    "ja": "苦労して努力する。「息をするのに苦しむ」。闘う意味にも使う。"
    },
    "antonyms": []
   },
@@ -113383,7 +113509,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "失敗する",
-   "alternatives": [],
+   "alternatives": [
+    "失敗する",
+    "落ちる"
+   ],
    "reading": "しっぱいする",
    "romanization": "shippai suru",
    "class_real": "suru-verb",
@@ -113469,13 +113598,13 @@
    "study_tier": "cedo",
    "study_priority": 1678,
    "user_hint": "",
-   "description": "うまくいかない。試験に受からない。",
+   "description": "成功しない。「試験に落ちる」。機械が動かなくなる意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000921"
    ],
    "nativeExplain": {
-    "ja": "うまくいかない。試験に受からない。"
+    "ja": "成功しない。「試験に落ちる」。機械が動かなくなる意味にも使う。"
    }
   },
   {
@@ -113489,7 +113618,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "よく知っている",
-   "alternatives": [],
+   "alternatives": [
+    "なじみの",
+    "おなじみの"
+   ],
    "reading": "よくしっている",
    "romanization": "yoku shitte iru",
    "lexical_type": "construction",
@@ -113497,10 +113629,10 @@
    "study_tier": "cedo",
    "study_priority": 1679,
    "user_hint": "",
-   "description": "よく知っていて、なじみがある。",
+   "description": "よく知っている。「なじみの顔」。ある事にくわしい意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "よく知っていて、なじみがある。"
+    "ja": "よく知っている。「なじみの顔」。ある事にくわしい意味にも使う。"
    },
    "antonyms": [
     "en:000002278"
@@ -113625,17 +113757,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "中くらいの",
-   "alternatives": [],
+   "alternatives": [
+    "中間の",
+    "ふつうの"
+   ],
    "reading": "ちゅうくらいの",
    "romanization": "chuu kurai no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "tamanho médio",
-    "ja": "大きくも小さくもない、中くらい。"
+    "ja": "中くらいの。「Mサイズ」。伝える手段の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1684,
-   "description": "大きくも小さくもない、中くらい。",
+   "description": "中くらいの。「Mサイズ」。伝える手段の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -113854,6 +113989,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "求める",
    "alternatives": [
+    "求める",
     "探す"
    ],
    "reading": "もとめる",
@@ -113960,10 +114096,10 @@
    "study_tier": "cedo",
    "study_priority": 1688,
    "user_hint": "",
-   "description": "ほしいものを手に入れようとさがす（かたい言い方）。",
+   "description": "さがし求める（かたい言い方）。「助けを求める」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ほしいものを手に入れようとさがす（かたい言い方）。"
+    "ja": "さがし求める（かたい言い方）。「助けを求める」。"
    },
    "antonyms": []
   },
@@ -114377,17 +114513,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "極端な",
-   "alternatives": [],
+   "alternatives": [
+    "極端な",
+    "きびしい"
+   ],
    "reading": "きょくたんな",
    "romanization": "kyokutan na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1696,
    "user_hint": "",
-   "description": "度をこえて大きい。ふつうからとても離れた。",
+   "description": "とても大きい。「猛暑」。ふつうでない意味にも使う：「過激なスポーツ」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "度をこえて大きい。ふつうからとても離れた。"
+    "ja": "とても大きい。「猛暑」。ふつうでない意味にも使う：「過激なスポーツ」。"
    },
    "antonyms": []
   },
@@ -114744,7 +114883,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "予約する",
-   "alternatives": [],
+   "alternatives": [
+    "予約する",
+    "取っておく"
+   ],
    "reading": "よやくする",
    "romanization": "yoyaku suru",
    "class_real": "suru-verb",
@@ -114841,10 +114983,10 @@
    "study_tier": "cedo",
    "study_priority": 1703,
    "user_hint": "",
-   "description": "席や部屋を前もって取っておく。",
+   "description": "席や部屋を予約する。「テーブルを予約する」。とっておく意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "席や部屋を前もって取っておく。"
+    "ja": "席や部屋を予約する。「テーブルを予約する」。とっておく意味にも使う。"
    },
    "antonyms": []
   },
@@ -115087,7 +115229,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "影響する",
-   "alternatives": [],
+   "alternatives": [
+    "影響する",
+    "作用する"
+   ],
    "reading": "えいきょうする",
    "romanization": "eikyou suru",
    "class_real": "suru-verb",
@@ -115184,10 +115329,10 @@
    "study_tier": "cedo",
    "study_priority": 1706,
    "user_hint": "",
-   "description": "ほかのものに作用して変える。",
+   "description": "変える、影響をあたえる。「健康に影響する」。感情に響く意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ほかのものに作用して変える。"
+    "ja": "変える、影響をあたえる。「健康に影響する」。感情に響く意味にも使う。"
    },
    "antonyms": []
   },
@@ -115264,7 +115409,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "わきへ",
-   "alternatives": [],
+   "alternatives": [
+    "わきに",
+    "別にして"
+   ],
    "reading": "わきへ",
    "romanization": "waki e",
    "speech": "わきえ",
@@ -115272,10 +115420,10 @@
    "study_tier": "cedo",
    "study_priority": 1707,
    "user_hint": "",
-   "description": "わきのほうへ。",
+   "description": "わきへ。「わきによける」。〜をのぞいて、の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "わきのほうへ。"
+    "ja": "わきへ。「わきによける」。〜をのぞいて、の意味にも使う。"
    },
    "antonyms": []
   },
@@ -115350,7 +115498,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "吹く",
-   "alternatives": [],
+   "alternatives": [
+    "吹く",
+    "吹きつける"
+   ],
    "reading": "ふく",
    "romanization": "fuku",
    "classifications": [
@@ -115455,10 +115606,10 @@
    "study_tier": "cedo",
    "study_priority": 1709,
    "user_hint": "",
-   "description": "口から息を出す。",
+   "description": "口から息を出す。「ろうそくを吹き消す」。風が吹く意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "口から息を出す。"
+    "ja": "口から息を出す。「ろうそくを吹き消す」。風が吹く意味にも使う。"
    },
    "antonyms": []
   },
@@ -115863,7 +116014,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜に値する",
-   "alternatives": [],
+   "alternatives": [
+    "〜に値する",
+    "受けるに足る"
+   ],
    "reading": "〜にあたいする",
    "romanization": "~ ni atai suru",
    "lexical_type": "construction",
@@ -115871,10 +116025,10 @@
    "study_tier": "cedo",
    "study_priority": 1712,
    "user_hint": "",
-   "description": "それを受けるのが当然だと言える。",
+   "description": "それだけのことをした。「賞に値する」。尊敬に値する意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "それを受けるのが当然だと言える。"
+    "ja": "それだけのことをした。「賞に値する」。尊敬に値する意味にも使う。"
    },
    "antonyms": []
   },
@@ -116245,17 +116399,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "妥当な",
-   "alternatives": [],
+   "alternatives": [
+    "妥当な",
+    "筋の通った"
+   ],
    "reading": "だとうな",
    "romanization": "datou na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "cedo",
    "study_priority": 1718,
    "user_hint": "",
-   "description": "筋が通っている。ほどよい。",
+   "description": "もっともな、道理にかなう。「手ごろな値段」。分別のある人にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "筋が通っている。ほどよい。"
+    "ja": "もっともな、道理にかなう。「手ごろな値段」。分別のある人にも使う。"
    },
    "antonyms": []
   },
@@ -117520,7 +117677,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "代表する",
-   "alternatives": [],
+   "alternatives": [
+    "代表する",
+    "表す"
+   ],
    "reading": "だいひょうする",
    "romanization": "daihyou suru",
    "class_real": "suru-verb",
@@ -117617,10 +117777,10 @@
    "study_tier": "cedo",
    "study_priority": 1739,
    "user_hint": "",
-   "description": "人に代わって話したり行動したりする。",
+   "description": "他人にかわって話す、行う。「依頼人を代理する」。象徴する意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人に代わって話したり行動したりする。"
+    "ja": "他人にかわって話す、行う。「依頼人を代理する」。象徴する意味にも使う。"
    },
    "antonyms": []
   },
@@ -117839,7 +117999,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "達成する",
-   "alternatives": [],
+   "alternatives": [
+    "成し遂げる",
+    "達成する"
+   ],
    "reading": "たっせいする",
    "romanization": "tassei suru",
    "class_real": "suru-verb",
@@ -117924,12 +118087,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "conseguir, realizar",
-    "ja": "目標をやりとげる。"
+    "ja": "成しとげる。「目標を達成する」。結果を出す意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1745,
    "user_hint": "",
-   "description": "目標をやりとげる。",
+   "description": "成しとげる。「目標を達成する」。結果を出す意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -117944,7 +118107,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "〜を買う余裕がある",
-   "alternatives": [],
+   "alternatives": [
+    "余裕がある",
+    "払える"
+   ],
    "reading": "〜をかうよゆうがある",
    "romanization": "~ o kau yoyuu ga aru",
    "lexical_type": "construction",
@@ -117952,10 +118118,10 @@
    "study_tier": "cedo",
    "study_priority": 1746,
    "user_hint": "",
-   "description": "買えるだけのお金や余裕がある。",
+   "description": "〜するだけのお金がある。「買う余裕がない」。リスクをとれる意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "買えるだけのお金や余裕がある。"
+    "ja": "〜するだけのお金がある。「買う余裕がない」。リスクをとれる意味にも使う。"
    },
    "antonyms": []
   },
@@ -118857,17 +119023,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "永久の",
-   "alternatives": [],
+   "alternatives": [
+    "恒久的な",
+    "永続的な"
+   ],
    "reading": "えいきゅうの",
    "romanization": "eikyuu no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1760,
    "user_hint": "",
-   "description": "ずっと変わらず続く。",
+   "description": "ずっと続く。「正社員の仕事」。消えない跡にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ずっと変わらず続く。"
+    "ja": "ずっと続く。「正社員の仕事」。消えない跡にも使う。"
    },
    "antonyms": []
   },
