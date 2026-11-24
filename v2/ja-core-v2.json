@@ -29870,17 +29870,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜のために",
-   "alternatives": [],
+   "alternatives": [
+    "〜のために",
+    "〜用の"
+   ],
    "reading": "のために",
    "romanization": "~ no tame ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "finalidade, benefício",
-    "ja": "誰かや何かのため、という意味。"
+    "ja": "誰かや何かの利益・目的・相手を示す。「友だちのために料理する」。期間を表す「三日間」や、交換の「千円で」にも近い使い方がある。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 918,
-   "description": "誰かや何かのため、という意味。",
+   "description": "誰かや何かの利益・目的・相手を示す。「友だちのために料理する」。期間を表す「三日間」や、交換の「千円で」にも近い使い方がある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -29974,16 +29977,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "それ",
-   "alternatives": [],
+   "alternatives": [
+    "それ",
+    "あれ"
+   ],
    "reading": "それ",
    "romanization": "sore",
    "study_tier": "expansão estruturante",
    "study_priority": 919,
-   "description": "聞き手に近い物や、直前に出た話題を指す。",
+   "description": "話題や、直前に出た物事を指す。「それは何？」。天気や時間では主語を置かない：「雨だ」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "聞き手に近い物や、直前に出た話題を指す。"
+    "ja": "話題や、直前に出た物事を指す。「それは何？」。天気や時間では主語を置かない：「雨だ」。"
    },
    "antonyms": []
   },
@@ -30003,17 +30009,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の上に",
-   "alternatives": [],
+   "alternatives": [
+    "〜の上に",
+    "〜に"
+   ],
    "reading": "のうえに",
    "romanization": "~ no ue ni",
    "class_real": "postpositional construction",
    "study_tier": "expansão estruturante",
    "study_priority": 920,
-   "description": "物の上に接していること。",
+   "description": "物の表面に接している位置を示す。「机の上にある」。日付や曜日（「月曜日に」）、乗り物（「バスで」）にも対応する。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物の上に接していること。"
+    "ja": "物の表面に接している位置を示す。「机の上にある」。日付や曜日（「月曜日に」）、乗り物（「バスで」）にも対応する。"
    },
    "antonyms": [
     "en:000000120"
@@ -30036,17 +30045,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜と一緒に",
-   "alternatives": [],
+   "alternatives": [
+    "〜と一緒に",
+    "〜で"
+   ],
    "reading": "といっしょに",
    "romanization": "~ to issho ni",
    "class_real": "postpositional construction",
    "study_tier": "expansão estruturante",
    "study_priority": 921,
-   "description": "人や物を表す語に続き、同じ行動をいっしょにする相手を示す。",
+   "description": "人や物と一緒に何かをする。「友だちと行く」。道具や手段（「はしで食べる」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "人や物を表す語に続き、同じ行動をいっしょにする相手を示す。"
+    "ja": "人や物と一緒に何かをする。「友だちと行く」。道具や手段（「はしで食べる」）にも使う。"
    },
    "antonyms": []
   },
@@ -30485,7 +30497,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼",
-   "alternatives": [],
+   "alternatives": [
+    "あの人",
+    "彼氏"
+   ],
    "reading": "かれ",
    "romanization": "kare",
    "classifications": [
@@ -30499,11 +30514,11 @@
    "class_real": "pronoun",
    "nativeExplain": {
     "pt-BR": "sujeito",
-    "ja": "すでに話に出た男性を指す。文脈によっては恋人の男性を指す。"
+    "ja": "すでに話に出た男性を指す。「彼は先生だ」。会話では名前や「あの人」を使うことが多い。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 923,
-   "description": "すでに話に出た男性を指す。文脈によっては恋人の男性を指す。",
+   "description": "すでに話に出た男性を指す。「彼は先生だ」。会話では名前や「あの人」を使うことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -30617,7 +30632,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "から",
-   "alternatives": [],
+   "alternatives": [
+    "〜から",
+    "〜出身の"
+   ],
    "reading": "から",
    "romanization": "kara",
    "classifications": [
@@ -30631,11 +30649,11 @@
    "class_real": "particle (case/conjunctive)",
    "nativeExplain": {
     "pt-BR": "origem, procedência",
-    "ja": "始まりや出どころを示す言葉。"
+    "ja": "始まりや出どころを示す。「東京から来る」。時間の起点（「九時から」）や材料（「木から作る」）にも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 925,
-   "description": "始まりや出どころを示す言葉。",
+   "description": "始まりや出どころを示す。「東京から来る」。時間の起点（「九時から」）や材料（「木から作る」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -30796,17 +30814,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "全部",
-   "alternatives": [],
+   "alternatives": [
+    "すべて",
+    "みんな"
+   ],
    "reading": "ぜんぶ",
    "romanization": "zenbu",
    "class_real": "noun/adverb",
    "study_tier": "expansão estruturante",
    "study_priority": 928,
-   "description": "集まりのうち、何も残さず全体を指す。",
+   "description": "集まりのうち、何も残さず全体を指す。「全部食べた」。人には「みんな」が自然。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "集まりのうち、何も残さず全体を指す。"
+    "ja": "集まりのうち、何も残さず全体を指す。「全部食べた」。人には「みんな」が自然。"
    },
    "antonyms": []
   },
@@ -30828,17 +30849,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "とても",
-   "alternatives": [],
+   "alternatives": [
+    "とても",
+    "そんなに"
+   ],
    "reading": "とても",
    "romanization": "totemo",
    "class_real": "adverb",
    "study_tier": "expansão estruturante",
    "study_priority": 929,
-   "description": "程度が高いことを強調する。「とても暑い」。",
+   "description": "程度が高いことを強調する。「とても暑い」。結果の意味では「だから」：「それで」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "程度が高いことを強調する。「とても暑い」。"
+    "ja": "程度が高いことを強調する。「とても暑い」。結果の意味では「だから」：「それで」。"
    },
    "antonyms": []
   },
@@ -30859,17 +30883,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼の",
-   "alternatives": [],
+   "alternatives": [
+    "彼の"
+   ],
    "reading": "かれの",
    "romanization": "kare no",
    "class_real": "pronoun + の",
    "study_tier": "expansão estruturante",
    "study_priority": 930,
-   "description": "その男の人のもの。",
+   "description": "その男の人のもの。「彼の本」。名前を使って「〜の」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "その男の人のもの。"
+    "ja": "その男の人のもの。「彼の本」。名前を使って「〜の」とも言う。"
    },
    "antonyms": []
   },
@@ -30931,7 +30957,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "私を",
    "alternatives": [
-    "私に"
+    "私に",
+    "私を"
    ],
    "reading": "わたしを",
    "romanization": "watashi o",
@@ -30960,11 +30987,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 932,
-   "description": "「私」が動作を受ける相手だと示す形。「私を呼ぶ」。",
+   "description": "「私」が動作を受ける相手だと示す形。「私を呼ぶ」。「私に」と使うことも多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "「私」が動作を受ける相手だと示す形。「私を呼ぶ」。"
+    "ja": "「私」が動作を受ける相手だと示す形。「私を呼ぶ」。「私に」と使うことも多い。"
    },
    "antonyms": []
   },
@@ -31273,17 +31300,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜について",
-   "alternatives": [],
+   "alternatives": [
+    "〜について",
+    "約"
+   ],
    "reading": "について",
    "romanization": "~ ni tsuite",
    "class_real": "compound particle",
    "nativeExplain": {
     "pt-BR": "assunto",
-    "ja": "話題や内容を表す言葉。"
+    "ja": "話題や内容を示す。「本について話す」。おおよその数（「約十人」）にも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 934,
-   "description": "話題や内容を表す言葉。",
+   "description": "話題や内容を示す。「本について話す」。おおよその数（「約十人」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -31306,21 +31336,24 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "上へ",
-   "alternatives": [],
+   "alternatives": [
+    "上へ",
+    "上がって"
+   ],
    "reading": "うえへ",
    "romanization": "ue e",
    "speech": "うええ",
    "class_real": "noun + へ",
    "study_tier": "expansão estruturante",
    "study_priority": 935,
-   "description": "高いほうへ。",
+   "description": "高いほうへ向かう動き。「上へ行く」。起きる、増えるにも使う：「物価が上がる」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000132"
    ],
    "nativeExplain": {
-    "ja": "高いほうへ。"
+    "ja": "高いほうへ向かう動き。「上へ行く」。起きる、増えるにも使う：「物価が上がる」。"
    }
   },
   {
@@ -31341,18 +31374,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "外へ",
-   "alternatives": [],
+   "alternatives": [
+    "外へ",
+    "出て"
+   ],
    "reading": "そとへ",
    "romanization": "soto e",
    "speech": "そとえ",
    "class_real": "noun + へ",
    "study_tier": "expansão estruturante",
    "study_priority": 936,
-   "description": "中から外に向かう方向を示す。「外へ出る」。",
+   "description": "中から外へ向かう動き。「外へ出る」。消える、なくなる意味にも使う：「電気が消える」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "中から外に向かう方向を示す。「外へ出る」。"
+    "ja": "中から外へ向かう動き。「外へ出る」。消える、なくなる意味にも使う：「電気が消える」。"
    },
    "antonyms": []
   },
@@ -31839,17 +31875,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼らの",
-   "alternatives": [],
+   "alternatives": [
+    "彼らの",
+    "その人たちの"
+   ],
    "reading": "かれらの",
    "romanization": "karera no",
    "class_real": "pronoun + の",
    "nativeExplain": {
     "pt-BR": "antes do substantivo",
-    "ja": "その人たちのもの。"
+    "ja": "その人たちのもの。「彼らの家」。性別に関係なく複数の人を指す。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 937,
-   "description": "その人たちのもの。",
+   "description": "その人たちのもの。「彼らの家」。性別に関係なく複数の人を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -31912,17 +31951,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼女の",
-   "alternatives": [],
+   "alternatives": [
+    "彼女の"
+   ],
    "reading": "かのじょの",
    "romanization": "kanojo no",
    "class_real": "pronoun + の",
    "nativeExplain": {
     "pt-BR": "antes do substantivo (dela + coisa)",
-    "ja": "その女の人のもの。"
+    "ja": "その女の人のもの。「彼女の帽子」。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 938,
-   "description": "その女の人のもの。",
+   "description": "その女の人のもの。「彼女の帽子」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32013,7 +32054,11 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "手に入れる",
-   "alternatives": [],
+   "alternatives": [
+    "得る",
+    "もらう",
+    "なる"
+   ],
    "reading": "てにいれる",
    "romanization": "te ni ireru",
    "class_real": "ichidan verb (idiomatic)",
@@ -32098,11 +32143,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 940,
-   "description": "ほしかった物などが自分のものになる。「券を手に入れる」。",
+   "description": "ほしかった物などが自分のものになる。「切符を手に入れる」。ある状態になる（「寒くなる」）、理解する（「わかる」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ほしかった物などが自分のものになる。「券を手に入れる」。"
+    "ja": "ほしかった物などが自分のものになる。「切符を手に入れる」。ある状態になる（「寒くなる」）、理解する（「わかる」）にも使う。"
    },
    "antonyms": []
   },
@@ -32219,7 +32264,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "新しい",
-   "alternatives": [],
+   "alternatives": [
+    "新品の",
+    "新規の"
+   ],
    "reading": "あたらしい",
    "romanization": "atarashii",
    "classifications": [
@@ -32265,13 +32313,13 @@
    "study_tier": "expansão estruturante",
    "study_priority": 942,
    "user_hint": "",
-   "description": "最近つくられた、買ったばかりの。",
+   "description": "最近つくられた、買ったばかりの。「新しい家」。経験のない、これまでになかった意味でも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000166"
    ],
    "nativeExplain": {
-    "ja": "最近つくられた、買ったばかりの。"
+    "ja": "最近つくられた、買ったばかりの。「新しい家」。経験のない、これまでになかった意味でも使う。"
    }
   },
   {
@@ -32291,18 +32339,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "人々",
    "alternatives": [
-    "人たち"
+    "人たち",
+    "民衆"
    ],
    "reading": "ひとびと",
    "romanization": "hitobito",
    "class_real": "noun (collective)",
    "study_tier": "expansão estruturante",
    "study_priority": 943,
-   "description": "男の人、女の人、子どもなど、多くの人。",
+   "description": "男の人、女の人、子どもなど、多くの人。「人々が集まる」。国や地域の人々にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "男の人、女の人、子どもなど、多くの人。"
+    "ja": "男の人、女の人、子どもなど、多くの人。「人々が集まる」。国や地域の人々にも使う。"
    },
    "antonyms": []
   },
@@ -32418,17 +32467,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "も",
-   "alternatives": [],
+   "alternatives": [
+    "〜も",
+    "さらに"
+   ],
    "reading": "も",
    "romanization": "mo",
    "class_real": "particle (additive)",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "ja": "そのうえ、同じく。"
+    "ja": "そのうえ、同じく。「私も行く」。付け加えるときに使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "description": "そのうえ、同じく。",
+   "description": "そのうえ、同じく。「私も行く」。付け加えるときに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32544,17 +32596,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "他の",
-   "alternatives": [],
+   "alternatives": [
+    "別の",
+    "他の"
+   ],
    "reading": "ほかの",
    "romanization": "hoka no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "diferente do citado",
-    "ja": "すでに話に出たものとは別の。"
+    "ja": "すでに話に出たものとは別の。「他の人」。残りの部分を指すときにも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 947,
-   "description": "すでに話に出たものとは別の。",
+   "description": "すでに話に出たものとは別の。「他の人」。残りの部分を指すときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32636,17 +32691,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "私たちの",
-   "alternatives": [],
+   "alternatives": [
+    "私たちの",
+    "うちの"
+   ],
    "reading": "わたしたちの",
    "romanization": "watashitachi no",
    "class_real": "pronoun + の",
    "nativeExplain": {
     "pt-BR": "antes do substantivo",
-    "ja": "私たちのもの。"
+    "ja": "私たちのもの。「私たちの学校」。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 949,
-   "description": "私たちのもの。",
+   "description": "私たちのもの。「私たちの学校」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32667,7 +32725,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "より",
-   "alternatives": [],
+   "alternatives": [
+    "〜より"
+   ],
    "reading": "より",
    "romanization": "yori",
    "classifications": [
@@ -32681,11 +32741,11 @@
    "class_real": "particle (comparison)",
    "study_tier": "expansão estruturante",
    "study_priority": 950,
-   "description": "くらべるときに使う言葉。",
+   "description": "くらべるときに使う。「私より背が高い」。「〜以外」の意味もある：「彼女より好きな人はいない」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "くらべるときに使う言葉。"
+    "ja": "くらべるときに使う。「私より背が高い」。「〜以外」の意味もある：「彼女より好きな人はいない」。"
    },
    "antonyms": []
   },
@@ -32774,17 +32834,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "だけ",
-   "alternatives": [],
+   "alternatives": [
+    "〜だけ",
+    "ただ"
+   ],
    "reading": "だけ",
    "romanization": "dake",
    "class_real": "particle (limiting)",
    "nativeExplain": {
     "pt-BR": "nada mais",
-    "ja": "それだけで、ほかにはない。"
+    "ja": "それだけで、ほかにはない。「一つだけ」。時間では「やっと」：「いまになってやっと」。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 951,
-   "description": "それだけで、ほかにはない。",
+   "description": "それだけで、ほかにはない。「一つだけ」。時間では「やっと」：「いまになってやっと」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32843,21 +32906,22 @@
    "vcu14_status": "provisional-editorial",
    "text": "最初の",
    "alternatives": [
-    "一番目"
+    "一番目の",
+    "初めの"
    ],
    "reading": "さいしょの",
    "romanization": "saisho no",
    "class_real": "noun + の",
    "study_tier": "expansão estruturante",
    "study_priority": 953,
-   "description": "順番がいちばん前の。",
+   "description": "順番がいちばん前の。「最初の日」。初めて起きることにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000136"
    ],
    "nativeExplain": {
-    "ja": "順番がいちばん前の。"
+    "ja": "順番がいちばん前の。「最初の日」。初めて起きることにも使う。"
    }
   },
   {
@@ -32877,7 +32941,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼を",
-   "alternatives": [],
+   "alternatives": [
+    "彼に",
+    "彼を"
+   ],
    "reading": "かれを",
    "romanization": "kare o",
    "lexical_type": "construction",
@@ -32905,11 +32972,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "objeto (ver ele, para ele)",
-    "ja": "男の人を、動作を受ける側として指す言葉。"
+    "ja": "男の人を、動作を受ける側として指す。「彼を見る」。「彼に」と使うことも多い。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 954,
-   "description": "男の人を、動作を受ける側として指す言葉。",
+   "description": "男の人を、動作を受ける側として指す。「彼を見る」。「彼に」と使うことも多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -32931,18 +32998,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の中へ",
-   "alternatives": [],
+   "alternatives": [
+    "〜の中へ",
+    "〜に"
+   ],
    "reading": "のなかへ",
    "romanization": "~ no naka e",
    "speech": "のなかえ",
    "class_real": "postpositional construction",
    "study_tier": "expansão estruturante",
    "study_priority": 955,
-   "description": "何かの中へ入ること。",
+   "description": "何かの中へ入る動き。「部屋の中へ入る」。変化の結果（「水が氷になる」）や、ぶつかる意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "何かの中へ入ること。"
+    "ja": "何かの中へ入る動き。「部屋の中へ入る」。変化の結果（「水が氷になる」）や、ぶつかる意味にも使う。"
    },
    "antonyms": []
   },
@@ -33243,7 +33313,11 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "作る",
-   "alternatives": [],
+   "alternatives": [
+    "作る",
+    "つくる",
+    "させる"
+   ],
    "reading": "つくる",
    "romanization": "tsukuru",
    "classifications": [
@@ -33336,11 +33410,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "criar, fabricar",
-    "ja": "何かをつくること。"
+    "ja": "何かをつくる。「ごはんを作る」。ある状態にさせる（「楽しくさせる」）、お金を得る（「お金を稼ぐ」）にも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 956,
-   "description": "何かをつくること。",
+   "description": "何かをつくる。「ごはんを作る」。ある状態にさせる（「楽しくさせる」）、お金を得る（「お金を稼ぐ」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -33363,6 +33437,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "〜の上",
    "alternatives": [
+    "〜の上を",
     "〜を越えて"
    ],
    "reading": "のうえ",
@@ -33370,11 +33445,11 @@
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "posição acima",
-    "ja": "ある場所や物より高い位置を指す形。"
+    "ja": "ある場所や物より高い位置を指す。「橋の上」。終わった意味（「終わった」）や、越える動きにも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 957,
-   "description": "ある場所や物より高い位置を指す形。",
+   "description": "ある場所や物より高い位置を指す。「橋の上」。終わった意味（「終わった」）や、越える動きにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -33517,17 +33592,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どれでも",
-   "alternatives": [],
+   "alternatives": [
+    "どれでも",
+    "なにか"
+   ],
    "reading": "どれでも",
    "romanization": "doredemo",
    "class_real": "pronoun",
    "study_tier": "expansão estruturante",
    "study_priority": 959,
-   "description": "候補の中でどれを選んでもかまわないことを表す。",
+   "description": "候補の中でどれを選んでもかまわない。「どれでもいい」。疑問や否定では「なにか」「なにも」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "候補の中でどれを選んでもかまわないことを表す。"
+    "ja": "候補の中でどれを選んでもかまわない。「どれでもいい」。疑問や否定では「なにか」「なにも」。"
    },
    "antonyms": []
   },
@@ -33548,18 +33626,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "それから",
    "alternatives": [
-    "その時"
+    "それから",
+    "そのとき"
    ],
    "reading": "それから",
    "romanization": "sore kara",
    "class_real": "conjunctive adverb",
    "study_tier": "expansão estruturante",
    "study_priority": 960,
-   "description": "ある出来事の後に次のことが起きるとき、話を続ける言い方。",
+   "description": "ある出来事の後に次のことが起きる。「それから行く」。条件の結果（「それなら」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ある出来事の後に次のことが起きるとき、話を続ける言い方。"
+    "ja": "ある出来事の後に次のことが起きる。「それから行く」。条件の結果（「それなら」）にも使う。"
    },
    "antonyms": []
   },
@@ -33624,21 +33703,22 @@
    "vcu14_status": "provisional-editorial",
    "text": "戻って",
    "alternatives": [
-    "後ろ"
+    "戻って",
+    "もとへ"
    ],
    "reading": "もどって",
    "romanization": "modotte",
    "usage_note": "戻って is the te-form of 戻る (ja:en:000000640); \"back\" as a direction is 後ろ.",
    "study_tier": "expansão estruturante",
    "study_priority": 961,
-   "description": "もといた場所や、もとの状態に移るときの「戻る」のて形。",
+   "description": "もといた場所や状態へ戻る。「家へ戻る」。前の時点へのさかのぼりや、返す動きにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000509"
    ],
    "nativeExplain": {
-    "ja": "もといた場所や、もとの状態に移るときの「戻る」のて形。"
+    "ja": "もといた場所や状態へ戻る。「家へ戻る」。前の時点へのさかのぼりや、返す動きにも使う。"
    }
   },
   {
@@ -33689,7 +33769,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "私たちを",
-   "alternatives": [],
+   "alternatives": [
+    "私たちに",
+    "私たちを"
+   ],
    "reading": "わたしたちを",
    "romanization": "watashitachi o",
    "lexical_type": "construction",
@@ -33717,11 +33800,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "objeto",
-    "ja": "自分と他の人たちを、動作を受ける側として指す言葉。"
+    "ja": "自分と他の人たちを、動作を受ける側として指す。「私たちを助ける」。「私たちに」とも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 963,
-   "description": "自分と他の人たちを、動作を受ける側として指す言葉。",
+   "description": "自分と他の人たちを、動作を受ける側として指す。「私たちを助ける」。「私たちに」とも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -33991,17 +34074,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "上手に",
-   "alternatives": [],
+   "alternatives": [
+    "上手に",
+    "よく"
+   ],
    "reading": "じょうずに",
    "romanization": "jouzu ni",
    "class_real": "na-adjective adverbial",
    "nativeExplain": {
     "pt-BR": "de modo bom",
-    "ja": "うまく、よい状態で。"
+    "ja": "うまく、よい状態で。「上手に歌う」。健康（「元気だ」）や、話を始める「さて」にも使う。"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 964,
-   "description": "うまく、よい状態で。",
+   "description": "うまく、よい状態で。「上手に歌う」。健康（「元気だ」）や、話を始める「さて」にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -34251,17 +34337,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜さえ",
-   "alternatives": [],
+   "alternatives": [
+    "〜さえ",
+    "〜でも"
+   ],
    "reading": "〜さえ",
    "romanization": "~ sae",
    "class_real": "particle (focus)",
    "study_tier": "cedo",
    "study_priority": 966,
-   "description": "意外なことを強調する言葉。",
+   "description": "意外なことを強調する。「子どもでさえ知っている」。比べる形の強調（「さらに大きい」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "意外なことを強調する言葉。"
+    "ja": "意外なことを強調する。「子どもでさえ知っている」。比べる形の強調（「さらに大きい」）にも使う。"
    },
    "antonyms": []
   },
@@ -34281,18 +34370,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜したほうがいい",
-   "alternatives": [],
+   "alternatives": [
+    "〜したほうがいい",
+    "〜べき"
+   ],
    "reading": "〜したほうがいい",
    "romanization": "~ shita hou ga ii",
    "lexical_type": "construction",
    "class_real": "advice construction",
    "nativeExplain": {
     "pt-BR": "conselho",
-    "ja": "よいと思うことをすすめる言葉。"
+    "ja": "よいと思うことをすすめる。「早く寝たほうがいい」。ふつうそうなると予想する意味でも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 967,
-   "description": "よいと思うことをすすめる言葉。",
+   "description": "よいと思うことをすすめる。「早く寝たほうがいい」。ふつうそうなると予想する意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -34797,20 +34889,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の前に",
-   "alternatives": [],
+   "alternatives": [
+    "〜の前に",
+    "以前に"
+   ],
    "reading": "〜のまえに",
    "romanization": "~ no mae ni",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 970,
-   "description": "ある時より前。",
+   "description": "ある時より前。「食事の前に」。順番や位置が先にあることにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000078"
    ],
    "nativeExplain": {
-    "ja": "ある時より前。"
+    "ja": "ある時より前。「食事の前に」。順番や位置が先にあることにも使う。"
    }
   },
   {
@@ -35239,7 +35334,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "人生",
    "alternatives": [
-    "命"
+    "命",
+    "生活"
    ],
    "reading": "じんせい",
    "romanization": "jinsei",
@@ -35247,10 +35343,10 @@
    "study_tier": "cedo",
    "study_priority": 972,
    "user_hint": "",
-   "description": "生きている間のこと。生きていること。",
+   "description": "生きている間のこと。「人生は短い」。命や生活にも使う：「毎日の生活」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "生きている間のこと。生きていること。"
+    "ja": "生きている間のこと。「人生は短い」。命や生活にも使う：「毎日の生活」。"
    },
    "antonyms": []
   },
@@ -35385,7 +35481,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "世界",
-   "alternatives": [],
+   "alternatives": [
+    "世の中",
+    "地球"
+   ],
    "reading": "せかい",
    "romanization": "sekai",
    "classifications": [
@@ -35399,10 +35498,10 @@
    "study_tier": "cedo",
    "study_priority": 973,
    "user_hint": "",
-   "description": "地球と、そこにいるすべての人や場所。",
+   "description": "地球と、そこにいるすべての人や場所。「世界旅行」。ある分野の範囲にも使う：「音楽の世界」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "地球と、そこにいるすべての人や場所。"
+    "ja": "地球と、そこにいるすべての人や場所。「世界旅行」。ある分野の範囲にも使う：「音楽の世界」。"
    },
    "antonyms": []
   },
@@ -35422,21 +35521,24 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "下へ",
-   "alternatives": [],
+   "alternatives": [
+    "下へ",
+    "下がって"
+   ],
    "reading": "したへ",
    "romanization": "shita e",
    "speech": "したえ",
    "class_real": "noun + へ",
    "study_tier": "cedo",
    "study_priority": 974,
-   "description": "低いほうへ。",
+   "description": "低いほうへ向かう動き。「下へ行く」。減る、落ち着く、書き留める意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000042"
    ],
    "nativeExplain": {
-    "ja": "低いほうへ。"
+    "ja": "低いほうへ向かう動き。「下へ行く」。減る、落ち着く、書き留める意味にも使う。"
    }
   },
   {
@@ -35522,18 +35624,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜を通って",
-   "alternatives": [],
+   "alternatives": [
+    "〜を通って",
+    "〜を経て"
+   ],
    "reading": "〜をとおって",
    "romanization": "~ o tootte",
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 975,
-   "description": "ある場所や道を経由して別の所へ進むことを表す。",
+   "description": "ある場所や道を経由して進む。「トンネルを通って行く」。手段（「電話で」）や期間全体にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ある場所や道を経由して別の所へ進むことを表す。"
+    "ja": "ある場所や道を経由して進む。「トンネルを通って行く」。手段（「電話で」）や期間全体にも使う。"
    },
    "antonyms": []
   },
@@ -35654,18 +35759,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜している間",
-   "alternatives": [],
+   "alternatives": [
+    "〜している間",
+    "一方"
+   ],
    "reading": "〜しているあいだ",
    "romanization": "~ shite iru aida",
    "lexical_type": "construction",
    "class_real": "subordinating construction",
    "nativeExplain": {
     "pt-BR": "durante",
-    "ja": "ある間のこと。"
+    "ja": "ある間のこと。「勉強している間に」。対比（「一方で」）にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 977,
-   "description": "ある間のこと。",
+   "description": "ある間のこと。「勉強している間に」。対比（「一方で」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -36320,7 +36428,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "両方",
-   "alternatives": [],
+   "alternatives": [
+    "どちらも",
+    "両方の"
+   ],
    "reading": "りょうほう",
    "romanization": "ryouhou",
    "classifications": [
@@ -36334,11 +36445,11 @@
    "class_real": "noun/pronoun",
    "study_tier": "cedo",
    "study_priority": 980,
-   "description": "ふたつとも。",
+   "description": "ふたつとも。「両方好きだ」。「どちらも」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ふたつとも。"
+    "ja": "ふたつとも。「両方好きだ」。「どちらも」とも言う。"
    },
    "antonyms": []
   },
@@ -36659,17 +36770,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "部分",
-   "alternatives": [],
+   "alternatives": [
+    "一部",
+    "役"
+   ],
    "reading": "ぶぶん",
    "romanization": "bubun",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 982,
-   "description": "全体の中の一部。",
+   "description": "全体の中の一部。「体の部分」。役割（「演劇の役」）や機械の部品にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "全体の中の一部。"
+    "ja": "全体の中の一部。「体の部分」。役割（「演劇の役」）や機械の部品にも使う。"
    },
    "antonyms": []
   },
@@ -36762,17 +36876,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "周りに",
-   "alternatives": [],
+   "alternatives": [
+    "周りに",
+    "〜ごろ"
+   ],
    "reading": "まわりに",
    "romanization": "mawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
    "study_priority": 983,
-   "description": "何かを中心とした、その外側や近い所を示す。",
+   "description": "何かを中心とした、その外側や近い所を示す。「家の周りに」。おおよその数や時刻（「七時ごろ」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "何かを中心とした、その外側や近い所を示す。"
+    "ja": "何かを中心とした、その外側や近い所を示す。「家の周りに」。おおよその数や時刻（「七時ごろ」）にも使う。"
    },
    "antonyms": []
   },
@@ -36793,17 +36910,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の間に",
-   "alternatives": [],
+   "alternatives": [
+    "〜の間に",
+    "〜の間で"
+   ],
    "reading": "〜のあいだに",
    "romanization": "~ no aida ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "dois",
-    "ja": "ふたつの物のあいだ。"
+    "ja": "ふたつの物のあいだ。「駅と学校の間」。ふたりの関係や選択にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 984,
-   "description": "ふたつの物のあいだ。",
+   "description": "ふたつの物のあいだ。「駅と学校の間」。ふたりの関係や選択にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -37119,7 +37239,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "高い",
-   "alternatives": [],
+   "alternatives": [
+    "高い",
+    "高く"
+   ],
    "reading": "たかい",
    "romanization": "takai",
    "classifications": [
@@ -37165,12 +37288,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "distância do chão, posição",
-    "ja": "地面から遠く上にある。背が高い。"
+    "ja": "地面から遠く上にある、背が高い。「高い山」。値段や程度が大きい意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 985,
    "user_hint": "",
-   "description": "地面から遠く上にある。背が高い。",
+   "description": "地面から遠く上にある、背が高い。「高い山」。値段や程度が大きい意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000450"
@@ -37261,7 +37384,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "古い",
-   "alternatives": [],
+   "alternatives": [
+    "古い",
+    "年とった"
+   ],
    "reading": "ふるい",
    "romanization": "furui",
    "classifications": [
@@ -37308,14 +37434,14 @@
    "study_tier": "cedo",
    "study_priority": 986,
    "user_hint": "",
-   "description": "長い間生きている、または長い間ある。",
+   "description": "長い間ある、または長く生きている。「古い家」。年齢（「十歳」）にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000063",
     "en:000000351"
    ],
    "nativeExplain": {
-    "ja": "長い間生きている、または長い間ある。"
+    "ja": "長い間ある、または長く生きている。「古い家」。年齢（「十歳」）にも使う。"
    }
   },
   {
@@ -37370,18 +37496,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "もう一つの",
    "alternatives": [
-    "別の"
+    "別の",
+    "もう一つの"
    ],
    "reading": "もうひとつの",
    "romanization": "mou hitotsu no",
    "class_real": "adnominal phrase",
    "nativeExplain": {
     "pt-BR": "mais um",
-    "ja": "すでにあるものに、同じ種類のものを一つ加えるときに使う。"
+    "ja": "すでにあるものに、同じ種類のものを一つ加える。「もう一つ」。別のものを指す意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 988,
-   "description": "すでにあるものに、同じ種類のものを一つ加えるときに使う。",
+   "description": "すでにあるものに、同じ種類のものを一つ加える。「もう一つ」。別のものを指す意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -37438,17 +37565,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "自分の",
-   "alternatives": [],
+   "alternatives": [
+    "自分の",
+    "自身の"
+   ],
    "reading": "じぶんの",
    "romanization": "jibun no",
    "class_real": "pronoun + の",
    "study_tier": "cedo",
    "study_priority": 989,
    "user_hint": "",
-   "description": "自分に属する。「自分の部屋」のように使う。",
+   "description": "自分に属する。「自分の部屋」。「自分で」と強めることもできる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "自分に属する。「自分の部屋」のように使う。"
+    "ja": "自分に属する。「自分の部屋」。「自分で」と強めることもできる。"
    },
    "antonyms": []
   },
@@ -37469,17 +37599,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の下に",
-   "alternatives": [],
+   "alternatives": [
+    "〜の下に",
+    "〜未満の"
+   ],
    "reading": "〜のしたに",
    "romanization": "~ no shita ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "ja": "何かの下側。"
+    "ja": "何かの下側。「机の下に」。年齢や数が下回る意味（「十歳未満」）にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 990,
-   "description": "何かの下側。",
+   "description": "何かの下側。「机の下に」。年齢や数が下回る意味（「十歳未満」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -37500,17 +37633,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜の間に",
-   "alternatives": [],
+   "alternatives": [
+    "〜の間",
+    "〜中に"
+   ],
    "reading": "〜のあいだに",
    "romanization": "~ no aida ni",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 991,
-   "description": "ある期間の中で、何かが起きたり行われたりすることを表す。",
+   "description": "ある期間の中で何かが起きる。「夏のあいだ」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ある期間の中で、何かが起きたり行われたりすることを表す。"
+    "ja": "ある期間の中で何かが起きる。「夏のあいだ」。"
    },
    "antonyms": []
   },
@@ -37531,17 +37667,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ゲーム",
-   "alternatives": [],
+   "alternatives": [
+    "試合",
+    "遊び"
+   ],
    "reading": "ゲーム",
    "romanization": "geemu",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 992,
-   "description": "ルールがあって、楽しむために遊ぶこと。",
+   "description": "ルールがあって、楽しむために遊ぶこと。「ゲームをする」。試合（「次の試合」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ルールがあって、楽しむために遊ぶこと。"
+    "ja": "ルールがあって、楽しむために遊ぶこと。「ゲームをする」。試合（「次の試合」）にも使う。"
    },
    "antonyms": []
   },
@@ -37882,17 +38021,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "次の",
-   "alternatives": [],
+   "alternatives": [
+    "次の",
+    "今度の"
+   ],
    "reading": "つぎの",
    "romanization": "tsugi no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 993,
-   "description": "このあとに来る、すぐ次の。",
+   "description": "このあとに来る、すぐ次の。「次の駅」。順番の次の人や物を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "このあとに来る、すぐ次の。"
+    "ja": "このあとに来る、すぐ次の。「次の駅」。順番の次の人や物を指す。"
    },
    "antonyms": []
   },
@@ -37916,18 +38058,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "それぞれ",
    "alternatives": [
-    "各"
+    "各",
+    "めいめい"
    ],
    "reading": "それぞれ",
    "romanization": "sorezore",
    "class_real": "noun/adverb",
    "nativeExplain": {
     "pt-BR": "um por um, separadamente",
-    "ja": "ひとつひとつ、別々に。"
+    "ja": "ひとつひとつ、別々に。「それぞれの意見」。「各」とも言う。"
    },
    "study_tier": "cedo",
    "study_priority": 994,
-   "description": "ひとつひとつ、別々に。",
+   "description": "ひとつひとつ、別々に。「それぞれの意見」。「各」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -37944,6 +38087,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "〜さん",
    "alternatives": [
+    "さん",
     "氏"
    ],
    "reading": "〜さん",
@@ -37952,10 +38096,10 @@
    "study_tier": "cedo",
    "study_priority": 995,
    "user_hint": "",
-   "description": "男の人の名前のあとにつける呼び方。",
+   "description": "男の人の名前のあとにつける呼び方。「田中さん」。公式な場では「氏」や「様」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "男の人の名前のあとにつける呼び方。"
+    "ja": "男の人の名前のあとにつける呼び方。「田中さん」。公式な場では「氏」や「様」。"
    },
    "antonyms": []
   },
@@ -37976,18 +38120,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜なしで",
-   "alternatives": [],
+   "alternatives": [
+    "〜なしで",
+    "〜がなくて"
+   ],
    "reading": "〜なしで",
    "romanization": "~ nashi de",
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 996,
-   "description": "何かがない状態で。",
+   "description": "何かがない状態で。「砂糖なしで」。「〜なしに」「〜がなくて」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "何かがない状態で。"
+    "ja": "何かがない状態で。「砂糖なしで」。「〜なしに」「〜がなくて」。"
    },
    "antonyms": []
   },
@@ -38068,12 +38215,15 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "終わり",
-   "alternatives": [],
+   "alternatives": [
+    "最後",
+    "目的"
+   ],
    "reading": "おわり",
    "romanization": "owari",
    "study_tier": "cedo",
    "study_priority": 997,
-   "description": "物事のいちばん最後の部分。",
+   "description": "物事のいちばん最後の部分。「話の終わり」。目的（「目的のために」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -38081,7 +38231,7 @@
     "en:000001484"
    ],
    "nativeExplain": {
-    "ja": "物事のいちばん最後の部分。"
+    "ja": "物事のいちばん最後の部分。「話の終わり」。目的（「目的のために」）にも使う。"
    }
   },
   {
@@ -38137,18 +38287,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜しなければならない",
-   "alternatives": [],
+   "alternatives": [
+    "〜しなければならない",
+    "〜に違いない"
+   ],
    "reading": "〜しなければならない",
    "romanization": "~ shinakereba naranai",
    "lexical_type": "construction",
    "class_real": "obligation construction",
    "study_tier": "cedo",
    "study_priority": 998,
-   "description": "しなければいけない。",
+   "description": "しなければいけない。「行かなければならない」。確実だと思う意味（「きっと〜だ」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "しなければいけない。"
+    "ja": "しなければいけない。「行かなければならない」。確実だと思う意味（「きっと〜だ」）にも使う。"
    },
    "antonyms": []
   },
@@ -38364,7 +38517,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "感じる",
-   "alternatives": [],
+   "alternatives": [
+    "感じる",
+    "思う"
+   ],
    "reading": "かんじる",
    "romanization": "kanjiru",
    "classifications": [
@@ -38457,11 +38613,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 999,
-   "description": "気持ちや、ふれた感じを心や体で受けること。",
+   "description": "気持ちや、ふれた感じを心や体で受ける。「寒さを感じる」。意見を持つ意味（「〜と思う」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "気持ちや、ふれた感じを心や体で受けること。"
+    "ja": "気持ちや、ふれた感じを心や体で受ける。「寒さを感じる」。意見を持つ意味（「〜と思う」）にも使う。"
    },
    "antonyms": []
   },
@@ -38508,7 +38664,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "チーム",
-   "alternatives": [],
+   "alternatives": [
+    "グループ",
+    "班"
+   ],
    "reading": "チーム",
    "romanization": "chiimu",
    "classifications": [
@@ -38522,10 +38681,10 @@
    "study_tier": "cedo",
    "study_priority": 1000,
    "user_hint": "",
-   "description": "いっしょに競技や仕事をする人の集まり。",
+   "description": "いっしょに競技や仕事をする人の集まり。「チームで働く」。スポーツの団体にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "いっしょに競技や仕事をする人の集まり。"
+    "ja": "いっしょに競技や仕事をする人の集まり。「チームで働く」。スポーツの団体にも使う。"
    },
    "antonyms": []
   },
@@ -38545,17 +38704,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "今までに",
-   "alternatives": [],
+   "alternatives": [
+    "今までに",
+    "かつて"
+   ],
    "reading": "いままでに",
    "romanization": "ima made ni",
    "class_real": "adverbial phrase",
    "study_tier": "cedo",
    "study_priority": 1001,
-   "description": "今までのどこかの時に。",
+   "description": "今までのどこかの時に。「行ったことがある？」。強調の意味（「今までで一番」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "今までのどこかの時に。"
+    "ja": "今までのどこかの時に。「行ったことがある？」。強調の意味（「今までで一番」）にも使う。"
    },
    "antonyms": [
     "en:000000127"
@@ -38727,18 +38889,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜かもしれない",
-   "alternatives": [],
+   "alternatives": [
+    "〜かもしれない",
+    "〜だろう"
+   ],
    "reading": "〜かもしれない",
    "romanization": "~ kamoshirenai",
    "lexical_type": "construction",
    "class_real": "possibility construction",
    "study_tier": "cedo",
    "study_priority": 1003,
-   "description": "あることが起こる可能性はあるが、確かではないときに使う。",
+   "description": "あることが起こる可能性はあるが、確かではない。「雨が降るかもしれない」。ていねいな頼み方にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "あることが起こる可能性はあるが、確かではないときに使う。"
+    "ja": "あることが起こる可能性はあるが、確かではない。「雨が降るかもしれない」。ていねいな頼み方にも使う。"
    },
    "antonyms": []
   },
@@ -43525,7 +43690,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "季節",
-   "alternatives": [],
+   "alternatives": [
+    "時期",
+    "シーズン"
+   ],
    "reading": "きせつ",
    "romanization": "kisetsu",
    "classifications": [
@@ -43538,11 +43706,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1005,
-   "description": "春・夏・秋・冬のそれぞれ。",
+   "description": "春・夏・秋・冬のそれぞれ。「好きな季節」。スポーツなどの期間（「試合の時期」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "春・夏・秋・冬のそれぞれ。"
+    "ja": "春・夏・秋・冬のそれぞれ。「好きな季節」。スポーツなどの期間（「試合の時期」）にも使う。"
    },
    "antonyms": []
   },
@@ -43828,16 +43996,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "エリア",
-   "alternatives": [],
+   "alternatives": [
+    "地域",
+    "区域"
+   ],
    "reading": "エリア",
    "romanization": "eria",
    "study_tier": "cedo",
    "study_priority": 1006,
    "user_hint": "",
-   "description": "ある場所の一部分。",
+   "description": "ある場所の一部分。「このエリア」。専門の分野や面積にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある場所の一部分。"
+    "ja": "ある場所の一部分。「このエリア」。専門の分野や面積にも使う。"
    },
    "antonyms": []
   },
@@ -43921,17 +44092,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "次の",
-   "alternatives": [],
+   "alternatives": [
+    "次の",
+    "下記の"
+   ],
    "reading": "つぎの",
    "romanization": "tsugi no",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1007,
    "user_hint": "",
-   "description": "次に来る。「次の日」のように使う。",
+   "description": "次に来る。「次の日」。次に述べる内容も指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "次に来る。「次の日」のように使う。"
+    "ja": "次に来る。「次の日」。次に述べる内容も指す。"
    },
    "antonyms": []
   },
@@ -44006,7 +44180,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "戦争",
-   "alternatives": [],
+   "alternatives": [
+    "戦い",
+    "争い"
+   ],
    "reading": "せんそう",
    "romanization": "sensou",
    "classifications": [
@@ -44020,10 +44197,10 @@
    "study_tier": "cedo",
    "study_priority": 1008,
    "user_hint": "",
-   "description": "国と国との戦い。",
+   "description": "国と国との戦い。「戦争が起きる」。競争や、ひどい争いにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "国と国との戦い。"
+    "ja": "国と国との戦い。「戦争が起きる」。競争や、ひどい争いにも使う。"
    },
    "antonyms": [
     "en:000000992"
@@ -44046,18 +44223,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "全部の",
    "alternatives": [
-    "丸ごと"
+    "丸ごと",
+    "全体の"
    ],
    "reading": "ぜんぶの",
    "romanization": "zenbu no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "completo (comum)",
-    "ja": "欠けたところのない、全部。"
+    "ja": "欠けたところのない、全部。「一日じゅう」。「丸ごと」。"
    },
    "study_tier": "cedo",
    "study_priority": 1009,
-   "description": "欠けたところのない、全部。",
+   "description": "欠けたところのない、全部。「一日じゅう」。「丸ごと」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -44194,7 +44372,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "種類",
-   "alternatives": [],
+   "alternatives": [
+    "種類",
+    "タイプ"
+   ],
    "reading": "しゅるい",
    "romanization": "shurui",
    "classifications": [
@@ -44207,11 +44388,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "espécie (comum)",
-    "ja": "ものを分けたときのひとつのまとまり（「どんな音楽？」）。"
+    "ja": "ものを分けたときのひとつのまとまり。「どんな種類の音楽？」。「〜のような」と例える意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1010,
-   "description": "ものを分けたときのひとつのまとまり（「どんな音楽？」）。",
+   "description": "ものを分けたときのひとつのまとまり。「どんな種類の音楽？」。「〜のような」と例える意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -44329,17 +44510,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "話",
    "alternatives": [
-    "物語"
+    "物語",
+    "話"
    ],
    "reading": "はなし",
    "romanization": "hanashi",
    "nativeExplain": {
     "pt-BR": "narrativa",
-    "ja": "本当にあったことや作った出来事を語ったもの。"
+    "ja": "本当にあったことや作った出来事を語ったもの。「話をする」。うわさや新聞記事にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1011,
-   "description": "本当にあったことや作った出来事を語ったもの。",
+   "description": "本当にあったことや作った出来事を語ったもの。「話をする」。うわさや新聞記事にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -44361,7 +44543,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "コース",
    "alternatives": [
-    "講座"
+    "講座",
+    "コース料理"
    ],
    "reading": "コース",
    "romanization": "koosu",
@@ -44376,11 +44559,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1012,
-   "description": "あるテーマについて学ぶ、一連の授業。",
+   "description": "あるテーマについて学ぶ、一連の授業。「料理のコース」。道筋や食事の一皿にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "あるテーマについて学ぶ、一連の授業。"
+    "ja": "あるテーマについて学ぶ、一連の授業。「料理のコース」。道筋や食事の一皿にも使う。"
    },
    "antonyms": []
   },
@@ -44438,18 +44621,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "〜といいな",
    "alternatives": [
-    "望む"
+    "〜といいな",
+    "願う"
    ],
    "reading": "〜といいな",
    "romanization": "~ to ii na",
    "class_real": "godan verb",
    "nativeExplain": {
     "pt-BR": "desejar",
-    "ja": "望んでいることが実現してほしいという気持ちを表す言い方。"
+    "ja": "望んでいることが実現してほしいという気持ち。「晴れるといいな」。ていねいな言い方（「〜と思っています」）にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1013,
-   "description": "望んでいることが実現してほしいという気持ちを表す言い方。",
+   "description": "望んでいることが実現してほしいという気持ち。「晴れるといいな」。ていねいな言い方（「〜と思っています」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -44564,16 +44748,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ニュース",
-   "alternatives": [],
+   "alternatives": [
+    "知らせ",
+    "報道"
+   ],
    "reading": "ニュース",
    "romanization": "nyuusu",
    "study_tier": "cedo",
    "study_priority": 1014,
-   "description": "最近の出来事についての知らせ。",
+   "description": "最近の出来事についての知らせ。「ニュースを見る」。新しい情報全般にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "最近の出来事についての知らせ。"
+    "ja": "最近の出来事についての知らせ。「ニュースを見る」。新しい情報全般にも使う。"
    },
    "antonyms": []
   },
@@ -44593,18 +44780,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜以内に",
-   "alternatives": [],
+   "alternatives": [
+    "〜以内に",
+    "〜の中で"
+   ],
    "reading": "〜いないに",
    "romanization": "~ inai ni",
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
    "study_priority": 1015,
-   "description": "ある範囲や期間の中。",
+   "description": "ある範囲や期間の中。「一週間以内に」。距離にも使う：「五キロ以内」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ある範囲や期間の中。"
+    "ja": "ある範囲や期間の中。「一週間以内に」。距離にも使う：「五キロ以内」。"
    },
    "antonyms": []
   },
