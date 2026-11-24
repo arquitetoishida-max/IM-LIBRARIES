@@ -48263,13 +48263,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 505,
-   "description": "Needing rest or sleep.",
+   "description": "Needing rest or sleep: \"I am tired\". Also means bored with something: \"tired of waiting\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Needing rest or sleep."
+    "en": "Needing rest or sleep: \"I am tired\". Also means bored with something: \"tired of waiting\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "sleepy",
+    "exhausted"
+   ]
   },
   {
    "id": "en:000001988",
@@ -48317,13 +48321,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 507,
-   "description": "Feeling fear.",
+   "description": "Feeling fear: \"afraid of dogs\". Also used to soften bad news politely: \"I'm afraid I can't\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Feeling fear."
+    "en": "Feeling fear: \"afraid of dogs\". Also used to soften bad news politely: \"I'm afraid I can't\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "scared",
+    "frightened"
+   ]
   },
   {
    "id": "en:000001990",
@@ -48653,13 +48661,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 508,
-   "description": "A large area with many trees.",
+   "description": "A large area with many trees: \"walk in the forest\". Also means a large number of things standing close together.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A large area with many trees."
+    "en": "A large area with many trees: \"walk in the forest\". Also means a large number of things standing close together."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "woods",
+    "jungle"
+   ]
   },
   {
    "id": "en:000002006",
@@ -48829,13 +48841,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 510,
-   "description": "A very large sea.",
+   "description": "A very large sea: \"the Pacific Ocean\". Also means a huge amount of something.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A very large sea."
+    "en": "A very large sea: \"the Pacific Ocean\". Also means a huge amount of something."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "sea",
+    "deep"
+   ]
   },
   {
    "id": "en:000002013",
@@ -49034,13 +49050,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 511,
-   "description": "A seat with a back for one person.",
+   "description": "A seat with a back for one person: \"sit on a chair\". Also means the person leading a meeting: \"the chair\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A seat with a back for one person."
+    "en": "A seat with a back for one person: \"sit on a chair\". Also means the person leading a meeting: \"the chair\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "seat",
+    "stool"
+   ]
   },
   {
    "id": "en:000002031",
@@ -49098,14 +49118,18 @@
    "study_tier": "inicial",
    "study_priority": 512,
    "user_hint": "",
-   "description": "Costing a lot of money.",
+   "description": "Costing a lot of money: \"an expensive car\". Also describes something valuable or costly in effort.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001952"
    ],
    "nativeExplain": {
-    "en": "Costing a lot of money."
-   }
+    "en": "Costing a lot of money: \"an expensive car\". Also describes something valuable or costly in effort."
+   },
+   "alternatives": [
+    "costly",
+    "pricey"
+   ]
   },
   {
    "id": "en:000002034",
@@ -49221,11 +49245,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 513,
-   "description": "To push yourself up into the air.",
+   "description": "To push yourself up into the air: \"jump over a wall\". Also means to rise suddenly (\"prices jumped\") or to skip ahead.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To push yourself up into the air."
+    "en": "To push yourself up into the air: \"jump over a wall\". Also means to rise suddenly (\"prices jumped\") or to skip ahead."
    },
    "antonyms": [],
    "forms": [
@@ -49257,6 +49281,10 @@
      "text": "jumping",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "leap",
+    "hop"
    ]
   },
   {
@@ -49460,13 +49488,17 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 514,
-   "description": "Quickly and unexpectedly.",
+   "description": "Quickly and unexpectedly: \"suddenly the lights went out\". Also describes a sharp change with no warning.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Quickly and unexpectedly."
+    "en": "Quickly and unexpectedly: \"suddenly the lights went out\". Also describes a sharp change with no warning."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "all of a sudden",
+    "abruptly"
+   ]
   },
   {
    "id": "en:000002052",
@@ -49609,12 +49641,16 @@
    "study_tier": "inicial",
    "study_priority": 515,
    "user_hint": "",
-   "description": "The color of bananas.",
+   "description": "The color of bananas and the sun: \"a yellow shirt\". Also means afraid, in informal talk.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The color of bananas."
+    "en": "The color of bananas and the sun: \"a yellow shirt\". Also means afraid, in informal talk."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "golden",
+    "lemon"
+   ]
   },
   {
    "id": "en:000002060",
@@ -49805,13 +49841,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 516,
-   "description": "Messages sent through the internet.",
+   "description": "Messages sent through the internet: \"send an email\". Also means the system or account used for them.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Messages sent through the internet."
+    "en": "Messages sent through the internet: \"send an email\". Also means the system or account used for them."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "e-mail",
+    "mail"
+   ]
   },
   {
    "id": "en:000002070",
@@ -49950,15 +49990,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 517,
-   "description": "A woman or girl someone is dating.",
+   "description": "A woman or girl someone is dating: \"my girlfriend\". Also used for a female friend in informal talk.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002479"
    ],
    "nativeExplain": {
-    "en": "A woman or girl someone is dating."
-   }
+    "en": "A woman or girl someone is dating: \"my girlfriend\". Also used for a female friend in informal talk."
+   },
+   "alternatives": [
+    "partner",
+    "lady friend"
+   ]
   },
   {
    "id": "en:000002076",
@@ -49973,12 +50017,16 @@
    "study_tier": "inicial",
    "study_priority": 518,
    "user_hint": "",
-   "description": "A brave person admired for great acts.",
+   "description": "A brave person admired for great acts: \"a national hero\". Also means the main character of a story.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A brave person admired for great acts."
+    "en": "A brave person admired for great acts: \"a national hero\". Also means the main character of a story."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "champion",
+    "protagonist"
+   ]
   },
   {
    "id": "en:000002077",
@@ -50019,13 +50067,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 519,
-   "description": "Something said to make people laugh.",
+   "description": "Something said to make people laugh: \"tell a joke\". Also means something not serious: \"it's no joke\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Something said to make people laugh."
+    "en": "Something said to make people laugh: \"tell a joke\". Also means something not serious: \"it's no joke\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "gag",
+    "funny story"
+   ]
   },
   {
    "id": "en:000002080",
@@ -50084,13 +50136,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 521,
-   "description": "A place where you pay to eat meals.",
+   "description": "A place where you pay to eat meals: \"a Chinese restaurant\". Also means the business that runs it.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A place where you pay to eat meals."
+    "en": "A place where you pay to eat meals: \"a Chinese restaurant\". Also means the business that runs it."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "diner",
+    "eatery"
+   ]
   },
   {
    "id": "en:000002089",
@@ -50190,14 +50246,18 @@
    "study_tier": "inicial",
    "study_priority": 523,
    "user_hint": "",
-   "description": "Not hard.",
+   "description": "Not hard: \"a soft bed\". Also describes a gentle sound or light, or a kind person.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004172"
    ],
    "nativeExplain": {
-    "en": "Not hard."
-   }
+    "en": "Not hard: \"a soft bed\". Also describes a gentle sound or light, or a kind person."
+   },
+   "alternatives": [
+    "gentle",
+    "fluffy"
+   ]
   },
   {
    "id": "en:000002093",
@@ -50884,14 +50944,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "en": "Something done wrong."
+    "en": "Something done wrong: \"a spelling mistake\". Also means a wrong idea or choice: \"a big mistake\"."
    },
    "study_tier": "inicial",
    "study_priority": 525,
-   "description": "Something done wrong.",
+   "description": "Something done wrong: \"a spelling mistake\". Also means a wrong idea or choice: \"a big mistake\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "error",
+    "fault"
+   ]
   },
   {
    "id": "en:000002129",
@@ -50978,13 +51042,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 526,
-   "description": "A place filled with water for swimming.",
+   "description": "A place filled with water for swimming: \"a swimming pool\". Also means a game played on a table, or a shared fund.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A place filled with water for swimming."
+    "en": "A place filled with water for swimming: \"a swimming pool\". Also means a game played on a table, or a shared fund."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "swimming pool",
+    "pond"
+   ]
   },
   {
    "id": "en:000002134",
@@ -51388,14 +51456,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "com raiva (geral)",
-    "en": "Feeling strong displeasure."
+    "en": "Feeling strong displeasure: \"angry at someone\". Also describes a sore wound or a stormy sea."
    },
    "study_tier": "inicial",
    "study_priority": 528,
-   "description": "Feeling strong displeasure.",
+   "description": "Feeling strong displeasure: \"angry at someone\". Also describes a sore wound or a stormy sea.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "mad",
+    "furious"
+   ]
   },
   {
    "id": "en:000002155",
@@ -51436,13 +51508,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 529,
-   "description": "Pleasant to sit in or wear; relaxed.",
+   "description": "Pleasant to sit in or wear: \"a comfortable chair\". Also means relaxed and at ease: \"I feel comfortable\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Pleasant to sit in or wear; relaxed."
+    "en": "Pleasant to sit in or wear: \"a comfortable chair\". Also means relaxed and at ease: \"I feel comfortable\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "cozy",
+    "relaxed"
+   ]
   },
   {
    "id": "en:000002157",
@@ -51597,12 +51673,16 @@
    "study_tier": "inicial",
    "study_priority": 531,
    "user_hint": "",
-   "description": "An empty space or opening.",
+   "description": "An empty space or opening: \"a hole in the wall\". Also means a gap in a plan or a small, bad place.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "An empty space or opening."
+    "en": "An empty space or opening: \"a hole in the wall\". Also means a gap in a plan or a small, bad place."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "gap",
+    "pit"
+   ]
   },
   {
    "id": "en:000002169",
@@ -51830,13 +51910,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 534,
-   "description": "The meal in the middle of the day.",
+   "description": "The meal in the middle of the day: \"eat lunch\". Also means the time when you eat it.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The meal in the middle of the day."
+    "en": "The meal in the middle of the day: \"eat lunch\". Also means the time when you eat it."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "midday meal"
+   ]
   },
   {
    "id": "en:000002184",
@@ -52190,14 +52273,18 @@
    "study_tier": "inicial",
    "study_priority": 538,
    "user_hint": "",
-   "description": "Not strong.",
+   "description": "Not strong: \"a weak man\". Also means thin or faint: \"weak coffee\", \"a weak signal\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000593"
    ],
    "nativeExplain": {
-    "en": "Not strong."
-   }
+    "en": "Not strong: \"a weak man\". Also means thin or faint: \"weak coffee\", \"a weak signal\"."
+   },
+   "alternatives": [
+    "feeble",
+    "frail"
+   ]
   },
   {
    "id": "en:000002201",
@@ -52216,13 +52303,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 539,
-   "description": "A person who acts in films or plays.",
+   "description": "A person who acts in films or plays: \"a film actor\". Also means someone who does something in a role.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A person who acts in films or plays."
+    "en": "A person who acts in films or plays: \"a film actor\". Also means someone who does something in a role."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "performer",
+    "player"
+   ]
   },
   {
    "id": "en:000002202",
@@ -52406,11 +52497,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 541,
-   "description": "To make food by heating.",
+   "description": "To make food by heating: \"cook dinner\". Also means to prepare meals in general: \"I cook every day\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make food by heating."
+    "en": "To make food by heating: \"cook dinner\". Also means to prepare meals in general: \"I cook every day\"."
    },
    "antonyms": [],
    "forms": [
@@ -52442,6 +52533,10 @@
      "text": "cooking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "prepare",
+    "make"
    ]
   },
   {
@@ -52457,12 +52552,16 @@
    "study_tier": "inicial",
    "study_priority": 542,
    "user_hint": "",
-   "description": "Pretty and lovable.",
+   "description": "Pretty and lovable: \"a cute puppy\". Also describes a charming or clever act.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Pretty and lovable."
+    "en": "Pretty and lovable: \"a cute puppy\". Also describes a charming or clever act."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "adorable",
+    "sweet"
+   ]
   },
   {
    "id": "en:000002211",
@@ -52615,13 +52714,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 543,
-   "description": "The room where food is cooked.",
+   "description": "The room where food is cooked: \"in the kitchen\". Also means the style of cooking: \"Italian kitchen\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The room where food is cooked."
+    "en": "The room where food is cooked: \"in the kitchen\". Also means the style of cooking: \"Italian kitchen\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "cookroom",
+    "galley"
+   ]
   },
   {
    "id": "en:000002221",
@@ -52782,15 +52885,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 544,
-   "description": "With little noise.",
+   "description": "With little noise: \"a quiet street\". Also describes a calm or shy person, or a slow period.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002799"
    ],
    "nativeExplain": {
-    "en": "With little noise."
-   }
+    "en": "With little noise: \"a quiet street\". Also describes a calm or shy person, or a slow period."
+   },
+   "alternatives": [
+    "silent",
+    "still"
+   ]
   },
   {
    "id": "en:000002229",
@@ -52967,11 +53074,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 545,
-   "description": "The number 20.",
+   "description": "The number 20. Also used for age and amounts: \"twenty dollars\", \"twenty years old\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 20."
+    "en": "The number 20. Also used for age and amounts: \"twenty dollars\", \"twenty years old\"."
    },
    "antonyms": []
   },
@@ -53890,11 +53997,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 547,
-   "description": "To make a happy face.",
+   "description": "To make a happy face: \"smile at me\". Also shows kindness or approval in expression.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make a happy face."
+    "en": "To make a happy face: \"smile at me\". Also shows kindness or approval in expression."
    },
    "antonyms": [],
    "forms": [
@@ -53926,6 +54033,10 @@
      "text": "smiling",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "grin",
+    "beam"
    ]
   },
   {
@@ -53945,14 +54056,18 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 548,
-   "description": "Unusual; not familiar.",
+   "description": "Unusual: \"a strange noise\". Also means not familiar: \"a strange place\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Unusual; not familiar."
+    "en": "Unusual: \"a strange noise\". Also means not familiar: \"a strange place\"."
    },
    "antonyms": [
     "en:000002403"
+   ],
+   "alternatives": [
+    "odd",
+    "unfamiliar"
    ]
   },
   {
@@ -54019,11 +54134,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 549,
-   "description": "The number 1,000.",
+   "description": "The number 1,000. Also used for a large number: \"thousands of people\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 1,000."
+    "en": "The number 1,000. Also used for a large number: \"thousands of people\"."
    },
    "antonyms": []
   },
@@ -54064,13 +54179,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 550,
-   "description": "A large vehicle for carrying goods.",
+   "description": "A large vehicle for carrying goods: \"a delivery truck\". Also called a lorry in some varieties of English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A large vehicle for carrying goods."
+    "en": "A large vehicle for carrying goods: \"a delivery truck\". Also called a lorry in some varieties of English."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "lorry",
+    "pickup"
+   ]
   },
   {
    "id": "en:000002287",
@@ -54238,13 +54357,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 552,
-   "description": "A round deep dish.",
+   "description": "A round deep dish: \"a bowl of soup\". Also means the food it holds.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A round deep dish."
+    "en": "A round deep dish: \"a bowl of soup\". Also means the food it holds."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dish",
+    "basin"
+   ]
   },
   {
    "id": "en:000002295",
@@ -54541,15 +54664,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "não verdadeiro",
-    "en": "Not true."
+    "en": "Not true: \"a false answer\". Also means fake or not real: \"false teeth\"."
    },
    "study_tier": "inicial",
    "study_priority": 553,
    "user_hint": "",
-   "description": "Not true.",
+   "description": "Not true: \"a false answer\". Also means fake or not real: \"false teeth\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000379"
+   ],
+   "alternatives": [
+    "untrue",
+    "fake"
    ]
   },
   {
@@ -54615,14 +54742,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "difícil de acreditar",
-    "en": "Amazing; hard to believe."
+    "en": "Amazing: \"an incredible view\". Also means hard to believe: \"an incredible story\"."
    },
    "study_tier": "inicial",
    "study_priority": 554,
    "user_hint": "",
-   "description": "Amazing; hard to believe.",
+   "description": "Amazing: \"an incredible view\". Also means hard to believe: \"an incredible story\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "amazing",
+    "unbelievable"
+   ]
   },
   {
    "id": "en:000002313",
@@ -54683,13 +54814,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 555,
-   "description": "Animal flesh eaten as food.",
+   "description": "Animal flesh eaten as food: \"cook meat\". Also means the main part of an idea: \"the meat of the story\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Animal flesh eaten as food."
+    "en": "Animal flesh eaten as food: \"cook meat\". Also means the main part of an idea: \"the meat of the story\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "flesh",
+    "beef"
+   ]
   },
   {
    "id": "en:000002317",
@@ -54749,13 +54884,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 556,
-   "description": "The part between head and shoulders.",
+   "description": "The part between head and shoulders: \"a long neck\". Also means a narrow part, like the neck of a bottle.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The part between head and shoulders."
+    "en": "The part between head and shoulders: \"a long neck\". Also means a narrow part, like the neck of a bottle."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "throat",
+    "nape"
+   ]
   },
   {
    "id": "en:000002320",
@@ -54928,13 +55067,17 @@
    "study_tier": "inicial",
    "study_priority": 558,
    "user_hint": "",
-   "description": "Not fast.",
+   "description": "Not fast: \"walk slowly\". Also means little by little: \"slowly but surely\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not fast."
+    "en": "Not fast: \"walk slowly\". Also means little by little: \"slowly but surely\"."
    },
    "antonyms": [
     "en:000001060"
+   ],
+   "alternatives": [
+    "gradually",
+    "unhurriedly"
    ]
   },
   {
@@ -54999,11 +55142,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 559,
-   "description": "The day after Monday.",
+   "description": "The second or third day of the week, after Monday. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The day after Monday."
+    "en": "The second or third day of the week, after Monday. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -55072,11 +55215,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 561,
-   "description": "The number 0.",
+   "description": "The number 0. Also means none: \"zero risk\", or the starting point on a scale.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 0."
+    "en": "The number 0. Also means none: \"zero risk\", or the starting point on a scale."
    },
    "antonyms": []
   },
@@ -55093,12 +55236,16 @@
    "study_tier": "inicial",
    "study_priority": 562,
    "user_hint": "",
-   "description": "The winner of a competition.",
+   "description": "The winner of a competition: \"a world champion\". Also means someone who strongly supports a cause.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The winner of a competition."
+    "en": "The winner of a competition: \"a world champion\". Also means someone who strongly supports a cause."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "winner",
+    "title holder"
+   ]
   },
   {
    "id": "en:000002344",
@@ -55654,11 +55801,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 564,
-   "description": "The day after Wednesday.",
+   "description": "The fourth or fifth day of the week, after Wednesday. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The day after Wednesday."
+    "en": "The fourth or fifth day of the week, after Wednesday. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -55675,12 +55822,16 @@
    "study_tier": "inicial",
    "study_priority": 565,
    "user_hint": "",
-   "description": "Very small.",
+   "description": "Very small: \"a tiny ant\". Also means very little in amount: \"a tiny difference\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Very small."
+    "en": "Very small: \"a tiny ant\". Also means very little in amount: \"a tiny difference\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "minute",
+    "little"
+   ]
   },
   {
    "id": "en:000002375",
@@ -55884,13 +56035,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 567,
-   "description": "The first meal of the day.",
+   "description": "The first meal of the day: \"eat breakfast\". Also means the time or the set of food for it.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The first meal of the day."
+    "en": "The first meal of the day: \"eat breakfast\". Also means the time or the set of food for it."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "morning meal"
+   ]
   },
   {
    "id": "en:000002388",
@@ -55904,14 +56058,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "cheio de luz",
-    "en": "Full of light."
+    "en": "Full of light: \"a bright room\". Also means intense in color or clever: \"a bright idea\"."
    },
    "study_tier": "inicial",
    "study_priority": 568,
    "user_hint": "",
-   "description": "Full of light.",
+   "description": "Full of light: \"a bright room\". Also means intense in color or clever: \"a bright idea\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "shining",
+    "vivid"
+   ]
   },
   {
    "id": "en:000002390",
@@ -56027,14 +56185,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "de loja",
-    "en": "A person who buys in a shop."
+    "en": "A person who buys in a shop: \"a regular customer\". Also means anyone who pays for a service."
    },
    "study_tier": "inicial",
    "study_priority": 569,
-   "description": "A person who buys in a shop.",
+   "description": "A person who buys in a shop: \"a regular customer\". Also means anyone who pays for a service.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "client",
+    "buyer"
+   ]
   },
   {
    "id": "en:000002397",
@@ -56674,12 +56836,16 @@
    "study_tier": "inicial",
    "study_priority": 571,
    "user_hint": "",
-   "description": "The part a bird uses to fly.",
+   "description": "The part a bird uses to fly: \"a bird's wing\". Also means a side part of a building or a team position.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The part a bird uses to fly."
+    "en": "The part a bird uses to fly: \"a bird's wing\". Also means a side part of a building or a team position."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "pinion",
+    "flank"
+   ]
   },
   {
    "id": "en:000002436",
@@ -57005,12 +57171,16 @@
    "study_tier": "inicial",
    "study_priority": 572,
    "user_hint": "",
-   "description": "Printed pages of news.",
+   "description": "Printed pages of news: \"read the newspaper\". Also means the company that makes them.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Printed pages of news."
+    "en": "Printed pages of news: \"read the newspaper\". Also means the company that makes them."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "paper",
+    "daily"
+   ]
   },
   {
    "id": "en:000002455",
@@ -57450,12 +57620,16 @@
    "study_tier": "inicial",
    "study_priority": 575,
    "user_hint": "",
-   "description": "A metal object that rings.",
+   "description": "A metal object that rings: \"a church bell\". Also means a door or school signal: \"the bell rang\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A metal object that rings."
+    "en": "A metal object that rings: \"a church bell\". Also means a door or school signal: \"the bell rang\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "chime",
+    "gong"
+   ]
   },
   {
    "id": "en:000002477",
@@ -57544,15 +57718,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 576,
-   "description": "A man or boy someone is dating.",
+   "description": "A man or boy someone is dating: \"my boyfriend\". Also used for a male friend in informal talk.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002075"
    ],
    "nativeExplain": {
-    "en": "A man or boy someone is dating."
-   }
+    "en": "A man or boy someone is dating: \"my boyfriend\". Also used for a male friend in informal talk."
+   },
+   "alternatives": [
+    "partner",
+    "male friend"
+   ]
   },
   {
    "id": "en:000002480",
@@ -57656,14 +57834,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 578,
-   "description": "To have tears coming from your eyes.",
+   "description": "To have tears coming from your eyes: \"cry with sadness\". Also means to shout loudly: \"cry for help\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002176"
    ],
    "nativeExplain": {
-    "en": "To have tears coming from your eyes."
+    "en": "To have tears coming from your eyes: \"cry with sadness\". Also means to shout loudly: \"cry for help\"."
    },
    "forms": [
     {
@@ -57694,6 +57872,10 @@
      "text": "crying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "weep",
+    "sob"
    ]
   },
   {
@@ -57709,13 +57891,17 @@
    "study_tier": "inicial",
    "study_priority": 579,
    "user_hint": "",
-   "description": "The chance of being hurt.",
+   "description": "The chance of being hurt: \"in danger\". Also means something that can cause harm.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The chance of being hurt."
+    "en": "The chance of being hurt: \"in danger\". Also means something that can cause harm."
    },
    "antonyms": [
     "en:000001113"
+   ],
+   "alternatives": [
+    "risk",
+    "threat"
    ]
   },
   {
@@ -57808,12 +57994,16 @@
    "study_tier": "inicial",
    "study_priority": 580,
    "user_hint": "",
-   "description": "Money of the USA and other countries.",
+   "description": "Money of the USA and other countries: \"ten dollars\". Also used as a sign of cost or wealth.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Money of the USA and other countries."
+    "en": "Money of the USA and other countries: \"ten dollars\". Also used as a sign of cost or wealth."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "buck",
+    "US currency"
+   ]
   },
   {
    "id": "en:000002494",
@@ -57832,15 +58022,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 581,
-   "description": "With nothing inside.",
+   "description": "With nothing inside: \"an empty box\". Also means without people (\"an empty street\") or without meaning.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000252"
    ],
    "nativeExplain": {
-    "en": "With nothing inside."
-   }
+    "en": "With nothing inside: \"an empty box\". Also means without people (\"an empty street\") or without meaning."
+   },
+   "alternatives": [
+    "vacant",
+    "blank"
+   ]
   },
   {
    "id": "en:000002495",
@@ -58338,11 +58532,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 582,
-   "description": "The day after Tuesday.",
+   "description": "The third or fourth day of the week, after Tuesday. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The day after Tuesday."
+    "en": "The third or fourth day of the week, after Tuesday. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -58716,10 +58910,10 @@
    "study_tier": "inicial",
    "study_priority": 587,
    "user_hint": "",
-   "description": "To touch with your lips to show love.",
+   "description": "To touch with your lips to show love: \"kiss the baby\". Also means a gentle touch of an object.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To touch with your lips to show love."
+    "en": "To touch with your lips to show love: \"kiss the baby\". Also means a gentle touch of an object."
    },
    "antonyms": [],
    "forms": [
@@ -58751,6 +58945,10 @@
      "text": "kissing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "peck",
+    "smooch"
    ]
   },
   {
@@ -59454,13 +59652,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 590,
-   "description": "A food made from milk.",
+   "description": "A food made from milk: \"cheese and bread\". Also means a type of this food: \"cheddar cheese\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A food made from milk."
+    "en": "A food made from milk: \"cheese and bread\". Also means a type of this food: \"cheddar cheese\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dairy food"
+   ]
   },
   {
    "id": "en:000002579",
@@ -59753,12 +59954,16 @@
    "study_tier": "inicial",
    "study_priority": 592,
    "user_hint": "",
-   "description": "A dirty or untidy state.",
+   "description": "A dirty or untidy state: \"your room is a mess\". Also means a difficult situation or a military meal room.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A dirty or untidy state."
+    "en": "A dirty or untidy state: \"your room is a mess\". Also means a difficult situation or a military meal room."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "clutter",
+    "disorder"
+   ]
   },
   {
    "id": "en:000002593",
@@ -59873,14 +60078,18 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 593,
-   "description": "A mother or father.",
+   "description": "A mother or father: \"my parents\". Also means a person who raises a child.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A mother or father."
+    "en": "A mother or father: \"my parents\". Also means a person who raises a child."
    },
    "antonyms": [
     "en:000000481"
+   ],
+   "alternatives": [
+    "mother or father",
+    "guardian"
    ]
   },
   {
@@ -59960,11 +60169,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 594,
-   "description": "To like one thing more than another.",
+   "description": "To like one thing more than another: \"I prefer tea\". Also means to choose something first.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To like one thing more than another."
+    "en": "To like one thing more than another: \"I prefer tea\". Also means to choose something first."
    },
    "antonyms": [],
    "forms": [
@@ -59996,6 +60205,10 @@
      "text": "prefering",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "favor",
+    "choose"
    ]
   },
   {
@@ -60230,15 +60443,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 595,
-   "description": "Fitting very closely.",
+   "description": "Fitting very closely: \"tight shoes\". Also means firmly fixed (\"a tight knot\"), strict, or short of money: \"tight budget\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003140"
    ],
    "nativeExplain": {
-    "en": "Fitting very closely."
-   }
+    "en": "Fitting very closely: \"tight shoes\". Also means firmly fixed (\"a tight knot\"), strict, or short of money: \"tight budget\"."
+   },
+   "alternatives": [
+    "snug",
+    "firm"
+   ]
   },
   {
    "id": "en:000002611",
@@ -60545,12 +60762,16 @@
    "study_tier": "inicial",
    "study_priority": 598,
    "user_hint": "",
-   "description": "A gold ring worn on a king's head.",
+   "description": "A gold ring worn on a king's head: \"a royal crown\". Also means the top of something, or the monarchy.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A gold ring worn on a king's head."
+    "en": "A gold ring worn on a king's head: \"a royal crown\". Also means the top of something, or the monarchy."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "tiara",
+    "top"
+   ]
   },
   {
    "id": "en:000002629",
@@ -61332,10 +61553,10 @@
    "study_tier": "inicial",
    "study_priority": 599,
    "user_hint": "",
-   "description": "A thing used to do work (hammer, saw).",
+   "description": "A thing used to do work: \"a tool box\". Also means a program or method that helps: \"a useful tool\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A thing used to do work (hammer, saw)."
+    "en": "A thing used to do work: \"a tool box\". Also means a program or method that helps: \"a useful tool\"."
    },
    "antonyms": [],
    "forms": [
@@ -61347,6 +61568,10 @@
      "study_tier": "standard",
      "description_en": "The plural of tool."
     }
+   ],
+   "alternatives": [
+    "instrument",
+    "device"
    ]
   },
   {
@@ -61666,12 +61891,16 @@
    "study_tier": "inicial",
    "study_priority": 600,
    "user_hint": "",
-   "description": "A round shape.",
+   "description": "A round shape: \"draw a circle\". Also means a group of people: \"a circle of friends\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A round shape."
+    "en": "A round shape: \"draw a circle\". Also means a group of people: \"a circle of friends\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "ring",
+    "loop"
+   ]
   },
   {
    "id": "en:000002680",
@@ -61894,15 +62123,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 601,
-   "description": "Not clean.",
+   "description": "Not clean: \"dirty clothes\". Also means rude or unfair: \"a dirty trick\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001101"
    ],
    "nativeExplain": {
-    "en": "Not clean."
-   }
+    "en": "Not clean: \"dirty clothes\". Also means rude or unfair: \"a dirty trick\"."
+   },
+   "alternatives": [
+    "filthy",
+    "soiled"
+   ]
   },
   {
    "id": "en:000002688",
@@ -62136,12 +62369,16 @@
    "study_tier": "inicial",
    "study_priority": 602,
    "user_hint": "",
-   "description": "Great happiness.",
+   "description": "Great happiness: \"cry with joy\". Also means something that brings delight.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Great happiness."
+    "en": "Great happiness: \"cry with joy\". Also means something that brings delight."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "delight",
+    "happiness"
+   ]
   },
   {
    "id": "en:000002699",
@@ -62264,12 +62501,16 @@
    "study_tier": "inicial",
    "study_priority": 603,
    "user_hint": "",
-   "description": "A loud or unpleasant sound.",
+   "description": "A loud or unpleasant sound: \"too much noise\". Also means unwanted signals or confusion.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A loud or unpleasant sound."
+    "en": "A loud or unpleasant sound: \"too much noise\". Also means unwanted signals or confusion."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "racket",
+    "din"
+   ]
   },
   {
    "id": "en:000002706",
@@ -62349,13 +62590,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 604,
-   "description": "A flat dish for food.",
+   "description": "A flat dish for food: \"a dinner plate\". Also means a thin flat piece of metal or a sign: \"a license plate\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A flat dish for food."
+    "en": "A flat dish for food: \"a dinner plate\". Also means a thin flat piece of metal or a sign: \"a license plate\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dish",
+    "platter"
+   ]
   },
   {
    "id": "en:000002712",
@@ -62370,10 +62615,10 @@
    "study_tier": "inicial",
    "study_priority": 605,
    "user_hint": "",
-   "description": "To get ready.",
+   "description": "To get ready: \"prepare dinner\". Also means to train or plan: \"prepare for an exam\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To get ready."
+    "en": "To get ready: \"prepare dinner\". Also means to train or plan: \"prepare for an exam\"."
    },
    "antonyms": [],
    "forms": [
@@ -62405,6 +62650,10 @@
      "text": "preparing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "get ready",
+    "arrange"
    ]
   },
   {
@@ -62516,13 +62765,16 @@
    "level_status": "editorial-approximate",
    "study_tier": "inicial",
    "study_priority": 606,
-   "description": "Small white grains, cooked as food.",
+   "description": "Small white grains, cooked as food: \"rice and beans\". Also means the plant that produces them.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Small white grains, cooked as food."
+    "en": "Small white grains, cooked as food: \"rice and beans\". Also means the plant that produces them."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "grain"
+   ]
   },
   {
    "id": "en:000002719",
@@ -62542,13 +62794,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 607,
-   "description": "The top cover of a building.",
+   "description": "The top cover of a building: \"a red roof\". Also means the upper part of something: \"the roof of the mouth\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The top cover of a building."
+    "en": "The top cover of a building: \"a red roof\". Also means the upper part of something: \"the roof of the mouth\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "top",
+    "ceiling"
+   ]
   },
   {
    "id": "en:000002720",
@@ -62849,13 +63105,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 610,
-   "description": "Quiet and not worried.",
+   "description": "Quiet and not worried: \"a calm sea\". Also describes a person who stays peaceful.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Quiet and not worried."
+    "en": "Quiet and not worried: \"a calm sea\". Also describes a person who stays peaceful."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "peaceful",
+    "serene"
+   ]
   },
   {
    "id": "en:000002737",
@@ -63112,14 +63372,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 611,
-   "description": "To put out of sight.",
+   "description": "To put out of sight: \"hide a gift\". Also means to keep a fact or feeling secret.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000191"
    ],
    "nativeExplain": {
-    "en": "To put out of sight."
+    "en": "To put out of sight: \"hide a gift\". Also means to keep a fact or feeling secret."
    },
    "forms": [
     {
@@ -63150,6 +63410,10 @@
      "text": "hiding",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "conceal",
+    "cover"
    ]
   },
   {
@@ -63508,11 +63772,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 613,
-   "description": "To make music with your voice.",
+   "description": "To make music with your voice: \"sing a song\". Also means to make musical sounds like a bird.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make music with your voice."
+    "en": "To make music with your voice: \"sing a song\". Also means to make musical sounds like a bird."
    },
    "antonyms": [],
    "forms": [
@@ -63544,6 +63808,10 @@
      "text": "singing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "chant",
+    "croon"
    ]
   },
   {
@@ -63586,15 +63854,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 614,
-   "description": "Covered with water.",
+   "description": "Covered with water: \"wet hair\". Also means rainy (\"wet weather\") or not yet dry: \"wet paint\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001820"
    ],
    "nativeExplain": {
-    "en": "Covered with water."
-   }
+    "en": "Covered with water: \"wet hair\". Also means rainy (\"wet weather\") or not yet dry: \"wet paint\"."
+   },
+   "alternatives": [
+    "damp",
+    "soaked"
+   ]
   },
   {
    "id": "en:000002773",
@@ -63694,14 +63966,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "forma curta, informal",
-    "en": "A bicycle."
+    "en": "A bicycle, informal: \"ride a bike\". Also short for a motorcycle."
    },
    "study_tier": "inicial",
    "study_priority": 615,
-   "description": "A bicycle.",
+   "description": "A bicycle, informal: \"ride a bike\". Also short for a motorcycle.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "bicycle",
+    "cycle"
+   ]
   },
   {
    "id": "en:000002779",
@@ -63741,11 +64017,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 616,
-   "description": "To be damaged by fire or high heat.",
+   "description": "To be damaged by fire or high heat: \"the toast burned\". Also means to be on fire or to feel strong emotion.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To be damaged by fire or high heat."
+    "en": "To be damaged by fire or high heat: \"the toast burned\". Also means to be on fire or to feel strong emotion."
    },
    "antonyms": [],
    "forms": [
@@ -63777,6 +64053,10 @@
      "text": "burning",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "scorch",
+    "char"
    ]
   },
   {
@@ -64020,13 +64300,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 619,
-   "description": "How tall something is.",
+   "description": "How tall something is: \"the height of a tree\". Also means the top point: \"the height of summer\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "How tall something is."
+    "en": "How tall something is: \"the height of a tree\". Also means the top point: \"the height of summer\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "tallness",
+    "altitude"
+   ]
   },
   {
    "id": "en:000002795",
@@ -64086,15 +64370,19 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 620,
-   "description": "Making a lot of noise.",
+   "description": "Making a lot of noise: \"loud music\". Also describes bright colors or a person who speaks forcefully.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002228"
    ],
    "nativeExplain": {
-    "en": "Making a lot of noise."
-   }
+    "en": "Making a lot of noise: \"loud music\". Also describes bright colors or a person who speaks forcefully."
+   },
+   "alternatives": [
+    "noisy",
+    "booming"
+   ]
   },
   {
    "id": "en:000002801",
@@ -64304,12 +64592,16 @@
    "study_tier": "inicial",
    "study_priority": 621,
    "user_hint": "",
-   "description": "Not cooked.",
+   "description": "Not cooked: \"raw fish\". Also means in a natural state (\"raw data\") or sore: \"raw skin\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not cooked."
+    "en": "Not cooked: \"raw fish\". Also means in a natural state (\"raw data\") or sore: \"raw skin\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "uncooked",
+    "crude"
+   ]
   },
   {
    "id": "en:000002812",
@@ -65133,12 +65425,16 @@
    "study_tier": "inicial",
    "study_priority": 624,
    "user_hint": "",
-   "description": "A person who flies an airplane.",
+   "description": "A person who flies an airplane: \"an airline pilot\". Also means a person who guides a ship, or a test version: \"a pilot project\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A person who flies an airplane."
+    "en": "A person who flies an airplane: \"an airline pilot\". Also means a person who guides a ship, or a test version: \"a pilot project\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "aviator",
+    "captain"
+   ]
   },
   {
    "id": "en:000002862",
@@ -65153,12 +65449,16 @@
    "study_tier": "inicial",
    "study_priority": 625,
    "user_hint": "",
-   "description": "A light red color.",
+   "description": "A light red color: \"a pink dress\". Also describes healthy skin or a pink flower.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A light red color."
+    "en": "A light red color: \"a pink dress\". Also describes healthy skin or a pink flower."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "rosy",
+    "rose"
+   ]
   },
   {
    "id": "en:000002863",
@@ -65379,12 +65679,16 @@
    "study_tier": "inicial",
    "study_priority": 626,
    "user_hint": "",
-   "description": "A person who sings.",
+   "description": "A person who sings: \"an opera singer\". Also means a professional vocal performer.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A person who sings."
+    "en": "A person who sings: \"an opera singer\". Also means a professional vocal performer."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "vocalist",
+    "performer"
+   ]
   },
   {
    "id": "en:000002874",
@@ -65549,15 +65853,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "estatura de pessoas/coisas",
-    "en": "High; of more than normal height."
+    "en": "Of more than normal height: \"a tall building\". Also means a claim that is hard to believe: \"a tall tale\"."
    },
    "study_tier": "inicial",
    "study_priority": 627,
    "user_hint": "",
-   "description": "High; of more than normal height.",
+   "description": "Of more than normal height: \"a tall building\". Also means a claim that is hard to believe: \"a tall tale\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000454"
+   ],
+   "alternatives": [
+    "high",
+    "lofty"
    ]
   },
   {
@@ -66127,13 +66435,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 629,
-   "description": "The part of the face you smell with.",
+   "description": "The part of the face you smell with: \"a long nose\". Also means a sense of smell or a front tip, like a plane's nose.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The part of the face you smell with."
+    "en": "The part of the face you smell with: \"a long nose\". Also means a sense of smell or a front tip, like a plane's nose."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "snout",
+    "sniffer"
+   ]
   },
   {
    "id": "en:000002915",
@@ -66597,13 +66909,17 @@
    "level_status": "editorial-approximate",
    "study_tier": "inicial",
    "study_priority": 632,
-   "description": "A baked food made from flour.",
+   "description": "A baked food made from flour: \"a slice of bread\". Also used informally for money.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A baked food made from flour."
+    "en": "A baked food made from flour: \"a slice of bread\". Also used informally for money."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "loaf",
+    "slice"
+   ]
   },
   {
    "id": "en:000002939",
@@ -66713,13 +67029,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 633,
-   "description": "Moving to music.",
+   "description": "Moving to music: \"learn dancing\". Also means the art or sport of dance.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Moving to music."
+    "en": "Moving to music: \"learn dancing\". Also means the art or sport of dance."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "dance",
+    "ballroom"
+   ]
   },
   {
    "id": "en:000002944",
@@ -67474,13 +67794,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 634,
-   "description": "The part between the neck and the arm.",
+   "description": "The part between the neck and the arm: \"hurt my shoulder\". Also means the side of a road: \"the road shoulder\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The part between the neck and the arm."
+    "en": "The part between the neck and the arm: \"hurt my shoulder\". Also means the side of a road: \"the road shoulder\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "upper arm joint"
+   ]
   },
   {
    "id": "en:000002983",
@@ -67526,13 +67849,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 636,
-   "description": "A tall narrow building.",
+   "description": "A tall narrow building: \"a clock tower\". Also means a tall structure for signals or defense.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A tall narrow building."
+    "en": "A tall narrow building: \"a clock tower\". Also means a tall structure for signals or defense."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "spire",
+    "turret"
+   ]
   },
   {
    "id": "en:000002989",
@@ -69143,12 +69470,16 @@
    "study_tier": "inicial",
    "study_priority": 638,
    "user_hint": "",
-   "description": "A sweet fizzy drink.",
+   "description": "A sweet fizzy drink: \"a can of soda\". Also the water with bubbles: \"soda water\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A sweet fizzy drink."
+    "en": "A sweet fizzy drink: \"a can of soda\". Also the water with bubbles: \"soda water\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "pop",
+    "soft drink"
+   ]
   },
   {
    "id": "en:000003027",
@@ -69459,13 +69790,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 639,
-   "description": "A bag carried on your back.",
+   "description": "A bag carried on your back: \"a school backpack\". Also used for travel or hiking.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A bag carried on your back."
+    "en": "A bag carried on your back: \"a school backpack\". Also used for travel or hiking."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "rucksack",
+    "bag"
+   ]
   },
   {
    "id": "en:000003093",
@@ -69715,14 +70050,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "forma completa",
-    "en": "A two-wheeled vehicle with pedals."
+    "en": "A two-wheeled vehicle with pedals: \"ride a bicycle\". Also used as a sport or exercise machine."
    },
    "study_tier": "inicial",
    "study_priority": 640,
-   "description": "A two-wheeled vehicle with pedals.",
+   "description": "A two-wheeled vehicle with pedals: \"ride a bicycle\". Also used as a sport or exercise machine.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "bike",
+    "cycle"
+   ]
   },
   {
    "id": "en:000003102",
@@ -69801,13 +70140,17 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 641,
-   "description": "A small furry animal with a long tail.",
+   "description": "A small furry animal with a long tail: \"a mouse in the house\". Also means a computer device used to point and click.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A small furry animal with a long tail."
+    "en": "A small furry animal with a long tail: \"a mouse in the house\". Also means a computer device used to point and click."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "rodent",
+    "pointer"
+   ]
   },
   {
    "id": "en:000003105",
@@ -69858,13 +70201,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 642,
-   "description": "An outdoor place for children to play.",
+   "description": "An outdoor place for children to play: \"go to the playground\". Also means a place for any activity.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An outdoor place for children to play."
+    "en": "An outdoor place for children to play: \"go to the playground\". Also means a place for any activity."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "play area",
+    "park"
+   ]
   },
   {
    "id": "en:000003107",
@@ -70024,13 +70371,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 643,
-   "description": "A shop that makes and sells bread.",
+   "description": "A shop that makes and sells bread: \"go to the bakery\". Also sells cakes and pastries.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A shop that makes and sells bread."
+    "en": "A shop that makes and sells bread: \"go to the bakery\". Also sells cakes and pastries."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "bread shop"
+   ]
   },
   {
    "id": "en:000003113",
@@ -70051,13 +70401,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 644,
-   "description": "A container made of woven material.",
+   "description": "A container made of woven material: \"a fruit basket\". Also means a group of items or a hoop in basketball.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A container made of woven material."
+    "en": "A container made of woven material: \"a fruit basket\". Also means a group of items or a hoop in basketball."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "hamper",
+    "crate"
+   ]
   },
   {
    "id": "en:000003114",
@@ -70078,13 +70432,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 645,
-   "description": "A large warm cover for a bed.",
+   "description": "A large warm cover for a bed: \"a wool blanket\". Also means a thick cover of something: \"a blanket of snow\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A large warm cover for a bed."
+    "en": "A large warm cover for a bed: \"a wool blanket\". Also means a thick cover of something: \"a blanket of snow\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "cover",
+    "quilt"
+   ]
   },
   {
    "id": "en:000003115",
@@ -70187,13 +70545,17 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 646,
-   "description": "A movie theater.",
+   "description": "A movie theater: \"go to the cinema\". Also means the art or industry of film.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A movie theater."
+    "en": "A movie theater: \"go to the cinema\". Also means the art or industry of film."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "movie theater",
+    "films"
+   ]
   },
   {
    "id": "en:000003119",
@@ -70214,13 +70576,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 647,
-   "description": "A white or gray mass in the sky.",
+   "description": "A white or gray mass in the sky: \"a dark cloud\". Also means online storage: \"save to the cloud\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A white or gray mass in the sky."
+    "en": "A white or gray mass in the sky: \"a dark cloud\". Also means online storage: \"save to the cloud\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "mist",
+    "haze"
+   ]
   },
   {
    "id": "en:000003120",
@@ -70294,11 +70660,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 648,
-   "description": "An oval food laid by chickens.",
+   "description": "An oval food laid by chickens: \"fry an egg\". Also means a cell from which a young animal develops.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An oval food laid by chickens."
+    "en": "An oval food laid by chickens: \"fry an egg\". Also means a cell from which a young animal develops."
    },
    "antonyms": [],
    "forms": [
@@ -70310,6 +70676,9 @@
      "study_tier": "standard",
      "description_en": "The plural of egg."
     }
+   ],
+   "alternatives": [
+    "hen's egg"
    ]
   },
   {
@@ -70331,15 +70700,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 649,
-   "description": "The way out.",
+   "description": "The way out: \"the exit door\". Also means the act of leaving: \"make an exit\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000004182"
    ],
    "nativeExplain": {
-    "en": "The way out."
-   }
+    "en": "The way out: \"the exit door\". Also means the act of leaving: \"make an exit\"."
+   },
+   "alternatives": [
+    "way out",
+    "departure"
+   ]
   },
   {
    "id": "en:000003124",
@@ -70422,13 +70795,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 651,
-   "description": "A refrigerator.",
+   "description": "A refrigerator, informal: \"put the milk in the fridge\". Used for the cold kitchen appliance.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A refrigerator."
+    "en": "A refrigerator, informal: \"put the milk in the fridge\". Used for the cold kitchen appliance."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "refrigerator",
+    "icebox"
+   ]
   },
   {
    "id": "en:000003127",
@@ -70475,13 +70852,17 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 652,
-   "description": "Trash.",
+   "description": "Trash: \"take out the garbage\". Also means something worthless: \"that movie was garbage\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Trash."
+    "en": "Trash: \"take out the garbage\". Also means something worthless: \"that movie was garbage\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "trash",
+    "rubbish"
+   ]
   },
   {
    "id": "en:000003129",
@@ -70609,13 +70990,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 653,
-   "description": "School work to do at home.",
+   "description": "School work to do at home: \"do your homework\". Also means any preparation done beforehand: \"do your homework first\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "School work to do at home."
+    "en": "School work to do at home: \"do your homework\". Also means any preparation done beforehand: \"do your homework first\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "assignment",
+    "schoolwork"
+   ]
   },
   {
    "id": "en:000003134",
@@ -70690,13 +71075,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 654,
-   "description": "Liquid from fruit.",
+   "description": "Liquid from fruit: \"orange juice\". Also means liquid from meat, or energy: \"electric juice\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Liquid from fruit."
+    "en": "Liquid from fruit: \"orange juice\". Also means liquid from meat, or energy: \"electric juice\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "fruit drink",
+    "nectar"
+   ]
   },
   {
    "id": "en:000003137",
@@ -71018,13 +71407,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 656,
-   "description": "A shop that sells medicine.",
+   "description": "A shop that sells medicine: \"go to the pharmacy\". Also means the science of preparing drugs.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A shop that sells medicine."
+    "en": "A shop that sells medicine: \"go to the pharmacy\". Also means the science of preparing drugs."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "drugstore",
+    "chemist"
+   ]
   },
   {
    "id": "en:000003148",
@@ -71148,13 +71541,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 659,
-   "description": "What you use with water to wash.",
+   "description": "What you use with water to wash: \"a bar of soap\". Also means a TV drama: \"a soap opera\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "What you use with water to wash."
+    "en": "What you use with water to wash: \"a bar of soap\". Also means a TV drama: \"a soap opera\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "cleanser",
+    "bar soap"
+   ]
   },
   {
    "id": "en:000003153",
@@ -71392,13 +71789,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 663,
-   "description": "A plant eaten as food, like carrots.",
+   "description": "A plant eaten as food, like carrots: \"eat vegetables\". Also means a person who is not active, informal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A plant eaten as food, like carrots."
+    "en": "A plant eaten as food, like carrots: \"eat vegetables\". Also means a person who is not active, informal."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "veggie",
+    "greens"
+   ]
   },
   {
    "id": "en:000003161",
@@ -71419,11 +71820,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 664,
-   "description": "To clean with water.",
+   "description": "To clean with water: \"wash your hands\". Also means to clean clothes or dishes, or to flow over: \"waves wash the shore\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To clean with water."
+    "en": "To clean with water: \"wash your hands\". Also means to clean clothes or dishes, or to flow over: \"waves wash the shore\"."
    },
    "antonyms": [],
    "forms": [
@@ -71455,6 +71856,10 @@
      "text": "washing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "clean",
+    "rinse"
    ]
   },
   {
@@ -71537,14 +71942,17 @@
    "part_of_speech": "pron",
    "nativeExplain": {
     "pt-BR": "sozinho (é dela)",
-    "en": "Belonging to her."
+    "en": "Belonging to her: \"the book is hers\". Also used without a noun: \"his car and hers\"."
    },
    "study_tier": "inicial",
    "study_priority": 665,
-   "description": "Belonging to her.",
+   "description": "Belonging to her: \"the book is hers\". Also used without a noun: \"his car and hers\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "belonging to her"
+   ]
   },
   {
    "id": "en:000003168",
@@ -71719,14 +72127,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "forma completa",
-    "en": "A vehicle with wings that flies."
+    "en": "A vehicle with wings that flies: \"travel by airplane\". Also called a plane or aircraft."
    },
    "study_tier": "inicial",
    "study_priority": 666,
-   "description": "A vehicle with wings that flies.",
+   "description": "A vehicle with wings that flies: \"travel by airplane\". Also called a plane or aircraft.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "plane",
+    "aircraft"
+   ]
   },
   {
    "id": "en:000003175",
@@ -72121,13 +72533,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 667,
-   "description": "The stomach area (informal).",
+   "description": "The stomach area, informal: \"a full belly\". Also means the underside or middle part of something.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The stomach area (informal)."
+    "en": "The stomach area, informal: \"a full belly\". Also means the underside or middle part of something."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "stomach",
+    "tummy"
+   ]
   },
   {
    "id": "en:000003189",
@@ -72147,13 +72563,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 668,
-   "description": "A strip worn around the waist.",
+   "description": "A strip worn around the waist: \"a leather belt\". Also means a band or region: \"the green belt\", or a rank in martial arts.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A strip worn around the waist."
+    "en": "A strip worn around the waist: \"a leather belt\". Also means a band or region: \"the green belt\", or a rank in martial arts."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "strap",
+    "band"
+   ]
   },
   {
    "id": "en:000003190",
@@ -72312,13 +72732,17 @@
    "study_tier": "inicial",
    "study_priority": 671,
    "user_hint": "",
-   "description": "Not heavy: \"a light bag\".",
+   "description": "Not heavy: \"a light bag\". Also means not dark (\"light blue\"), not strong (\"light rain\") or gentle.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not heavy: \"a light bag\"."
+    "en": "Not heavy: \"a light bag\". Also means not dark (\"light blue\"), not strong (\"light rain\") or gentle."
    },
    "antonyms": [
     "en:000001136"
+   ],
+   "alternatives": [
+    "lightweight",
+    "pale"
    ]
   },
   {
@@ -75613,17 +76037,19 @@
    "kind": "word",
    "description_en": "A long curved fruit with yellow skin.",
    "text": "banana",
-   "alternatives": [],
+   "alternatives": [
+    "fruit"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 675,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A long curved fruit with yellow skin.",
+   "description": "A long curved fruit with yellow skin: \"peel a banana\". Also describes the color or the shape.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A long curved fruit with yellow skin."
+    "en": "A long curved fruit with yellow skin: \"peel a banana\". Also describes the color or the shape."
    },
    "level": "A1",
    "antonyms": []
@@ -75635,17 +76061,20 @@
    "kind": "word",
    "description_en": "A room used for sleeping.",
    "text": "bedroom",
-   "alternatives": [],
+   "alternatives": [
+    "sleeping room",
+    "chamber"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 676,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A room used for sleeping.",
+   "description": "A room used for sleeping: \"the master bedroom\". Also means a personal space to rest.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A room used for sleeping."
+    "en": "A room used for sleeping: \"the master bedroom\". Also means a personal space to rest."
    },
    "level": "A1",
    "antonyms": []
@@ -75679,17 +76108,19 @@
    "kind": "expression",
    "description_en": "A small car made as a toy.",
    "text": "toy car",
-   "alternatives": [],
+   "alternatives": [
+    "model car"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 678,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A small car made as a toy.",
+   "description": "A small car made as a toy: \"play with a toy car\". Also used for a model car.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A small car made as a toy."
+    "en": "A small car made as a toy: \"play with a toy car\". Also used for a model car."
    },
    "level": "A1",
    "antonyms": []
@@ -75745,17 +76176,19 @@
    "kind": "word",
    "description_en": "The part of the body used for hearing.",
    "text": "ear",
-   "alternatives": [],
+   "alternatives": [
+    "hearing organ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 681,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "The part of the body used for hearing.",
+   "description": "The part of the body used for hearing: \"my left ear\". Also means a good sense of sound: \"an ear for music\", and the head of corn.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The part of the body used for hearing."
+    "en": "The part of the body used for hearing: \"my left ear\". Also means a good sense of sound: \"an ear for music\", and the head of corn."
    },
    "level": "A1",
    "antonyms": []
@@ -75799,17 +76232,20 @@
    "kind": "word",
    "description_en": "Feeling that you want to sleep.",
    "text": "sleepy",
-   "alternatives": [],
+   "alternatives": [
+    "drowsy",
+    "tired"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 683,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Feeling that you want to sleep.",
+   "description": "Feeling that you want to sleep: \"I am sleepy\". Also describes a quiet, slow place: \"a sleepy town\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Feeling that you want to sleep."
+    "en": "Feeling that you want to sleep: \"I am sleepy\". Also describes a quiet, slow place: \"a sleepy town\"."
    },
    "level": "A1",
    "antonyms": []
@@ -75821,17 +76257,20 @@
    "kind": "word",
    "description_en": "Feeling that you need to eat.",
    "text": "hungry",
-   "alternatives": [],
+   "alternatives": [
+    "starving",
+    "famished"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 684,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Feeling that you need to eat.",
+   "description": "Feeling that you need to eat: \"I am hungry\". Also means wanting something strongly: \"hungry for success\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Feeling that you need to eat."
+    "en": "Feeling that you need to eat: \"I am hungry\". Also means wanting something strongly: \"hungry for success\"."
    },
    "level": "A1",
    "antonyms": []
@@ -75843,17 +76282,20 @@
    "kind": "word",
    "description_en": "Feeling that you need to drink.",
    "text": "thirsty",
-   "alternatives": [],
+   "alternatives": [
+    "parched",
+    "dry"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 685,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Feeling that you need to drink.",
+   "description": "Feeling that you need to drink: \"I am thirsty\". Also means wanting something strongly: \"thirsty for knowledge\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Feeling that you need to drink."
+    "en": "Feeling that you need to drink: \"I am thirsty\". Also means wanting something strongly: \"thirsty for knowledge\"."
    },
    "level": "A1",
    "antonyms": []
@@ -75939,17 +76381,20 @@
    "kind": "expression",
    "description_en": "To remove a piece of clothing.",
    "text": "take off",
-   "alternatives": [],
+   "alternatives": [
+    "remove",
+    "undress"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 688,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To remove a piece of clothing.",
+   "description": "To remove clothing: \"take off your coat\". Also means to leave the ground (\"the plane took off\") or to become popular.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To remove a piece of clothing."
+    "en": "To remove clothing: \"take off your coat\". Also means to leave the ground (\"the plane took off\") or to become popular."
    },
    "level": "A1",
    "antonyms": [],
@@ -75991,17 +76436,20 @@
    "kind": "word",
    "description_en": "Goodbye (informal).",
    "text": "bye",
-   "alternatives": [],
+   "alternatives": [
+    "goodbye",
+    "see you"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 689,
    "part_of_speech": "exp",
    "user_hint": "",
-   "description": "Goodbye (informal).",
+   "description": "Goodbye, informal: \"bye, see you!\". Used among friends and family.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Goodbye (informal)."
+    "en": "Goodbye, informal: \"bye, see you!\". Used among friends and family."
    },
    "level": "A1",
    "antonyms": []
@@ -76013,17 +76461,20 @@
    "kind": "word",
    "description_en": "A sweet food made of sugar.",
    "text": "candy",
-   "alternatives": [],
+   "alternatives": [
+    "sweet",
+    "sweets"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 690,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A sweet food made of sugar.",
+   "description": "A sweet food made of sugar: \"a piece of candy\". Also used for any small sweet.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A sweet food made of sugar."
+    "en": "A sweet food made of sugar: \"a piece of candy\". Also used for any small sweet."
    },
    "level": "A1",
    "antonyms": []
@@ -76177,17 +76628,20 @@
    "kind": "expression",
    "description_en": "A soft toy bear.",
    "text": "teddy bear",
-   "alternatives": [],
+   "alternatives": [
+    "stuffed bear",
+    "plush bear"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 696,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A soft toy bear.",
+   "description": "A soft toy bear: \"hug a teddy bear\". Also loved by children as a comfort object.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A soft toy bear."
+    "en": "A soft toy bear: \"hug a teddy bear\". Also loved by children as a comfort object."
    },
    "level": "A1",
    "antonyms": []
@@ -76199,17 +76653,20 @@
    "kind": "expression",
    "description_en": "A small toy block used to build things.",
    "text": "building block",
-   "alternatives": [],
+   "alternatives": [
+    "block",
+    "brick"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 697,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "A small toy block used to build things.",
+   "description": "A small toy block used to build things: \"play with building blocks\". Also means a basic part of something bigger.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A small toy block used to build things."
+    "en": "A small toy block used to build things: \"play with building blocks\". Also means a basic part of something bigger."
    },
    "level": "A1",
    "antonyms": []
@@ -76221,17 +76678,20 @@
    "kind": "word",
    "description_en": "To run after someone to catch them.",
    "text": "chase",
-   "alternatives": [],
+   "alternatives": [
+    "pursue",
+    "run after"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 698,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To run after someone to catch them.",
+   "description": "To run after someone to catch them: \"chase a thief\". Also means to pursue a goal or a person with intent.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To run after someone to catch them."
+    "en": "To run after someone to catch them: \"chase a thief\". Also means to pursue a goal or a person with intent."
    },
    "level": "A1",
    "antonyms": [],
