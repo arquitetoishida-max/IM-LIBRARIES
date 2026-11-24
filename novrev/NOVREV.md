@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2320 foram percorridas. Retomar na posição 2321, `en:000003653` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2410 foram percorridas. Retomar na posição 2411, `en:000003855` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -229,6 +229,11 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 - 90 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2231–2320). Texto preservado quase todo; em *dive*, o chinês ganhou 跳水 como alternativa para o salto de cabeça. Fica para decisão: `en:000003562` *makeup* e `en:000004061` descrevem o mesmo cosmético.
 - A Kanji Study foi consultada para 潜. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 2321–2410
+
+- 90 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2321–2410). Todos os quatro textos e descrições estavam corretos e no sentido ensinado; nenhuma alteração. Fica para decisão: `en:000003793` *savings* e `en:000002518` descrevem o mesmo conceito de dinheiro guardado.
+- Sem dúvida de sentido, não foi necessário consultar a Kanji Study. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
