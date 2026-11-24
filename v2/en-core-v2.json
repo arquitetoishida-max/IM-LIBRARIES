@@ -204,14 +204,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "finalidade, benefício",
-    "en": "Intended for or benefiting someone or something."
+    "en": "Shows who gets something or why: \"a gift for you\". Also shows purpose (\"for sale\") and length of time: \"for two hours\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 915,
-   "description": "Intended for or benefiting someone or something.",
+   "description": "Shows who gets something or why: \"a gift for you\". Also shows purpose (\"for sale\") and length of time: \"for two hours\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "on behalf of",
+    "to benefit"
+   ]
   },
   {
    "id": "en:000000008",
@@ -289,13 +293,16 @@
    "part_of_speech": "pron",
    "study_tier": "expansão estruturante",
    "study_priority": 916,
-   "description": "Refers to an animal, object or situation already identified. English also uses it as an empty subject in statements about weather or time.",
+   "description": "Refers to a thing or animal already mentioned: \"I like it\". Also used for weather and time: \"it is raining\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Refers to an animal, object or situation already identified. English also uses it as an empty subject in statements about weather or time."
+    "en": "Refers to a thing or animal already mentioned: \"I like it\". Also used for weather and time: \"it is raining\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "that thing"
+   ]
   },
   {
    "id": "en:000000011",
@@ -314,14 +321,18 @@
    "part_of_speech": "prep",
    "study_tier": "expansão estruturante",
    "study_priority": 917,
-   "description": "Touching the top surface of something (\"on the table\").",
+   "description": "Touching the top surface of something: \"on the table\". Also shows a day (\"on Monday\"), a topic or a device being used: \"on the phone\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Touching the top surface of something (\"on the table\")."
+    "en": "Touching the top surface of something: \"on the table\". Also shows a day (\"on Monday\"), a topic or a device being used: \"on the phone\"."
    },
    "antonyms": [
     "en:000000120"
+   ],
+   "alternatives": [
+    "upon",
+    "atop"
    ]
   },
   {
@@ -342,13 +353,17 @@
    "part_of_speech": "prep",
    "study_tier": "expansão estruturante",
    "study_priority": 918,
-   "description": "In the company of someone or together with something.",
+   "description": "Together with someone: \"go with a friend\". Also shows a tool (\"cut with a knife\") or a feature: \"a house with a garden\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "In the company of someone or together with something."
+    "en": "Together with someone: \"go with a friend\". Also shows a tool (\"cut with a knife\") or a feature: \"a house with a garden\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "alongside",
+    "using"
+   ]
   },
   {
    "id": "en:000000013",
@@ -517,14 +532,18 @@
    "part_of_speech": "conj",
    "nativeExplain": {
     "pt-BR": "modo ou comparação",
-    "en": "In the manner indicated, or in comparison with something else."
+    "en": "Used for comparison: \"as tall as me\". Also means in the role of (\"as a teacher\") or while: \"as I walked\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 919,
-   "description": "In the manner indicated, or in comparison with something else.",
+   "description": "Used for comparison: \"as tall as me\". Also means in the role of (\"as a teacher\") or while: \"as I walked\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "like",
+    "while"
+   ]
   },
   {
    "id": "en:000000017",
@@ -722,12 +741,16 @@
    "study_tier": "expansão estruturante",
    "study_priority": 921,
    "user_hint": "",
-   "description": "Shows who or what does something: \"written by\".",
+   "description": "Shows who does an action: \"written by her\". Also means next to (\"by the door\") or not later than: \"by Friday\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Shows who or what does something: \"written by\"."
+    "en": "Shows who does an action: \"written by her\". Also means next to (\"by the door\") or not later than: \"by Friday\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "beside",
+    "through"
+   ]
   },
   {
    "id": "en:000000023",
@@ -772,14 +795,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "origem, procedência",
-    "en": "Shows where something starts or comes from."
+    "en": "Shows where something starts: \"from Rome\". Also shows a start time (\"from nine\"), a material or a reason."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 922,
-   "description": "Shows where something starts or comes from.",
+   "description": "Shows where something starts: \"from Rome\". Also shows a start time (\"from nine\"), a material or a reason.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "out of",
+    "starting at"
+   ]
   },
   {
    "id": "en:000000025",
@@ -911,13 +938,17 @@
    "part_of_speech": "det",
    "study_tier": "expansão estruturante",
    "study_priority": 925,
-   "description": "Every person or thing in a group, or the whole amount.",
+   "description": "Every one or the whole of something: \"all the students\". Also means completely: \"all alone\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Every person or thing in a group, or the whole amount."
+    "en": "Every one or the whole of something: \"all the students\". Also means completely: \"all alone\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "every",
+    "whole"
+   ]
   },
   {
    "id": "en:000000031",
@@ -938,13 +969,17 @@
    "part_of_speech": "adv",
    "study_tier": "expansão estruturante",
    "study_priority": 926,
-   "description": "To this or that degree, as in “so tired”.",
+   "description": "To a high degree: \"so tired\". Also means therefore (\"so we left\") and shows agreement: \"so do I\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To this or that degree, as in “so tired”."
+    "en": "To a high degree: \"so tired\". Also means therefore (\"so we left\") and shows agreement: \"so do I\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "very",
+    "therefore"
+   ]
   },
   {
    "id": "en:000000032",
@@ -1155,14 +1190,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "apenas",
-    "en": "Only or merely, as in “just water”."
+    "en": "Only or simply: \"just water\". Also means a moment ago (\"I just ate\"), exactly, or fair: \"a just law\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 930,
-   "description": "Only or merely, as in “just water”.",
+   "description": "Only or simply: \"just water\". Also means a moment ago (\"I just ate\"), exactly, or fair: \"a just law\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "only",
+    "simply"
+   ]
   },
   {
    "id": "en:000000040",
@@ -1238,14 +1277,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "assunto",
-    "en": "On the subject of (\"a book about cats\")."
+    "en": "On the subject of: \"a book about cats\". Also means approximately: \"about ten people\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 931,
-   "description": "On the subject of (\"a book about cats\").",
+   "description": "On the subject of: \"a book about cats\". Also means approximately: \"about ten people\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "regarding",
+    "around"
+   ]
   },
   {
    "id": "en:000000042",
@@ -1266,15 +1309,19 @@
    "part_of_speech": "adv",
    "study_tier": "expansão estruturante",
    "study_priority": 932,
-   "description": "Toward a higher place.",
+   "description": "Toward a higher place: \"look up\". Also shows increase or completion: \"prices go up\", \"eat it up\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000132"
    ],
    "nativeExplain": {
-    "en": "Toward a higher place."
-   }
+    "en": "Toward a higher place: \"look up\". Also shows increase or completion: \"prices go up\", \"eat it up\"."
+   },
+   "alternatives": [
+    "upward",
+    "higher"
+   ]
   },
   {
    "id": "en:000000043",
@@ -1295,13 +1342,17 @@
    "part_of_speech": "adv",
    "study_tier": "expansão estruturante",
    "study_priority": 933,
-   "description": "Moving or looking from inside toward the outside.",
+   "description": "Moving from inside to outside: \"go out\". Also means not at home (\"he is out\") or finished: \"time is out\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Moving or looking from inside toward the outside."
+    "en": "Moving from inside to outside: \"go out\". Also means not at home (\"he is out\") or finished: \"time is out\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "outside",
+    "away"
+   ]
   },
   {
    "id": "en:000000044",
@@ -1770,13 +1821,17 @@
    "part_of_speech": "pron",
    "study_tier": "expansão estruturante",
    "study_priority": 936,
-   "description": "Asks someone to choose among known or available options.",
+   "description": "Asks about one among several: \"which one do you want?\". Also joins a clause: \"the book which I read\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Asks someone to choose among known or available options."
+    "en": "Asks about one among several: \"which one do you want?\". Also joins a clause: \"the book which I read\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "what one",
+    "that"
+   ]
   },
   {
    "id": "en:000000058",
@@ -1823,11 +1878,11 @@
    "class_real": "verb",
    "study_tier": "expansão estruturante",
    "study_priority": 937,
-   "description": "To obtain or receive something, as in “get a ticket”.",
+   "description": "To obtain something: \"get a prize\". Also means to become (\"get tired\"), to understand (\"I get it\") or to arrive.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To obtain or receive something, as in “get a ticket”."
+    "en": "To obtain something: \"get a prize\". Also means to become (\"get tired\"), to understand (\"I get it\") or to arrive."
    },
    "antonyms": [],
    "forms": [
@@ -1860,6 +1915,10 @@
      "text": "getting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "obtain",
+    "become"
    ]
   },
   {
@@ -1963,14 +2022,18 @@
    "study_tier": "expansão estruturante",
    "study_priority": 939,
    "user_hint": "",
-   "description": "Recently made or bought; not old.",
+   "description": "Recently made or bought: \"a new phone\". Also means different or unfamiliar: \"a new idea\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000166"
    ],
    "nativeExplain": {
-    "en": "Recently made or bought; not old."
-   }
+    "en": "Recently made or bought: \"a new phone\". Also means different or unfamiliar: \"a new idea\"."
+   },
+   "alternatives": [
+    "recent",
+    "fresh"
+   ]
   },
   {
    "id": "en:000000064",
@@ -2102,13 +2165,17 @@
    "part_of_speech": "det",
    "study_tier": "expansão estruturante",
    "study_priority": 941,
-   "description": "An unspecified quantity or number of people or things.",
+   "description": "An unspecified amount: \"some water\". Also means certain people or things: \"some people agree\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An unspecified quantity or number of people or things."
+    "en": "An unspecified amount: \"some water\". Also means certain people or things: \"some people agree\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "a few",
+    "several"
+   ]
   },
   {
    "id": "en:000000068",
@@ -2128,14 +2195,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "en": "In addition; too."
+    "en": "In addition: \"I also went\". Also joins two ideas as a connector."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 942,
-   "description": "In addition; too.",
+   "description": "In addition: \"I also went\". Also joins two ideas as a connector.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "too",
+    "as well"
+   ]
   },
   {
    "id": "en:000000069",
@@ -2211,14 +2282,18 @@
    "part_of_speech": "det",
    "nativeExplain": {
     "pt-BR": "diferente do citado",
-    "en": "Different from the one already mentioned."
+    "en": "Different from the one already named: \"the other day\". Also means the remaining one: \"the other side\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 944,
-   "description": "Different from the one already mentioned.",
+   "description": "Different from the one already named: \"the other day\". Also means the remaining one: \"the other side\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "different",
+    "another"
+   ]
   },
   {
    "id": "en:000000072",
@@ -2335,13 +2410,16 @@
    "part_of_speech": "conj",
    "study_tier": "expansão estruturante",
    "study_priority": 947,
-   "description": "Used in comparisons (\"taller than me\").",
+   "description": "Used in comparisons: \"taller than me\". Also appears after \"rather\" or \"other\": \"other than you\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Used in comparisons (\"taller than me\")."
+    "en": "Used in comparisons: \"taller than me\". Also appears after \"rather\" or \"other\": \"other than you\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "compared to"
+   ]
   },
   {
    "id": "en:000000076",
@@ -2393,14 +2471,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "nada mais",
-    "en": "And nothing else; just."
+    "en": "And nothing else: \"only one\". Also means just now (\"only yesterday\") or best of its kind: \"the only choice\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 948,
-   "description": "And nothing else; just.",
+   "description": "And nothing else: \"only one\". Also means just now (\"only yesterday\") or best of its kind: \"the only choice\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "just",
+    "merely"
+   ]
   },
   {
    "id": "en:000000078",
@@ -2421,15 +2503,19 @@
    "part_of_speech": "prep",
    "study_tier": "expansão estruturante",
    "study_priority": 949,
-   "description": "At a time later than the one mentioned, or in a position following something.",
+   "description": "Later than something: \"after lunch\". Also means behind (\"one after another\") or in pursuit: \"run after\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000119"
    ],
    "nativeExplain": {
-    "en": "At a time later than the one mentioned, or in a position following something."
-   }
+    "en": "Later than something: \"after lunch\". Also means behind (\"one after another\") or in pursuit: \"run after\"."
+   },
+   "alternatives": [
+    "following",
+    "behind"
+   ]
   },
   {
    "id": "en:000000079",
@@ -2449,15 +2535,19 @@
    "part_of_speech": "adj",
    "study_tier": "expansão estruturante",
    "study_priority": 950,
-   "description": "Before all others in order.",
+   "description": "Before all others: \"the first day\". Also means most important: \"first place\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000136"
    ],
    "nativeExplain": {
-    "en": "Before all others in order."
-   }
+    "en": "Before all others: \"the first day\". Also means most important: \"first place\"."
+   },
+   "alternatives": [
+    "initial",
+    "earliest"
+   ]
   },
   {
    "id": "en:000000080",
@@ -2504,13 +2594,17 @@
    "part_of_speech": "prep",
    "study_tier": "expansão estruturante",
    "study_priority": 952,
-   "description": "Moving to the inside of something.",
+   "description": "Moving to the inside of something: \"go into a room\". Also shows change (\"turn into\") or crashing: \"run into\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Moving to the inside of something."
+    "en": "Moving to the inside of something: \"go into a room\". Also shows change (\"turn into\") or crashing: \"run into\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "inside",
+    "in"
+   ]
   },
   {
    "id": "en:000000082",
@@ -2672,11 +2766,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "criar, fabricar",
-    "en": "To create or build something."
+    "en": "To create or build something: \"make a cake\". Also means to cause (\"make laugh\"), to earn (\"make money\") or to equal."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 953,
-   "description": "To create or build something.",
+   "description": "To create or build something: \"make a cake\". Also means to cause (\"make laugh\"), to earn (\"make money\") or to equal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -2710,6 +2804,10 @@
      "text": "making",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "create",
+    "produce"
    ]
   },
   {
@@ -2730,14 +2828,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "posição acima",
-    "en": "In a position above or covering something, as in “a blanket over the bed”."
+    "en": "In a position above: \"a bridge over a river\". Also means across (\"jump over\"), finished (\"it is over\") or more than: \"over ten\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 954,
-   "description": "In a position above or covering something, as in “a blanket over the bed”.",
+   "description": "In a position above: \"a bridge over a river\". Also means across (\"jump over\"), finished (\"it is over\") or more than: \"over ten\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "above",
+    "across"
+   ]
   },
   {
    "id": "en:000000087",
@@ -2757,11 +2859,11 @@
    "part_of_speech": "v",
    "study_tier": "expansão estruturante",
    "study_priority": 955,
-   "description": "To use the mind to form ideas or judgments. In the paired sense here, it often introduces an opinion.",
+   "description": "To use your mind: \"think about it\". Also means to believe (\"I think so\") or to imagine.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To use the mind to form ideas or judgments. In the paired sense here, it often introduces an opinion."
+    "en": "To use your mind: \"think about it\". Also means to believe (\"I think so\") or to imagine."
    },
    "antonyms": [],
    "forms": [
@@ -2793,6 +2895,10 @@
      "text": "thinking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "consider",
+    "believe"
    ]
   },
   {
@@ -2813,13 +2919,17 @@
    "part_of_speech": "det",
    "study_tier": "expansão estruturante",
    "study_priority": 956,
-   "description": "One or more of a set without specifying which. In questions or negatives, it can mean “even one”.",
+   "description": "No matter which: \"any day\". In questions and negatives: \"Do you have any?\", \"I have not any\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "One or more of a set without specifying which. In questions or negatives, it can mean “even one”."
+    "en": "No matter which: \"any day\". In questions and negatives: \"Do you have any?\", \"I have not any\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "whichever",
+    "some"
+   ]
   },
   {
    "id": "en:000000089",
@@ -2838,13 +2948,17 @@
    "part_of_speech": "adv",
    "study_tier": "expansão estruturante",
    "study_priority": 957,
-   "description": "After that, or next in a sequence. It can also mean at the time just mentioned.",
+   "description": "After that: \"then we left\". Also means in that case (\"if so, then...\") or at that time: \"back then\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "After that, or next in a sequence. It can also mean at the time just mentioned."
+    "en": "After that: \"then we left\". Also means in that case (\"if so, then...\") or at that time: \"back then\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "next",
+    "afterward"
+   ]
   },
   {
    "id": "en:000000090",
@@ -2894,15 +3008,19 @@
    "part_of_speech": "adv",
    "study_tier": "expansão estruturante",
    "study_priority": 958,
-   "description": "To or toward the place one came from, as in “go back”.",
+   "description": "To a former place or state: \"come back\". Also means the rear (\"back door\") or ago: \"years back\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000509"
    ],
    "nativeExplain": {
-    "en": "To or toward the place one came from, as in “go back”."
-   }
+    "en": "To a former place or state: \"come back\". Also means the rear (\"back door\") or ago: \"years back\"."
+   },
+   "alternatives": [
+    "return",
+    "rear"
+   ]
   },
   {
    "id": "en:000000092",
@@ -3124,15 +3242,19 @@
    "class_real": "adverb",
    "nativeExplain": {
     "pt-BR": "de modo bom",
-    "en": "In a good way."
+    "en": "In a good way: \"sing well\". Also means in good health (\"I am well\") or as an opener: \"well, let's go\"."
    },
    "study_tier": "expansão estruturante",
    "study_priority": 961,
-   "description": "In a good way.",
+   "description": "In a good way: \"sing well\". Also means in good health (\"I am well\") or as an opener: \"well, let's go\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001909"
+   ],
+   "alternatives": [
+    "nicely",
+    "fine"
    ]
   },
   {
@@ -3334,13 +3456,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 963,
-   "description": "Stresses something surprising or unexpected (\"even a child knows\").",
+   "description": "Used to stress something surprising: \"even a child knows\". Also means level (\"even ground\") or more: \"even better\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Stresses something surprising or unexpected (\"even a child knows\")."
+    "en": "Used to stress something surprising: \"even a child knows\". Also means level (\"even ground\") or more: \"even better\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "still",
+    "level"
+   ]
   },
   {
    "id": "en:000000105",
@@ -3359,14 +3485,17 @@
    "part_of_speech": "aux",
    "nativeExplain": {
     "pt-BR": "conselho",
-    "en": "Gives advice (\"you should rest\")."
+    "en": "Gives advice: \"you should rest\". Also shows what is expected: \"he should be here\"."
    },
    "study_tier": "cedo",
    "study_priority": 964,
-   "description": "Gives advice (\"you should rest\").",
+   "description": "Gives advice: \"you should rest\". Also shows what is expected: \"he should be here\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "ought to"
+   ]
   },
   {
    "id": "en:000000106",
@@ -3386,13 +3515,17 @@
    "part_of_speech": "aux",
    "study_tier": "cedo",
    "study_priority": 965,
-   "description": "Gives or asks for permission. In other contexts, “may” can also express possibility.",
+   "description": "Shows permission: \"you may go\". Also shows possibility: \"it may rain\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Gives or asks for permission. In other contexts, “may” can also express possibility."
+    "en": "Shows permission: \"you may go\". Also shows possibility: \"it may rain\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "can",
+    "might"
+   ]
   },
   {
    "id": "en:000000107",
@@ -3714,14 +3847,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "inclusão",
-    "en": "Also, or in addition to what was just mentioned, as in “me too”."
+    "en": "Also: \"me too\". Also means more than needed: \"too big\"."
    },
    "study_tier": "cedo",
    "study_priority": 966,
-   "description": "Also, or in addition to what was just mentioned, as in “me too”.",
+   "description": "Also: \"me too\". Also means more than needed: \"too big\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "also",
+    "as well"
+   ]
   },
   {
    "id": "en:000000118",
@@ -3771,15 +3908,19 @@
    "part_of_speech": "prep",
    "study_tier": "cedo",
    "study_priority": 967,
-   "description": "Earlier than.",
+   "description": "Earlier than: \"before lunch\". Also means in front of (\"before the judge\") or rather than: \"before me\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000078"
    ],
    "nativeExplain": {
-    "en": "Earlier than."
-   }
+    "en": "Earlier than: \"before lunch\". Also means in front of (\"before the judge\") or rather than: \"before me\"."
+   },
+   "alternatives": [
+    "earlier",
+    "prior to"
+   ]
   },
   {
    "id": "en:000000120",
@@ -4203,15 +4344,19 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 971,
-   "description": "Toward a lower place.",
+   "description": "Toward a lower place: \"sit down\". Also means less (\"calm down\") or written: \"write down\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000042"
    ],
    "nativeExplain": {
-    "en": "Toward a lower place."
-   }
+    "en": "Toward a lower place: \"sit down\". Also means less (\"calm down\") or written: \"write down\"."
+   },
+   "alternatives": [
+    "downward",
+    "lower"
+   ]
   },
   {
    "id": "en:000000133",
@@ -4261,13 +4406,17 @@
    "part_of_speech": "prep",
    "study_tier": "cedo",
    "study_priority": 972,
-   "description": "From one side of an area, opening or material to the other.",
+   "description": "Moving from one side to the other: \"through the tunnel\". Also shows means (\"through hard work\") or from start to end: \"through the week\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "From one side of an area, opening or material to the other."
+    "en": "Moving from one side to the other: \"through the tunnel\". Also shows means (\"through hard work\") or from start to end: \"through the week\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "via",
+    "across"
+   ]
   },
   {
    "id": "en:000000135",
@@ -4337,15 +4486,19 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 973,
-   "description": "The final member of a sequence. In time expressions, it can also refer to the immediately preceding period.",
+   "description": "Coming after all others: \"the last page\". Also means the most recent: \"last week\", and to continue: \"it lasts\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000079"
    ],
    "nativeExplain": {
-    "en": "The final member of a sequence. In time expressions, it can also refer to the immediately preceding period."
-   }
+    "en": "Coming after all others: \"the last page\". Also means the most recent: \"last week\", and to continue: \"it lasts\"."
+   },
+   "alternatives": [
+    "final",
+    "latest"
+   ]
   },
   {
    "id": "en:000000137",
@@ -4418,14 +4571,18 @@
    "part_of_speech": "conj",
    "nativeExplain": {
     "pt-BR": "durante",
-    "en": "During the time that."
+    "en": "During the time that: \"while I eat\". Also shows contrast: \"he is tall, while she is short\"."
    },
    "study_tier": "cedo",
    "study_priority": 974,
-   "description": "During the time that.",
+   "description": "During the time that: \"while I eat\". Also shows contrast: \"he is tall, while she is short\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "whereas",
+    "as long as"
+   ]
   },
   {
    "id": "en:000000139",
@@ -4596,15 +4753,19 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 976,
-   "description": "Of great length or duration.",
+   "description": "Large from end to end: \"a long road\". Also means lasting a lot of time: \"a long day\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000454"
    ],
    "nativeExplain": {
-    "en": "Of great length or duration."
-   }
+    "en": "Large from end to end: \"a long road\". Also means lasting a lot of time: \"a long day\"."
+   },
+   "alternatives": [
+    "lengthy",
+    "extended"
+   ]
   },
   {
    "id": "en:000000145",
@@ -4948,14 +5109,18 @@
    "part_of_speech": "det",
    "nativeExplain": {
     "pt-BR": "todos, sem exceção",
-    "en": "Applies to all the individual members or periods of a set."
+    "en": "Each one of a group: \"every student\". Also means at regular intervals: \"every day\"."
    },
    "study_tier": "cedo",
    "study_priority": 978,
-   "description": "Applies to all the individual members or periods of a set.",
+   "description": "Each one of a group: \"every student\". Also means at regular intervals: \"every day\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "each",
+    "all"
+   ]
   },
   {
    "id": "en:000000153",
@@ -5150,13 +5315,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 980,
-   "description": "On or near the sides of something, often surrounding it.",
+   "description": "On all sides: \"people around\". Also means approximately: \"around ten\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "On or near the sides of something, often surrounding it."
+    "en": "On all sides: \"people around\". Also means approximately: \"around ten\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "about",
+    "nearby"
+   ]
   },
   {
    "id": "en:000000159",
@@ -5176,14 +5345,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "dois",
-    "en": "In the space separating two things."
+    "en": "In the space separating two: \"between the house and school\". Also means among choices: \"choose between\"."
    },
    "study_tier": "cedo",
    "study_priority": 981,
-   "description": "In the space separating two things.",
+   "description": "In the space separating two: \"between the house and school\". Also means among choices: \"choose between\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "amid",
+    "in the middle"
+   ]
   },
   {
    "id": "en:000000160",
@@ -5377,15 +5550,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "distância do chão, posição",
-    "en": "Far above the ground; tall."
+    "en": "Far above the ground: \"a high wall\". Also means great in degree: \"high prices\"."
    },
    "study_tier": "cedo",
    "study_priority": 982,
    "user_hint": "",
-   "description": "Far above the ground; tall.",
+   "description": "Far above the ground: \"a high wall\". Also means great in degree: \"high prices\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000450"
+   ],
+   "alternatives": [
+    "tall",
+    "elevated"
    ]
   },
   {
@@ -5430,15 +5607,19 @@
    "study_tier": "cedo",
    "study_priority": 983,
    "user_hint": "",
-   "description": "Having lived or existed for a long time.",
+   "description": "Having lived or existed for a long time: \"an old house\". Also shows age: \"ten years old\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000063",
     "en:000000351"
    ],
    "nativeExplain": {
-    "en": "Having lived or existed for a long time."
-   }
+    "en": "Having lived or existed for a long time: \"an old house\". Also shows age: \"ten years old\"."
+   },
+   "alternatives": [
+    "aged",
+    "ancient"
+   ]
   },
   {
    "id": "en:000000167",
@@ -5459,13 +5640,17 @@
    "class_real": "preposition",
    "study_tier": "cedo",
    "study_priority": 984,
-   "description": "Beginning at a specified time in the past and continuing afterward, often up to now.",
+   "description": "From a past time until now: \"since Monday\". Also means because: \"since you are here\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Beginning at a specified time in the past and continuing afterward, often up to now."
+    "en": "From a past time until now: \"since Monday\". Also means because: \"since you are here\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "because",
+    "from then"
+   ]
   },
   {
    "id": "en:000000168",
@@ -5486,14 +5671,18 @@
    "part_of_speech": "det",
    "nativeExplain": {
     "pt-BR": "mais um",
-    "en": "One more of the same kind, or a different one."
+    "en": "One more of the same kind: \"another cup\". Also means a different one: \"try another way\"."
    },
    "study_tier": "cedo",
    "study_priority": 985,
-   "description": "One more of the same kind, or a different one.",
+   "description": "One more of the same kind: \"another cup\". Also means a different one: \"try another way\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "one more",
+    "a different"
+   ]
   },
   {
    "id": "en:000000169",
@@ -5546,10 +5735,10 @@
    "study_tier": "cedo",
    "study_priority": 986,
    "user_hint": "",
-   "description": "Belonging to oneself (\"my own room\").",
+   "description": "Belonging to oneself: \"my own room\". Also means to have: \"I own a car\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Belonging to oneself (\"my own room\")."
+    "en": "Belonging to oneself: \"my own room\". Also means to have: \"I own a car\"."
    },
    "antonyms": [],
    "forms": [
@@ -5561,6 +5750,10 @@
      "study_tier": "standard",
      "description_en": "Past and past-participle form of own."
     }
+   ],
+   "alternatives": [
+    "personal",
+    "individual"
    ]
   },
   {
@@ -5581,14 +5774,18 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "en": "Below something."
+    "en": "Below something: \"under the table\". Also means less than (\"under ten\") or governed by: \"under the law\"."
    },
    "study_tier": "cedo",
    "study_priority": 987,
-   "description": "Below something.",
+   "description": "Below something: \"under the table\". Also means less than (\"under ten\") or governed by: \"under the law\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "below",
+    "beneath"
+   ]
   },
   {
    "id": "en:000000173",
@@ -5607,13 +5804,17 @@
    "part_of_speech": "prep",
    "study_tier": "cedo",
    "study_priority": 988,
-   "description": "At some time within a period, or for part or all of that period.",
+   "description": "At some time within a period: \"during summer\". Also means throughout the whole period.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "At some time within a period, or for part or all of that period."
+    "en": "At some time within a period: \"during summer\". Also means throughout the whole period."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "throughout",
+    "in the course of"
+   ]
   },
   {
    "id": "en:000000174",
@@ -5906,13 +6107,17 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 990,
-   "description": "Coming right after this one.",
+   "description": "Coming right after this one: \"the next train\". Also means nearest: \"the next room\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Coming right after this one."
+    "en": "Coming right after this one: \"the next train\". Also means nearest: \"the next room\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "following",
+    "upcoming"
+   ]
   },
   {
    "id": "en:000000183",
@@ -5934,14 +6139,18 @@
    "part_of_speech": "det",
    "nativeExplain": {
     "pt-BR": "um por um, separadamente",
-    "en": "Every single one, one by one."
+    "en": "Every single one, considered separately: \"each student\". Also means per person or item: \"two dollars each\"."
    },
    "study_tier": "cedo",
    "study_priority": 991,
-   "description": "Every single one, one by one.",
+   "description": "Every single one, considered separately: \"each student\". Also means per person or item: \"two dollars each\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "every",
+    "apiece"
+   ]
   },
   {
    "id": "en:000000184",
@@ -5981,13 +6190,17 @@
    "part_of_speech": "prep",
    "study_tier": "cedo",
    "study_priority": 993,
-   "description": "Not having something.",
+   "description": "Not having something: \"tea without sugar\". Also shows absence of help or condition.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not having something."
+    "en": "Not having something: \"tea without sugar\". Also shows absence of help or condition."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "lacking",
+    "minus"
+   ]
   },
   {
    "id": "en:000000186",
@@ -6073,7 +6286,7 @@
    "part_of_speech": "n",
    "study_tier": "cedo",
    "study_priority": 994,
-   "description": "The final part of something.",
+   "description": "The final part: \"the end of the story\". Also means a goal (\"to this end\") or to stop: \"end a meeting\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -6081,9 +6294,13 @@
     "en:000001484"
    ],
    "nativeExplain": {
-    "en": "The final part of something."
+    "en": "The final part: \"the end of the story\". Also means a goal (\"to this end\") or to stop: \"end a meeting\"."
    },
-   "forms": []
+   "forms": [],
+   "alternatives": [
+    "finish",
+    "goal"
+   ]
   },
   {
    "id": "en:000000189",
@@ -6143,13 +6360,17 @@
    "part_of_speech": "aux",
    "study_tier": "cedo",
    "study_priority": 995,
-   "description": "Shows that something is required or necessary. It can also express a strong conclusion, as in “you must be tired.”",
+   "description": "Shows that something is required: \"I must go\". Also shows strong belief: \"it must be him\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Shows that something is required or necessary. It can also express a strong conclusion, as in “you must be tired.”"
+    "en": "Shows that something is required: \"I must go\". Also shows strong belief: \"it must be him\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "have to",
+    "need to"
+   ]
   },
   {
    "id": "en:000000191",
@@ -6261,11 +6482,11 @@
    "part_of_speech": "v",
    "study_tier": "cedo",
    "study_priority": 996,
-   "description": "To experience an emotion or a touch.",
+   "description": "To experience an emotion or touch: \"feel cold\". Also means to think (\"I feel that\") or to touch: \"feel the wall\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To experience an emotion or a touch."
+    "en": "To experience an emotion or touch: \"feel cold\". Also means to think (\"I feel that\") or to touch: \"feel the wall\"."
    },
    "antonyms": [],
    "forms": [
@@ -6298,6 +6519,10 @@
      "text": "feeling",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "sense",
+    "touch"
    ]
   },
   {
@@ -6340,12 +6565,16 @@
    "study_tier": "cedo",
    "study_priority": 997,
    "user_hint": "",
-   "description": "A group of people who play or work together.",
+   "description": "A group working or playing together: \"a football team\". Also means people at work: \"our sales team\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A group of people who play or work together."
+    "en": "A group working or playing together: \"a football team\". Also means people at work: \"our sales team\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "squad",
+    "crew"
+   ]
   },
   {
    "id": "en:000000196",
@@ -6364,14 +6593,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 998,
-   "description": "At any time (\"have you ever...?\").",
+   "description": "At any time: \"Have you ever been there?\". Also adds emphasis: \"the best ever\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "At any time (\"have you ever...?\")."
+    "en": "At any time: \"Have you ever been there?\". Also adds emphasis: \"the best ever\"."
    },
    "antonyms": [
     "en:000000127"
+   ],
+   "alternatives": [
+    "at any time"
    ]
   },
   {
@@ -6477,13 +6709,17 @@
    "part_of_speech": "aux",
    "study_tier": "cedo",
    "study_priority": 1000,
-   "description": "A modal verb that shows something is possible or uncertain, as in “it might rain.” It can also soften a suggestion or request.",
+   "description": "Shows a possibility: \"it might rain\". Also makes a polite request: \"might I ask?\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A modal verb that shows something is possible or uncertain, as in “it might rain.” It can also soften a suggestion or request."
+    "en": "Shows a possibility: \"it might rain\". Also makes a polite request: \"might I ask?\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "may",
+    "could"
+   ]
   },
   {
    "id": "en:000000200",
