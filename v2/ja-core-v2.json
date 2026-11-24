@@ -36772,18 +36772,18 @@
    "text": "部分",
    "alternatives": [
     "一部",
-    "役"
+    "部品"
    ],
    "reading": "ぶぶん",
    "romanization": "bubun",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 982,
-   "description": "全体の中の一部。「体の部分」。役割（「演劇の役」）や機械の部品にも使う。",
+   "description": "大きなものの一部分。「ケーキの一部」。役や、機械の部品の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "全体の中の一部。「体の部分」。役割（「演劇の役」）や機械の部品にも使う。"
+    "ja": "大きなものの一部分。「ケーキの一部」。役や、機械の部品の意味にも使う。"
    },
    "antonyms": []
   },
@@ -43498,7 +43498,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "サービス",
-   "alternatives": [],
+   "alternatives": [
+    "サービス",
+    "接客"
+   ],
    "reading": "サービス",
    "romanization": "saabisu",
    "classifications": [
@@ -43511,11 +43514,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1004,
-   "description": "客のために行う仕事や提供する設備・機能。店で品物などを無料で付けることにもいう。",
+   "description": "店や人が提供する助け。「よい接客」。公共の運行や、礼拝の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "客のために行う仕事や提供する設備・機能。店で品物などを無料で付けることにもいう。"
+    "ja": "店や人が提供する助け。「よい接客」。公共の運行や、礼拝の意味にも使う。"
    },
    "antonyms": []
   },
@@ -43998,17 +44001,17 @@
    "text": "エリア",
    "alternatives": [
     "地域",
-    "区域"
+    "エリア"
    ],
    "reading": "エリア",
    "romanization": "eria",
    "study_tier": "cedo",
    "study_priority": 1006,
    "user_hint": "",
-   "description": "ある場所の一部分。「このエリア」。専門の分野や面積にも使う。",
+   "description": "ある場所の一部。「静かな地域」。分野や、面積の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある場所の一部分。「このエリア」。専門の分野や面積にも使う。"
+    "ja": "ある場所の一部。「静かな地域」。分野や、面積の意味にも使う。"
    },
    "antonyms": []
   },
@@ -44517,11 +44520,11 @@
    "romanization": "hanashi",
    "nativeExplain": {
     "pt-BR": "narrativa",
-    "ja": "本当にあったことや作った出来事を語ったもの。「話をする」。うわさや新聞記事にも使う。"
+    "ja": "本当または作った出来事の話。「話をする」。ニュース記事の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1011,
-   "description": "本当にあったことや作った出来事を語ったもの。「話をする」。うわさや新聞記事にも使う。",
+   "description": "本当または作った出来事の話。「話をする」。ニュース記事の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -44756,11 +44759,11 @@
    "romanization": "nyuusu",
    "study_tier": "cedo",
    "study_priority": 1014,
-   "description": "最近の出来事についての知らせ。「ニュースを見る」。新しい情報全般にも使う。",
+   "description": "最近の出来事についての知らせ。「いい知らせ」。英語では単数あつかい。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "最近の出来事についての知らせ。「ニュースを見る」。新しい情報全般にも使う。"
+    "ja": "最近の出来事についての知らせ。「いい知らせ」。英語では単数あつかい。"
    },
    "antonyms": []
   },
@@ -46733,7 +46736,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "歴史",
-   "alternatives": [],
+   "alternatives": [
+    "歴史",
+    "経歴"
+   ],
    "reading": "れきし",
    "romanization": "rekishi",
    "classifications": [
@@ -46746,11 +46752,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "o passado, disciplina",
-    "ja": "過去の出来事。学校の教科。"
+    "ja": "過去の出来事。「世界の歴史」。教科や、その人の経歴（「病歴」）の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1030,
-   "description": "過去の出来事。学校の教科。",
+   "description": "過去の出来事。「世界の歴史」。教科や、その人の経歴（「病歴」）の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -52438,17 +52444,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "番組",
-   "alternatives": [],
+   "alternatives": [
+    "番組",
+    "プログラム"
+   ],
    "reading": "ばんぐみ",
    "romanization": "bangumi",
    "class_real": "noun",
    "nativeExplain": {
-    "ja": "テレビやラジオで放送される番組。"
+    "ja": "テレビやラジオの番組。「テレビ番組」。予定表や、コンピューターのプログラムの意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1045,
    "user_hint": "",
-   "description": "テレビやラジオで放送される番組。",
+   "description": "テレビやラジオの番組。「テレビ番組」。予定表や、コンピューターのプログラムの意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -52620,7 +52629,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "過程",
-   "alternatives": [],
+   "alternatives": [
+    "過程",
+    "手順"
+   ],
    "reading": "かてい",
    "romanization": "katei",
    "classifications": [
@@ -52634,10 +52646,10 @@
    "study_tier": "cedo",
    "study_priority": 1048,
    "user_hint": "",
-   "description": "何かをするための一連の手順。",
+   "description": "何かをするための一連の手順。「学ぶ過程」。データや書類を処理する意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "何かをするための一連の手順。"
+    "ja": "何かをするための一連の手順。「学ぶ過程」。データや書類を処理する意味にも使う。"
    },
    "antonyms": []
   },
@@ -53367,17 +53379,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "野原",
-   "alternatives": [],
+   "alternatives": [
+    "畑",
+    "分野"
+   ],
    "reading": "のはら",
    "romanization": "nohara",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1055,
-   "description": "建物などが少なく、草などが生えた広く開けた場所。",
+   "description": "広い土地。「とうもろこし畑」。競技場、専門分野、入力欄の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "建物などが少なく、草などが生えた広く開けた場所。"
+    "ja": "広い土地。「とうもろこし畑」。競技場、専門分野、入力欄の意味にも使う。"
    },
    "antonyms": []
   },
@@ -54001,18 +54016,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "問題",
-   "alternatives": [],
+   "alternatives": [
+    "問題",
+    "号"
+   ],
    "reading": "もんだい",
    "romanization": "mondai",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "tema em discussão",
-    "ja": "人々が話し合う問題やテーマ。"
+    "ja": "人が話し合う問題や話題。「政治的な問題」。雑誌の号の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1061,
    "user_hint": "",
-   "description": "人々が話し合う問題やテーマ。",
+   "description": "人が話し合う問題や話題。「政治的な問題」。雑誌の号の意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -54094,7 +54112,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "空間",
-   "alternatives": [],
+   "alternatives": [
+    "空間",
+    "スペース"
+   ],
    "reading": "くうかん",
    "romanization": "kuukan",
    "class_real": "noun",
@@ -54102,10 +54123,10 @@
    "study_priority": 1063,
    "nativeExplain": {
     "pt-BR": "espaço (lugar vazio)",
-    "ja": "何もない、あいている広がり。"
+    "ja": "何もない場所。「部屋の空き」。宇宙や、文字の間のスペースの意味にも使う。"
    },
    "user_hint": "",
-   "description": "何もない、あいている広がり。",
+   "description": "何もない場所。「部屋の空き」。宇宙や、文字の間のスペースの意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -54163,18 +54184,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "学期",
-   "alternatives": [],
+   "alternatives": [
+    "学期",
+    "用語"
+   ],
    "reading": "がっき",
    "romanization": "gakki",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "período letivo; termo",
-    "ja": "学校の一年を分けたひとつの期間。"
+    "ja": "学年の区切り。「春の学期」。専門用語や、契約の条件の意味にも使う。"
    },
    "study_tier": "cedo",
    "study_priority": 1064,
    "user_hint": "",
-   "description": "学校の一年を分けたひとつの期間。",
+   "description": "学年の区切り。「春の学期」。専門用語や、契約の条件の意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -59176,7 +59200,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "出どころ",
    "alternatives": [
-    "源"
+    "源",
+    "情報源"
    ],
    "reading": "でどころ",
    "romanization": "dedokoro",
@@ -59184,10 +59209,10 @@
    "study_tier": "cedo",
    "study_priority": 1079,
    "user_hint": "",
-   "description": "物がやってくるもと。",
+   "description": "ものごとの出どころ。「川の源」。情報を出す人や資料の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物がやってくるもと。"
+    "ja": "ものごとの出どころ。「川の源」。情報を出す人や資料の意味にも使う。"
    },
    "antonyms": []
   },
@@ -59236,7 +59261,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "価値",
-   "alternatives": [],
+   "alternatives": [
+    "価値",
+    "価"
+   ],
    "reading": "かち",
    "romanization": "kachi",
    "classifications": [
@@ -59250,10 +59278,10 @@
    "study_tier": "cedo",
    "study_priority": 1080,
    "user_hint": "",
-   "description": "物がもつ値打ち。",
+   "description": "ものの値うち。「家の価値」。大切にする考え（「家族の価値観」）の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物がもつ値打ち。"
+    "ja": "ものの値うち。「家の価値」。大切にする考え（「家族の価値観」）の意味にも使う。"
    },
    "antonyms": []
   },
@@ -59982,16 +60010,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "量",
-   "alternatives": [],
+   "alternatives": [
+    "量",
+    "金額"
+   ],
    "reading": "りょう",
    "romanization": "ryou",
    "study_tier": "cedo",
    "study_priority": 1088,
-   "description": "物の多さ、少なさ。",
+   "description": "ものの量。「少ない量」。お金の額の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物の多さ、少なさ。"
+    "ja": "ものの量。「少ない量」。お金の額の意味にも使う。"
    },
    "antonyms": []
   },
@@ -60545,6 +60576,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "気持ち",
    "alternatives": [
+    "気持ち",
     "感じ"
    ],
    "reading": "きもち",
@@ -60552,10 +60584,10 @@
    "study_tier": "cedo",
    "study_priority": 1089,
    "user_hint": "",
-   "description": "心に感じること。",
+   "description": "感情。「うれしい気持ち」。手ざわりや、予感の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "心に感じること。"
+    "ja": "感情。「うれしい気持ち」。手ざわりや、予感の意味にも使う。"
    },
    "antonyms": []
   },
@@ -61385,7 +61417,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "注意",
-   "alternatives": [],
+   "alternatives": [
+    "注意",
+    "関心"
+   ],
    "reading": "ちゅうい",
    "romanization": "chuui",
    "classifications": [
@@ -61400,10 +61435,10 @@
    "study_tier": "cedo",
    "study_priority": 1101,
    "user_hint": "",
-   "description": "よく気をつけて聞いたり見たりすること。",
+   "description": "注意して聞いたり見たりする。「注意を払う」。気づかいや、呼びかけの意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "よく気をつけて聞いたり見たりすること。"
+    "ja": "注意して聞いたり見たりする。「注意を払う」。気づかいや、呼びかけの意味にも使う。"
    },
    "antonyms": []
   },
@@ -61493,17 +61528,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "キャラクター",
    "alternatives": [
-    "登場人物"
+    "登場人物",
+    "性格"
    ],
    "reading": "キャラクター",
    "romanization": "kyarakutaa",
    "study_tier": "cedo",
    "study_priority": 1102,
    "user_hint": "",
-   "description": "物語や映画、ゲームに出てくる人物。",
+   "description": "物語・映画・ゲームの人物。「アニメのキャラクター」。人柄や、文字の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物語や映画、ゲームに出てくる人物。"
+    "ja": "物語・映画・ゲームの人物。「アニメのキャラクター」。人柄や、文字の意味にも使う。"
    },
    "antonyms": []
   },
@@ -61985,7 +62021,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "スタイル",
    "alternatives": [
-    "様式"
+    "様式",
+    "流行"
    ],
    "reading": "スタイル",
    "romanization": "sutairu",
@@ -62000,10 +62037,10 @@
    "study_tier": "cedo",
    "study_priority": 1106,
    "user_hint": "",
-   "description": "物事のやり方や、服装の型。",
+   "description": "やり方や服装の型。「音楽のスタイル」。流行や、その人らしさの意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物事のやり方や、服装の型。"
+    "ja": "やり方や服装の型。「音楽のスタイル」。流行や、その人らしさの意味にも使う。"
    },
    "antonyms": []
   },
@@ -67052,16 +67089,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "リスク",
-   "alternatives": [],
+   "alternatives": [
+    "危険",
+    "リスク"
+   ],
    "reading": "リスク",
    "romanization": "risuku",
    "study_tier": "cedo",
    "study_priority": 1118,
-   "description": "悪いことが起こるかもしれない可能性。",
+   "description": "悪いことが起こる可能性。「健康へのリスク」。危険にさらす意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "悪いことが起こるかもしれない可能性。"
+    "ja": "悪いことが起こる可能性。「健康へのリスク」。危険にさらす意味にも使う。"
    },
    "antonyms": []
   },
@@ -69301,7 +69341,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "効果",
-   "alternatives": [],
+   "alternatives": [
+    "結果",
+    "影響"
+   ],
    "reading": "こうか",
    "romanization": "kouka",
    "classifications": [
@@ -69316,10 +69359,10 @@
    "study_tier": "cedo",
    "study_priority": 1141,
    "user_hint": "",
-   "description": "あることによって生まれる変化。",
+   "description": "何かによって起こる変化。「副作用」。映像・音の仕かけ（「特殊効果」）の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "あることによって生まれる変化。"
+    "ja": "何かによって起こる変化。「副作用」。映像・音の仕かけ（「特殊効果」）の意味にも使う。"
    },
    "antonyms": []
   },
@@ -69870,17 +69913,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "重さ",
-   "alternatives": [],
+   "alternatives": [
+    "重さ",
+    "重み"
+   ],
    "reading": "おもさ",
    "romanization": "omosa",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1148,
-   "description": "物がどのくらい重いか。",
+   "description": "ものの重さ。「かばんの重さ」。重要さや、トレーニングの負荷の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物がどのくらい重いか。"
+    "ja": "ものの重さ。「かばんの重さ」。重要さや、トレーニングの負荷の意味にも使う。"
    },
    "antonyms": []
   },
@@ -72060,7 +72106,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "部分",
-   "alternatives": [],
+   "alternatives": [
+    "部",
+    "区画"
+   ],
    "reading": "ぶぶん",
    "romanization": "bubun",
    "classifications": [
@@ -72075,10 +72124,10 @@
    "study_tier": "cedo",
    "study_priority": 1171,
    "user_hint": "",
-   "description": "全体の中のひとつの部分。",
+   "description": "全体の一部。「スポーツ欄」。街や店の区画の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "全体の中のひとつの部分。"
+    "ja": "全体の一部。「スポーツ欄」。街や店の区画の意味にも使う。"
    },
    "antonyms": []
   },
@@ -72749,17 +72798,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ツアー",
-   "alternatives": [],
+   "alternatives": [
+    "旅行",
+    "巡業"
+   ],
    "reading": "ツアー",
    "romanization": "tsuaa",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1180,
    "user_hint": "",
-   "description": "いくつかの場所をめぐる旅。",
+   "description": "いくつかの場所をまわる旅。「市内ツアー」。公演の巡業の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "いくつかの場所をめぐる旅。"
+    "ja": "いくつかの場所をまわる旅。「市内ツアー」。公演の巡業の意味にも使う。"
    },
    "antonyms": []
   },
@@ -73819,17 +73871,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "場面",
-   "alternatives": [],
+   "alternatives": [
+    "場面",
+    "光景"
+   ],
    "reading": "ばめん",
    "romanization": "bamen",
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1194,
    "user_hint": "",
-   "description": "映画や劇の中の、ひとつの区切り。景色の意味もある。",
+   "description": "映画や劇の一場面。「最後のシーン」。景色や、人前でさわぐ意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "映画や劇の中の、ひとつの区切り。景色の意味もある。"
+    "ja": "映画や劇の一場面。「最後のシーン」。景色や、人前でさわぐ意味にも使う。"
    },
    "antonyms": []
   },
@@ -74029,7 +74084,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "声明",
    "alternatives": [
-    "発言"
+    "声明",
+    "明細"
    ],
    "reading": "せいめい",
    "romanization": "seimei",
@@ -74044,10 +74100,10 @@
    "study_tier": "cedo",
    "study_priority": 1196,
    "user_hint": "",
-   "description": "公式に述べた、または書いた内容。",
+   "description": "正式に述べたり書いたりした内容。「声明」。銀行の明細書の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "公式に述べた、または書いた内容。"
+    "ja": "正式に述べたり書いたりした内容。「声明」。銀行の明細書の意味にも使う。"
    },
    "antonyms": []
   },
@@ -74171,7 +74227,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "コーチ",
-   "alternatives": [],
+   "alternatives": [
+    "指導者",
+    "コーチ"
+   ],
    "reading": "コーチ",
    "romanization": "koochi",
    "class_real": "noun (loanword)",
@@ -74179,10 +74238,10 @@
    "study_priority": 1198,
    "nativeExplain": {
     "pt-BR": "treinador",
-    "ja": "チームや選手を指導する人。"
+    "ja": "チームを指導する人。「サッカーのコーチ」。長距離バスや、家庭教師の意味にも使う。"
    },
    "user_hint": "",
-   "description": "チームや選手を指導する人。",
+   "description": "チームを指導する人。「サッカーのコーチ」。長距離バスや、家庭教師の意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -75931,17 +75990,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "バー",
-   "alternatives": [],
+   "alternatives": [
+    "酒場",
+    "棒"
+   ],
    "reading": "バー",
    "romanization": "baa",
    "class_real": "noun (loanword)",
    "study_tier": "cedo",
    "study_priority": 1223,
    "user_hint": "",
-   "description": "お酒などを出す店。",
+   "description": "飲み物を出す店。「バー」。棒状のもの（「チョコバー」）や、さくの意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "お酒などを出す店。"
+    "ja": "飲み物を出す店。「バー」。棒状のもの（「チョコバー」）や、さくの意味にも使う。"
    },
    "antonyms": []
   },
@@ -77568,16 +77630,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "バンド",
-   "alternatives": [],
+   "alternatives": [
+    "楽団",
+    "帯"
+   ],
    "reading": "バンド",
    "romanization": "bando",
    "study_tier": "cedo",
    "study_priority": 1243,
    "user_hint": "",
-   "description": "楽器を演奏する人たちのグループ。",
+   "description": "音楽のグループ。「ロックバンド」。帯状のもの（「ゴムバンド」）や範囲の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "楽器を演奏する人たちのグループ。"
+    "ja": "音楽のグループ。「ロックバンド」。帯状のもの（「ゴムバンド」）や範囲の意味にも使う。"
    },
    "antonyms": []
   },
@@ -82751,7 +82816,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "細胞",
-   "alternatives": [],
+   "alternatives": [
+    "細胞",
+    "独房"
+   ],
    "reading": "さいぼう",
    "romanization": "saibou",
    "class_real": "noun",
@@ -82759,10 +82827,10 @@
    "study_priority": 1305,
    "nativeExplain": {
     "pt-BR": "célula (biologia) vs celular/cela",
-    "ja": "体をつくる最小の生きた単位。"
+    "ja": "体の最小の生きた単位。「血液の細胞」。独房や、携帯電話の意味にも使う。"
    },
    "user_hint": "",
-   "description": "体をつくる最小の生きた単位。",
+   "description": "体の最小の生きた単位。「血液の細胞」。独房や、携帯電話の意味にも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -83614,7 +83682,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "状態",
-   "alternatives": [],
+   "alternatives": [
+    "状態",
+    "条件"
+   ],
    "reading": "じょうたい",
    "romanization": "joutai",
    "classifications": [
@@ -83629,10 +83700,10 @@
    "study_tier": "cedo",
    "study_priority": 1318,
    "user_hint": "",
-   "description": "物や人のありさま。",
+   "description": "ものや人の状態。「よい状態」。条件（「ひとつだけ条件がある」）の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物や人のありさま。"
+    "ja": "ものや人の状態。「よい状態」。条件（「ひとつだけ条件がある」）の意味にも使う。"
    },
    "antonyms": []
   },
@@ -83795,7 +83866,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "熱",
-   "alternatives": [],
+   "alternatives": [
+    "熱",
+    "暑さ"
+   ],
    "reading": "ねつ",
    "romanization": "netsu",
    "classifications": [
@@ -83809,12 +83883,12 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1320,
-   "description": "温度が高いこと。あつさ。",
+   "description": "熱さ。「太陽の熱」。競走の組や、感情の高まりの意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
    "nativeExplain": {
-    "ja": "温度が高いこと。あつさ。"
+    "ja": "熱さ。「太陽の熱」。競走の組や、感情の高まりの意味にも使う。"
    }
   },
   {
@@ -83829,7 +83903,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "面接",
    "alternatives": [
-    "インタビュー"
+    "面接",
+    "取材"
    ],
    "reading": "めんせつ",
    "romanization": "mensetsu",
@@ -83844,10 +83919,10 @@
    "study_tier": "cedo",
    "study_priority": 1321,
    "user_hint": "",
-   "description": "人に質問をするための面会。",
+   "description": "人に質問をする面会。「就職面接」。有名人へのインタビューの意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人に質問をするための面会。"
+    "ja": "人に質問をする面会。「就職面接」。有名人へのインタビューの意味にも使う。"
    },
    "antonyms": []
   },
@@ -84382,16 +84457,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "チャンネル",
-   "alternatives": [],
+   "alternatives": [
+    "局",
+    "経路"
+   ],
    "reading": "チャンネル",
    "romanization": "channeru",
    "study_tier": "cedo",
    "study_priority": 1327,
    "user_hint": "",
-   "description": "テレビ局や動画サイトの配信の場。",
+   "description": "テレビ局やYouTubeのアカウント。「ニュースチャンネル」。伝達の経路や、水路の意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "テレビ局や動画サイトの配信の場。"
+    "ja": "テレビ局やYouTubeのアカウント。「ニュースチャンネル」。伝達の経路や、水路の意味にも使う。"
    },
    "antonyms": []
   },
@@ -84771,7 +84849,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "保護",
-   "alternatives": [],
+   "alternatives": [
+    "防護",
+    "保全"
+   ],
    "reading": "ほご",
    "romanization": "hogo",
    "classifications": [
@@ -84785,10 +84866,10 @@
    "study_tier": "cedo",
    "study_priority": 1334,
    "user_hint": "",
-   "description": "危険から守ること。",
+   "description": "安全を守ること。「日差しからの保護」。守るものの意味にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "危険から守ること。"
+    "ja": "安全を守ること。「日差しからの保護」。守るものの意味にも使う。"
    },
    "antonyms": []
   },

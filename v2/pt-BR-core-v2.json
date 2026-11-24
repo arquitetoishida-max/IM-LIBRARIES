@@ -4618,15 +4618,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "parte",
    "alternatives": [
-    "pedaço"
+    "pedaço",
+    "porção"
    ],
    "study_tier": "cedo",
    "study_priority": 978,
-   "description": "Pedaço de algo maior.",
+   "description": "Pedaço de algo maior: “parte do bolo”. Também indica papel (“um papel na peça”) e peça de máquina.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pedaço de algo maior."
+    "pt-BR": "Pedaço de algo maior: “parte do bolo”. Também indica papel (“um papel na peça”) e peça de máquina."
    },
    "antonyms": []
   },
@@ -8374,15 +8375,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "serviço",
    "alternatives": [
-    "atendimento"
+    "atendimento",
+    "assistência"
    ],
    "study_tier": "cedo",
    "study_priority": 1000,
-   "description": "Ajuda prestada por uma loja ou funcionário.",
+   "description": "Ajuda dada por uma loja ou profissional: “bom atendimento”. Também indica um sistema público (“serviço de ônibus”) ou cerimônia.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ajuda prestada por uma loja ou funcionário."
+    "pt-BR": "Ajuda dada por uma loja ou profissional: “bom atendimento”. Também indica um sistema público (“serviço de ônibus”) ou cerimônia."
    },
    "antonyms": []
   },
@@ -8638,15 +8640,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "área",
    "alternatives": [
-    "região"
+    "região",
+    "zona"
    ],
    "study_tier": "cedo",
    "study_priority": 1002,
    "user_hint": "",
-   "description": "Uma parte de um lugar.",
+   "description": "Parte de um lugar: “uma área tranquila”. Também indica campo de conhecimento ou tamanho de superfície.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma parte de um lugar."
+    "pt-BR": "Parte de um lugar: “uma área tranquila”. Também indica campo de conhecimento ou tamanho de superfície."
    },
    "antonyms": []
   },
@@ -9026,14 +9029,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "história",
-   "alternatives": [],
+   "alternatives": [
+    "narrativa",
+    "conto"
+   ],
    "study_tier": "cedo",
    "study_priority": 1007,
-   "description": "Relato de fatos, reais ou inventados.",
+   "description": "Relato de acontecimentos, reais ou inventados: “contar uma história”. Também indica notícia ou andar de prédio.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Relato de fatos, reais ou inventados."
+    "pt-BR": "Relato de acontecimentos, reais ou inventados: “contar uma história”. Também indica notícia ou andar de prédio."
    },
    "antonyms": []
   },
@@ -9215,15 +9221,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "notícia",
    "alternatives": [
-    "notícias"
+    "notícia",
+    "novidade"
    ],
    "study_tier": "cedo",
    "study_priority": 1010,
-   "description": "Informação sobre fatos recentes.",
+   "description": "Informação sobre fatos recentes: “boas notícias”. Também indica um telejornal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Informação sobre fatos recentes."
+    "pt-BR": "Informação sobre fatos recentes: “boas notícias”. Também indica um telejornal."
    },
    "antonyms": []
   },
@@ -10392,14 +10399,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "história",
-   "alternatives": [],
+   "alternatives": [
+    "passado",
+    "histórico"
+   ],
    "study_tier": "cedo",
    "study_priority": 1026,
-   "description": "Fatos do passado; uma matéria escolar.",
+   "description": "Fatos do passado: “história do mundo”. Também indica uma matéria escolar ou o histórico de alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Fatos do passado; uma matéria escolar."
+    "pt-BR": "Fatos do passado: “história do mundo”. Também indica uma matéria escolar ou o histórico de alguém."
    },
    "antonyms": []
   },
@@ -13807,14 +13817,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "programa",
-   "alternatives": [],
+   "alternatives": [
+    "atração",
+    "software"
+   ],
    "study_tier": "cedo",
    "study_priority": 1041,
    "user_hint": "",
-   "description": "Um show ou uma atração de TV ou de rádio.",
+   "description": "Atração de TV ou rádio: “um programa de TV”. Também indica um plano de eventos ou instruções de computador.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um show ou uma atração de TV ou de rádio."
+    "pt-BR": "Atração de TV ou rádio: “um programa de TV”. Também indica um plano de eventos ou instruções de computador."
    },
    "antonyms": []
   },
@@ -13971,14 +13984,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "processo",
-   "alternatives": [],
+   "alternatives": [
+    "procedimento",
+    "andamento"
+   ],
    "study_tier": "cedo",
    "study_priority": 1044,
    "user_hint": "",
-   "description": "Uma série de passos para fazer algo.",
+   "description": "Série de passos para fazer algo: “o processo de aprender”. Também indica tratar dados ou documentos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma série de passos para fazer algo."
+    "pt-BR": "Série de passos para fazer algo: “o processo de aprender”. Também indica tratar dados ou documentos."
    },
    "antonyms": []
   },
@@ -14456,14 +14472,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "campo",
-   "alternatives": [],
+   "alternatives": [
+    "campo",
+    "gramado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1051,
-   "description": "Área aberta de terra; um campo esportivo.",
+   "description": "Área aberta de terra: “um campo de milho”. Também indica campo esportivo, área de atuação ou campo de formulário.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Área aberta de terra; um campo esportivo."
+    "pt-BR": "Área aberta de terra: “um campo de milho”. Também indica campo esportivo, área de atuação ou campo de formulário."
    },
    "antonyms": []
   },
@@ -14845,15 +14864,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "questão",
    "alternatives": [
-    "problema"
+    "assunto",
+    "edição"
    ],
    "study_tier": "cedo",
    "study_priority": 1057,
    "user_hint": "",
-   "description": "Um problema ou assunto que as pessoas discutem.",
+   "description": "Problema ou assunto discutido: “uma questão política”. Também indica uma edição de revista.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um problema ou assunto que as pessoas discutem."
+    "pt-BR": "Problema ou assunto discutido: “uma questão política”. Também indica uma edição de revista."
    },
    "antonyms": []
   },
@@ -14923,14 +14943,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "espaço",
-   "alternatives": [],
+   "alternatives": [
+    "lugar",
+    "vão"
+   ],
    "study_tier": "cedo",
    "study_priority": 1059,
    "user_hint": "",
-   "description": "Uma área vazia ou livre.",
+   "description": "Área vazia: “espaço no quarto”. Também indica o espaço sideral ou o intervalo entre palavras.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma área vazia ou livre."
+    "pt-BR": "Área vazia: “espaço no quarto”. Também indica o espaço sideral ou o intervalo entre palavras."
    },
    "antonyms": []
   },
@@ -14977,14 +15000,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "período",
-   "alternatives": [],
+   "alternatives": [
+    "semestre",
+    "termo"
+   ],
    "study_tier": "cedo",
    "study_priority": 1060,
    "user_hint": "",
-   "description": "Uma das partes em que se divide o ano escolar.",
+   "description": "Parte do ano letivo: “o semestre de primavera”. Também indica uma palavra técnica ou condições de um acordo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma das partes em que se divide o ano escolar."
+    "pt-BR": "Parte do ano letivo: “o semestre de primavera”. Também indica uma palavra técnica ou condições de um acordo."
    },
    "antonyms": []
   },
@@ -18067,15 +18093,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "fonte",
    "alternatives": [
-    "origem"
+    "origem",
+    "nascente"
    ],
    "study_tier": "cedo",
    "study_priority": 1075,
    "user_hint": "",
-   "description": "De onde algo vem.",
+   "description": "Onde algo se origina: “a nascente do rio”. Também indica quem ou o que fornece informação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "De onde algo vem."
+    "pt-BR": "Onde algo se origina: “a nascente do rio”. Também indica quem ou o que fornece informação."
    },
    "antonyms": []
   },
@@ -18121,14 +18148,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "valor",
-   "alternatives": [],
+   "alternatives": [
+    "preço",
+    "princípio"
+   ],
    "study_tier": "cedo",
    "study_priority": 1076,
    "user_hint": "",
-   "description": "Quanto algo vale.",
+   "description": "Quanto algo vale: “o valor de uma casa”. Também indica um princípio em que se acredita: “valores da família”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Quanto algo vale."
+    "pt-BR": "Quanto algo vale: “o valor de uma casa”. Também indica um princípio em que se acredita: “valores da família”."
    },
    "antonyms": []
   },
@@ -18499,14 +18529,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quantidade",
-   "alternatives": [],
+   "alternatives": [
+    "quantidade",
+    "soma"
+   ],
    "study_tier": "cedo",
    "study_priority": 1084,
-   "description": "O quanto existe de algo.",
+   "description": "Quanto há de algo: “uma pequena quantidade”. Também indica uma soma de dinheiro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O quanto existe de algo."
+    "pt-BR": "Quanto há de algo: “uma pequena quantidade”. Também indica uma soma de dinheiro."
    },
    "antonyms": []
   },
@@ -18695,15 +18728,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sentimento",
    "alternatives": [
+    "emoção",
     "sensação"
    ],
    "study_tier": "cedo",
    "study_priority": 1085,
    "user_hint": "",
-   "description": "Uma emoção; algo que se sente.",
+   "description": "Emoção: “um sentimento feliz”. Também indica sensação ou palpite: “tenho um pressentimento”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma emoção; algo que se sente."
+    "pt-BR": "Emoção: “um sentimento feliz”. Também indica sensação ou palpite: “tenho um pressentimento”."
    },
    "antonyms": []
   },
@@ -19344,14 +19378,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "atenção",
-   "alternatives": [],
+   "alternatives": [
+    "cuidado",
+    "foco"
+   ],
    "study_tier": "cedo",
    "study_priority": 1097,
    "user_hint": "",
-   "description": "Ouvir ou olhar com cuidado.",
+   "description": "Ato de ouvir ou olhar com cuidado: “prestar atenção”. Também indica cuidado e aviso: “atenção, por favor”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ouvir ou olhar com cuidado."
+    "pt-BR": "Ato de ouvir ou olhar com cuidado: “prestar atenção”. Também indica cuidado e aviso: “atenção, por favor”."
    },
    "antonyms": []
   },
@@ -19419,14 +19456,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "personagem",
-   "alternatives": [],
+   "alternatives": [
+    "personagem",
+    "caráter"
+   ],
    "study_tier": "cedo",
    "study_priority": 1098,
    "user_hint": "",
-   "description": "Pessoa de uma história, filme ou jogo.",
+   "description": "Pessoa de uma história, filme ou jogo: “um personagem de desenho”. Também indica o caráter de alguém ou um sinal escrito.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pessoa de uma história, filme ou jogo."
+    "pt-BR": "Pessoa de uma história, filme ou jogo: “um personagem de desenho”. Também indica o caráter de alguém ou um sinal escrito."
    },
    "antonyms": []
   },
@@ -19752,14 +19792,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "estilo",
-   "alternatives": [],
+   "alternatives": [
+    "modo",
+    "moda"
+   ],
    "study_tier": "cedo",
    "study_priority": 1102,
    "user_hint": "",
-   "description": "Um jeito de fazer ou de se vestir.",
+   "description": "Modo de fazer ou de vestir: “um estilo de música”. Também indica moda ou jeito pessoal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um jeito de fazer ou de se vestir."
+    "pt-BR": "Modo de fazer ou de vestir: “um estilo de música”. Também indica moda ou jeito pessoal."
    },
    "antonyms": []
   },
@@ -22691,14 +22734,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "risco",
-   "alternatives": [],
+   "alternatives": [
+    "perigo",
+    "possibilidade"
+   ],
    "study_tier": "cedo",
    "study_priority": 1114,
-   "description": "A possibilidade de algo ruim acontecer.",
+   "description": "Chance de algo ruim acontecer: “um risco à saúde”. Também indica pôr algo em perigo: “arriscar a vida”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A possibilidade de algo ruim acontecer."
+    "pt-BR": "Chance de algo ruim acontecer: “um risco à saúde”. Também indica pôr algo em perigo: “arriscar a vida”."
    },
    "antonyms": []
   },
@@ -23921,14 +23967,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "efeito",
-   "alternatives": [],
+   "alternatives": [
+    "resultado",
+    "impacto"
+   ],
    "study_tier": "cedo",
    "study_priority": 1137,
    "user_hint": "",
-   "description": "Uma mudança causada por algo.",
+   "description": "Mudança causada por algo: “efeitos colaterais”. Também indica um truque visual ou sonoro: “efeitos especiais”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma mudança causada por algo."
+    "pt-BR": "Mudança causada por algo: “efeitos colaterais”. Também indica um truque visual ou sonoro: “efeitos especiais”."
    },
    "antonyms": []
   },
@@ -24364,14 +24413,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "peso",
-   "alternatives": [],
+   "alternatives": [
+    "massa",
+    "carga"
+   ],
    "study_tier": "cedo",
    "study_priority": 1144,
-   "description": "Quão pesado algo é.",
+   "description": "Quão pesado algo é: “o peso de uma bolsa”. Também indica importância ou carga de exercício.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quão pesado algo é."
+    "pt-BR": "Quão pesado algo é: “o peso de uma bolsa”. Também indica importância ou carga de exercício."
    },
    "antonyms": []
   },
@@ -25757,15 +25809,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "seção",
    "alternatives": [
-    "parte"
+    "parte",
+    "setor"
    ],
    "study_tier": "cedo",
    "study_priority": 1167,
    "user_hint": "",
-   "description": "Uma parte de algo.",
+   "description": "Parte de algo: “a seção de esportes”. Também indica um setor de cidade ou de loja.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma parte de algo."
+    "pt-BR": "Parte de algo: “a seção de esportes”. Também indica um setor de cidade ou de loja."
    },
    "antonyms": []
   },
@@ -26135,15 +26188,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "passeio",
    "alternatives": [
-    "turnê"
+    "passeio",
+    "excursão"
    ],
    "study_tier": "cedo",
    "study_priority": 1176,
    "user_hint": "",
-   "description": "Viagem em que se visitam vários lugares.",
+   "description": "Viagem visitando vários lugares: “um passeio pela cidade”. Também indica uma série de shows.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Viagem em que se visitam vários lugares."
+    "pt-BR": "Viagem visitando vários lugares: “um passeio pela cidade”. Também indica uma série de shows."
    },
    "antonyms": []
   },
@@ -26887,14 +26941,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cena",
-   "alternatives": [],
+   "alternatives": [
+    "cena",
+    "paisagem"
+   ],
    "study_tier": "cedo",
    "study_priority": 1190,
    "user_hint": "",
-   "description": "Uma parte de um filme ou peça; também uma vista.",
+   "description": "Parte de filme ou peça: “a última cena”. Também indica uma paisagem ou uma cena de raiva.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma parte de um filme ou peça; também uma vista."
+    "pt-BR": "Parte de filme ou peça: “a última cena”. Também indica uma paisagem ou uma cena de raiva."
    },
    "antonyms": []
   },
@@ -26988,14 +27045,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "declaração",
-   "alternatives": [],
+   "alternatives": [
+    "declaração",
+    "extrato"
+   ],
    "study_tier": "cedo",
    "study_priority": 1192,
    "user_hint": "",
-   "description": "Algo dito ou escrito oficialmente.",
+   "description": "Algo dito ou escrito oficialmente: “um comunicado”. Também indica o extrato bancário.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Algo dito ou escrito oficialmente."
+    "pt-BR": "Algo dito ou escrito oficialmente: “um comunicado”. Também indica o extrato bancário."
    },
    "antonyms": []
   },
@@ -27087,15 +27147,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "treinador",
    "alternatives": [
-    "técnico"
+    "técnico",
+    "instrutor"
    ],
    "study_tier": "cedo",
    "study_priority": 1194,
    "user_hint": "",
-   "description": "Pessoa que treina um time.",
+   "description": "Pessoa que treina uma equipe: “treinador de futebol”. Também indica ônibus de viagem ou professor particular.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pessoa que treina um time."
+    "pt-BR": "Pessoa que treina uma equipe: “treinador de futebol”. Também indica ônibus de viagem ou professor particular."
    },
    "antonyms": []
   },
@@ -28238,14 +28299,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "bar",
-   "alternatives": [],
+   "alternatives": [
+    "boteco",
+    "balcão"
+   ],
    "study_tier": "cedo",
    "study_priority": 1219,
    "user_hint": "",
-   "description": "Lugar que serve bebidas, sobretudo alcoólicas.",
+   "description": "Lugar que serve bebidas: “um bar”. Também indica barra (“barra de chocolate”) e barreira.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Lugar que serve bebidas, sobretudo alcoólicas."
+    "pt-BR": "Lugar que serve bebidas: “um bar”. Também indica barra (“barra de chocolate”) e barreira."
    },
    "antonyms": []
   },
@@ -29270,14 +29334,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "banda",
-   "alternatives": [],
+   "alternatives": [
+    "conjunto",
+    "faixa"
+   ],
    "study_tier": "cedo",
    "study_priority": 1239,
    "user_hint": "",
-   "description": "Grupo de músicos.",
+   "description": "Grupo de músicos: “uma banda de rock”. Também indica tira (“elástico”) e faixa de valores.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Grupo de músicos."
+    "pt-BR": "Grupo de músicos: “uma banda de rock”. Também indica tira (“elástico”) e faixa de valores."
    },
    "antonyms": []
   },
@@ -32436,14 +32503,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "célula",
-   "alternatives": [],
+   "alternatives": [
+    "unidade",
+    "cela"
+   ],
    "study_tier": "cedo",
    "study_priority": 1301,
    "user_hint": "",
-   "description": "A menor parte viva do corpo.",
+   "description": "Menor parte viva de um corpo: “células do sangue”. Também indica cela de prisão ou celular.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A menor parte viva do corpo."
+    "pt-BR": "Menor parte viva de um corpo: “células do sangue”. Também indica cela de prisão ou celular."
    },
    "antonyms": []
   },
@@ -33117,15 +33187,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "condição",
    "alternatives": [
-    "estado"
+    "estado",
+    "exigência"
    ],
    "study_tier": "cedo",
    "study_priority": 1314,
    "user_hint": "",
-   "description": "O estado em que algo ou alguém se encontra.",
+   "description": "Estado de algo ou alguém: “em boas condições”. Também indica exigência: “com uma condição”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O estado em que algo ou alguém se encontra."
+    "pt-BR": "Estado de algo ou alguém: “em boas condições”. Também indica exigência: “com uma condição”."
    },
    "antonyms": []
   },
@@ -33259,15 +33330,18 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "calor",
-   "alternatives": [],
+   "alternatives": [
+    "calor",
+    "temperatura"
+   ],
    "study_tier": "cedo",
    "study_priority": 1316,
-   "description": "Qualidade do que é quente; temperatura alta.",
+   "description": "Calor: “o calor do sol”. Também indica etapa de corrida ou tensão forte.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
    "nativeExplain": {
-    "pt-BR": "Qualidade do que é quente; temperatura alta."
+    "pt-BR": "Calor: “o calor do sol”. Também indica etapa de corrida ou tensão forte."
    }
   },
   {
@@ -33281,14 +33355,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "entrevista",
-   "alternatives": [],
+   "alternatives": [
+    "conversa",
+    "sabatina"
+   ],
    "study_tier": "cedo",
    "study_priority": 1317,
    "user_hint": "",
-   "description": "Encontro em que se fazem perguntas a alguém.",
+   "description": "Encontro para fazer perguntas a alguém: “uma entrevista de emprego”. Também indica conversa com uma pessoa famosa para a mídia.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Encontro em que se fazem perguntas a alguém."
+    "pt-BR": "Encontro para fazer perguntas a alguém: “uma entrevista de emprego”. Também indica conversa com uma pessoa famosa para a mídia."
    },
    "antonyms": []
   },
@@ -33578,14 +33655,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "canal",
-   "alternatives": [],
+   "alternatives": [
+    "emissora",
+    "via"
+   ],
    "study_tier": "cedo",
    "study_priority": 1323,
    "user_hint": "",
-   "description": "Uma emissora de TV ou conta de vídeos online.",
+   "description": "Emissora de TV ou conta do YouTube: “um canal de notícias”. Também indica meio de comunicação ou canal de água.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma emissora de TV ou conta de vídeos online."
+    "pt-BR": "Emissora de TV ou conta do YouTube: “um canal de notícias”. Também indica meio de comunicação ou canal de água."
    },
    "antonyms": []
   },
@@ -33891,14 +33971,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "proteção",
-   "alternatives": [],
+   "alternatives": [
+    "defesa",
+    "segurança"
+   ],
    "study_tier": "cedo",
    "study_priority": 1330,
    "user_hint": "",
-   "description": "Ato de manter a salvo.",
+   "description": "Ato de manter seguro: “proteção contra o sol”. Também indica algo que protege.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ato de manter a salvo."
+    "pt-BR": "Ato de manter seguro: “proteção contra o sol”. Também indica algo que protege."
    },
    "antonyms": []
   },
