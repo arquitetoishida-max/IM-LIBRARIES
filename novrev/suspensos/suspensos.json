@@ -1,0 +1,4363 @@
+{
+ "reservados_e_pendentes": [
+  {
+   "id": "en:000000017",
+   "estado": "Pendente",
+   "motivo": "A flexão inglesa are se aplica a you, we e they. O português são tem alcance diferente, e JA e ZH não flexionam a cópula por pessoa. Indicar se deve ser forma no cartão ou expressão didática.",
+   "en": {
+    "text": "are",
+    "alternatives": null,
+    "reading": null,
+    "description": "The present form of \"be\" used with you, we and they."
+   },
+   "pt-BR": {
+    "text": "são",
+    "alternatives": [
+     "estão"
+    ],
+    "reading": null,
+    "description": "Forma do presente de \"ser/estar\" usada com você, nós e eles."
+   },
+   "ja": {
+    "text": "です",
+    "alternatives": [],
+    "reading": "です",
+    "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。"
+   },
+   "zh": {
+    "text": "是",
+    "alternatives": [],
+    "reading": "shì",
+    "description": "“be”的现在形式，和 you、we、they 连用。"
+   }
+  },
+  {
+   "id": "en:000000218",
+   "estado": "Pendente",
+   "motivo": "Few pode sugerir insuficiência. 几个 indica aproximadamente alguns, sem a nuance correspondente, e 少しの também serve a quantidades incontáveis. Fixar um recorte comum.",
+   "en": {
+    "text": "few",
+    "alternatives": null,
+    "reading": null,
+    "description": "A small number of people or things. Without “a”, it often suggests fewer than wanted."
+   },
+   "pt-BR": {
+    "text": "poucos",
+    "alternatives": [
+     "alguns"
+    ],
+    "reading": null,
+    "description": "Indica um número pequeno de pessoas ou coisas. Pode sugerir quantidade insuficiente."
+   },
+   "ja": {
+    "text": "少しの",
+    "alternatives": [
+     "少数の"
+    ],
+    "reading": "すこしの",
+    "description": "物の数や量が少ないことを名詞の前で表す。「少しのお金」。"
+   },
+   "zh": {
+    "text": "几个",
+    "alternatives": [
+     "很少"
+    ],
+    "reading": "jǐ ge",
+    "description": "指不多的几个，通常只表示一个大概的数目。"
+   }
+  },
+  {
+   "id": "en:000000100",
+   "estado": "Pendente",
+   "motivo": "O inglês e ZH apontam aqui ao maior grau ou quantidade, enquanto a maioria em PT indica a maior parte de um grupo. Decidir o sentido que fica no ID.",
+   "en": {
+    "text": "most",
+    "alternatives": null,
+    "reading": null,
+    "description": "The greatest amount or number among the things compared. “Most of” can mean the greater part of a group."
+   },
+   "pt-BR": {
+    "text": "a maioria",
+    "alternatives": [
+     "mais"
+    ],
+    "reading": null,
+    "description": "A parte numericamente maior de um grupo ou conjunto."
+   },
+   "ja": {
+    "text": "一番",
+    "alternatives": [],
+    "reading": "いちばん",
+    "description": "順番や程度の最上位を表す。「一番大きい」。"
+   },
+   "zh": {
+    "text": "最多",
+    "alternatives": [
+     "大多数"
+    ],
+    "reading": "zuì duō",
+    "description": "表示在比较的对象中数量最大。"
+   }
+  },
+  {
+   "id": "en:000000014",
+   "estado": "Pendente",
+   "motivo": "Was exige a flexão do passado. 是 em ZH não carrega tempo verbal, e a forma JA depende do tipo de predicado. Decidir se deve ser uma forma no card.",
+   "en": {
+    "text": "was",
+    "alternatives": null,
+    "reading": null,
+    "description": "Past of \"be\" (I/he/she was)."
+   },
+   "pt-BR": {
+    "text": "era",
+    "alternatives": [
+     "estava",
+     "foi"
+    ],
+    "reading": null,
+    "description": "Passado de \"ser/estar\" (eu/ele/ela era)."
+   },
+   "ja": {
+    "text": "だった",
+    "alternatives": [],
+    "reading": "だった",
+    "description": "「be」の過去の形。"
+   },
+   "zh": {
+    "text": "是",
+    "alternatives": [],
+    "reading": "shì",
+    "description": "“be”的过去形式（was）。"
+   }
+  },
+  {
+   "id": "en:000000553",
+   "estado": "Pendente",
+   "motivo": "而是 introduz uma correção depois de uma negação. A equivalência com instead é apenas contextual. Escolher se o ID será substituição ou contraste corretivo.",
+   "en": {
+    "text": "instead",
+    "alternatives": null,
+    "reading": null,
+    "description": "In place of something else."
+   },
+   "pt-BR": {
+    "text": "em vez disso",
+    "alternatives": [
+     "no lugar"
+    ],
+    "reading": null,
+    "description": "No lugar de outra coisa."
+   },
+   "ja": {
+    "text": "代わりに",
+    "alternatives": [],
+    "reading": "かわりに",
+    "description": "別のものの代わりに。"
+   },
+   "zh": {
+    "text": "而是",
+    "alternatives": [
+     "代替"
+    ],
+    "reading": "érshì",
+    "description": "替代另一件事。"
+   }
+  },
+  {
+   "id": "en:000000090",
+   "estado": "Pendente",
+   "motivo": "Could pode indicar capacidade passada ou pedido hipotético. A forma JA できた descreve capacidade já realizada e a ZH 能 não distingue o passado.",
+   "en": {
+    "text": "could",
+    "alternatives": null,
+    "reading": null,
+    "description": "Past of \"can\"; also polite possibility (\"could you...?\")."
+   },
+   "pt-BR": {
+    "text": "podia",
+    "alternatives": [
+     "poderia",
+     "conseguia"
+    ],
+    "reading": null,
+    "description": "Passado de \"poder\"; também possibilidade educada (\"você poderia...?\")."
+   },
+   "ja": {
+    "text": "できた",
+    "alternatives": [],
+    "reading": "できた",
+    "description": "「can」の過去。ていねいな依頼にも使う。"
+   },
+   "zh": {
+    "text": "能",
+    "alternatives": [
+     "可以"
+    ],
+    "reading": "néng",
+    "description": "“can”的过去形式；也用于客气的请求。"
+   }
+  },
+  {
+   "id": "en:000000038",
+   "estado": "Pendente",
+   "motivo": "Will pode indicar previsão, decisão ou promessa. 〜つもり exprime intenção. Fixar o sentido e distinguir do ID histórico de planos futuros.",
+   "en": {
+    "text": "will",
+    "alternatives": null,
+    "reading": null,
+    "description": "A word for future actions, decisions or offers."
+   },
+   "pt-BR": {
+    "text": "vai",
+    "alternatives": [
+     "irá"
+    ],
+    "reading": null,
+    "description": "Indica ações futuras, decisões ou ofertas."
+   },
+   "ja": {
+    "text": "〜つもり",
+    "alternatives": [],
+    "reading": "つもり",
+    "description": "これからすることや決めたことを表す言葉。"
+   },
+   "zh": {
+    "text": "会",
+    "alternatives": [
+     "将"
+    ],
+    "reading": "huì",
+    "description": "表示将来的动作、决定或提议。"
+   }
+  },
+  {
+   "id": "en:000000045",
+   "estado": "Pendente",
+   "motivo": "Has é flexão inglesa de terceira pessoa singular. A base JA 持っている e a ZH 有 não têm esse contraste. Avaliar como forma subordinada a have.",
+   "en": {
+    "text": "has",
+    "alternatives": null,
+    "reading": null,
+    "description": "A form of \"have\" used with he, she and it."
+   },
+   "pt-BR": {
+    "text": "tem",
+    "alternatives": [],
+    "reading": null,
+    "description": "Forma de \"ter\" usada com ele, ela e isso."
+   },
+   "ja": {
+    "text": "持っている",
+    "alternatives": [],
+    "reading": "もっている",
+    "description": "「彼・彼女・それ」と使う「have」の形。"
+   },
+   "zh": {
+    "text": "有",
+    "alternatives": [],
+    "reading": "yǒu",
+    "description": "“have”和 he、she、it 连用的形式。"
+   }
+  },
+  {
+   "id": "en:000000536",
+   "estado": "Pendente",
+   "motivo": "O português do outro lado de descreve posição. JA e ZH descrevem o movimento de atravessar. Definir se a entrada é deslocamento ou localização.",
+   "en": {
+    "text": "across",
+    "alternatives": null,
+    "reading": null,
+    "description": "From one side to the other."
+   },
+   "pt-BR": {
+    "text": "do outro lado de",
+    "alternatives": [
+     "através de"
+    ],
+    "reading": null,
+    "description": "De um lado ao outro."
+   },
+   "ja": {
+    "text": "〜を横切って",
+    "alternatives": [],
+    "reading": "〜をよこぎって",
+    "description": "一方から反対側へ。"
+   },
+   "zh": {
+    "text": "横过",
+    "alternatives": [
+     "穿过",
+     "在…对面"
+    ],
+    "reading": "héngguò",
+    "description": "从一边到另一边。"
+   }
+  },
+  {
+   "id": "en:000000050",
+   "estado": "Pendente",
+   "motivo": "Were exige a flexão do passado conforme a pessoa em EN. A forma ZH 是 não distingue tempo e JA não marca as mesmas pessoas.",
+   "en": {
+    "text": "were",
+    "alternatives": null,
+    "reading": null,
+    "description": "Past of \"be\" (we/you/they were)."
+   },
+   "pt-BR": {
+    "text": "eram",
+    "alternatives": [
+     "estavam",
+     "foram"
+    ],
+    "reading": null,
+    "description": "Passado de \"ser/estar\" (nós/vocês/eles eram)."
+   },
+   "ja": {
+    "text": "だった",
+    "alternatives": [],
+    "reading": "だった",
+    "description": "「be」の過去の形（we/you/they）。"
+   },
+   "zh": {
+    "text": "是",
+    "alternatives": [],
+    "reading": "shì",
+    "description": "“be”的过去形式（were）。"
+   }
+  },
+  {
+   "id": "en:000000052",
+   "estado": "Pendente",
+   "motivo": "有过 em ZH introduz experiência passada e não cobre o passado simples de ter em geral. Definir o contexto antes de liberar.",
+   "en": {
+    "text": "had",
+    "alternatives": null,
+    "reading": null,
+    "description": "Past of \"have\"."
+   },
+   "pt-BR": {
+    "text": "tinha",
+    "alternatives": [
+     "teve"
+    ],
+    "reading": null,
+    "description": "Passado de \"ter\"."
+   },
+   "ja": {
+    "text": "持っていた",
+    "alternatives": [],
+    "reading": "もっていた",
+    "description": "「have」の過去の形。"
+   },
+   "zh": {
+    "text": "有过",
+    "alternatives": [
+     "曾有",
+     "有"
+    ],
+    "reading": "yǒuguo",
+    "description": "“have”的过去形式。"
+   }
+  },
+  {
+   "id": "en:000000060",
+   "estado": "Pendente",
+   "motivo": "行ったことがある e 去过 significam já ter ido. Não servem como equivalência geral de been ou sido.",
+   "en": {
+    "text": "been",
+    "alternatives": null,
+    "reading": null,
+    "description": "Past participle of \"be\" (\"I have been there\")."
+   },
+   "pt-BR": {
+    "text": "sido",
+    "alternatives": [
+     "estado"
+    ],
+    "reading": null,
+    "description": "Particípio de \"ser/estar\" (\"eu já estive lá\")."
+   },
+   "ja": {
+    "text": "行ったことがある",
+    "alternatives": [],
+    "reading": "いったことがある",
+    "description": "「be」の過去分詞（「そこに行ったことがある」）。"
+   },
+   "zh": {
+    "text": "去过",
+    "alternatives": [
+     "一直是"
+    ],
+    "reading": "qùguo",
+    "description": "“be”的过去分词（“我去过那里”）。"
+   }
+  },
+  {
+   "id": "en:000000061",
+   "estado": "Pendente",
+   "motivo": "O auxiliar inglês tem usos hipotético, habitual e de cortesia. A forma JA 〜だろう exprime hipótese ou previsão e já estava retirada de estudo em JA. Definir o sentido ou manter reservado.",
+   "en": {
+    "text": "would",
+    "alternatives": null,
+    "reading": null,
+    "description": "Used for imagined or polite situations (\"I would like\")."
+   },
+   "pt-BR": {
+    "text": "gostaria",
+    "alternatives": [
+     "iria"
+    ],
+    "reading": null,
+    "description": "Usado para situações imaginadas ou educadas (\"eu gostaria\")."
+   },
+   "ja": {
+    "text": "〜だろう",
+    "alternatives": [],
+    "reading": "〜だろう",
+    "description": "仮定や、ていねいな言い方に使う言葉。"
+   },
+   "zh": {
+    "text": "会",
+    "alternatives": [
+     "想要"
+    ],
+    "reading": "huì",
+    "description": "用于假设或客气的说法（“我想要”）。"
+   }
+  },
+  {
+   "id": "en:000000779",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / esporte — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "football",
+    "alternatives": null,
+    "reading": null,
+    "description": "Association football (soccer); called \"soccer\" in the US."
+   },
+   "pt-BR": {
+    "text": "futebol",
+    "alternatives": [],
+    "reading": null,
+    "description": "Esporte de bola jogado com os pés (futebol)."
+   },
+   "ja": {
+    "text": "サッカー",
+    "alternatives": [],
+    "reading": "サッカー",
+    "description": "足でボールを蹴って点を取り合うスポーツ。"
+   },
+   "zh": {
+    "text": "足球",
+    "alternatives": [],
+    "reading": "zúqiú",
+    "description": "用脚踢球的运动（足球）。"
+   }
+  },
+  {
+   "id": "en:000001146",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / grafia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "centre",
+    "alternatives": null,
+    "reading": null,
+    "description": "British spelling of \"center\": the middle; a place for an activity."
+   },
+   "pt-BR": {
+    "text": "centro",
+    "alternatives": [],
+    "reading": null,
+    "description": "O meio; lugar para uma atividade."
+   },
+   "ja": {
+    "text": "中心",
+    "alternatives": [],
+    "reading": "ちゅうしん",
+    "description": "まん中。ある活動をする場所。"
+   },
+   "zh": {
+    "text": "中心",
+    "alternatives": [],
+    "reading": "zhōngxīn",
+    "description": "中间；进行某种活动的场所。"
+   }
+  },
+  {
+   "id": "en:000003146",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / calçada — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "pavement",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: the path beside a road for walking."
+   },
+   "pt-BR": {
+    "text": "calçada",
+    "alternatives": [],
+    "reading": null,
+    "description": "Caminho ao lado da rua para pedestres."
+   },
+   "ja": {
+    "text": "歩道",
+    "alternatives": [],
+    "reading": "ほどう",
+    "description": "道のわきの、歩く人のための道。"
+   },
+   "zh": {
+    "text": "人行道",
+    "alternatives": [],
+    "reading": "rénxíngdào",
+    "description": "路边供行人走的道。"
+   }
+  },
+  {
+   "id": "en:000004057",
+   "estado": "Pendente",
+   "motivo": "Carona pressupõe ir de passageiro com alguém. JA 車に乗せること descreve levar outra pessoa. Decidir a forma de passageiro antes de liberar.",
+   "en": {
+    "text": "ride",
+    "alternatives": [],
+    "reading": null,
+    "description": "A free trip in someone's car."
+   },
+   "pt-BR": {
+    "text": "carona",
+    "alternatives": [],
+    "reading": null,
+    "description": "Viagem de graça no carro de alguém."
+   },
+   "ja": {
+    "text": "車に乗せること",
+    "alternatives": [],
+    "reading": "くるまにのせること",
+    "description": "人の車に、ただで乗せてもらうこと。"
+   },
+   "zh": {
+    "text": "搭车",
+    "alternatives": [],
+    "reading": "dāchē",
+    "description": "免费搭别人的车。"
+   }
+  },
+  {
+   "id": "en:000000369",
+   "estado": "Pendente",
+   "motivo": "O gerúndio inglês, a iminência japonesa e a resposta chinesa 来了 têm funções parcialmente diferentes. Definir se o foco é deslocamento em curso ou resposta de chegada iminente.",
+   "en": {
+    "text": "coming",
+    "alternatives": null,
+    "reading": null,
+    "description": "Present participle of come, as in she is coming."
+   },
+   "pt-BR": {
+    "text": "vindo",
+    "alternatives": [
+     "já vou"
+    ],
+    "reading": null,
+    "description": "Forma de gerúndio de \"come\", como em \"she is coming\"."
+   },
+   "ja": {
+    "text": "来るところ",
+    "alternatives": [
+     "来ている"
+    ],
+    "reading": "くるところ",
+    "description": "「come」の〜ing形。"
+   },
+   "zh": {
+    "text": "来了",
+    "alternatives": [
+     "马上来"
+    ],
+    "reading": "lái le",
+    "description": "“come”的进行形式。"
+   }
+  },
+  {
+   "id": "en:000002008",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / grafia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "labour",
+    "alternatives": null,
+    "reading": null,
+    "description": "British spelling of \"labor\": work."
+   },
+   "pt-BR": {
+    "text": "trabalho",
+    "alternatives": [],
+    "reading": null,
+    "description": "Grafia britânica de \"labor\": trabalho."
+   },
+   "ja": {
+    "text": "労働",
+    "alternatives": [],
+    "reading": "ろうどう",
+    "description": "「labor」（仕事）のイギリス式のつづり。"
+   },
+   "zh": {
+    "text": "劳动",
+    "alternatives": [],
+    "reading": "láodòng",
+    "description": "“labor”（劳动）的英式拼法。"
+   }
+  },
+  {
+   "id": "en:000002585",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / grafia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "favourite",
+    "alternatives": null,
+    "reading": null,
+    "description": "British spelling of \"favorite\"."
+   },
+   "pt-BR": {
+    "text": "favorito",
+    "alternatives": [],
+    "reading": null,
+    "description": "Grafia britânica de \"favorito\"."
+   },
+   "ja": {
+    "text": "お気に入りの",
+    "alternatives": [],
+    "reading": "おきにいりの",
+    "description": "「favorite」（お気に入り）のイギリス式のつづり。"
+   },
+   "zh": {
+    "text": "最喜欢的",
+    "alternatives": [],
+    "reading": "zuì xǐhuan de",
+    "description": "“favorite”（最喜欢的）的英式拼法。"
+   }
+  },
+  {
+   "id": "en:000002602",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / grafia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "programme",
+    "alternatives": null,
+    "reading": null,
+    "description": "British spelling of \"program\"."
+   },
+   "pt-BR": {
+    "text": "programa",
+    "alternatives": [],
+    "reading": null,
+    "description": "Grafia britânica de \"programa\"."
+   },
+   "ja": {
+    "text": "番組",
+    "alternatives": [],
+    "reading": "ばんぐみ",
+    "description": "「program」（番組）のイギリス式のつづり。"
+   },
+   "zh": {
+    "text": "节目",
+    "alternatives": [
+     "项目"
+    ],
+    "reading": "jiémù",
+    "description": "“program”（节目）的英式拼法。"
+   }
+  },
+  {
+   "id": "en:000002897",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / grafia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "defence",
+    "alternatives": null,
+    "reading": null,
+    "description": "British spelling of \"defense\"."
+   },
+   "pt-BR": {
+    "text": "defesa",
+    "alternatives": [],
+    "reading": null,
+    "description": "Grafia britânica de \"defesa\"."
+   },
+   "ja": {
+    "text": "防衛",
+    "alternatives": [],
+    "reading": "ぼうえい",
+    "description": "「defense」（防衛）のイギリス式のつづり。"
+   },
+   "zh": {
+    "text": "防守",
+    "alternatives": [
+     "防御"
+    ],
+    "reading": "fángshǒu",
+    "description": "“defense”（防卫）的英式拼法。"
+   }
+  },
+  {
+   "id": "en:000002702",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "mate",
+    "alternatives": null,
+    "reading": null,
+    "description": "A friend (British, Australian)."
+   },
+   "pt-BR": {
+    "text": "amigo",
+    "alternatives": [
+     "parceiro"
+    ],
+    "reading": null,
+    "description": "Um amigo (britânico, australiano)."
+   },
+   "ja": {
+    "text": "友だち",
+    "alternatives": [],
+    "reading": "ともだち",
+    "description": "友だち（イギリスやオーストラリアで）。"
+   },
+   "zh": {
+    "text": "朋友",
+    "alternatives": [
+     "伙伴"
+    ],
+    "reading": "péngyou",
+    "description": "朋友（英国、澳大利亚用语）。"
+   }
+  },
+  {
+   "id": "en:000003002",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "quid",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: a pound (money)."
+   },
+   "pt-BR": {
+    "text": "libra",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: uma libra (dinheiro)."
+   },
+   "ja": {
+    "text": "ポンド",
+    "alternatives": [],
+    "reading": "ポンド",
+    "description": "イギリスで、1ポンド（お金）のこと。"
+   },
+   "zh": {
+    "text": "镑",
+    "alternatives": [],
+    "reading": "bàng",
+    "description": "英国用语：一英镑。"
+   }
+  },
+  {
+   "id": "en:000003003",
+   "estado": "Reservar",
+   "motivo": "Texas e Sul dos EUA — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "y'all",
+    "alternatives": null,
+    "reading": null,
+    "description": "Southern US: \"you all\"."
+   },
+   "pt-BR": {
+    "text": "vocês",
+    "alternatives": [
+     "vocês todos"
+    ],
+    "reading": null,
+    "description": "Forma de se dirigir a mais de uma pessoa."
+   },
+   "ja": {
+    "text": "みんな",
+    "alternatives": [],
+    "reading": "みんな",
+    "description": "その場の全員や話し相手の集まりを指す。"
+   },
+   "zh": {
+    "text": "你们",
+    "alternatives": [],
+    "reading": "nǐmen",
+    "description": "指交谈对象中的多个人。"
+   }
+  },
+  {
+   "id": "en:000003004",
+   "estado": "Reservar",
+   "motivo": "Califórnia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "hella",
+    "alternatives": null,
+    "reading": null,
+    "description": "California slang: very; a lot."
+   },
+   "pt-BR": {
+    "text": "muito",
+    "alternatives": [
+     "pra caramba"
+    ],
+    "reading": null,
+    "description": "Gíria da Califórnia: muito."
+   },
+   "ja": {
+    "text": "めっちゃ",
+    "alternatives": [],
+    "reading": "めっちゃ",
+    "description": "カリフォルニアのくだけた言葉で、とても。"
+   },
+   "zh": {
+    "text": "超",
+    "alternatives": [
+     "特别"
+    ],
+    "reading": "chāo",
+    "description": "加州俚语：非常。"
+   }
+  },
+  {
+   "id": "en:000003005",
+   "estado": "Reservar",
+   "motivo": "Nova Inglaterra — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "wicked",
+    "alternatives": null,
+    "reading": null,
+    "description": "Informal: very good, or very (especially in New England and British slang)."
+   },
+   "pt-BR": {
+    "text": "irado",
+    "alternatives": [
+     "muito"
+    ],
+    "reading": null,
+    "description": "Informal: muito bom ou muito (Nova Inglaterra e Reino Unido)."
+   },
+   "ja": {
+    "text": "最高",
+    "alternatives": [],
+    "reading": "さいこう",
+    "description": "くだけた言葉で、とてもよい、とても。"
+   },
+   "zh": {
+    "text": "超棒",
+    "alternatives": [
+     "特别"
+    ],
+    "reading": "chāo bàng",
+    "description": "口语：很棒或非常（新英格兰和英国）。"
+   }
+  },
+  {
+   "id": "en:000003007",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "loo",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: toilet."
+   },
+   "pt-BR": {
+    "text": "banheiro",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: banheiro."
+   },
+   "ja": {
+    "text": "トイレ",
+    "alternatives": [],
+    "reading": "トイレ",
+    "description": "イギリスで、トイレのこと。"
+   },
+   "zh": {
+    "text": "厕所",
+    "alternatives": [],
+    "reading": "cèsuǒ",
+    "description": "英国用语：厕所。"
+   }
+  },
+  {
+   "id": "en:000003008",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "cheers",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: thanks; also said when toasting."
+   },
+   "pt-BR": {
+    "text": "valeu",
+    "alternatives": [
+     "saúde!"
+    ],
+    "reading": null,
+    "description": "Britânico: obrigado; também dito num brinde."
+   },
+   "ja": {
+    "text": "ありがとう",
+    "alternatives": [],
+    "reading": "ありがとう",
+    "description": "イギリスで、ありがとう。乾杯のときにも言う。"
+   },
+   "zh": {
+    "text": "谢啦",
+    "alternatives": [
+     "干杯"
+    ],
+    "reading": "xiè la",
+    "description": "英国用语：谢谢；碰杯时也说。"
+   }
+  },
+  {
+   "id": "en:000003018",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "dodgy",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: not trustworthy; suspicious."
+   },
+   "pt-BR": {
+    "text": "duvidoso",
+    "alternatives": [
+     "suspeito"
+    ],
+    "reading": null,
+    "description": "Britânico: que não é confiável; suspeito."
+   },
+   "ja": {
+    "text": "怪しい",
+    "alternatives": [],
+    "reading": "あやしい",
+    "description": "イギリスで、信用できない。あやしい。"
+   },
+   "zh": {
+    "text": "可疑",
+    "alternatives": [
+     "不靠谱"
+    ],
+    "reading": "kěyí",
+    "description": "英国用语：不可靠；可疑。"
+   }
+  },
+  {
+   "id": "en:000003019",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "gutted",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: very disappointed."
+   },
+   "pt-BR": {
+    "text": "arrasado",
+    "alternatives": [
+     "decepcionado"
+    ],
+    "reading": null,
+    "description": "Britânico: muito decepcionado."
+   },
+   "ja": {
+    "text": "がっかりした",
+    "alternatives": [],
+    "reading": "がっかりした",
+    "description": "イギリスで、とてもがっかりした。"
+   },
+   "zh": {
+    "text": "特别失望",
+    "alternatives": [],
+    "reading": "tèbié shīwàng",
+    "description": "英国用语：非常失望。"
+   }
+  },
+  {
+   "id": "en:000003020",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "chuffed",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: very pleased."
+   },
+   "pt-BR": {
+    "text": "felizão",
+    "alternatives": [
+     "todo contente"
+    ],
+    "reading": null,
+    "description": "Britânico: muito contente."
+   },
+   "ja": {
+    "text": "すごくうれしい",
+    "alternatives": [],
+    "reading": "すごくうれしい",
+    "description": "イギリスで、とてもうれしい。"
+   },
+   "zh": {
+    "text": "超开心",
+    "alternatives": [],
+    "reading": "chāo kāixīn",
+    "description": "英国用语：非常开心。"
+   }
+  },
+  {
+   "id": "en:000003021",
+   "estado": "Reservar",
+   "motivo": "Nova York — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "bodega",
+    "alternatives": null,
+    "reading": null,
+    "description": "A small corner shop in New York."
+   },
+   "pt-BR": {
+    "text": "mercadinho",
+    "alternatives": [
+     "venda"
+    ],
+    "reading": null,
+    "description": "Pequeno comércio de bairro que vende alimentos e itens do dia a dia."
+   },
+   "ja": {
+    "text": "コンビニ",
+    "alternatives": [],
+    "reading": "コンビニ",
+    "description": "食品や飲み物、日用品などを売る小型の店。長い時間営業することが多い。"
+   },
+   "zh": {
+    "text": "小卖部",
+    "alternatives": [
+     "便利店"
+    ],
+    "reading": "xiǎomàibù",
+    "description": "出售食品或少量日用品的小商店，常设在学校、社区等地方。"
+   }
+  },
+  {
+   "id": "en:000003053",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "takeaway",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: food bought to eat at home."
+   },
+   "pt-BR": {
+    "text": "comida para viagem",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: comida comprada para comer em casa."
+   },
+   "ja": {
+    "text": "持ち帰り",
+    "alternatives": [],
+    "reading": "もちかえり",
+    "description": "イギリスで、買って家で食べる料理。"
+   },
+   "zh": {
+    "text": "外卖",
+    "alternatives": [],
+    "reading": "wàimài",
+    "description": "英国用语：买回家吃的饭菜。"
+   }
+  },
+  {
+   "id": "en:000003055",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "cuppa",
+    "alternatives": null,
+    "reading": null,
+    "description": "A cup of tea, in informal British and some other varieties of English."
+   },
+   "pt-BR": {
+    "text": "um chazinho",
+    "alternatives": [],
+    "reading": null,
+    "description": "Uma xícara de chá, no inglês britânico informal."
+   },
+   "ja": {
+    "text": "お茶一杯",
+    "alternatives": [],
+    "reading": "おちゃいっぱい",
+    "description": "お茶一杯。イギリスのくだけた言い方。"
+   },
+   "zh": {
+    "text": "一杯茶",
+    "alternatives": [],
+    "reading": "yì bēi chá",
+    "description": "一杯茶（英式口语）。"
+   }
+  },
+  {
+   "id": "en:000003056",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "knackered",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: very tired."
+   },
+   "pt-BR": {
+    "text": "exausto",
+    "alternatives": [
+     "acabado"
+    ],
+    "reading": null,
+    "description": "Britânico: muito cansado."
+   },
+   "ja": {
+    "text": "へとへとの",
+    "alternatives": [],
+    "reading": "へとへとの",
+    "description": "イギリスで、へとへとにつかれた。"
+   },
+   "zh": {
+    "text": "累坏了",
+    "alternatives": [
+     "筋疲力尽"
+    ],
+    "reading": "lèi huài le",
+    "description": "英国用语：累坏了。"
+   }
+  },
+  {
+   "id": "en:000003057",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "skint",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: having no money."
+   },
+   "pt-BR": {
+    "text": "liso (sem grana)",
+    "alternatives": [
+     "duro"
+    ],
+    "reading": null,
+    "description": "Britânico: sem dinheiro."
+   },
+   "ja": {
+    "text": "金欠の",
+    "alternatives": [],
+    "reading": "きんけつの",
+    "description": "イギリスで、お金がない。"
+   },
+   "zh": {
+    "text": "没钱",
+    "alternatives": [
+     "穷光蛋"
+    ],
+    "reading": "méi qián",
+    "description": "英国用语：没钱。"
+   }
+  },
+  {
+   "id": "en:000003058",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "faff",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: to waste time doing unimportant things."
+   },
+   "pt-BR": {
+    "text": "enrolar",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: perder tempo com coisas sem importância."
+   },
+   "ja": {
+    "text": "もたもたする",
+    "alternatives": [],
+    "reading": "もたもたする",
+    "description": "イギリスで、どうでもいいことに時間をむだにする。"
+   },
+   "zh": {
+    "text": "磨蹭",
+    "alternatives": [],
+    "reading": "móceng",
+    "description": "英国用语：在小事上磨蹭浪费时间。"
+   }
+  },
+  {
+   "id": "en:000003059",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "bloke",
+    "alternatives": null,
+    "reading": null,
+    "description": "A man, in informal British and Australian English."
+   },
+   "pt-BR": {
+    "text": "cara",
+    "alternatives": [
+     "sujeito"
+    ],
+    "reading": null,
+    "description": "Um homem, no inglês informal britânico e australiano."
+   },
+   "ja": {
+    "text": "やつ",
+    "alternatives": [],
+    "reading": "やつ",
+    "description": "男の人。イギリスやオーストラリアのくだけた言い方。"
+   },
+   "zh": {
+    "text": "家伙",
+    "alternatives": [
+     "男的"
+    ],
+    "reading": "jiāhuo",
+    "description": "男人（英国、澳大利亚口语）。"
+   }
+  },
+  {
+   "id": "en:000003060",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "uni",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: university."
+   },
+   "pt-BR": {
+    "text": "faculdade",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: universidade."
+   },
+   "ja": {
+    "text": "大学",
+    "alternatives": [],
+    "reading": "だいがく",
+    "description": "イギリスで、大学のこと。"
+   },
+   "zh": {
+    "text": "大学",
+    "alternatives": [],
+    "reading": "dàxué",
+    "description": "英国用语：大学。"
+   }
+  },
+  {
+   "id": "en:000003061",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "rubbish",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: garbage; nonsense."
+   },
+   "pt-BR": {
+    "text": "lixo",
+    "alternatives": [
+     "bobagem"
+    ],
+    "reading": null,
+    "description": "Britânico: lixo; bobagem."
+   },
+   "ja": {
+    "text": "ごみ",
+    "alternatives": [],
+    "reading": "ごみ",
+    "description": "イギリスで、ごみ。くだらないこと。"
+   },
+   "zh": {
+    "text": "垃圾",
+    "alternatives": [
+     "胡说"
+    ],
+    "reading": "lājī",
+    "description": "英国用语：垃圾；胡说。"
+   }
+  },
+  {
+   "id": "en:000003062",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico e australiano — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "cheeky",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: a little rude but in a funny way."
+   },
+   "pt-BR": {
+    "text": "atrevido",
+    "alternatives": [
+     "abusado"
+    ],
+    "reading": null,
+    "description": "Britânico: um pouco atrevido, mas de modo engraçado."
+   },
+   "ja": {
+    "text": "生意気な",
+    "alternatives": [],
+    "reading": "なまいきな",
+    "description": "イギリスで、少し生意気だが憎めない。"
+   },
+   "zh": {
+    "text": "调皮",
+    "alternatives": [
+     "厚脸皮"
+    ],
+    "reading": "tiáopí",
+    "description": "英国用语：有点无礼，但带点俏皮。"
+   }
+  },
+  {
+   "id": "en:000003064",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "innit",
+    "alternatives": null,
+    "reading": null,
+    "description": "British: \"isn't it?\" (at the end of a sentence)."
+   },
+   "pt-BR": {
+    "text": "né?",
+    "alternatives": [],
+    "reading": null,
+    "description": "Britânico: \"isn't it?\" no fim da frase."
+   },
+   "ja": {
+    "text": "〜でしょ？",
+    "alternatives": [
+     "〜じゃない？"
+    ],
+    "reading": "〜でしょ？",
+    "description": "イギリスで、文の終わりにつける「isn't it?」。"
+   },
+   "zh": {
+    "text": "是吧",
+    "alternatives": [
+     "对吧"
+    ],
+    "reading": "shì ba",
+    "description": "英国用语：句末的“isn't it?”。"
+   }
+  },
+  {
+   "id": "en:000003065",
+   "estado": "Reservar",
+   "motivo": "Londres — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "peng",
+    "alternatives": [],
+    "reading": null,
+    "description": "Very attractive or very good (London slang)."
+   },
+   "pt-BR": {
+    "text": "top",
+    "alternatives": [],
+    "reading": null,
+    "description": "Muito atraente ou muito bom (gíria de Londres)."
+   },
+   "ja": {
+    "text": "最高",
+    "alternatives": [],
+    "reading": "さいこう",
+    "description": "とても魅力的、とてもよい（ロンドンの俗語）。"
+   },
+   "zh": {
+    "text": "超赞",
+    "alternatives": [],
+    "reading": "chāozàn",
+    "description": "很有魅力或很棒（伦敦俚语）。"
+   }
+  },
+  {
+   "id": "en:000003066",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "bare",
+    "alternatives": null,
+    "reading": null,
+    "description": "British slang: a lot of; very."
+   },
+   "pt-BR": {
+    "text": "muito",
+    "alternatives": [
+     "um monte"
+    ],
+    "reading": null,
+    "description": "Gíria britânica: muito."
+   },
+   "ja": {
+    "text": "めっちゃ",
+    "alternatives": [],
+    "reading": "めっちゃ",
+    "description": "イギリスの俗語で、とても、たくさん。"
+   },
+   "zh": {
+    "text": "超多",
+    "alternatives": [
+     "特别"
+    ],
+    "reading": "chāo duō",
+    "description": "英国俚语：很多；非常。"
+   }
+  },
+  {
+   "id": "en:000003067",
+   "estado": "Reservar",
+   "motivo": "Londres — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "mandem",
+    "alternatives": null,
+    "reading": null,
+    "description": "London slang: a group of male friends."
+   },
+   "pt-BR": {
+    "text": "os parças",
+    "alternatives": [
+     "a galera"
+    ],
+    "reading": null,
+    "description": "Gíria de Londres: um grupo de amigos homens."
+   },
+   "ja": {
+    "text": "仲間たち",
+    "alternatives": [],
+    "reading": "なかまたち",
+    "description": "ロンドンの俗語で、男の仲間たち。"
+   },
+   "zh": {
+    "text": "兄弟们",
+    "alternatives": [
+     "哥们儿"
+    ],
+    "reading": "xiōngdimen",
+    "description": "伦敦俚语：一群男性朋友。"
+   }
+  },
+  {
+   "id": "en:000003068",
+   "estado": "Reservar",
+   "motivo": "Inglês britânico / gíria — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "banger",
+    "alternatives": null,
+    "reading": null,
+    "description": "A very good, exciting song."
+   },
+   "pt-BR": {
+    "text": "música chiclete",
+    "alternatives": [
+     "hit"
+    ],
+    "reading": null,
+    "description": "Uma música muito boa e empolgante."
+   },
+   "ja": {
+    "text": "名曲",
+    "alternatives": [],
+    "reading": "めいきょく",
+    "description": "とてもすばらしく、盛り上がる曲。"
+   },
+   "zh": {
+    "text": "神曲",
+    "alternatives": [
+     "热门歌"
+    ],
+    "reading": "shénqǔ",
+    "description": "一首非常好听、令人兴奋的歌。"
+   }
+  },
+  {
+   "id": "en:000003070",
+   "estado": "Reservar",
+   "motivo": "Dialetos ingleses / plural de segunda pessoa — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "youse",
+    "alternatives": [],
+    "reading": null,
+    "description": "You, addressing more than one person (New York / Philadelphia)."
+   },
+   "pt-BR": {
+    "text": "vocês",
+    "alternatives": [],
+    "reading": null,
+    "description": "\"Vocês\", para várias pessoas (Nova York / Filadélfia)."
+   },
+   "ja": {
+    "text": "あんたら",
+    "alternatives": [],
+    "reading": "あんたら",
+    "description": "複数の相手に呼びかける「あなたたち」（ニューヨーク、フィラデルフィア）。"
+   },
+   "zh": {
+    "text": "你们",
+    "alternatives": [],
+    "reading": "nǐmen",
+    "description": "称呼多人的“你们”（纽约、费城）。"
+   }
+  },
+  {
+   "id": "en:000003071",
+   "estado": "Reservar",
+   "motivo": "Texas e Sul dos EUA — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "fixin' to",
+    "alternatives": null,
+    "reading": null,
+    "description": "Southern US: \"about to\"."
+   },
+   "pt-BR": {
+    "text": "prestes a",
+    "alternatives": [],
+    "reading": null,
+    "description": "Sul dos EUA: \"about to\" (prestes a)."
+   },
+   "ja": {
+    "text": "〜しようとしている",
+    "alternatives": [],
+    "reading": "〜しようとしている",
+    "description": "アメリカ南部で、〜しようとしている。"
+   },
+   "zh": {
+    "text": "正要",
+    "alternatives": [
+     "准备"
+    ],
+    "reading": "zhèng yào",
+    "description": "美国南部用语：正要去做。"
+   }
+  },
+  {
+   "id": "en:000003072",
+   "estado": "Reservar",
+   "motivo": "Texas e Sul dos EUA — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "howdy",
+    "alternatives": null,
+    "reading": null,
+    "description": "Southern US greeting: \"hello\"."
+   },
+   "pt-BR": {
+    "text": "oi",
+    "alternatives": [
+     "olá"
+    ],
+    "reading": null,
+    "description": "Saudação do sul dos EUA: \"hello\"."
+   },
+   "ja": {
+    "text": "やあ",
+    "alternatives": [],
+    "reading": "やあ",
+    "description": "アメリカ南部のあいさつで、やあ。"
+   },
+   "zh": {
+    "text": "你好啊",
+    "alternatives": [],
+    "reading": "nǐ hǎo a",
+    "description": "美国南部的问候语：你好。"
+   }
+  },
+  {
+   "id": "en:000003073",
+   "estado": "Reservar",
+   "motivo": "Texas e Sul dos EUA — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "all y'all",
+    "alternatives": null,
+    "reading": null,
+    "description": "A Southern US expression addressing every person in a group."
+   },
+   "pt-BR": {
+    "text": "todos vocês",
+    "alternatives": [],
+    "reading": null,
+    "description": "Expressão do sul dos EUA que se dirige a todas as pessoas do grupo."
+   },
+   "ja": {
+    "text": "みんな",
+    "alternatives": [],
+    "reading": "みんな",
+    "description": "アメリカ南部で、その場の全員に呼びかける言い方。"
+   },
+   "zh": {
+    "text": "你们大家",
+    "alternatives": [],
+    "reading": "nǐmen dàjiā",
+    "description": "美国南部用语：称呼群体里的每一个人。"
+   }
+  },
+  {
+   "id": "en:000003076",
+   "estado": "Reservar",
+   "motivo": "Chicago / regional — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "the L",
+    "alternatives": [],
+    "reading": null,
+    "description": "The elevated train system of Chicago."
+   },
+   "pt-BR": {
+    "text": "o L",
+    "alternatives": [],
+    "reading": null,
+    "description": "O trem elevado de Chicago."
+   },
+   "ja": {
+    "text": "シカゴの高架鉄道",
+    "alternatives": [],
+    "reading": "シカゴのこうかてつどう",
+    "description": "シカゴの高架を走る電車。"
+   },
+   "zh": {
+    "text": "芝加哥高架铁路",
+    "alternatives": [],
+    "reading": "zhījiāgēgāojiàtiělù",
+    "description": "芝加哥的高架列车系统。"
+   }
+  },
+  {
+   "id": "en:000003077",
+   "estado": "Reservar",
+   "motivo": "Boston / regional — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "the T",
+    "alternatives": [],
+    "reading": null,
+    "description": "The subway system of Boston."
+   },
+   "pt-BR": {
+    "text": "o T",
+    "alternatives": [],
+    "reading": null,
+    "description": "O metrô de Boston."
+   },
+   "ja": {
+    "text": "ボストンの地下鉄",
+    "alternatives": [],
+    "reading": "ボストンのちかてつ",
+    "description": "ボストンの地下鉄。"
+   },
+   "zh": {
+    "text": "波士顿地铁",
+    "alternatives": [],
+    "reading": "bōshìdùndìtiě",
+    "description": "波士顿的地铁。"
+   }
+  },
+  {
+   "id": "en:000003078",
+   "estado": "Reservar",
+   "motivo": "Londres — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "the Tube",
+    "alternatives": null,
+    "reading": null,
+    "description": "London's underground train."
+   },
+   "pt-BR": {
+    "text": "metrô de Londres",
+    "alternatives": [],
+    "reading": null,
+    "description": "O metrô de Londres."
+   },
+   "ja": {
+    "text": "ロンドンの地下鉄",
+    "alternatives": [],
+    "reading": "ろんどんのちかてつ",
+    "description": "ロンドンの地下鉄。"
+   },
+   "zh": {
+    "text": "伦敦地铁",
+    "alternatives": [],
+    "reading": "Lúndūn dìtiě",
+    "description": "伦敦的地铁。"
+   }
+  },
+  {
+   "id": "en:000003081",
+   "estado": "Reservar",
+   "motivo": "Nova York — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "deadass",
+    "alternatives": null,
+    "reading": null,
+    "description": "New York slang: \"seriously, for real\"."
+   },
+   "pt-BR": {
+    "text": "sério mesmo",
+    "alternatives": [
+     "na moral"
+    ],
+    "reading": null,
+    "description": "Gíria de Nova York: \"sério mesmo\"."
+   },
+   "ja": {
+    "text": "マジで",
+    "alternatives": [],
+    "reading": "マジで",
+    "description": "ニューヨークの俗語で、本当に、マジで。"
+   },
+   "zh": {
+    "text": "说真的",
+    "alternatives": [
+     "认真的"
+    ],
+    "reading": "shuō zhēn de",
+    "description": "纽约俚语：说真的。"
+   }
+  },
+  {
+   "id": "en:000003082",
+   "estado": "Reservar",
+   "motivo": "Boston / gíria regional — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "brick",
+    "alternatives": [],
+    "reading": null,
+    "description": "Very cold (Boston slang)."
+   },
+   "pt-BR": {
+    "text": "congelante",
+    "alternatives": [],
+    "reading": null,
+    "description": "Muito frio (gíria de Boston)."
+   },
+   "ja": {
+    "text": "めっちゃ寒い",
+    "alternatives": [],
+    "reading": "めっちゃさむい",
+    "description": "ボストンの俗語で、ひどく寒い。"
+   },
+   "zh": {
+    "text": "冷死了",
+    "alternatives": [],
+    "reading": "lěngsǐle",
+    "description": "非常冷（波士顿俚语）。"
+   }
+  },
+  {
+   "id": "en:000003084",
+   "estado": "Reservar",
+   "motivo": "Filadélfia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "jawn",
+    "alternatives": [],
+    "reading": null,
+    "description": "A thing or object, any thing (Philadelphia slang)."
+   },
+   "pt-BR": {
+    "text": "troço",
+    "alternatives": [],
+    "reading": null,
+    "description": "Forma informal de se referir a um objeto cujo nome ficou implícito."
+   },
+   "ja": {
+    "text": "あれ",
+    "alternatives": [],
+    "reading": "あれ",
+    "description": "話し手と聞き手から離れた物や、二人が知っていることを指す言葉。"
+   },
+   "zh": {
+    "text": "那玩意儿",
+    "alternatives": [],
+    "reading": "nàwányìér",
+    "description": "口语中指那件东西，有时带有随便或不以为意的语气。"
+   }
+  },
+  {
+   "id": "en:000003085",
+   "estado": "Reservar",
+   "motivo": "Pittsburgh / regional — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "yinz",
+    "alternatives": [],
+    "reading": null,
+    "description": "You, addressing more than one person (Pittsburgh)."
+   },
+   "pt-BR": {
+    "text": "vocês",
+    "alternatives": [],
+    "reading": null,
+    "description": "\"Vocês\", para várias pessoas (Pittsburgh)."
+   },
+   "ja": {
+    "text": "あんたら",
+    "alternatives": [],
+    "reading": "あんたら",
+    "description": "複数の相手に呼びかける「あなたたち」（ピッツバーグ）。"
+   },
+   "zh": {
+    "text": "你们",
+    "alternatives": [],
+    "reading": "nǐmen",
+    "description": "称呼多人的“你们”（匹兹堡）。"
+   }
+  },
+  {
+   "id": "en:000003086",
+   "estado": "Reservar",
+   "motivo": "Califórnia — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "hella good",
+    "alternatives": null,
+    "reading": null,
+    "description": "California slang: very good."
+   },
+   "pt-BR": {
+    "text": "bom demais",
+    "alternatives": [],
+    "reading": null,
+    "description": "Gíria da Califórnia: muito bom."
+   },
+   "ja": {
+    "text": "めっちゃいい",
+    "alternatives": [],
+    "reading": "めっちゃいい",
+    "description": "カリフォルニアの俗語で、とてもよい。"
+   },
+   "zh": {
+    "text": "超好",
+    "alternatives": [],
+    "reading": "chāo hǎo",
+    "description": "加州俚语：非常好。"
+   }
+  },
+  {
+   "id": "en:000003087",
+   "estado": "Reservar",
+   "motivo": "Los Angeles / referência geográfica — Recorte regional fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "the 405",
+    "alternatives": [],
+    "reading": null,
+    "description": "The 405 freeway in Los Angeles."
+   },
+   "pt-BR": {
+    "text": "a 405",
+    "alternatives": [],
+    "reading": null,
+    "description": "A rodovia 405 de Los Angeles."
+   },
+   "ja": {
+    "text": "405号線",
+    "alternatives": [],
+    "reading": "405ごうせん",
+    "description": "ロサンゼルスの高速道路405号。"
+   },
+   "zh": {
+    "text": "405号公路",
+    "alternatives": [],
+    "reading": "405hàogōnglù",
+    "description": "洛杉矶的405号高速公路。"
+   }
+  },
+  {
+   "id": "en:000003088",
+   "estado": "Reservar",
+   "motivo": "Califórnia / referência geográfica — Recorte regional ou grafia fora do núcleo EN-US. ID histórico preservado.",
+   "en": {
+    "text": "the 101",
+    "alternatives": [],
+    "reading": null,
+    "description": "The 101 freeway in California."
+   },
+   "pt-BR": {
+    "text": "a 101",
+    "alternatives": [],
+    "reading": null,
+    "description": "A rodovia 101 da Califórnia."
+   },
+   "ja": {
+    "text": "101号線",
+    "alternatives": [],
+    "reading": "101ごうせん",
+    "description": "カリフォルニアの高速道路101号。"
+   },
+   "zh": {
+    "text": "101号公路",
+    "alternatives": [],
+    "reading": "101hàogōnglù",
+    "description": "加州的101号高速公路。"
+   }
+  },
+  {
+   "id": "en:000004167",
+   "estado": "Pendente",
+   "motivo": "孙子 pode sugerir apenas o neto pelo filho. A entrada genérica em EN e JA também cobre o lado da filha e ambos os sexos. Decidir a apresentação chinesa do parentesco genérico.",
+   "en": {
+    "text": "grandchild",
+    "alternatives": [],
+    "reading": null,
+    "description": "A child of your son or daughter."
+   },
+   "pt-BR": {
+    "text": "neto",
+    "alternatives": [],
+    "reading": null,
+    "description": "Filho ou filha do seu filho ou da sua filha."
+   },
+   "ja": {
+    "text": "孫",
+    "alternatives": [
+     "お孫さん"
+    ],
+    "reading": "まご",
+    "description": "自分の子どもの子ども。"
+   },
+   "zh": {
+    "text": "孙子",
+    "alternatives": [
+     "孙女",
+     "外孙"
+    ],
+    "reading": "sūnzi",
+    "description": "儿子或女儿的孩子。"
+   }
+  },
+  {
+   "id": "en:000004181",
+   "estado": "Pendente",
+   "motivo": "O inglês inclui íntegro, saudável ou firme. O português ‘são’, o japonês 無事な e o chinês 完好 não convergem como lemas de uso cotidiano para um único recorte. Definir o recorte.",
+   "en": {
+    "text": "sound",
+    "alternatives": [],
+    "reading": null,
+    "description": "Healthy and not hurt or damaged (\"safe and sound\")."
+   },
+   "pt-BR": {
+    "text": "são",
+    "alternatives": [],
+    "reading": null,
+    "description": "Sem ferimento nem dano (\"são e salvo\")."
+   },
+   "ja": {
+    "text": "無事な",
+    "alternatives": [],
+    "reading": "ぶじな",
+    "description": "けがやこわれたところがないようす。"
+   },
+   "zh": {
+    "text": "完好",
+    "alternatives": [
+     "安然无恙"
+    ],
+    "reading": "wánhǎo",
+    "description": "没有受伤或损坏。"
+   }
+  },
+  {
+   "id": "en:000004183",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "older male cousin (father's brother)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: older male cousin (father's side)."
+   },
+   "pt-BR": {
+    "text": "primo mais velho (filho do irmão do pai)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: primo mais velho (lado do pai)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "堂哥",
+    "alternatives": [],
+    "reading": "táng gē",
+    "description": "堂哥：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "id": "en:000004184",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "younger male cousin (father's brother)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: younger male cousin (father's side)."
+   },
+   "pt-BR": {
+    "text": "primo mais novo (filho do irmão do pai)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: primo mais novo (lado do pai)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "堂弟",
+    "alternatives": [],
+    "reading": "táng dì",
+    "description": "堂弟：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "id": "en:000004185",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "older female cousin (father's brother)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: older female cousin (father's side)."
+   },
+   "pt-BR": {
+    "text": "prima mais velha (filha do irmão do pai)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: prima mais velha (lado do pai)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "堂姐",
+    "alternatives": [],
+    "reading": "táng jiě",
+    "description": "堂姐：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "id": "en:000004186",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "younger female cousin (father's brother)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: younger female cousin (father's side)."
+   },
+   "pt-BR": {
+    "text": "prima mais nova (filha do irmão do pai)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: prima mais nova (lado do pai)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "堂妹",
+    "alternatives": [],
+    "reading": "táng mèi",
+    "description": "堂妹：父亲兄弟的孩子。"
+   }
+  },
+  {
+   "id": "en:000004187",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "older male cousin (mother's family or father's sister)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: older male cousin (mother's side)."
+   },
+   "pt-BR": {
+    "text": "primo mais velho (família da mãe ou tia paterna)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: primo mais velho (lado da mãe)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "表哥",
+    "alternatives": [],
+    "reading": "biǎo gē",
+    "description": "表哥：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "id": "en:000004188",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "younger male cousin (mother's family or father's sister)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: younger male cousin (mother's side)."
+   },
+   "pt-BR": {
+    "text": "primo mais novo (família da mãe ou tia paterna)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: primo mais novo (lado da mãe)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "表弟",
+    "alternatives": [],
+    "reading": "biǎo dì",
+    "description": "表弟：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "id": "en:000004189",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "older female cousin (mother's family or father's sister)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: older female cousin (mother's side)."
+   },
+   "pt-BR": {
+    "text": "prima mais velha (família da mãe ou tia paterna)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: prima mais velha (lado da mãe)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "表姐",
+    "alternatives": [],
+    "reading": "biǎo jiě",
+    "description": "表姐：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "id": "en:000004190",
+   "estado": "Pendente",
+   "motivo": "O chinês distingue lado da família, sexo e idade. O lema japonês いとこ é genérico. Definir se o contraste será ensinado como expressão localizada.",
+   "en": {
+    "text": "younger female cousin (mother's family or father's sister)",
+    "alternatives": [],
+    "reading": null,
+    "description": "A cousin: younger female cousin (mother's side)."
+   },
+   "pt-BR": {
+    "text": "prima mais nova (família da mãe ou tia paterna)",
+    "alternatives": [],
+    "reading": null,
+    "description": "Um primo ou prima: prima mais nova (lado da mãe)."
+   },
+   "ja": {
+    "text": "いとこ",
+    "alternatives": [],
+    "reading": "いとこ",
+    "description": "親のきょうだいの子ども。"
+   },
+   "zh": {
+    "text": "表妹",
+    "alternatives": [],
+    "reading": "biǎo mèi",
+    "description": "表妹：母亲兄弟姐妹或父亲姐妹的孩子。"
+   }
+  },
+  {
+   "id": "en:000004191",
+   "estado": "Pendente",
+   "motivo": "〜さん é um tratamento geral e não identifica sexo ou estado civil. Decidir como ensinar o título inglês e o português sem impor esse sentido ao japonês.",
+   "en": {
+    "text": "Miss",
+    "alternatives": [],
+    "reading": null,
+    "description": "Title before an unmarried woman's name (Miss Smith)."
+   },
+   "pt-BR": {
+    "text": "Srta.",
+    "alternatives": [
+     "senhorita"
+    ],
+    "reading": null,
+    "description": "Título antes do nome de uma mulher solteira."
+   },
+   "ja": {
+    "text": "〜さん",
+    "alternatives": [],
+    "reading": "〜さん",
+    "description": "結婚していない女の人の名前のあとにつける呼び方。"
+   },
+   "zh": {
+    "text": "小姐",
+    "alternatives": [],
+    "reading": "xiǎojiě",
+    "description": "放在未婚女子的姓后面（如：李小姐）。"
+   }
+  }
+ ],
+ "relatos_nao_processados": [
+  {
+   "issue": 484,
+   "palavra": "またあした",
+   "dica": "see you tomorrow",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 482,
+   "palavra": "にほん",
+   "dica": "Japan",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 481,
+   "palavra": "バスてい",
+   "dica": "bus stop",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 480,
+   "palavra": "あそこ",
+   "dica": "(over) there",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 478,
+   "palavra": "日本",
+   "dica": "Japan",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 476,
+   "palavra": "まいにち",
+   "dica": "every day",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 475,
+   "palavra": "まいあさ",
+   "dica": "every morning",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 474,
+   "palavra": "まいばん",
+   "dica": "every night",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 472,
+   "palavra": "と言います",
+   "dica": "is called",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 471,
+   "palavra": "さんは",
+   "dica": "Mr./Ms.",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 470,
+   "palavra": "どんな",
+   "dica": "what kind of",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 468,
+   "palavra": "まいしゅう",
+   "dica": "every week",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 467,
+   "palavra": "からて",
+   "dica": "karate",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 466,
+   "palavra": "でかけます",
+   "dica": "go out, am going to go out",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 465,
+   "palavra": "あさくさ",
+   "dica": "Asakusa",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 464,
+   "palavra": "もうすぐ",
+   "dica": "very soon",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 463,
+   "palavra": "うえのこうえん",
+   "dica": "Ueno Park",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 462,
+   "palavra": "十分",
+   "dica": "ten minutes",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 461,
+   "palavra": "しゅうてん",
+   "dica": "last stop",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 460,
+   "palavra": "はすきですか",
+   "dica": "do .. like",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 459,
+   "palavra": "どうですか",
+   "dica": "How about",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 458,
+   "palavra": "チーズケーキ",
+   "dica": "cheesecake",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 457,
+   "palavra": "カップケーキ",
+   "dica": "Cupcake",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 455,
+   "palavra": "ぜんぶで",
+   "dica": "in total",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 454,
+   "palavra": "一階",
+   "dica": "first floor",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 452,
+   "palavra": "エレベーター",
+   "dica": "elevator",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 451,
+   "palavra": "二階",
+   "dica": "second floor",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 448,
+   "palavra": "せんたくき",
+   "dica": "washing machine",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 446,
+   "palavra": "いもうとさん",
+   "dica": "younge「 Sister",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 445,
+   "palavra": "たいわん",
+   "dica": "Taiwan",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 441,
+   "palavra": "ごりょうしん",
+   "dica": "your parents",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 437,
+   "palavra": "うでどけい",
+   "dica": "wristwatch",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 434,
+   "palavra": "ぶたにく",
+   "dica": "pork",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 433,
+   "palavra": "カードゲーム",
+   "dica": "card game",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 431,
+   "palavra": "何階",
+   "dica": "which floor",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 430,
+   "palavra": "しょくどう",
+   "dica": "cafeteria",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 428,
+   "palavra": "このあと",
+   "dica": "after this",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 427,
+   "palavra": "六百",
+   "dica": "six hundred",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 426,
+   "palavra": "チョコバナナ",
+   "dica": "choco banana",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 424,
+   "palavra": "すうがく",
+   "dica": "math",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 422,
+   "palavra": "四年生",
+   "dica": "fourth-year student",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 421,
+   "palavra": "タガログご",
+   "dica": "Tagalog",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 388,
+   "palavra": "おしゃれ",
+   "dica": "stylish",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 386,
+   "palavra": "ぐあいがわるい",
+   "dica": "unwell",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 385,
+   "palavra": "でんわばんごう",
+   "dica": "phone number",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 384,
+   "palavra": "何さい",
+   "dica": "how old",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 383,
+   "palavra": "はいません",
+   "dica": "is not, are not, do not exist",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 382,
+   "palavra": "さい",
+   "dica": "years old",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 381,
+   "palavra": "くすりを飲みます",
+   "dica": "take medicine, drink medicine, take a pill",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 379,
+   "palavra": "ちゃんと",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 377,
+   "palavra": "おねえさん",
+   "dica": "your older sister",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 376,
+   "palavra": "はいますか",
+   "dica": "do ... have",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 373,
+   "palavra": "ふとん",
+   "dica": "futon, futons",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 372,
+   "palavra": "こんしゅう",
+   "dica": "this week",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 371,
+   "palavra": "でんきや",
+   "dica": "electronics store",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 370,
+   "palavra": "よろしくおねがいします",
+   "dica": "glad to work with you",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 369,
+   "palavra": "うけつけ",
+   "dica": "reception",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 367,
+   "palavra": "とうふ",
+   "dica": "tofu",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 366,
+   "palavra": "ぎゅうどん",
+   "dica": "gyudon",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 365,
+   "palavra": "つかいます",
+   "dica": "will use, uses",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 363,
+   "palavra": "しょうゆ",
+   "dica": "SOy sauce",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 361,
+   "palavra": "ポテトチップス",
+   "dica": "potato chip",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 359,
+   "palavra": "にのります",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 357,
+   "palavra": "ポップス",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 356,
+   "palavra": "かえります",
+   "dica": "am returning, will return home, returning",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 355,
+   "palavra": "フランスりょうり",
+   "dica": "French cuisine",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 353,
+   "palavra": "がたのしみです",
+   "dica": "looking forward to",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 352,
+   "palavra": "来月",
+   "dica": "next month",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 351,
+   "palavra": "スーツケース",
+   "dica": "suitcase",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 350,
+   "palavra": "かんこうをします",
+   "dica": "to sightsee, to go sightseeing, to tour",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 349,
+   "palavra": "びじゅつかん",
+   "dica": "art museum",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 347,
+   "palavra": "ポストカード",
+   "dica": "postcard",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 346,
+   "palavra": "はらじゅく",
+   "dica": "Harajuku",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 341,
+   "palavra": "ニ人",
+   "dica": "two people",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 340,
+   "palavra": "かんこくご",
+   "dica": "Korean",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 338,
+   "palavra": "九時",
+   "dica": "nine o'clock",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 337,
+   "palavra": "ほんだな",
+   "dica": "bookshelf",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 336,
+   "palavra": "そうじき",
+   "dica": "vacuum cleaner",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 335,
+   "palavra": "でんしレンジ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 328,
+   "palavra": "じはんき",
+   "dica": "vending machine",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 327,
+   "palavra": "はありますか",
+   "dica": "is there",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 326,
+   "palavra": "かいさつ",
+   "dica": "ticket gate",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 325,
+   "palavra": "はありません",
+   "dica": "there isn't (any), there's no, there won't be (a)",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 324,
+   "palavra": "ちか",
+   "dica": "underground",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 322,
+   "palavra": "かいだん",
+   "dica": "stairs",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 321,
+   "palavra": "コンセント",
+   "dica": "outlet",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 320,
+   "palavra": "おにぎり",
+   "dica": "rice ball",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 319,
+   "palavra": "みそしる",
+   "dica": "miso sOup",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 318,
+   "palavra": "こうちゃ",
+   "dica": "black tea",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 317,
+   "palavra": "アイスコーヒー",
+   "dica": "iced coffee",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 316,
+   "palavra": "ケーキや",
+   "dica": "cake shop",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 313,
+   "palavra": "まっちゃ",
+   "dica": "matcha",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 311,
+   "palavra": "ていしょく",
+   "dica": "set meal",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 310,
+   "palavra": "ええと",
+   "dica": "um",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 309,
+   "palavra": "てんぷら",
+   "dica": "tempura",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 308,
+   "palavra": "おんせん",
+   "dica": "hot spring",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 307,
+   "palavra": "うどん",
+   "dica": "udon",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 306,
+   "palavra": "うみに行きま",
+   "dica": "go to the sea, go to the beach, go to the ocean",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 304,
+   "palavra": "はなび",
+   "dica": "firework",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 303,
+   "palavra": "でんしゃや",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 302,
+   "palavra": "あきはばら",
+   "dica": "Akihabara",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 299,
+   "palavra": "どのぐらい",
+   "dica": "how long",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 298,
+   "palavra": "れんあい",
+   "dica": "romance",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 296,
+   "palavra": "ミステリー",
+   "dica": "mystery",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 292,
+   "palavra": "しぶや",
+   "dica": "Shibuya",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 291,
+   "palavra": "らいしゅう",
+   "dica": "next week",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 289,
+   "palavra": "メールを読みます",
+   "dica": "checks emails",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 288,
+   "palavra": "シャワーをあびます",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 287,
+   "palavra": "何時",
+   "dica": "what time",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 283,
+   "palavra": "おきます",
+   "dica": "get up, going to wake up, wake up",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 282,
+   "palavra": "ありがとうございます",
+   "dica": "thank you",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 279,
+   "palavra": "かんこく",
+   "dica": "Korea, korean",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 277,
+   "palavra": "主いにち",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 275,
+   "palavra": "はちょっと",
+   "dica": "I don't really like, doesn't work very well, kind of",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 274,
+   "palavra": "七時",
+   "dica": "seven o'clock",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 273,
+   "palavra": "ベんとう",
+   "dica": "bento",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 272,
+   "palavra": "四時",
+   "dica": "four o'clock",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 265,
+   "palavra": "プロテインバー",
+   "dica": "protein bar",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 264,
+   "palavra": "いくつ",
+   "dica": "how many",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 261,
+   "palavra": "ボードゲーム",
+   "dica": "board game",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 257,
+   "palavra": "コミュニティーセンター",
+   "dica": "community center",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 256,
+   "palavra": "三十ー日",
+   "dica": "thirty-first",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 255,
+   "palavra": "こんしゅうまつ",
+   "dica": "this weekend",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 253,
+   "palavra": "おおみそか",
+   "dica": "New Year's Eve",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 252,
+   "palavra": "何年生",
+   "dica": "what school year",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 251,
+   "palavra": "一年生",
+   "dica": "first-year student",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 250,
+   "palavra": "二年生",
+   "dica": "second-year student",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 249,
+   "palavra": "三年生",
+   "dica": "third-year student",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 248,
+   "palavra": "とんかつ",
+   "dica": "pork cutlets",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 246,
+   "palavra": "でぜん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 245,
+   "palavra": "ひる休み",
+   "dica": "lunch break",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 243,
+   "palavra": "まであるきます",
+   "dica": "walk up to, walk as far as, walk until",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 240,
+   "palavra": "はなびたいかい",
+   "dica": "fireworks festival",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 239,
+   "palavra": "とちゅうで",
+   "dica": "on the way",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 237,
+   "palavra": "百円ショップ",
+   "dica": "100-yen shop",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 236,
+   "palavra": "にぎやか",
+   "dica": "Lively",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 233,
+   "palavra": "にすんでいます",
+   "dica": "Live in",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 232,
+   "palavra": "おおさか",
+   "dica": "Osaka",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 230,
+   "palavra": "おなまえは",
+   "dica": "What's your name?",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 229,
+   "palavra": "東京",
+   "dica": "Tokyo",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 228,
+   "palavra": "はじめまして",
+   "dica": "Nice to meet you",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 227,
+   "palavra": "きっぷ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 226,
+   "palavra": "にほんじん",
+   "dica": "Japanese person",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 224,
+   "palavra": "こんばんは",
+   "dica": "good evening",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 221,
+   "palavra": "リビング",
+   "dica": "living rom",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 219,
+   "palavra": "らじゅく",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 218,
+   "palavra": "ゆう",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 217,
+   "palavra": "ラーメンや",
+   "dica": "ramen shop",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 216,
+   "palavra": "ピザや",
+   "dica": "pizzeria",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 215,
+   "palavra": "じんじゃ",
+   "dica": "shrine",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 212,
+   "palavra": "ネックレス",
+   "dica": "necklace",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 210,
+   "palavra": "ホットドッグ",
+   "dica": "hot dog",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 209,
+   "palavra": "がた",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 208,
+   "palavra": "ステーキ",
+   "dica": "steak",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 207,
+   "palavra": "来",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 206,
+   "palavra": "ケース",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 205,
+   "palavra": "こうを",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 204,
+   "palavra": "びじゅつ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 202,
+   "palavra": "り",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 201,
+   "palavra": "フランス",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 200,
+   "palavra": "レシピ",
+   "dica": "recipe",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 199,
+   "palavra": "ゆ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 198,
+   "palavra": "ふ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 197,
+   "palavra": "ぎゅう",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 196,
+   "palavra": "ソース",
+   "dica": "Sauce",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 195,
+   "palavra": "なま",
+   "dica": "『aw",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 194,
+   "palavra": "ん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 192,
+   "palavra": "コーラ",
+   "dica": "cola",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 189,
+   "palavra": "ノンフィクション",
+   "dica": "nonfiction",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 188,
+   "palavra": "あまり",
+   "dica": "(not) a lot of, (not) so, (not) too",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 187,
+   "palavra": "フィクション",
+   "dica": "fiction",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 186,
+   "palavra": "4) アニソン",
+   "dica": "anime Song",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 185,
+   "palavra": "ポスター",
+   "dica": "poster",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 184,
+   "palavra": "ター",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 183,
+   "palavra": "く",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 182,
+   "palavra": "よろ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 181,
+   "palavra": "う",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 180,
+   "palavra": "オリエンテーション",
+   "dica": "orientation",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 179,
+   "palavra": "ぜん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 178,
+   "palavra": "フライドポテト",
+   "dica": "French fries",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 177,
+   "palavra": "チャーハン",
+   "dica": "fried rice",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 176,
+   "palavra": "る",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 175,
+   "palavra": "プレゼン",
+   "dica": "presentation",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 173,
+   "palavra": "さ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 172,
+   "palavra": "カラオケ",
+   "dica": "karaoke",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 170,
+   "palavra": "イ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 169,
+   "palavra": "ス",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 168,
+   "palavra": "ポテト",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 167,
+   "palavra": "フライドチキン",
+   "dica": "fried chicken",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 165,
+   "palavra": "わたりま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 164,
+   "palavra": "フォーク",
+   "dica": "fork",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 163,
+   "palavra": "ショップ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 162,
+   "palavra": "ヘッドホン",
+   "dica": "headphone",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 161,
+   "palavra": "ナイフ",
+   "dica": "knife",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 160,
+   "palavra": "や",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 159,
+   "palavra": "らっ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 158,
+   "palavra": "び",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 155,
+   "palavra": "4",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 153,
+   "palavra": "みそ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 152,
+   "palavra": "カウントダウン",
+   "dica": "countdown",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 151,
+   "palavra": "イルミネーション",
+   "dica": "ilumination",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 150,
+   "palavra": "うがく",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 149,
+   "palavra": "こう",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 148,
+   "palavra": "生",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 147,
+   "palavra": "フィリピン",
+   "dica": "the Philippines",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 146,
+   "palavra": "タガログ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 144,
+   "palavra": "15:19ス…",
+   "dica": "Ye5G",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 143,
+   "palavra": "ドイツ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 142,
+   "palavra": "ルームメイト",
+   "dica": "roommate",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 138,
+   "palavra": "カナダ",
+   "dica": "Canada",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 136,
+   "palavra": "ベトナムじん",
+   "dica": "Vietnamese",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 135,
+   "palavra": "ベトナム",
+   "dica": "Vietnam",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 134,
+   "palavra": "ブラジル",
+   "dica": "Brazil",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 133,
+   "palavra": "ブラジルじん",
+   "dica": "Brazilian",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 132,
+   "palavra": "デパート",
+   "dica": "department store",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 130,
+   "palavra": "っぷ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 128,
+   "palavra": "京",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 126,
+   "palavra": "ニューヨーク",
+   "dica": "New York",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 125,
+   "palavra": "京都",
+   "dica": "Kyoto",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 124,
+   "palavra": "トロント",
+   "dica": "Toronto",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 123,
+   "palavra": "ぎや",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 122,
+   "palavra": "ず",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 121,
+   "palavra": "ジャズ",
+   "dica": "jazz",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 119,
+   "palavra": "まんが",
+   "dica": "manga, comics, comic books",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 117,
+   "palavra": "たべま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 116,
+   "palavra": "主",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 115,
+   "palavra": "サンドイッチ",
+   "dica": "sandwich",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 114,
+   "palavra": "みま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 113,
+   "palavra": "ベん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 112,
+   "palavra": "カレー",
+   "dica": "Curry",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 108,
+   "palavra": "ざ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 107,
+   "palavra": "ジャケット",
+   "dica": "jacket",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 104,
+   "palavra": "タジー",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 103,
+   "palavra": "ホラー",
+   "dica": "horror",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 100,
+   "palavra": "ろ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 98,
+   "palavra": "ら",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 97,
+   "palavra": "ヨガ",
+   "dica": "yoga",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 96,
+   "palavra": "をあびま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 95,
+   "palavra": "およぎま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 94,
+   "palavra": "ばら",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 92,
+   "palavra": "ぐら",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 90,
+   "palavra": "れん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 89,
+   "palavra": "あそびま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 88,
+   "palavra": "1",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 87,
+   "palavra": "テリー",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 86,
+   "palavra": "行",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 85,
+   "palavra": "れ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 84,
+   "palavra": "おん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 83,
+   "palavra": "ココア",
+   "dica": "hot chocolate",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 81,
+   "palavra": "ぷら",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 77,
+   "palavra": "ぎり",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 76,
+   "palavra": "そば",
+   "dica": "soba",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 74,
+   "palavra": "アイス",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 73,
+   "palavra": "ドーナツ",
+   "dica": "donut",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 72,
+   "palavra": "み",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 70,
+   "palavra": "まっ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 69,
+   "palavra": "レート",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 67,
+   "palavra": "パイ",
+   "dica": "pie",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 66,
+   "palavra": "さつ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 65,
+   "palavra": "ゴミばこ",
+   "dica": "trash can",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 64,
+   "palavra": "コン",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 62,
+   "palavra": "じ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 61,
+   "palavra": "コインロッカー",
+   "dica": "coin locker",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 59,
+   "palavra": "っこ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 58,
+   "palavra": "せ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 56,
+   "palavra": "ソウル",
+   "dica": "Seoul",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 55,
+   "palavra": "こく",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 54,
+   "palavra": "おこ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 53,
+   "palavra": "わりま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 48,
+   "palavra": "ころ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 47,
+   "palavra": "ボード",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 45,
+   "palavra": "りま",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 44,
+   "palavra": "マラソンを",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 41,
+   "palavra": "ラーメン",
+   "dica": "「amen",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 40,
+   "palavra": "テイン",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 39,
+   "palavra": "ピザ",
+   "dica": "pizza",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 37,
+   "palavra": "アメリカ",
+   "dica": "America, the USA, the US",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 36,
+   "palavra": "じん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 35,
+   "palavra": "そう",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 34,
+   "palavra": "エアコン",
+   "dica": "air conditioner",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 33,
+   "palavra": "レンジ",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 32,
+   "palavra": "時",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 31,
+   "palavra": "リア",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 30,
+   "palavra": "オース",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 28,
+   "palavra": "インドネシア",
+   "dica": "Indonesia",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 27,
+   "palavra": "こん",
+   "dica": "Palavra ausente no dicionário (importação por captura). Sem dica de tradução na captura.",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 24,
+   "palavra": "パレード",
+   "dica": "parade",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 22,
+   "palavra": "ヨーグルト",
+   "dica": "yogurt",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 473,
+   "palavra": "ばんではん",
+   "dica": "dinner",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 450,
+   "palavra": "ちかい",
+   "dica": "near, close",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 449,
+   "palavra": "キッチン",
+   "dica": "kitchen",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 447,
+   "palavra": "日本ご",
+   "dica": "Japanese",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 440,
+   "palavra": "おかし",
+   "dica": "Snack",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 438,
+   "palavra": "だいすき",
+   "dica": "love",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 436,
+   "palavra": "よやくします",
+   "dica": "am going to reserve, book, will reserve",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 432,
+   "palavra": "ミーティング",
+   "dica": "meeting",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 429,
+   "palavra": "うたいます",
+   "dica": "sing, will sing, am going to sing",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 423,
+   "palavra": "せんこう",
+   "dica": "major",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 418,
+   "palavra": "けんこうてき",
+   "dica": "healthy",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 387,
+   "palavra": "すわります",
+   "dica": "sit, going to sit",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 378,
+   "palavra": "がいます",
+   "dica": "is, has got, there are",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 368,
+   "palavra": "ごぜん",
+   "dica": "a.m., morning",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 358,
+   "palavra": "本や",
+   "dica": "bookstore",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 348,
+   "palavra": "とります",
+   "dica": "takes, get, going to take",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 344,
+   "palavra": "ところ",
+   "dica": "about to, somewhere, places",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 342,
+   "palavra": "おにいさん",
+   "dica": "older brother",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 339,
+   "palavra": "おこさん",
+   "dica": "child",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 333,
+   "palavra": "ができます",
+   "dica": "know, can play",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 330,
+   "palavra": "せまい",
+   "dica": "narrow, cramped, small",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 329,
+   "palavra": "があります",
+   "dica": "is, there is, there are",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 323,
+   "palavra": "とおい",
+   "dica": "far",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 315,
+   "palavra": "あきます",
+   "dica": "opens, open",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 305,
+   "palavra": "はれ",
+   "dica": "clear",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 301,
+   "palavra": "かかります",
+   "dica": "take, (it) takes, (it) will take",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 300,
+   "palavra": "ぐらい",
+   "dica": "approximately",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 297,
+   "palavra": "あそびます",
+   "dica": "hang out, hangs out, (I) will play",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 295,
+   "palavra": "十ニ",
+   "dica": "twelve",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 294,
+   "palavra": "およぎます",
+   "dica": "Swim, will swim, swims",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 293,
+   "palavra": "はしります",
+   "dica": "runs, run",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 286,
+   "palavra": "つくります",
+   "dica": "make",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 284,
+   "palavra": "十ー",
+   "dica": "eleven",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 281,
+   "palavra": "こちら",
+   "dica": "this, these, (over) here",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 280,
+   "palavra": "ちゅうごく",
+   "dica": "China",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 278,
+   "palavra": "ファンタジー",
+   "dica": "fantasy",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 262,
+   "palavra": "にはいります",
+   "dica": "am going to take, take, going to enroll",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 260,
+   "palavra": "マラソンをはしります",
+   "dica": "run a marathon, run the marathon, run",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 259,
+   "palavra": "にでます",
+   "dica": "appear, attend, go out",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 247,
+   "palavra": "しょっぱい",
+   "dica": "salty",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 242,
+   "palavra": "いらっしやい",
+   "dica": "welcome",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 234,
+   "palavra": "しゅっしん",
+   "dica": "from, origin, hometown",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 225,
+   "palavra": "ベんでし",
+   "dica": "lawyer",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 223,
+   "palavra": "ください",
+   "dica": "please",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 220,
+   "palavra": "な",
+   "dica": "do not, (adjective ending), don't",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 191,
+   "palavra": "コーナー",
+   "dica": "section",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 174,
+   "palavra": "クライアント",
+   "dica": "client",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 157,
+   "palavra": "イベント",
+   "dica": "event",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 102,
+   "palavra": "アクション",
+   "dica": "action",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 80,
+   "palavra": "ニつ",
+   "dica": "two",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 79,
+   "palavra": "ーつ",
+   "dica": "one",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 78,
+   "palavra": "じゃあ",
+   "dica": "well then, well, see you",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 46,
+   "palavra": "サークル",
+   "dica": "club",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 479,
+   "palavra": "どう",
+   "dica": "how",
+   "versao": "2.4.6"
+  },
+  {
+   "issue": 380,
+   "palavra": "休みます",
+   "dica": "rest, take a break, absent (from)",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 362,
+   "palavra": "まちます",
+   "dica": "wait, (will) wait, waits",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 354,
+   "palavra": "きます",
+   "dica": "wears, wear, comes",
+   "versao": "2.2.1"
+  },
+  {
+   "issue": 276,
+   "palavra": "のみます",
+   "dica": "drink, drinks, (will) drink",
+   "versao": "2.2.1"
+  }
+ ],
+ "relatos_com_decisao_pendente": [
+  {
+   "issue": 408,
+   "palavra": "たくさん",
+   "id": "en:000000101",
+   "mensagem": "não é uma correção. adicione oozei nos dicionarios muito contavel e a outra versao de muito incontavel takusa . sao 3 palavras necessarias.",
+   "motivo": "pedir 大勢 (contável) e たくさん/たくさんの (incontável): três palavras"
+  },
+  {
+   "issue": 404,
+   "palavra": "〜だろう",
+   "id": "en:000000061",
+   "mensagem": "darou         O termo darou (だろう) é uma expressão da língua japonesa usada para fazer especulações, previsões ou buscar confirmação de forma casual.  O que significa Darou?  • Tradução principal: Significa \"provavelmente\", \"eu acho que...\" ou equivale a \"não é mesmo?\" / \"certo?\" quando usado com tom",
+   "motivo": "would/〜だろう sem equivalência prática"
+  },
+  {
+   "issue": 493,
+   "palavra": "コンビニ",
+   "id": "en:000003021",
+   "mensagem": "ny?",
+   "motivo": "コンビニ: ID reservado (regional)"
+  },
+  {
+   "issue": 491,
+   "palavra": "コンビニ",
+   "id": "en:000003021",
+   "mensagem": "caralhoooo nao era pra ter esses erros seu filho da puta",
+   "motivo": "コンビニ: ID reservado (regional)"
+  },
+  {
+   "issue": 488,
+   "palavra": "あれ",
+   "id": "en:000003084",
+   "mensagem": "coisa,não troço, que merda de tradução",
+   "motivo": "あれ: ID reservado"
+  },
+  {
+   "issue": 487,
+   "palavra": "あれ",
+   "id": "en:000003084",
+   "mensagem": "filadelfia???",
+   "motivo": "あれ: ID reservado"
+  },
+  {
+   "issue": 394,
+   "palavra": "みんな",
+   "id": "en:000003003",
+   "mensagem": "Vocês\" em japonês é geralmente dito como あなたたち (anata-tachi), embora os nativos evitem pronomes diretos na fala cotidiana.  Como falar \"vocês\" em japonês  • あなたたち (anata-tachi): forma literal no plural, unindo \"você\" (anata) ao sufixo plural tachi. • 君たち (kimi-tachi): mais informal ou usado de super",
+   "motivo": "y'all/みんな: ID reservado (regional)"
+  }
+ ]
+}
