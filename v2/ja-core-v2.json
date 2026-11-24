@@ -88732,7 +88732,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "村",
-   "alternatives": [],
+   "alternatives": [
+    "集落",
+    "里"
+   ],
    "reading": "むら",
    "romanization": "mura",
    "classifications": [
@@ -88745,11 +88748,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 440,
-   "description": "いなかにある、とても小さな集落。",
+   "description": "いなかにある、小さな集落。「村に住む」のように使い、町より人口が少なく、農業や漁業が盛んなところが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "いなかにある、とても小さな集落。"
+    "ja": "いなかにある、小さな集落。「村に住む」のように使い、町より人口が少なく、農業や漁業が盛んなところが多い。"
    },
    "antonyms": []
   },
@@ -88794,7 +88797,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "動物",
-   "alternatives": [],
+   "alternatives": [
+    "生き物",
+    "獣"
+   ],
    "reading": "どうぶつ",
    "romanization": "doubutsu",
    "classifications": [
@@ -88807,11 +88813,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 441,
-   "description": "犬、鳥、魚、昆虫など、動物の仲間に属する生き物。",
+   "description": "犬や鳥、魚など、動いて食べ物をとる生き物。「動物園」のように使い、人間以外の生き物を指すことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "犬、鳥、魚、昆虫など、動物の仲間に属する生き物。"
+    "ja": "犬や鳥、魚など、動いて食べ物をとる生き物。「動物園」のように使い、人間以外の生き物を指すことが多い。"
    },
    "antonyms": []
   },
@@ -89003,7 +89009,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "描く",
-   "alternatives": [],
+   "alternatives": [
+    "かく",
+    "スケッチする"
+   ],
    "reading": "かく",
    "romanization": "kaku",
    "class_real": "godan verb",
@@ -89099,11 +89108,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 442,
-   "description": "鉛筆やペンなどを使い、線やしるしで絵を描く。",
+   "description": "鉛筆やペンなどで、線やしるしを使って絵や図をかく。「絵を描く」のように使い、「書く」は文字に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "鉛筆やペンなどを使い、線やしるしで絵を描く。"
+    "ja": "鉛筆やペンなどで、線やしるしを使って絵や図をかく。「絵を描く」のように使い、「書く」は文字に使う。"
    },
    "antonyms": []
   },
@@ -89149,7 +89158,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "入る",
-   "alternatives": [],
+   "alternatives": [
+    "進入する",
+    "入場する"
+   ],
    "reading": "はいる",
    "romanization": "hairu",
    "classifications": [
@@ -89242,12 +89254,12 @@
    ],
    "study_tier": "inicial",
    "study_priority": 443,
-   "description": "ある場所の内側へ進むこと。",
+   "description": "ある場所や建物の、内側へ進んで入る。「部屋に入る」のように使い、学校や会に参加する意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
    "nativeExplain": {
-    "ja": "ある場所の内側へ進むこと。"
+    "ja": "ある場所や建物の、内側へ進んで入る。「部屋に入る」のように使い、学校や会に参加する意味でも使う。"
    }
   },
   {
@@ -90085,18 +90097,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "変な",
    "alternatives": [
-    "奇妙な"
+    "奇妙な",
+    "おかしな"
    ],
    "reading": "へんな",
    "romanization": "hen na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 444,
-   "description": "ふつうと違っていて、おかしな。",
+   "description": "ふつうと違っていて、おかしい。「変な音」のように使い、人や出来事に対して、少し気味が悪いときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ふつうと違っていて、おかしな。"
+    "ja": "ふつうと違っていて、おかしい。「変な音」のように使い、人や出来事に対して、少し気味が悪いときにも使う。"
    },
    "antonyms": []
   },
@@ -90340,20 +90353,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "健康な",
-   "alternatives": [],
+   "alternatives": [
+    "元気な",
+    "丈夫な"
+   ],
    "reading": "けんこうな",
    "romanization": "kenkou na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 445,
-   "description": "病気ではなく、体によい。",
+   "description": "病気ではなく、体の調子がよい。「健康な体」のように使い、体によい食べ物を言うときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001909"
    ],
    "nativeExplain": {
-    "ja": "病気ではなく、体によい。"
+    "ja": "病気ではなく、体の調子がよい。「健康な体」のように使い、体によい食べ物を言うときにも使う。"
    }
   },
   {
@@ -90429,7 +90445,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "月曜日",
-   "alternatives": [],
+   "alternatives": [
+    "月曜"
+   ],
    "reading": "げつようび",
    "romanization": "getsuyoubi",
    "classifications": [
@@ -90442,11 +90460,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 446,
-   "description": "日曜日の次の日。",
+   "description": "日曜日の次の日で、一週間の最初の日。仕事や学校がはじまる日として使われることが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "日曜日の次の日。"
+    "ja": "日曜日の次の日で、一週間の最初の日。仕事や学校がはじまる日として使われることが多い。"
    },
    "antonyms": []
   },
@@ -90565,7 +90583,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "誰か",
-   "alternatives": [],
+   "alternatives": [
+    "だれか",
+    "ある人"
+   ],
    "reading": "だれか",
    "romanization": "dare ka",
    "classifications": [
@@ -90579,11 +90600,11 @@
    "class_real": "pronoun",
    "nativeExplain": {
     "pt-BR": "mais informal",
-    "ja": "名前を言わない、ある人。"
+    "ja": "名前を言わない、ある人。「誰かが来た」のように、はっきりしない人を指す。"
    },
    "study_tier": "inicial",
    "study_priority": 447,
-   "description": "名前を言わない、ある人。",
+   "description": "名前を言わない、ある人。「誰かが来た」のように、はっきりしない人を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -90697,7 +90718,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "窓",
-   "alternatives": [],
+   "alternatives": [
+    "ウィンドウ"
+   ],
    "reading": "まど",
    "romanization": "mado",
    "classifications": [
@@ -90710,11 +90733,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 449,
-   "description": "壁にあるガラスのついた開口部。",
+   "description": "かべにつくった、光や空気を通す開口部。「窓を開ける」のように使い、パソコンの画面の窓にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "壁にあるガラスのついた開口部。"
+    "ja": "かべにつくった、光や空気を通す開口部。「窓を開ける」のように使い、パソコンの画面の窓にも使う。"
    },
    "antonyms": []
   },
@@ -90800,17 +90823,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "かばん",
-   "alternatives": [],
+   "alternatives": [
+    "バッグ",
+    "鞄"
+   ],
    "reading": "かばん",
    "romanization": "kaban",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 450,
-   "description": "物を入れて持ち運ぶ入れ物。",
+   "description": "物を入れて、持ち運ぶための入れ物。「かばんを持つ」のように使い、学校や仕事で使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物を入れて持ち運ぶ入れ物。"
+    "ja": "物を入れて、持ち運ぶための入れ物。「かばんを持つ」のように使い、学校や仕事で使う。"
    },
    "antonyms": []
   },
@@ -91013,7 +91039,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "正しい",
-   "alternatives": [],
+   "alternatives": [
+    "正確な",
+    "正解の"
+   ],
    "reading": "ただしい",
    "romanization": "tadashii",
    "classifications": [
@@ -91059,11 +91088,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 451,
-   "description": "まちがいがない。",
+   "description": "まちがいがなく、正しい。「正しい答え」のように使い、「正確な」は数字や情報に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "まちがいがない。"
+    "ja": "まちがいがなく、正しい。「正しい答え」のように使い、「正確な」は数字や情報に使う。"
    },
    "antonyms": []
   },
@@ -91123,14 +91152,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 452,
-   "description": "けがをするおそれがある。",
+   "description": "けがや事故のおそれがある。「危ない道」のように使い、会話では「危ない」、文章では「危険な」を使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000885"
    ],
    "nativeExplain": {
-    "ja": "けがをするおそれがある。"
+    "ja": "けがや事故のおそれがある。「危ない道」のように使い、会話では「危ない」、文章では「危険な」を使う。"
    }
   },
   {
@@ -91683,17 +91712,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "テレビ",
-   "alternatives": [],
+   "alternatives": [
+    "テレビ",
+    "TV"
+   ],
    "reading": "テレビ",
    "romanization": "terebi",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 453,
-   "description": "番組や映像を見る機械。",
+   "description": "番組や映像を見るための機械、またはその放送。会話では「テレビ」と言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "番組や映像を見る機械。"
+    "ja": "番組や映像を見るための機械、またはその放送。会話では「テレビ」と言う。"
    },
    "antonyms": []
   },
@@ -91979,7 +92011,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "決める",
-   "alternatives": [],
+   "alternatives": [
+    "決定する",
+    "選ぶ"
+   ],
    "reading": "きめる",
    "romanization": "kimeru",
    "class_real": "ichidan verb",
@@ -92064,11 +92099,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 455,
-   "description": "考えたうえで、どうするかを選ぶこと。",
+   "description": "考えたうえで、どうするかを選ぶ。「行くことに決める」のように使い、「決まる」は自然にそうなるときに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "考えたうえで、どうするかを選ぶこと。"
+    "ja": "考えたうえで、どうするかを選ぶ。「行くことに決める」のように使い、「決まる」は自然にそうなるときに使う。"
    },
    "antonyms": []
   },
@@ -92091,17 +92126,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "夕食",
    "alternatives": [
-    "晩ご飯"
+    "晩ご飯",
+    "ディナー"
    ],
    "reading": "ゆうしょく",
    "romanization": "yuushoku",
    "study_tier": "inicial",
    "study_priority": 456,
-   "description": "夜の主な食事。",
+   "description": "夜にとる、その日の主な食事。「夕食」はていねいな言いかたで、家では「晩ご飯」と言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "夜の主な食事。"
+    "ja": "夜にとる、その日の主な食事。「夕食」はていねいな言いかたで、家では「晩ご飯」と言う。"
    },
    "antonyms": []
   },
@@ -92205,7 +92241,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "贈り物",
-   "alternatives": [],
+   "alternatives": [
+    "プレゼント",
+    "ギフト"
+   ],
    "reading": "おくりもの",
    "romanization": "okurimono",
    "classifications": [
@@ -92218,11 +92257,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "presente dado",
-    "ja": "人に贈る物。"
+    "ja": "人に贈る物。誕生日や記念日などに、気持ちをこめて渡す。「プレゼント」のほうが会話ではよく使う。"
    },
    "study_tier": "inicial",
    "study_priority": 457,
-   "description": "人に贈る物。",
+   "description": "人に贈る物。誕生日や記念日などに、気持ちをこめて渡す。「プレゼント」のほうが会話ではよく使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -92274,20 +92313,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "不可能な",
-   "alternatives": [],
+   "alternatives": [
+    "無理な",
+    "ありえない"
+   ],
    "reading": "ふかのうな",
    "romanization": "fukanou na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 458,
-   "description": "起こることができない。",
+   "description": "どうしても起こらない、できない。「それは不可能だ」のように使い、反対は「可能」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000423"
    ],
    "nativeExplain": {
-    "ja": "起こることができない。"
+    "ja": "どうしても起こらない、できない。「それは不可能だ」のように使い、反対は「可能」。"
    }
   },
   {
@@ -92727,7 +92769,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "閉める",
-   "alternatives": [],
+   "alternatives": [
+    "閉じる",
+    "閉める"
+   ],
    "reading": "しめる",
    "romanization": "shimeru",
    "classifications": [
@@ -92831,12 +92876,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "firme, de vez",
-    "ja": "閉じる。"
+    "ja": "開いているものを、とじる。「ドアを閉める」のように使い、店や会などを終える意味でも使う。"
    },
    "study_tier": "inicial",
    "study_priority": 459,
    "user_hint": "",
-   "description": "閉じる。",
+   "description": "開いているものを、とじる。「ドアを閉める」のように使い、店や会などを終える意味でも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000303"
@@ -92890,17 +92935,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "木材",
-   "alternatives": [],
+   "alternatives": [
+    "材木",
+    "木"
+   ],
    "reading": "もくざい",
    "romanization": "mokuzai",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 460,
    "user_hint": "",
-   "description": "木の幹などからとれる材料。",
+   "description": "木の幹などから取った、物を作るための材料。「木材で家を建てる」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "木の幹などからとれる材料。"
+    "ja": "木の幹などから取った、物を作るための材料。「木材で家を建てる」のように使う。"
    },
    "antonyms": []
   },
@@ -92991,7 +93039,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "橋",
-   "alternatives": [],
+   "alternatives": [
+    "ブリッジ"
+   ],
    "reading": "はし",
    "romanization": "hashi",
    "classifications": [
@@ -93004,11 +93054,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 461,
-   "description": "川や道の上をわたるための建造物。",
+   "description": "川や道、線路などの上をわたるための建造物。「橋をわたる」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "川や道の上をわたるための建造物。"
+    "ja": "川や道、線路などの上をわたるための建造物。「橋をわたる」のように使う。"
    },
    "antonyms": []
   },
@@ -93205,16 +93255,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "庭",
-   "alternatives": [],
+   "alternatives": [
+    "庭園",
+    "菜園"
+   ],
    "reading": "にわ",
    "romanization": "niwa",
    "study_tier": "inicial",
    "study_priority": 462,
-   "description": "家のそばにある、花や野菜を育てる場所。",
+   "description": "家のそばにある、花や野菜、木を育てる場所。「庭の手入れ」のように使い、広い公園は「庭園」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "家のそばにある、花や野菜を育てる場所。"
+    "ja": "家のそばにある、花や野菜、木を育てる場所。「庭の手入れ」のように使い、広い公園は「庭園」とも言う。"
    },
    "antonyms": []
   },
@@ -93406,7 +93459,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "運がいい",
-   "alternatives": [],
+   "alternatives": [
+    "ラッキーな",
+    "ついている"
+   ],
    "reading": "うんがいい",
    "romanization": "un ga ii",
    "lexical_type": "construction",
@@ -93446,10 +93502,10 @@
    "study_tier": "inicial",
    "study_priority": 463,
    "user_hint": "",
-   "description": "運にめぐまれている。",
+   "description": "運にめぐまれていて、よいことが起こる。「運がいい人」のように使い、「ラッキーな」とも言う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "運にめぐまれている。"
+    "ja": "運にめぐまれていて、よいことが起こる。「運がいい人」のように使い、「ラッキーな」とも言う。"
    },
    "antonyms": []
   },
@@ -93936,7 +93992,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "生きている",
-   "alternatives": [],
+   "alternatives": [
+    "生きた",
+    "存命の"
+   ],
    "reading": "いきている",
    "romanization": "ikite iru",
    "lexical_type": "construction",
@@ -94034,13 +94093,13 @@
    "study_tier": "inicial",
    "study_priority": 464,
    "user_hint": "",
-   "description": "死んでいない。",
+   "description": "死んでいなくて、生命がある。「生きている魚」のように使い、元気な様子や、残っている意味でも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000629"
    ],
    "nativeExplain": {
-    "ja": "死んでいない。"
+    "ja": "死んでいなくて、生命がある。「生きている魚」のように使い、元気な様子や、残っている意味でも使う。"
    }
   },
   {
@@ -94059,16 +94118,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "りんご",
-   "alternatives": [],
+   "alternatives": [
+    "リンゴ",
+    "アップル"
+   ],
    "reading": "りんご",
    "romanization": "ringo",
    "study_tier": "inicial",
    "study_priority": 465,
-   "description": "赤や緑の丸い果物。",
+   "description": "赤や緑の、丸くて甘ずっぱい果物。「りんごを食べる」のように使い、木になる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "赤や緑の丸い果物。"
+    "ja": "赤や緑の、丸くて甘ずっぱい果物。「りんごを食べる」のように使い、木になる。"
    },
    "antonyms": []
   },
@@ -94115,7 +94177,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "誕生日",
-   "alternatives": [],
+   "alternatives": [
+    "バースデー",
+    "生誕日"
+   ],
    "reading": "たんじょうび",
    "romanization": "tanjoubi",
    "classifications": [
@@ -94128,11 +94193,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 466,
-   "description": "生まれた日。毎年お祝いする日。",
+   "description": "生まれた日。毎年、お祝いをして、プレゼントやケーキを用意することが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "生まれた日。毎年お祝いする日。"
+    "ja": "生まれた日。毎年、お祝いをして、プレゼントやケーキを用意することが多い。"
    },
    "antonyms": []
   },
@@ -94154,7 +94219,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "上司",
-   "alternatives": [],
+   "alternatives": [
+    "上役",
+    "ボス"
+   ],
    "reading": "じょうし",
    "romanization": "joushi",
    "classifications": [
@@ -94167,11 +94235,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "no trabalho",
-    "ja": "仕事で自分に指示を出す人。"
+    "ja": "仕事で、自分に指示を出す人。「上司に報告する」のように使い、会社の中の立場が上の人を指す。"
    },
    "study_tier": "inicial",
    "study_priority": 467,
-   "description": "仕事で自分に指示を出す人。",
+   "description": "仕事で、自分に指示を出す人。「上司に報告する」のように使い、会社の中の立場が上の人を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -94262,11 +94330,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 468,
-   "description": "女の人や女の子が着る、上下がつながった服。",
+   "description": "女の人や女の子が着る、上下がつながった服。「ワンピース」と言い、「ドレス」はパーティーなどで着る華やかなもの。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "女の人や女の子が着る、上下がつながった服。"
+    "ja": "女の人や女の子が着る、上下がつながった服。「ワンピース」と言い、「ドレス」はパーティーなどで着る華やかなもの。"
    },
    "antonyms": []
   },
@@ -94344,7 +94412,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "馬",
-   "alternatives": [],
+   "alternatives": [
+    "ウマ"
+   ],
    "reading": "うま",
    "romanization": "uma",
    "classifications": [
@@ -94357,11 +94427,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 469,
-   "description": "人が乗ることもある、大きな動物。",
+   "description": "人が乗ったり、荷物を運ばせたりする、大きな動物。「馬に乗る」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "人が乗ることもある、大きな動物。"
+    "ja": "人が乗ったり、荷物を運ばせたりする、大きな動物。「馬に乗る」のように使う。"
    },
    "antonyms": []
   },
@@ -94436,7 +94506,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "地図",
-   "alternatives": [],
+   "alternatives": [
+    "マップ",
+    "案内図"
+   ],
    "reading": "ちず",
    "romanization": "chizu",
    "classifications": [
@@ -94449,11 +94522,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 470,
-   "description": "道や場所を描いた、土地の図。",
+   "description": "道や場所、土地のようすを、図にかいたもの。「地図を見る」のように使い、スマホの地図アプリにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "道や場所を描いた、土地の図。"
+    "ja": "道や場所、土地のようすを、図にかいたもの。「地図を見る」のように使い、スマホの地図アプリにも使う。"
    },
    "antonyms": []
   },
@@ -94709,7 +94782,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "起きる",
    "alternatives": [
-    "目が覚める"
+    "目が覚める",
+    "起床する"
    ],
    "reading": "おきる",
    "romanization": "okiru",
@@ -94806,14 +94880,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 471,
-   "description": "ねむりから目が覚めること。",
+   "description": "ねむりから目が覚めて、体を起こす。「朝六時に起きる」のように使い、ベッドから出る意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000926"
    ],
    "nativeExplain": {
-    "ja": "ねむりから目が覚めること。"
+    "ja": "ねむりから目が覚めて、体を起こす。「朝六時に起きる」のように使い、ベッドから出る意味でも使う。"
    }
   },
   {
@@ -94936,7 +95010,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "忙しい",
-   "alternatives": [],
+   "alternatives": [
+    "多忙な",
+    "いそがしい"
+   ],
    "reading": "いそがしい",
    "romanization": "isogashii",
    "forms": [
@@ -94974,13 +95051,13 @@
    "study_tier": "inicial",
    "study_priority": 472,
    "user_hint": "",
-   "description": "することがたくさんある。",
+   "description": "することがたくさんあって、時間がない。「忙しい一日」のように使い、場所が人でいっぱいのときにも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004171"
    ],
    "nativeExplain": {
-    "ja": "することがたくさんある。"
+    "ja": "することがたくさんあって、時間がない。「忙しい一日」のように使い、場所が人でいっぱいのときにも使う。"
    }
   },
   {
@@ -95111,7 +95188,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "会話",
-   "alternatives": [],
+   "alternatives": [
+    "おしゃべり",
+    "話"
+   ],
    "reading": "かいわ",
    "romanization": "kaiwa",
    "classifications": [
@@ -95125,10 +95205,10 @@
    "study_tier": "inicial",
    "study_priority": 473,
    "user_hint": "",
-   "description": "人と人が言葉をかわすこと。",
+   "description": "人と人が、言葉をかわして話すこと。「会話を楽しむ」のように使い、外国語の勉強では「英会話」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "人と人が言葉をかわすこと。"
+    "ja": "人と人が、言葉をかわして話すこと。「会話を楽しむ」のように使い、外国語の勉強では「英会話」のように使う。"
    },
    "antonyms": []
   },
@@ -95149,17 +95229,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "角",
-   "alternatives": [],
+   "alternatives": [
+    "曲がり角",
+    "隅"
+   ],
    "reading": "かど",
    "romanization": "kado",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 474,
-   "description": "ふたつの壁や道がまじわる場所。",
+   "description": "ふたつの壁や道が、まじわる場所。「角を曲がる」のように使い、すみっこの意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ふたつの壁や道がまじわる場所。"
+    "ja": "ふたつの壁や道が、まじわる場所。「角を曲がる」のように使い、すみっこの意味でも使う。"
    },
    "antonyms": []
   },
@@ -95348,7 +95431,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "運転手",
-   "alternatives": [],
+   "alternatives": [
+    "ドライバー",
+    "運転者"
+   ],
    "reading": "うんてんしゅ",
    "romanization": "untenshu",
    "classifications": [
@@ -95361,11 +95447,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 475,
-   "description": "車やバスを運転する人。",
+   "description": "車やバスなどを運転する人。「運転手」は仕事として運転する人に使い、一般の人には「ドライバー」と言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "車やバスを運転する人。"
+    "ja": "車やバスなどを運転する人。「運転手」は仕事として運転する人に使い、一般の人には「ドライバー」と言う。"
    },
    "antonyms": []
   },
@@ -95411,7 +95497,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "農場",
-   "alternatives": [],
+   "alternatives": [
+    "農園",
+    "牧場"
+   ],
    "reading": "のうじょう",
    "romanization": "noujou",
    "classifications": [
@@ -95424,11 +95513,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 476,
-   "description": "動物を飼ったり作物を育てたりする土地。",
+   "description": "動物を飼ったり、作物を育てたりする土地。「農場で働く」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "動物を飼ったり作物を育てたりする土地。"
+    "ja": "動物を飼ったり、作物を育てたりする土地。「農場で働く」のように使う。"
    },
    "antonyms": []
   },
@@ -95480,7 +95569,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "直す",
    "alternatives": [
-    "修理する"
+    "修理する",
+    "なおす"
    ],
    "reading": "なおす",
    "romanization": "naosu",
@@ -95566,11 +95656,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 477,
-   "description": "こわれた物を使えるようにすること。",
+   "description": "こわれた物や悪いところを、使えるように、またはよい状態にする。「自転車を直す」のように使い、「修理する」は機械に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "こわれた物を使えるようにすること。"
+    "ja": "こわれた物や悪いところを、使えるように、またはよい状態にする。「自転車を直す」のように使い、「修理する」は機械に使う。"
    },
    "antonyms": []
   },
@@ -95707,17 +95797,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "ガイド",
    "alternatives": [
-    "案内人"
+    "案内人",
+    "案内係"
    ],
    "reading": "ガイド",
    "romanization": "gaido",
    "study_tier": "inicial",
    "study_priority": 479,
    "user_hint": "",
-   "description": "旅行者に場所を案内する人。",
+   "description": "旅行者や観光客に、場所をくわしく説明して案内する人。「ガイドさん」と言い、本や解説書の意味もある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "旅行者に場所を案内する人。"
+    "ja": "旅行者や観光客に、場所をくわしく説明して案内する人。「ガイドさん」と言い、本や解説書の意味もある。"
    },
    "antonyms": []
   },
@@ -96690,20 +96781,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "乾いた",
-   "alternatives": [],
+   "alternatives": [
+    "かわいた",
+    "乾燥した"
+   ],
    "reading": "かわいた",
    "romanization": "kawaita",
    "class_real": "past participle (乾く), attributive",
    "study_tier": "inicial",
    "study_priority": 481,
-   "description": "水気がない。",
+   "description": "水気がなく、ぬれていない。「乾いた服」のように使い、空気や皮膚、砂漠などにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002772"
    ],
    "nativeExplain": {
-    "ja": "水気がない。"
+    "ja": "水気がなく、ぬれていない。「乾いた服」のように使い、空気や皮膚、砂漠などにも使う。"
    }
   },
   {
@@ -96823,17 +96917,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "わくわくした",
-   "alternatives": [],
+   "alternatives": [
+    "ワクワクした",
+    "興奮した"
+   ],
    "reading": "わくわくした",
    "romanization": "wakuwaku shita",
    "class_real": "adjectival construction",
    "study_tier": "inicial",
    "study_priority": 482,
-   "description": "うれしくて、気持ちが高まっている。",
+   "description": "うれしくて、気持ちが高まっている。「わくわくした気持ち」のように使い、楽しみで、じっとしていられない様子。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "うれしくて、気持ちが高まっている。"
+    "ja": "うれしくて、気持ちが高まっている。「わくわくした気持ち」のように使い、楽しみで、じっとしていられない様子。"
    },
    "antonyms": []
   },
@@ -96854,17 +96951,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "永遠に",
-   "alternatives": [],
+   "alternatives": [
+    "いつまでも",
+    "永久に"
+   ],
    "reading": "えいえんに",
    "romanization": "eien ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "inicial",
    "study_priority": 483,
-   "description": "いつまでも終わらないこと。",
+   "description": "いつまでも続いて、終わらない。「永遠に愛する」のように使い、とても長い間の意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "いつまでも終わらないこと。"
+    "ja": "いつまでも続いて、終わらない。「永遠に愛する」のように使い、とても長い間の意味でも使う。"
    },
    "antonyms": []
   },
@@ -96948,17 +97048,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "素敵な",
-   "alternatives": [],
+   "alternatives": [
+    "かわいらしい",
+    "すばらしい"
+   ],
    "reading": "すてきな",
    "romanization": "suteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 484,
    "user_hint": "",
-   "description": "美しい。とても心地よい。",
+   "description": "美しくて、心地よい。「素敵な景色」のように使い、人や物をほめるときに使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "美しい。とても心地よい。"
+    "ja": "美しくて、心地よい。「素敵な景色」のように使い、人や物をほめるときに使う。"
    },
    "antonyms": []
   },
@@ -97165,17 +97268,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "どこか",
-   "alternatives": [],
+   "alternatives": [
+    "どこかに",
+    "ある場所"
+   ],
    "reading": "どこか",
    "romanization": "doko ka",
    "class_real": "indefinite pronoun/adverb",
    "study_tier": "inicial",
    "study_priority": 485,
-   "description": "はっきりしない、ある場所。",
+   "description": "はっきりわからない、ある場所。「どこかに行く」のように使い、あとに場所を表す言葉がくる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "はっきりしない、ある場所。"
+    "ja": "はっきりわからない、ある場所。「どこかに行く」のように使い、あとに場所を表す言葉がくる。"
    },
    "antonyms": []
   },
@@ -97278,7 +97384,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "腕",
-   "alternatives": [],
+   "alternatives": [
+    "うで"
+   ],
    "reading": "うで",
    "romanization": "ude",
    "classifications": [
@@ -97292,11 +97400,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 486,
-   "description": "肩から手に向かって伸びる体の部分。",
+   "description": "肩から手に向かってのびる、体の部分。「腕を上げる」のように使い、物を持つ力や技術を表すときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "肩から手に向かって伸びる体の部分。"
+    "ja": "肩から手に向かってのびる、体の部分。「腕を上げる」のように使い、物を持つ力や技術を表すときにも使う。"
    },
    "antonyms": []
   },
@@ -97710,17 +97818,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "正直な",
-   "alternatives": [],
+   "alternatives": [
+    "誠実な",
+    "素直な"
+   ],
    "reading": "しょうじきな",
    "romanization": "shoujiki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 487,
-   "description": "うそをつかず、本当のことを言う。",
+   "description": "うそをつかず、本当のことを言う。「正直な人」のように使い、人の性格に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "うそをつかず、本当のことを言う。"
+    "ja": "うそをつかず、本当のことを言う。「正直な人」のように使い、人の性格に使う。"
    },
    "antonyms": []
   },
@@ -97926,7 +98037,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "山",
-   "alternatives": [],
+   "alternatives": [
+    "やま",
+    "山岳"
+   ],
    "reading": "やま",
    "romanization": "yama",
    "classifications": [
@@ -97939,11 +98053,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 488,
-   "description": "周囲の土地から高く盛り上がった地形。",
+   "description": "まわりの土地より、高く盛り上がった地形。「山に登る」のように使い、山の名前にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "周囲の土地から高く盛り上がった地形。"
+    "ja": "まわりの土地より、高く盛り上がった地形。「山に登る」のように使い、山の名前にも使う。"
    },
    "antonyms": []
   },
@@ -98409,17 +98523,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "スポーツ",
-   "alternatives": [],
+   "alternatives": [
+    "競技",
+    "運動"
+   ],
    "reading": "スポーツ",
    "romanization": "supootsu",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 489,
-   "description": "体を動かして行う競技や遊び。",
+   "description": "体を動かして行う、競技や遊び。「スポーツをする」のように使い、野球やサッカー、水泳などを指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "体を動かして行う競技や遊び。"
+    "ja": "体を動かして行う、競技や遊び。「スポーツをする」のように使い、野球やサッカー、水泳などを指す。"
    },
    "antonyms": []
   },
@@ -98545,7 +98662,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "午後",
-   "alternatives": [],
+   "alternatives": [
+    "昼過ぎ",
+    "午後から"
+   ],
    "reading": "ごご",
    "romanization": "gogo",
    "classifications": [
@@ -98558,11 +98678,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 491,
-   "description": "正午から夕方までの時間。",
+   "description": "正午から夕方までの時間。「午後に会う」のように使い、午前の次にくる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "正午から夕方までの時間。"
+    "ja": "正午から夕方までの時間。「午後に会う」のように使い、午前の次にくる。"
    },
    "antonyms": []
   },
@@ -98682,17 +98802,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "服",
    "alternatives": [
-    "衣類"
+    "衣類",
+    "洋服"
    ],
    "reading": "ふく",
    "romanization": "fuku",
    "study_tier": "inicial",
    "study_priority": 492,
-   "description": "体に着る物。",
+   "description": "人が体に着るもの。「服を着る」のように使い、「衣類」は店や洗濯でよく使うていねいな言いかた。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "体に着る物。"
+    "ja": "人が体に着るもの。「服を着る」のように使い、「衣類」は店や洗濯でよく使うていねいな言いかた。"
    },
    "antonyms": []
   },
@@ -98959,18 +99080,21 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "こんにちは",
-   "alternatives": [],
+   "alternatives": [
+    "やあ",
+    "どうも"
+   ],
    "reading": "こんにちは",
    "romanization": "konnichiwa",
    "speech": "こんにちわ",
    "class_real": "interjection (greeting)",
    "study_tier": "inicial",
    "study_priority": 493,
-   "description": "人に会ったときのあいさつ。",
+   "description": "人に会ったときや、昼間に使う、あいさつ。「こんにちは」は朝や夜には使わず、昼ごろ使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "人に会ったときのあいさつ。"
+    "ja": "人に会ったときや、昼間に使う、あいさつ。「こんにちは」は朝や夜には使わず、昼ごろ使う。"
    },
    "antonyms": []
   },
@@ -99080,7 +99204,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "蹴る",
-   "alternatives": [],
+   "alternatives": [
+    "けとばす",
+    "蹴とばす"
+   ],
    "reading": "ける",
    "romanization": "keru",
    "classifications": [
@@ -99185,10 +99312,10 @@
    "study_tier": "inicial",
    "study_priority": 494,
    "user_hint": "",
-   "description": "足で強くあてる。",
+   "description": "足で、ボールや物を強くあてて飛ばす。「ボールを蹴る」のように使い、サッカーでよく使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "足で強くあてる。"
+    "ja": "足で、ボールや物を強くあてて飛ばす。「ボールを蹴る」のように使い、サッカーでよく使う。"
    },
    "antonyms": []
   },
@@ -99561,7 +99688,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "空",
-   "alternatives": [],
+   "alternatives": [
+    "青空",
+    "天"
+   ],
    "reading": "そら",
    "romanization": "sora",
    "classifications": [
@@ -99574,11 +99704,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 497,
-   "description": "地上の上に広がる、雲のある空間。",
+   "description": "地上の上に広がる、雲や太陽のある空間。「空を見る」のように使い、天気や気分の話でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "地上の上に広がる、雲のある空間。"
+    "ja": "地上の上に広がる、雲や太陽のある空間。「空を見る」のように使い、天気や気分の話でも使う。"
    },
    "antonyms": []
   },
@@ -99753,7 +99883,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "役に立つ",
    "alternatives": [
-    "便利な"
+    "便利な",
+    "有益な"
    ],
    "reading": "やくにたつ",
    "romanization": "yaku ni tatsu",
@@ -99851,11 +99982,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 498,
-   "description": "使うと助けになる。",
+   "description": "使うと助けになって、価値がある。「役に立つ情報」のように使い、「便利な」は使いやすいときに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "使うと助けになる。"
+    "ja": "使うと助けになって、価値がある。「役に立つ情報」のように使い、「便利な」は使いやすいときに使う。"
    },
    "antonyms": []
   },
@@ -99962,7 +100093,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "事故",
-   "alternatives": [],
+   "alternatives": [
+    "アクシデント",
+    "災難"
+   ],
    "reading": "じこ",
    "romanization": "jiko",
    "classifications": [
@@ -99976,10 +100110,10 @@
    "study_tier": "inicial",
    "study_priority": 499,
    "user_hint": "",
-   "description": "思いがけず起こる悪い出来事（交通事故）。",
+   "description": "思いがけず起こる、よくない出来事。「交通事故」のように使い、けがや損害をともなうことが多い。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "思いがけず起こる悪い出来事（交通事故）。"
+    "ja": "思いがけず起こる、よくない出来事。「交通事故」のように使い、けがや損害をともなうことが多い。"
    },
    "antonyms": []
   },
@@ -100079,16 +100213,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "熊",
-   "alternatives": [],
+   "alternatives": [
+    "クマ",
+    "ベア"
+   ],
    "reading": "くま",
    "romanization": "kuma",
    "study_tier": "inicial",
    "study_priority": 500,
-   "description": "毛が厚い、大きくて重い野生の動物。",
+   "description": "毛が厚くて、大きく重い、野生の動物。「熊に会う」のように使い、山や森に住んでいる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "毛が厚い、大きくて重い野生の動物。"
+    "ja": "毛が厚くて、大きく重い、野生の動物。「熊に会う」のように使い、山や森に住んでいる。"
    },
    "antonyms": []
   },
@@ -100159,7 +100296,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "安い",
-   "alternatives": [],
+   "alternatives": [
+    "安価な",
+    "お手頃な"
+   ],
    "reading": "やすい",
    "romanization": "yasui",
    "classifications": [
@@ -100205,13 +100345,13 @@
    "study_tier": "inicial",
    "study_priority": 502,
    "user_hint": "",
-   "description": "値段が低い。",
+   "description": "値段が低い。「安い店」のように使い、物の質が悪い意味では「安っぽい」と言う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002033"
    ],
    "nativeExplain": {
-    "ja": "値段が低い。"
+    "ja": "値段が低い。「安い店」のように使い、物の質が悪い意味では「安っぽい」と言う。"
    }
   },
   {
@@ -100321,7 +100461,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "素晴らしい",
-   "alternatives": [],
+   "alternatives": [
+    "すばらしい",
+    "最高の"
+   ],
    "reading": "すばらしい",
    "romanization": "subarashii",
    "class_real": "i-adjective",
@@ -100360,10 +100503,10 @@
    "study_tier": "inicial",
    "study_priority": 503,
    "user_hint": "",
-   "description": "想像以上によい。",
+   "description": "想像以上によくて、すばらしい。「素晴らしい旅行」のように使い、会話では「すごい」「最高」とも言う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "想像以上によい。"
+    "ja": "想像以上によくて、すばらしい。「素晴らしい旅行」のように使い、会話では「すごい」「最高」とも言う。"
    },
    "antonyms": []
   },
@@ -100473,7 +100616,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "百",
-   "alternatives": [],
+   "alternatives": [
+    "100",
+    "ひゃく"
+   ],
    "reading": "ひゃく",
    "romanization": "hyaku",
    "classifications": [
@@ -100486,11 +100632,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 504,
-   "description": "数の100。",
+   "description": "数の100。「百人」「百円」のように、数える物の名前の前につけて使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "数の100。"
+    "ja": "数の100。「百人」「百円」のように、数える物の名前の前につけて使う。"
    },
    "antonyms": []
   },
@@ -100691,7 +100837,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "博物館",
-   "alternatives": [],
+   "alternatives": [
+    "ミュージアム"
+   ],
    "reading": "はくぶつかん",
    "romanization": "hakubutsukan",
    "classifications": [
@@ -100705,11 +100853,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 506,
-   "description": "昔の物や大切な物を見に行く建物。",
+   "description": "昔の物や大切な作品、資料を集めて、見せる建物。「博物館に行く」のように使い、美術品は「美術館」と言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "昔の物や大切な物を見に行く建物。"
+    "ja": "昔の物や大切な作品、資料を集めて、見せる建物。「博物館に行く」のように使い、美術品は「美術館」と言う。"
    },
    "antonyms": []
   },
@@ -101035,7 +101183,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "雨",
-   "alternatives": [],
+   "alternatives": [
+    "あめ",
+    "降雨"
+   ],
    "reading": "あめ",
    "romanization": "ame",
    "classifications": [
@@ -101048,11 +101199,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 507,
-   "description": "雲から落ちてくる水。",
+   "description": "雲から落ちてくる、水のつぶ。「雨がふる」のように使い、天気の話によく出てくる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "雲から落ちてくる水。"
+    "ja": "雲から落ちてくる、水のつぶ。「雨がふる」のように使い、天気の話によく出てくる。"
    },
    "antonyms": []
   },
@@ -101197,7 +101348,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ひどい",
-   "alternatives": [],
+   "alternatives": [
+    "最悪な",
+    "ひどい"
+   ],
    "reading": "ひどい",
    "romanization": "hidoi",
    "forms": [
@@ -101235,10 +101389,10 @@
    "study_tier": "inicial",
    "study_priority": 508,
    "user_hint": "",
-   "description": "とてもよくない。",
+   "description": "とてもよくない、ひどい状態である。「ひどい天気」のように使い、気持ちや出来事に強く使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とてもよくない。"
+    "ja": "とてもよくない、ひどい状態である。「ひどい天気」のように使い、気持ちや出来事に強く使う。"
    },
    "antonyms": []
   },
@@ -101392,7 +101546,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "怖い",
-   "alternatives": [],
+   "alternatives": [
+    "恐ろしい",
+    "こわい"
+   ],
    "reading": "こわい",
    "romanization": "kowai",
    "classifications": [
@@ -101438,11 +101595,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 511,
-   "description": "おそろしいと感じている。",
+   "description": "おそろしいと思い、こわがっている。「犬が怖い」のように使い、人や物、これから起こることに感じる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "おそろしいと感じている。"
+    "ja": "おそろしいと思い、こわがっている。「犬が怖い」のように使い、人や物、これから起こることに感じる。"
    },
    "antonyms": []
   },
@@ -101905,7 +102062,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "森",
-   "alternatives": [],
+   "alternatives": [
+    "林",
+    "樹林"
+   ],
    "reading": "もり",
    "romanization": "mori",
    "classifications": [
@@ -101918,11 +102078,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 512,
-   "description": "木がたくさん生えた広い場所。",
+   "description": "木がたくさん生えた、広い場所。「森を歩く」のように使い、「林」は、森より木が少ない場所を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "木がたくさん生えた広い場所。"
+    "ja": "木がたくさん生えた、広い場所。「森を歩く」のように使い、「林」は、森より木が少ない場所を指す。"
    },
    "antonyms": []
   },
@@ -102098,18 +102258,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "海洋",
    "alternatives": [
-    "大洋"
+    "大洋",
+    "海"
    ],
    "reading": "かいよう",
    "romanization": "kaiyou",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 514,
-   "description": "とても広い海。",
+   "description": "とても広い海。大陸のあいだにあり、「太平洋」「大西洋」のような名前がついている。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "とても広い海。"
+    "ja": "とても広い海。大陸のあいだにあり、「太平洋」「大西洋」のような名前がついている。"
    },
    "antonyms": []
   },
@@ -102361,16 +102522,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "いす",
-   "alternatives": [],
+   "alternatives": [
+    "椅子",
+    "腰かけ"
+   ],
    "reading": "いす",
    "romanization": "isu",
    "study_tier": "inicial",
    "study_priority": 515,
-   "description": "ひとりがすわる、背もたれのある家具。",
+   "description": "ひとりがすわる、背もたれのある家具。「いすに座る」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ひとりがすわる、背もたれのある家具。"
+    "ja": "ひとりがすわる、背もたれのある家具。「いすに座る」のように使う。"
    },
    "antonyms": []
   },
@@ -102438,7 +102602,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "高い",
    "alternatives": [
-    "高価な"
+    "高価な",
+    "値が張る"
    ],
    "reading": "たかい",
    "romanization": "takai",
@@ -102486,13 +102651,13 @@
    "study_tier": "inicial",
    "study_priority": 516,
    "user_hint": "",
-   "description": "お金がたくさんかかる。",
+   "description": "買うときに、お金がたくさんかかる。「高い時計」のように使い、反対は「安い」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001952"
    ],
    "nativeExplain": {
-    "ja": "お金がたくさんかかる。"
+    "ja": "買うときに、お金がたくさんかかる。「高い時計」のように使い、反対は「安い」。"
    }
   },
   {
@@ -102639,7 +102804,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "跳ぶ",
-   "alternatives": [],
+   "alternatives": [
+    "ジャンプする",
+    "飛び上がる"
+   ],
    "reading": "とぶ",
    "romanization": "tobu",
    "classifications": [
@@ -102743,11 +102911,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 517,
-   "description": "地面をけって体を空中に上げること。",
+   "description": "地面をけって、体を空中に上げる。「ジャンプする」のように使い、「跳ぶ」は、高さや遠くへの動きに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "地面をけって体を空中に上げること。"
+    "ja": "地面をけって、体を空中に上げる。「ジャンプする」のように使い、「跳ぶ」は、高さや遠くへの動きに使う。"
    },
    "antonyms": []
   },
@@ -103060,7 +103228,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "突然",
    "alternatives": [
-    "急に"
+    "急に",
+    "いきなり"
    ],
    "reading": "とつぜん",
    "romanization": "totsuzen",
@@ -103075,11 +103244,11 @@
    "class_real": "noun/adverb",
    "study_tier": "inicial",
    "study_priority": 518,
-   "description": "急に、思いがけなく。",
+   "description": "急に、思いがけなく起こる。「突然、雨がふってきた」のように使い、予想していなかったときに言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "急に、思いがけなく。"
+    "ja": "急に、思いがけなく起こる。「突然、雨がふってきた」のように使い、予想していなかったときに言う。"
    },
    "antonyms": []
   },
@@ -103258,7 +103427,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "黄色い",
-   "alternatives": [],
+   "alternatives": [
+    "黄",
+    "イエロー"
+   ],
    "reading": "きいろい",
    "romanization": "kiiroi",
    "forms": [
@@ -103296,10 +103468,10 @@
    "study_tier": "inicial",
    "study_priority": 519,
    "user_hint": "",
-   "description": "バナナのような色。",
+   "description": "バナナやひよこのような、あざやかな色。「黄色い花」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "バナナのような色。"
+    "ja": "バナナやひよこのような、あざやかな色。「黄色い花」のように使う。"
    },
    "antonyms": []
   },
@@ -103577,16 +103749,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "メール",
-   "alternatives": [],
+   "alternatives": [
+    "電子メール",
+    "Eメール"
+   ],
    "reading": "メール",
    "romanization": "meeru",
    "study_tier": "inicial",
    "study_priority": 520,
-   "description": "インターネットで送る手紙。",
+   "description": "インターネットで送る、手紙のような文章。「メールを送る」のように使い、仕事でもよく使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "インターネットで送る手紙。"
+    "ja": "インターネットで送る、手紙のような文章。「メールを送る」のように使い、仕事でもよく使う。"
    },
    "antonyms": []
   },
@@ -103800,7 +103975,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼女",
-   "alternatives": [],
+   "alternatives": [
+    "恋人",
+    "ガールフレンド"
+   ],
    "reading": "かのじょ",
    "romanization": "kanojo",
    "classifications": [
@@ -103814,14 +103992,14 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 521,
-   "description": "つきあっている相手の女の人。",
+   "description": "つきあっている、相手の女の人。男の人から見て言い、「恋人」は性別を問わずに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002479"
    ],
    "nativeExplain": {
-    "ja": "つきあっている相手の女の人。"
+    "ja": "つきあっている、相手の女の人。男の人から見て言い、「恋人」は性別を問わずに使う。"
    }
   },
   {
@@ -103835,7 +104013,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "英雄",
-   "alternatives": [],
+   "alternatives": [
+    "ヒーロー",
+    "勇者"
+   ],
    "reading": "えいゆう",
    "romanization": "eiyuu",
    "classifications": [
@@ -103849,10 +104030,10 @@
    "study_tier": "inicial",
    "study_priority": 522,
    "user_hint": "",
-   "description": "勇気ある行いで人にたたえられる人。",
+   "description": "勇気ある行いで、人にたたえられる人。「英雄」は歴史や物語に出てくることが多い。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "勇気ある行いで人にたたえられる人。"
+    "ja": "勇気ある行いで、人にたたえられる人。「英雄」は歴史や物語に出てくることが多い。"
    },
    "antonyms": []
   },
@@ -103899,7 +104080,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "冗談",
-   "alternatives": [],
+   "alternatives": [
+    "ジョーク",
+    "笑い話"
+   ],
    "reading": "じょうだん",
    "romanization": "joudan",
    "classifications": [
@@ -103912,11 +104096,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 523,
-   "description": "人を笑わせるために言う話。",
+   "description": "人を笑わせるために言う、おもしろい話。「冗談を言う」のように使い、本気でない言葉の意味もある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "人を笑わせるために言う話。"
+    "ja": "人を笑わせるために言う、おもしろい話。「冗談を言う」のように使い、本気でない言葉の意味もある。"
    },
    "antonyms": []
   },
@@ -103956,7 +104140,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "惑星",
-   "alternatives": [],
+   "alternatives": [
+    "遊星",
+    "プラネット"
+   ],
    "reading": "わくせい",
    "romanization": "wakusei",
    "classifications": [
@@ -103970,10 +104157,10 @@
    "study_tier": "inicial",
    "study_priority": 524,
    "user_hint": "",
-   "description": "恒星のまわりを回る大きな天体（地球、火星）。",
+   "description": "太陽などの恒星のまわりを回る、大きな天体。「地球は惑星だ」のように使い、火星や金星などがある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "恒星のまわりを回る大きな天体（地球、火星）。"
+    "ja": "太陽などの恒星のまわりを回る、大きな天体。「地球は惑星だ」のように使い、火星や金星などがある。"
    },
    "antonyms": []
   },
@@ -103993,7 +104180,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "レストラン",
-   "alternatives": [],
+   "alternatives": [
+    "食堂",
+    "飲食店"
+   ],
    "reading": "レストラン",
    "romanization": "resutoran",
    "classifications": [
@@ -104006,11 +104196,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 525,
-   "description": "お金を払って食事をする店。",
+   "description": "お金を払って、食事をする店。「レストランで食べる」のように使い、予約をして行くこともある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "お金を払って食事をする店。"
+    "ja": "お金を払って、食事をする店。「レストランで食べる」のように使い、予約をして行くこともある。"
    },
    "antonyms": []
   },
@@ -104099,7 +104289,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "柔らかい",
-   "alternatives": [],
+   "alternatives": [
+    "やわらかい",
+    "ふわふわの"
+   ],
    "reading": "やわらかい",
    "romanization": "yawarakai",
    "classifications": [
@@ -104145,13 +104338,13 @@
    "study_tier": "inicial",
    "study_priority": 527,
    "user_hint": "",
-   "description": "かたくなく、おすと形が変わる。",
+   "description": "かたくなくて、おすと形が変わる。「柔らかいパン」のように使い、手ざわりや態度がやさしいときにも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004172"
    ],
    "nativeExplain": {
-    "ja": "かたくなく、おすと形が変わる。"
+    "ja": "かたくなくて、おすと形が変わる。「柔らかいパン」のように使い、手ざわりや態度がやさしいときにも使う。"
    }
   },
   {
@@ -105031,16 +105224,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "間違い",
-   "alternatives": [],
+   "alternatives": [
+    "ミス",
+    "失敗"
+   ],
    "reading": "まちがい",
    "romanization": "machigai",
    "nativeExplain": {
     "pt-BR": "mais comum",
-    "ja": "まちがってやってしまったこと。"
+    "ja": "間違ってしまった行い。「間違いを直す」のように使い、「ミス」とも言う。"
    },
    "study_tier": "inicial",
    "study_priority": 529,
-   "description": "まちがってやってしまったこと。",
+   "description": "間違ってしまった行い。「間違いを直す」のように使い、「ミス」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -105146,16 +105342,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "プール",
-   "alternatives": [],
+   "alternatives": [
+    "水泳場",
+    "スイミングプール"
+   ],
    "reading": "プール",
    "romanization": "puuru",
    "study_tier": "inicial",
    "study_priority": 530,
-   "description": "泳ぐために水をためた場所。",
+   "description": "泳ぐために、水をためた場所。「プールで泳ぐ」のように使い、学校や体育館にある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "泳ぐために水をためた場所。"
+    "ja": "泳ぐために、水をためた場所。「プールで泳ぐ」のように使い、学校や体育館にある。"
    },
    "antonyms": []
   },
@@ -105694,17 +105893,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "怒った",
-   "alternatives": [],
+   "alternatives": [
+    "腹を立てた",
+    "おこった"
+   ],
    "reading": "おこった",
    "romanization": "okotta",
    "class_real": "past participle (怒る), attributive",
    "nativeExplain": {
     "pt-BR": "com raiva (geral)",
-    "ja": "強くいやだと思って、腹を立てている。"
+    "ja": "強くいやだと思って、腹を立てている。「怒った顔」のように使い、人に対する強い不満を表す。"
    },
    "study_tier": "inicial",
    "study_priority": 532,
-   "description": "強くいやだと思って、腹を立てている。",
+   "description": "強くいやだと思って、腹を立てている。「怒った顔」のように使い、人に対する強い不満を表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -105752,18 +105954,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "快適な",
    "alternatives": [
-    "楽な"
+    "楽な",
+    "心地よい"
    ],
    "reading": "かいてきな",
    "romanization": "kaiteki na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 533,
-   "description": "着たり座ったりして気持ちがよい。楽な感じ。",
+   "description": "体や気持ちが楽で、心地よい。「快適な部屋」のように使い、いすや服、環境に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "着たり座ったりして気持ちがよい。楽な感じ。"
+    "ja": "体や気持ちが楽で、心地よい。「快適な部屋」のように使い、いすや服、環境に使う。"
    },
    "antonyms": []
   },
@@ -105981,16 +106184,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "キツネ",
-   "alternatives": [],
+   "alternatives": [
+    "狐",
+    "フォックス"
+   ],
    "reading": "キツネ",
    "romanization": "kitsune",
    "study_tier": "inicial",
    "study_priority": 534,
    "user_hint": "",
-   "description": "ふさふさした尾をもつ、犬に似た野生の動物。",
+   "description": "ふさふさした尾をもつ、犬に似た野生の動物。「キツネ」は、昔話などでは、ずるがしこいものとして出てくる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ふさふさした尾をもつ、犬に似た野生の動物。"
+    "ja": "ふさふさした尾をもつ、犬に似た野生の動物。「キツネ」は、昔話などでは、ずるがしこいものとして出てくる。"
    },
    "antonyms": []
   },
@@ -106005,7 +106211,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "穴",
-   "alternatives": [],
+   "alternatives": [
+    "あな",
+    "くぼみ"
+   ],
    "reading": "あな",
    "romanization": "ana",
    "classifications": [
@@ -106019,10 +106228,10 @@
    "study_tier": "inicial",
    "study_priority": 535,
    "user_hint": "",
-   "description": "物にあいた、からっぽのくぼみやあな。",
+   "description": "物にあいた、からっぽのくぼみやあな。「穴を掘る」のように使い、服や靴にあく穴にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "物にあいた、からっぽのくぼみやあな。"
+    "ja": "物にあいた、からっぽのくぼみやあな。「穴を掘る」のように使い、服や靴にあく穴にも使う。"
    },
    "antonyms": []
   },
@@ -106151,7 +106360,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "笑う",
-   "alternatives": [],
+   "alternatives": [
+    "笑い声を上げる",
+    "ほほえむ"
+   ],
    "reading": "わらう",
    "romanization": "warau",
    "class_real": "godan verb",
@@ -106247,14 +106459,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 536,
-   "description": "おもしろくて声を出すこと。",
+   "description": "おもしろくて、声を出して、表情がゆるむ。「大声で笑う」のように使い、「笑う」は微笑むときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002486"
    ],
    "nativeExplain": {
-    "ja": "おもしろくて声を出すこと。"
+    "ja": "おもしろくて、声を出して、表情がゆるむ。「大声で笑う」のように使い、「笑う」は微笑むときにも使う。"
    }
   },
   {
@@ -106334,17 +106546,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "昼ご飯",
    "alternatives": [
-    "昼食"
+    "昼食",
+    "ランチ"
    ],
    "reading": "ひるごはん",
    "romanization": "hirugohan",
    "study_tier": "inicial",
    "study_priority": 538,
-   "description": "昼にとる食事。",
+   "description": "昼にとる食事。「昼ご飯を食べる」のように使い、ていねいに言うと「昼食」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "昼にとる食事。"
+    "ja": "昼にとる食事。「昼ご飯を食べる」のように使い、ていねいに言うと「昼食」。"
    },
    "antonyms": []
   },
@@ -106718,7 +106931,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "嵐",
-   "alternatives": [],
+   "alternatives": [
+    "暴風",
+    "あらし"
+   ],
    "reading": "あらし",
    "romanization": "arashi",
    "classifications": [
@@ -106731,11 +106947,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 541,
-   "description": "強い風が吹き、雨などを伴う荒れた天気。",
+   "description": "強い風や雨、雪などをともなう、荒れた天気。「嵐がくる」のように使い、困難な状況にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "強い風が吹き、雨などを伴う荒れた天気。"
+    "ja": "強い風や雨、雪などをともなう、荒れた天気。「嵐がくる」のように使い、困難な状況にも使う。"
    },
    "antonyms": []
   },
@@ -106890,7 +107106,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "弱い",
-   "alternatives": [],
+   "alternatives": [
+    "か弱い",
+    "もろい"
+   ],
    "reading": "よわい",
    "romanization": "yowai",
    "classifications": [
@@ -106936,13 +107155,13 @@
    "study_tier": "inicial",
    "study_priority": 542,
    "user_hint": "",
-   "description": "力が弱い。",
+   "description": "力が足りなくて、強くない。「弱い体」のように使い、人の性格や、物の強さにも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000593"
    ],
    "nativeExplain": {
-    "ja": "力が弱い。"
+    "ja": "力が足りなくて、強くない。「弱い体」のように使い、人の性格や、物の強さにも使う。"
    }
   },
   {
@@ -106961,7 +107180,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "俳優",
-   "alternatives": [],
+   "alternatives": [
+    "役者",
+    "アクター"
+   ],
    "reading": "はいゆう",
    "romanization": "haiyuu",
    "classifications": [
@@ -106974,11 +107196,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 543,
-   "description": "映画や劇で演じる人。",
+   "description": "映画や劇で、役を演じる人。「俳優になる」のように使い、男性にも女性にも使うことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "映画や劇で演じる人。"
+    "ja": "映画や劇で、役を演じる人。「俳優になる」のように使い、男性にも女性にも使うことが多い。"
    },
    "antonyms": []
   },
@@ -107282,7 +107504,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "料理する",
-   "alternatives": [],
+   "alternatives": [
+    "作る",
+    "調理する"
+   ],
    "reading": "りょうりする",
    "romanization": "ryouri suru",
    "class_real": "suru-verb",
@@ -107378,11 +107603,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 545,
-   "description": "火などで食べ物をつくること。",
+   "description": "火や熱を使って、食べ物をつくる。「ご飯を料理する」のように使い、「作る」は、料理以外にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "火などで食べ物をつくること。"
+    "ja": "火や熱を使って、食べ物をつくる。「ご飯を料理する」のように使い、「作る」は、料理以外にも使う。"
    },
    "antonyms": []
   },
@@ -107397,7 +107622,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "かわいい",
-   "alternatives": [],
+   "alternatives": [
+    "愛らしい",
+    "いとしい"
+   ],
    "reading": "かわいい",
    "romanization": "kawaii",
    "forms": [
@@ -107435,10 +107663,10 @@
    "study_tier": "inicial",
    "study_priority": 546,
    "user_hint": "",
-   "description": "かわいらしく、いとしい。",
+   "description": "かわいらしくて、愛しい。「かわいい犬」のように使い、小さい物や人、動物によく使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "かわいらしく、いとしい。"
+    "ja": "かわいらしくて、愛しい。「かわいい犬」のように使い、小さい物や人、動物によく使う。"
    },
    "antonyms": []
   },
@@ -107662,7 +107890,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "台所",
-   "alternatives": [],
+   "alternatives": [
+    "キッチン",
+    "調理場"
+   ],
    "reading": "だいどころ",
    "romanization": "daidokoro",
    "classifications": [
@@ -107675,11 +107906,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 547,
-   "description": "料理をする部屋。",
+   "description": "料理をする部屋。「台所で料理する」のように使い、「キッチン」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "料理をする部屋。"
+    "ja": "料理をする部屋。「台所で料理する」のように使い、「キッチン」とも言う。"
    },
    "antonyms": []
   },
@@ -107979,20 +108210,23 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "静かな",
-   "alternatives": [],
+   "alternatives": [
+    "しずかな",
+    "物静かな"
+   ],
    "reading": "しずかな",
    "romanization": "shizuka na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 548,
-   "description": "音が少なくて、しずか。",
+   "description": "音が少なくて、静かな。「静かな部屋」のように使い、人があまり話さないときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002799"
    ],
    "nativeExplain": {
-    "ja": "音が少なくて、しずか。"
+    "ja": "音が少なくて、静かな。「静かな部屋」のように使い、人があまり話さないときにも使う。"
    }
   },
   {
@@ -108230,16 +108464,18 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "二十",
-   "alternatives": [],
+   "alternatives": [
+    "二十歳"
+   ],
    "reading": "にじゅう",
    "romanization": "nijuu",
    "study_tier": "inicial",
    "study_priority": 549,
-   "description": "数の20。",
+   "description": "数の20。ものを数えるときは「二十」、年齢は「二十歳」のように言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "数の20。"
+    "ja": "数の20。ものを数えるときは「二十」、年齢は「二十歳」のように言う。"
    },
    "antonyms": []
   },
@@ -109477,7 +109713,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ほほえむ",
-   "alternatives": [],
+   "alternatives": [
+    "微笑む"
+   ],
    "reading": "ほほえむ",
    "romanization": "hohoemu",
    "class_real": "godan verb",
@@ -109573,11 +109811,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 551,
-   "description": "うれしい顔をして、口もとをゆるめること。",
+   "description": "うれしい気持ちで、口もとをゆるめて笑顔になる。「にっこりほほえむ」のように使い、声は出さない。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "うれしい顔をして、口もとをゆるめること。"
+    "ja": "うれしい気持ちで、口もとをゆるめて笑顔になる。「にっこりほほえむ」のように使い、声は出さない。"
    },
    "antonyms": []
   },
@@ -109598,18 +109836,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "変な",
    "alternatives": [
-    "不思議な"
+    "妙な"
    ],
    "reading": "へんな",
    "romanization": "hen na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 552,
-   "description": "ふつうと違う。なじみがない。",
+   "description": "ふつうと違っていて、なじみがない。「変な味」のように使い、不思議で気味が悪いこともある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ふつうと違う。なじみがない。"
+    "ja": "ふつうと違っていて、なじみがない。「変な味」のように使い、不思議で気味が悪いこともある。"
    },
    "antonyms": [
     "en:000002403"
@@ -109716,11 +109954,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 553,
-   "description": "数の1,000。",
+   "description": "数の1,000。「千円」「千人」のように、数える物の前につけて使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "数の1,000。"
+    "ja": "数の1,000。「千円」「千人」のように、数える物の前につけて使う。"
    },
    "antonyms": []
   },
@@ -109778,11 +110016,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 554,
-   "description": "荷物を運ぶ大きな車。",
+   "description": "荷物を運ぶ、大きな車。「トラックで運ぶ」のように使い、荷台がある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "荷物を運ぶ大きな車。"
+    "ja": "荷物を運ぶ、大きな車。「トラックで運ぶ」のように使い、荷台がある。"
    },
    "antonyms": []
   },
@@ -109890,7 +110128,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "鳥",
-   "alternatives": [],
+   "alternatives": [
+    "野鳥"
+   ],
    "reading": "とり",
    "romanization": "tori",
    "classifications": [
@@ -109903,11 +110143,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 555,
-   "description": "羽毛とくちばし、翼を持つ動物。多くは空を飛ぶ。",
+   "description": "羽毛とくちばし、つばさをもつ動物。多くは空を飛び、卵を産む。「鳥が鳴く」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "羽毛とくちばし、翼を持つ動物。多くは空を飛ぶ。"
+    "ja": "羽毛とくちばし、つばさをもつ動物。多くは空を飛び、卵を産む。「鳥が鳴く」のように使う。"
    },
    "antonyms": []
   },
@@ -110052,18 +110292,17 @@
    "vcu14_status": "provisional-editorial",
    "text": "ボウル",
    "alternatives": [
-    "お椀",
-    "茶碗"
+    "お椀"
    ],
    "reading": "ボウル",
    "romanization": "bouru",
    "study_tier": "inicial",
    "study_priority": 556,
-   "description": "丸くて深い食器。",
+   "description": "丸くて深い食器。「ボウルに入れる」のように使い、料理で混ぜる器や、サラダを入れる器にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "丸くて深い食器。"
+    "ja": "丸くて深い食器。「ボウルに入れる」のように使い、料理で混ぜる器や、サラダを入れる器にも使う。"
    },
    "antonyms": []
   },
@@ -110404,20 +110643,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "うその",
    "alternatives": [
-    "偽の",
-    "間違った"
+    "偽の"
    ],
    "reading": "うその",
    "romanization": "uso no",
    "class_real": "noun + の",
    "nativeExplain": {
     "pt-BR": "não verdadeiro",
-    "ja": "本当でない。"
+    "ja": "本当ではない。「うその話」のように使い、「偽の」は本物に見せかけた物にも使う。"
    },
    "study_tier": "inicial",
    "study_priority": 557,
    "user_hint": "",
-   "description": "本当でない。",
+   "description": "本当ではない。「うその話」のように使い、「偽の」は本物に見せかけた物にも使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000379"
@@ -110499,7 +110737,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "信じられない",
-   "alternatives": [],
+   "alternatives": [
+    "驚くべき"
+   ],
    "reading": "しんじられない",
    "romanization": "shinjirarenai",
    "lexical_type": "form",
@@ -110515,10 +110755,10 @@
    "study_tier": "inicial",
    "study_priority": 558,
    "user_hint": "",
-   "description": "すばらしい。信じがたい。",
+   "description": "とてもすばらしくて、信じられないほどだ。「信じられない景色」のように使い、おどろきを表す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "すばらしい。信じがたい。"
+    "ja": "とてもすばらしくて、信じられないほどだ。「信じられない景色」のように使い、おどろきを表す。"
    },
    "antonyms": []
   },
@@ -110594,7 +110834,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "肉",
-   "alternatives": [],
+   "alternatives": [
+    "お肉"
+   ],
    "reading": "にく",
    "romanization": "niku",
    "classifications": [
@@ -110607,11 +110849,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 559,
-   "description": "食べ物にする動物の肉。",
+   "description": "食べ物にする動物の肉。「牛肉」「鶏肉」のように、動物の名前につけて使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "食べ物にする動物の肉。"
+    "ja": "食べ物にする動物の肉。「牛肉」「鶏肉」のように、動物の名前につけて使う。"
    },
    "antonyms": []
   },
@@ -110696,11 +110938,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 560,
-   "description": "頭と肩のあいだの部分。",
+   "description": "頭と肩のあいだにある部分。「首を回す」のように使い、「首」は物の細い部分にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "頭と肩のあいだの部分。"
+    "ja": "頭と肩のあいだにある部分。「首を回す」のように使い、「首」は物の細い部分にも使う。"
    },
    "antonyms": []
   },
@@ -110911,7 +111153,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ゆっくり",
-   "alternatives": [],
+   "alternatives": [
+    "のんびり"
+   ],
    "reading": "ゆっくり",
    "romanization": "yukkuri",
    "classifications": [
@@ -110925,10 +111169,10 @@
    "study_tier": "inicial",
    "study_priority": 562,
    "user_hint": "",
-   "description": "時間をかけて、速くなく。",
+   "description": "時間をかけて、速くなく。「ゆっくり歩く」のように使い、落ち着いて、急がない様子を表す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "時間をかけて、速くなく。"
+    "ja": "時間をかけて、速くなく。「ゆっくり歩く」のように使い、落ち着いて、急がない様子を表す。"
    },
    "antonyms": [
     "en:000001060"
@@ -111027,11 +111271,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 563,
-   "description": "月曜日の次の日。",
+   "description": "月曜日の次の日で、一週間の二番目の日。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "月曜日の次の日。"
+    "ja": "月曜日の次の日で、一週間の二番目の日。"
    },
    "antonyms": []
   },
@@ -111116,11 +111360,11 @@
    "romanization": "zero",
    "study_tier": "inicial",
    "study_priority": 565,
-   "description": "数の0。",
+   "description": "数の0。「ゼロ」と書き、何もないことを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "数の0。"
+    "ja": "数の0。「ゼロ」と書き、何もないことを表す。"
    },
    "antonyms": []
   },
@@ -111143,10 +111387,10 @@
    "study_tier": "inicial",
    "study_priority": 566,
    "user_hint": "",
-   "description": "競技で優勝した人。",
+   "description": "競技で優勝した人。「世界チャンピオン」のように使い、いちばん強い人をいう。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "競技で優勝した人。"
+    "ja": "競技で優勝した人。「世界チャンピオン」のように使い、いちばん強い人をいう。"
    },
    "antonyms": []
   },
@@ -111926,11 +112170,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 568,
-   "description": "水曜日の次の日。",
+   "description": "水曜日の次の日で、一週間の四番目の日。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "水曜日の次の日。"
+    "ja": "水曜日の次の日で、一週間の四番目の日。"
    },
    "antonyms": []
   },
@@ -111946,8 +112190,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "ちっちゃい",
    "alternatives": [
-    "ちっぽけな",
-    "ごく小さい"
+    "ちっぽけな"
    ],
    "reading": "ちっちゃい",
    "romanization": "chicchai",
@@ -111987,10 +112230,10 @@
    "study_tier": "inicial",
    "study_priority": 569,
    "user_hint": "",
-   "description": "とても小さい。",
+   "description": "とても小さい。「ちっちゃい手」のように使い、「ごく小さい」「ちっぽけな」ともいう。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とても小さい。"
+    "ja": "とても小さい。「ちっちゃい手」のように使い、「ごく小さい」「ちっぽけな」ともいう。"
    },
    "antonyms": []
   },
@@ -112219,10 +112462,10 @@
    "study_priority": 570,
    "nativeExplain": {
     "pt-BR": "acenar vs onda (mar)",
-    "ja": "あいさつのために手を左右にふる。"
+    "ja": "あいさつやわかれのために、手を左右にふる。「手を振る」のように使い、遠くの人に合図をするときにも使う。"
    },
    "user_hint": "",
-   "description": "あいさつのために手を左右にふる。",
+   "description": "あいさつやわかれのために、手を左右にふる。「手を振る」のように使い、遠くの人に合図をするときにも使う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -112310,11 +112553,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 571,
-   "description": "朝いちばんにとる食事。",
+   "description": "朝いちばんにとる食事。「朝ご飯を食べる」のように使い、ていねいに言うと「朝食」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "朝いちばんにとる食事。"
+    "ja": "朝いちばんにとる食事。「朝ご飯を食べる」のように使い、ていねいに言うと「朝食」。"
    },
    "antonyms": []
   },
@@ -112521,7 +112764,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "客",
    "alternatives": [
-    "お客さん"
+    "顧客"
    ],
    "reading": "きゃく",
    "romanization": "kyaku",
@@ -112536,11 +112779,11 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "de loja",
-    "ja": "店で買い物をする人。"
+    "ja": "店で買い物をしたり、サービスを受けたりする人。「お客さん」と言い、お金を払って利用する人を指す。"
    },
    "study_tier": "inicial",
    "study_priority": 573,
-   "description": "店で買い物をする人。",
+   "description": "店で買い物をしたり、サービスを受けたりする人。「お客さん」と言い、お金を払って利用する人を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -113467,7 +113710,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "翼",
-   "alternatives": [],
+   "alternatives": [
+    "つばさ"
+   ],
    "reading": "つばさ",
    "romanization": "tsubasa",
    "classifications": [
@@ -113482,10 +113727,10 @@
    "study_tier": "inicial",
    "study_priority": 575,
    "user_hint": "",
-   "description": "鳥が飛ぶために使う部分。",
+   "description": "鳥が飛ぶために使う部分。「翼を広げる」のように使い、飛行機の翼にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "鳥が飛ぶために使う部分。"
+    "ja": "鳥が飛ぶために使う部分。「翼を広げる」のように使い、飛行機の翼にも使う。"
    },
    "antonyms": []
   },
@@ -113978,10 +114223,10 @@
    "study_tier": "inicial",
    "study_priority": 576,
    "user_hint": "",
-   "description": "ニュースをのせた印刷物。",
+   "description": "ニュースや記事をのせた、印刷物。「新聞を読む」のように使い、毎日または毎週、発行される。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ニュースをのせた印刷物。"
+    "ja": "ニュースや記事をのせた、印刷物。「新聞を読む」のように使い、毎日または毎週、発行される。"
    },
    "antonyms": []
   },
@@ -114245,7 +114490,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "おびえた",
-   "alternatives": [],
+   "alternatives": [
+    "怖がった"
+   ],
    "reading": "おびえた",
    "romanization": "obieta",
    "lexical_type": "form",
@@ -114260,11 +114507,11 @@
    "key_pending": true,
    "study_tier": "inicial",
    "study_priority": 578,
-   "description": "何かにおびえたり、怖いと感じたりしている。",
+   "description": "おそろしいことにおびえて、こわがっている。「暗いのが怖い」のように使い、体がこわばることもある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "何かにおびえたり、怖いと感じたりしている。"
+    "ja": "おそろしいことにおびえて、こわがっている。「暗いのが怖い」のように使い、体がこわばることもある。"
    },
    "antonyms": []
   },
@@ -114640,10 +114887,10 @@
    "study_tier": "inicial",
    "study_priority": 579,
    "user_hint": "",
-   "description": "鳴らして音を出す金属の道具。",
+   "description": "鳴らして、音を出す道具。「ベルを鳴らす」のように使い、学校のチャイムやドアのベルなど。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "鳴らして音を出す金属の道具。"
+    "ja": "鳴らして、音を出す道具。「ベルを鳴らす」のように使い、学校のチャイムやドアのベルなど。"
    },
    "antonyms": []
   },
@@ -114811,20 +115058,22 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "彼氏",
-   "alternatives": [],
+   "alternatives": [
+    "恋人"
+   ],
    "reading": "かれし",
    "romanization": "kareshi",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 580,
-   "description": "つきあっている相手の男の人。",
+   "description": "つきあっている、相手の男の人。女の人から見て言い、「恋人」は性別を問わずに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002075"
    ],
    "nativeExplain": {
-    "ja": "つきあっている相手の男の人。"
+    "ja": "つきあっている、相手の男の人。女の人から見て言い、「恋人」は性別を問わずに使う。"
    }
   },
   {
@@ -114965,7 +115214,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "泣く",
-   "alternatives": [],
+   "alternatives": [
+    "涙を流す"
+   ],
    "reading": "なく",
    "romanization": "naku",
    "classifications": [
@@ -115069,14 +115320,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 582,
-   "description": "目から涙を流すこと。",
+   "description": "悲しいときやうれしいときに、目から涙を流す。「泣く」は声を出すことも、出さないこともある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002176"
    ],
    "nativeExplain": {
-    "ja": "目から涙を流すこと。"
+    "ja": "悲しいときやうれしいときに、目から涙を流す。「泣く」は声を出すことも、出さないこともある。"
    }
   },
   {
@@ -115090,7 +115341,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "危険",
-   "alternatives": [],
+   "alternatives": [
+    "リスク"
+   ],
    "reading": "きけん",
    "romanization": "kiken",
    "classifications": [
@@ -115105,10 +115358,10 @@
    "study_tier": "inicial",
    "study_priority": 583,
    "user_hint": "",
-   "description": "けがや害にあうおそれ。",
+   "description": "けがや害にあう、おそれがある状態。「危険な場所」のように使い、「危険を冒す」のようにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "けがや害にあうおそれ。"
+    "ja": "けがや害にあう、おそれがある状態。「危険な場所」のように使い、「危険を冒す」のようにも使う。"
    },
    "antonyms": [
     "en:000001113"
@@ -115198,10 +115451,10 @@
    "study_tier": "inicial",
    "study_priority": 584,
    "user_hint": "",
-   "description": "アメリカなどで使うお金の単位。",
+   "description": "アメリカなどで使うお金の単位。「ドル」と書き、記号は「$」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "アメリカなどで使うお金の単位。"
+    "ja": "アメリカなどで使うお金の単位。「ドル」と書き、記号は「$」。"
    },
    "antonyms": []
   },
@@ -115229,14 +115482,14 @@
    "class_real": "noun + の",
    "study_tier": "inicial",
    "study_priority": 585,
-   "description": "中に何も入っていない。",
+   "description": "中に何も入っていない。「空の箱」のように使い、「空っぽ」は会話でよく使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000252"
    ],
    "nativeExplain": {
-    "ja": "中に何も入っていない。"
+    "ja": "中に何も入っていない。「空の箱」のように使い、「空っぽ」は会話でよく使う。"
    }
   },
   {
@@ -115904,11 +116157,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 586,
-   "description": "火曜日の次の日。",
+   "description": "火曜日の次の日で、一週間の三番目の日。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "火曜日の次の日。"
+    "ja": "火曜日の次の日で、一週間の三番目の日。"
    },
    "antonyms": []
   },
@@ -116178,11 +116431,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 587,
-   "description": "鉛筆やペンなどを使い、主に線で表した絵。",
+   "description": "鉛筆やペンなどで、主に線を使ってかいた絵。「絵をかく」のように使い、子どもの落書きにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "鉛筆やペンなどを使い、主に線で表した絵。"
+    "ja": "鉛筆やペンなどで、主に線を使ってかいた絵。「絵をかく」のように使い、子どもの落書きにも使う。"
    },
    "antonyms": []
   },
@@ -116222,7 +116475,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "旗",
-   "alternatives": [],
+   "alternatives": [
+    "国旗"
+   ],
    "reading": "はた",
    "romanization": "hata",
    "classifications": [
@@ -116237,10 +116492,10 @@
    "study_tier": "inicial",
    "study_priority": 589,
    "user_hint": "",
-   "description": "国などを表す、色や図柄のある布。",
+   "description": "国や団体を表す、色や図柄のある布。「旗をふる」のように使い、ポールにつけて立てる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "国などを表す、色や図柄のある布。"
+    "ja": "国や団体を表す、色や図柄のある布。「旗をふる」のように使い、ポールにつけて立てる。"
    },
    "antonyms": []
   },
@@ -116291,17 +116546,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "招待客",
-   "alternatives": [],
+   "alternatives": [
+    "お客"
+   ],
    "reading": "しょうたいきゃく",
    "romanization": "shoutaikyaku",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "pessoa convidada",
-    "ja": "家や催し、番組などに招かれた人。"
+    "ja": "家や行事、番組などに招かれた人。「結婚式の招待客」のように使い、ホテルに泊まるお客にも使う。"
    },
    "study_tier": "inicial",
    "study_priority": 590,
-   "description": "家や催し、番組などに招かれた人。",
+   "description": "家や行事、番組などに招かれた人。「結婚式の招待客」のように使い、ホテルに泊まるお客にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -116524,10 +116781,10 @@
    "study_tier": "inicial",
    "study_priority": 591,
    "user_hint": "",
-   "description": "愛情を示してくちびるをふれる。",
+   "description": "愛情や、あいさつの気持ちを示して、くちびるを人や物にふれる。「キスする」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "愛情を示してくちびるをふれる。"
+    "ja": "愛情や、あいさつの気持ちを示して、くちびるを人や物にふれる。「キスする」のように使う。"
    },
    "antonyms": []
   },
@@ -117391,7 +117648,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "瓶",
-   "alternatives": [],
+   "alternatives": [
+    "ボトル"
+   ],
    "reading": "びん",
    "romanization": "bin",
    "classifications": [
@@ -117405,11 +117664,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 592,
-   "description": "口が細い、飲み物を入れる入れ物。",
+   "description": "口が細い、飲み物などを入れる入れ物。「ペットボトル」のように使い、ガラスやプラスチックでできている。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "口が細い、飲み物を入れる入れ物。"
+    "ja": "口が細い、飲み物などを入れる入れ物。「ペットボトル」のように使い、ガラスやプラスチックでできている。"
    },
    "antonyms": []
   },
@@ -117479,7 +117738,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "おしゃべりする",
-   "alternatives": [],
+   "alternatives": [
+    "雑談する"
+   ],
    "reading": "おしゃべりする",
    "romanization": "oshaberi suru",
    "class_real": "suru-verb",
@@ -117575,11 +117836,11 @@
    ],
    "nativeExplain": {
     "pt-BR": "bater papo; por mensagem",
-    "ja": "相手と気軽におしゃべりする。"
+    "ja": "相手と、気軽におしゃべりする。「友だちとチャットする」のように使い、ネットでの会話にも使う。"
    },
    "study_tier": "inicial",
    "study_priority": 593,
-   "description": "相手と気軽におしゃべりする。",
+   "description": "相手と、気軽におしゃべりする。「友だちとチャットする」のように使い、ネットでの会話にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -117614,11 +117875,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 594,
-   "description": "牛乳からつくる食べ物。",
+   "description": "牛乳などからつくる、食べ物。「チーズをのせる」のように使い、パンや料理に合う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "牛乳からつくる食べ物。"
+    "ja": "牛乳などからつくる、食べ物。「チーズをのせる」のように使い、パンや料理に合う。"
    },
    "antonyms": []
   },
@@ -117973,7 +118234,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "めちゃくちゃ",
    "alternatives": [
-    "散らかった状態"
+    "乱雑"
    ],
    "reading": "めちゃくちゃ",
    "romanization": "mechakucha",
@@ -117981,10 +118242,10 @@
    "study_tier": "inicial",
    "study_priority": 596,
    "user_hint": "",
-   "description": "よごれたり散らかったりしている状態。",
+   "description": "よごれたり、散らかったりしている状態。「部屋がめちゃくちゃだ」のように使い、状況がひどいときにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "よごれたり散らかったりしている状態。"
+    "ja": "よごれたり、散らかったりしている状態。「部屋がめちゃくちゃだ」のように使い、状況がひどいときにも使う。"
    },
    "antonyms": []
   },
@@ -118122,17 +118383,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "親",
-   "alternatives": [],
+   "alternatives": [
+    "保護者"
+   ],
    "reading": "おや",
    "romanization": "oya",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 597,
-   "description": "母親か父親。",
+   "description": "母親か父親。子どもを産んで、育てる人。「親になる」のように使い、「両親」は父と母の両方を指す。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "母親か父親。"
+    "ja": "母親か父親。子どもを産んで、育てる人。「親になる」のように使い、「両親」は父と母の両方を指す。"
    },
    "antonyms": [
     "en:000000481"
@@ -118237,18 +118500,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "〜のほうが好きだ",
-   "alternatives": [],
+   "alternatives": [
+    "〜を好む"
+   ],
    "reading": "〜のほうがすきだ",
    "romanization": "~ no hou ga suki da",
    "lexical_type": "construction",
    "class_real": "adjectival-verb construction",
    "study_tier": "inicial",
    "study_priority": 598,
-   "description": "ほかよりも、こちらのほうが好き。",
+   "description": "ふたつ以上のうち、ほかよりもこちらのほうがよい、と思う。「コーヒーより紅茶のほうが好きだ」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ほかよりも、こちらのほうが好き。"
+    "ja": "ふたつ以上のうち、ほかよりもこちらのほうがよい、と思う。「コーヒーより紅茶のほうが好きだ」のように使う。"
    },
    "antonyms": []
   },
@@ -118501,7 +118766,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "きつい",
-   "alternatives": [],
+   "alternatives": [
+    "窮屈な"
+   ],
    "reading": "きつい",
    "romanization": "kitsui",
    "classifications": [
@@ -118547,14 +118814,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 599,
-   "description": "ゆとりがなく、ぴったりしている。",
+   "description": "ゆとりがなく、ぴったりしている。「きつい靴」のように使い、予定がぎっしりのときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003140"
    ],
    "nativeExplain": {
-    "ja": "ゆとりがなく、ぴったりしている。"
+    "ja": "ゆとりがなく、ぴったりしている。「きつい靴」のように使い、予定がぎっしりのときにも使う。"
    }
   },
   {
@@ -118752,17 +119019,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "バスケットボール",
-   "alternatives": [],
+   "alternatives": [
+    "バスケ"
+   ],
    "reading": "バスケットボール",
    "romanization": "basukettobooru",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 600,
-   "description": "高い輪にボールを入れて点を取る競技。",
+   "description": "高い位置の輪にボールを入れて、点を取る競技。または、そのボール。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "高い輪にボールを入れて点を取る競技。"
+    "ja": "高い位置の輪にボールを入れて、点を取る競技。または、そのボール。"
    },
    "antonyms": []
   },
@@ -118797,11 +119066,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 601,
-   "description": "服に付け、穴や輪に通して留める小さな部品。",
+   "description": "服につける、小さな留め具。「ボタンを押す」のように、機械のスイッチの意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "服に付け、穴や輪に通して留める小さな部品。"
+    "ja": "服につける、小さな留め具。「ボタンを押す」のように、機械のスイッチの意味でも使う。"
    },
    "antonyms": []
   },
@@ -118957,17 +119226,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "王冠",
-   "alternatives": [],
+   "alternatives": [
+    "冠"
+   ],
    "reading": "おうかん",
    "romanization": "oukan",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 602,
    "user_hint": "",
-   "description": "王が頭にかぶる金のかざり。",
+   "description": "王や女王が、頭にかぶる、金や宝石のかざり。「王冠をかぶる」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "王が頭にかぶる金のかざり。"
+    "ja": "王や女王が、頭にかぶる、金や宝石のかざり。「王冠をかぶる」のように使う。"
    },
    "antonyms": []
   },
@@ -120037,7 +120308,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "道具",
-   "alternatives": [],
+   "alternatives": [
+    "器具"
+   ],
    "reading": "どうぐ",
    "romanization": "dougu",
    "classifications": [
@@ -120052,10 +120325,10 @@
    "study_tier": "inicial",
    "study_priority": 603,
    "user_hint": "",
-   "description": "作業に使う物（ハンマー、のこぎり）。",
+   "description": "作業をするときに使う、物。「道具箱」のように使い、ハンマーやのこぎりなどを指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "作業に使う物（ハンマー、のこぎり）。"
+    "ja": "作業をするときに使う、物。「道具箱」のように使い、ハンマーやのこぎりなどを指す。"
    },
    "antonyms": []
   },
@@ -120614,7 +120887,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "円",
-   "alternatives": [],
+   "alternatives": [
+    "丸"
+   ],
    "reading": "えん",
    "romanization": "en",
    "classifications": [
@@ -120629,10 +120904,10 @@
    "study_tier": "inicial",
    "study_priority": 604,
    "user_hint": "",
-   "description": "まるい形。",
+   "description": "丸い形。「円を描く」のように使い、「円」は図形の名前で、お金の「円」と同じ字。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "まるい形。"
+    "ja": "丸い形。「円を描く」のように使い、「円」は図形の名前で、お金の「円」と同じ字。"
    },
    "antonyms": []
   },
@@ -120914,7 +121189,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "汚い",
-   "alternatives": [],
+   "alternatives": [
+    "不潔な"
+   ],
    "reading": "きたない",
    "romanization": "kitanai",
    "classifications": [
@@ -120960,14 +121237,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 605,
-   "description": "きれいではない、よごれている。",
+   "description": "きれいではなく、よごれている。「汚い手」のように使い、ことばや考えがよくないときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001101"
    ],
    "nativeExplain": {
-    "ja": "きれいではない、よごれている。"
+    "ja": "きれいではなく、よごれている。「汚い手」のように使い、ことばや考えがよくないときにも使う。"
    }
   },
   {
@@ -121234,7 +121511,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "喜び",
-   "alternatives": [],
+   "alternatives": [
+    "歓喜"
+   ],
    "reading": "よろこび",
    "romanization": "yorokobi",
    "classifications": [
@@ -121249,10 +121528,10 @@
    "study_tier": "inicial",
    "study_priority": 606,
    "user_hint": "",
-   "description": "とてもうれしい気持ち。",
+   "description": "とてもうれしい気持ち。「喜びを感じる」のように使い、生きる楽しさの意味でも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "とてもうれしい気持ち。"
+    "ja": "とてもうれしい気持ち。「喜びを感じる」のように使い、生きる楽しさの意味でも使う。"
    },
    "antonyms": []
   },
@@ -121401,17 +121680,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "騒音",
-   "alternatives": [],
+   "alternatives": [
+    "雑音"
+   ],
    "reading": "そうおん",
    "romanization": "souon",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 607,
    "user_hint": "",
-   "description": "大きくて不快な音。",
+   "description": "大きくて、不快な音。「騒音がうるさい」のように使い、静かさをじゃまする音を指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "大きくて不快な音。"
+    "ja": "大きくて、不快な音。「騒音がうるさい」のように使い、静かさをじゃまする音を指す。"
    },
    "antonyms": []
   },
@@ -121515,7 +121796,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "皿",
-   "alternatives": [],
+   "alternatives": [
+    "お皿"
+   ],
    "reading": "さら",
    "romanization": "sara",
    "classifications": [
@@ -121529,11 +121812,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 608,
-   "description": "食べ物をのせる平らな食器。",
+   "description": "食べ物をのせる、平らな食器。「皿に盛る」のように使い、丸いものが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "食べ物をのせる平らな食器。"
+    "ja": "食べ物をのせる、平らな食器。「皿に盛る」のように使い、丸いものが多い。"
    },
    "antonyms": []
   },
@@ -121548,7 +121831,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "準備する",
-   "alternatives": [],
+   "alternatives": [
+    "用意する"
+   ],
    "reading": "じゅんびする",
    "romanization": "junbi suru",
    "class_real": "suru-verb",
@@ -121645,10 +121930,10 @@
    "study_tier": "inicial",
    "study_priority": 609,
    "user_hint": "",
-   "description": "前もって用意する。",
+   "description": "前もって、何かをするために用意しておく。「食事を準備する」のように使い、旅行や会議にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "前もって用意する。"
+    "ja": "前もって、何かをするために用意しておく。「食事を準備する」のように使い、旅行や会議にも使う。"
    },
    "antonyms": []
   },
@@ -121827,7 +122112,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "屋根",
-   "alternatives": [],
+   "alternatives": [
+    "屋上"
+   ],
    "reading": "やね",
    "romanization": "yane",
    "classifications": [
@@ -121841,11 +122128,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 611,
-   "description": "建物の上をおおう部分。",
+   "description": "建物の上をおおう部分。「屋根にのぼる」のように使い、雨や日ざしをふせぐ。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "建物の上をおおう部分。"
+    "ja": "建物の上をおおう部分。「屋根にのぼる」のように使い、雨や日ざしをふせぐ。"
    },
    "antonyms": []
   },
@@ -122094,17 +122381,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "野球",
-   "alternatives": [],
+   "alternatives": [
+    "ベースボール"
+   ],
    "reading": "やきゅう",
    "romanization": "yakyuu",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 612,
-   "description": "バットとボールを使い、4つの塁をまわる競技。",
+   "description": "バットでボールを打ち、四つの塁をまわって点を取る競技。日本では人気のあるスポーツ。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "バットとボールを使い、4つの塁をまわる競技。"
+    "ja": "バットでボールを打ち、四つの塁をまわって点を取る競技。日本では人気のあるスポーツ。"
    },
    "antonyms": []
   },
@@ -122211,17 +122500,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "穏やかな",
-   "alternatives": [],
+   "alternatives": [
+    "落ち着いた"
+   ],
    "reading": "おだやかな",
    "romanization": "odayaka na",
    "class_real": "na-adjective (adnominal form)",
    "study_tier": "inicial",
    "study_priority": 614,
-   "description": "落ち着いていて、心配していない。",
+   "description": "落ち着いていて、心配がなく、静かだ。「穏やかな海」のように使い、人の性格や、天気にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "落ち着いていて、心配していない。"
+    "ja": "落ち着いていて、心配がなく、静かだ。「穏やかな海」のように使い、人の性格や、天気にも使う。"
    },
    "antonyms": []
   },
@@ -122521,7 +122812,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "隠す",
-   "alternatives": [],
+   "alternatives": [
+    "かくす"
+   ],
    "reading": "かくす",
    "romanization": "kakusu",
    "classifications": [
@@ -122625,14 +122918,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 615,
-   "description": "人から見えないところへしまう。",
+   "description": "人から見えないところへ、しまう。「宝物を隠す」のように使い、気持ちや事実をかくす意味でも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000191"
    ],
    "nativeExplain": {
-    "ja": "人から見えないところへしまう。"
+    "ja": "人から見えないところへ、しまう。「宝物を隠す」のように使い、気持ちや事実をかくす意味でも使う。"
    }
   },
   {
@@ -122844,7 +123137,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "印刷する",
-   "alternatives": [],
+   "alternatives": [
+    "プリントする"
+   ],
    "reading": "いんさつする",
    "romanization": "insatsu suru",
    "class_real": "suru-verb",
@@ -122940,11 +123235,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 616,
-   "description": "プリンターなどで文章や画像を紙などに写す。",
+   "description": "プリンターなどで、文章や画像を紙などに写す。「資料を印刷する」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "プリンターなどで文章や画像を紙などに写す。"
+    "ja": "プリンターなどで、文章や画像を紙などに写す。「資料を印刷する」のように使う。"
    },
    "antonyms": []
   },
@@ -123166,7 +123461,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "歌う",
-   "alternatives": [],
+   "alternatives": [
+    "うたう"
+   ],
    "reading": "うたう",
    "romanization": "utau",
    "classifications": [
@@ -123270,11 +123567,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 617,
-   "description": "声を使って、メロディーのある音を出すこと。",
+   "description": "声を使って、メロディーのある音を出す。「歌を歌う」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "声を使って、メロディーのある音を出すこと。"
+    "ja": "声を使って、メロディーのある音を出す。「歌を歌う」のように使う。"
    },
    "antonyms": []
   },
@@ -123330,20 +123627,22 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ぬれた",
-   "alternatives": [],
+   "alternatives": [
+    "湿った"
+   ],
    "reading": "ぬれた",
    "romanization": "nureta",
    "class_real": "adjectival (past participle)",
    "study_tier": "inicial",
    "study_priority": 618,
-   "description": "水にぬれている。",
+   "description": "水にぬれて、湿っている。「ぬれた服」のように使い、雨や汗のあとなどにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001820"
    ],
    "nativeExplain": {
-    "ja": "水にぬれている。"
+    "ja": "水にぬれて、湿っている。「ぬれた服」のように使い、雨や汗のあとなどにも使う。"
    }
   },
   {
@@ -123478,11 +123777,11 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "forma curta, informal",
-    "ja": "ペダルをこいで走る二輪の乗り物。"
+    "ja": "ペダルをこいで走る、二輪の乗り物。「自転車に乗る」のように使い、会話では「チャリ」とも言う。"
    },
    "study_tier": "inicial",
    "study_priority": 619,
-   "description": "ペダルをこいで走る二輪の乗り物。",
+   "description": "ペダルをこいで走る、二輪の乗り物。「自転車に乗る」のように使い、会話では「チャリ」とも言う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -123561,7 +123860,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "焼ける",
-   "alternatives": [],
+   "alternatives": [
+    "焦げる"
+   ],
    "reading": "やける",
    "romanization": "yakeru",
    "class_real": "ichidan verb",
@@ -123657,11 +123958,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 620,
-   "description": "物が火や強い熱を受けて、焦げたり傷んだりする。",
+   "description": "火や強い熱を受けて、こげたり傷んだりする。「パンが焼ける」のように使い、「やけど」の意味もある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "物が火や強い熱を受けて、焦げたり傷んだりする。"
+    "ja": "火や強い熱を受けて、こげたり傷んだりする。「パンが焼ける」のように使い、「やけど」の意味もある。"
    },
    "antonyms": []
   },
@@ -123681,7 +123982,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ケーキ",
-   "alternatives": [],
+   "alternatives": [
+    "洋菓子"
+   ],
    "reading": "ケーキ",
    "romanization": "keeki",
    "classifications": [
@@ -123695,11 +123998,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 621,
-   "description": "お祝いなどで食べる、甘くて焼いたお菓子。",
+   "description": "お祝いなどで食べる、甘くて焼いたお菓子。「誕生日ケーキ」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "お祝いなどで食べる、甘くて焼いたお菓子。"
+    "ja": "お祝いなどで食べる、甘くて焼いたお菓子。「誕生日ケーキ」のように使う。"
    },
    "antonyms": []
   },
@@ -123882,7 +124185,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "帽子",
-   "alternatives": [],
+   "alternatives": [
+    "ハット"
+   ],
    "reading": "ぼうし",
    "romanization": "boushi",
    "classifications": [
@@ -123896,11 +124201,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 622,
-   "description": "頭にかぶる物。まわりにつばのあるものが多い。",
+   "description": "頭にかぶる物。「帽子をかぶる」のように使い、日よけや防寒のためにつける。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "頭にかぶる物。まわりにつばのあるものが多い。"
+    "ja": "頭にかぶる物。「帽子をかぶる」のように使い、日よけや防寒のためにつける。"
    },
    "antonyms": []
   },
@@ -123920,17 +124225,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "高さ",
-   "alternatives": [],
+   "alternatives": [
+    "身長"
+   ],
    "reading": "たかさ",
    "romanization": "takasa",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 623,
-   "description": "下から上までの長さ。",
+   "description": "下から上までの長さ。「高さを測る」のように使い、山や建物、人の背たけにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "下から上までの長さ。"
+    "ja": "下から上までの長さ。「高さを測る」のように使い、山や建物、人の背たけにも使う。"
    },
    "antonyms": []
   },
@@ -124315,17 +124622,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "生の",
-   "alternatives": [],
+   "alternatives": [
+    "なまの"
+   ],
    "reading": "なまの",
    "romanization": "nama no",
    "class_real": "noun + の",
    "study_tier": "inicial",
    "study_priority": 625,
    "user_hint": "",
-   "description": "火を通していない。",
+   "description": "火を通していない。「生の魚」のように使い、「生」は新鮮で、加工していないことも表す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "火を通していない。"
+    "ja": "火を通していない。「生の魚」のように使い、「生」は新鮮で、加工していないことも表す。"
    },
    "antonyms": []
   },
@@ -125042,17 +125351,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "胸",
-   "alternatives": [],
+   "alternatives": [
+    "胸部"
+   ],
    "reading": "むね",
    "romanization": "mune",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 627,
-   "description": "首と腹の間にある、体の前側の部分。",
+   "description": "首と腹のあいだの、体の前側の部分。「胸が痛い」のように使い、気持ちを表すときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "首と腹の間にある、体の前側の部分。"
+    "ja": "首と腹のあいだの、体の前側の部分。「胸が痛い」のように使い、気持ちを表すときにも使う。"
    },
    "antonyms": []
   },
@@ -125615,17 +125926,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "パイロット",
-   "alternatives": [],
+   "alternatives": [
+    "操縦士"
+   ],
    "reading": "パイロット",
    "romanization": "pairotto",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 628,
    "user_hint": "",
-   "description": "飛行機を操縦する人。",
+   "description": "飛行機を操縦する人。「パイロットになる」のように使い、飛行機の機長にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "飛行機を操縦する人。"
+    "ja": "飛行機を操縦する人。「パイロットになる」のように使い、飛行機の機長にも使う。"
    },
    "antonyms": []
   },
@@ -125640,17 +125953,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ピンクの",
-   "alternatives": [],
+   "alternatives": [
+    "桃色"
+   ],
    "reading": "ピンクの",
    "romanization": "pinku no",
    "class_real": "noun + の",
    "study_tier": "inicial",
    "study_priority": 629,
    "user_hint": "",
-   "description": "うすい赤色。",
+   "description": "うすい赤色。「ピンク色の花」のように使い、かわいらしい印象がある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "うすい赤色。"
+    "ja": "うすい赤色。「ピンク色の花」のように使い、かわいらしい印象がある。"
    },
    "antonyms": []
   },
@@ -125969,7 +126284,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "歌手",
-   "alternatives": [],
+   "alternatives": [
+    "シンガー"
+   ],
    "reading": "かしゅ",
    "romanization": "kashu",
    "classifications": [
@@ -125984,10 +126301,10 @@
    "study_tier": "inicial",
    "study_priority": 630,
    "user_hint": "",
-   "description": "歌をうたう人。",
+   "description": "歌をうたう仕事をしている人。「歌手になる」のように使い、コンサートでうたう人を指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "歌をうたう人。"
+    "ja": "歌をうたう仕事をしている人。「歌手になる」のように使い、コンサートでうたう人を指す。"
    },
    "antonyms": []
   },
@@ -126203,7 +126520,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "背が高い",
-   "alternatives": [],
+   "alternatives": [
+    "のっぽの"
+   ],
    "reading": "せがたかい",
    "romanization": "se ga takai",
    "lexical_type": "construction",
@@ -126242,12 +126561,12 @@
    ],
    "nativeExplain": {
     "pt-BR": "estatura de pessoas/coisas",
-    "ja": "ふつうより背たけや高さがある。"
+    "ja": "ふつうより、背たけや高さがある。「背が高い」のように使い、人や木、建物に使う。"
    },
    "study_tier": "inicial",
    "study_priority": 631,
    "user_hint": "",
-   "description": "ふつうより背たけや高さがある。",
+   "description": "ふつうより、背たけや高さがある。「背が高い」のように使い、人や木、建物に使う。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000454"
@@ -127069,11 +127388,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 633,
-   "description": "顔にある、においをかぐ部分。",
+   "description": "顔にある、においをかぐ部分。「鼻をかむ」のように使い、息をするときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "顔にある、においをかぐ部分。"
+    "ja": "顔にある、においをかぐ部分。「鼻をかむ」のように使い、息をするときにも使う。"
    },
    "antonyms": []
   },
@@ -127146,7 +127465,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "プラスチック",
-   "alternatives": [],
+   "alternatives": [
+    "プラ"
+   ],
    "reading": "プラスチック",
    "romanization": "purasuchikku",
    "classifications": [
@@ -127160,11 +127481,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 634,
-   "description": "ボトルやおもちゃに使う、軽い材料。",
+   "description": "ボトルやおもちゃなどに使う、軽い人工の材料。「プラスチックのカップ」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ボトルやおもちゃに使う、軽い材料。"
+    "ja": "ボトルやおもちゃなどに使う、軽い人工の材料。「プラスチックのカップ」のように使う。"
    },
    "antonyms": []
   },
@@ -127487,9 +127808,9 @@
    "study_priority": 635,
    "nativeExplain": {
     "pt-BR": "gravata",
-    "ja": "シャツに合わせ、首に結んでつける細長い布。"
+    "ja": "シャツに合わせて、首に結んでつける、細長い布。「ネクタイをしめる」のように使い、仕事で使うことが多い。"
    },
-   "description": "シャツに合わせ、首に結んでつける細長い布。",
+   "description": "シャツに合わせて、首に結んでつける、細長い布。「ネクタイをしめる」のように使い、仕事で使うことが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -127738,7 +128059,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "パン",
-   "alternatives": [],
+   "alternatives": [
+    "食パン"
+   ],
    "reading": "パン",
    "romanization": "pan",
    "classifications": [
@@ -127752,11 +128075,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 636,
-   "description": "小麦粉などでつくって焼いた食べ物。",
+   "description": "小麦粉などをこねて、焼いた食べ物。「パンを食べる」のように使い、朝食などに食べる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "小麦粉などでつくって焼いた食べ物。"
+    "ja": "小麦粉などをこねて、焼いた食べ物。「パンを食べる」のように使い、朝食などに食べる。"
    },
    "antonyms": []
   },
@@ -127961,7 +128284,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ダンス",
-   "alternatives": [],
+   "alternatives": [
+    "踊り"
+   ],
    "reading": "ダンス",
    "romanization": "dansu",
    "classifications": [
@@ -127975,11 +128300,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 637,
-   "description": "音楽に合わせて体を動かすこと。",
+   "description": "音楽に合わせて、体を動かすこと。「ダンスを習う」のように使い、芸術やスポーツの一つでもある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "音楽に合わせて体を動かすこと。"
+    "ja": "音楽に合わせて、体を動かすこと。「ダンスを習う」のように使い、芸術やスポーツの一つでもある。"
    },
    "antonyms": []
   },
@@ -129136,11 +129461,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 638,
-   "description": "首とうでのあいだの部分。",
+   "description": "首と腕のあいだの部分。「肩をたたく」のように使い、「肩がこる」のように、体の痛みにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "首とうでのあいだの部分。"
+    "ja": "首と腕のあいだの部分。「肩をたたく」のように使い、「肩がこる」のように、体の痛みにも使う。"
    },
    "antonyms": []
   },
@@ -129168,11 +129493,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 639,
-   "description": "噴き出す湯や水を浴びて、体を洗うこと。",
+   "description": "体に、湯や水を浴びせて洗うこと。また、その装置。「シャワーを浴びる」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "噴き出す湯や水を浴びて、体を洗うこと。"
+    "ja": "体に、湯や水を浴びせて洗うこと。また、その装置。「シャワーを浴びる」のように使う。"
    },
    "antonyms": []
   },
@@ -129192,7 +129517,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "塔",
-   "alternatives": [],
+   "alternatives": [
+    "タワー"
+   ],
    "reading": "とう",
    "romanization": "tou",
    "classifications": [
@@ -129206,11 +129533,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 640,
-   "description": "高くて細長い建物。",
+   "description": "高くて、細長い建物。「東京タワー」のように使い、見張りや通信などにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "高くて細長い建物。"
+    "ja": "高くて、細長い建物。「東京タワー」のように使い、見張りや通信などにも使う。"
    },
    "antonyms": []
   },
@@ -129320,17 +129647,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "車輪",
-   "alternatives": [],
+   "alternatives": [
+    "ホイール"
+   ],
    "reading": "しゃりん",
    "romanization": "sharin",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 641,
    "user_hint": "",
-   "description": "車や自転車についている、回る丸いもの。",
+   "description": "車や自転車についている、回る丸いもの。「車輪が回る」のように使い、車が走るための部品。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "車や自転車についている、回る丸いもの。"
+    "ja": "車や自転車についている、回る丸いもの。「車輪が回る」のように使い、車が走るための部品。"
    },
    "antonyms": []
   },
@@ -131028,17 +131357,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "炭酸飲料",
-   "alternatives": [],
+   "alternatives": [
+    "炭酸"
+   ],
    "reading": "たんさんいんりょう",
    "romanization": "tansan'inryou",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 642,
    "user_hint": "",
-   "description": "甘くてシュワシュワする飲み物。",
+   "description": "甘くて、泡のある飲み物。「炭酸飲料」のように使い、コーラやサイダーなどを指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "甘くてシュワシュワする飲み物。"
+    "ja": "甘くて、泡のある飲み物。「炭酸飲料」のように使い、コーラやサイダーなどを指す。"
    },
    "antonyms": []
   },
@@ -131390,17 +131721,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "リュック",
-   "alternatives": [],
+   "alternatives": [
+    "リュックサック"
+   ],
    "reading": "リュック",
    "romanization": "ryukku",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 643,
-   "description": "背中にしょって運ぶかばん。",
+   "description": "背中にしょって運ぶ、かばん。「リュックを背負う」のように使い、登山や通学にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "背中にしょって運ぶかばん。"
+    "ja": "背中にしょって運ぶ、かばん。「リュックを背負う」のように使い、登山や通学にも使う。"
    },
    "antonyms": []
   },
@@ -131697,17 +132030,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "自転車",
-   "alternatives": [],
+   "alternatives": [
+    "チャリ"
+   ],
    "reading": "じてんしゃ",
    "romanization": "jitensha",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "forma completa",
-    "ja": "ペダルをこぐ二輪の乗り物。"
+    "ja": "ペダルをこぐ、二輪の乗り物。「自転車で通学する」のように使う。"
    },
    "study_tier": "inicial",
    "study_priority": 644,
-   "description": "ペダルをこぐ二輪の乗り物。",
+   "description": "ペダルをこぐ、二輪の乗り物。「自転車で通学する」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -131797,17 +132132,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ネズミ",
-   "alternatives": [],
+   "alternatives": [
+    "鼠"
+   ],
    "reading": "ネズミ",
    "romanization": "nezumi",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 645,
-   "description": "小さくて毛のある、尾の長い動物。",
+   "description": "小さくて、毛のある、尾の長い動物。「ネズミ」と書き、パソコンの入力機器の名前にも使われる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "小さくて毛のある、尾の長い動物。"
+    "ja": "小さくて、毛のある、尾の長い動物。「ネズミ」と書き、パソコンの入力機器の名前にも使われる。"
    },
    "antonyms": []
   },
@@ -131870,11 +132207,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 646,
-   "description": "子どもが外で遊ぶ場所。",
+   "description": "子どもが、外で遊ぶための場所。公園や学校にあり、すべり台やブランコなどがある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "子どもが外で遊ぶ場所。"
+    "ja": "子どもが、外で遊ぶための場所。公園や学校にあり、すべり台やブランコなどがある。"
    },
    "antonyms": []
   },
@@ -132060,17 +132397,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "パン屋",
-   "alternatives": [],
+   "alternatives": [
+    "ベーカリー"
+   ],
    "reading": "パンや",
    "romanization": "pan'ya",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 647,
-   "description": "パンをつくって売る店。",
+   "description": "パンをつくって、売る店。「パン屋で買う」のように使い、焼きたてのパンが並ぶ。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "パンをつくって売る店。"
+    "ja": "パンをつくって、売る店。「パン屋で買う」のように使い、焼きたてのパンが並ぶ。"
    },
    "antonyms": []
   },
@@ -132092,17 +132431,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "かご",
-   "alternatives": [],
+   "alternatives": [
+    "籠"
+   ],
    "reading": "かご",
    "romanization": "kago",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 648,
-   "description": "編んでつくった入れ物。",
+   "description": "竹や草などを編んでつくった、入れ物。「かごに入れる」のように使い、買い物にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "編んでつくった入れ物。"
+    "ja": "竹や草などを編んでつくった、入れ物。「かごに入れる」のように使い、買い物にも使う。"
    },
    "antonyms": []
   },
@@ -132124,17 +132465,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "毛布",
-   "alternatives": [],
+   "alternatives": [
+    "ブランケット"
+   ],
    "reading": "もうふ",
    "romanization": "moufu",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 649,
-   "description": "ベッドで体にかける、大きくて暖かい布。",
+   "description": "寝るときに体にかける、大きくて暖かい布。「毛布をかける」のように使い、寒い夜に使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "ベッドで体にかける、大きくて暖かい布。"
+    "ja": "寝るときに体にかける、大きくて暖かい布。「毛布をかける」のように使い、寒い夜に使う。"
    },
    "antonyms": []
   },
@@ -132252,17 +132595,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "映画館",
-   "alternatives": [],
+   "alternatives": [
+    "シネマ"
+   ],
    "reading": "えいがかん",
    "romanization": "eigakan",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 650,
-   "description": "映画を見に行く建物。",
+   "description": "映画を見に行く建物。「映画館で見る」のように使い、大きなスクリーンがある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "映画を見に行く建物。"
+    "ja": "映画を見に行く建物。「映画館で見る」のように使い、大きなスクリーンがある。"
    },
    "antonyms": []
   },
@@ -132290,11 +132635,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 651,
-   "description": "空にうかぶ白や灰色のかたまり。",
+   "description": "空にうかぶ、白や灰色のかたまり。「雲が出る」のように使い、天気を知る手がかりになる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "空にうかぶ白や灰色のかたまり。"
+    "ja": "空にうかぶ、白や灰色のかたまり。「雲が出る」のように使い、天気を知る手がかりになる。"
    },
    "antonyms": []
   },
@@ -132379,17 +132724,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "卵",
-   "alternatives": [],
+   "alternatives": [
+    "たまご"
+   ],
    "reading": "たまご",
    "romanization": "tamago",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 652,
-   "description": "にわとりが産む、まるい食べ物。",
+   "description": "にわとりなどの鳥が産む、丸い形の食べ物。「卵を割る」のように使い、料理によく使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "にわとりが産む、まるい食べ物。"
+    "ja": "にわとりなどの鳥が産む、丸い形の食べ物。「卵を割る」のように使い、料理によく使う。"
    },
    "antonyms": []
   },
@@ -132411,20 +132758,22 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "出口",
-   "alternatives": [],
+   "alternatives": [
+    "非常口"
+   ],
    "reading": "でぐち",
    "romanization": "deguchi",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 653,
-   "description": "外へ出るための場所。",
+   "description": "建物や乗り物から、外へ出るための場所。「出口はこちら」のように使い、反対は「入口」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000004182"
    ],
    "nativeExplain": {
-    "ja": "外へ出るための場所。"
+    "ja": "建物や乗り物から、外へ出るための場所。「出口はこちら」のように使い、反対は「入口」。"
    }
   },
   {
@@ -132513,11 +132862,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 655,
-   "description": "食べ物を冷やして保存する家電。",
+   "description": "食べ物を冷やして、保存する、家電。「冷蔵庫に入れる」のように使い、会話では短く言うことも多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "食べ物を冷やして保存する家電。"
+    "ja": "食べ物を冷やして、保存する、家電。「冷蔵庫に入れる」のように使い、会話では短く言うことも多い。"
    },
    "antonyms": []
   },
@@ -132571,17 +132920,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ごみ",
-   "alternatives": [],
+   "alternatives": [
+    "ゴミ"
+   ],
    "reading": "ごみ",
    "romanization": "gomi",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 656,
-   "description": "いらなくなって捨てる物。",
+   "description": "いらなくなって、捨てる物。「ごみを出す」のように使い、「ごみ箱」「ごみ収集」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "いらなくなって捨てる物。"
+    "ja": "いらなくなって、捨てる物。「ごみを出す」のように使い、「ごみ箱」「ごみ収集」のように使う。"
    },
    "antonyms": []
   },
@@ -132730,17 +133081,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "宿題",
-   "alternatives": [],
+   "alternatives": [
+    "課題"
+   ],
    "reading": "しゅくだい",
    "romanization": "shukudai",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 657,
-   "description": "学校から出される、家でする勉強。",
+   "description": "学校から出される、家でする勉強。「宿題をする」のように使い、毎日出されることが多い。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "学校から出される、家でする勉強。"
+    "ja": "学校から出される、家でする勉強。「宿題をする」のように使い、毎日出されることが多い。"
    },
    "antonyms": []
   },
@@ -132825,17 +133178,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ジュース",
-   "alternatives": [],
+   "alternatives": [
+    "果汁"
+   ],
    "reading": "ジュース",
    "romanization": "juusu",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 658,
-   "description": "果物をしぼった飲み物。",
+   "description": "果物をしぼってつくった飲み物。「オレンジジュース」のように使い、野菜のジュースもある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "果物をしぼった飲み物。"
+    "ja": "果物をしぼってつくった飲み物。「オレンジジュース」のように使い、野菜のジュースもある。"
    },
    "antonyms": []
   },
@@ -133050,17 +133405,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "玉ねぎ",
-   "alternatives": [],
+   "alternatives": [
+    "たまねぎ"
+   ],
    "reading": "たまねぎ",
    "romanization": "tamanegi",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 659,
-   "description": "切ると涙が出る、においの強い丸い野菜。",
+   "description": "切ると涙が出る、においの強い、丸い野菜。「玉ねぎを切る」のように使い、料理によく使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "切ると涙が出る、においの強い丸い野菜。"
+    "ja": "切ると涙が出る、においの強い、丸い野菜。「玉ねぎを切る」のように使い、料理によく使う。"
    },
    "antonyms": []
   },
@@ -133302,17 +133659,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "薬局",
-   "alternatives": [],
+   "alternatives": [
+    "ドラッグストア"
+   ],
    "reading": "やっきょく",
    "romanization": "yakkyoku",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 660,
-   "description": "薬を売る店。",
+   "description": "薬を売る店。「薬局で買う」のように使い、薬剤師がいて、相談もできる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "薬を売る店。"
+    "ja": "薬を売る店。「薬局で買う」のように使い、薬剤師がいて、相談もできる。"
    },
    "antonyms": []
   },
@@ -133332,17 +133691,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "じゃがいも",
-   "alternatives": [],
+   "alternatives": [
+    "ジャガイモ"
+   ],
    "reading": "じゃがいも",
    "romanization": "jagaimo",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 661,
-   "description": "土の中で育つ野菜。",
+   "description": "土の中で育つ、でんぷんの多い野菜。「じゃがいもを煮る」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "土の中で育つ野菜。"
+    "ja": "土の中で育つ、でんぷんの多い野菜。「じゃがいもを煮る」のように使う。"
    },
    "antonyms": []
   },
@@ -133370,11 +133731,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 662,
-   "description": "はなれた所からテレビなどを操作する小さな道具。",
+   "description": "はなれた所から、テレビなどを操作する、小さな道具。「リモコンを押す」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "はなれた所からテレビなどを操作する小さな道具。"
+    "ja": "はなれた所から、テレビなどを操作する、小さな道具。「リモコンを押す」のように使う。"
    },
    "antonyms": []
   },
@@ -133459,17 +133820,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "石けん",
-   "alternatives": [],
+   "alternatives": [
+    "せっけん"
+   ],
    "reading": "せっけん",
    "romanization": "sekken",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 663,
-   "description": "水といっしょに使って体や物を洗う物。",
+   "description": "水といっしょに使って、体や物を洗うもの。「石けんで手を洗う」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "水といっしょに使って体や物を洗う物。"
+    "ja": "水といっしょに使って、体や物を洗うもの。「石けんで手を洗う」のように使う。"
    },
    "antonyms": []
   },
@@ -133491,17 +133854,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "スーパー",
-   "alternatives": [],
+   "alternatives": [
+    "スーパーマーケット"
+   ],
    "reading": "スーパー",
    "romanization": "suupaa",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 664,
-   "description": "食べ物や日用品を売る大きな店。",
+   "description": "食べ物や日用品を売る、大きな店。「スーパーで買い物する」のように使い、ほとんどの人が使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "食べ物や日用品を売る大きな店。"
+    "ja": "食べ物や日用品を売る、大きな店。「スーパーで買い物する」のように使い、ほとんどの人が使う。"
    },
    "antonyms": []
   },
@@ -133592,11 +133957,11 @@
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 665,
-   "description": "サラダやソースに使う、赤くやわらかい実。",
+   "description": "サラダやソースに使う、赤くやわらかい実の野菜。「トマトを切る」のように使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "サラダやソースに使う、赤くやわらかい実。"
+    "ja": "サラダやソースに使う、赤くやわらかい実の野菜。「トマトを切る」のように使う。"
    },
    "antonyms": []
   },
@@ -133616,17 +133981,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "傘",
-   "alternatives": [],
+   "alternatives": [
+    "かさ"
+   ],
    "reading": "かさ",
    "romanization": "kasa",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 666,
-   "description": "雨の日に頭の上にさす道具。",
+   "description": "雨の日に、頭の上にさす道具。「傘をさす」のように使い、日ざしを防ぐ日傘もある。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "雨の日に頭の上にさす道具。"
+    "ja": "雨の日に、頭の上にさす道具。「傘をさす」のように使い、日ざしを防ぐ日傘もある。"
    },
    "antonyms": []
   },
@@ -133808,11 +134175,11 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 667,
-   "description": "にんじんなど、食べる草や根の部分。",
+   "description": "にんじんなど、食べる草や根、葉の部分。「野菜を食べる」のように使い、健康によいとされる。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "にんじんなど、食べる草や根の部分。"
+    "ja": "にんじんなど、食べる草や根、葉の部分。「野菜を食べる」のように使い、健康によいとされる。"
    },
    "antonyms": []
   },
@@ -133930,11 +134297,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 668,
-   "description": "水で汚れを落とす。",
+   "description": "水を使って、汚れを落とす。「手を洗う」のように使い、服や食器を洗うときにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "水で汚れを落とす。"
+    "ja": "水を使って、汚れを落とす。「手を洗う」のように使い、服や食器を洗うときにも使う。"
    },
    "antonyms": []
   },
@@ -134027,11 +134394,11 @@
    "class_real": "possessive construction",
    "nativeExplain": {
     "pt-BR": "sozinho (é dela)",
-    "ja": "その女の人が持っている物。"
+    "ja": "その女の人が持っている物。「これは彼女のものだ」のように使い、名前や代名詞のあとに使う。"
    },
    "study_tier": "inicial",
    "study_priority": 669,
-   "description": "その女の人が持っている物。",
+   "description": "その女の人が持っている物。「これは彼女のものだ」のように使い、名前や代名詞のあとに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -134243,17 +134610,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "飛行機",
-   "alternatives": [],
+   "alternatives": [
+    "航空機"
+   ],
    "reading": "ひこうき",
    "romanization": "hikouki",
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "forma completa",
-    "ja": "つばさがあって空を飛ぶ乗り物。"
+    "ja": "つばさがあって、空を飛ぶ乗り物。「飛行機に乗る」のように使い、遠くへ行くときに使う。"
    },
    "study_tier": "inicial",
    "study_priority": 670,
-   "description": "つばさがあって空を飛ぶ乗り物。",
+   "description": "つばさがあって、空を飛ぶ乗り物。「飛行機に乗る」のように使い、遠くへ行くときに使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -134768,17 +135137,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "お腹",
-   "alternatives": [],
+   "alternatives": [
+    "おなか"
+   ],
    "reading": "おなか",
    "romanization": "onaka",
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 671,
-   "description": "体の前の、胃のあたりの部分。",
+   "description": "体の前の、胃のあたりの部分。「お腹がいたい」のように使い、くだけた言いかたで、ていねいには「腹部」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "体の前の、胃のあたりの部分。"
+    "ja": "体の前の、胃のあたりの部分。「お腹がいたい」のように使い、くだけた言いかたで、ていねいには「腹部」。"
    },
    "antonyms": []
   },
@@ -134799,17 +135170,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ベルト",
-   "alternatives": [],
+   "alternatives": [
+    "バンド"
+   ],
    "reading": "ベルト",
    "romanization": "beruto",
    "class_real": "noun (loanword)",
    "study_tier": "inicial",
    "study_priority": 672,
-   "description": "こしに巻く細長い帯。",
+   "description": "こしに巻く、細長い帯。「ベルトをしめる」のように使い、ズボンをとめる物や、車のシートベルトにも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "ja": "こしに巻く細長い帯。"
+    "ja": "こしに巻く、細長い帯。「ベルトをしめる」のように使い、ズボンをとめる物や、車のシートベルトにも使う。"
    },
    "antonyms": []
   },
@@ -135011,10 +135384,10 @@
    "study_tier": "inicial",
    "study_priority": 674,
    "user_hint": "",
-   "description": "左の反対がわ（「右に曲がる」）。",
+   "description": "左の反対がわ。「右に曲がる」のように使い、方向や位置を表すときに使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "左の反対がわ（「右に曲がる」）。"
+    "ja": "左の反対がわ。「右に曲がる」のように使い、方向や位置を表すときに使う。"
    },
    "antonyms": [
     "en:000000207"
@@ -135029,7 +135402,9 @@
    "level": "A2",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "軽量の"
+   ],
    "allocation": "ALLOC-001",
    "text": "軽い",
    "reading": "かるい",
@@ -135070,10 +135445,10 @@
    "study_tier": "inicial",
    "study_priority": 675,
    "user_hint": "",
-   "description": "重くない（「軽いかばん」）。",
+   "description": "重くなく、持つのが楽である。「軽いかばん」のように使い、食事や運動などの程度が弱いときにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "重くない（「軽いかばん」）。"
+    "ja": "重くなく、持つのが楽である。「軽いかばん」のように使い、食事や運動などの程度が弱いときにも使う。"
    },
    "antonyms": [
     "en:000001136"
@@ -135140,7 +135515,9 @@
    "level": "A1",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "うまい"
+   ],
    "allocation": "ALLOC-001",
    "text": "上手",
    "reading": "じょうず",
@@ -135149,10 +135526,10 @@
    "study_tier": "inicial",
    "study_priority": 676,
    "user_hint": "",
-   "description": "あることをうまくできる（「料理が上手」）。",
+   "description": "あることを、うまくできる。「料理が上手」のように使い、人の技術や才能をほめるときに使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "あることをうまくできる（「料理が上手」）。"
+    "ja": "あることを、うまくできる。「料理が上手」のように使い、人の技術や才能をほめるときに使う。"
    },
    "antonyms": []
   },
@@ -135165,7 +135542,9 @@
    "level": "A2",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "順番"
+   ],
    "allocation": "ALLOC-001",
    "text": "番",
    "reading": "ばん",
@@ -135174,10 +135553,10 @@
    "study_tier": "inicial",
    "study_priority": 677,
    "user_hint": "",
-   "description": "だれかが順番にする番（「あなたの番だ」）。",
+   "description": "だれかが順番にする、番。「あなたの番だ」のように使い、ゲームや待ち時間にもよく使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "だれかが順番にする番（「あなたの番だ」）。"
+    "ja": "だれかが順番にする、番。「あなたの番だ」のように使い、ゲームや待ち時間にもよく使う。"
    },
    "antonyms": []
   },
@@ -138798,10 +139177,10 @@
    "study_priority": 679,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "細長く曲がった、黄色い皮の果物。",
+   "description": "細長く曲がった、黄色い皮の果物。「バナナを食べる」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "細長く曲がった、黄色い皮の果物。"
+    "ja": "細長く曲がった、黄色い皮の果物。「バナナを食べる」のように使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -138813,7 +139192,9 @@
    "kind": "word",
    "description_en": "A room used for sleeping.",
    "text": "寝室",
-   "alternatives": [],
+   "alternatives": [
+    "ベッドルーム"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "しんしつ",
@@ -138822,10 +139203,10 @@
    "study_priority": 680,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "ねるための部屋。",
+   "description": "寝るための部屋。「寝室で寝る」のように使い、ベッドや布団を置いている。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ねるための部屋。"
+    "ja": "寝るための部屋。「寝室で寝る」のように使い、ベッドや布団を置いている。"
    },
    "level": "A1",
    "antonyms": []
@@ -138837,7 +139218,9 @@
    "kind": "word",
    "description_en": "A toy in the shape of a small person or baby.",
    "text": "人形",
-   "alternatives": [],
+   "alternatives": [
+    "ドール"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "にんぎょう",
@@ -138846,10 +139229,10 @@
    "study_priority": 681,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "小さな人や赤ちゃんの形をしたおもちゃ。",
+   "description": "小さな人や、赤ちゃんの形をした、おもちゃ。「人形で遊ぶ」のように使い、飾りの人形もある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "小さな人や赤ちゃんの形をしたおもちゃ。"
+    "ja": "小さな人や、赤ちゃんの形をした、おもちゃ。「人形で遊ぶ」のように使い、飾りの人形もある。"
    },
    "level": "A1",
    "antonyms": []
@@ -138861,7 +139244,9 @@
    "kind": "expression",
    "description_en": "A small car made as a toy.",
    "text": "おもちゃの車",
-   "alternatives": [],
+   "alternatives": [
+    "ミニカー"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "おもちゃのくるま",
@@ -138870,10 +139255,10 @@
    "study_priority": 682,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "おもちゃとしてつくった小さな車。",
+   "description": "おもちゃとして作られた、小さな車。「おもちゃの車で遊ぶ」のように使い、ミニカーとも言う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "おもちゃとしてつくった小さな車。"
+    "ja": "おもちゃとして作られた、小さな車。「おもちゃの車で遊ぶ」のように使い、ミニカーとも言う。"
    },
    "level": "A1",
    "antonyms": []
@@ -138885,7 +139270,9 @@
    "kind": "word",
    "description_en": "A large female farm animal kept for milk.",
    "text": "牛",
-   "alternatives": [],
+   "alternatives": [
+    "乳牛"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "うし",
@@ -138894,10 +139281,10 @@
    "study_priority": 683,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "乳をとるために飼う、大きな農場の動物。",
+   "description": "乳をとるために飼う、大きな農場の動物。「牛が鳴く」のように使い、肉や皮にも使われる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "乳をとるために飼う、大きな農場の動物。"
+    "ja": "乳をとるために飼う、大きな農場の動物。「牛が鳴く」のように使い、肉や皮にも使われる。"
    },
    "level": "A1",
    "antonyms": []
@@ -138909,7 +139296,9 @@
    "kind": "word",
    "description_en": "A farm animal with pink skin and a short tail.",
    "text": "豚",
-   "alternatives": [],
+   "alternatives": [
+    "ブタ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ぶた",
@@ -138918,10 +139307,10 @@
    "study_priority": 684,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "ピンクの皮ふと短い尾をもつ農場の動物。",
+   "description": "ピンクの皮ふと短い尾をもつ、農場の動物。「豚が鳴く」のように使い、肉は食べ物になる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ピンクの皮ふと短い尾をもつ農場の動物。"
+    "ja": "ピンクの皮ふと短い尾をもつ、農場の動物。「豚が鳴く」のように使い、肉は食べ物になる。"
    },
    "level": "A1",
    "antonyms": []
@@ -138942,10 +139331,10 @@
    "study_priority": 685,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "音を聞くための体の部分。",
+   "description": "音を聞くための、体の部分。「耳をすます」のように使い、頭の両側にある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "音を聞くための体の部分。"
+    "ja": "音を聞くための、体の部分。「耳をすます」のように使い、頭の両側にある。"
    },
    "level": "A1",
    "antonyms": []
@@ -138966,10 +139355,10 @@
    "study_priority": 686,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "口の中にある、かむための白くてかたい部分。",
+   "description": "口の中にある、かむための白くてかたい部分。「歯をみがく」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "口の中にある、かむための白くてかたい部分。"
+    "ja": "口の中にある、かむための白くてかたい部分。「歯をみがく」のように使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -138981,7 +139370,9 @@
    "kind": "word",
    "description_en": "Feeling that you want to sleep.",
    "text": "眠い",
-   "alternatives": [],
+   "alternatives": [
+    "ねむい"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ねむい",
@@ -139022,10 +139413,10 @@
     }
    ],
    "user_hint": "",
-   "description": "ねむりたい気持ち。",
+   "description": "ねむりたい気持ちである。「眠い目をこする」のように使い、夜や昼食のあとなどに感じる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ねむりたい気持ち。"
+    "ja": "ねむりたい気持ちである。「眠い目をこする」のように使い、夜や昼食のあとなどに感じる。"
    },
    "level": "A1",
    "antonyms": []
@@ -139037,7 +139428,9 @@
    "kind": "word",
    "description_en": "Feeling that you need to eat.",
    "text": "お腹がすいた",
-   "alternatives": [],
+   "alternatives": [
+    "空腹の"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "おなかがすいた",
@@ -139046,10 +139439,10 @@
    "study_priority": 688,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "何か食べたい気持ち。",
+   "description": "何か食べたい気持ちである。「お腹がすいた」のように使い、食事のまえにいう。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "何か食べたい気持ち。"
+    "ja": "何か食べたい気持ちである。「お腹がすいた」のように使い、食事のまえにいう。"
    },
    "level": "A1",
    "antonyms": []
@@ -139070,10 +139463,10 @@
    "study_priority": 689,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "何か飲みたい気持ち。",
+   "description": "何か飲みたい気持ちである。「喉が渇いた」のように使い、汗をかいたあとなどに感じる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "何か飲みたい気持ち。"
+    "ja": "何か飲みたい気持ちである。「喉が渇いた」のように使い、汗をかいたあとなどに感じる。"
    },
    "level": "A1",
    "antonyms": []
@@ -139133,7 +139526,9 @@
    "kind": "expression",
    "description_en": "To remove a piece of clothing.",
    "text": "脱ぐ",
-   "alternatives": [],
+   "alternatives": [
+    "外す"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ぬぐ",
@@ -139142,10 +139537,10 @@
    "study_priority": 692,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "着ている服を取る。",
+   "description": "着ている服や、身につけている物を取る。「コートを脱ぐ」のように使い、靴や帽子にも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "着ている服を取る。"
+    "ja": "着ている服や、身につけている物を取る。「コートを脱ぐ」のように使い、靴や帽子にも使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139157,7 +139552,9 @@
    "kind": "word",
    "description_en": "Goodbye (informal).",
    "text": "じゃあね",
-   "alternatives": [],
+   "alternatives": [
+    "バイバイ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "じゃあね",
@@ -139166,10 +139563,10 @@
    "study_priority": 693,
    "part_of_speech": "exp",
    "user_hint": "",
-   "description": "わかれのあいさつ（くだけた言い方）。",
+   "description": "わかれのあいさつ。「じゃあね」「バイバイ」と、友だちや家族に言う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "わかれのあいさつ（くだけた言い方）。"
+    "ja": "わかれのあいさつ。「じゃあね」「バイバイ」と、友だちや家族に言う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139181,7 +139578,9 @@
    "kind": "word",
    "description_en": "A sweet food made of sugar.",
    "text": "キャンディー",
-   "alternatives": [],
+   "alternatives": [
+    "あめ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "キャンディー",
@@ -139190,10 +139589,10 @@
    "study_priority": 694,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "砂糖でつくった甘いお菓子。",
+   "description": "砂糖でつくった、甘いお菓子。「キャンディーをなめる」のように使い、小さな玉の形が多い。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "砂糖でつくった甘いお菓子。"
+    "ja": "砂糖でつくった、甘いお菓子。「キャンディーをなめる」のように使い、小さな玉の形が多い。"
    },
    "level": "A1",
    "antonyms": []
@@ -139205,7 +139604,9 @@
    "kind": "word",
    "description_en": "One of the five long parts at the end of the hand.",
    "text": "指",
-   "alternatives": [],
+   "alternatives": [
+    "手指"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "ゆび",
@@ -139214,10 +139615,10 @@
    "study_priority": 695,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "手の先にある5本の細長い部分。",
+   "description": "手の先にある、五本の細長い部分。「指を折る」のように使い、物をつかむときにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "手の先にある5本の細長い部分。"
+    "ja": "手の先にある、五本の細長い部分。「指を折る」のように使い、物をつかむときにも使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139238,10 +139639,10 @@
    "study_priority": 696,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "赤ちゃんが落ち着くためにくわえるゴムの道具。",
+   "description": "赤ちゃんが落ち着くように、くわえる、ゴムの道具。「おしゃぶりをくわえる」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "赤ちゃんが落ち着くためにくわえるゴムの道具。"
+    "ja": "赤ちゃんが落ち着くように、くわえる、ゴムの道具。「おしゃぶりをくわえる」のように使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139253,7 +139654,9 @@
    "kind": "word",
    "description_en": "Cloth or paper worn by a baby to absorb waste.",
    "text": "おむつ",
-   "alternatives": [],
+   "alternatives": [
+    "オムツ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "おむつ",
@@ -139262,10 +139665,10 @@
    "study_priority": 697,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "赤ちゃんがはく、排せつ物を吸いとる布や紙。",
+   "description": "赤ちゃんが、はく、排せつ物を吸いとる布や紙。「おむつを替える」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "赤ちゃんがはく、排せつ物を吸いとる布や紙。"
+    "ja": "赤ちゃんが、はく、排せつ物を吸いとる布や紙。「おむつを替える」のように使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139303,7 +139706,7 @@
    "description_en": "The man in a red suit who brings presents at Christmas.",
    "text": "サンタクロース",
    "alternatives": [
-    "サンタさん"
+    "サンタ"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -139313,10 +139716,10 @@
    "study_priority": 698,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "クリスマスにプレゼントを配る、赤い服の男の人。",
+   "description": "クリスマスの夜に、プレゼントを配るとされる、赤い服の白いひげのおじいさん。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "クリスマスにプレゼントを配る、赤い服の男の人。"
+    "ja": "クリスマスの夜に、プレゼントを配るとされる、赤い服の白いひげのおじいさん。"
    },
    "level": "A1",
    "antonyms": []
@@ -139328,7 +139731,9 @@
    "kind": "expression",
    "description_en": "The first days of the year and their celebration.",
    "text": "お正月",
-   "alternatives": [],
+   "alternatives": [
+    "新年"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "おしょうがつ",
@@ -139337,10 +139742,10 @@
    "study_priority": 699,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "年のはじめの数日と、そのお祝い。",
+   "description": "年のはじめの数日と、そのお祝い。「お正月を祝う」のように使い、日本では一月のはじめの行事を指す。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "年のはじめの数日と、そのお祝い。"
+    "ja": "年のはじめの数日と、そのお祝い。「お正月を祝う」のように使い、日本では一月のはじめの行事を指す。"
    },
    "level": "A1",
    "antonyms": []
@@ -139352,7 +139757,9 @@
    "kind": "expression",
    "description_en": "A soft toy bear.",
    "text": "クマのぬいぐるみ",
-   "alternatives": [],
+   "alternatives": [
+    "テディベア"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "クマのぬいぐるみ",
@@ -139361,10 +139768,10 @@
    "study_priority": 700,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "クマの形をした、やわらかいおもちゃ。",
+   "description": "クマの形をした、やわらかいおもちゃ。「ぬいぐるみを抱く」のように使い、子どもに人気がある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "クマの形をした、やわらかいおもちゃ。"
+    "ja": "クマの形をした、やわらかいおもちゃ。「ぬいぐるみを抱く」のように使い、子どもに人気がある。"
    },
    "level": "A1",
    "antonyms": []
@@ -139376,7 +139783,9 @@
    "kind": "expression",
    "description_en": "A small toy block used to build things.",
    "text": "積み木",
-   "alternatives": [],
+   "alternatives": [
+    "ブロック"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "つみき",
@@ -139385,10 +139794,10 @@
    "study_priority": 701,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "積み上げて遊ぶ、小さなおもちゃのブロック。",
+   "description": "積み上げて遊ぶ、小さなおもちゃのブロック。「積み木で遊ぶ」のように使い、形や色がいろいろある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "積み上げて遊ぶ、小さなおもちゃのブロック。"
+    "ja": "積み上げて遊ぶ、小さなおもちゃのブロック。「積み木で遊ぶ」のように使い、形や色がいろいろある。"
    },
    "level": "A1",
    "antonyms": []
@@ -139400,7 +139809,9 @@
    "kind": "word",
    "description_en": "To run after someone to catch them.",
    "text": "追いかける",
-   "alternatives": [],
+   "alternatives": [
+    "追う"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "おいかける",
@@ -139499,10 +139910,10 @@
     }
    ],
    "user_hint": "",
-   "description": "つかまえようと、人の後を走ってついていく。",
+   "description": "つかまえようと、人や動物のあとを走ってついていく。「ねこを追いかける」のように使い、夢や目標を追う意味でも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "つかまえようと、人の後を走ってついていく。"
+    "ja": "つかまえようと、人や動物のあとを走ってついていく。「ねこを追いかける」のように使い、夢や目標を追う意味でも使う。"
    },
    "level": "A1",
    "antonyms": []
@@ -139538,7 +139949,9 @@
    "kind": "word",
    "description_en": "A seed of certain plants, cooked and eaten.",
    "text": "豆",
-   "alternatives": [],
+   "alternatives": [
+    "まめ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "まめ",
@@ -139547,10 +139960,10 @@
    "study_priority": 703,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "ある植物の種で、煮たりして食べるもの。",
+   "description": "ある植物の種で、煮たりして食べるもの。「豆を煮る」のように使い、料理や調味料にも使われる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある植物の種で、煮たりして食べるもの。"
+    "ja": "ある植物の種で、煮たりして食べるもの。「豆を煮る」のように使い、料理や調味料にも使われる。"
    },
    "level": "A1",
    "antonyms": []
@@ -139562,7 +139975,9 @@
    "kind": "word",
    "description_en": "A tool for writing or drawing with a grey graphite core.",
    "text": "鉛筆",
-   "alternatives": [],
+   "alternatives": [
+    "えんぴつ"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "えんぴつ",
@@ -139571,10 +139986,10 @@
    "study_priority": 704,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "灰色の芯で書いたり描いたりする道具。",
+   "description": "灰色の芯で、書いたり描いたりする道具。「鉛筆で書く」のように使い、消しゴムで消せる。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "灰色の芯で書いたり描いたりする道具。"
+    "ja": "灰色の芯で、書いたり描いたりする道具。「鉛筆で書く」のように使い、消しゴムで消せる。"
    },
    "level": "A1",
    "antonyms": []
