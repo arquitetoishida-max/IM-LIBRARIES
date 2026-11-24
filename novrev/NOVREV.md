@@ -237,7 +237,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 ### Lote 2411–2500
 
-- 85 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2411–2500; 5 já tratadas). Correção: `en:000003971` *track* descrevia um caminhão (duplicata de `en:000002284` *truck*), com trilha/跑道 nos outros idiomas; removido, e a pista de corrida segue em `en:000001001`. Em *program* ficou só o sentido de computador (o de TV tem ID próprio). Ajustes: *miss* em japonês (逃す), *character* em japonês (人柄, pois 性格 é *personality*) e *follower* em chinês (关注者).
+- 83 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2411–2500; 7 já tratadas). Correção: `en:000003971` *track* descrevia um caminhão (duplicata de `en:000002284` *truck*), com trilha/跑道 nos outros idiomas; removido, e a pista de corrida segue em `en:000001001`. Em *program* ficou só o sentido de computador (o de TV tem ID próprio). Ajustes: *miss* em japonês (逃す), *character* em japonês (人柄, pois 性格 é *personality*) e *follower* em chinês (关注者).
 - Fica para decisão: `en:000003958` e `en:000003204` *football* (EUA); `en:000003986` e `en:000001232` *commercial*.
 - A Kanji Study foi consultada para 逃 e 柄. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
