@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2230 foram percorridas. Retomar na posição 2231, `en:000003439` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2320 foram percorridas. Retomar na posição 2321, `en:000003653` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -224,6 +224,11 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Criados três espelhos: `en:000004289` *quote* (preço: orçamento, 見積もり, 报价), `en:000004290` *Greek* (língua) e `en:000004291` *operate* (cirurgia: operar, 手術する, 动手术).
 - Observação: `en:000003203` *Mass* e `en:000003996` descrevem a mesma missa católica; fica para decisão de consolidação.
 - A Kanji Study foi consultada para 忍, 耐, 術 e 手. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 2231–2320
+
+- 90 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2231–2320). Texto preservado quase todo; em *dive*, o chinês ganhou 跳水 como alternativa para o salto de cabeça. Fica para decisão: `en:000003562` *makeup* e `en:000004061` descrevem o mesmo cosmético.
+- A Kanji Study foi consultada para 潜. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
