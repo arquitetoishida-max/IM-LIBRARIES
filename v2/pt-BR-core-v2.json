@@ -713,15 +713,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "de",
    "alternatives": [
-    "desde"
+    "desde",
+    "a partir de"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 921,
-   "description": "Indica onde algo começa ou de onde vem.",
+   "description": "Indica onde algo começa: “vim de São Paulo”. Também indica origem (“de madeira”), tempo (“de manhã”) e posse: “o livro de Ana”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Indica onde algo começa ou de onde vem."
+    "pt-BR": "Indica onde algo começa: “vim de São Paulo”. Também indica origem (“de madeira”), tempo (“de manhã”) e posse: “o livro de Ana”."
    },
    "antonyms": []
   },
@@ -926,11 +927,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 926,
-   "description": "Que pertence a ele.",
+   "description": "Que pertence a ele: “o livro dele”. Também pode usar “seu” quando o contexto deixa claro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que pertence a ele."
+    "pt-BR": "Que pertence a ele: “o livro dele”. Também pode usar “seu” quando o contexto deixa claro."
    },
    "antonyms": []
   },
@@ -1231,18 +1232,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "para cima",
    "alternatives": [
-    "acima"
+    "acima",
+    "em cima"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 931,
-   "description": "Em direção a um lugar mais alto.",
+   "description": "Em direção a um lugar mais alto: “subir para cima”. Também indica mais: “aumentar”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000132"
    ],
    "nativeExplain": {
-    "pt-BR": "Em direção a um lugar mais alto."
+    "pt-BR": "Em direção a um lugar mais alto: “subir para cima”. Também indica mais: “aumentar”."
    }
   },
   {
@@ -1596,11 +1598,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 933,
-   "description": "Que pertence a eles.",
+   "description": "Que pertence a eles: “a casa deles”. Também “delas”, se o grupo for feminino.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que pertence a eles."
+    "pt-BR": "Que pertence a eles: “a casa deles”. Também “delas”, se o grupo for feminino."
    },
    "antonyms": []
   },
@@ -1658,11 +1660,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 934,
-   "description": "Que pertence a ela.",
+   "description": "Que pertence a ela: “a bolsa dela”. Também “sua”, quando o contexto deixa claro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que pertence a ela."
+    "pt-BR": "Que pertence a ela: “a bolsa dela”. Também “sua”, quando o contexto deixa claro."
    },
    "antonyms": []
   },
@@ -2016,14 +2018,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "também",
-   "alternatives": [],
+   "alternatives": [
+    "igualmente",
+    "da mesma forma"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 941,
-   "description": "Além disso; também.",
+   "description": "Além disso, do mesmo modo: “eu também vou”. Também liga duas ideias: “também gosto de música”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Além disso; também."
+    "pt-BR": "Além disso, do mesmo modo: “eu também vou”. Também liga duas ideias: “também gosto de música”."
    },
    "antonyms": []
   },
@@ -2106,14 +2111,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "outro",
-   "alternatives": [],
+   "alternatives": [
+    "diferente",
+    "restante"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 943,
-   "description": "Diferente daquele já mencionado.",
+   "description": "Diferente do já mencionado: “outra pessoa”. Também indica o que resta: “o outro lado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Diferente daquele já mencionado."
+    "pt-BR": "Diferente do já mencionado: “outra pessoa”. Também indica o que resta: “o outro lado”."
    },
    "antonyms": [],
    "forms": [
@@ -2199,14 +2207,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "nosso",
-   "alternatives": [],
+   "alternatives": [
+    "do nosso grupo"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "description": "Que pertence a nós.",
+   "description": "Que pertence a nós: “a nossa casa”. Também indica cuidado afetuoso: “nosso amigo”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que pertence a nós."
+    "pt-BR": "Que pertence a nós: “a nossa casa”. Também indica cuidado afetuoso: “nosso amigo”."
    },
    "antonyms": [],
    "forms": [
@@ -2298,15 +2308,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "só",
    "alternatives": [
-    "somente"
+    "somente",
+    "apenas"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 947,
-   "description": "E nada mais; apenas.",
+   "description": "E nada mais: “só uma vez”. Também indica pouco tempo: “só agora cheguei”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "E nada mais; apenas."
+    "pt-BR": "E nada mais: “só uma vez”. Também indica pouco tempo: “só agora cheguei”."
    },
    "antonyms": []
   },
@@ -2360,17 +2371,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "primeiro",
-   "alternatives": [],
+   "alternatives": [
+    "inicial",
+    "primário"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 949,
-   "description": "Antes de todos os outros na ordem.",
+   "description": "Antes de todos na ordem: “o primeiro dia”. Também indica o mais importante: “primeiro lugar”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000136"
    ],
    "nativeExplain": {
-    "pt-BR": "Antes de todos os outros na ordem."
+    "pt-BR": "Antes de todos na ordem: “o primeiro dia”. Também indica o mais importante: “primeiro lugar”."
    },
    "forms": [
     {
@@ -2431,15 +2445,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "para dentro de",
    "alternatives": [
-    "em"
+    "em",
+    "dentro"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 951,
-   "description": "Movendo-se para dentro de algo.",
+   "description": "Movendo-se para dentro de algo: “entrar na sala”. Também indica transformação: “virar pó”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Movendo-se para dentro de algo."
+    "pt-BR": "Movendo-se para dentro de algo: “entrar na sala”. Também indica transformação: “virar pó”."
    },
    "antonyms": []
   },
@@ -2547,14 +2562,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "fazer",
-   "alternatives": [],
+   "alternatives": [
+    "criar",
+    "produzir"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 952,
-   "description": "Criar ou construir algo.",
+   "description": "Criar ou construir algo: “fazer um bolo”. Também significa obrigar (“fazer rir”), cumprir (“fazer a cama”) e somar: “dois e dois fazem quatro”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Criar ou construir algo."
+    "pt-BR": "Criar ou construir algo: “fazer um bolo”. Também significa obrigar (“fazer rir”), cumprir (“fazer a cama”) e somar: “dois e dois fazem quatro”."
    },
    "antonyms": []
   },
@@ -2908,14 +2926,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "bem",
-   "alternatives": [],
+   "alternatives": [
+    "corretamente",
+    "com saúde"
+   ],
    "study_tier": "expansão estruturante",
    "study_priority": 960,
-   "description": "De maneira boa.",
+   "description": "De maneira boa: “cantar bem”. Também indica saúde: “estou bem”, e introduz uma frase: “bem, vamos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "De maneira boa."
+    "pt-BR": "De maneira boa: “cantar bem”. Também indica saúde: “estou bem”, e introduz uma frase: “bem, vamos”."
    },
    "antonyms": [
     "en:000001909"
@@ -3539,17 +3560,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "antes de",
-   "alternatives": [],
+   "alternatives": [
+    "antes",
+    "diante de"
+   ],
    "study_tier": "cedo",
    "study_priority": 966,
-   "description": "Antes de algum momento.",
+   "description": "Antes de algum momento: “antes do almoço”. Também indica posição à frente: “diante de”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000078"
    ],
    "nativeExplain": {
-    "pt-BR": "Antes de algum momento."
+    "pt-BR": "Antes de algum momento: “antes do almoço”. Também indica posição à frente: “diante de”."
    }
   },
   {
@@ -3920,17 +3944,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "para baixo",
-   "alternatives": [],
+   "alternatives": [
+    "abaixo",
+    "embaixo"
+   ],
    "study_tier": "cedo",
    "study_priority": 970,
-   "description": "Em direção a um lugar mais baixo.",
+   "description": "Em direção a um lugar mais baixo: “descer para baixo”. Também indica redução: “baixar o preço”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000042"
    ],
    "nativeExplain": {
-    "pt-BR": "Em direção a um lugar mais baixo."
+    "pt-BR": "Em direção a um lugar mais baixo: “descer para baixo”. Também indica redução: “baixar o preço”."
    }
   },
   {
@@ -4098,14 +4125,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "enquanto",
-   "alternatives": [],
+   "alternatives": [
+    "ao mesmo tempo que",
+    "durante"
+   ],
    "study_tier": "cedo",
    "study_priority": 973,
-   "description": "Durante o tempo em que.",
+   "description": "Durante o tempo em que: “enquanto como, leio”. Também marca contraste: “ele canta, enquanto ela dança”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Durante o tempo em que."
+    "pt-BR": "Durante o tempo em que: “enquanto como, leio”. Também marca contraste: “ele canta, enquanto ela dança”."
    },
    "antonyms": []
   },
@@ -4464,15 +4494,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "os dois",
    "alternatives": [
-    "ambos"
+    "ambos",
+    "as duas"
    ],
    "study_tier": "cedo",
    "study_priority": 976,
-   "description": "Os dois juntos.",
+   "description": "Os dois juntos: “gosto dos dois”. Também “ambos”, em textos mais formais.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Os dois juntos."
+    "pt-BR": "Os dois juntos: “gosto dos dois”. Também “ambos”, em textos mais formais."
    },
    "antonyms": []
   },
@@ -4672,15 +4703,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "ao redor",
    "alternatives": [
-    "por aí"
+    "em volta",
+    "por perto"
    ],
    "study_tier": "cedo",
    "study_priority": 979,
-   "description": "Nas imediações ou em volta de algo.",
+   "description": "Nas imediações: “as pessoas ao redor”. Também indica aproximação numérica: “por volta de cinco”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Nas imediações ou em volta de algo."
+    "pt-BR": "Nas imediações: “as pessoas ao redor”. Também indica aproximação numérica: “por volta de cinco”."
    },
    "antonyms": []
   },
@@ -4701,14 +4733,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "entre",
-   "alternatives": [],
+   "alternatives": [
+    "no meio de",
+    "dentre"
+   ],
    "study_tier": "cedo",
    "study_priority": 980,
-   "description": "No espaço que separa duas coisas.",
+   "description": "No espaço que separa duas coisas: “entre a escola e a casa”. Também indica opções: “escolher entre”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "No espaço que separa duas coisas."
+    "pt-BR": "No espaço que separa duas coisas: “entre a escola e a casa”. Também indica opções: “escolher entre”."
    },
    "antonyms": []
   },
@@ -4840,17 +4875,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alto",
-   "alternatives": [],
+   "alternatives": [
+    "elevado",
+    "grande"
+   ],
    "study_tier": "cedo",
    "study_priority": 981,
    "user_hint": "",
-   "description": "Muito acima do chão; de grande altura.",
+   "description": "Muito acima do chão: “um prédio alto”. Também indica nível elevado: “preço alto”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000450"
    ],
    "nativeExplain": {
-    "pt-BR": "Muito acima do chão; de grande altura."
+    "pt-BR": "Muito acima do chão: “um prédio alto”. Também indica nível elevado: “preço alto”."
    },
    "forms": [
     {
@@ -4906,19 +4944,20 @@
    "translation_confidence": "editorial-reviewed",
    "text": "velho",
    "alternatives": [
-    "antigo"
+    "antigo",
+    "idoso"
    ],
    "study_tier": "cedo",
    "study_priority": 982,
    "user_hint": "",
-   "description": "Que existe ou viveu há muito tempo.",
+   "description": "Que existe ou viveu há muito tempo: “um carro velho”. Também indica idade: “quantos anos você tem?”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000063",
     "en:000000351"
    ],
    "nativeExplain": {
-    "pt-BR": "Que existe ou viveu há muito tempo."
+    "pt-BR": "Que existe ou viveu há muito tempo: “um carro velho”. Também indica idade: “quantos anos você tem?”."
    }
   },
   {
@@ -5068,15 +5107,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "embaixo de",
    "alternatives": [
-    "sob"
+    "sob",
+    "debaixo de"
    ],
    "study_tier": "cedo",
    "study_priority": 986,
-   "description": "Abaixo de algo.",
+   "description": "Abaixo de algo: “embaixo da mesa”. Também indica menos que: “abaixo de dez anos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Abaixo de algo."
+    "pt-BR": "Abaixo de algo: “embaixo da mesa”. Também indica menos que: “abaixo de dez anos”."
    },
    "antonyms": []
   },
@@ -5096,14 +5136,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "durante",
-   "alternatives": [],
+   "alternatives": [
+    "ao longo de"
+   ],
    "study_tier": "cedo",
    "study_priority": 987,
-   "description": "Ao longo de um período.",
+   "description": "Ao longo de um período: “durante as férias”. Também indica um momento dentro dele.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ao longo de um período."
+    "pt-BR": "Ao longo de um período: “durante as férias”. Também indica um momento dentro dele."
    },
    "antonyms": []
   },
@@ -5349,15 +5391,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "próximo",
    "alternatives": [
-    "seguinte"
+    "seguinte",
+    "a seguir"
    ],
    "study_tier": "cedo",
    "study_priority": 989,
-   "description": "O que vem logo depois deste.",
+   "description": "O que vem logo depois deste: “o próximo trem”. Também indica proximidade: “na casa ao lado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O que vem logo depois deste."
+    "pt-BR": "O que vem logo depois deste: “o próximo trem”. Também indica proximidade: “na casa ao lado”."
    },
    "antonyms": []
   },
@@ -5380,14 +5423,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cada",
-   "alternatives": [],
+   "alternatives": [
+    "todo",
+    "cada um"
+   ],
    "study_tier": "cedo",
    "study_priority": 990,
-   "description": "Cada um, individualmente.",
+   "description": "Cada um, individualmente: “cada aluno”. Também indica repetição: “a cada dia”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Cada um, individualmente."
+    "pt-BR": "Cada um, individualmente: “cada aluno”. Também indica repetição: “a cada dia”."
    },
    "antonyms": []
   },
@@ -5432,14 +5478,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sem",
-   "alternatives": [],
+   "alternatives": [
+    "desprovido de"
+   ],
    "study_tier": "cedo",
    "study_priority": 992,
-   "description": "Não tendo algo.",
+   "description": "Não tendo algo: “café sem açúcar”. Também indica falta de ajuda ou condição.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Não tendo algo."
+    "pt-BR": "Não tendo algo: “café sem açúcar”. Também indica falta de ajuda ou condição."
    },
    "antonyms": []
   },
@@ -5564,15 +5612,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "ter que",
    "alternatives": [
-    "dever"
+    "dever",
+    "precisar"
    ],
    "study_tier": "cedo",
    "study_priority": 994,
-   "description": "É obrigatório; é necessário.",
+   "description": "É obrigatório: “tenho que ir”. Também indica certeza: “deve ser ele”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "É obrigatório; é necessário."
+    "pt-BR": "É obrigatório: “tenho que ir”. Também indica certeza: “deve ser ele”."
    },
    "antonyms": []
   },
@@ -5654,14 +5703,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sentir",
-   "alternatives": [],
+   "alternatives": [
+    "perceber",
+    "achar"
+   ],
    "study_tier": "cedo",
    "study_priority": 995,
-   "description": "Experimentar uma emoção ou um toque.",
+   "description": "Experimentar emoção ou toque: “sentir frio”. Também indica opinião: “sinto que ele tem razão”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Experimentar uma emoção ou um toque."
+    "pt-BR": "Experimentar emoção ou toque: “sentir frio”. Também indica opinião: “sinto que ele tem razão”."
    },
    "antonyms": []
   },
@@ -5736,15 +5788,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "alguma vez",
    "alternatives": [
-    "já"
+    "já",
+    "alguma vez"
    ],
    "study_tier": "cedo",
    "study_priority": 997,
-   "description": "Em algum momento (\"você já...?\").",
+   "description": "Em algum momento da vida: “você já foi ao Japão?”. Também reforça: “o melhor de todos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Em algum momento (\"você já...?\")."
+    "pt-BR": "Em algum momento da vida: “você já foi ao Japão?”. Também reforça: “o melhor de todos”."
    },
    "antonyms": [
     "en:000000127"
@@ -5802,11 +5855,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 998,
-   "description": "Continuar a ter ou fazer algo.",
+   "description": "Continuar a ter ou fazer algo: “manter a calma”. Também significa guardar: “guarde isto”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Continuar a ter ou fazer algo."
+    "pt-BR": "Continuar a ter ou fazer algo: “manter a calma”. Também significa guardar: “guarde isto”."
    },
    "antonyms": []
   },
@@ -5827,15 +5880,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "pode ser que",
    "alternatives": [
-    "talvez"
+    "talvez",
+    "pode ser que"
    ],
    "study_tier": "cedo",
    "study_priority": 999,
-   "description": "Possivelmente (\"pode chover\").",
+   "description": "Indica possibilidade: “pode chover”. Também faz pedido educado: “você poderia ajudar?”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Possivelmente (\"pode chover\")."
+    "pt-BR": "Indica possibilidade: “pode chover”. Também faz pedido educado: “você poderia ajudar?”."
    },
    "antonyms": []
   },
@@ -8640,14 +8694,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "seguinte",
-   "alternatives": [],
+   "alternatives": [
+    "subsequente",
+    "posterior"
+   ],
    "study_tier": "cedo",
    "study_priority": 1003,
    "user_hint": "",
-   "description": "O que vem depois (\"o dia seguinte\").",
+   "description": "O que vem depois: “o dia seguinte”. Também indica o que será dito a seguir.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O que vem depois (\"o dia seguinte\")."
+    "pt-BR": "O que vem depois: “o dia seguinte”. Também indica o que será dito a seguir."
    },
    "antonyms": []
   },
@@ -8739,15 +8796,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "inteiro",
    "alternatives": [
-    "todo"
+    "todo",
+    "completo"
    ],
    "study_tier": "cedo",
    "study_priority": 1005,
-   "description": "Completo; todo.",
+   "description": "Completo, sem faltar nada: “o dia inteiro”. Também indica sem divisão: “leite integral”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Completo; todo."
+    "pt-BR": "Completo, sem faltar nada: “o dia inteiro”. Também indica sem divisão: “leite integral”."
    },
    "antonyms": [
     "en:000000360"
@@ -9051,11 +9109,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1009,
-   "description": "Querer que algo aconteça.",
+   "description": "Querer que algo aconteça: “espero que chova”. Também indica esperança confiante: “tenho esperança”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Querer que algo aconteça."
+    "pt-BR": "Querer que algo aconteça: “espero que chova”. Também indica esperança confiante: “tenho esperança”."
    },
    "antonyms": []
   },
@@ -9185,14 +9243,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "dentro de",
-   "alternatives": [],
+   "alternatives": [
+    "dentro de",
+    "em até"
+   ],
    "study_tier": "cedo",
    "study_priority": 1011,
-   "description": "Dentro de um espaço ou limite de tempo.",
+   "description": "Dentro de um limite de espaço ou tempo: “dentro de uma hora”. Também indica alcance: “ao alcance”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Dentro de um espaço ou limite de tempo."
+    "pt-BR": "Dentro de um limite de espaço ou tempo: “dentro de uma hora”. Também indica alcance: “ao alcance”."
    },
    "antonyms": []
   },
@@ -9557,15 +9618,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "outros",
    "alternatives": [
-    "os outros"
+    "os outros",
+    "demais"
    ],
    "study_tier": "cedo",
    "study_priority": 1016,
-   "description": "As demais pessoas.",
+   "description": "As demais pessoas: “respeitar os outros”. Também indica o resto de um conjunto.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "As demais pessoas."
+    "pt-BR": "As demais pessoas: “respeitar os outros”. Também indica o resto de um conjunto."
    },
    "antonyms": []
   },
@@ -9922,15 +9984,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "tornar-se",
    "alternatives": [
-    "virar"
+    "virar",
+    "ficar"
    ],
    "study_tier": "cedo",
    "study_priority": 1020,
    "user_hint": "",
-   "description": "Começar a ser.",
+   "description": "Começar a ser: “tornar-se médico”. Também indica mudança: “ficar rico”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Começar a ser."
+    "pt-BR": "Começar a ser: “tornar-se médico”. Também indica mudança: “ficar rico”."
    },
    "antonyms": []
   },
@@ -9997,14 +10060,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "controlar",
-   "alternatives": [],
+   "alternatives": [
+    "dirigir",
+    "dominar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1021,
    "user_hint": "",
-   "description": "Ter poder sobre algo; dirigir.",
+   "description": "Ter poder sobre algo: “controlar o carro”. Também indica conter sentimentos: “controlar a raiva”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ter poder sobre algo; dirigir."
+    "pt-BR": "Ter poder sobre algo: “controlar o carro”. Também indica conter sentimentos: “controlar a raiva”."
    },
    "antonyms": []
   },
@@ -10217,18 +10283,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "verdadeiro",
    "alternatives": [
-    "verdade"
+    "real",
+    "certo"
    ],
    "study_tier": "cedo",
    "study_priority": 1025,
    "user_hint": "",
-   "description": "Correto; real; que não é falso.",
+   "description": "Correto, real: “uma história verdadeira”. Também indica autêntico: “ouro verdadeiro”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002306"
    ],
    "nativeExplain": {
-    "pt-BR": "Correto; real; que não é falso."
+    "pt-BR": "Correto, real: “uma história verdadeira”. Também indica autêntico: “ouro verdadeiro”."
    }
   },
   {
@@ -10504,15 +10571,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "vários",
    "alternatives": [
-    "várias"
+    "alguns",
+    "diversos"
    ],
    "study_tier": "cedo",
    "study_priority": 1028,
-   "description": "Mais de dois, mas não muitos.",
+   "description": "Mais de dois, mas não muitos: “vários amigos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mais de dois, mas não muitos."
+    "pt-BR": "Mais de dois, mas não muitos: “vários amigos”."
    },
    "antonyms": []
   },
@@ -13234,14 +13302,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "disponível",
-   "alternatives": [],
+   "alternatives": [
+    "livre",
+    "à disposição"
+   ],
    "study_tier": "cedo",
    "study_priority": 1034,
    "user_hint": "",
-   "description": "Pronto para usar ou livre para ajudar.",
+   "description": "Pronto para usar: “vaga disponível”. Também indica quem está livre para ajudar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pronto para usar ou livre para ajudar."
+    "pt-BR": "Pronto para usar: “vaga disponível”. Também indica quem está livre para ajudar."
    },
    "antonyms": []
   },
@@ -13281,15 +13352,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "final",
    "alternatives": [
-    "último"
+    "último",
+    "derradeiro"
    ],
    "study_tier": "cedo",
    "study_priority": 1036,
    "user_hint": "",
-   "description": "O último; que está no fim.",
+   "description": "O último: “a final do campeonato”. Também indica o que decide algo: “decisão final”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O último; que está no fim."
+    "pt-BR": "O último: “a final do campeonato”. Também indica o que decide algo: “decisão final”."
    },
    "antonyms": []
   },
@@ -13607,14 +13679,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "atual",
-   "alternatives": [],
+   "alternatives": [
+    "presente",
+    "vigente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1039,
    "user_hint": "",
-   "description": "Que acontece agora.",
+   "description": "Que acontece agora: “a situação atual”. Também indica o que está em uso: “conta atual”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que acontece agora."
+    "pt-BR": "Que acontece agora: “a situação atual”. Também indica o que está em uso: “conta atual”."
    },
    "antonyms": []
   },
@@ -14348,10 +14423,10 @@
    "study_tier": "cedo",
    "study_priority": 1050,
    "user_hint": "",
-   "description": "Título de médico (Dr. Silva).",
+   "description": "Título de médico: “Dr. Silva”. Também indica doutor acadêmico: “doutor em física”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Título de médico (Dr. Silva)."
+    "pt-BR": "Título de médico: “Dr. Silva”. Também indica doutor acadêmico: “doutor em física”."
    },
    "antonyms": [],
    "forms": [
@@ -14467,14 +14542,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "principal",
-   "alternatives": [],
+   "alternatives": [
+    "central",
+    "primário"
+   ],
    "study_tier": "cedo",
    "study_priority": 1052,
-   "description": "O mais importante.",
+   "description": "O mais importante: “o motivo principal”. Também indica a parte central: “entrada principal”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O mais importante."
+    "pt-BR": "O mais importante: “o motivo principal”. Também indica a parte central: “entrada principal”."
    },
    "antonyms": []
   },
@@ -14661,15 +14739,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "brigar",
    "alternatives": [
-    "lutar"
+    "lutar",
+    "discutir"
    ],
    "study_tier": "cedo",
    "study_priority": 1055,
    "user_hint": "",
-   "description": "Tentar machucar alguém; discutir.",
+   "description": "Tentar machucar alguém: “brigar na rua”. Também indica discutir: “brigar com o irmão” e lutar por algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Tentar machucar alguém; discutir."
+    "pt-BR": "Tentar machucar alguém: “brigar na rua”. Também indica discutir: “brigar com o irmão” e lutar por algo."
    },
    "antonyms": []
   },
@@ -15242,14 +15321,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "especialmente",
-   "alternatives": [],
+   "alternatives": [
+    "em especial",
+    "principalmente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1066,
-   "description": "Mais que o normal; em particular.",
+   "description": "Mais que o normal: “especialmente bom”. Também destaca um caso: “em especial”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mais que o normal; em particular."
+    "pt-BR": "Mais que o normal: “especialmente bom”. Também destaca um caso: “em especial”."
    },
    "antonyms": []
   },
@@ -15294,14 +15376,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "incluir",
-   "alternatives": [],
+   "alternatives": [
+    "abranger",
+    "conter"
+   ],
    "study_tier": "cedo",
    "study_priority": 1067,
    "user_hint": "",
-   "description": "Ter como parte de algo.",
+   "description": "Ter como parte de algo: “o preço inclui café”. Também indica colocar dentro: “incluir um nome”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ter como parte de algo."
+    "pt-BR": "Ter como parte de algo: “o preço inclui café”. Também indica colocar dentro: “incluir um nome”."
    },
    "antonyms": []
   },
@@ -17883,15 +17968,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "fornecer",
    "alternatives": [
-    "oferecer"
+    "oferecer",
+    "suprir"
    ],
    "study_tier": "cedo",
    "study_priority": 1073,
    "user_hint": "",
-   "description": "Dar algo de que se precisa.",
+   "description": "Dar algo de que se precisa: “fornecer comida”. Também indica cuidar do necessário.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dar algo de que se precisa."
+    "pt-BR": "Dar algo de que se precisa: “fornecer comida”. Também indica cuidar do necessário."
    },
    "antonyms": []
   },
@@ -18913,14 +18999,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "central",
-   "alternatives": [],
+   "alternatives": [
+    "do centro",
+    "principal"
+   ],
    "study_tier": "cedo",
    "study_priority": 1091,
    "user_hint": "",
-   "description": "No meio; principal.",
+   "description": "No meio: “a praça central”. Também indica o mais importante: “ideia central”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "No meio; principal."
+    "pt-BR": "No meio: “a praça central”. Também indica o mais importante: “ideia central”."
    },
    "antonyms": []
   },
@@ -18941,17 +19030,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "para frente",
-   "alternatives": [],
+   "alternatives": [
+    "adiante",
+    "à frente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1092,
-   "description": "Em direção à frente.",
+   "description": "Em direção à frente: “andar para frente”. Também indica avanço: “daqui para frente”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003183"
    ],
    "nativeExplain": {
-    "pt-BR": "Em direção à frente."
+    "pt-BR": "Em direção à frente: “andar para frente”. Também indica avanço: “daqui para frente”."
    }
   },
   {
@@ -19228,15 +19320,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "vários",
    "alternatives": [
-    "diversos"
+    "diversos",
+    "diferentes"
    ],
    "study_tier": "cedo",
    "study_priority": 1096,
    "user_hint": "",
-   "description": "Vários e diferentes.",
+   "description": "Vários e diferentes: “vários tipos”. Em textos formais, “diversos”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Vários e diferentes."
+    "pt-BR": "Vários e diferentes: “vários tipos”. Em textos formais, “diversos”."
    },
    "antonyms": []
   },
@@ -19782,14 +19875,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "completo",
-   "alternatives": [],
+   "alternatives": [
+    "inteiro",
+    "pleno"
+   ],
    "study_tier": "cedo",
    "study_priority": 1103,
    "user_hint": "",
-   "description": "Terminado; com todas as partes.",
+   "description": "Terminado, com todas as partes: “uma lista completa”. Também indica total: “um fracasso completo”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Terminado; com todas as partes."
+    "pt-BR": "Terminado, com todas as partes: “uma lista completa”. Também indica total: “um fracasso completo”."
    },
    "antonyms": []
   },
@@ -22252,14 +22348,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "em direção a",
-   "alternatives": [],
+   "alternatives": [
+    "rumo a",
+    "para"
+   ],
    "study_tier": "cedo",
    "study_priority": 1106,
    "user_hint": "",
-   "description": "Na direção de.",
+   "description": "Na direção de: “andar em direção ao mar”. Também indica atitude: “gentil com os outros”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Na direção de."
+    "pt-BR": "Na direção de: “andar em direção ao mar”. Também indica atitude: “gentil com os outros”."
    },
    "antonyms": []
   },
@@ -23021,14 +23120,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "recente",
-   "alternatives": [],
+   "alternatives": [
+    "novo",
+    "de pouco tempo"
+   ],
    "study_tier": "cedo",
    "study_priority": 1121,
    "user_hint": "",
-   "description": "Que aconteceu há pouco tempo.",
+   "description": "Que aconteceu há pouco tempo: “uma notícia recente”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que aconteceu há pouco tempo."
+    "pt-BR": "Que aconteceu há pouco tempo: “uma notícia recente”."
    },
    "antonyms": []
   },
@@ -23205,14 +23307,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "permitido",
-   "alternatives": [],
+   "alternatives": [
+    "autorizado",
+    "liberado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1122,
    "user_hint": "",
-   "description": "Que é permitido.",
+   "description": "O que é permitido: “entrada permitida”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que é permitido."
+    "pt-BR": "O que é permitido: “entrada permitida”."
    },
    "antonyms": []
   },
@@ -23325,14 +23430,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "casado",
-   "alternatives": [],
+   "alternatives": [
+    "unido",
+    "em matrimônio"
+   ],
    "study_tier": "cedo",
    "study_priority": 1125,
-   "description": "Que tem marido ou esposa.",
+   "description": "Que tem marido ou esposa: “um homem casado”. Também indica a união de duas pessoas.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que tem marido ou esposa."
+    "pt-BR": "Que tem marido ou esposa: “um homem casado”. Também indica a união de duas pessoas."
    },
    "antonyms": [],
    "forms": [
@@ -23568,14 +23676,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "específico",
-   "alternatives": [],
+   "alternatives": [
+    "particular",
+    "preciso"
+   ],
    "study_tier": "cedo",
    "study_priority": 1131,
    "user_hint": "",
-   "description": "Particular; exato.",
+   "description": "Particular, exato: “um objetivo específico”. Também indica algo próprio de um caso.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Particular; exato."
+    "pt-BR": "Particular, exato: “um objetivo específico”. Também indica algo próprio de um caso."
    },
    "antonyms": []
   },
@@ -23591,15 +23702,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "padrão",
    "alternatives": [
-    "normal"
+    "normal",
+    "usual"
    ],
    "study_tier": "cedo",
    "study_priority": 1132,
    "user_hint": "",
-   "description": "Normal; comum.",
+   "description": "Normal, comum: “tamanho padrão”. Também indica modelo de referência: “seguir o padrão”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Normal; comum."
+    "pt-BR": "Normal, comum: “tamanho padrão”. Também indica modelo de referência: “seguir o padrão”."
    },
    "antonyms": []
   },
@@ -23784,14 +23896,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "criar",
-   "alternatives": [],
+   "alternatives": [
+    "produzir",
+    "inventar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1136,
    "user_hint": "",
-   "description": "Fazer algo novo.",
+   "description": "Fazer algo novo: “criar uma música”. Também indica criar filhos ou animais.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Fazer algo novo."
+    "pt-BR": "Fazer algo novo: “criar uma música”. Também indica criar filhos ou animais."
    },
    "antonyms": []
   },
@@ -23862,15 +23977,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "exceto",
    "alternatives": [
-    "menos"
+    "menos",
+    "salvo"
    ],
    "study_tier": "cedo",
    "study_priority": 1138,
-   "description": "Sem incluir.",
+   "description": "Sem incluir: “todos, exceto ele”. Também indica o que fica de fora.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sem incluir."
+    "pt-BR": "Sem incluir: “todos, exceto ele”. Também indica o que fica de fora."
    },
    "antonyms": []
   },
@@ -23944,14 +24060,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "limitado",
-   "alternatives": [],
+   "alternatives": [
+    "restrito",
+    "reduzido"
+   ],
    "study_tier": "cedo",
    "study_priority": 1139,
    "user_hint": "",
-   "description": "Pequeno em quantidade; com limites.",
+   "description": "Pequeno em quantidade: “tempo limitado”. Também indica com limites impostos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pequeno em quantidade; com limites."
+    "pt-BR": "Pequeno em quantidade: “tempo limitado”. Também indica com limites impostos."
    },
    "antonyms": []
   },
@@ -24048,15 +24167,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "obrigatório",
    "alternatives": [
-    "necessário"
+    "necessário",
+    "exigido"
    ],
    "study_tier": "cedo",
    "study_priority": 1142,
    "user_hint": "",
-   "description": "Necessário.",
+   "description": "Necessário: “documento obrigatório”. Também indica o que a regra exige.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Necessário."
+    "pt-BR": "Necessário: “documento obrigatório”. Também indica o que a regra exige."
    },
    "antonyms": []
   },
@@ -24215,15 +24335,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "via",
    "alternatives": [
-    "por meio de"
+    "por meio de",
+    "passando por"
    ],
    "study_tier": "cedo",
    "study_priority": 1143,
    "user_hint": "",
-   "description": "Passando por um lugar ou usando algo.",
+   "description": "Passando por um lugar: “via Lisboa”. Também indica meio: “via e-mail”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Passando por um lugar ou usando algo."
+    "pt-BR": "Passando por um lugar: “via Lisboa”. Também indica meio: “via e-mail”."
    },
    "antonyms": []
   },
@@ -24324,15 +24445,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "permitir",
    "alternatives": [
-    "deixar"
+    "deixar",
+    "autorizar"
    ],
    "study_tier": "cedo",
    "study_priority": 1147,
    "user_hint": "",
-   "description": "Deixar alguém fazer algo.",
+   "description": "Deixar alguém fazer algo: “permitir a entrada”. Também indica tornar possível.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Deixar alguém fazer algo."
+    "pt-BR": "Deixar alguém fazer algo: “permitir a entrada”. Também indica tornar possível."
    },
    "antonyms": []
   },
@@ -24535,15 +24657,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "duplo",
    "alternatives": [
-    "dobrado"
+    "dobrado",
+    "dobro"
    ],
    "study_tier": "cedo",
    "study_priority": 1150,
    "user_hint": "",
-   "description": "Duas vezes mais; para duas pessoas.",
+   "description": "Duas vezes mais: “café duplo”. Também indica para duas pessoas: “quarto duplo”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Duas vezes mais; para duas pessoas."
+    "pt-BR": "Duas vezes mais: “café duplo”. Também indica para duas pessoas: “quarto duplo”."
    },
    "antonyms": []
   },
@@ -24888,14 +25011,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ocidental",
-   "alternatives": [],
+   "alternatives": [
+    "do oeste"
+   ],
    "study_tier": "cedo",
    "study_priority": 1156,
    "user_hint": "",
-   "description": "Do oeste.",
+   "description": "Do oeste: “o lado ocidental”. Também indica a cultura ou os países do Ocidente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Do oeste."
+    "pt-BR": "Do oeste: “o lado ocidental”. Também indica a cultura ou os países do Ocidente."
    },
    "antonyms": [
     "en:000001682"
@@ -24996,15 +25121,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "certamente",
    "alternatives": [
-    "com certeza"
+    "com certeza",
+    "claro"
    ],
    "study_tier": "cedo",
    "study_priority": 1157,
-   "description": "Sem dúvida; claro.",
+   "description": "Sem dúvida: “certamente vou”. Também indica concordância educada: “certamente!”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sem dúvida; claro."
+    "pt-BR": "Sem dúvida: “certamente vou”. Também indica concordância educada: “certamente!”."
    },
    "antonyms": []
   },
@@ -25019,14 +25145,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "completamente",
-   "alternatives": [],
+   "alternatives": [
+    "totalmente",
+    "inteiramente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1158,
    "user_hint": "",
-   "description": "Totalmente.",
+   "description": "Totalmente: “completamente diferente”. Também reforça: “completamente errado”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Totalmente."
+    "pt-BR": "Totalmente: “completamente diferente”. Também reforça: “completamente errado”."
    },
    "antonyms": []
   },
@@ -25148,14 +25277,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "apesar de",
-   "alternatives": [],
+   "alternatives": [
+    "mesmo com",
+    "não obstante"
+   ],
    "study_tier": "cedo",
    "study_priority": 1160,
    "user_hint": "",
-   "description": "Mesmo com algo ruim.",
+   "description": "Mesmo com algo ruim: “apesar da chuva”. Também indica contraste.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mesmo com algo ruim."
+    "pt-BR": "Mesmo com algo ruim: “apesar da chuva”. Também indica contraste."
    },
    "antonyms": []
   },
@@ -25171,15 +25303,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "feminino",
    "alternatives": [
-    "fêmea"
+    "fêmea",
+    "de mulher"
    ],
    "study_tier": "cedo",
    "study_priority": 1161,
    "user_hint": "",
-   "description": "Do sexo que pode ter filhotes ou bebês.",
+   "description": "Do sexo que pode ter filhotes: “um animal fêmea”. Também indica o gênero feminino.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Do sexo que pode ter filhotes ou bebês."
+    "pt-BR": "Do sexo que pode ter filhotes: “um animal fêmea”. Também indica o gênero feminino."
    },
    "antonyms": []
   },
@@ -25195,15 +25328,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "focar",
    "alternatives": [
-    "concentrar-se"
+    "concentrar-se",
+    "centralizar"
    ],
    "study_tier": "cedo",
    "study_priority": 1162,
    "user_hint": "",
-   "description": "Dar toda a atenção a algo.",
+   "description": "Dar toda a atenção a algo: “focar no estudo”. Também indica ajustar a nitidez de uma imagem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dar toda a atenção a algo."
+    "pt-BR": "Dar toda a atenção a algo: “focar no estudo”. Também indica ajustar a nitidez de uma imagem."
    },
    "antonyms": []
   },
@@ -25359,15 +25493,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "entrar (em)",
    "alternatives": [
-    "juntar-se"
+    "juntar-se",
+    "unir"
    ],
    "study_tier": "cedo",
    "study_priority": 1163,
    "user_hint": "",
-   "description": "Tornar-se membro; ligar.",
+   "description": "Tornar-se membro: “entrar no clube”. Também indica ligar: “unir dois fios”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Tornar-se membro; ligar."
+    "pt-BR": "Tornar-se membro: “entrar no clube”. Também indica ligar: “unir dois fios”."
    },
    "antonyms": []
   },
@@ -25468,14 +25603,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quase",
-   "alternatives": [],
+   "alternatives": [
+    "por pouco",
+    "praticamente"
+   ],
    "study_tier": "cedo",
    "study_priority": 1164,
-   "description": "Por pouco; quase.",
+   "description": "Por pouco: “quase caí”. Também indica quantidade próxima: “quase dez”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Por pouco; quase."
+    "pt-BR": "Por pouco: “quase caí”. Também indica quantidade próxima: “quase dez”."
    },
    "antonyms": []
   },
@@ -25517,14 +25655,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "anterior",
-   "alternatives": [],
+   "alternatives": [
+    "precedente",
+    "passado"
+   ],
    "study_tier": "cedo",
    "study_priority": 1165,
-   "description": "Que veio antes.",
+   "description": "Que veio antes: “o capítulo anterior”. Também indica o que existia antes: “experiência anterior”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que veio antes."
+    "pt-BR": "Que veio antes: “o capítulo anterior”. Também indica o que existia antes: “experiência anterior”."
    },
    "antonyms": []
   },
@@ -25715,14 +25856,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "considerar",
-   "alternatives": [],
+   "alternatives": [
+    "avaliar",
+    "ponderar"
+   ],
    "study_tier": "cedo",
    "study_priority": 1170,
    "user_hint": "",
-   "description": "Pensar com cuidado.",
+   "description": "Pensar com cuidado: “considerar a proposta”. Também indica ter em conta: “considerar o risco”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pensar com cuidado."
+    "pt-BR": "Pensar com cuidado: “considerar a proposta”. Também indica ter em conta: “considerar o risco”."
    },
    "antonyms": []
   },
@@ -71439,17 +71583,20 @@
    "kind": "word",
    "description_en": "Having a good flavor.",
    "text": "gostoso",
-   "alternatives": [],
+   "alternatives": [
+    "saboroso",
+    "delicioso"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 752,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Com bom sabor.",
+   "description": "Com bom sabor: “um bolo gostoso”. Também indica algo agradável: “uma conversa gostosa”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Com bom sabor."
+    "pt-BR": "Com bom sabor: “um bolo gostoso”. Também indica algo agradável: “uma conversa gostosa”."
    },
    "level": "A2",
    "antonyms": []
@@ -71771,17 +71918,19 @@
    "kind": "word",
    "description_en": "To notice something with the nose.",
    "text": "cheirar",
-   "alternatives": [],
+   "alternatives": [
+    "farejar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 762,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Perceber algo com o nariz.",
+   "description": "Perceber o odor com o nariz: “cheirar uma flor”. Também significa exalar odor: “cheira bem” e desconfiar: “cheirar problema”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Perceber algo com o nariz."
+    "pt-BR": "Perceber o odor com o nariz: “cheirar uma flor”. Também significa exalar odor: “cheira bem” e desconfiar: “cheirar problema”."
    },
    "level": "A2",
    "antonyms": []
@@ -74496,17 +74645,20 @@
    "kind": "word",
    "description_en": "To go up something using hands and feet.",
    "text": "escalar",
-   "alternatives": [],
+   "alternatives": [
+    "subir",
+    "trepar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 838,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Subir em algo usando mãos e pés.",
+   "description": "Subir usando mãos e pés: “escalar uma montanha”. Também significa subir de posição: “escalar na carreira”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Subir em algo usando mãos e pés."
+    "pt-BR": "Subir usando mãos e pés: “escalar uma montanha”. Também significa subir de posição: “escalar na carreira”."
    },
    "level": "A2",
    "antonyms": []
@@ -74673,17 +74825,19 @@
    "kind": "word",
    "description_en": "To cook in an oven.",
    "text": "assar",
-   "alternatives": [],
+   "alternatives": [
+    "cozer no forno"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 839,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Cozinhar no forno.",
+   "description": "Cozinhar no forno: “assar pão”. Também indica cozinhar carne ou batata no calor seco.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Cozinhar no forno."
+    "pt-BR": "Cozinhar no forno: “assar pão”. Também indica cozinhar carne ou batata no calor seco."
    },
    "level": "A2",
    "antonyms": []
@@ -74695,17 +74849,19 @@
    "kind": "word",
    "description_en": "To cook in hot oil.",
    "text": "fritar",
-   "alternatives": [],
+   "alternatives": [
+    "dourar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 840,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Cozinhar em óleo quente.",
+   "description": "Cozinhar em óleo quente: “fritar ovo”. Também indica preparar bolinhos e batatas dessa forma.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Cozinhar em óleo quente."
+    "pt-BR": "Cozinhar em óleo quente: “fritar ovo”. Também indica preparar bolinhos e batatas dessa forma."
    },
    "level": "A2",
    "antonyms": []
@@ -74785,17 +74941,19 @@
    "kind": "word",
    "description_en": "To clean the floor with a broom.",
    "text": "varrer",
-   "alternatives": [],
+   "alternatives": [
+    "limpar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 842,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Limpar o chão com uma vassoura.",
+   "description": "Limpar o chão com vassoura: “varrer a casa”. Também indica juntar sujeira num canto.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Limpar o chão com uma vassoura."
+    "pt-BR": "Limpar o chão com vassoura: “varrer a casa”. Também indica juntar sujeira num canto."
    },
    "level": "A2",
    "antonyms": []
@@ -84406,17 +84564,20 @@
    "kind": "word",
    "description_en": "Showing courage.",
    "text": "corajoso",
-   "alternatives": [],
+   "alternatives": [
+    "valente",
+    "destemido"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 896,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Que mostra coragem.",
+   "description": "Que mostra coragem: “uma pessoa corajosa”. Também vale para atos e decisões.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que mostra coragem."
+    "pt-BR": "Que mostra coragem: “uma pessoa corajosa”. Também vale para atos e decisões."
    },
    "level": "C1",
    "antonyms": [
@@ -84592,17 +84753,20 @@
    "kind": "word",
    "description_en": "Not wanting to work.",
    "text": "preguiçoso",
-   "alternatives": [],
+   "alternatives": [
+    "molenga",
+    "indolente"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 897,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Que não quer trabalhar.",
+   "description": "Que não quer trabalhar ou se esforçar: “um aluno preguiçoso”. Também indica momento de moleza.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que não quer trabalhar."
+    "pt-BR": "Que não quer trabalhar ou se esforçar: “um aluno preguiçoso”. Também indica momento de moleza."
    },
    "level": "C1",
    "antonyms": [
