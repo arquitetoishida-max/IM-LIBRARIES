@@ -61095,12 +61095,16 @@
    "study_tier": "cedo",
    "study_priority": 1758,
    "user_hint": "",
-   "description": "In my own opinion; in person.",
+   "description": "In my own opinion: \"personally, I agree\". Also means in person: \"deliver it personally\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "In my own opinion; in person."
+    "en": "In my own opinion: \"personally, I agree\". Also means in person: \"deliver it personally\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "in person",
+    "for my part"
+   ]
   },
   {
    "id": "en:000002600",
@@ -61462,12 +61466,16 @@
    "study_tier": "cedo",
    "study_priority": 1767,
    "user_hint": "",
-   "description": "In the end.",
+   "description": "In the end: \"ultimately, he left\". Also means at the most basic level.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "In the end."
+    "en": "In the end: \"ultimately, he left\". Also means at the most basic level."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "finally",
+    "in the end"
+   ]
   },
   {
    "id": "en:000002613",
@@ -61482,12 +61490,16 @@
    "study_tier": "cedo",
    "study_priority": 1768,
    "user_hint": "",
-   "description": "Different from.",
+   "description": "Different from: \"unlike me\". Also means not typical of: \"unlike him\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Different from."
+    "en": "Different from: \"unlike me\". Also means not typical of: \"unlike him\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "different from",
+    "not like"
+   ]
   },
   {
    "id": "en:000002614",
@@ -61861,11 +61873,11 @@
    "part_of_speech": "v",
    "study_tier": "cedo",
    "study_priority": 1776,
-   "description": "To say what something is like.",
+   "description": "To say what something is like: \"describe a house\". Also means to draw or trace a shape.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To say what something is like."
+    "en": "To say what something is like: \"describe a house\". Also means to draw or trace a shape."
    },
    "antonyms": [],
    "forms": [
@@ -61898,6 +61910,10 @@
      "text": "describing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "tell about",
+    "depict"
    ]
   },
   {
@@ -61936,12 +61952,16 @@
    "study_tier": "cedo",
    "study_priority": 1777,
    "user_hint": "",
-   "description": "Only for some people.",
+   "description": "Only for some people: \"an exclusive club\". Also means only one source: \"exclusive news\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Only for some people."
+    "en": "Only for some people: \"an exclusive club\". Also means only one source: \"exclusive news\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "private",
+    "limited"
+   ]
   },
   {
    "id": "en:000002637",
@@ -62010,14 +62030,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "mais formal",
-    "en": "Often."
+    "en": "Often: \"visit frequently\". Also means at short intervals."
    },
    "study_tier": "cedo",
    "study_priority": 1779,
-   "description": "Often.",
+   "description": "Often: \"visit frequently\". Also means at short intervals.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "often",
+    "regularly"
+   ]
   },
   {
    "id": "en:000002640",
@@ -62072,12 +62096,16 @@
    "study_tier": "cedo",
    "study_priority": 1782,
    "user_hint": "",
-   "description": "It is hoped that.",
+   "description": "It is hoped that: \"hopefully it will not rain\". Also used as a wish: \"hopefully!\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "It is hoped that."
+    "en": "It is hoped that: \"hopefully it will not rain\". Also used as a wish: \"hopefully!\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "let's hope",
+    "with luck"
+   ]
   },
   {
    "id": "en:000002643",
@@ -62092,10 +62120,10 @@
    "study_tier": "cedo",
    "study_priority": 1783,
    "user_hint": "",
-   "description": "To recognize who or what someone is.",
+   "description": "To recognize who or what someone is: \"identify a thief\". Also means to link: \"identify with\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To recognize who or what someone is."
+    "en": "To recognize who or what someone is: \"identify a thief\". Also means to link: \"identify with\"."
    },
    "antonyms": [],
    "forms": [
@@ -62127,6 +62155,10 @@
      "text": "identifying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "recognize",
+    "name"
    ]
   },
   {
@@ -62452,12 +62484,16 @@
    "study_tier": "cedo",
    "study_priority": 1790,
    "user_hint": "",
-   "description": "Very serious.",
+   "description": "Very serious: \"a severe storm\". Also means strict: \"a severe teacher\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Very serious."
+    "en": "Very serious: \"a severe storm\". Also means strict: \"a severe teacher\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "serious",
+    "harsh"
+   ]
   },
   {
    "id": "en:000002663",
@@ -62471,12 +62507,12 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "achar provável",
-    "en": "To think something is probably true."
+    "en": "To think something is probably true: \"I suppose so\". Also means to assume: \"suppose he comes\"."
    },
    "study_tier": "cedo",
    "study_priority": 1791,
    "user_hint": "",
-   "description": "To think something is probably true.",
+   "description": "To think something is probably true: \"I suppose so\". Also means to assume: \"suppose he comes\".",
    "novrev_status": "reviewed",
    "antonyms": [],
    "forms": [
@@ -62508,6 +62544,10 @@
      "text": "supposing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "assume",
+    "guess"
    ]
   },
   {
@@ -62618,10 +62658,10 @@
    "study_tier": "cedo",
    "study_priority": 1794,
    "user_hint": "",
-   "description": "To take someone to the police.",
+   "description": "To take someone to the police: \"arrest a thief\". Also means to stop: \"arrest growth\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To take someone to the police."
+    "en": "To take someone to the police: \"arrest a thief\". Also means to stop: \"arrest growth\"."
    },
    "antonyms": [],
    "forms": [
@@ -62654,6 +62694,10 @@
      "text": "arresting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "detain",
+    "catch"
    ]
   },
   {
@@ -62669,10 +62713,10 @@
    "study_tier": "cedo",
    "study_priority": 1795,
    "user_hint": "",
-   "description": "To go to an event or school.",
+   "description": "To go to an event or school: \"attend class\". Also means to take care of: \"attend to a guest\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To go to an event or school."
+    "en": "To go to an event or school: \"attend class\". Also means to take care of: \"attend to a guest\"."
    },
    "antonyms": [],
    "forms": [
@@ -62704,6 +62748,10 @@
      "text": "attending",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "go to",
+    "be present at"
    ]
   },
   {
@@ -62719,10 +62767,10 @@
    "study_tier": "cedo",
    "study_priority": 1796,
    "user_hint": "",
-   "description": "To forbid officially.",
+   "description": "To forbid officially: \"ban smoking\". Also names the rule itself.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To forbid officially."
+    "en": "To forbid officially: \"ban smoking\". Also names the rule itself."
    },
    "antonyms": [],
    "forms": [
@@ -62754,6 +62802,10 @@
      "text": "banning",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "forbid",
+    "prohibit"
    ]
   },
   {
@@ -62768,14 +62820,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "genial; muito inteligente",
-    "en": "Very clever or very good."
+    "en": "Very clever or very good: \"a brilliant idea\". Also means very bright: \"brilliant light\"."
    },
    "study_tier": "cedo",
    "study_priority": 1797,
    "user_hint": "",
-   "description": "Very clever or very good.",
+   "description": "Very clever or very good: \"a brilliant idea\". Also means very bright: \"brilliant light\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "clever",
+    "excellent"
+   ]
   },
   {
    "id": "en:000002676",
@@ -62996,10 +63052,10 @@
    "study_tier": "cedo",
    "study_priority": 1801,
    "user_hint": "",
-   "description": "To bring goods to someone.",
+   "description": "To bring goods to someone: \"deliver a parcel\". Also means to give a speech or to keep a promise.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To bring goods to someone."
+    "en": "To bring goods to someone: \"deliver a parcel\". Also means to give a speech or to keep a promise."
    },
    "antonyms": [],
    "forms": [
@@ -63032,6 +63088,10 @@
      "text": "delivering",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "bring",
+    "hand over"
    ]
   },
   {
@@ -63450,13 +63510,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 1810,
-   "description": "Not far away.",
+   "description": "Not far away: \"a shop nearby\". Also describes places close to you.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not far away."
+    "en": "Not far away: \"a shop nearby\". Also describes places close to you."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "close",
+    "close by"
+   ]
   },
   {
    "id": "en:000002705",
@@ -63809,12 +63873,16 @@
    "study_tier": "cedo",
    "study_priority": 1816,
    "user_hint": "",
-   "description": "A little.",
+   "description": "A little: \"somewhat tired\". Also softens a statement.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A little."
+    "en": "A little: \"somewhat tired\". Also softens a statement."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "a little",
+    "rather"
+   ]
   },
   {
    "id": "en:000002724",
@@ -63862,14 +63930,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "com certeza (ênfase)",
-    "en": "Certainly."
+    "en": "Certainly: \"surely you know\". Also expresses doubt in questions: \"surely not?\"."
    },
    "study_tier": "cedo",
    "study_priority": 1817,
-   "description": "Certainly.",
+   "description": "Certainly: \"surely you know\". Also expresses doubt in questions: \"surely not?\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "certainly",
+    "of course"
+   ]
   },
   {
    "id": "en:000002726",
@@ -63932,12 +64004,16 @@
    "study_tier": "cedo",
    "study_priority": 1818,
    "user_hint": "",
-   "description": "Complete; total.",
+   "description": "Complete or total: \"absolute truth\". Also means without limits: \"absolute power\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Complete; total."
+    "en": "Complete or total: \"absolute truth\". Also means without limits: \"absolute power\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "total",
+    "complete"
+   ]
   },
   {
    "id": "en:000002730",
@@ -64147,12 +64223,16 @@
    "study_tier": "cedo",
    "study_priority": 1824,
    "user_hint": "",
-   "description": "Not changing.",
+   "description": "Not changing: \"a constant speed\". Also means happening again and again: \"constant noise\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not changing."
+    "en": "Not changing: \"a constant speed\". Also means happening again and again: \"constant noise\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "steady",
+    "continual"
+   ]
   },
   {
    "id": "en:000002743",
@@ -64277,12 +64357,16 @@
    "study_tier": "cedo",
    "study_priority": 1826,
    "user_hint": "",
-   "description": "Making you feel excited.",
+   "description": "Making you feel excited: \"an exciting game\". Also describes new and thrilling things.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Making you feel excited."
+    "en": "Making you feel excited: \"an exciting game\". Also describes new and thrilling things."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "thrilling",
+    "lively"
+   ]
   },
   {
    "id": "en:000002750",
@@ -64439,10 +64523,10 @@
    "study_tier": "cedo",
    "study_priority": 1831,
    "user_hint": "",
-   "description": "To be in charge of something.",
+   "description": "To be in charge of something: \"manage a shop\". Also means to succeed in doing: \"I managed to finish\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To be in charge of something."
+    "en": "To be in charge of something: \"manage a shop\". Also means to succeed in doing: \"I managed to finish\"."
    },
    "antonyms": [],
    "forms": [
@@ -64475,6 +64559,10 @@
      "text": "managing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "run",
+    "handle"
    ]
   },
   {
@@ -65067,12 +65155,16 @@
    "study_tier": "cedo",
    "study_priority": 1840,
    "user_hint": "",
-   "description": "Carefully; very near.",
+   "description": "Carefully or very near: \"watch closely\". Also means in a close relationship.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Carefully; very near."
+    "en": "Carefully or very near: \"watch closely\". Also means in a close relationship."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "carefully",
+    "near"
+   ]
   },
   {
    "id": "en:000002784",
@@ -65220,12 +65312,16 @@
    "study_tier": "cedo",
    "study_priority": 1843,
    "user_hint": "",
-   "description": "Almost not.",
+   "description": "Almost not: \"hardly ever\". Also means with difficulty: \"hardly breathe\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Almost not."
+    "en": "Almost not: \"hardly ever\". Also means with difficulty: \"hardly breathe\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "barely",
+    "scarcely"
+   ]
   },
   {
    "id": "en:000002793",
@@ -65605,12 +65701,12 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "reagir, responder",
-    "en": "To answer or react."
+    "en": "To answer or react: \"respond to a letter\". Also means to react to treatment."
    },
    "study_tier": "cedo",
    "study_priority": 1852,
    "user_hint": "",
-   "description": "To answer or react.",
+   "description": "To answer or react: \"respond to a letter\". Also means to react to treatment.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "forms": [
@@ -65642,6 +65738,10 @@
      "text": "responding",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "answer",
+    "react"
    ]
   },
   {
@@ -65697,13 +65797,17 @@
    "study_tier": "cedo",
    "study_priority": 1855,
    "user_hint": "",
-   "description": "Second in order; less important.",
+   "description": "Second in order or less important: \"secondary school\". Also means a side effect.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Second in order; less important."
+    "en": "Second in order or less important: \"secondary school\". Also means a side effect."
    },
    "antonyms": [
     "en:000001369"
+   ],
+   "alternatives": [
+    "lower",
+    "second"
    ]
   },
   {
@@ -65743,13 +65847,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 1857,
-   "description": "In some way.",
+   "description": "In some way: \"somehow, we won\". Also means for an unknown reason.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "In some way."
+    "en": "In some way: \"somehow, we won\". Also means for an unknown reason."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "in some way",
+    "one way or another"
+   ]
   },
   {
    "id": "en:000002822",
@@ -65814,14 +65922,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "definitivo, supremo",
-    "en": "Final; the best."
+    "en": "Final, or the best: \"the ultimate goal\". Also means the greatest of its kind."
    },
    "study_tier": "cedo",
    "study_priority": 1859,
    "user_hint": "",
-   "description": "Final; the best.",
+   "description": "Final, or the best: \"the ultimate goal\". Also means the greatest of its kind.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "final",
+    "best"
+   ]
   },
   {
    "id": "en:000002828",
@@ -65909,12 +66021,16 @@
    "study_tier": "cedo",
    "study_priority": 1861,
    "user_hint": "",
-   "description": "By itself, without someone doing it.",
+   "description": "By itself: \"the door opens automatically\". Also means without thinking: \"react automatically\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "By itself, without someone doing it."
+    "en": "By itself: \"the door opens automatically\". Also means without thinking: \"react automatically\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "by itself",
+    "mechanically"
+   ]
   },
   {
    "id": "en:000002835",
@@ -66112,13 +66228,13 @@
    "study_tier": "cedo",
    "study_priority": 1867,
    "user_hint": "",
-   "description": "To damage completely.",
+   "description": "To damage completely: \"destroy a house\". Also means to end: \"destroy hope\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000932"
    ],
    "nativeExplain": {
-    "en": "To damage completely."
+    "en": "To damage completely: \"destroy a house\". Also means to end: \"destroy hope\"."
    },
    "forms": [
     {
@@ -66150,6 +66266,10 @@
      "text": "destroying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "ruin",
+    "wreck"
    ]
   },
   {
@@ -66165,12 +66285,16 @@
    "study_tier": "cedo",
    "study_priority": 1868,
    "user_hint": "",
-   "description": "Having promised to marry.",
+   "description": "Having promised to marry: \"an engaged couple\". Also means busy: \"the line is engaged\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Having promised to marry."
+    "en": "Having promised to marry: \"an engaged couple\". Also means busy: \"the line is engaged\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "betrothed",
+    "busy"
+   ]
   },
   {
    "id": "en:000002850",
@@ -66258,10 +66382,10 @@
    "study_tier": "cedo",
    "study_priority": 1871,
    "user_hint": "",
-   "description": "To take quickly.",
+   "description": "To take quickly: \"grab a bag\". Also means to get something fast: \"grab lunch\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To take quickly."
+    "en": "To take quickly: \"grab a bag\". Also means to get something fast: \"grab lunch\"."
    },
    "antonyms": [],
    "forms": [
@@ -66293,6 +66417,10 @@
      "text": "grabbing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "snatch",
+    "seize"
    ]
   },
   {
@@ -66774,10 +66902,10 @@
    "study_tier": "cedo",
    "study_priority": 1880,
    "user_hint": "",
-   "description": "To stay alive.",
+   "description": "To stay alive: \"survive a crash\". Also means to last: \"the tradition survives\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To stay alive."
+    "en": "To stay alive: \"survive a crash\". Also means to last: \"the tradition survives\"."
    },
    "antonyms": [],
    "forms": [
@@ -66809,6 +66937,10 @@
      "text": "surviving",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "live through",
+    "endure"
    ]
   },
   {
@@ -67108,10 +67240,10 @@
    "study_tier": "cedo",
    "study_priority": 1888,
    "user_hint": "",
-   "description": "To win against.",
+   "description": "To win against: \"defeat a rival\". Also names the loss itself.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To win against."
+    "en": "To win against: \"defeat a rival\". Also names the loss itself."
    },
    "antonyms": [],
    "forms": [
@@ -67143,6 +67275,10 @@
      "text": "defeating",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "beat",
+    "overcome"
    ]
   },
   {
@@ -67244,12 +67380,16 @@
    "study_tier": "cedo",
    "study_priority": 1890,
    "user_hint": "",
-   "description": "Completely correct.",
+   "description": "Completely correct: \"the exact time\". Also means precise: \"an exact copy\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Completely correct."
+    "en": "Completely correct: \"the exact time\". Also means precise: \"an exact copy\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "precise",
+    "accurate"
+   ]
   },
   {
    "id": "en:000002902",
@@ -67774,12 +67914,16 @@
    "study_tier": "cedo",
    "study_priority": 1899,
    "user_hint": "",
-   "description": "Showing good judgment.",
+   "description": "Showing good judgment: \"a wise choice\". Also describes an experienced person.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Showing good judgment."
+    "en": "Showing good judgment: \"a wise choice\". Also describes an experienced person."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "sensible",
+    "prudent"
+   ]
   },
   {
    "id": "en:000002934",
@@ -67924,10 +68068,10 @@
    "study_tier": "cedo",
    "study_priority": 1902,
    "user_hint": "",
-   "description": "To have inside.",
+   "description": "To have inside: \"the box contains toys\". Also means to hold back: \"contain anger\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To have inside."
+    "en": "To have inside: \"the box contains toys\". Also means to hold back: \"contain anger\"."
    },
    "antonyms": [],
    "forms": [
@@ -67959,6 +68103,10 @@
      "text": "containing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "hold",
+    "include"
    ]
   },
   {
@@ -68147,14 +68295,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "razoavelmente; de modo justo",
-    "en": "Quite; to some degree."
+    "en": "Quite: \"fairly good\". Also means in a fair way: \"play fairly\"."
    },
    "study_tier": "cedo",
    "study_priority": 1908,
    "user_hint": "",
-   "description": "Quite; to some degree.",
+   "description": "Quite: \"fairly good\". Also means in a fair way: \"play fairly\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "quite",
+    "reasonably"
+   ]
   },
   {
    "id": "en:000002952",
@@ -68252,10 +68404,10 @@
    "study_tier": "cedo",
    "study_priority": 1909,
    "user_hint": "",
-   "description": "To finish school or university.",
+   "description": "To finish school or university: \"graduate in May\". Also means to move up a level.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To finish school or university."
+    "en": "To finish school or university: \"graduate in May\". Also means to move up a level."
    },
    "antonyms": [],
    "forms": [
@@ -68287,6 +68439,10 @@
      "text": "graduating",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "finish school",
+    "complete studies"
    ]
   },
   {
@@ -68350,11 +68506,11 @@
    "class_real": "noun",
    "study_tier": "cedo",
    "study_priority": 1912,
-   "description": "To raise something up.",
+   "description": "To raise something up: \"lift a box\". Also means to remove a ban or to improve a mood.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To raise something up."
+    "en": "To raise something up: \"lift a box\". Also means to remove a ban or to improve a mood."
    },
    "antonyms": [],
    "forms": [
@@ -68386,6 +68542,10 @@
      "text": "lifting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "raise",
+    "hoist"
    ]
   },
   {
@@ -68484,10 +68644,10 @@
    "study_tier": "cedo",
    "study_priority": 1915,
    "user_hint": "",
-   "description": "To work a machine.",
+   "description": "To work a machine: \"operate a crane\". Also means to run a business or to perform surgery.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To work a machine."
+    "en": "To work a machine: \"operate a crane\". Also means to run a business or to perform surgery."
    },
    "antonyms": [],
    "forms": [
@@ -68519,6 +68679,10 @@
      "text": "operating",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "run",
+    "work"
    ]
   },
   {
@@ -68634,12 +68798,12 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "responder (mensagem)",
-    "en": "To answer."
+    "en": "To answer: \"reply to a message\". Also names the answer itself."
    },
    "study_tier": "cedo",
    "study_priority": 1919,
    "user_hint": "",
-   "description": "To answer.",
+   "description": "To answer: \"reply to a message\". Also names the answer itself.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "forms": [
@@ -68671,6 +68835,10 @@
      "text": "replying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "answer",
+    "respond"
    ]
   },
   {
@@ -68687,12 +68855,16 @@
    "study_tier": "cedo",
    "study_priority": 1920,
    "user_hint": "",
-   "description": "\"Get rid of\" = throw away; remove.",
+   "description": "To throw away or remove: \"get rid of old clothes\". Also means to end a problem or an annoying person.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "\"Get rid of\" = throw away; remove."
+    "en": "To throw away or remove: \"get rid of old clothes\". Also means to end a problem or an annoying person."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "throw away",
+    "dump"
+   ]
   },
   {
    "id": "en:000002980",
@@ -69029,13 +69201,17 @@
    "part_of_speech": "adv",
    "study_tier": "cedo",
    "study_priority": 1925,
-   "description": "Almost not.",
+   "description": "Almost not: \"I barely know him\". Also means only just: \"barely enough\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Almost not."
+    "en": "Almost not: \"I barely know him\". Also means only just: \"barely enough\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "hardly",
+    "scarcely"
+   ]
   },
   {
    "id": "en:000002999",
@@ -70907,13 +71083,17 @@
    "part_of_speech": "prep",
    "study_tier": "cedo",
    "study_priority": 1933,
-   "description": "Next to.",
+   "description": "Next to: \"sit beside me\". Also means compared to: \"beside him, I am small\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Next to."
+    "en": "Next to: \"sit beside me\". Also means compared to: \"beside him, I am small\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "next to",
+    "by"
+   ]
   },
   {
    "id": "en:000003098",
@@ -71286,13 +71466,17 @@
    "part_of_speech": "conj",
    "study_tier": "cedo",
    "study_priority": 1943,
-   "description": "Every time that; at any time.",
+   "description": "Every time that: \"whenever I call\". Also means at any time: \"come whenever you like\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Every time that; at any time."
+    "en": "Every time that: \"whenever I call\". Also means at any time: \"come whenever you like\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "every time",
+    "any time"
+   ]
   },
   {
    "id": "en:000003111",
@@ -71796,13 +71980,17 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1950,
-   "description": "Made very cold and hard.",
+   "description": "Made very cold and hard: \"frozen food\". Also means very cold: \"my hands are frozen\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Made very cold and hard."
+    "en": "Made very cold and hard: \"frozen food\". Also means very cold: \"my hands are frozen\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "iced",
+    "chilled"
+   ]
   },
   {
    "id": "en:000003128",
@@ -72155,15 +72343,19 @@
    "part_of_speech": "adj",
    "study_tier": "cedo",
    "study_priority": 1960,
-   "description": "Not tight.",
+   "description": "Not tight: \"loose clothes\". Also means not firmly fixed: \"a loose tooth\", or free: \"let loose\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002610"
    ],
    "nativeExplain": {
-    "en": "Not tight."
-   }
+    "en": "Not tight: \"loose clothes\". Also means not firmly fixed: \"a loose tooth\", or free: \"let loose\"."
+   },
+   "alternatives": [
+    "slack",
+    "baggy"
+   ]
   },
   {
    "id": "en:000003141",
@@ -72702,11 +72894,11 @@
    "part_of_speech": "v",
    "study_tier": "cedo",
    "study_priority": 1968,
-   "description": "To send a file to the internet.",
+   "description": "To send a file to the internet: \"upload a photo\". Also names the file sent.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To send a file to the internet."
+    "en": "To send a file to the internet: \"upload a photo\". Also names the file sent."
    },
    "antonyms": [
     "en:000002068"
@@ -72740,6 +72932,10 @@
      "text": "uploading",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "send",
+    "post"
    ]
   },
   {
@@ -72966,15 +73162,19 @@
    "part_of_speech": "prep",
    "nativeExplain": {
     "pt-BR": "subtração (−)",
-    "en": "Less; the sign (−)."
+    "en": "Less: \"ten minus three\". Also means a bad point (\"a minus\") or below zero: \"minus five degrees\"."
    },
    "study_tier": "cedo",
    "study_priority": 1971,
-   "description": "Less; the sign (−).",
+   "description": "Less: \"ten minus three\". Also means a bad point (\"a minus\") or below zero: \"minus five degrees\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001168"
+   ],
+   "alternatives": [
+    "less",
+    "take away"
    ]
   },
   {
@@ -73752,12 +73952,16 @@
    "study_tier": "cedo",
    "study_priority": 1989,
    "user_hint": "",
-   "description": "Possibly: \"It may rain tomorrow\".",
+   "description": "Shows possibility: \"it may rain\". Also shows permission: \"you may go\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Possibly: \"It may rain tomorrow\"."
+    "en": "Shows possibility: \"it may rain\". Also shows permission: \"you may go\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "might",
+    "can"
+   ]
   },
   {
    "id": "en:000003200",
@@ -78684,17 +78888,20 @@
    "kind": "word",
    "description_en": "To arrange things in order; to tidy up.",
    "text": "organize",
-   "alternatives": [],
+   "alternatives": [
+    "arrange",
+    "tidy"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2003,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To arrange things in order; to tidy up.",
+   "description": "To arrange things in order: \"organize a closet\". Also means to plan an event: \"organize a party\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To arrange things in order; to tidy up."
+    "en": "To arrange things in order: \"organize a closet\". Also means to plan an event: \"organize a party\"."
    },
    "level": "B1",
    "antonyms": [],
@@ -79646,17 +79853,20 @@
    "kind": "word",
    "description_en": "Having little fat on the body.",
    "text": "thin",
-   "alternatives": [],
+   "alternatives": [
+    "slim",
+    "skinny"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2011,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Having little fat on the body.",
+   "description": "With little fat on the body: \"a thin man\". Also means narrow or fine: \"thin paper\", \"thin soup\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Having little fat on the body."
+    "en": "With little fat on the body: \"a thin man\". Also means narrow or fine: \"thin paper\", \"thin soup\"."
    },
    "level": "A2",
    "antonyms": [
@@ -79736,17 +79946,20 @@
    "kind": "word",
    "description_en": "Not smooth to the touch.",
    "text": "rough",
-   "alternatives": [],
+   "alternatives": [
+    "coarse",
+    "uneven"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2014,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Not smooth to the touch.",
+   "description": "Not smooth to the touch: \"rough hands\". Also means not gentle (\"rough play\") or approximate: \"a rough idea\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not smooth to the touch."
+    "en": "Not smooth to the touch: \"rough hands\". Also means not gentle (\"rough play\") or approximate: \"a rough idea\"."
    },
    "level": "A2",
    "antonyms": [
@@ -80555,17 +80768,20 @@
    "kind": "word",
    "description_en": "To tell someone about a danger.",
    "text": "warn",
-   "alternatives": [],
+   "alternatives": [
+    "alert",
+    "caution"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
    "study_priority": 2020,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "To tell someone about a danger.",
+   "description": "To tell someone about a danger: \"warn of a storm\". Also means to give notice: \"warn them to leave\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To tell someone about a danger."
+    "en": "To tell someone about a danger: \"warn of a storm\". Also means to give notice: \"warn them to leave\"."
    },
    "level": "A2",
    "antonyms": [],
