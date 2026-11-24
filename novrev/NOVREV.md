@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–3490 foram percorridas. Retomar na posição 3491, `en:000003070` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–3580 foram percorridas. Retomar na posição 3581, `en:000000211` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -300,6 +300,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 - 51 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 3401–3490; os demais já estavam reservados). Delimitados *expression* (rosto; a frase tem ID próprio) e *swear* (prometer; os palavrões têm ID próprio). Em *Republican* e *high-key*, o japonês passou a 共和党員 e おおっぴらに. As gírias com estado de busca foram revistas pelo sentido; *banger* (`en:000003068`, marcado en-GB) fica para decisão de reserva.
 - Sem dúvida de sentido que exigisse a Kanji Study. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 3491–3580
+
+- 79 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 3491–3580; 11 já reservados). Reservados no XLS por serem regionais: `en:000003076` *the L* (Chicago), `en:000003077` *the T* (Boston), `en:000003082` *brick* (Boston), `en:000003085` *yinz* (Pittsburgh), `en:000003087` *the 405* (Los Angeles) e `en:000003068` *banger* (britânico).
+- Delimitados *depression* (doença), *shoot* (arma), *gang* (criminosos), *free* (grátis) e *soldiers*; em *fuck*, o japonês passou a ファック (くső era igual ao de *shit*). Criados os espelhos `en:000004300` *depression* (econômica: depressão econômica, 不況, 萧条), `en:000004301` *shoot* (chutar, シュートする, 射门) e `en:000004302` *free* (livre, 自由な, 自由).
+- Sem dúvida de sentido que exigisse a Kanji Study. Passaram os testes, o validador do catálogo e as conferências.
 
 ## Registro anterior — 19/11/2026
 
