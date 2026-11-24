@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–3220 foram percorridas. Retomar na posição 3221, `en:000003873` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–3310 foram percorridas. Retomar na posição 3311, `en:000001245` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -283,6 +283,11 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 ### Lote 3131–3220
 
 - 90 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 3131–3220). Texto preservado quase todo. Em *fusion*, ficou o sentido geral de união (a fusão nuclear não tem ID próprio e fica para decisão).
+- Sem dúvida de sentido que exigisse a Kanji Study. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 3221–3310
+
+- 90 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 3221–3310). Texto preservado quase todo. Delimitados *capital* (cidade; a letra maiúscula tem ID próprio) e *stock* (mercadorias; as ações têm ID próprio). Fica para decisão: `en:000001232` e `en:000003986` *commercial* são o mesmo conceito; `en:000000374` e `en:000000652` *hour* também.
 - Sem dúvida de sentido que exigisse a Kanji Study. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
