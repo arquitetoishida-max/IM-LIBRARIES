@@ -42518,13 +42518,17 @@
    "study_tier": "cedo",
    "study_priority": 1407,
    "user_hint": "",
-   "description": "Bad; less than zero.",
+   "description": "Bad or unwanted: \"a negative result\". Also means less than zero (\"negative five\") or showing no disease in a test.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Bad; less than zero."
+    "en": "Bad or unwanted: \"a negative result\". Also means less than zero (\"negative five\") or showing no disease in a test."
    },
    "antonyms": [
     "en:000001075"
+   ],
+   "alternatives": [
+    "bad",
+    "pessimistic"
    ]
   },
   {
@@ -42539,12 +42543,12 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "impedir",
-    "en": "To stop something from happening."
+    "en": "To stop something from happening: \"prevent accidents\". Also means to keep someone from doing something."
    },
    "study_tier": "cedo",
    "study_priority": 1408,
    "user_hint": "",
-   "description": "To stop something from happening.",
+   "description": "To stop something from happening: \"prevent accidents\". Also means to keep someone from doing something.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "forms": [
@@ -42576,6 +42580,10 @@
      "text": "preventing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "stop",
+    "avoid"
    ]
   },
   {
@@ -42672,12 +42680,16 @@
    "study_tier": "cedo",
    "study_priority": 1410,
    "user_hint": "",
-   "description": "Until.",
+   "description": "Until: \"wait till Monday\". Informal short form of \"until\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Until."
+    "en": "Until: \"wait till Monday\". Informal short form of \"until\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "until",
+    "up to"
+   ]
   },
   {
    "id": "en:000001671",
@@ -42737,14 +42749,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "distante um do outro",
-    "en": "Separated by distance."
+    "en": "Separated by distance: \"two miles apart\". Also means in pieces (\"fall apart\") or aside: \"joking apart\"."
    },
    "study_tier": "cedo",
    "study_priority": 1413,
    "user_hint": "",
-   "description": "Separated by distance.",
+   "description": "Separated by distance: \"two miles apart\". Also means in pieces (\"fall apart\") or aside: \"joking apart\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "separate",
+    "in pieces"
+   ]
   },
   {
    "id": "en:000001676",
@@ -42759,12 +42775,16 @@
    "study_tier": "cedo",
    "study_priority": 1414,
    "user_hint": "",
-   "description": "Knowing about something.",
+   "description": "Knowing about something: \"aware of the risk\". Also means paying attention to what is around you.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Knowing about something."
+    "en": "Knowing about something: \"aware of the risk\". Also means paying attention to what is around you."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "conscious",
+    "informed"
+   ]
   },
   {
    "id": "en:000001677",
@@ -42897,13 +42917,17 @@
    "study_tier": "cedo",
    "study_priority": 1415,
    "user_hint": "",
-   "description": "In or from the east.",
+   "description": "In or from the east: \"the eastern coast\". Also describes the culture of the East.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "In or from the east."
+    "en": "In or from the east: \"the eastern coast\". Also describes the culture of the East."
    },
    "antonyms": [
     "en:000001032"
+   ],
+   "alternatives": [
+    "east",
+    "oriental"
    ]
   },
   {
@@ -42919,12 +42943,15 @@
    "study_tier": "cedo",
    "study_priority": 1416,
    "user_hint": "",
-   "description": "Number five in order.",
+   "description": "Number five in order: \"the fifth day\". Also means one of five equal parts.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Number five in order."
+    "en": "Number five in order: \"the fifth day\". Also means one of five equal parts."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "5th"
+   ]
   },
   {
    "id": "en:000001684",
@@ -43086,10 +43113,10 @@
    "study_tier": "cedo",
    "study_priority": 1420,
    "user_hint": "",
-   "description": "To make or grow something.",
+   "description": "To make or grow something: \"produce wheat\". Also means to cause (\"produce a result\"), to show (\"produce a ticket\") or to direct a show.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To make or grow something."
+    "en": "To make or grow something: \"produce wheat\". Also means to cause (\"produce a result\"), to show (\"produce a ticket\") or to direct a show."
    },
    "antonyms": [],
    "forms": [
@@ -43122,6 +43149,10 @@
      "text": "producing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "make",
+    "grow"
    ]
   },
   {
@@ -43183,10 +43214,10 @@
    "study_tier": "cedo",
    "study_priority": 1423,
    "user_hint": "",
-   "description": "To need.",
+   "description": "To need: \"require help\". Also means to demand by rule: \"visitors are required to sign\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To need."
+    "en": "To need: \"require help\". Also means to demand by rule: \"visitors are required to sign\"."
    },
    "antonyms": [],
    "forms": [
@@ -43218,6 +43249,10 @@
      "text": "requiring",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "need",
+    "demand"
    ]
   },
   {
@@ -43728,13 +43763,17 @@
    "part_of_speech": "det",
    "study_tier": "cedo",
    "study_priority": 1436,
-   "description": "Not one or the other of two.",
+   "description": "Not one or the other of two: \"neither answer is right\". Also used with \"nor\": \"neither he nor she\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not one or the other of two."
+    "en": "Not one or the other of two: \"neither answer is right\". Also used with \"nor\": \"neither he nor she\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "none of the two",
+    "not either"
+   ]
   },
   {
    "id": "en:000001732",
@@ -43782,12 +43821,16 @@
    "study_priority": 1438,
    "nativeExplain": {
     "pt-BR": "paciente (adj.) vs paciente (doente)",
-    "en": "Able to wait calmly."
+    "en": "Able to wait calmly: \"be patient\". Also means a person receiving medical care."
    },
-   "description": "Able to wait calmly.",
+   "description": "Able to wait calmly: \"be patient\". Also means a person receiving medical care.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "calm",
+    "tolerant"
+   ]
   },
   {
    "id": "en:000001734",
@@ -43802,12 +43845,16 @@
    "study_tier": "cedo",
    "study_priority": 1439,
    "user_hint": "",
-   "description": "Perhaps.",
+   "description": "Perhaps: \"it may possibly rain\". Also used to make a request polite: \"could you possibly help?\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Perhaps."
+    "en": "Perhaps: \"it may possibly rain\". Also used to make a request polite: \"could you possibly help?\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "perhaps",
+    "maybe"
+   ]
   },
   {
    "id": "en:000001735",
@@ -43822,10 +43869,10 @@
    "study_tier": "cedo",
    "study_priority": 1440,
    "user_hint": "",
-   "description": "To show that something is true.",
+   "description": "To show that something is true: \"prove a point\". Also means to turn out to be: \"it proved difficult\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To show that something is true."
+    "en": "To show that something is true: \"prove a point\". Also means to turn out to be: \"it proved difficult\"."
    },
    "antonyms": [],
    "forms": [
@@ -43857,6 +43904,10 @@
      "text": "proving",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "show",
+    "demonstrate"
    ]
   },
   {
@@ -43873,12 +43924,16 @@
    "study_tier": "cedo",
    "study_priority": 1441,
    "user_hint": "",
-   "description": "Not common; seldom found.",
+   "description": "Not common: \"a rare bird\". Also means lightly cooked meat: \"a rare steak\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Not common; seldom found."
+    "en": "Not common: \"a rare bird\". Also means lightly cooked meat: \"a rare steak\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "uncommon",
+    "scarce"
+   ]
   },
   {
    "id": "en:000001737",
@@ -43974,12 +44029,16 @@
    "study_tier": "cedo",
    "study_priority": 1444,
    "user_hint": "",
-   "description": "Strong; difficult.",
+   "description": "Strong or hard to break: \"tough meat\". Also means difficult (\"a tough day\") or strict: \"tough rules\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Strong; difficult."
+    "en": "Strong or hard to break: \"tough meat\". Also means difficult (\"a tough day\") or strict: \"tough rules\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "hard",
+    "sturdy"
+   ]
   },
   {
    "id": "en:000001743",
@@ -44723,12 +44782,16 @@
    "study_tier": "cedo",
    "study_priority": 1458,
    "user_hint": "",
-   "description": "A thousand million (1,000,000,000).",
+   "description": "A thousand million, 1,000,000,000: \"a billion dollars\". Also used loosely for a huge number.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A thousand million (1,000,000,000)."
+    "en": "A thousand million, 1,000,000,000: \"a billion dollars\". Also used loosely for a huge number."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "a thousand million",
+    "10^9"
+   ]
   },
   {
    "id": "en:000001776",
@@ -44768,14 +44831,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "preocupação séria",
-    "en": "Worried."
+    "en": "Worried: \"concerned about health\". Also means involved: \"the people concerned\"."
    },
    "study_tier": "cedo",
    "study_priority": 1459,
    "user_hint": "",
-   "description": "Worried.",
+   "description": "Worried: \"concerned about health\". Also means involved: \"the people concerned\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "worried",
+    "anxious"
+   ]
   },
   {
    "id": "en:000001780",
@@ -44864,12 +44931,16 @@
    "study_tier": "cedo",
    "study_priority": 1461,
    "user_hint": "",
-   "description": "About culture.",
+   "description": "About culture: \"cultural events\". Also describes customs, art and traditions of a group.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "About culture."
+    "en": "About culture: \"cultural events\". Also describes customs, art and traditions of a group."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "artistic",
+    "traditional"
+   ]
   },
   {
    "id": "en:000001784",
@@ -44966,12 +45037,16 @@
    "study_tier": "cedo",
    "study_priority": 1463,
    "user_hint": "",
-   "description": "Present now.",
+   "description": "Present now: \"the existing rules\". Also means currently in use.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Present now."
+    "en": "Present now: \"the existing rules\". Also means currently in use."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "current",
+    "present"
+   ]
   },
   {
    "id": "en:000001788",
@@ -45233,13 +45308,13 @@
    "study_tier": "cedo",
    "study_priority": 1466,
    "user_hint": "",
-   "description": "To lift up.",
+   "description": "To lift up: \"raise a hand\". Also means to increase (\"raise prices\"), to bring up a child or to collect money.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004175"
    ],
    "nativeExplain": {
-    "en": "To lift up."
+    "en": "To lift up: \"raise a hand\". Also means to increase (\"raise prices\"), to bring up a child or to collect money."
    },
    "forms": [
     {
@@ -45271,6 +45346,10 @@
      "text": "raising",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "lift",
+    "increase"
    ]
   },
   {
@@ -45306,10 +45385,10 @@
    "study_tier": "cedo",
    "study_priority": 1468,
    "user_hint": "",
-   "description": "To move by turning over (a ball rolls).",
+   "description": "To move by turning over: \"a ball rolls\". Also means to wrap (\"roll a rug\"), a small piece of bread, or a list of names.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To move by turning over (a ball rolls)."
+    "en": "To move by turning over: \"a ball rolls\". Also means to wrap (\"roll a rug\"), a small piece of bread, or a list of names."
    },
    "antonyms": [],
    "forms": [
@@ -45341,6 +45420,10 @@
      "text": "rolling",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "turn",
+    "spin"
    ]
   },
   {
@@ -45356,12 +45439,16 @@
    "study_tier": "cedo",
    "study_priority": 1469,
    "user_hint": "",
-   "description": "A little.",
+   "description": "A little: \"slightly tired\". Also means in a small degree.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A little."
+    "en": "A little: \"slightly tired\". Also means in a small degree."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "a little",
+    "somewhat"
+   ]
   },
   {
    "id": "en:000001804",
@@ -45376,10 +45463,10 @@
    "study_tier": "cedo",
    "study_priority": 1470,
    "user_hint": "",
-   "description": "To give an idea for others to consider.",
+   "description": "To give an idea for others to consider: \"suggest a plan\". Also means to show indirectly: \"the signs suggest rain\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To give an idea for others to consider."
+    "en": "To give an idea for others to consider: \"suggest a plan\". Also means to show indirectly: \"the signs suggest rain\"."
    },
    "antonyms": [],
    "forms": [
@@ -45411,6 +45498,10 @@
      "text": "suggesting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "propose",
+    "recommend"
    ]
   },
   {
@@ -45522,14 +45613,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "sem igual",
-    "en": "The only one of its kind."
+    "en": "The only one of its kind: \"a unique gift\". Also means very special or unusual."
    },
    "study_tier": "cedo",
    "study_priority": 1471,
    "user_hint": "",
-   "description": "The only one of its kind.",
+   "description": "The only one of its kind: \"a unique gift\". Also means very special or unusual.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "one of a kind",
+    "special"
+   ]
   },
   {
    "id": "en:000001810",
@@ -45603,12 +45698,12 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "valorizar, ser grato por",
-    "en": "To be thankful for."
+    "en": "To be thankful for: \"appreciate your help\". Also means to understand the value, or to rise in value."
    },
    "study_tier": "cedo",
    "study_priority": 1474,
    "user_hint": "",
-   "description": "To be thankful for.",
+   "description": "To be thankful for: \"appreciate your help\". Also means to understand the value, or to rise in value.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "forms": [
@@ -45640,6 +45735,10 @@
      "text": "appreciating",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "be grateful for",
+    "value"
    ]
   },
   {
@@ -45803,13 +45902,17 @@
    "study_tier": "cedo",
    "study_priority": 1476,
    "user_hint": "",
-   "description": "Very bad and cruel.",
+   "description": "Very bad and cruel: \"an evil plan\". Also names harm itself: \"good and evil\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Very bad and cruel."
+    "en": "Very bad and cruel: \"an evil plan\". Also names harm itself: \"good and evil\"."
    },
    "antonyms": [
     "en:000000076"
+   ],
+   "alternatives": [
+    "wicked",
+    "cruel"
    ]
   },
   {
@@ -46385,14 +46488,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "muito bom",
-    "en": "Very good."
+    "en": "Very good: \"an excellent meal\". Also used as an approving reply: \"Excellent!\"."
    },
    "study_tier": "cedo",
    "study_priority": 1485,
    "user_hint": "",
-   "description": "Very good.",
+   "description": "Very good: \"an excellent meal\". Also used as an approving reply: \"Excellent!\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "great",
+    "outstanding"
+   ]
   },
   {
    "id": "en:000001860",
@@ -46407,10 +46514,10 @@
    "study_tier": "cedo",
    "study_priority": 1486,
    "user_hint": "",
-   "description": "To be real.",
+   "description": "To be real: \"ghosts do not exist\". Also means to live, often with few resources: \"exist on little\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To be real."
+    "en": "To be real: \"ghosts do not exist\". Also means to live, often with few resources: \"exist on little\"."
    },
    "antonyms": [],
    "forms": [
@@ -46442,6 +46549,10 @@
      "text": "existing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "be real",
+    "live"
    ]
   },
   {
@@ -46572,10 +46683,10 @@
    "study_tier": "cedo",
    "study_priority": 1488,
    "user_hint": "",
-   "description": "To talk about briefly.",
+   "description": "To talk about briefly: \"mention a name\". Also means to refer to something in passing.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To talk about briefly."
+    "en": "To talk about briefly: \"mention a name\". Also means to refer to something in passing."
    },
    "antonyms": [],
    "forms": [
@@ -46608,6 +46719,10 @@
      "text": "mentioning",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "refer to",
+    "bring up"
    ]
   },
   {
@@ -46732,10 +46847,10 @@
    "study_tier": "cedo",
    "study_priority": 1492,
    "user_hint": "",
-   "description": "To make smaller.",
+   "description": "To make smaller: \"reduce costs\". Also means to cook a liquid until it thickens, or to bring to a state.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "To make smaller."
+    "en": "To make smaller: \"reduce costs\". Also means to cook a liquid until it thickens, or to bring to a state."
    },
    "antonyms": [],
    "forms": [
@@ -46767,6 +46882,10 @@
      "text": "reducing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "cut",
+    "lower"
    ]
   },
   {
@@ -46803,12 +46922,16 @@
    "study_tier": "cedo",
    "study_priority": 1493,
    "user_hint": "",
-   "description": "Hard; not liquid or gas.",
+   "description": "Hard, not liquid or gas: \"solid ice\". Also means strong (\"a solid wall\") or reliable: \"solid proof\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Hard; not liquid or gas."
+    "en": "Hard, not liquid or gas: \"solid ice\". Also means strong (\"a solid wall\") or reliable: \"solid proof\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "firm",
+    "hard"
+   ]
   },
   {
    "id": "en:000001883",
@@ -47053,12 +47176,16 @@
    "study_tier": "cedo",
    "study_priority": 1497,
    "user_hint": "",
-   "description": "Of high quality and lasting popularity.",
+   "description": "Of high quality and lasting popularity: \"a classic film\". Also means typical: \"a classic example\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Of high quality and lasting popularity."
+    "en": "Of high quality and lasting popularity: \"a classic film\". Also means typical: \"a classic example\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "timeless",
+    "typical"
+   ]
   },
   {
    "id": "en:000001895",
@@ -47102,12 +47229,16 @@
    "study_tier": "cedo",
    "study_priority": 1498,
    "user_hint": "",
-   "description": "Working with electricity.",
+   "description": "Working with electricity: \"an electric car\". Also means exciting: \"an electric atmosphere\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Working with electricity."
+    "en": "Working with electricity: \"an electric car\". Also means exciting: \"an electric atmosphere\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "powered",
+    "charged"
+   ]
   },
   {
    "id": "en:000001898",
