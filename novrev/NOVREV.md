@@ -337,3 +337,8 @@ Pronto = todas as linhas do grupo VCU14 com T1–T7 em OK/CORRIGIDO/NA.
 
 ## Campo `user_hint` (dica do usuário)
 Campo reservado em todas as entradas dos 4 idiomas, vazio (`""`) por padrão. O app grava aqui a dica escrita pelo próprio usuário (botão ao lado da dica existente no Card). O dicionário publicado nunca preenche este campo; o app deve mantê-lo localmente e mesclar por `english_id`, para não perder a dica quando o pacote for atualizado.
+
+### Fechamento dos relatos do Multilang
+- 423 relatos abertos conferidos. 70 estavam resolvidos nos quatro idiomas e foram encerrados. Em `en:000000542` (*month*), a alternativa 一か月 saiu do japonês.
+- Criados 114 conceitos novos nos quatro idiomas, de `en:000004305` a `en:000004418`, a partir das palavras que o app não encontrou (alimentos, objetos, lugares, países, cidades, gêneros e expressões de tempo). Outras 52 já tinham o lema nos quatro pacotes, e 78 eram fragmentos de captura sem palavra inteira. Esses relatos foram encerrados.
+- Ficaram 85 relatos abertos para decisão: frases e padrões de gramática, formas de horário e contadores, nomes de bairros e pessoas, e compostos. A lista está na branch `novrev/suspensos`, junto com os 72 itens reservados e pendentes.
