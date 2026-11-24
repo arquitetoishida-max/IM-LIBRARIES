@@ -7059,7 +7059,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "感觉",
    "alternatives": [
-    "觉得"
+    "觉得",
+    "感受"
    ],
    "reading": "gǎnjué",
    "romanization": "gǎnjué",
@@ -7073,11 +7074,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 999,
-   "description": "体验某种情绪或触感。",
+   "description": "体验某种情绪或触感：“感觉冷”。也表示有某种想法：“我觉得不错”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "体验某种情绪或触感。"
+    "zh": "体验某种情绪或触感：“感觉冷”。也表示有某种想法：“我觉得不错”。"
    },
    "antonyms": []
   },
@@ -7172,6 +7173,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "曾经",
    "alternatives": [
+    "曾",
     "过"
    ],
    "reading": "céngjīng",
@@ -7186,11 +7188,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1001,
-   "description": "在以往的任何时候（“你曾经……吗”）。",
+   "description": "在以往的任何时候：“你曾经去过吗？”。也表示强调：“有史以来”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在以往的任何时候（“你曾经……吗”）。"
+    "zh": "在以往的任何时候：“你曾经去过吗？”。也表示强调：“有史以来”。"
    },
    "antonyms": [
     "en:000000127"
@@ -7253,6 +7255,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "保持",
    "alternatives": [
+    "保持",
     "留着",
     "继续"
    ],
@@ -7268,11 +7271,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1002,
-   "description": "继续拥有或继续做某事。",
+   "description": "继续拥有或继续做某事：“保持安静”。也表示保管：“替我留着”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "继续拥有或继续做某事。"
+    "zh": "继续拥有或继续做某事：“保持安静”。也表示保管：“替我留着”。"
    },
    "antonyms": []
   },
@@ -10901,17 +10904,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "下面的",
    "alternatives": [
-    "以下的"
+    "以下的",
+    "接下来的"
    ],
    "reading": "xiàmian de",
    "romanization": "xiàmian de",
    "study_tier": "cedo",
    "study_priority": 1007,
    "user_hint": "",
-   "description": "紧接着出现的（如“第二天”）。",
+   "description": "紧接着出现的：“下面的内容”。也指接下来的：“第二天”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "紧接着出现的（如“第二天”）。"
+    "zh": "紧接着出现的：“下面的内容”。也指接下来的：“第二天”。"
    },
    "antonyms": []
   },
@@ -11033,7 +11037,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "整个",
    "alternatives": [
-    "全部"
+    "全部",
+    "整体"
    ],
    "reading": "zhěnggè",
    "romanization": "zhěnggè",
@@ -11047,11 +11052,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1009,
-   "description": "完整的，全部的。",
+   "description": "完整的，没有缺少的：“整个下午”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "完整的，全部的。"
+    "zh": "完整的，没有缺少的：“整个下午”。"
    },
    "antonyms": [
     "en:000000360"
@@ -11448,7 +11453,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "希望",
-   "alternatives": [],
+   "alternatives": [
+    "盼望",
+    "期望"
+   ],
    "reading": "xīwàng",
    "romanization": "xīwàng",
    "classifications": [
@@ -11461,11 +11469,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1013,
-   "description": "愿某件事发生，或盼着得到某种结果。",
+   "description": "愿某件事发生：“希望明天晴天”。也用于礼貌表达：“希望你喜欢”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "愿某件事发生，或盼着得到某种结果。"
+    "zh": "愿某件事发生：“希望明天晴天”。也用于礼貌表达：“希望你喜欢”。"
    },
    "antonyms": []
   },
@@ -11646,7 +11654,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "能",
    "alternatives": [
-    "有能力"
+    "有能力",
+    "会"
    ],
    "reading": "néng",
    "romanization": "néng",
@@ -11661,10 +11670,10 @@
    "study_tier": "cedo",
    "study_priority": 1016,
    "user_hint": "",
-   "description": "有能力或技能做某事。",
+   "description": "有能力或技能做某事：“能游泳”。也表示许可或可能：“能进去吗”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有能力或技能做某事。"
+    "zh": "有能力或技能做某事：“能游泳”。也表示许可或可能：“能进去吗”。"
    },
    "antonyms": [
     "en:000002430"
@@ -11850,17 +11859,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "本地的",
    "alternatives": [
-    "当地的"
+    "当地的",
+    "地方的"
    ],
    "reading": "běndì de",
    "romanization": "běndì de",
    "study_tier": "cedo",
    "study_priority": 1018,
    "user_hint": "",
-   "description": "指说话时所指的地区本身，或属于这个地区，如“本地的商店”。",
+   "description": "属于某个地区的：“本地人”。也指当地的特色：“本地菜”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "指说话时所指的地区本身，或属于这个地区，如“本地的商店”。"
+    "zh": "属于某个地区的：“本地人”。也指当地的特色：“本地菜”。"
    },
    "antonyms": []
   },
@@ -11915,7 +11925,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "发",
-   "alternatives": [],
+   "alternatives": [
+    "发布",
+    "发表"
+   ],
    "reading": "fā",
    "romanization": "fā",
    "classifications": [
@@ -11930,9 +11943,9 @@
    "study_priority": 1019,
    "nativeExplain": {
     "pt-BR": "postar (publicar on-line)",
-    "zh": "把消息、照片或视频发布到网上，比如发一条动态。"
+    "zh": "把消息、照片或视频发布到网上：“发动态”。也表示寄出：“发邮件”。"
    },
-   "description": "把消息、照片或视频发布到网上，比如发一条动态。",
+   "description": "把消息、照片或视频发布到网上：“发动态”。也表示寄出：“发邮件”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -12576,7 +12589,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "成为",
    "alternatives": [
-    "变成"
+    "变成",
+    "变得"
    ],
    "reading": "chéngwéi",
    "romanization": "chéngwéi",
@@ -12591,10 +12605,10 @@
    "study_tier": "cedo",
    "study_priority": 1024,
    "user_hint": "",
-   "description": "开始成为某种状态。",
+   "description": "开始变成某种状态：“成为医生”。也表示变化：“变得更好”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "开始成为某种状态。"
+    "zh": "开始变成某种状态：“成为医生”。也表示变化：“变得更好”。"
    },
    "antonyms": []
   },
@@ -12676,7 +12690,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "控制",
-   "alternatives": [],
+   "alternatives": [
+    "管控",
+    "掌控"
+   ],
    "reading": "kòngzhì",
    "romanization": "kòngzhì",
    "classifications": [
@@ -12690,10 +12707,10 @@
    "study_tier": "cedo",
    "study_priority": 1025,
    "user_hint": "",
-   "description": "掌握并支配某事物。",
+   "description": "掌握并支配某事物：“控制情绪”。也指管理和限制：“控制数量”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "掌握并支配某事物。"
+    "zh": "掌握并支配某事物：“控制情绪”。也指管理和限制：“控制数量”。"
    },
    "antonyms": []
   },
@@ -12969,20 +12986,21 @@
    "translation_confidence": "editorial-reviewed",
    "text": "真的",
    "alternatives": [
-    "对的"
+    "对的",
+    "真实的"
    ],
    "reading": "zhēn de",
    "romanization": "zhēn de",
    "study_tier": "cedo",
    "study_priority": 1029,
    "user_hint": "",
-   "description": "正确；真实；不是假的。",
+   "description": "不是假的：“真的故事”。也表示正确，或表示确实：“真的吗？”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002306"
    ],
    "nativeExplain": {
-    "zh": "正确；真实；不是假的。"
+    "zh": "不是假的：“真的故事”。也表示正确，或表示确实：“真的吗？”。"
    }
   },
   {
@@ -13202,16 +13220,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "迷路",
-   "alternatives": [],
+   "alternatives": [
+    "走丢",
+    "迷失"
+   ],
    "reading": "mílù",
    "romanization": "mílù",
    "study_tier": "cedo",
    "study_priority": 1031,
    "nativeExplain": {
     "pt-BR": "sem saber encontrar o caminho",
-    "zh": "不知道自己在哪里，或找不到通往目的地的路。"
+    "zh": "不知道自己在哪里，找不到路：“迷路了”。也指丢失的东西：“丢了”。"
    },
-   "description": "不知道自己在哪里，或找不到通往目的地的路。",
+   "description": "不知道自己在哪里，找不到路：“迷路了”。也指丢失的东西：“丢了”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -13312,17 +13333,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "几个",
    "alternatives": [
-    "好几个"
+    "好几个",
+    "若干"
    ],
    "reading": "jǐ ge",
    "romanization": "jǐ ge",
    "study_tier": "cedo",
    "study_priority": 1032,
-   "description": "多于两个但不算很多。",
+   "description": "多于两个但不算很多：“几个朋友”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "多于两个但不算很多。"
+    "zh": "多于两个但不算很多：“几个朋友”。"
    },
    "antonyms": []
   },
@@ -13455,16 +13477,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "沿着",
-   "alternatives": [],
+   "alternatives": [
+    "顺着",
+    "沿"
+   ],
    "reading": "yánzhe",
    "romanization": "yánzhe",
    "study_tier": "cedo",
    "study_priority": 1034,
-   "description": "顺着道路、河流等的走向移动或排列。",
+   "description": "顺着道路、河流等的走向：“沿着河走”。也表示一起：“跟着”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "顺着道路、河流等的走向移动或排列。"
+    "zh": "顺着道路、河流等的走向：“沿着河走”。也表示一起：“跟着”。"
    },
    "antonyms": []
   },
@@ -16780,7 +16805,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "根据",
    "alternatives": [
-    "按照"
+    "按照",
+    "依据"
    ],
    "reading": "gēnjù",
    "romanization": "gēnjù",
@@ -16795,10 +16821,10 @@
    "study_tier": "cedo",
    "study_priority": 1037,
    "user_hint": "",
-   "description": "表示信息的来源，如“根据报道”。",
+   "description": "表示信息的来源：“根据报道”。也表示按某种标准：“根据规定”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表示信息的来源，如“根据报道”。"
+    "zh": "表示信息的来源：“根据报道”。也表示按某种标准：“根据规定”。"
    },
    "antonyms": []
   },
@@ -16814,17 +16840,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "可用的",
    "alternatives": [
-    "有空"
+    "有空",
+    "可用"
    ],
    "reading": "kěyòng de",
    "romanization": "kěyòng de",
    "study_tier": "cedo",
    "study_priority": 1038,
    "user_hint": "",
-   "description": "可以使用，或有空帮忙。",
+   "description": "可以使用的：“有空位”。也指有空帮忙：“你现在有空吗？”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "可以使用，或有空帮忙。"
+    "zh": "可以使用的：“有空位”。也指有空帮忙：“你现在有空吗？”。"
    },
    "antonyms": []
   },
@@ -16872,17 +16899,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "最后的",
    "alternatives": [
-    "最终的"
+    "最终的",
+    "末了的"
    ],
    "reading": "zuìhòu de",
    "romanization": "zuìhòu de",
    "study_tier": "cedo",
    "study_priority": 1040,
    "user_hint": "",
-   "description": "最后的；在末尾的。",
+   "description": "最后的，在末尾的：“最后一场”。也表示最终决定：“最终的结果”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "最后的；在末尾的。"
+    "zh": "最后的，在末尾的：“最后一场”。也表示最终决定：“最终的结果”。"
    },
    "antonyms": []
   },
@@ -16898,17 +16926,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "以前的",
    "alternatives": [
-    "前"
+    "前",
+    "从前的"
    ],
    "reading": "yǐqián de",
    "romanization": "yǐqián de",
    "study_tier": "cedo",
    "study_priority": 1041,
    "user_hint": "",
-   "description": "以前的；曾经是的（如“前任老师”）。",
+   "description": "以前的，曾经是的：“前任老师”。也指过去的状态。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "以前的；曾经是的（如“前任老师”）。"
+    "zh": "以前的，曾经是的：“前任老师”。也指过去的状态。"
    },
    "antonyms": [
     "en:000002647"
@@ -17266,17 +17295,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "现在的",
    "alternatives": [
-    "当前的"
+    "当前的",
+    "目前的"
    ],
    "reading": "xiànzài de",
    "romanization": "xiànzài de",
    "study_tier": "cedo",
    "study_priority": 1043,
    "user_hint": "",
-   "description": "现在正发生的。",
+   "description": "现在正发生的：“当前的情况”。也指目前的位置和数据。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "现在正发生的。"
+    "zh": "现在正发生的：“当前的情况”。也指目前的位置和数据。"
    },
    "antonyms": []
   },
@@ -17897,7 +17927,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "清楚",
-   "alternatives": [],
+   "alternatives": [
+    "清晰",
+    "明白"
+   ],
    "reading": "qīngchu",
    "romanization": "qīngchu",
    "classifications": [
@@ -17910,11 +17943,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1050,
-   "description": "内容容易理解，或能让人明确地辨认出来。",
+   "description": "内容容易理解：“说得很清楚”。也指看得明白，或天气晴朗：“晴朗”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "内容容易理解，或能让人明确地辨认出来。"
+    "zh": "内容容易理解：“说得很清楚”。也指看得明白，或天气晴朗：“晴朗”。"
    },
    "antonyms": []
   },
@@ -17962,16 +17995,18 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "他自己",
-   "alternatives": [],
+   "alternatives": [
+    "他本人"
+   ],
    "reading": "tā zìjǐ",
    "romanization": "tā zìjǐ",
    "study_tier": "cedo",
    "study_priority": 1051,
-   "description": "指“他”自己。",
+   "description": "指“他”自己：“他伤了自己”。也表示强调：“他自己来”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指“他”自己。"
+    "zh": "指“他”自己：“他伤了自己”。也表示强调：“他自己来”。"
    },
    "antonyms": []
   },
@@ -18222,7 +18257,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "医生",
    "alternatives": [
-    "博士"
+    "博士",
+    "大夫"
    ],
    "reading": "yīshēng",
    "romanization": "yīshēng",
@@ -18237,10 +18273,10 @@
    "study_tier": "cedo",
    "study_priority": 1054,
    "user_hint": "",
-   "description": "医生的称呼（如西尔瓦医生）。",
+   "description": "医生的称呼：“王医生”。也指博士：“李博士”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "医生的称呼（如西尔瓦医生）。"
+    "zh": "医生的称呼：“王医生”。也指博士：“李博士”。"
    },
    "antonyms": []
   },
@@ -18361,16 +18397,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "主要的",
-   "alternatives": [],
+   "alternatives": [
+    "首要的",
+    "主"
+   ],
    "reading": "zhǔyào de",
    "romanization": "zhǔyào de",
    "study_tier": "cedo",
    "study_priority": 1056,
-   "description": "最重要的。",
+   "description": "最重要的：“主要原因”。也指主体部分：“主道”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "最重要的。"
+    "zh": "最重要的：“主要原因”。也指主体部分：“主道”。"
    },
    "antonyms": []
   },
@@ -18618,7 +18657,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "打架",
    "alternatives": [
-    "吵架"
+    "吵架",
+    "斗争"
    ],
    "reading": "dǎjià",
    "romanization": "dǎjià",
@@ -18634,10 +18674,10 @@
    "study_priority": 1059,
    "nativeExplain": {
     "pt-BR": "brigar (fisicamente) vs discutir",
-    "zh": "想伤害别人；争吵。"
+    "zh": "打架，或为某事争斗：“为权利而斗争”。也指吵架和对抗疾病。"
    },
    "user_hint": "",
-   "description": "想伤害别人；争吵。",
+   "description": "打架，或为某事争斗：“为权利而斗争”。也指吵架和对抗疾病。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -19153,7 +19193,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "想念",
-   "alternatives": [],
+   "alternatives": [
+    "思念",
+    "错过"
+   ],
    "reading": "xiǎngniàn",
    "romanization": "xiǎngniàn",
    "classifications": [
@@ -19168,10 +19211,10 @@
    "study_priority": 1067,
    "nativeExplain": {
     "pt-BR": "sentir falta vs perder (ônibus/alvo)",
-    "zh": "因某人不在身边而感到难过。"
+    "zh": "因某人不在身边而难过：“我想念你”。也指错过：“错过了公共汽车”。"
    },
    "user_hint": "",
-   "description": "因某人不在身边而感到难过。",
+   "description": "因某人不在身边而难过：“我想念你”。也指错过：“错过了公共汽车”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -19409,7 +19452,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "特别",
    "alternatives": [
-    "尤其"
+    "尤其",
+    "格外"
    ],
    "reading": "tèbié",
    "romanization": "tèbié",
@@ -19423,11 +19467,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1070,
-   "description": "比平常更；尤其。",
+   "description": "比平常更，尤其：“特别好”。也用来突出某一点。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "比平常更；尤其。"
+    "zh": "比平常更，尤其：“特别好”。也用来突出某一点。"
    },
    "antonyms": []
   },
@@ -19483,7 +19527,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "包括",
    "alternatives": [
-    "包含"
+    "包含",
+    "含有"
    ],
    "reading": "bāokuò",
    "romanization": "bāokuò",
@@ -19498,10 +19543,10 @@
    "study_tier": "cedo",
    "study_priority": 1071,
    "user_hint": "",
-   "description": "把某物作为组成部分。",
+   "description": "把某物作为组成部分：“价格包括早餐”。也指涵盖在内。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把某物作为组成部分。"
+    "zh": "把某物作为组成部分：“价格包括早餐”。也指涵盖在内。"
    },
    "antonyms": []
   },
@@ -22448,7 +22493,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "值得",
-   "alternatives": [],
+   "alternatives": [
+    "值",
+    "有价值"
+   ],
    "reading": "zhíde",
    "romanization": "zhíde",
    "classifications": [
@@ -22462,10 +22510,10 @@
    "study_tier": "cedo",
    "study_priority": 1072,
    "user_hint": "",
-   "description": "有一定价值；也指值得去做。",
+   "description": "有一定价值：“值多少钱”。也指值得去做：“值得一试”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "有一定价值；也指值得去做。"
+    "zh": "有一定价值：“值多少钱”。也指值得去做：“值得一试”。"
    },
    "antonyms": []
   },
@@ -22558,7 +22606,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "酷",
-   "alternatives": [],
+   "alternatives": [
+    "帅",
+    "凉爽"
+   ],
    "reading": "kù",
    "romanization": "kù",
    "classifications": [
@@ -22573,9 +22624,9 @@
    "study_priority": 1074,
    "nativeExplain": {
     "pt-BR": "aprovação informal",
-    "zh": "口语中形容有型、有魅力或令人赞赏。"
+    "zh": "口语中形容有型、有魅力：“很酷”。也指凉爽，或表示同意：“好的”。"
    },
-   "description": "口语中形容有型、有魅力或令人赞赏。",
+   "description": "口语中形容有型、有魅力：“很酷”。也指凉爽，或表示同意：“好的”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -22737,7 +22788,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "提供",
-   "alternatives": [],
+   "alternatives": [
+    "供给",
+    "给予"
+   ],
    "reading": "tígōng",
    "romanization": "tígōng",
    "classifications": [
@@ -22751,10 +22805,10 @@
    "study_tier": "cedo",
    "study_priority": 1077,
    "user_hint": "",
-   "description": "给予所需要的东西。",
+   "description": "给予所需要的东西：“提供帮助”。也指供应：“提供早餐”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "给予所需要的东西。"
+    "zh": "给予所需要的东西：“提供帮助”。也指供应：“提供早餐”。"
    },
    "antonyms": []
   },
@@ -23033,17 +23087,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "官方的",
    "alternatives": [
-    "正式的"
+    "正式的",
+    "官方"
    ],
    "reading": "guānfāng de",
    "romanization": "guānfāng de",
    "study_tier": "cedo",
    "study_priority": 1082,
    "user_hint": "",
-   "description": "由政府或权威机构认可的。",
+   "description": "由政府或权威机构认可的：“官方网站”。也指正式的：“正式场合”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "由政府或权威机构认可的。"
+    "zh": "由政府或权威机构认可的：“官方网站”。也指正式的：“正式场合”。"
    },
    "antonyms": []
   },
@@ -23219,8 +23274,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "救",
    "alternatives": [
-    "存",
-    "保存"
+    "救助",
+    "节省"
    ],
    "reading": "jiù",
    "romanization": "jiù",
@@ -23236,9 +23291,9 @@
    "study_priority": 1086,
    "nativeExplain": {
     "pt-BR": "resgatar do perigo",
-    "zh": "帮助人或动物脱离危险、困难，也可指采取措施挽回不利局面。"
+    "zh": "帮助人或动物脱离危险：“救人”。也指节省：“省钱”，保存：“保存文件”。"
    },
-   "description": "帮助人或动物脱离危险、困难，也可指采取措施挽回不利局面。",
+   "description": "帮助人或动物脱离危险：“救人”。也指节省：“省钱”，保存：“保存文件”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -23993,7 +24048,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "信任",
    "alternatives": [
-    "相信"
+    "相信",
+    "信赖"
    ],
    "reading": "xìnrèn",
    "romanization": "xìnrèn",
@@ -24007,11 +24063,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1094,
-   "description": "相信某个人诚实可靠，也可指相信某物或某种方法可以依赖。",
+   "description": "相信某人诚实可靠：“信任朋友”。也指相信某事物可以依靠：“信任这个方法”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "相信某个人诚实可靠，也可指相信某物或某种方法可以依赖。"
+    "zh": "相信某人诚实可靠：“信任朋友”。也指相信某事物可以依靠：“信任这个方法”。"
    },
    "antonyms": []
   },
@@ -24052,17 +24108,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "中央的",
    "alternatives": [
-    "中心的"
+    "中心的",
+    "中间的"
    ],
    "reading": "zhōngyāng de",
    "romanization": "zhōngyāng de",
    "study_tier": "cedo",
    "study_priority": 1095,
    "user_hint": "",
-   "description": "在中间；最主要的。",
+   "description": "在中间的：“中央广场”。也指最主要的：“中心问题”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "在中间；最主要的。"
+    "zh": "在中间的：“中央广场”。也指最主要的：“中心问题”。"
    },
    "antonyms": []
   },
@@ -24083,19 +24140,22 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "向前",
-   "alternatives": [],
+   "alternatives": [
+    "往前",
+    "前进"
+   ],
    "reading": "xiàng qián",
    "romanization": "xiàng qián",
    "study_tier": "cedo",
    "study_priority": 1096,
-   "description": "朝前面。",
+   "description": "朝前面：“向前走”。也表示往下继续：“今后”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003183"
    ],
    "nativeExplain": {
-    "zh": "朝前面。"
+    "zh": "朝前面：“向前走”。也表示往下继续：“今后”。"
    }
   },
   {
@@ -24452,7 +24512,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "各种",
    "alternatives": [
-    "不同的"
+    "不同的",
+    "多种"
    ],
    "reading": "gèzhǒng",
    "romanization": "gèzhǒng",
@@ -24467,10 +24528,10 @@
    "study_tier": "cedo",
    "study_priority": 1100,
    "user_hint": "",
-   "description": "好几种不同的。",
+   "description": "好几种不同的：“各种问题”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "好几种不同的。"
+    "zh": "好几种不同的：“各种问题”。"
    },
    "antonyms": []
   },
@@ -24845,17 +24906,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "自然的",
    "alternatives": [
-    "天然的"
+    "天然的",
+    "自然"
    ],
    "reading": "zìrán de",
    "romanization": "zìrán de",
    "study_tier": "cedo",
    "study_priority": 1104,
    "user_hint": "",
-   "description": "来自大自然；不是人造的。",
+   "description": "来自大自然，不是人造的：“自然景色”。也指不做作：“很自然”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "来自大自然；不是人造的。"
+    "zh": "来自大自然，不是人造的：“自然景色”。也指不做作：“很自然”。"
    },
    "antonyms": []
   },
@@ -25165,17 +25227,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "完整的",
    "alternatives": [
-    "完成的"
+    "完成的",
+    "齐全"
    ],
    "reading": "wánzhěng de",
    "romanization": "wánzhěng de",
    "study_tier": "cedo",
    "study_priority": 1107,
    "user_hint": "",
-   "description": "已完成；各部分齐全。",
+   "description": "已完成，各部分齐全：“完整的名单”。也指彻底：“完全”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "已完成；各部分齐全。"
+    "zh": "已完成，各部分齐全：“完整的名单”。也指彻底：“完全”。"
    },
    "antonyms": []
   },
@@ -28340,7 +28403,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "朝",
    "alternatives": [
-    "向"
+    "向",
+    "往"
    ],
    "reading": "cháo",
    "romanization": "cháo",
@@ -28355,10 +28419,10 @@
    "study_tier": "cedo",
    "study_priority": 1110,
    "user_hint": "",
-   "description": "朝着某个方向。",
+   "description": "朝着某个方向：“朝东走”。也表示对待：“朝他笑”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "朝着某个方向。"
+    "zh": "朝着某个方向：“朝东走”。也表示对待：“朝他笑”。"
    },
    "antonyms": []
   },
@@ -28634,17 +28698,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "下落不明",
    "alternatives": [
-    "失踪"
+    "失踪",
+    "缺少"
    ],
    "reading": "xiàluò bùmíng",
    "romanization": "xiàluò bùmíng",
    "study_tier": "cedo",
    "study_priority": 1114,
-   "description": "找不到且下落不明，通常指人。",
+   "description": "找不到且下落不明：“下落不明的人”。也指缺少的东西：“缺了一个”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "找不到且下落不明，通常指人。"
+    "zh": "找不到且下落不明：“下落不明的人”。也指缺少的东西：“缺了一个”。"
    },
    "antonyms": []
   },
@@ -28665,7 +28730,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "主动提出",
    "alternatives": [
-    "提议"
+    "提出",
+    "提供"
    ],
    "reading": "zhǔdòng tíchū",
    "romanization": "zhǔdòng tíchū",
@@ -28679,11 +28745,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1115,
-   "description": "主动表示愿意给别人某样东西或为对方做某事。",
+   "description": "主动表示愿意给别人某样东西：“主动帮忙”。也指出价：“出价”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "主动表示愿意给别人某样东西或为对方做某事。"
+    "zh": "主动表示愿意给别人某样东西：“主动帮忙”。也指出价：“出价”。"
    },
    "antonyms": []
   },
@@ -28705,7 +28771,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "通过",
    "alternatives": [
-    "经过"
+    "经过",
+    "传递"
    ],
    "reading": "tōngguò",
    "romanization": "tōngguò",
@@ -28721,9 +28788,9 @@
    "study_priority": 1116,
    "nativeExplain": {
     "pt-BR": "passar por um lugar ou ir além de alguém no caminho",
-    "zh": "从某个地方经过或穿过去。也用来表示达到考试或审核的要求。"
+    "zh": "从某地经过：“路过”。也指考试通过、传递：“传球”，时间流逝：“过去”。"
    },
-   "description": "从某个地方经过或穿过去。也用来表示达到考试或审核的要求。",
+   "description": "从某地经过：“路过”。也指考试通过、传递：“传球”，时间流逝：“过去”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -28742,17 +28809,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "专业的",
    "alternatives": [
-    "职业的"
+    "职业的",
+    "行家"
    ],
    "reading": "zhuānyè de",
    "romanization": "zhuānyè de",
    "study_tier": "cedo",
    "study_priority": 1117,
    "user_hint": "",
-   "description": "以此为职业；非常熟练。",
+   "description": "以此为职业，非常熟练：“专业的工作”。也指专业人士。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "以此为职业；非常熟练。"
+    "zh": "以此为职业，非常熟练：“专业的工作”。也指专业人士。"
    },
    "antonyms": []
   },
@@ -29046,7 +29114,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "建",
    "alternatives": [
-    "建造"
+    "建造",
+    "修建"
    ],
    "reading": "jiàn",
    "romanization": "jiàn",
@@ -29060,14 +29129,14 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1120,
-   "description": "建造房屋、道路、桥梁等实体结构。",
+   "description": "建造房屋、道路、桥梁：“建房子”。也指建立关系：“建立信任”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002845"
    ],
    "nativeExplain": {
-    "zh": "建造房屋、道路、桥梁等实体结构。"
+    "zh": "建造房屋、道路、桥梁：“建房子”。也指建立关系：“建立信任”。"
    }
   },
   {
@@ -29349,16 +29418,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "最近的",
-   "alternatives": [],
+   "alternatives": [
+    "新近的",
+    "近期的"
+   ],
    "reading": "zuìjìn de",
    "romanization": "zuìjìn de",
    "study_tier": "cedo",
    "study_priority": 1125,
    "user_hint": "",
-   "description": "不久前发生的。",
+   "description": "不久前发生的：“最近的新闻”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "不久前发生的。"
+    "zh": "不久前发生的：“最近的新闻”。"
    },
    "antonyms": []
   },
@@ -29569,17 +29641,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "允许的",
    "alternatives": [
-    "被允许"
+    "被允许",
+    "许可"
    ],
    "reading": "yǔnxǔ de",
    "romanization": "yǔnxǔ de",
    "study_tier": "cedo",
    "study_priority": 1126,
    "user_hint": "",
-   "description": "被准许的。",
+   "description": "被准许的：“允许进入”。也指规则范围内的行为。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "被准许的。"
+    "zh": "被准许的：“允许进入”。也指规则范围内的行为。"
    },
    "antonyms": []
   },
@@ -29626,16 +29699,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "等等",
-   "alternatives": [],
+   "alternatives": [
+    "等",
+    "之类"
+   ],
    "reading": "děngděng",
    "romanization": "děngděng",
    "study_tier": "cedo",
    "study_priority": 1128,
    "user_hint": "",
-   "description": "表示还有其他同类的事物。",
+   "description": "表示还有其他同类的事物：“苹果、梨等等”。书面语中也用“等”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表示还有其他同类的事物。"
+    "zh": "表示还有其他同类的事物：“苹果、梨等等”。书面语中也用“等”。"
    },
    "antonyms": []
   },
@@ -29719,17 +29795,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "已婚的",
    "alternatives": [
-    "结婚了"
+    "结婚了",
+    "已婚"
    ],
    "reading": "yǐhūn de",
    "romanization": "yǐhūn de",
    "study_tier": "cedo",
    "study_priority": 1129,
-   "description": "有丈夫或妻子。",
+   "description": "有丈夫或妻子：“已婚的人”。也指两人是夫妻关系。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "有丈夫或妻子。"
+    "zh": "有丈夫或妻子：“已婚的人”。也指两人是夫妻关系。"
    },
    "antonyms": []
   },
@@ -30031,17 +30108,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "具体的",
    "alternatives": [
-    "特定的"
+    "特定的",
+    "确切的"
    ],
    "reading": "jùtǐ de",
    "romanization": "jùtǐ de",
    "study_tier": "cedo",
    "study_priority": 1135,
    "user_hint": "",
-   "description": "特定的；具体的。",
+   "description": "特定的，具体的：“具体时间”。也指不笼统的细节。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "特定的；具体的。"
+    "zh": "特定的，具体的：“具体时间”。也指不笼统的细节。"
    },
    "antonyms": []
   },
@@ -30057,17 +30135,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "标准的",
    "alternatives": [
-    "普通的"
+    "普通的",
+    "规范"
    ],
    "reading": "biāozhǔn de",
    "romanization": "biāozhǔn de",
    "study_tier": "cedo",
    "study_priority": 1136,
    "user_hint": "",
-   "description": "正常的；一般的。",
+   "description": "正常的，一般的：“标准尺寸”。也指规范：“国家标准”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "正常的；一般的。"
+    "zh": "正常的，一般的：“标准尺寸”。也指规范：“国家标准”。"
    },
    "antonyms": []
   },
@@ -30221,7 +30300,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "充电",
-   "alternatives": [],
+   "alternatives": [
+    "收费",
+    "指控"
+   ],
    "reading": "chōngdiàn",
    "romanization": "chōngdiàn",
    "classifications": [
@@ -30236,9 +30318,9 @@
    "study_priority": 1139,
    "nativeExplain": {
     "pt-BR": "carregar uma bateria",
-    "zh": "给电池或使用电池的设备补充电能。"
+    "zh": "给电池或设备补充电能：“充电”。也指收费：“收费”，指控：“指控”。"
    },
-   "description": "给电池或使用电池的设备补充电能。",
+   "description": "给电池或设备补充电能：“充电”。也指收费：“收费”，指控：“指控”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -30299,7 +30381,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "创造",
    "alternatives": [
-    "做"
+    "创作",
+    "创建"
    ],
    "reading": "chuàngzào",
    "romanization": "chuàngzào",
@@ -30314,10 +30397,10 @@
    "study_tier": "cedo",
    "study_priority": 1140,
    "user_hint": "",
-   "description": "制作出新的东西。",
+   "description": "制作出新的东西：“创造新产品”。也指创建：“创建账号”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "制作出新的东西。"
+    "zh": "制作出新的东西：“创造新产品”。也指创建：“创建账号”。"
    },
    "antonyms": []
   },
@@ -30409,7 +30492,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "除了",
-   "alternatives": [],
+   "alternatives": [
+    "除",
+    "除去"
+   ],
    "reading": "chúle",
    "romanization": "chúle",
    "classifications": [
@@ -30422,11 +30508,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1142,
-   "description": "不包括在内。",
+   "description": "不包括在内：“除了他以外”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "不包括在内。"
+    "zh": "不包括在内：“除了他以外”。"
    },
    "antonyms": []
   },
@@ -30521,16 +30607,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "有限的",
-   "alternatives": [],
+   "alternatives": [
+    "有限",
+    "受限的"
+   ],
    "reading": "yǒuxiàn de",
    "romanization": "yǒuxiàn de",
    "study_tier": "cedo",
    "study_priority": 1143,
    "user_hint": "",
-   "description": "数量少；有限制。",
+   "description": "数量少，有限制：“有限的时间”。也指受限制的公司：“有限公司”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "数量少；有限制。"
+    "zh": "数量少，有限制：“有限的时间”。也指受限制的公司：“有限公司”。"
    },
    "antonyms": []
   },
@@ -30656,17 +30745,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "必需的",
    "alternatives": [
-    "必须的"
+    "必须的",
+    "必要的"
    ],
    "reading": "bìxū de",
    "romanization": "bìxū de",
    "study_tier": "cedo",
    "study_priority": 1146,
    "user_hint": "",
-   "description": "必不可少的。",
+   "description": "必不可少的：“必需品”。也指规定要有的：“必须填写”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "必不可少的。"
+    "zh": "必不可少的：“必需品”。也指规定要有的：“必须填写”。"
    },
    "antonyms": []
   },
@@ -30868,7 +30958,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "经过",
    "alternatives": [
-    "通过"
+    "通过",
+    "经由"
    ],
    "reading": "jīngguò",
    "romanization": "jīngguò",
@@ -30883,10 +30974,10 @@
    "study_tier": "cedo",
    "study_priority": 1147,
    "user_hint": "",
-   "description": "经过某地，或借助某物。",
+   "description": "经过某地，或借助某物：“经过北京”。也指通过某种渠道：“通过邮件”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "经过某地，或借助某物。"
+    "zh": "经过某地，或借助某物：“经过北京”。也指通过某种渠道：“通过邮件”。"
    },
    "antonyms": []
   },
@@ -30973,17 +31064,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "在前面",
    "alternatives": [
-    "在前方"
+    "在前方",
+    "提前"
    ],
    "reading": "zài qiánmiàn",
    "romanization": "zài qiánmiàn",
    "study_tier": "cedo",
    "study_priority": 1150,
-   "description": "处于某人或某物面向或前进的方向上。",
+   "description": "在前方：“向前走”。也指提前：“提前计划”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "处于某人或某物面向或前进的方向上。"
+    "zh": "在前方：“向前走”。也指提前：“提前计划”。"
    },
    "antonyms": []
   },
@@ -30999,7 +31091,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "允许",
    "alternatives": [
-    "让"
+    "让",
+    "准许"
    ],
    "reading": "yǔnxǔ",
    "romanization": "yǔnxǔ",
@@ -31014,10 +31107,10 @@
    "study_tier": "cedo",
    "study_priority": 1151,
    "user_hint": "",
-   "description": "让某人做某事。",
+   "description": "让某人做某事：“允许孩子玩”。也指使成为可能：“让他进来”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "让某人做某事。"
+    "zh": "让某人做某事：“允许孩子玩”。也指使成为可能：“让他进来”。"
    },
    "antonyms": []
   },
@@ -31064,7 +31157,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "打",
-   "alternatives": [],
+   "alternatives": [
+    "击打",
+    "战胜"
+   ],
    "reading": "dǎ",
    "romanization": "dǎ",
    "classifications": [
@@ -31078,10 +31174,10 @@
    "study_tier": "cedo",
    "study_priority": 1152,
    "user_hint": "",
-   "description": "连续多次击打。",
+   "description": "连续多次击打：“打鼓”。也指战胜：“打败对手”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "连续多次击打。"
+    "zh": "连续多次击打：“打鼓”。也指战胜：“打败对手”。"
    },
    "antonyms": []
   },
@@ -31279,7 +31375,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "双",
    "alternatives": [
-    "双倍的"
+    "双倍的",
+    "成对的"
    ],
    "reading": "shuāng",
    "romanization": "shuāng",
@@ -31294,10 +31391,10 @@
    "study_tier": "cedo",
    "study_priority": 1154,
    "user_hint": "",
-   "description": "两倍的；供两人用的。",
+   "description": "两倍的，供两人用的：“双人房”。也指两层：“双层”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "两倍的；供两人用的。"
+    "zh": "两倍的，供两人用的：“双人房”。也指两层：“双层”。"
    },
    "antonyms": []
   },
@@ -31887,7 +31984,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "当然",
    "alternatives": [
-    "肯定"
+    "肯定",
+    "一定"
    ],
    "reading": "dāngrán",
    "romanization": "dāngrán",
@@ -31901,11 +31999,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1161,
-   "description": "当然，没有疑问。",
+   "description": "当然，没有疑问：“当然可以”。也用来表示同意。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "当然，没有疑问。"
+    "zh": "当然，没有疑问：“当然可以”。也用来表示同意。"
    },
    "antonyms": []
   },
@@ -32123,17 +32221,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "女性的",
    "alternatives": [
-    "雌性"
+    "雌性",
+    "女的"
    ],
    "reading": "nǚxìng de",
    "romanization": "nǚxìng de",
    "study_tier": "cedo",
    "study_priority": 1165,
    "user_hint": "",
-   "description": "属于能生育后代的那一性别。",
+   "description": "属于能生育后代的那一性别：“女性”。也指雌性动物。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "属于能生育后代的那一性别。"
+    "zh": "属于能生育后代的那一性别：“女性”。也指雌性动物。"
    },
    "antonyms": []
   },
@@ -32149,7 +32248,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "集中",
    "alternatives": [
-    "专注"
+    "专注",
+    "聚焦"
    ],
    "reading": "jízhōng",
    "romanization": "jízhōng",
@@ -32164,10 +32264,10 @@
    "study_tier": "cedo",
    "study_priority": 1166,
    "user_hint": "",
-   "description": "把全部注意力放在某事上。",
+   "description": "把全部注意力放在某事上：“集中精力”。也指焦点：“聚焦”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把全部注意力放在某事上。"
+    "zh": "把全部注意力放在某事上：“集中精力”。也指焦点：“聚焦”。"
    },
    "antonyms": []
   },
@@ -32360,7 +32460,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "加入",
    "alternatives": [
-    "参加"
+    "参加",
+    "连接"
    ],
    "reading": "jiārù",
    "romanization": "jiārù",
@@ -32375,10 +32476,10 @@
    "study_tier": "cedo",
    "study_priority": 1167,
    "user_hint": "",
-   "description": "成为成员；连接。",
+   "description": "成为成员：“加入俱乐部”。也指连接：“把线连起来”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "成为成员；连接。"
+    "zh": "成为成员：“加入俱乐部”。也指连接：“把线连起来”。"
    },
    "antonyms": []
   },
@@ -32493,7 +32594,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "几乎",
    "alternatives": [
-    "差点儿"
+    "差点儿",
+    "快要"
    ],
    "reading": "jīhū",
    "romanization": "jīhū",
@@ -32507,11 +32609,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1168,
-   "description": "差一点，几乎。",
+   "description": "差一点，几乎：“几乎到了”。也表示接近：“将近一百”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "差一点，几乎。"
+    "zh": "差一点，几乎：“几乎到了”。也表示接近：“将近一百”。"
    },
    "antonyms": []
   },
@@ -32558,17 +32660,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "以前的",
    "alternatives": [
-    "上一个"
+    "上一个",
+    "先前的"
    ],
    "reading": "yǐqián de",
    "romanization": "yǐqián de",
    "study_tier": "cedo",
    "study_priority": 1169,
-   "description": "在前面的，之前的。",
+   "description": "在前面的，之前的：“以前的工作”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在前面的，之前的。"
+    "zh": "在前面的，之前的：“以前的工作”。"
    },
    "antonyms": []
   },
@@ -32815,7 +32918,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "考虑",
-   "alternatives": [],
+   "alternatives": [
+    "思考",
+    "斟酌"
+   ],
    "reading": "kǎolǜ",
    "romanization": "kǎolǜ",
    "classifications": [
@@ -32829,10 +32935,10 @@
    "study_tier": "cedo",
    "study_priority": 1174,
    "user_hint": "",
-   "description": "仔细思考。",
+   "description": "仔细思考：“考虑问题”。也指把某事作为因素：“考虑到天气”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "仔细思考。"
+    "zh": "仔细思考：“考虑问题”。也指把某事作为因素：“考虑到天气”。"
    },
    "antonyms": []
   },
@@ -33054,17 +33160,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "积极的",
    "alternatives": [
-    "正面的"
+    "正面的",
+    "乐观的"
    ],
    "reading": "jījí de",
    "romanization": "jījí de",
    "study_tier": "cedo",
    "study_priority": 1177,
    "user_hint": "",
-   "description": "好的，乐观的；大于零的。",
+   "description": "好的，乐观的：“积极的态度”。也指大于零的数，检测呈阳性。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "好的，乐观的；大于零的。"
+    "zh": "好的，乐观的：“积极的态度”。也指大于零的数，检测呈阳性。"
    },
    "antonyms": [
     "en:000001664"
@@ -33230,7 +33337,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "绝对",
    "alternatives": [
-    "当然"
+    "完全",
+    "绝对"
    ],
    "reading": "juéduì",
    "romanization": "juéduì",
@@ -33244,11 +33352,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1181,
-   "description": "表示没有例外或没有疑问。可用来加强肯定或否定的语气。",
+   "description": "表示没有例外或没有疑问：“绝对正确”。也强调否定：“绝对不行”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示没有例外或没有疑问。可用来加强肯定或否定的语气。"
+    "zh": "表示没有例外或没有疑问：“绝对正确”。也强调否定：“绝对不行”。"
    },
    "antonyms": []
   },
@@ -33264,17 +33372,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "额外的",
    "alternatives": [
-    "另外的"
+    "另外的",
+    "附加的"
    ],
    "reading": "éwài de",
    "romanization": "éwài de",
    "study_tier": "cedo",
    "study_priority": 1182,
    "user_hint": "",
-   "description": "额外的；更多的。",
+   "description": "额外的，更多的：“额外费用”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "额外的；更多的。"
+    "zh": "额外的，更多的：“额外费用”。"
    },
    "antonyms": []
   },
@@ -33295,6 +33404,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "超过",
    "alternatives": [
+    "超过",
     "在…那边"
    ],
    "reading": "chāoguò",
@@ -33309,11 +33419,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1183,
-   "description": "比某处更远。",
+   "description": "比某处更远：“在山那边”。也表示超过：“超出范围”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "比某处更远。"
+    "zh": "比某处更远：“在山那边”。也表示超过：“超出范围”。"
    },
    "antonyms": []
   },
@@ -33364,16 +33474,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "额外的",
-   "alternatives": [],
+   "alternatives": [
+    "额外",
+    "另外"
+   ],
    "reading": "éwài de",
    "romanization": "éwài de",
    "study_tier": "cedo",
    "study_priority": 1184,
-   "description": "比平常更多的。",
+   "description": "比平常更多的：“额外的时间”。也指另加：“加班”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "比平常更多的。"
+    "zh": "比平常更多的：“额外的时间”。也指另加：“加班”。"
    },
    "antonyms": []
   },
@@ -33395,7 +33508,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "立刻",
    "alternatives": [
-    "马上"
+    "马上",
+    "立即"
    ],
    "reading": "lìkè",
    "romanization": "lìkè",
@@ -33409,11 +33523,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1185,
-   "description": "马上，一点也不拖延。",
+   "description": "马上，一点也不拖延：“立刻出发”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "马上，一点也不拖延。"
+    "zh": "马上，一点也不拖延：“立刻出发”。"
    },
    "antonyms": []
   },
@@ -33645,7 +33759,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "除非",
-   "alternatives": [],
+   "alternatives": [
+    "除非",
+    "若不"
+   ],
    "reading": "chúfēi",
    "romanization": "chúfēi",
    "classifications": [
@@ -33658,11 +33775,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1187,
-   "description": "如果不……的话。",
+   "description": "如果不……的话：“除非你来”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "如果不……的话。"
+    "zh": "如果不……的话：“除非你来”。"
    },
    "antonyms": []
   },
@@ -34199,16 +34316,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "花",
-   "alternatives": [],
+   "alternatives": [
+    "花费",
+    "消耗"
+   ],
    "reading": "huā",
    "romanization": "huā",
    "study_tier": "cedo",
    "study_priority": 1195,
-   "description": "用钱购买商品、支付费用等。",
+   "description": "用钱购买商品、支付费用：“花钱”。也指消耗时间：“花时间”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "用钱购买商品、支付费用等。"
+    "zh": "用钱购买商品、支付费用：“花钱”。也指消耗时间：“花时间”。"
    },
    "antonyms": []
   },
@@ -34426,7 +34546,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "肯定",
    "alternatives": [
-    "一定"
+    "一定",
+    "当然"
    ],
    "reading": "kěndìng",
    "romanization": "kěndìng",
@@ -34440,11 +34561,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1200,
-   "description": "肯定，毫无疑问。",
+   "description": "毫无疑问：“肯定会来”。也用来强烈肯定：“一定”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "肯定，毫无疑问。"
+    "zh": "毫无疑问：“肯定会来”。也用来强烈肯定：“一定”。"
    },
    "antonyms": []
   },
@@ -34765,7 +34886,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "宽",
-   "alternatives": [],
+   "alternatives": [
+    "宽阔",
+    "宽广"
+   ],
    "reading": "kuān",
    "romanization": "kuān",
    "classifications": [
@@ -34779,10 +34903,10 @@
    "study_tier": "cedo",
    "study_priority": 1204,
    "user_hint": "",
-   "description": "从一边到另一边距离大。",
+   "description": "从一边到另一边距离大：“宽路”。也形容范围广：“广泛”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "从一边到另一边距离大。"
+    "zh": "从一边到另一边距离大：“宽路”。也形容范围广：“广泛”。"
    },
    "antonyms": []
   },
@@ -34903,7 +35027,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "声称",
    "alternatives": [
-    "要求"
+    "要求",
+    "宣称"
    ],
    "reading": "shēngchēng",
    "romanization": "shēngchēng",
@@ -34918,10 +35043,10 @@
    "study_tier": "cedo",
    "study_priority": 1206,
    "user_hint": "",
-   "description": "声称某事属实；要求属于自己的东西。",
+   "description": "声称某事属实：“声称自己赢了”。也指要求属于自己的东西：“索赔”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "声称某事属实；要求属于自己的东西。"
+    "zh": "声称某事属实：“声称自己赢了”。也指要求属于自己的东西：“索赔”。"
    },
    "antonyms": []
   },
@@ -35053,17 +35178,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "一般地",
    "alternatives": [
-    "通常"
+    "通常",
+    "大体"
    ],
    "reading": "yìbān de",
    "romanization": "yìbān de",
    "study_tier": "cedo",
    "study_priority": 1208,
    "user_hint": "",
-   "description": "通常；在大多数情况下。",
+   "description": "通常，在大多数情况下：“一般来说”。也指大致地。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "通常；在大多数情况下。"
+    "zh": "通常，在大多数情况下：“一般来说”。也指大致地。"
    },
    "antonyms": [
     "en:000002230"
@@ -35104,16 +35230,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "全球的",
-   "alternatives": [],
+   "alternatives": [
+    "全球",
+    "世界性的"
+   ],
    "reading": "quánqiú de",
    "romanization": "quánqiú de",
    "study_tier": "cedo",
    "study_priority": 1210,
    "user_hint": "",
-   "description": "整个世界的。",
+   "description": "整个世界的：“全球变暖”。也指整体的。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "整个世界的。"
+    "zh": "整个世界的：“全球变暖”。也指整体的。"
    },
    "antonyms": []
   },
@@ -35209,16 +35338,18 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "感兴趣的",
-   "alternatives": [],
+   "alternatives": [
+    "有兴趣的"
+   ],
    "reading": "gǎn xìngqù de",
    "romanization": "gǎn xìngqù de",
    "study_tier": "cedo",
    "study_priority": 1211,
-   "description": "想进一步了解某事。",
+   "description": "想进一步了解某事：“对音乐感兴趣”。也指有意参与：“有兴趣吗？”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "想进一步了解某事。"
+    "zh": "想进一步了解某事：“对音乐感兴趣”。也指有意参与：“有兴趣吗？”。"
    },
    "antonyms": []
   },
@@ -35508,7 +35639,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "加",
    "alternatives": [
-    "加上"
+    "加上",
+    "外加"
    ],
    "reading": "jiā",
    "romanization": "jiā",
@@ -35522,14 +35654,14 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1217,
-   "description": "和；加上（＋）。",
+   "description": "和，加上：“二加三”。也表示另外还有：“再加上”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003169"
    ],
    "nativeExplain": {
-    "zh": "和；加上（＋）。"
+    "zh": "和，加上：“二加三”。也表示另外还有：“再加上”。"
    }
   },
   {
@@ -35581,17 +35713,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "普通的",
    "alternatives": [
-    "定期的"
+    "定期的",
+    "经常的"
    ],
    "reading": "pǔtōng de",
    "romanization": "pǔtōng de",
    "study_tier": "cedo",
    "study_priority": 1219,
    "user_hint": "",
-   "description": "普通的；按固定时间发生的。",
+   "description": "普通的，按固定时间发生的：“常规检查”。也指常客。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "普通的；按固定时间发生的。"
+    "zh": "普通的，按固定时间发生的：“常规检查”。也指常客。"
    },
    "antonyms": []
   },
@@ -35743,17 +35876,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "每年的",
    "alternatives": [
-    "年度的"
+    "年度的",
+    "一年一次的"
    ],
    "reading": "měinián de",
    "romanization": "měinián de",
    "study_tier": "cedo",
    "study_priority": 1221,
    "user_hint": "",
-   "description": "每年一次的。",
+   "description": "每年一次的：“年会”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "每年一次的。"
+    "zh": "每年一次的：“年会”。"
    },
    "antonyms": []
   },
@@ -35769,17 +35903,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "不再",
    "alternatives": [
-    "再也"
+    "再也",
+    "不再"
    ],
    "reading": "bú zài",
    "romanization": "bú zài",
    "study_tier": "cedo",
    "study_priority": 1222,
    "user_hint": "",
-   "description": "表示某事已经不再发生，如“不再”。",
+   "description": "表示某事已经不再发生：“不再住这里”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表示某事已经不再发生，如“不再”。"
+    "zh": "表示某事已经不再发生：“不再住这里”。"
    },
    "antonyms": []
   },
@@ -36263,16 +36398,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "身体的",
-   "alternatives": [],
+   "alternatives": [
+    "身体的",
+    "物质的"
+   ],
    "reading": "shēntǐ de",
    "romanization": "shēntǐ de",
    "study_tier": "cedo",
    "study_priority": 1229,
    "user_hint": "",
-   "description": "与身体有关的。",
+   "description": "与身体有关的：“身体检查”。也指实体的：“有形的”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "与身体有关的。"
+    "zh": "与身体有关的：“身体检查”。也指实体的：“有形的”。"
    },
    "antonyms": [
     "en:000001529"
@@ -36314,7 +36452,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "到达",
    "alternatives": [
-    "够到"
+    "够到",
+    "抵达"
    ],
    "reading": "dàodá",
    "romanization": "dàodá",
@@ -36329,10 +36468,10 @@
    "study_tier": "cedo",
    "study_priority": 1231,
    "user_hint": "",
-   "description": "到达某处；伸手够到。",
+   "description": "到达某处：“到达终点”。也指伸手够到：“够到书”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "到达某处；伸手够到。"
+    "zh": "到达某处：“到达终点”。也指伸手够到：“够到书”。"
    },
    "antonyms": []
   },
@@ -36484,16 +36623,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "成功的",
-   "alternatives": [],
+   "alternatives": [
+    "有成就的",
+    "成功"
+   ],
    "reading": "chénggōng de",
    "romanization": "chénggōng de",
    "study_tier": "cedo",
    "study_priority": 1233,
    "user_hint": "",
-   "description": "取得了成功的。",
+   "description": "取得了成功的：“成功的商人”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "取得了成功的。"
+    "zh": "取得了成功的：“成功的商人”。"
    },
    "antonyms": []
   },
@@ -36509,17 +36651,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "积极的",
    "alternatives": [
-    "活跃的"
+    "活跃的",
+    "积极的"
    ],
    "reading": "jījí de",
    "romanization": "jījí de",
    "study_tier": "cedo",
    "study_priority": 1234,
    "user_hint": "",
-   "description": "忙着做事；精力充沛。",
+   "description": "忙着做事，精力充沛：“活跃的孩子”。也指处于运行状态。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "忙着做事；精力充沛。"
+    "zh": "忙着做事，精力充沛：“活跃的孩子”。也指处于运行状态。"
    },
    "antonyms": []
   },
@@ -36569,7 +36712,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "接近",
    "alternatives": [
-    "靠近"
+    "靠近",
+    "对待"
    ],
    "reading": "jiējìn",
    "romanization": "jiējìn",
@@ -36584,10 +36728,10 @@
    "study_tier": "cedo",
    "study_priority": 1235,
    "user_hint": "",
-   "description": "靠近。",
+   "description": "靠近：“接近目标”。也指处理问题的方式：“处理方法”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "靠近。"
+    "zh": "靠近：“接近目标”。也指处理问题的方式：“处理方法”。"
    },
    "antonyms": []
   },
@@ -36820,16 +36964,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "独立的",
-   "alternatives": [],
+   "alternatives": [
+    "自主的",
+    "单独的"
+   ],
    "reading": "dúlì de",
    "romanization": "dúlì de",
    "study_tier": "cedo",
    "study_priority": 1239,
    "user_hint": "",
-   "description": "自由；不受他人控制。",
+   "description": "自由，不受他人控制：“独立生活”。也指单独的：“独立的机构”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "自由；不受他人控制。"
+    "zh": "自由，不受他人控制：“独立生活”。也指单独的：“独立的机构”。"
    },
    "antonyms": []
   },
@@ -37014,17 +37161,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "想知道",
    "alternatives": [
-    "好奇"
+    "好奇",
+    "琢磨"
    ],
    "reading": "xiǎng zhīdào",
    "romanization": "xiǎng zhīdào",
    "study_tier": "cedo",
    "study_priority": 1242,
    "user_hint": "",
-   "description": "自问；感到好奇。",
+   "description": "自问，感到好奇：“想知道他在哪”。也指感叹：“惊讶”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "自问；感到好奇。"
+    "zh": "自问，感到好奇：“想知道他在哪”。也指感叹：“惊讶”。"
    },
    "antonyms": []
   },
@@ -37210,17 +37358,18 @@
    "translation_confidence": "editorial-reviewed",
    "text": "清楚地",
    "alternatives": [
-    "显然"
+    "显然",
+    "明确地"
    ],
    "reading": "qīngchu de",
    "romanization": "qīngchu de",
    "study_tier": "cedo",
    "study_priority": 1245,
    "user_hint": "",
-   "description": "让人看得明白、听得清楚地。",
+   "description": "让人看得明白、听得清楚：“说得清楚”。也表示显然：“显然如此”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "让人看得明白、听得清楚地。"
+    "zh": "让人看得明白、听得清楚：“说得清楚”。也表示显然：“显然如此”。"
    },
    "antonyms": []
   },
@@ -37391,7 +37540,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "想象",
-   "alternatives": [],
+   "alternatives": [
+    "设想",
+    "想像"
+   ],
    "reading": "xiǎngxiàng",
    "romanization": "xiǎngxiàng",
    "classifications": [
@@ -37405,10 +37557,10 @@
    "study_tier": "cedo",
    "study_priority": 1247,
    "user_hint": "",
-   "description": "在脑海里构想出画面。",
+   "description": "在脑海里构想出画面：“想象未来”。也指推测：“我想他会来”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "在脑海里构想出画面。"
+    "zh": "在脑海里构想出画面：“想象未来”。也指推测：“我想他会来”。"
    },
    "antonyms": []
   },
