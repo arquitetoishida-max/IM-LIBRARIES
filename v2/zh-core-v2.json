@@ -105701,11 +105701,14 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "",
-   "text": "了",
-   "alternatives": [],
+   "text": "患上",
+   "alternatives": [
+    "得",
+    "感冒"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "le",
+   "reading": "huànshàng",
    "romanization": "le",
    "study_tier": "cedo",
    "study_priority": 3441,
@@ -106687,21 +106690,23 @@
    "english_id": "en:000004034",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "",
-   "text": "远见",
-   "alternatives": [],
+   "description_en": "A clear idea of how the future could be.",
+   "text": "愿景",
+   "alternatives": [
+    "远见"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "yuǎnjiàn",
+   "reading": "yuànjǐng",
    "romanization": "yuǎnjiàn",
    "study_tier": "cedo",
    "study_priority": 3455,
    "core_status": "retired",
    "duplicate_of": "en:000002335",
    "user_hint": "",
-   "description": "对未来的构想和远见。",
+   "description": "对未来的清晰构想。",
    "nativeExplain": {
-    "zh": "对未来的构想和远见。"
+    "zh": "对未来的清晰构想。"
    },
    "level": "B2",
    "antonyms": []
