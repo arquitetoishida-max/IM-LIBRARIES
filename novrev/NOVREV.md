@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2950 foram percorridas. Retomar na posição 2951, `en:000002241` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–3040 foram percorridas. Retomar na posição 3041, `en:000002883` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -267,6 +267,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 88 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2861–2950; 2 já tratadas). Delimitados *demand* (pedido), *prime*, *cast* (elenco), *domestic* (país), *appeal* (atrativo) e *grown* (adulto: adulto, 大人の, 成年的).
 - Criados três espelhos: `en:000004293` *demand* (procura: demanda, 需要, 需求), `en:000004294` *cast* (gesso, ギプス, 石膏) e `en:000004295` *appeal* (pedido: apelo, 訴え, 呼吁).
 - A Kanji Study foi consultada para 需, 訴 e 魅. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 2951–3040
+
+- 86 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2951–3040; 4 já tratadas). Delimitados *coverage* (notícia), *resolution* (decisão firme; a tela tem ID próprio), *attached* (ligado) e *distribution*. Em *legislation*, os termos japonês e chinês repetiam *law*; passaram a 法令 e 法规. Em *head for*, retirada a citação em inglês.
+- Criados dois espelhos: `en:000004296` *coverage* (seguro: cobertura, 補償範囲, 保障范围) e `en:000004297` *attached* (afetivo: apegado, 愛着のある, 依恋的).
+- A Kanji Study foi consultada para 令, 愛 e 着. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
