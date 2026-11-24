@@ -261,12 +261,15 @@
    "study_priority": 5,
    "nativeExplain": {
     "pt-BR": "pessoa com quem se fala",
-    "en": "The person or people being addressed."
+    "en": "The person or people you are talking to: \"Can you help?\". Works for one person or a group."
    },
-   "description": "The person or people being addressed.",
+   "description": "The person or people you are talking to: \"Can you help?\". Works for one person or a group.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "you all"
+   ]
   },
   {
    "id": "en:000000010",
@@ -613,13 +616,17 @@
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 8,
-   "description": "To own or possess something.",
+   "description": "To own or possess something: \"I have a car.\" Also used for family, time or a feature (\"she has two sisters\"), and to form perfect tenses (\"I have eaten\").",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To own or possess something."
+    "en": "To own or possess something: \"I have a car.\" Also used for family, time or a feature (\"she has two sisters\"), and to form perfect tenses (\"I have eaten\")."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "own",
+    "possess"
+   ]
   },
   {
    "id": "en:000000019",
@@ -846,14 +853,17 @@
    "part_of_speech": "pron",
    "nativeExplain": {
     "pt-BR": "sujeito",
-    "en": "The speaker and other people together."
+    "en": "The speaker and other people together: \"We live here.\" Also used for a group the speaker belongs to."
    },
    "study_tier": "núcleo inicial",
    "study_priority": 13,
-   "description": "The speaker and other people together.",
+   "description": "The speaker and other people together: \"We live here.\" Also used for a group the speaker belongs to.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "us"
+   ]
   },
   {
    "id": "en:000000029",
@@ -1064,9 +1074,9 @@
    "study_priority": 15,
    "nativeExplain": {
     "pt-BR": "Número um: 一",
-    "en": "The number 1."
+    "en": "The number 1. Also means a single, not-specific thing: \"one day\", \"one of them\"."
    },
-   "description": "The number 1.",
+   "description": "The number 1. Also means a single, not-specific thing: \"one day\", \"one of them\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -1438,11 +1448,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "ação, tarefa",
-    "en": "To perform an action (\"do homework\")."
+    "en": "To perform an action: \"do homework\". Also used for questions and negatives (\"Do you know?\", \"I do not know\") and to avoid repeating a verb."
    },
    "study_tier": "núcleo inicial",
    "study_priority": 21,
-   "description": "To perform an action (\"do homework\").",
+   "description": "To perform an action: \"do homework\". Also used for questions and negatives (\"Do you know?\", \"I do not know\") and to avoid repeating a verb.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -1477,6 +1487,10 @@
      "text": "doing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "perform",
+    "carry out"
    ]
   },
   {
@@ -1561,14 +1575,17 @@
    "part_of_speech": "pron",
    "nativeExplain": {
     "pt-BR": "pergunta pela pessoa",
-    "en": "Asks which person."
+    "en": "Asks which person: \"Who is she?\". Also joins a clause to a person: \"the man who called\"."
    },
    "study_tier": "núcleo inicial",
    "study_priority": 23,
-   "description": "Asks which person.",
+   "description": "Asks which person: \"Who is she?\". Also joins a clause to a person: \"the man who called\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "which person"
+   ]
   },
   {
    "id": "en:000000052",
@@ -2004,14 +2021,17 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "de que maneira",
-    "en": "Asks by what method or in what way."
+    "en": "Asks by what method or in what way: \"How do you do it?\". Also asks about degree or condition: \"How are you?\", \"how much\"."
    },
    "study_tier": "núcleo inicial",
    "study_priority": 26,
-   "description": "Asks by what method or in what way.",
+   "description": "Asks by what method or in what way: \"How do you do it?\". Also asks about degree or condition: \"How are you?\", \"how much\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "in what way"
+   ]
   },
   {
    "id": "en:000000066",
@@ -2161,13 +2181,17 @@
    "part_of_speech": "adv",
    "study_tier": "núcleo inicial",
    "study_priority": 27,
-   "description": "At this moment.",
+   "description": "At this moment: \"I am busy now.\" Also marks a change: \"Now it is my turn.\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "At this moment."
+    "en": "At this moment: \"I am busy now.\" Also marks a change: \"Now it is my turn.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "at present",
+    "currently"
+   ]
   },
   {
    "id": "en:000000071",
@@ -2336,15 +2360,19 @@
    "part_of_speech": "adj",
    "study_tier": "núcleo inicial",
    "study_priority": 28,
-   "description": "Of high quality; pleasant.",
+   "description": "Of high quality or pleasant: \"a good book\". Also describes a kind person, skill or health: \"good at math\", \"I feel good\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Of high quality; pleasant."
+    "en": "Of high quality or pleasant: \"a good book\". Also describes a kind person, skill or health: \"good at math\", \"I feel good\"."
    },
    "antonyms": [
     "en:000000260",
     "en:000001822"
+   ],
+   "alternatives": [
+    "fine",
+    "nice"
    ]
   },
   {
@@ -2620,9 +2648,9 @@
    "study_priority": 31,
    "nativeExplain": {
     "pt-BR": "Número dois: 二",
-    "en": "The number 2."
+    "en": "The number 2. Also means a pair: \"two of us\", \"two o'clock\"."
    },
-   "description": "The number 2.",
+   "description": "The number 2. Also means a pair: \"two of us\", \"two o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -3063,15 +3091,19 @@
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 34,
-   "description": "To move from one place to another.",
+   "description": "To move from one place to another: \"go to school\". Also means to leave, to work (\"it goes well\") and to become (\"go bad\").",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000154"
    ],
    "nativeExplain": {
-    "en": "To move from one place to another."
-   }
+    "en": "To move from one place to another: \"go to school\". Also means to leave, to work (\"it goes well\") and to become (\"go bad\")."
+   },
+   "alternatives": [
+    "travel",
+    "leave"
+   ]
   },
   {
    "id": "en:000000097",
@@ -3245,14 +3277,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "intensidade antes de adjetivo",
-    "en": "To a great degree (\"very big\")."
+    "en": "To a great degree: \"very big\". Also strengthens an idea: \"the very best\"."
    },
    "study_tier": "inicial",
    "study_priority": 36,
-   "description": "To a great degree (\"very big\").",
+   "description": "To a great degree: \"very big\". Also strengthens an idea: \"the very best\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "really",
+    "extremely"
+   ]
   },
   {
    "id": "en:000000103",
@@ -3377,14 +3413,17 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 38,
-   "description": "In this place.",
+   "description": "In this place: \"Come here.\" Also marks a point in a talk or time: \"here and now\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "In this place."
+    "en": "In this place: \"Come here.\" Also marks a point in a talk or time: \"here and now\"."
    },
    "antonyms": [
     "en:000000055"
+   ],
+   "alternatives": [
+    "in this place"
    ]
   },
   {
@@ -3404,11 +3443,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 39,
-   "description": "To require something.",
+   "description": "To require something: \"I need water.\" Also shows a duty: \"You need to go.\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To require something."
+    "en": "To require something: \"I need water.\" Also shows a duty: \"You need to go.\""
    },
    "antonyms": [],
    "forms": [
@@ -3440,6 +3479,10 @@
      "text": "needing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "require",
+    "must"
    ]
   },
   {
@@ -3521,14 +3564,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "correto",
-    "en": "Correct; true."
+    "en": "Correct or true: \"the right answer\". Also means proper or fair: \"the right thing to do\", and the opposite of left."
    },
    "study_tier": "inicial",
    "study_priority": 41,
-   "description": "Correct; true.",
+   "description": "Correct or true: \"the right answer\". Also means proper or fair: \"the right thing to do\", and the opposite of left.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "correct",
+    "proper"
+   ]
   },
   {
    "id": "en:000000112",
@@ -3550,14 +3597,18 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "A job; things you do to earn money."
+    "en": "A job, or things you do to earn money: \"go to work\". Also means effort or a product: \"hard work\", \"a work of art\"."
    },
    "study_tier": "inicial",
    "study_priority": 42,
-   "description": "A job; things you do to earn money.",
+   "description": "A job, or things you do to earn money: \"go to work\". Also means effort or a product: \"hard work\", \"a work of art\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "job",
+    "labor"
+   ]
   },
   {
    "id": "en:000000113",
@@ -3576,13 +3627,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 43,
-   "description": "A period of twelve months.",
+   "description": "A period of twelve months: \"last year\". Also gives age (\"ten years old\") or a school grade.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A period of twelve months."
+    "en": "A period of twelve months: \"last year\". Also gives age (\"ten years old\") or a school grade."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "twelve months"
+   ]
   },
   {
    "id": "en:000000115",
@@ -3626,15 +3680,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 44,
-   "description": "A period of 24 hours.",
+   "description": "A period of 24 hours, or the light part of it: \"a sunny day\". Also means a date: \"the day of the party\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000213"
    ],
    "nativeExplain": {
-    "en": "A period of 24 hours."
-   }
+    "en": "A period of 24 hours, or the light part of it: \"a sunny day\". Also means a date: \"the day of the party\"."
+   },
+   "alternatives": [
+    "24 hours",
+    "daytime"
+   ]
   },
   {
    "id": "en:000000117",
@@ -3769,13 +3827,16 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 45,
-   "description": "Asks for the reason.",
+   "description": "Asks for the reason: \"Why are you late?\". Also gives a reason in a clause: \"that is why I left\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Asks for the reason."
+    "en": "Asks for the reason: \"Why are you late?\". Also gives a reason in a clause: \"that is why I left\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "for what reason"
+   ]
   },
   {
    "id": "en:000000122",
@@ -3854,11 +3915,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "pegar e levar",
-    "en": "To pick up and carry; to grab."
+    "en": "To pick up and carry, or to grab: \"take a book\". Also means to need time (\"it takes an hour\"), to use transport or to accept."
    },
    "study_tier": "inicial",
    "study_priority": 47,
-   "description": "To pick up and carry; to grab.",
+   "description": "To pick up and carry, or to grab: \"take a book\". Also means to need time (\"it takes an hour\"), to use transport or to accept.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -3895,6 +3956,10 @@
      "text": "taking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "grab",
+    "carry"
    ]
   },
   {
@@ -3979,7 +4044,7 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 49,
-   "description": "At no time or on no occasion.",
+   "description": "At no time: \"I never eat meat.\" Also gives strong refusal: \"Never!\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -3987,8 +4052,12 @@
     "en:000000196"
    ],
    "nativeExplain": {
-    "en": "At no time or on no occasion."
-   }
+    "en": "At no time: \"I never eat meat.\" Also gives strong refusal: \"Never!\""
+   },
+   "alternatives": [
+    "not ever",
+    "at no time"
+   ]
   },
   {
    "id": "en:000000128",
@@ -4054,11 +4123,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 50,
-   "description": "To speak words.",
+   "description": "To speak words: \"say hello\". Also means to state an idea or report what is written: \"the sign says stop\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To speak words."
+    "en": "To speak words: \"say hello\". Also means to state an idea or report what is written: \"the sign says stop\"."
    },
    "antonyms": [],
    "forms": [
@@ -4091,6 +4160,10 @@
      "text": "saying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "speak",
+    "state"
    ]
   },
   {
@@ -4157,13 +4230,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 51,
-   "description": "Very good; wonderful.",
+   "description": "Very good or wonderful: \"a great movie\". Also means big or important: \"a great day\", and shows approval: \"Great!\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Very good; wonderful."
+    "en": "Very good or wonderful: \"a great movie\". Also means big or important: \"a great day\", and shows approval: \"Great!\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "wonderful",
+    "excellent"
+   ]
   },
   {
    "id": "en:000000134",
@@ -4416,15 +4493,19 @@
    "class_real": "noun",
    "study_tier": "inicial",
    "study_priority": 52,
-   "description": "A strong feeling of caring for someone.",
+   "description": "A strong feeling of caring for someone: \"love for family\". Also means strong liking for a thing, and a term of address.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000780"
    ],
    "nativeExplain": {
-    "en": "A strong feeling of caring for someone."
-   }
+    "en": "A strong feeling of caring for someone: \"love for family\". Also means strong liking for a thing, and a term of address."
+   },
+   "alternatives": [
+    "affection",
+    "passion"
+   ]
   },
   {
    "id": "en:000000142",
@@ -4443,14 +4524,14 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 53,
-   "description": "An adult male person.",
+   "description": "An adult male person: \"a tall man\". Also means humankind in general or a person.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000435"
    ],
    "nativeExplain": {
-    "en": "An adult male person."
+    "en": "An adult male person: \"a tall man\". Also means humankind in general or a person."
    },
    "forms": [
     {
@@ -4461,6 +4542,10 @@
      "study_tier": "standard",
      "description_en": "The irregular plural of man."
     }
+   ],
+   "alternatives": [
+    "adult male",
+    "gentleman"
    ]
   },
   {
@@ -4481,14 +4566,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "o lar",
-    "en": "The place where you live."
+    "en": "The place where you live: \"go home\". Also means family life or the place something comes from."
    },
    "study_tier": "inicial",
    "study_priority": 54,
-   "description": "The place where you live.",
+   "description": "The place where you live: \"go home\". Also means family life or the place something comes from.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "residence",
+    "household"
+   ]
   },
   {
    "id": "en:000000144",
@@ -4534,11 +4623,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 55,
-   "description": "To turn your eyes toward something.",
+   "description": "To turn your eyes toward something: \"look at me\". Also means to seem (\"you look tired\") or to search (\"look for\").",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To turn your eyes toward something."
+    "en": "To turn your eyes toward something: \"look at me\". Also means to seem (\"you look tired\") or to search (\"look for\")."
    },
    "antonyms": [],
    "forms": [
@@ -4571,6 +4660,10 @@
      "text": "looking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "watch",
+    "gaze"
    ]
   },
   {
@@ -4591,13 +4684,16 @@
    "part_of_speech": "pron",
    "study_tier": "inicial",
    "study_priority": 56,
-   "description": "An unspecified thing, action or fact.",
+   "description": "An unspecified thing, action or fact: \"I need something to eat.\" Also used in questions and offers: \"Want something?\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An unspecified thing, action or fact."
+    "en": "An unspecified thing, action or fact: \"I need something to eat.\" Also used in questions and offers: \"Want something?\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "some thing"
+   ]
   },
   {
    "id": "en:000000147",
@@ -4718,14 +4814,18 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 58,
-   "description": "Not different.",
+   "description": "Not different: \"the same color\". Also means the one already mentioned: \"the same man\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not different."
+    "en": "Not different: \"the same color\". Also means the one already mentioned: \"the same man\"."
    },
    "antonyms": [
     "en:000000223"
+   ],
+   "alternatives": [
+    "identical",
+    "alike"
    ]
   },
   {
@@ -4909,14 +5009,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 59,
-   "description": "To move toward the speaker.",
+   "description": "To move toward the speaker or a place: \"come here\". Also means to arrive, to originate (\"come from\") or to attend.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000096"
    ],
    "nativeExplain": {
-    "en": "To move toward the speaker."
+    "en": "To move toward the speaker or a place: \"come here\". Also means to arrive, to originate (\"come from\") or to attend."
    },
    "forms": [
     {
@@ -4948,6 +5048,10 @@
      "text": "coming",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "arrive",
+    "approach"
    ]
   },
   {
@@ -5020,11 +5124,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 60,
-   "description": "The number 3.",
+   "description": "The number 3. Also used for a group of three: \"three friends\", \"three o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 3."
+    "en": "The number 3. Also used for a group of three: \"three friends\", \"three o'clock\"."
    },
    "antonyms": []
   },
@@ -5100,15 +5204,19 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 61,
-   "description": "Every time; all the time.",
+   "description": "Every time, all the time: \"she always smiles\". Also means forever, or repeatedly in a bothersome way: \"always late\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000127"
    ],
    "nativeExplain": {
-    "en": "Every time; all the time."
-   }
+    "en": "Every time, all the time: \"she always smiles\". Also means forever, or repeatedly in a bothersome way: \"always late\"."
+   },
+   "alternatives": [
+    "every time",
+    "forever"
+   ]
   },
   {
    "id": "en:000000161",
@@ -5214,11 +5322,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 63,
-   "description": "To make things easier for someone.",
+   "description": "To make things easier for someone: \"help me\". Also means to support or improve: \"water helps\", and to serve oneself: \"help yourself\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To make things easier for someone."
+    "en": "To make things easier for someone: \"help me\". Also means to support or improve: \"water helps\", and to serve oneself: \"help yourself\"."
    },
    "antonyms": [],
    "forms": [
@@ -5251,6 +5359,10 @@
      "text": "helping",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "assist",
+    "aid"
    ]
   },
   {
@@ -5585,12 +5697,16 @@
    "study_tier": "inicial",
    "study_priority": 65,
    "user_hint": "",
-   "description": "An object; something.",
+   "description": "An object or something not named: \"a nice thing\". Also means a matter or fact: \"many things happened\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "An object; something."
+    "en": "An object or something not named: \"a nice thing\". Also means a matter or fact: \"many things happened\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "object",
+    "matter"
+   ]
   },
   {
    "id": "en:000000177",
@@ -5609,14 +5725,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 66,
-   "description": "To hand something to someone.",
+   "description": "To hand something to someone: \"give a gift\". Also means to offer, to provide, or to cause: \"give a smile\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000124"
    ],
    "nativeExplain": {
-    "en": "To hand something to someone."
+    "en": "To hand something to someone: \"give a gift\". Also means to offer, to provide, or to cause: \"give a smile\"."
    },
    "forms": [
     {
@@ -5648,6 +5764,10 @@
      "text": "giving",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "hand",
+    "offer"
    ]
   },
   {
@@ -5668,14 +5788,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "o edifício",
-    "en": "A building where a family lives."
+    "en": "A building where a family lives: \"a big house\". Also means the people in it or a business: \"house of fashion\"."
    },
    "study_tier": "inicial",
    "study_priority": 67,
-   "description": "A building where a family lives.",
+   "description": "A building where a family lives: \"a big house\". Also means the people in it or a business: \"house of fashion\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "home",
+    "dwelling"
+   ]
   },
   {
    "id": "en:000000179",
@@ -5690,12 +5814,16 @@
    "study_tier": "inicial",
    "study_priority": 68,
    "user_hint": "",
-   "description": "A particular area or location.",
+   "description": "A particular area or location: \"a quiet place\". Also means a position in a list or race: \"first place\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "A particular area or location."
+    "en": "A particular area or location: \"a quiet place\". Also means a position in a list or race: \"first place\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "spot",
+    "location"
+   ]
   },
   {
    "id": "en:000000180",
@@ -5717,13 +5845,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 69,
-   "description": "A place where children go to learn.",
+   "description": "A place where children go to learn: \"go to school\". Also means a lesson period, a group of thinkers or a university part.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A place where children go to learn."
+    "en": "A place where children go to learn: \"go to school\". Also means a lesson period, a group of thinkers or a university part."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "academy",
+    "institution"
+   ]
   },
   {
    "id": "en:000000181",
@@ -5743,13 +5875,17 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 70,
-   "description": "One more time.",
+   "description": "One more time: \"try again\". Also means back to a former state: \"he is well again\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "One more time."
+    "en": "One more time: \"try again\". Also means back to a former state: \"he is well again\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "once more",
+    "anew"
+   ]
   },
   {
    "id": "en:000000182",
@@ -6034,14 +6170,14 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 71,
-   "description": "To let someone see something.",
+   "description": "To let someone see something: \"show a photo\". Also means to prove or to teach: \"show how to do it\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002753"
    ],
    "nativeExplain": {
-    "en": "To let someone see something."
+    "en": "To let someone see something: \"show a photo\". Also means to prove or to teach: \"show how to do it\"."
    },
    "forms": [
     {
@@ -6074,6 +6210,10 @@
      "text": "showing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "display",
+    "reveal"
    ]
   },
   {
@@ -6088,16 +6228,20 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "tamanho (mais comum)",
-    "en": "Large in size."
+    "en": "Large in size: \"a big house\". Also means important (\"a big day\"), older (\"big brother\") or popular."
    },
    "study_tier": "inicial",
    "study_priority": 72,
    "user_hint": "",
-   "description": "Large in size.",
+   "description": "Large in size: \"a big house\". Also means important (\"a big day\"), older (\"big brother\") or popular.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000165",
     "en:000000281"
+   ],
+   "alternatives": [
+    "large",
+    "great"
    ]
   },
   {
@@ -6247,13 +6391,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 73,
-   "description": "Parents, children and relatives.",
+   "description": "Parents, children and relatives: \"my family\". Also means a group with a common origin: \"a family of languages\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Parents, children and relatives."
+    "en": "Parents, children and relatives: \"my family\". Also means a group with a common origin: \"a family of languages\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "relatives",
+    "household"
+   ]
   },
   {
    "id": "en:000000198",
@@ -9348,11 +9496,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "dizer obrigado",
-    "en": "To say you are grateful."
+    "en": "To say you are grateful: \"thank you\". Also means to acknowledge someone's help: \"I thank everyone\"."
    },
    "study_tier": "inicial",
    "study_priority": 77,
-   "description": "To say you are grateful.",
+   "description": "To say you are grateful: \"thank you\". Also means to acknowledge someone's help: \"I thank everyone\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -9385,6 +9533,9 @@
      "text": "thanking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "be grateful"
    ]
   },
   {
@@ -9541,13 +9692,16 @@
    "study_tier": "inicial",
    "study_priority": 79,
    "user_hint": "",
-   "description": "The darkest color, like night.",
+   "description": "The darkest color, like night: \"black shoes\". Also describes dark hair, coffee without milk or something evil or sad.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The darkest color, like night."
+    "en": "The darkest color, like night: \"black shoes\". Also describes dark hair, coffee without milk or something evil or sad."
    },
    "antonyms": [
     "en:000000283"
+   ],
+   "alternatives": [
+    "dark"
    ]
   },
   {
@@ -9603,12 +9757,16 @@
    "study_tier": "inicial",
    "study_priority": 80,
    "user_hint": "",
-   "description": "With each other.",
+   "description": "With each other: \"live together\". Also means at the same time or as one group: \"together we win\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "With each other."
+    "en": "With each other: \"live together\". Also means at the same time or as one group: \"together we win\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "jointly",
+    "side by side"
+   ]
   },
   {
    "id": "en:000000320",
@@ -9730,11 +9888,11 @@
    "part_of_speech": "num",
    "study_tier": "inicial",
    "study_priority": 83,
-   "description": "The number 5.",
+   "description": "The number 5. Also used for a group of five: \"five fingers\", \"five o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 5."
+    "en": "The number 5. Also used for a group of five: \"five fingers\", \"five o'clock\"."
    },
    "antonyms": []
   },
@@ -9784,14 +9942,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "comum",
-    "en": "Perhaps."
+    "en": "Perhaps: \"maybe it will rain\". Also softens a suggestion: \"maybe we should go\"."
    },
    "study_tier": "inicial",
    "study_priority": 84,
-   "description": "Perhaps.",
+   "description": "Perhaps: \"maybe it will rain\". Also softens a suggestion: \"maybe we should go\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "perhaps",
+    "possibly"
+   ]
   },
   {
    "id": "en:000000327",
@@ -9898,12 +10060,16 @@
    "study_tier": "inicial",
    "study_priority": 85,
    "user_hint": "",
-   "description": "The condition of your body and mind.",
+   "description": "The condition of your body and mind: \"good health\". Also appears in toasts: \"to your health\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The condition of your body and mind."
+    "en": "The condition of your body and mind: \"good health\". Also appears in toasts: \"to your health\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "wellness",
+    "fitness"
+   ]
   },
   {
    "id": "en:000000334",
@@ -9979,14 +10145,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "Having great value or meaning."
+    "en": "Having great value or meaning: \"an important day\". Also describes a person with power or influence."
    },
    "study_tier": "inicial",
    "study_priority": 86,
-   "description": "Having great value or meaning.",
+   "description": "Having great value or meaning: \"an important day\". Also describes a person with power or influence.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "significant",
+    "major"
+   ]
   },
   {
    "id": "en:000000336",
@@ -10297,12 +10467,15 @@
    "study_tier": "inicial",
    "study_priority": 89,
    "user_hint": "",
-   "description": "Shows surprise or understanding.",
+   "description": "Shows surprise or understanding: \"oh, I see\". Also used to start a remark or show pain or disappointment.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Shows surprise or understanding."
+    "en": "Shows surprise or understanding: \"oh, I see\". Also used to start a remark or show pain or disappointment."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "ah"
+   ]
   },
   {
    "id": "en:000000348",
@@ -10379,13 +10552,17 @@
    "part_of_speech": "int",
    "study_tier": "inicial",
    "study_priority": 90,
-   "description": "Thank you.",
+   "description": "Thank you, in short form: \"thanks for the help\". Also used in plain answers: \"Thanks, I'm fine.\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Thank you."
+    "en": "Thank you, in short form: \"thanks for the help\". Also used in plain answers: \"Thanks, I'm fine.\""
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "thank you",
+    "cheers"
+   ]
   },
   {
    "id": "en:000000350",
@@ -10406,13 +10583,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 91,
-   "description": "Moving pictures, recorded or online.",
+   "description": "Moving pictures, recorded or online: \"watch a video\". Also means a clip or a recording on a device.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Moving pictures, recorded or online."
+    "en": "Moving pictures, recorded or online: \"watch a video\". Also means a clip or a recording on a device."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "clip",
+    "film"
+   ]
   },
   {
    "id": "en:000000351",
@@ -10427,14 +10608,18 @@
    "study_tier": "inicial",
    "study_priority": 92,
    "user_hint": "",
-   "description": "Not old; in the early part of life.",
+   "description": "Not old, in the early part of life: \"a young man\". Also means new or recent: \"a young company\".",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000166"
    ],
    "nativeExplain": {
-    "en": "Not old; in the early part of life."
-   }
+    "en": "Not old, in the early part of life: \"a young man\". Also means new or recent: \"a young company\"."
+   },
+   "alternatives": [
+    "youthful",
+    "juvenile"
+   ]
   },
   {
    "id": "en:000000352",
@@ -10449,12 +10634,16 @@
    "study_tier": "inicial",
    "study_priority": 93,
    "user_hint": "",
-   "description": "Before now: \"two days ago\".",
+   "description": "Before now: \"two days ago\". Always follows the time expression.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Before now: \"two days ago\"."
+    "en": "Before now: \"two days ago\". Always follows the time expression."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "before now",
+    "earlier"
+   ]
   },
   {
    "id": "en:000000353",
@@ -10518,11 +10707,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "falar com alguém",
-    "en": "To speak with someone."
+    "en": "To speak with someone: \"talk to a friend\". Also means to discuss a topic or give a speech: \"talk about work\"."
    },
    "study_tier": "inicial",
    "study_priority": 94,
-   "description": "To speak with someone.",
+   "description": "To speak with someone: \"talk to a friend\". Also means to discuss a topic or give a speech: \"talk about work\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -10556,6 +10745,10 @@
      "text": "talking",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "speak",
+    "chat"
    ]
   },
   {
@@ -10696,13 +10889,16 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 95,
-   "description": "The part at the end of the arm.",
+   "description": "The part at the end of the arm: \"wash your hands\". Also means help (\"give me a hand\"), a side (\"right hand\") or a clock pointer.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The part at the end of the arm."
+    "en": "The part at the end of the arm: \"wash your hands\". Also means help (\"give me a hand\"), a side (\"right hand\") or a clock pointer."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "palm"
+   ]
   },
   {
    "id": "en:000000362",
@@ -10919,13 +11115,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 98,
-   "description": "The whole physical form of a person.",
+   "description": "The whole physical form of a person: \"a healthy body\". Also means the main part of something or a dead person: \"the body of a text\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The whole physical form of a person."
+    "en": "The whole physical form of a person: \"a healthy body\". Also means the main part of something or a dead person: \"the body of a text\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "figure",
+    "frame"
+   ]
   },
   {
    "id": "en:000000369",
@@ -11045,13 +11245,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 99,
-   "description": "What people eat.",
+   "description": "What people eat: \"good food\". Also means a type of cooking or a meal: \"Italian food\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "What people eat."
+    "en": "What people eat: \"good food\". Also means a type of cooking or a meal: \"Italian food\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "meal",
+    "cuisine"
+   ]
   },
   {
    "id": "en:000000373",
@@ -11178,14 +11382,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "Something difficult to solve."
+    "en": "Something difficult to solve: \"a math problem\". Also means a difficulty, fault or worry: \"no problem\"."
    },
    "study_tier": "inicial",
    "study_priority": 101,
-   "description": "Something difficult to solve.",
+   "description": "Something difficult to solve: \"a math problem\". Also means a difficulty, fault or worry: \"no problem\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "difficulty",
+    "trouble"
+   ]
   },
   {
    "id": "en:000000378",
@@ -11397,15 +11605,19 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "tamanho (um pouco formal)",
-    "en": "Big."
+    "en": "Big in size: \"a large room\". Also means big in amount or scope, in a more formal tone."
    },
    "study_tier": "inicial",
    "study_priority": 103,
-   "description": "Big.",
+   "description": "Big in size: \"a large room\". Also means big in amount or scope, in a more formal tone.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000281"
+   ],
+   "alternatives": [
+    "big",
+    "great"
    ]
   },
   {
@@ -11480,13 +11692,17 @@
    "study_priority": 104,
    "nativeExplain": {
     "pt-BR": "cômodo/quarto",
-    "en": "A part of a house with walls."
+    "en": "A part of a house with walls: \"a bedroom\". Also means free space: \"there is no room\"."
    },
-   "description": "A part of a house with walls.",
+   "description": "A part of a house with walls: \"a bedroom\". Also means free space: \"there is no room\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "novrev_flag": "conferir: 'room' pt cômodo",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "chamber",
+    "space"
+   ]
   },
   {
    "id": "en:000000389",
@@ -11607,13 +11823,17 @@
    "part_of_speech": "adj",
    "study_tier": "inicial",
    "study_priority": 106,
-   "description": "Not correct.",
+   "description": "Not correct: \"the wrong answer\". Also means not suitable (\"the wrong time\") or morally bad: \"it is wrong to lie\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Not correct."
+    "en": "Not correct: \"the wrong answer\". Also means not suitable (\"the wrong time\") or morally bad: \"it is wrong to lie\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "incorrect",
+    "mistaken"
+   ]
   },
   {
    "id": "en:000000395",
@@ -11660,13 +11880,17 @@
    "part_of_speech": "pron",
    "study_tier": "inicial",
    "study_priority": 107,
-   "description": "Any person.",
+   "description": "Any person: \"Can anyone help?\". Used in questions and negatives; also means whoever: \"anyone can come\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Any person."
+    "en": "Any person: \"Can anyone help?\". Used in questions and negatives; also means whoever: \"anyone can come\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "anybody",
+    "whoever"
+   ]
   },
   {
    "id": "en:000000397",
@@ -11685,14 +11909,18 @@
    "part_of_speech": "adv",
    "nativeExplain": {
     "pt-BR": "outro, diferente",
-    "en": "Other; different (\"someone else\")."
+    "en": "Other or different: \"someone else\". Also means otherwise: \"or else\"."
    },
    "study_tier": "inicial",
    "study_priority": 108,
-   "description": "Other; different (\"someone else\").",
+   "description": "Other or different: \"someone else\". Also means otherwise: \"or else\".",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "other",
+    "different"
+   ]
   },
   {
    "id": "en:000000398",
@@ -11711,15 +11939,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 109,
-   "description": "A female child.",
+   "description": "A female child: \"a little girl\". Also used for a young woman, or a daughter.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000664"
    ],
    "nativeExplain": {
-    "en": "A female child."
-   }
+    "en": "A female child: \"a little girl\". Also used for a young woman, or a daughter."
+   },
+   "alternatives": [
+    "young lady",
+    "daughter"
+   ]
   },
   {
    "id": "en:000000400",
@@ -11839,13 +12071,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 111,
-   "description": "What we breathe.",
+   "description": "What we breathe: \"fresh air\". Also means the space above (\"in the air\") or a manner: \"an air of mystery\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "What we breathe."
+    "en": "What we breathe: \"fresh air\". Also means the space above (\"in the air\") or a manner: \"an air of mystery\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "atmosphere",
+    "sky"
+   ]
   },
   {
    "id": "en:000000404",
@@ -11884,11 +12120,11 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "A person you like and know well."
+    "en": "A person you like and know well: \"my best friend\". Also means a supporter or an ally."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 112,
-   "description": "A person you like and know well.",
+   "description": "A person you like and know well: \"my best friend\". Also means a supporter or an ally.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -11903,6 +12139,10 @@
      "study_tier": "standard",
      "description_en": "Plural of \"friend\"."
     }
+   ],
+   "alternatives": [
+    "pal",
+    "buddy"
    ]
   },
   {
@@ -12028,11 +12268,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 114,
-   "description": "To know the meaning of something.",
+   "description": "To know the meaning of something: \"I understand the lesson.\" Also means to know how a person feels or to realize a fact.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To know the meaning of something."
+    "en": "To know the meaning of something: \"I understand the lesson.\" Also means to know how a person feels or to realize a fact."
    },
    "antonyms": [],
    "forms": [
@@ -12065,6 +12305,10 @@
      "text": "understanding",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "comprehend",
+    "get"
    ]
   },
   {
@@ -12084,13 +12328,17 @@
    "part_of_speech": "int",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
-   "description": "Informal \"yes\".",
+   "description": "Informal \"yes\": \"yeah, sure\". Used among friends; in formal talk, use \"yes\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Informal \"yes\"."
+    "en": "Informal \"yes\": \"yeah, sure\". Used among friends; in formal talk, use \"yes\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "yes",
+    "yep"
+   ]
   },
   {
    "id": "en:000000415",
@@ -12241,13 +12489,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 118,
-   "description": "A thought or plan in your mind.",
+   "description": "A thought or plan in your mind: \"a good idea\". Also means an opinion or a vague notion: \"no idea\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A thought or plan in your mind."
+    "en": "A thought or plan in your mind: \"a good idea\". Also means an opinion or a vague notion: \"no idea\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "thought",
+    "notion"
+   ]
   },
   {
    "id": "en:000000420",
@@ -12314,15 +12566,19 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 119,
-   "description": "Able to happen or be done.",
+   "description": "Able to happen or be done: \"it is possible\". Also describes a likely choice or candidate: \"a possible solution\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001688"
    ],
    "nativeExplain": {
-    "en": "Able to happen or be done."
-   }
+    "en": "Able to happen or be done: \"it is possible\". Also describes a likely choice or candidate: \"a possible solution\"."
+   },
+   "alternatives": [
+    "feasible",
+    "likely"
+   ]
   },
   {
    "id": "en:000000425",
@@ -12488,13 +12744,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 121,
-   "description": "Something you ask.",
+   "description": "Something you ask: \"answer the question\". Also means a doubt or a topic being discussed: \"the question is cost\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "Something you ask."
+    "en": "Something you ask: \"answer the question\". Also means a doubt or a topic being discussed: \"the question is cost\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "inquiry",
+    "query"
+   ]
   },
   {
    "id": "en:000000433",
@@ -12539,11 +12799,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "aguardar",
-    "en": "To stay until something happens."
+    "en": "To stay until something happens: \"wait for the bus\". Also means to expect, or to serve at tables: \"wait tables\"."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 122,
-   "description": "To stay until something happens.",
+   "description": "To stay until something happens: \"wait for the bus\". Also means to expect, or to serve at tables: \"wait tables\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -12576,6 +12836,10 @@
      "text": "waiting",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "hold on",
+    "stay"
    ]
   },
   {
@@ -12595,14 +12859,14 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 123,
-   "description": "An adult female person.",
+   "description": "An adult female person: \"a young woman\". Also means womankind in general or a person.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000142"
    ],
    "nativeExplain": {
-    "en": "An adult female person."
+    "en": "An adult female person: \"a young woman\". Also means womankind in general or a person."
    },
    "forms": [
     {
@@ -12613,6 +12877,10 @@
      "study_tier": "standard",
      "description_en": "The irregular plural of woman."
     }
+   ],
+   "alternatives": [
+    "adult female",
+    "lady"
    ]
   },
   {
@@ -12757,14 +13025,14 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 126,
-   "description": "To go away from a place.",
+   "description": "To go away from a place: \"leave home\". Also means to let something stay (\"leave a note\") or to quit a job.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003180"
    ],
    "nativeExplain": {
-    "en": "To go away from a place."
+    "en": "To go away from a place: \"leave home\". Also means to let something stay (\"leave a note\") or to quit a job."
    },
    "forms": [
     {
@@ -12795,6 +13063,10 @@
      "text": "leaving",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "depart",
+    "go away"
    ]
   },
   {
@@ -13152,15 +13424,19 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 128,
-   "description": "The early part of the day.",
+   "description": "The early part of the day: \"in the morning\". Also means the time from midnight until noon.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001417"
    ],
    "nativeExplain": {
-    "en": "The early part of the day."
-   }
+    "en": "The early part of the day: \"in the morning\". Also means the time from midnight until noon."
+   },
+   "alternatives": [
+    "early day",
+    "dawn"
+   ]
   },
   {
    "id": "en:000000453",
@@ -13228,11 +13504,11 @@
    "part_of_speech": "v",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 129,
-   "description": "To remain in a place.",
+   "description": "To remain in a place: \"stay home\". Also means to continue in a state (\"stay calm\") or to live temporarily.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To remain in a place."
+    "en": "To remain in a place: \"stay home\". Also means to continue in a state (\"stay calm\") or to live temporarily."
    },
    "antonyms": [
     "en:000000431"
@@ -13267,6 +13543,10 @@
      "text": "staying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "remain",
+    "wait"
    ]
   },
   {
@@ -13317,13 +13597,17 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 130,
-   "description": "How old someone or something is.",
+   "description": "How old someone or something is: \"at the age of ten\". Also means a historical period: \"the Stone Age\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "How old someone or something is."
+    "en": "How old someone or something is: \"at the age of ten\". Also means a historical period: \"the Stone Age\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "years",
+    "era"
+   ]
   },
   {
    "id": "en:000000458",
@@ -13343,11 +13627,11 @@
    "part_of_speech": "v",
    "nativeExplain": {
     "pt-BR": "comum",
-    "en": "To get something by paying."
+    "en": "To get something by paying: \"buy bread\". Also means to believe an idea: \"I don't buy it.\""
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 131,
-   "description": "To get something by paying.",
+   "description": "To get something by paying: \"buy bread\". Also means to believe an idea: \"I don't buy it.\"",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -13383,6 +13667,10 @@
      "text": "buying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "purchase",
+    "get"
    ]
   },
   {
@@ -13465,12 +13753,16 @@
    "study_tier": "fala cotidiana inicial",
    "study_priority": 132,
    "user_hint": "",
-   "description": "The color of blood.",
+   "description": "The color of blood: \"a red car\". Also describes a stop signal, anger or debt: \"in the red\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "The color of blood."
+    "en": "The color of blood: \"a red car\". Also describes a stop signal, anger or debt: \"in the red\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "crimson",
+    "scarlet"
+   ]
   },
   {
    "id": "en:000000463",
@@ -13994,15 +14286,19 @@
    ],
    "nativeExplain": {
     "pt-BR": "termo geral",
-    "en": "A young person who is not yet an adult."
+    "en": "A young person who is not yet an adult: \"a child of six\". Also means a son or daughter of any age."
    },
    "study_tier": "fala cotidiana inicial",
    "study_priority": 134,
-   "description": "A young person who is not yet an adult.",
+   "description": "A young person who is not yet an adult: \"a child of six\". Also means a son or daughter of any age.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002597"
+   ],
+   "alternatives": [
+    "kid",
+    "youngster"
    ]
   },
   {
@@ -14191,13 +14487,17 @@
    "part_of_speech": "prep",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 136,
-   "description": "At the back of.",
+   "description": "At the back of: \"behind the door\". Also means late or less advanced: \"behind schedule\", or supporting: \"behind you\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "At the back of."
+    "en": "At the back of: \"behind the door\". Also means late or less advanced: \"behind schedule\", or supporting: \"behind you\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "at the back of",
+    "after"
+   ]
   },
   {
    "id": "en:000000491",
@@ -14241,7 +14541,7 @@
    "part_of_speech": "adj",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 137,
-   "description": "Not difficult.",
+   "description": "Not difficult: \"an easy test\". Also describes a relaxed manner or a simple way: \"take it easy\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -14249,8 +14549,12 @@
     "en:000000263"
    ],
    "nativeExplain": {
-    "en": "Not difficult."
-   }
+    "en": "Not difficult: \"an easy test\". Also describes a relaxed manner or a simple way: \"take it easy\"."
+   },
+   "alternatives": [
+    "simple",
+    "effortless"
+   ]
   },
   {
    "id": "en:000000493",
@@ -14324,15 +14628,19 @@
    "part_of_speech": "prep",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 138,
-   "description": "Close to.",
+   "description": "Close to: \"near the school\". Also means almost: \"near perfect\", and close in time: \"in the near future\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000285"
    ],
    "nativeExplain": {
-    "en": "Close to."
-   }
+    "en": "Close to: \"near the school\". Also means almost: \"near perfect\", and close in time: \"in the near future\"."
+   },
+   "alternatives": [
+    "close to",
+    "by"
+   ]
   },
   {
    "id": "en:000000497",
@@ -14351,14 +14659,18 @@
    "part_of_speech": "n",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 139,
-   "description": "An idea of what you will do.",
+   "description": "An idea of what you will do: \"a travel plan\". Also means a map-like layout or an arrangement: \"a plan of the house\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "An idea of what you will do."
+    "en": "An idea of what you will do: \"a travel plan\". Also means a map-like layout or an arrangement: \"a plan of the house\"."
    },
    "antonyms": [],
-   "forms": []
+   "forms": [],
+   "alternatives": [
+    "scheme",
+    "project"
+   ]
   },
   {
    "id": "en:000000498",
@@ -14424,11 +14736,11 @@
    "part_of_speech": "num",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 140,
-   "description": "The number 6.",
+   "description": "The number 6. Also used for a group of six: \"six months\", \"six o'clock\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The number 6."
+    "en": "The number 6. Also used for a group of six: \"six months\", \"six o'clock\"."
    },
    "antonyms": []
   },
@@ -14581,15 +14893,19 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 141,
-   "description": "The side that faces forward.",
+   "description": "The side that faces forward: \"the front of the house\". Also means the place ahead: \"in front of\", and a battle line.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000091"
    ],
    "nativeExplain": {
-    "en": "The side that faces forward."
-   }
+    "en": "The side that faces forward: \"the front of the house\". Also means the place ahead: \"in front of\", and a battle line."
+   },
+   "alternatives": [
+    "fore",
+    "face"
+   ]
   },
   {
    "id": "en:000000510",
@@ -14636,12 +14952,16 @@
    "study_tier": "inicial",
    "study_priority": 142,
    "user_hint": "",
-   "description": "Things written one below the other.",
+   "description": "Things written one below the other: \"a shopping list\". Also means to put in order: \"list the steps\".",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "en": "Things written one below the other."
+    "en": "Things written one below the other: \"a shopping list\". Also means to put in order: \"list the steps\"."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "roster",
+    "index"
+   ]
   },
   {
    "id": "en:000000512",
@@ -14655,14 +14975,18 @@
    "part_of_speech": "adj",
    "nativeExplain": {
     "pt-BR": "preparado",
-    "en": "Prepared."
+    "en": "Prepared: \"dinner is ready\". Also means willing to act: \"I am ready to help\"."
    },
    "study_tier": "inicial",
    "study_priority": 143,
    "user_hint": "",
-   "description": "Prepared.",
+   "description": "Prepared: \"dinner is ready\". Also means willing to act: \"I am ready to help\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "prepared",
+    "set"
+   ]
   },
   {
    "id": "en:000000513",
@@ -14683,13 +15007,17 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 144,
-   "description": "At some times, not always.",
+   "description": "At some times, not always: \"sometimes I walk\". Also means now and then.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "At some times, not always."
+    "en": "At some times, not always: \"sometimes I walk\". Also means now and then."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "at times",
+    "now and then"
+   ]
   },
   {
    "id": "en:000000514",
@@ -14708,14 +15036,18 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 145,
-   "description": "A male child of a parent.",
+   "description": "A male child of a parent: \"my son\". Also used as a kind term for a young boy.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A male child of a parent."
+    "en": "A male child of a parent: \"my son\". Also used as a kind term for a young boy."
    },
    "antonyms": [
     "en:000000871"
+   ],
+   "alternatives": [
+    "boy",
+    "male child"
    ]
   },
   {
@@ -14736,13 +15068,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 146,
-   "description": "A road in a town.",
+   "description": "A road in a town: \"walk down the street\". Also means the name of an address.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A road in a town."
+    "en": "A road in a town: \"walk down the street\". Also means the name of an address."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "road",
+    "avenue"
+   ]
   },
   {
    "id": "en:000000516",
@@ -14806,11 +15142,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 147,
-   "description": "To carry something to a place.",
+   "description": "To carry something to a place: \"bring a book\". Also means to cause (\"bring luck\") or to take along a person.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To carry something to a place."
+    "en": "To carry something to a place: \"bring a book\". Also means to cause (\"bring luck\") or to take along a person."
    },
    "antonyms": [],
    "forms": [
@@ -14843,6 +15179,10 @@
      "text": "bringing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "carry",
+    "fetch"
    ]
   },
   {
@@ -15086,13 +15426,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 150,
-   "description": "A very young child.",
+   "description": "A very young child: \"a baby of two months\". Also means the youngest in a group, or a term of affection.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A very young child."
+    "en": "A very young child: \"a baby of two months\". Also means the youngest in a group, or a term of affection."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "infant",
+    "newborn"
+   ]
   },
   {
    "id": "en:000000528",
@@ -15164,11 +15508,11 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 152,
-   "description": "The third month of the year.",
+   "description": "The third month of the year, between February and April. Written with a capital letter in English.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "The third month of the year."
+    "en": "The third month of the year, between February and April. Written with a capital letter in English."
    },
    "antonyms": []
   },
@@ -15257,14 +15601,18 @@
    "part_of_speech": "n",
    "nativeExplain": {
     "pt-BR": "a canção",
-    "en": "Music with words that you sing."
+    "en": "Music with words that you sing: \"a love song\". Also means a bird's call or a piece of music."
    },
    "study_tier": "inicial",
    "study_priority": 153,
-   "description": "Music with words that you sing.",
+   "description": "Music with words that you sing: \"a love song\". Also means a bird's call or a piece of music.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "tune",
+    "melody"
+   ]
   },
   {
    "id": "en:000000534",
@@ -15284,11 +15632,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 154,
-   "description": "To learn by reading and practicing.",
+   "description": "To learn by reading and practicing: \"study for a test\". Also means to look at something closely: \"study a map\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To learn by reading and practicing."
+    "en": "To learn by reading and practicing: \"study for a test\". Also means to look at something closely: \"study a map\"."
    },
    "antonyms": [],
    "forms": [
@@ -15320,6 +15668,10 @@
      "text": "studying",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "learn",
+    "examine"
    ]
   },
   {
@@ -15340,13 +15692,17 @@
    "part_of_speech": "n",
    "study_tier": "inicial",
    "study_priority": 155,
-   "description": "A unit of language with a meaning.",
+   "description": "A unit of language with a meaning: \"a new word\". Also means a promise (\"my word\") or news.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "A unit of language with a meaning."
+    "en": "A unit of language with a meaning: \"a new word\". Also means a promise (\"my word\") or news."
    },
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "term",
+    "expression"
+   ]
   },
   {
    "id": "en:000000536",
@@ -15521,15 +15877,19 @@
    "part_of_speech": "adv",
    "study_tier": "inicial",
    "study_priority": 157,
-   "description": "Not inside a building.",
+   "description": "Not inside a building: \"play outside\". Also means beyond a limit: \"outside the city\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000634"
    ],
    "nativeExplain": {
-    "en": "Not inside a building."
-   }
+    "en": "Not inside a building: \"play outside\". Also means beyond a limit: \"outside the city\"."
+   },
+   "alternatives": [
+    "outdoors",
+    "out"
+   ]
   },
   {
    "id": "en:000000544",
@@ -15595,11 +15955,11 @@
    "part_of_speech": "v",
    "study_tier": "inicial",
    "study_priority": 159,
-   "description": "To have a price of.",
+   "description": "To have a price of: \"it costs ten dollars\". Also means to need effort or loss: \"it cost him his job\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "en": "To have a price of."
+    "en": "To have a price of: \"it costs ten dollars\". Also means to need effort or loss: \"it cost him his job\"."
    },
    "antonyms": [],
    "forms": [
@@ -15631,6 +15991,10 @@
      "text": "costing",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "be priced at",
+    "take"
    ]
   },
   {
