@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1330 foram percorridas. Retomar na posição 1331, `en:000003390` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1420 foram percorridas. Retomar na posição 1421, `en:000003913` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -164,6 +164,11 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 - 80 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1251–1330). Reescritas as descrições circulares de *play soccer* e *listen to music* em português e chinês. *Elementary school* passou a incluir "escola de ensino fundamental".
 - A Kanji Study foi consultada para 蛇, 蜘, 蛛, 亀, 虹, 砂, 影, 紫, 灰 e 硬. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 1331–1420
+
+- 89 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1331–1420; 1420 já tratada). *Fry* passou a distinguir óleo abundante (揚げる, 炸) de óleo escasso (炒める, 焼く, 煎, 炒). *Guitar* inclui a guitarra elétrica em português. O japonês de *lazy* passou a usar 怠け者の, forma cotidiana. Em *pen*, o chinês inclui 圆珠笔 e 钢笔. *Grandpa* e *grandma* passaram a incluir 外公 e 外婆 em chinês. Retirada a alternativa 幸福, que estava duplicada em *happiness*.
+- A Kanji Study foi consultada para 怠, 炒, 揚 e 笛. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 

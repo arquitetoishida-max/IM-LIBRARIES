@@ -146031,7 +146031,10 @@
    "kind": "word",
    "description_en": "To cook in hot oil.",
    "text": "揚げる",
-   "alternatives": [],
+   "alternatives": [
+    "炒める",
+    "焼く"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "あげる",
@@ -146130,10 +146133,10 @@
     }
    ],
    "user_hint": "",
-   "description": "熱い油で調理する。",
+   "description": "熱い油で食べ物に火を通す。たっぷりの油なら「揚げる」、少ない油なら「炒める」「焼く」。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "熱い油で調理する。"
+    "ja": "熱い油で食べ物に火を通す。たっぷりの油なら「揚げる」、少ない油なら「炒める」「焼く」。"
    },
    "level": "A2",
    "antonyms": []
@@ -154173,7 +154176,9 @@
    "kind": "word",
    "description_en": "Cloth made from the cotton plant.",
    "text": "綿",
-   "alternatives": [],
+   "alternatives": [
+    "コットン"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "めん",
@@ -156588,7 +156593,6 @@
    "description_en": "The state of being happy.",
    "text": "幸せ",
    "alternatives": [
-    "幸福",
     "幸福"
    ],
    "source_status": "base4-reviewed",
@@ -157840,12 +157844,15 @@
    "english_sense_id": null,
    "kind": "word",
    "description_en": "Not wanting to work.",
-   "text": "怠惰な",
-   "alternatives": [],
+   "text": "怠け者の",
+   "alternatives": [
+    "怠惰な",
+    "ぐうたらな"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "reading": "たいだな",
-   "romanization": "taida na",
+   "reading": "なまけものの",
+   "romanization": "namakemono no",
    "study_tier": "inicial",
    "study_priority": 901,
    "part_of_speech": "adj",
