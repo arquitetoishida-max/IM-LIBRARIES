@@ -5,3 +5,5 @@
 - Pares de IDs duplicados para decidir consolidação: Mass, makeup, savings, paint, medicine, football, commercial, hour, fusion.
 - Instruções antigas do `NOVREV.md` que conflitam com o #88: atualizar.
 - Branches `codex/*` (GPT): último commit em 20/11, sem atividade desde então; nada em andamento no GitHub.
+- IM-LIBRARIES #512: auditoria de sentidos que faltam e segunda passada de descrições e alternativas por idioma. Começa após o merge dos PRs #507 e #511.
+- ISHIDA-MULTILANG: card com "+ significados" (código do app, sem APK até pedido); issue aberta com o fluxo.
