@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2590 foram percorridas. Retomar na posição 2591, `en:000004094` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–2680 foram percorridas. Retomar na posição 2681, `en:000000516` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -246,6 +246,10 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - 84 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2501–2590; 6 já tratadas). Correção: `en:000003993` *catch* (resfriado) tinha 了 como termo chinês, o que não é o sentido; passou a 患上, e o japonês a 風邪をひく. Em *catch* (ônibus), o português ficou "pegar (ônibus)". Em *vision* (`en:000004034`) ficou só o sentido de ideia de futuro (愿景); a visão como capacidade de ver tem ID próprio.
 - Fica para decisão (IDs duplicados): `en:000004053` e `en:000004068` *paint*; `en:000003995` e `en:000001871` *medicine*; `en:000003996` e `en:000003203` *Mass*; `en:000004061` e `en:000003562` *makeup*.
 - A Kanji Study foi consultada para 景 e 愿. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 2591–2680
+
+- 89 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 2591–2680; 2594 já tratada). Nas formas gramaticais do inglês (*it's*, *I'm*, *said*, *got* etc.), as descrições citam a forma inglesa porque é o objeto estudado; mantidas. Delimitados *against* (oposição; encostar tem ID próprio), *court* (tribunal), *pretty* (advérbio), *deal* (acordo), *rather* (bastante) e *act* (agir). Em *trunk* (elefante), o japonês passou a 象の鼻.
 
 ## Registro anterior — 19/11/2026
 
