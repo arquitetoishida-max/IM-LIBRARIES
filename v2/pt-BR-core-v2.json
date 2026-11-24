@@ -547,14 +547,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ter",
-   "alternatives": [],
+   "alternatives": [
+    "possuir"
+   ],
    "study_tier": "núcleo inicial",
    "study_priority": 8,
-   "description": "Possuir algo.",
+   "description": "Possuir algo, ou ter família, tempo, capacidade ou uma característica. Ex.: “tenho um carro”, “ele tem dois filhos”. Também forma tempos compostos, como “tenho estudado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Possuir algo."
+    "pt-BR": "Possuir algo, ou ter família, tempo, capacidade ou uma característica. Ex.: “tenho um carro”, “ele tem dois filhos”. Também forma tempos compostos, como “tenho estudado”."
    },
    "antonyms": []
   },
@@ -1039,14 +1041,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "um",
-   "alternatives": [],
+   "alternatives": [
+    "uma"
+   ],
    "study_tier": "núcleo inicial",
    "study_priority": 15,
-   "description": "O número 1.",
+   "description": "O número 1, a menor quantidade inteira. Como artigo, indica uma coisa não específica: “um dia”. Antes de substantivo feminino usa-se “uma”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 1."
+    "pt-BR": "O número 1, a menor quantidade inteira. Como artigo, indica uma coisa não específica: “um dia”. Antes de substantivo feminino usa-se “uma”."
    },
    "antonyms": [],
    "forms": [
@@ -1505,11 +1509,11 @@
    "alternatives": [],
    "study_tier": "núcleo inicial",
    "study_priority": 23,
-   "description": "Pergunta qual pessoa.",
+   "description": "Pergunta qual pessoa: “Quem é você?”, “Quem chegou?”. Também introduz orações: “não sei quem fez isso”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pergunta qual pessoa."
+    "pt-BR": "Pergunta qual pessoa: “Quem é você?”, “Quem chegou?”. Também introduz orações: “não sei quem fez isso”."
    },
    "antonyms": []
   },
@@ -2071,14 +2075,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "agora",
-   "alternatives": [],
+   "alternatives": [
+    "neste momento",
+    "já"
+   ],
    "study_tier": "núcleo inicial",
    "study_priority": 27,
-   "description": "Neste momento.",
+   "description": "No momento em que se fala: “agora são três horas”. Também indica o que acontece neste período: “agora moro aqui”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Neste momento."
+    "pt-BR": "No momento em que se fala: “agora são três horas”. Também indica o que acontece neste período: “agora moro aqui”."
    },
    "antonyms": []
   },
@@ -2262,11 +2269,11 @@
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 28,
-   "description": "De boa qualidade; agradável.",
+   "description": "De boa qualidade ou que agrada: “um bom livro”, “bom dia”. Também indica pessoa de bom caráter, ou aprovação: “está bom”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "De boa qualidade; agradável."
+    "pt-BR": "De boa qualidade ou que agrada: “um bom livro”, “bom dia”. Também indica pessoa de bom caráter, ou aprovação: “está bom”."
    },
    "antonyms": [
     "en:000000260",
@@ -2516,11 +2523,11 @@
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 31,
-   "description": "O número 2.",
+   "description": "O número 2. Com substantivos femininos usa-se “duas”. Ex.: “dois filhos”, “duas casas”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 2."
+    "pt-BR": "O número 2. Com substantivos femininos usa-se “duas”. Ex.: “dois filhos”, “duas casas”."
    },
    "antonyms": []
   },
@@ -3201,14 +3208,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "aqui",
-   "alternatives": [],
+   "alternatives": [
+    "cá"
+   ],
    "study_tier": "inicial",
    "study_priority": 38,
-   "description": "Neste lugar.",
+   "description": "Neste lugar, perto de quem fala: “moro aqui”, “venha aqui”. Também indica este momento: “até aqui tudo bem”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Neste lugar."
+    "pt-BR": "Neste lugar, perto de quem fala: “moro aqui”, “venha aqui”. Também indica este momento: “até aqui tudo bem”."
    },
    "antonyms": [
     "en:000000055"
@@ -3230,14 +3239,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "precisar",
-   "alternatives": [],
+   "alternatives": [
+    "necessitar"
+   ],
    "study_tier": "inicial",
    "study_priority": 39,
-   "description": "Ter necessidade de algo.",
+   "description": "Ter necessidade de algo: “preciso de água”. Também expressa obrigação, com “que”: “preciso que você venha”. Em frase negativa, “não precisa” indica falta de necessidade.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ter necessidade de algo."
+    "pt-BR": "Ter necessidade de algo: “preciso de água”. Também expressa obrigação, com “que”: “preciso que você venha”. Em frase negativa, “não precisa” indica falta de necessidade."
    },
    "antonyms": []
   },
@@ -3326,11 +3337,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 41,
-   "description": "Correto; verdadeiro.",
+   "description": "Correto, sem erro: “a resposta está certa”. Também indica algo seguro ou adequado: “no lugar certo”, “tenho certeza”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Correto; verdadeiro."
+    "pt-BR": "Correto, sem erro: “a resposta está certa”. Também indica algo seguro ou adequado: “no lugar certo”, “tenho certeza”."
    },
    "antonyms": []
   },
@@ -3379,14 +3390,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ano",
-   "alternatives": [],
+   "alternatives": [
+    "ano civil"
+   ],
    "study_tier": "inicial",
    "study_priority": 43,
-   "description": "Período de doze meses.",
+   "description": "Período de doze meses: “dois anos”, “ano passado”. Também conta a idade: “tenho trinta anos”, e marca o ano do calendário.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Período de doze meses."
+    "pt-BR": "Período de doze meses: “dois anos”, “ano passado”. Também conta a idade: “tenho trinta anos”, e marca o ano do calendário."
    },
    "antonyms": []
   },
@@ -3436,17 +3449,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "dia",
-   "alternatives": [],
+   "alternatives": [
+    "data"
+   ],
    "study_tier": "inicial",
    "study_priority": 44,
-   "description": "Período de 24 horas.",
+   "description": "Período de 24 horas, ou parte clara do dia: “um dia”, “bom dia”. Também indica uma data: “o dia do meu aniversário”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000213"
    ],
    "nativeExplain": {
-    "pt-BR": "Período de 24 horas."
+    "pt-BR": "Período de 24 horas, ou parte clara do dia: “um dia”, “bom dia”. Também indica uma data: “o dia do meu aniversário”."
    }
   },
   {
@@ -3586,14 +3601,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "por que",
-   "alternatives": [],
+   "alternatives": [
+    "por qual motivo",
+    "para quê"
+   ],
    "study_tier": "inicial",
    "study_priority": 45,
-   "description": "Pergunta o motivo.",
+   "description": "Pergunta o motivo: “Por que você saiu?”. Em perguntas diretas escreve-se separado; em respostas, “porque”, junto, introduz a causa.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pergunta o motivo."
+    "pt-BR": "Pergunta o motivo: “Por que você saiu?”. Em perguntas diretas escreve-se separado; em respostas, “porque”, junto, introduz a causa."
    },
    "antonyms": []
   },
@@ -3671,18 +3689,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "pegar",
    "alternatives": [
-    "levar"
+    "levar",
+    "agarrar"
    ],
    "study_tier": "inicial",
    "study_priority": 47,
-   "description": "Pegar e levar; agarrar.",
+   "description": "Segurar e levar consigo: “pegar o casaco”. Também significa agarrar, apanhar um transporte (“pegar o ônibus”) ou contrair doença.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000177"
    ],
    "nativeExplain": {
-    "pt-BR": "Pegar e levar; agarrar."
+    "pt-BR": "Segurar e levar consigo: “pegar o casaco”. Também significa agarrar, apanhar um transporte (“pegar o ônibus”) ou contrair doença."
    }
   },
   {
@@ -3850,15 +3869,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "dizer",
    "alternatives": [
-    "falar"
+    "falar",
+    "afirmar"
    ],
    "study_tier": "inicial",
    "study_priority": 50,
-   "description": "Expressar algo com palavras.",
+   "description": "Expressar algo com palavras: “ele disse que viria”. Usa-se com a fala dita ou reproduzida, e “diz” indica opinião de alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Expressar algo com palavras."
+    "pt-BR": "Expressar algo com palavras: “ele disse que viria”. Usa-se com a fala dita ou reproduzida, e “diz” indica opinião de alguém."
    },
    "antonyms": []
   },
@@ -3934,11 +3954,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 51,
-   "description": "Muito bom; maravilhoso.",
+   "description": "Muito bom, maravilhoso: “um filme ótimo”. Também responde com aprovação: “ótimo!”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Muito bom; maravilhoso."
+    "pt-BR": "Muito bom, maravilhoso: “um filme ótimo”. Também responde com aprovação: “ótimo!”."
    },
    "antonyms": []
   },
@@ -4216,15 +4236,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "casa",
    "alternatives": [
-    "lar"
+    "lar",
+    "residência"
    ],
    "study_tier": "inicial",
    "study_priority": 54,
-   "description": "O lugar onde você mora.",
+   "description": "O lugar onde se mora: “voltar para casa”. Também significa lar, a família e o ambiente em que se vive.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O lugar onde você mora."
+    "pt-BR": "O lugar onde se mora: “voltar para casa”. Também significa lar, a família e o ambiente em que se vive."
    },
    "antonyms": []
   },
@@ -4275,14 +4296,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "olhar",
-   "alternatives": [],
+   "alternatives": [
+    "observar",
+    "fitar"
+   ],
    "study_tier": "inicial",
    "study_priority": 55,
-   "description": "Dirigir os olhos para algo.",
+   "description": "Dirigir os olhos para algo: “olhar o céu”. Com “para”, indica atenção: “olhe para mim”. Também significa observar ou cuidar.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Dirigir os olhos para algo."
+    "pt-BR": "Dirigir os olhos para algo: “olhar o céu”. Com “para”, indica atenção: “olhe para mim”. Também significa observar ou cuidar."
    },
    "antonyms": []
   },
@@ -4389,11 +4413,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 58,
-   "description": "Sem diferença.",
+   "description": "Sem diferença, igual: “a mesma cor”, “o mesmo dia”. Também indica que é a própria pessoa ou coisa já citada.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sem diferença."
+    "pt-BR": "Sem diferença, igual: “a mesma cor”, “o mesmo dia”. Também indica que é a própria pessoa ou coisa já citada."
    },
    "antonyms": [
     "en:000000223"
@@ -4622,11 +4646,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 60,
-   "description": "O número 3.",
+   "description": "O número 3. Ex.: “três filhos”, “três da tarde”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 3."
+    "pt-BR": "O número 3. Ex.: “três filhos”, “três da tarde”."
    },
    "antonyms": []
   },
@@ -4706,17 +4730,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sempre",
-   "alternatives": [],
+   "alternatives": [
+    "constantemente"
+   ],
    "study_tier": "inicial",
    "study_priority": 61,
-   "description": "Todas as vezes; o tempo todo.",
+   "description": "Em todas as ocasiões, o tempo todo: “ele sempre chega cedo”. Também indica algo habitual ou eterno: “para sempre”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000127"
    ],
    "nativeExplain": {
-    "pt-BR": "Todas as vezes; o tempo todo."
+    "pt-BR": "Em todas as ocasiões, o tempo todo: “ele sempre chega cedo”. Também indica algo habitual ou eterno: “para sempre”."
    }
   },
   {
@@ -5145,14 +5171,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "coisa",
-   "alternatives": [],
+   "alternatives": [
+    "objeto",
+    "assunto"
+   ],
    "study_tier": "inicial",
    "study_priority": 65,
    "user_hint": "",
-   "description": "Um objeto; algo.",
+   "description": "Um objeto ou algo não especificado: “há coisas na mesa”. Também fala de um assunto vago: “muitas coisas aconteceram”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um objeto; algo."
+    "pt-BR": "Um objeto ou algo não especificado: “há coisas na mesa”. Também fala de um assunto vago: “muitas coisas aconteceram”."
    },
    "antonyms": []
   },
@@ -5172,17 +5201,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "dar",
-   "alternatives": [],
+   "alternatives": [
+    "entregar",
+    "oferecer"
+   ],
    "study_tier": "inicial",
    "study_priority": 66,
-   "description": "Passar algo a alguém.",
+   "description": "Passar algo a alguém: “dar um presente”. Também significa conceder, oferecer, ou expressar que algo ocorre: “dá tempo”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000124"
    ],
    "nativeExplain": {
-    "pt-BR": "Passar algo a alguém."
+    "pt-BR": "Passar algo a alguém: “dar um presente”. Também significa conceder, oferecer, ou expressar que algo ocorre: “dá tempo”."
    }
   },
   {
@@ -5224,14 +5256,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "lugar",
-   "alternatives": [],
+   "alternatives": [
+    "local",
+    "sítio"
+   ],
    "study_tier": "inicial",
    "study_priority": 68,
    "user_hint": "",
-   "description": "Uma área ou local específico.",
+   "description": "Uma área ou local específico: “um lugar tranquilo”. Também indica posição numa lista ou competição: “primeiro lugar”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma área ou local específico."
+    "pt-BR": "Uma área ou local específico: “um lugar tranquilo”. Também indica posição numa lista ou competição: “primeiro lugar”."
    },
    "antonyms": []
   },
@@ -5287,11 +5322,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 70,
-   "description": "Mais uma vez.",
+   "description": "Mais uma vez: “tente de novo”. Indica repetição de algo que já ocorreu.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mais uma vez."
+    "pt-BR": "Mais uma vez: “tente de novo”. Indica repetição de algo que já ocorreu."
    },
    "antonyms": []
   },
@@ -5559,17 +5594,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "mostrar",
-   "alternatives": [],
+   "alternatives": [
+    "exibir",
+    "apresentar"
+   ],
    "study_tier": "inicial",
    "study_priority": 71,
-   "description": "Deixar alguém ver algo.",
+   "description": "Deixar alguém ver algo: “mostrar a foto”. Também significa exibir ou provar algo: “isso mostra que ele está certo”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002753"
    ],
    "nativeExplain": {
-    "pt-BR": "Deixar alguém ver algo."
+    "pt-BR": "Deixar alguém ver algo: “mostrar a foto”. Também significa exibir ou provar algo: “isso mostra que ele está certo”."
    }
   },
   {
@@ -5583,18 +5621,21 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "grande",
-   "alternatives": [],
+   "alternatives": [
+    "amplo",
+    "enorme"
+   ],
    "study_tier": "inicial",
    "study_priority": 72,
    "user_hint": "",
-   "description": "De tamanho grande.",
+   "description": "De tamanho, quantidade ou importância elevados: “uma casa grande”. Também indica maturidade: “você já está grande”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000165",
     "en:000000281"
    ],
    "nativeExplain": {
-    "pt-BR": "De tamanho grande."
+    "pt-BR": "De tamanho, quantidade ou importância elevados: “uma casa grande”. Também indica maturidade: “você já está grande”."
    }
   },
   {
@@ -5725,14 +5766,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "família",
-   "alternatives": [],
+   "alternatives": [
+    "parentes",
+    "lar"
+   ],
    "study_tier": "inicial",
    "study_priority": 73,
-   "description": "Pais, filhos e parentes.",
+   "description": "Pais, filhos e parentes que se relacionam: “minha família”. Também indica grupo com algo em comum: “família de línguas”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pais, filhos e parentes."
+    "pt-BR": "Pais, filhos e parentes que se relacionam: “minha família”. Também indica grupo com algo em comum: “família de línguas”."
    },
    "antonyms": []
   },
@@ -8641,15 +8685,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "juntos",
    "alternatives": [
-    "juntas"
+    "juntas",
+    "em conjunto"
    ],
    "study_tier": "inicial",
    "study_priority": 80,
    "user_hint": "",
-   "description": "Um com o outro.",
+   "description": "Um com o outro, ao mesmo tempo: “vamos juntos”. Também indica proximidade: “juntos na mesma mesa”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um com o outro."
+    "pt-BR": "Um com o outro, ao mesmo tempo: “vamos juntos”. Também indica proximidade: “juntos na mesma mesa”."
    },
    "antonyms": []
   },
@@ -8793,11 +8838,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 83,
-   "description": "O número 5.",
+   "description": "O número 5. Ex.: “cinco dedos”, “cinco da tarde”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 5."
+    "pt-BR": "O número 5. Ex.: “cinco dedos”, “cinco da tarde”."
    },
    "antonyms": []
   },
@@ -8848,14 +8893,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "talvez",
-   "alternatives": [],
+   "alternatives": [
+    "quem sabe",
+    "possivelmente"
+   ],
    "study_tier": "inicial",
    "study_priority": 84,
-   "description": "Quem sabe; é possível.",
+   "description": "Indica possibilidade, sem certeza: “talvez chova amanhã”. Também suaviza um convite ou pedido: “talvez você possa ajudar”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quem sabe; é possível."
+    "pt-BR": "Indica possibilidade, sem certeza: “talvez chova amanhã”. Também suaviza um convite ou pedido: “talvez você possa ajudar”."
    },
    "antonyms": []
   },
@@ -9390,14 +9438,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "obrigado",
-   "alternatives": [],
+   "alternatives": [
+    "obrigada",
+    "valeu"
+   ],
    "study_tier": "inicial",
    "study_priority": 90,
-   "description": "Expressão de gratidão.",
+   "description": "Expressão de gratidão: “obrigado pela ajuda”. Homens dizem “obrigado”; mulheres, “obrigada”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Expressão de gratidão."
+    "pt-BR": "Expressão de gratidão: “obrigado pela ajuda”. Homens dizem “obrigado”; mulheres, “obrigada”."
    },
    "antonyms": [],
    "forms": [
@@ -9557,15 +9608,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "conversar",
    "alternatives": [
-    "falar"
+    "falar",
+    "bater papo"
    ],
    "study_tier": "inicial",
    "study_priority": 94,
-   "description": "Falar com alguém.",
+   "description": "Falar com alguém, trocar ideias: “conversar com amigos”. Também indica papo informal e discussão de um assunto.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Falar com alguém."
+    "pt-BR": "Falar com alguém, trocar ideias: “conversar com amigos”. Também indica papo informal e discussão de um assunto."
    },
    "antonyms": []
   },
@@ -9711,14 +9763,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "mão",
-   "alternatives": [],
+   "alternatives": [
+    "palma"
+   ],
    "study_tier": "inicial",
    "study_priority": 95,
-   "description": "Parte na ponta do braço.",
+   "description": "Parte na ponta do braço, usada para pegar coisas: “lavar as mãos”. Também indica ajuda (“dar uma mão”) ou lado (“mão direita”).",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Parte na ponta do braço."
+    "pt-BR": "Parte na ponta do braço, usada para pegar coisas: “lavar as mãos”. Também indica ajuda (“dar uma mão”) ou lado (“mão direita”)."
    },
    "antonyms": []
   },
@@ -9994,14 +10048,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "comida",
-   "alternatives": [],
+   "alternatives": [
+    "alimento",
+    "refeição"
+   ],
    "study_tier": "inicial",
    "study_priority": 99,
-   "description": "O que as pessoas comem.",
+   "description": "O que as pessoas comem: “comida boa”. Também indica a refeição ou o tipo de culinária: “comida italiana”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O que as pessoas comem."
+    "pt-BR": "O que as pessoas comem: “comida boa”. Também indica a refeição ou o tipo de culinária: “comida italiana”."
    },
    "antonyms": []
   },
@@ -10105,14 +10162,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "problema",
-   "alternatives": [],
+   "alternatives": [
+    "dificuldade",
+    "questão"
+   ],
    "study_tier": "inicial",
    "study_priority": 101,
-   "description": "Algo difícil de resolver.",
+   "description": "Algo difícil de resolver: “um problema de matemática”. Também indica dificuldade, defeito ou preocupação: “tem problema?”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Algo difícil de resolver."
+    "pt-BR": "Algo difícil de resolver: “um problema de matemática”. Também indica dificuldade, defeito ou preocupação: “tem problema?”."
    },
    "antonyms": []
   },
@@ -10318,14 +10378,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "grande",
-   "alternatives": [],
+   "alternatives": [
+    "amplo"
+   ],
    "study_tier": "inicial",
    "study_priority": 103,
-   "description": "De tamanho elevado.",
+   "description": "De tamanho elevado; em textos, “grande” e “enorme” são mais comuns. Ex.: “um quarto grande”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "De tamanho elevado."
+    "pt-BR": "De tamanho elevado; em textos, “grande” e “enorme” são mais comuns. Ex.: “um quarto grande”."
    },
    "antonyms": [
     "en:000000281"
@@ -10522,14 +10584,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "errado",
-   "alternatives": [],
+   "alternatives": [
+    "incorreto",
+    "equivocado"
+   ],
    "study_tier": "inicial",
    "study_priority": 106,
-   "description": "Que não está correto.",
+   "description": "Que não está correto: “resposta errada”. Também indica algo inadequado ou fora do lugar: “número errado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que não está correto."
+    "pt-BR": "Que não está correto: “resposta errada”. Também indica algo inadequado ou fora do lugar: “número errado”."
    },
    "antonyms": [],
    "forms": [
@@ -10589,15 +10654,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "qualquer pessoa",
    "alternatives": [
-    "alguém"
+    "alguém",
+    "quem quer que seja"
    ],
    "study_tier": "inicial",
    "study_priority": 107,
-   "description": "Qualquer pessoa.",
+   "description": "Qualquer pessoa, sem escolher: “qualquer um pode participar”. Em perguntas e negações, equivale a “alguém” e “ninguém”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Qualquer pessoa."
+    "pt-BR": "Qualquer pessoa, sem escolher: “qualquer um pode participar”. Em perguntas e negações, equivale a “alguém” e “ninguém”."
    },
    "antonyms": []
   },
@@ -10646,17 +10712,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "menina",
-   "alternatives": [],
+   "alternatives": [
+    "garota"
+   ],
    "study_tier": "inicial",
    "study_priority": 109,
-   "description": "Criança do sexo feminino.",
+   "description": "Criança do sexo feminino: “uma menina de cinco anos”. Também se usa para moças jovens em tom informal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000664"
    ],
    "nativeExplain": {
-    "pt-BR": "Criança do sexo feminino."
+    "pt-BR": "Criança do sexo feminino: “uma menina de cinco anos”. Também se usa para moças jovens em tom informal."
    }
   },
   {
@@ -10752,14 +10820,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ar",
-   "alternatives": [],
+   "alternatives": [
+    "atmosfera"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 111,
-   "description": "O que nós respiramos.",
+   "description": "Mistura de gases que respiramos: “ar puro”. Também indica atmosfera ou aparência: “ar de alegria”, “ao ar livre”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O que nós respiramos."
+    "pt-BR": "Mistura de gases que respiramos: “ar puro”. Também indica atmosfera ou aparência: “ar de alegria”, “ao ar livre”."
    },
    "antonyms": []
   },
@@ -10926,15 +10996,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "entender",
    "alternatives": [
-    "compreender"
+    "compreender",
+    "captar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 114,
-   "description": "Saber o significado de algo.",
+   "description": "Saber o significado de algo: “entendi a aula”. Também significa compreender pessoas e seus sentimentos.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Saber o significado de algo."
+    "pt-BR": "Saber o significado de algo: “entendi a aula”. Também significa compreender pessoas e seus sentimentos."
    },
    "antonyms": []
   },
@@ -10955,16 +11026,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "aham",
    "alternatives": [
-    "é",
-    "sim"
+    "sim",
+    "é"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
-   "description": "\"Sim\" informal.",
+   "description": "Forma informal de “sim”: “aham, claro”. Usada entre amigos; em situações formais, usa-se “sim”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "\"Sim\" informal."
+    "pt-BR": "Forma informal de “sim”: “aham, claro”. Usada entre amigos; em situações formais, usa-se “sim”."
    },
    "antonyms": []
   },
@@ -11361,14 +11432,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esperar",
-   "alternatives": [],
+   "alternatives": [
+    "aguardar"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 122,
-   "description": "Ficar até que algo aconteça.",
+   "description": "Ficar até que algo aconteça: “esperar o ônibus”. Também significa ter esperança ou aguardar um resultado.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ficar até que algo aconteça."
+    "pt-BR": "Ficar até que algo aconteça: “esperar o ônibus”. Também significa ter esperança ou aguardar um resultado."
    },
    "antonyms": []
   },
@@ -11528,14 +11601,14 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 126,
-   "description": "Ir embora de um lugar.",
+   "description": "Ir embora de um lugar: “sair de casa”. Também significa deixar uma coisa ou pessoa, ou ter um resultado: “sair bem”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000003180"
    ],
    "nativeExplain": {
-    "pt-BR": "Ir embora de um lugar."
+    "pt-BR": "Ir embora de um lugar: “sair de casa”. Também significa deixar uma coisa ou pessoa, ou ter um resultado: “sair bem”."
    }
   },
   {
@@ -11851,17 +11924,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "manhã",
-   "alternatives": [],
+   "alternatives": [
+    "amanhecer"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 128,
-   "description": "A parte inicial do dia.",
+   "description": "Parte inicial do dia, do amanhecer até o meio-dia: “bom dia, de manhã”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001417"
    ],
    "nativeExplain": {
-    "pt-BR": "A parte inicial do dia."
+    "pt-BR": "Parte inicial do dia, do amanhecer até o meio-dia: “bom dia, de manhã”."
    }
   },
   {
@@ -11935,14 +12010,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ficar",
-   "alternatives": [],
+   "alternatives": [
+    "permanecer",
+    "continuar"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 129,
-   "description": "Permanecer em um lugar.",
+   "description": "Permanecer em um lugar: “ficar em casa”. Também significa tornar-se (“ficar triste”) ou combinar: “fica bem em você”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Permanecer em um lugar."
+    "pt-BR": "Permanecer em um lugar: “ficar em casa”. Também significa tornar-se (“ficar triste”) ou combinar: “fica bem em você”."
    },
    "antonyms": [
     "en:000000431"
@@ -12020,17 +12098,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "comprar",
-   "alternatives": [],
+   "alternatives": [
+    "adquirir"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 131,
-   "description": "Obter algo pagando.",
+   "description": "Obter algo pagando: “comprar pão”. Também significa acreditar em algo: “não compro essa história”, em tom informal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001094"
    ],
    "nativeExplain": {
-    "pt-BR": "Obter algo pagando."
+    "pt-BR": "Obter algo pagando: “comprar pão”. Também significa acreditar em algo: “não compro essa história”, em tom informal."
    }
   },
   {
@@ -12119,14 +12199,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vermelho",
-   "alternatives": [],
+   "alternatives": [
+    "rubro"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 132,
    "user_hint": "",
-   "description": "A cor do sangue.",
+   "description": "A cor do sangue e de tomates maduros: “um carro vermelho”. Também indica sinal de parar e situações em risco.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A cor do sangue."
+    "pt-BR": "A cor do sangue e de tomates maduros: “um carro vermelho”. Também indica sinal de parar e situações em risco."
    },
    "antonyms": [],
    "forms": [
@@ -12817,14 +12899,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "atrás de",
-   "alternatives": [],
+   "alternatives": [
+    "por trás de"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 136,
-   "description": "Na parte de trás de algo.",
+   "description": "Na parte de trás de algo: “atrás da porta”. Também indica o que veio depois: “ficar atrás dos outros”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Na parte de trás de algo."
+    "pt-BR": "Na parte de trás de algo: “atrás da porta”. Também indica o que veio depois: “ficar atrás dos outros”."
    },
    "antonyms": []
   },
@@ -12873,10 +12957,12 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "fácil",
-   "alternatives": [],
+   "alternatives": [
+    "simples"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 137,
-   "description": "Que não é difícil.",
+   "description": "Que não é difícil: “uma prova fácil”. Também indica pessoa tranquila ou algo que acontece com facilidade.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -12884,7 +12970,7 @@
     "en:000000263"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é difícil."
+    "pt-BR": "Que não é difícil: “uma prova fácil”. Também indica pessoa tranquila ou algo que acontece com facilidade."
    }
   },
   {
@@ -12960,17 +13046,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "perto de",
-   "alternatives": [],
+   "alternatives": [
+    "próximo de"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 138,
-   "description": "Próximo de.",
+   "description": "Próximo a algo: “perto da escola”. Também indica aproximação no tempo ou em quantidade: “perto de mil pessoas”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000285"
    ],
    "nativeExplain": {
-    "pt-BR": "Próximo de."
+    "pt-BR": "Próximo a algo: “perto da escola”. Também indica aproximação no tempo ou em quantidade: “perto de mil pessoas”."
    }
   },
   {
@@ -12989,14 +13077,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "plano",
-   "alternatives": [],
+   "alternatives": [
+    "projeto",
+    "intenção"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 139,
-   "description": "Ideia do que você vai fazer.",
+   "description": "Ideia do que se vai fazer: “um plano de viagem”. Também indica projeto, intenção ou contrato de serviços.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ideia do que você vai fazer."
+    "pt-BR": "Ideia do que se vai fazer: “um plano de viagem”. Também indica projeto, intenção ou contrato de serviços."
    },
    "antonyms": []
   },
@@ -13071,11 +13162,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 140,
-   "description": "O número 6.",
+   "description": "O número 6. Ex.: “seis meses”, “seis da manhã”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 6."
+    "pt-BR": "O número 6. Ex.: “seis meses”, “seis da manhã”."
    },
    "antonyms": []
   },
@@ -13244,17 +13335,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "frente",
-   "alternatives": [],
+   "alternatives": [
+    "parte da frente"
+   ],
    "study_tier": "inicial",
    "study_priority": 141,
-   "description": "O lado voltado para a frente.",
+   "description": "Lado voltado para a frente: “a frente da casa”. Também indica a posição à vante: “na frente da fila”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000091"
    ],
    "nativeExplain": {
-    "pt-BR": "O lado voltado para a frente."
+    "pt-BR": "Lado voltado para a frente: “a frente da casa”. Também indica a posição à vante: “na frente da fila”."
    }
   },
   {
@@ -13317,14 +13410,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "pronto",
-   "alternatives": [],
+   "alternatives": [
+    "preparado"
+   ],
    "study_tier": "inicial",
    "study_priority": 143,
    "user_hint": "",
-   "description": "Preparado.",
+   "description": "Preparado: “o jantar está pronto”. Também indica algo terminado ou alguém disposto a agir.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Preparado."
+    "pt-BR": "Preparado: “o jantar está pronto”. Também indica algo terminado ou alguém disposto a agir."
    },
    "antonyms": [],
    "forms": [
@@ -13412,14 +13507,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "rua",
-   "alternatives": [],
+   "alternatives": [
+    "via",
+    "avenida"
+   ],
    "study_tier": "inicial",
    "study_priority": 146,
-   "description": "Via de uma cidade.",
+   "description": "Via de uma cidade por onde passam pessoas e veículos: “andar na rua”. Também indica o nome de um endereço.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Via de uma cidade."
+    "pt-BR": "Via de uma cidade por onde passam pessoas e veículos: “andar na rua”. Também indica o nome de um endereço."
    },
    "antonyms": []
   },
@@ -13463,14 +13561,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "trazer",
-   "alternatives": [],
+   "alternatives": [
+    "levar até aqui"
+   ],
    "study_tier": "inicial",
    "study_priority": 147,
-   "description": "Levar algo até um lugar.",
+   "description": "Levar algo até o lugar onde se está: “traga o livro”. Também significa causar algo: “trazer problemas”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Levar algo até um lugar."
+    "pt-BR": "Levar algo até o lugar onde se está: “traga o livro”. Também significa causar algo: “trazer problemas”."
    },
    "antonyms": []
   },
@@ -13686,14 +13786,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "bebê",
-   "alternatives": [],
+   "alternatives": [
+    "nenê",
+    "recém-nascido"
+   ],
    "study_tier": "inicial",
    "study_priority": 150,
-   "description": "Criança muito pequena.",
+   "description": "Criança muito pequena, de pouco tempo de vida: “um bebê de dois meses”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Criança muito pequena."
+    "pt-BR": "Criança muito pequena, de pouco tempo de vida: “um bebê de dois meses”."
    },
    "antonyms": []
   },
@@ -13774,11 +13877,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 152,
-   "description": "O terceiro mês do ano.",
+   "description": "O terceiro mês do ano, entre fevereiro e abril. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O terceiro mês do ano."
+    "pt-BR": "O terceiro mês do ano, entre fevereiro e abril. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -13850,11 +13953,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 153,
-   "description": "Música com letra para cantar.",
+   "description": "Obra com melodia que se canta ou toca: “gostar de música”. Também indica a arte de combinar sons.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Música com letra para cantar."
+    "pt-BR": "Obra com melodia que se canta ou toca: “gostar de música”. Também indica a arte de combinar sons."
    },
    "antonyms": []
   },
@@ -13875,14 +13978,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "estudar",
-   "alternatives": [],
+   "alternatives": [
+    "aprender",
+    "analisar"
+   ],
    "study_tier": "inicial",
    "study_priority": 154,
-   "description": "Aprender lendo e praticando.",
+   "description": "Aprender lendo e praticando: “estudar para a prova”. Também significa examinar algo com cuidado: “estudar um caso”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Aprender lendo e praticando."
+    "pt-BR": "Aprender lendo e praticando: “estudar para a prova”. Também significa examinar algo com cuidado: “estudar um caso”."
    },
    "antonyms": []
   },
@@ -14098,14 +14204,14 @@
    ],
    "study_tier": "inicial",
    "study_priority": 157,
-   "description": "Fora de uma construção.",
+   "description": "Fora de uma construção ou casa: “brincar lá fora”. Também indica o ambiente exterior em geral.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000634"
    ],
    "nativeExplain": {
-    "pt-BR": "Fora de uma construção."
+    "pt-BR": "Fora de uma construção ou casa: “brincar lá fora”. Também indica o ambiente exterior em geral."
    }
   },
   {
@@ -14179,14 +14285,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "custar",
-   "alternatives": [],
+   "alternatives": [
+    "valer"
+   ],
    "study_tier": "inicial",
    "study_priority": 159,
-   "description": "Ter determinado preço.",
+   "description": "Ter determinado preço: “quanto custa?”. Também indica esforço necessário: “custa muito fazer isso”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ter determinado preço."
+    "pt-BR": "Ter determinado preço: “quanto custa?”. Também indica esforço necessário: “custa muito fazer isso”."
    },
    "antonyms": []
   },
@@ -14209,14 +14317,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cortar",
-   "alternatives": [],
+   "alternatives": [
+    "picar",
+    "recortar"
+   ],
    "study_tier": "inicial",
    "study_priority": 160,
-   "description": "Dividir com faca ou tesoura.",
+   "description": "Dividir com faca ou tesoura: “cortar o pão”. Também significa reduzir (“cortar gastos”) ou interromper.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Dividir com faca ou tesoura."
+    "pt-BR": "Dividir com faca ou tesoura: “cortar o pão”. Também significa reduzir (“cortar gastos”) ou interromper."
    },
    "antonyms": []
   },
@@ -14383,14 +14494,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "momento",
-   "alternatives": [],
+   "alternatives": [
+    "instante",
+    "hora"
+   ],
    "study_tier": "inicial",
    "study_priority": 161,
-   "description": "Período de tempo muito curto.",
+   "description": "Período de tempo muito curto: “um momento, por favor”. Também indica uma ocasião específica: “naquele momento”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Período de tempo muito curto."
+    "pt-BR": "Período de tempo muito curto: “um momento, por favor”. Também indica uma ocasião específica: “naquele momento”."
    },
    "antonyms": []
   },
@@ -14632,11 +14746,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 166,
-   "description": "Perceber sons com os ouvidos.",
+   "description": "Perceber sons com os ouvidos: “ouvi um barulho”. Também significa receber notícias ou ser ouvinte de alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Perceber sons com os ouvidos."
+    "pt-BR": "Perceber sons com os ouvidos: “ouvi um barulho”. Também significa receber notícias ou ser ouvinte de alguém."
    },
    "antonyms": []
   },
@@ -14681,14 +14795,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "preço",
-   "alternatives": [],
+   "alternatives": [
+    "valor",
+    "custo"
+   ],
    "study_tier": "inicial",
    "study_priority": 167,
-   "description": "Quanto dinheiro algo custa.",
+   "description": "Quanto dinheiro algo custa: “o preço está alto”. Também indica o que se perde ao obter algo: “o preço da fama”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quanto dinheiro algo custa."
+    "pt-BR": "Quanto dinheiro algo custa: “o preço está alto”. Também indica o que se perde ao obter algo: “o preço da fama”."
    },
    "antonyms": []
   },
@@ -14755,17 +14872,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "verão",
-   "alternatives": [],
+   "alternatives": [
+    "estação quente"
+   ],
    "study_tier": "inicial",
    "study_priority": 168,
-   "description": "A estação mais quente.",
+   "description": "A estação mais quente do ano, entre a primavera e o outono: “as férias de verão”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001345"
    ],
    "nativeExplain": {
-    "pt-BR": "A estação mais quente."
+    "pt-BR": "A estação mais quente do ano, entre a primavera e o outono: “as férias de verão”."
    }
   },
   {
@@ -14833,15 +14952,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "bonito",
    "alternatives": [
-    "lindo"
+    "lindo",
+    "belo"
    ],
    "study_tier": "inicial",
    "study_priority": 170,
    "user_hint": "",
-   "description": "Muito bonito.",
+   "description": "Muito bonito, agradável de ver ou ouvir: “uma paisagem bonita”. Também se aplica a atitudes: “um gesto bonito”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito bonito."
+    "pt-BR": "Muito bonito, agradável de ver ou ouvir: “uma paisagem bonita”. Também se aplica a atitudes: “um gesto bonito”."
    },
    "antonyms": []
   },
@@ -14961,14 +15081,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "projeto",
-   "alternatives": [],
+   "alternatives": [
+    "empreendimento",
+    "plano"
+   ],
    "study_tier": "inicial",
    "study_priority": 171,
-   "description": "Trabalho planejado.",
+   "description": "Trabalho planejado, com objetivo: “um projeto de escola”. Também indica a ideia de fazer algo no futuro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Trabalho planejado."
+    "pt-BR": "Trabalho planejado, com objetivo: “um projeto de escola”. Também indica a ideia de fazer algo no futuro."
    },
    "antonyms": []
   },
@@ -15034,17 +15157,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "forte",
-   "alternatives": [],
+   "alternatives": [
+    "robusto",
+    "potente"
+   ],
    "study_tier": "inicial",
    "study_priority": 173,
    "user_hint": "",
-   "description": "Que tem muita força.",
+   "description": "Que tem muita força: “um homem forte”. Também indica algo resistente, intenso ou marcante: “vento forte”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002199"
    ],
    "nativeExplain": {
-    "pt-BR": "Que tem muita força."
+    "pt-BR": "Que tem muita força: “um homem forte”. Também indica algo resistente, intenso ou marcante: “vento forte”."
    }
   },
   {
@@ -15198,11 +15324,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 174,
-   "description": "O sexto mês do ano.",
+   "description": "O sexto mês do ano, entre maio e julho. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O sexto mês do ano."
+    "pt-BR": "O sexto mês do ano, entre maio e julho. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -15222,14 +15348,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "pais",
-   "alternatives": [],
+   "alternatives": [
+    "progenitores"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 175,
-   "description": "A mãe e o pai de uma pessoa.",
+   "description": "A mãe e o pai de uma pessoa: “meus pais”. Também pode incluir quem cria a criança, sem ser parente de sangue.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A mãe e o pai de uma pessoa."
+    "pt-BR": "A mãe e o pai de uma pessoa: “meus pais”. Também pode incluir quem cria a criança, sem ser parente de sangue."
    },
    "antonyms": []
   },
@@ -15324,11 +15452,11 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 176,
-   "description": "Quase igual.",
+   "description": "Quase igual, com características parecidas: “cores parecidas”. Usa-se também para comparar pessoas e ideias.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quase igual."
+    "pt-BR": "Quase igual, com características parecidas: “cores parecidas”. Usa-se também para comparar pessoas e ideias."
    },
    "antonyms": []
   },
@@ -15378,15 +15506,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "acima de",
    "alternatives": [
-    "em cima de"
+    "em cima de",
+    "sobre"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 177,
-   "description": "Mais alto que.",
+   "description": "Em posição mais alta que algo: “acima da mesa”. Também indica quantidade superior: “acima de dez”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mais alto que."
+    "pt-BR": "Em posição mais alta que algo: “acima da mesa”. Também indica quantidade superior: “acima de dez”."
    },
    "antonyms": [
     "en:000000912"
@@ -15478,14 +15607,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "filme",
-   "alternatives": [],
+   "alternatives": [
+    "longa-metragem",
+    "fita"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 178,
-   "description": "Obra de cinema.",
+   "description": "Obra de cinema, com imagens em movimento: “ver um filme”. Também significa o material fotográfico ou a película.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Obra de cinema."
+    "pt-BR": "Obra de cinema, com imagens em movimento: “ver um filme”. Também significa o material fotográfico ou a película."
    },
    "antonyms": []
   },
@@ -15630,14 +15762,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "perfeito",
-   "alternatives": [],
+   "alternatives": [
+    "impecável",
+    "ideal"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 179,
    "user_hint": "",
-   "description": "Sem nenhum erro.",
+   "description": "Sem nenhum erro ou defeito: “uma resposta perfeita”. Também pode indicar algo ideal ou total: “um dia perfeito”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sem nenhum erro."
+    "pt-BR": "Sem nenhum erro ou defeito: “uma resposta perfeita”. Também pode indicar algo ideal ou total: “um dia perfeito”."
    },
    "antonyms": []
   },
@@ -15825,11 +15960,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 182,
-   "description": "O quarto mês do ano.",
+   "description": "O quarto mês do ano, entre março e maio. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O quarto mês do ano."
+    "pt-BR": "O quarto mês do ano, entre março e maio. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -15895,17 +16030,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "morto",
-   "alternatives": [],
+   "alternatives": [
+    "sem vida",
+    "falecido"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 183,
    "user_hint": "",
-   "description": "Que não está mais vivo.",
+   "description": "Que não está mais vivo: “uma planta morta”. Também indica algo sem funcionamento: “bateria morta”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001744"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não está mais vivo."
+    "pt-BR": "Que não está mais vivo: “uma planta morta”. Também indica algo sem funcionamento: “bateria morta”."
    },
    "forms": [
     {
@@ -15928,14 +16066,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "inglês",
-   "alternatives": [],
+   "alternatives": [
+    "idioma inglês"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 184,
    "user_hint": "",
-   "description": "A língua inglesa.",
+   "description": "A língua da Inglaterra e de muitos outros países: “falar inglês”. Também designa a disciplina na escola.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A língua inglesa."
+    "pt-BR": "A língua da Inglaterra e de muitos outros países: “falar inglês”. Também designa a disciplina na escola."
    },
    "antonyms": []
   },
@@ -15950,14 +16090,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "acontecer",
-   "alternatives": [],
+   "alternatives": [
+    "ocorrer",
+    "suceder"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 185,
    "user_hint": "",
-   "description": "Ocorrer; dar-se.",
+   "description": "Ocorrer ou dar-se: “o que aconteceu?”. Também indica algo inesperado.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Ocorrer; dar-se."
+    "pt-BR": "Ocorrer ou dar-se: “o que aconteceu?”. Também indica algo inesperado."
    },
    "antonyms": []
   },
@@ -15977,14 +16120,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "segurar",
-   "alternatives": [],
+   "alternatives": [
+    "agarrar",
+    "manter"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 186,
-   "description": "Ter nas mãos.",
+   "description": "Ter nas mãos: “segurar a corda”. Também significa conter ou apoiar: “segurar o choro”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ter nas mãos."
+    "pt-BR": "Ter nas mãos: “segurar a corda”. Também significa conter ou apoiar: “segurar o choro”."
    },
    "antonyms": []
   },
@@ -16057,15 +16203,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "online",
    "alternatives": [
-    "na internet"
+    "na internet",
+    "conectado"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 188,
-   "description": "Na internet.",
+   "description": "Conectado à internet: “aula online”. Também se usa para o que acontece na rede: “comprar online”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Na internet."
+    "pt-BR": "Conectado à internet: “aula online”. Também se usa para o que acontece na rede: “comprar online”."
    },
    "antonyms": []
   },
@@ -16373,14 +16520,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "hora",
-   "alternatives": [],
+   "alternatives": [
+    "60 minutos"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 193,
-   "description": "Sessenta minutos.",
+   "description": "Sessenta minutos: “uma hora”. Também indica a hora do relógio: “que horas são?”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sessenta minutos."
+    "pt-BR": "Sessenta minutos: “uma hora”. Também indica a hora do relógio: “que horas são?”."
    },
    "antonyms": []
   },
@@ -16422,14 +16571,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "meio",
-   "alternatives": [],
+   "alternatives": [
+    "centro"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 194,
-   "description": "A parte central.",
+   "description": "A parte central: “o meio da sala”. Também indica um ponto entre dois extremos, ou o ambiente em que se vive.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A parte central."
+    "pt-BR": "A parte central: “o meio da sala”. Também indica um ponto entre dois extremos, ou o ambiente em que se vive."
    },
    "antonyms": []
   },
@@ -16603,14 +16754,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "resposta",
-   "alternatives": [],
+   "alternatives": [
+    "réplica"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 197,
-   "description": "Resposta a uma pergunta.",
+   "description": "Resposta a uma pergunta: “dar a resposta”. Também indica a reação a um pedido ou a solução de um problema.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Resposta a uma pergunta."
+    "pt-BR": "Resposta a uma pergunta: “dar a resposta”. Também indica a reação a um pedido ou a solução de um problema."
    },
    "antonyms": []
   },
@@ -16630,17 +16783,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "menino",
-   "alternatives": [],
+   "alternatives": [
+    "garoto"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 198,
-   "description": "Criança do sexo masculino.",
+   "description": "Criança do sexo masculino: “um menino de cinco anos”. Também se usa para rapazes jovens.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000398"
    ],
    "nativeExplain": {
-    "pt-BR": "Criança do sexo masculino."
+    "pt-BR": "Criança do sexo masculino: “um menino de cinco anos”. Também se usa para rapazes jovens."
    }
   },
   {
@@ -16702,14 +16857,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ouro",
-   "alternatives": [],
+   "alternatives": [
+    "metal dourado"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 199,
    "user_hint": "",
-   "description": "Metal precioso amarelo.",
+   "description": "Metal precioso amarelo: “um anel de ouro”. Também indica a cor dourada ou a medalha do primeiro lugar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Metal precioso amarelo."
+    "pt-BR": "Metal precioso amarelo: “um anel de ouro”. Também indica a cor dourada ou a medalha do primeiro lugar."
    },
    "antonyms": []
   },
@@ -16806,11 +16963,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 200,
-   "description": "O sétimo mês do ano.",
+   "description": "O sétimo mês do ano, entre junho e agosto. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O sétimo mês do ano."
+    "pt-BR": "O sétimo mês do ano, entre junho e agosto. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -16952,15 +17109,15 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sozinho",
    "alternatives": [
-    "sozinha"
+    "só"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 202,
    "user_hint": "",
-   "description": "Sem outras pessoas.",
+   "description": "Sem outras pessoas: “moro sozinho”. Também indica fazer algo sem ajuda: “fazer sozinho”. Fem.: “sozinha”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sem outras pessoas."
+    "pt-BR": "Sem outras pessoas: “moro sozinho”. Também indica fazer algo sem ajuda: “fazer sozinho”. Fem.: “sozinha”."
    },
    "antonyms": [],
    "forms": [
@@ -17116,17 +17273,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "leste",
-   "alternatives": [],
+   "alternatives": [
+    "oriente",
+    "nascente"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 204,
-   "description": "A direção onde o sol nasce.",
+   "description": "A direção onde o sol nasce: “a leste da cidade”. Também designa a região do Oriente.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000502"
    ],
    "nativeExplain": {
-    "pt-BR": "A direção onde o sol nasce."
+    "pt-BR": "A direção onde o sol nasce: “a leste da cidade”. Também designa a região do Oriente."
    }
   },
   {
@@ -17146,14 +17306,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quente",
-   "alternatives": [],
+   "alternatives": [
+    "quente"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 205,
-   "description": "Com temperatura muito alta.",
+   "description": "Com temperatura muito alta: “café quente”. Também indica sensação de calor, pimenta forte ou algo muito procurado.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Com temperatura muito alta."
+    "pt-BR": "Com temperatura muito alta: “café quente”. Também indica sensação de calor, pimenta forte ou algo muito procurado."
    },
    "antonyms": [
     "en:000000981"
@@ -17337,15 +17499,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "apertar",
    "alternatives": [
-    "pressionar"
+    "pressionar",
+    "comprimir"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 209,
-   "description": "Empurrar com o dedo.",
+   "description": "Empurrar com o dedo ou com a mão: “apertar o botão”. Também significa comprimir ou pressionar alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Empurrar com o dedo."
+    "pt-BR": "Empurrar com o dedo ou com a mão: “apertar o botão”. Também significa comprimir ou pressionar alguém."
    },
    "antonyms": []
   },
@@ -17773,11 +17936,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 212,
-   "description": "O nono mês do ano.",
+   "description": "O nono mês do ano, entre agosto e outubro. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O nono mês do ano."
+    "pt-BR": "O nono mês do ano, entre agosto e outubro. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -17792,14 +17955,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "som",
-   "alternatives": [],
+   "alternatives": [
+    "ruído",
+    "áudio"
+   ],
    "study_tier": "inicial",
    "study_priority": 213,
    "user_hint": "",
-   "description": "Algo que se ouve.",
+   "description": "O que se ouve: “o som da música”. Também indica a qualidade do áudio ou a vibração do ar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Algo que se ouve."
+    "pt-BR": "O que se ouve: “o som da música”. Também indica a qualidade do áudio ou a vibração do ar."
    },
    "antonyms": []
   },
@@ -17920,14 +18086,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "seguir",
-   "alternatives": [],
+   "alternatives": [
+    "acompanhar"
+   ],
    "study_tier": "inicial",
    "study_priority": 215,
-   "description": "Ir atrás de alguém ou algo.",
+   "description": "Ir atrás de alguém ou algo: “seguir o guia”. Também significa obedecer, acompanhar um perfil ou continuar um caminho.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ir atrás de alguém ou algo."
+    "pt-BR": "Ir atrás de alguém ou algo: “seguir o guia”. Também significa obedecer, acompanhar um perfil ou continuar um caminho."
    },
    "antonyms": []
   },
@@ -17970,15 +18138,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "ok",
    "alternatives": [
-    "tá bom"
+    "tá bom",
+    "certo"
    ],
    "study_tier": "inicial",
    "study_priority": 216,
-   "description": "Tudo bem; aceitável.",
+   "description": "Tudo bem, aceitável: “ok, combinado”. Usa-se para concordar, aceitar ou confirmar.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Tudo bem; aceitável."
+    "pt-BR": "Tudo bem, aceitável: “ok, combinado”. Usa-se para concordar, aceitar ou confirmar."
    },
    "antonyms": []
   },
@@ -18067,14 +18236,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "redondo",
-   "alternatives": [],
+   "alternatives": [
+    "circular"
+   ],
    "study_tier": "inicial",
    "study_priority": 217,
    "user_hint": "",
-   "description": "Com forma de círculo ou bola.",
+   "description": "Com forma de círculo ou bola: “mesa redonda”. Também indica números inteiros: “cem reais redondos”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Com forma de círculo ou bola."
+    "pt-BR": "Com forma de círculo ou bola: “mesa redonda”. Também indica números inteiros: “cem reais redondos”."
    },
    "antonyms": [],
    "forms": [
@@ -18134,17 +18305,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ficar de pé",
-   "alternatives": [],
+   "alternatives": [
+    "levantar-se"
+   ],
    "study_tier": "inicial",
    "study_priority": 218,
-   "description": "Ficar apoiado nos pés.",
+   "description": "Ficar apoiado nos pés, em posição vertical: “ficar de pé”. Também indica levantar-se ou permanecer em pé numa fila.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001320"
    ],
    "nativeExplain": {
-    "pt-BR": "Ficar apoiado nos pés."
+    "pt-BR": "Ficar apoiado nos pés, em posição vertical: “ficar de pé”. Também indica levantar-se ou permanecer em pé numa fila."
    }
   },
   {
@@ -18159,15 +18332,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "coisas",
    "alternatives": [
-    "troço"
+    "troço",
+    "negócio"
    ],
    "study_tier": "inicial",
    "study_priority": 219,
    "user_hint": "",
-   "description": "Coisas em geral (informal).",
+   "description": "Coisas em geral, de modo informal: “tenho um monte de coisas”. Substitui nomes que não se precisa dizer.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Coisas em geral (informal)."
+    "pt-BR": "Coisas em geral, de modo informal: “tenho um monte de coisas”. Substitui nomes que não se precisa dizer."
    },
    "antonyms": []
   },
@@ -18261,14 +18435,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "azul",
-   "alternatives": [],
+   "alternatives": [
+    "azulado"
+   ],
    "study_tier": "inicial",
    "study_priority": 221,
    "user_hint": "",
-   "description": "A cor do céu.",
+   "description": "A cor do céu e do mar: “camiseta azul”. Também descreve objetos e roupas dessa cor.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A cor do céu."
+    "pt-BR": "A cor do céu e do mar: “camiseta azul”. Também descreve objetos e roupas dessa cor."
    },
    "antonyms": []
   },
@@ -18288,14 +18464,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "dirigir",
-   "alternatives": [],
+   "alternatives": [
+    "conduzir",
+    "guiar"
+   ],
    "study_tier": "inicial",
    "study_priority": 222,
-   "description": "Controlar um carro.",
+   "description": "Controlar um carro: “dirigir um carro”. Também significa conduzir uma empresa ou direcionar algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Controlar um carro."
+    "pt-BR": "Controlar um carro: “dirigir um carro”. Também significa conduzir uma empresa ou direcionar algo."
    },
    "antonyms": []
   },
@@ -18315,14 +18494,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "comer",
-   "alternatives": [],
+   "alternatives": [
+    "alimentar-se"
+   ],
    "study_tier": "inicial",
    "study_priority": 223,
-   "description": "Pôr comida na boca e engolir.",
+   "description": "Pôr comida na boca e engolir: “comer pão”. Também significa gastar (“comer o dinheiro”) ou consumir.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pôr comida na boca e engolir."
+    "pt-BR": "Pôr comida na boca e engolir: “comer pão”. Também significa gastar (“comer o dinheiro”) ou consumir."
    },
    "antonyms": []
   },
@@ -18345,14 +18526,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cair",
-   "alternatives": [],
+   "alternatives": [
+    "despencar",
+    "tombar"
+   ],
    "study_tier": "inicial",
    "study_priority": 224,
-   "description": "Ir ao chão de repente.",
+   "description": "Ir ao chão de repente: “cair da escada”. Também significa baixar, ou ser pego num truque: “cair numa pegadinha”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ir ao chão de repente."
+    "pt-BR": "Ir ao chão de repente: “cair da escada”. Também significa baixar, ou ser pego num truque: “cair numa pegadinha”."
    },
    "antonyms": [
     "en:000001609"
@@ -18473,14 +18657,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "verde",
-   "alternatives": [],
+   "alternatives": [
+    "esverdeado"
+   ],
    "study_tier": "inicial",
    "study_priority": 226,
    "user_hint": "",
-   "description": "A cor da grama.",
+   "description": "A cor da grama e das folhas: “maçã verde”. Também indica algo imaturo ou ecologicamente correto.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A cor da grama."
+    "pt-BR": "A cor da grama e das folhas: “maçã verde”. Também indica algo imaturo ou ecologicamente correto."
    },
    "antonyms": []
   },
@@ -18625,14 +18811,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "tamanho",
-   "alternatives": [],
+   "alternatives": [
+    "medida",
+    "dimensão"
+   ],
    "study_tier": "inicial",
    "study_priority": 228,
-   "description": "Quão grande algo é.",
+   "description": "Quão grande algo é: “o tamanho da camisa”. Também indica a medida de roupas e sapatos: “tamanho 40”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quão grande algo é."
+    "pt-BR": "Quão grande algo é: “o tamanho da camisa”. Também indica a medida de roupas e sapatos: “tamanho 40”."
    },
    "antonyms": []
   },
@@ -18837,11 +19026,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 231,
-   "description": "Mãe, de forma carinhosa.",
+   "description": "Forma carinhosa de se referir à própria mãe: “mãe, vem cá!”. A forma “mamãe” é mais infantil.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mãe, de forma carinhosa."
+    "pt-BR": "Forma carinhosa de se referir à própria mãe: “mãe, vem cá!”. A forma “mamãe” é mais infantil."
    },
    "antonyms": []
   },
@@ -19378,11 +19567,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 250,
-   "description": "O décimo mês do ano.",
+   "description": "O décimo mês do ano, entre setembro e novembro. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O décimo mês do ano."
+    "pt-BR": "O décimo mês do ano, entre setembro e novembro. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -19515,15 +19704,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "incrível",
    "alternatives": [
-    "maravilhoso"
+    "maravilhoso",
+    "fantástico"
    ],
    "study_tier": "inicial",
    "study_priority": 252,
    "user_hint": "",
-   "description": "Muito surpreendente e bom.",
+   "description": "Muito surpreendente e bom: “uma vista incrível”. Também indica algo difícil de acreditar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito surpreendente e bom."
+    "pt-BR": "Muito surpreendente e bom: “uma vista incrível”. Também indica algo difícil de acreditar."
    },
    "antonyms": []
   },
@@ -19546,11 +19736,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 253,
-   "description": "O oitavo mês do ano.",
+   "description": "O oitavo mês do ano, entre julho e setembro. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O oitavo mês do ano."
+    "pt-BR": "O oitavo mês do ano, entre julho e setembro. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -19778,11 +19968,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 257,
-   "description": "O décimo primeiro mês do ano.",
+   "description": "O décimo primeiro mês do ano, entre outubro e dezembro. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O décimo primeiro mês do ano."
+    "pt-BR": "O décimo primeiro mês do ano, entre outubro e dezembro. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -19930,11 +20120,12 @@
    "vcu14_status": "provisional-editorial",
    "text": "adicionar",
    "alternatives": [
-    "somar"
+    "somar",
+    "acrescentar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 259,
-   "description": "Juntar algo a outra coisa.",
+   "description": "Juntar algo a outra coisa: “adicionar sal”. Também significa somar números: “adicionar dois a três”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -19942,7 +20133,7 @@
     "en:000003236"
    ],
    "nativeExplain": {
-    "pt-BR": "Juntar algo a outra coisa."
+    "pt-BR": "Juntar algo a outra coisa: “adicionar sal”. Também significa somar números: “adicionar dois a três”."
    }
   },
   {
@@ -20102,14 +20293,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "decisão",
-   "alternatives": [],
+   "alternatives": [
+    "escolha",
+    "resolução"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 261,
-   "description": "Escolha que você faz.",
+   "description": "Escolha que se faz depois de pensar: “tomar uma decisão”. Também indica a sentença de um tribunal.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Escolha que você faz."
+    "pt-BR": "Escolha que se faz depois de pensar: “tomar uma decisão”. Também indica a sentença de um tribunal."
    },
    "antonyms": []
   },
@@ -20125,15 +20319,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "aproveitar",
    "alternatives": [
-    "curtir"
+    "curtir",
+    "apreciar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 262,
    "user_hint": "",
-   "description": "Gostar de fazer algo.",
+   "description": "Gostar de fazer algo e tirar prazer disso: “aproveitar as férias”. Também significa usufruir de algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Gostar de fazer algo."
+    "pt-BR": "Gostar de fazer algo e tirar prazer disso: “aproveitar as férias”. Também significa usufruir de algo."
    },
    "antonyms": []
   },
@@ -20202,11 +20397,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 263,
-   "description": "O primeiro mês do ano.",
+   "description": "O primeiro mês do ano, em que o calendário recomeça. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O primeiro mês do ano."
+    "pt-BR": "O primeiro mês do ano, em que o calendário recomeça. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -20277,14 +20472,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "talvez",
-   "alternatives": [],
+   "alternatives": [
+    "possivelmente"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 264,
-   "description": "Talvez; possivelmente.",
+   "description": "Indica possibilidade, de modo educado: “talvez ele venha”. Na escrita formal, pode ser “possivelmente”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Talvez; possivelmente."
+    "pt-BR": "Indica possibilidade, de modo educado: “talvez ele venha”. Na escrita formal, pode ser “possivelmente”."
    },
    "antonyms": []
   },
@@ -20518,14 +20715,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "continuar",
-   "alternatives": [],
+   "alternatives": [
+    "prosseguir",
+    "seguir"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 267,
    "user_hint": "",
-   "description": "Seguir fazendo algo.",
+   "description": "Seguir fazendo algo, sem parar: “continuar estudando”. Também significa prolongar-se ou retomar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Seguir fazendo algo."
+    "pt-BR": "Seguir fazendo algo, sem parar: “continuar estudando”. Também significa prolongar-se ou retomar."
    },
    "antonyms": []
   },
@@ -20593,14 +20793,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "atualmente",
-   "alternatives": [],
+   "alternatives": [
+    "no momento",
+    "hoje"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 268,
-   "description": "No momento presente.",
+   "description": "No momento presente: “atualmente moro aqui”. Em português, “atualmente” significa “agora”, não “na verdade”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "No momento presente."
+    "pt-BR": "No momento presente: “atualmente moro aqui”. Em português, “atualmente” significa “agora”, não “na verdade”."
    },
    "antonyms": []
   },
@@ -20899,14 +21102,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "parecer",
-   "alternatives": [],
+   "alternatives": [
+    "aparentar"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 273,
    "user_hint": "",
-   "description": "Dar a impressão de ser.",
+   "description": "Dar a impressão de ser: “parece cansado”. Também expressa opinião suave: “parece que vai chover”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Dar a impressão de ser."
+    "pt-BR": "Dar a impressão de ser: “parece cansado”. Também expressa opinião suave: “parece que vai chover”."
    },
    "antonyms": []
   },
@@ -20930,11 +21135,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 274,
-   "description": "O número 7.",
+   "description": "O número 7. Ex.: “sete dias”, “sete da noite”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 7."
+    "pt-BR": "O número 7. Ex.: “sete dias”, “sete da noite”."
    },
    "antonyms": []
   },
@@ -21133,14 +21338,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cama",
-   "alternatives": [],
+   "alternatives": [
+    "leito"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 277,
-   "description": "Móvel onde se dorme.",
+   "description": "Móvel onde se dorme: “cama de casal”. Também indica o leito de um rio ou o lugar de repouso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Móvel onde se dorme."
+    "pt-BR": "Móvel onde se dorme: “cama de casal”. Também indica o leito de um rio ou o lugar de repouso."
    },
    "antonyms": []
   },
@@ -21258,14 +21465,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "diário",
-   "alternatives": [],
+   "alternatives": [
+    "cotidiano"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 278,
-   "description": "Que acontece todos os dias.",
+   "description": "Que acontece todos os dias: “rotina diária”. Também indica algo de uso cotidiano.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que acontece todos os dias."
+    "pt-BR": "Que acontece todos os dias: “rotina diária”. Também indica algo de uso cotidiano."
    },
    "antonyms": []
   },
@@ -21317,11 +21526,11 @@
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 280,
-   "description": "O décimo segundo mês do ano.",
+   "description": "O décimo segundo mês do ano, o último do calendário. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O décimo segundo mês do ano."
+    "pt-BR": "O décimo segundo mês do ano, o último do calendário. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -21336,14 +21545,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "morrer",
-   "alternatives": [],
+   "alternatives": [
+    "falecer",
+    "perecer"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 281,
    "user_hint": "",
-   "description": "Deixar de viver.",
+   "description": "Deixar de viver: “o peixe morreu”. Também indica sentir muito algo (“morrer de rir”) ou deixar de funcionar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Deixar de viver."
+    "pt-BR": "Deixar de viver: “o peixe morreu”. Também indica sentir muito algo (“morrer de rir”) ou deixar de funcionar."
    },
    "antonyms": []
   },
@@ -21363,17 +21575,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "difícil",
-   "alternatives": [],
+   "alternatives": [
+    "complicado",
+    "complexo"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 282,
-   "description": "Que não é fácil.",
+   "description": "Que não é fácil: “uma prova difícil”. Também indica pessoa complicada ou situação delicada.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000492"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é fácil."
+    "pt-BR": "Que não é fácil: “uma prova difícil”. Também indica pessoa complicada ou situação delicada."
    }
   },
   {
@@ -21637,14 +21852,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "voz",
-   "alternatives": [],
+   "alternatives": [
+    "fala"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 286,
    "user_hint": "",
-   "description": "O som de uma pessoa falando.",
+   "description": "O som que uma pessoa produz ao falar ou cantar: “voz alta”. Também indica opinião: “dar voz a alguém”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O som de uma pessoa falando."
+    "pt-BR": "O som que uma pessoa produz ao falar ou cantar: “voz alta”. Também indica opinião: “dar voz a alguém”."
    },
    "antonyms": []
   },
@@ -21736,14 +21953,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "Terra",
-   "alternatives": [],
+   "alternatives": [
+    "planeta",
+    "mundo"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 288,
    "user_hint": "",
-   "description": "O planeta onde vivemos.",
+   "description": "O planeta onde vivemos: “a Terra gira”. Escreve-se com maiúscula como planeta; com minúscula, indica solo ou chão.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O planeta onde vivemos."
+    "pt-BR": "O planeta onde vivemos: “a Terra gira”. Escreve-se com maiúscula como planeta; com minúscula, indica solo ou chão."
    },
    "antonyms": []
   },
@@ -21763,17 +21983,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esquecer",
-   "alternatives": [],
+   "alternatives": [
+    "perder a memória"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 289,
-   "description": "Não se lembrar.",
+   "description": "Deixar de se lembrar: “esqueci o nome”. Também significa deixar algo para trás: “esqueci a chave”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000402"
    ],
    "nativeExplain": {
-    "pt-BR": "Não se lembrar."
+    "pt-BR": "Deixar de se lembrar: “esqueci o nome”. Também significa deixar algo para trás: “esqueci a chave”."
    }
   },
   {
@@ -21809,14 +22031,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "enorme",
-   "alternatives": [],
+   "alternatives": [
+    "imenso",
+    "gigante"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 290,
    "user_hint": "",
-   "description": "Muito grande.",
+   "description": "Muito grande, de tamanho ou intensidade acima do normal: “uma casa enorme”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito grande."
+    "pt-BR": "Muito grande, de tamanho ou intensidade acima do normal: “uma casa enorme”."
    },
    "antonyms": []
   },
@@ -21865,15 +22090,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "escutar",
    "alternatives": [
-    "ouvir"
+    "ouvir",
+    "dar ouvidos"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 292,
-   "description": "Prestar atenção aos sons.",
+   "description": "Prestar atenção aos sons: “escutar música”. Também significa dar atenção ao que alguém diz: “escutar um conselho”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Prestar atenção aos sons."
+    "pt-BR": "Prestar atenção aos sons: “escutar música”. Também significa dar atenção ao que alguém diz: “escutar um conselho”."
    },
    "antonyms": []
   },
@@ -22125,15 +22351,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "abaixo de",
    "alternatives": [
-    "embaixo"
+    "embaixo",
+    "debaixo de"
    ],
    "study_tier": "inicial",
    "study_priority": 295,
-   "description": "Mais baixo que.",
+   "description": "Em posição mais baixa que algo: “abaixo da mesa”. Também indica quantidade inferior: “abaixo de dez”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Mais baixo que."
+    "pt-BR": "Em posição mais baixa que algo: “abaixo da mesa”. Também indica quantidade inferior: “abaixo de dez”."
    },
    "antonyms": [
     "en:000000607"
@@ -22183,10 +22410,10 @@
    "study_tier": "inicial",
    "study_priority": 296,
    "user_hint": "",
-   "description": "Que vai muito para baixo.",
+   "description": "Que vai muito para baixo: “um poço profundo”. Também indica sentimento intenso ou ideia complexa.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que vai muito para baixo."
+    "pt-BR": "Que vai muito para baixo: “um poço profundo”. Também indica sentimento intenso ou ideia complexa."
    },
    "antonyms": []
   },
@@ -22452,11 +22679,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 299,
-   "description": "O número 10.",
+   "description": "O número 10. Ex.: “dez dedos”, “dez da noite”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 10."
+    "pt-BR": "O número 10. Ex.: “dez dedos”, “dez da noite”."
    },
    "antonyms": []
   },
@@ -22611,14 +22838,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "escuro",
-   "alternatives": [],
+   "alternatives": [
+    "sombrio",
+    "negro"
+   ],
    "study_tier": "inicial",
    "study_priority": 303,
    "user_hint": "",
-   "description": "Com pouca luz.",
+   "description": "Com pouca luz: “um quarto escuro”. Também indica cores fechadas (“azul escuro”) ou algo sombrio.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Com pouca luz."
+    "pt-BR": "Com pouca luz: “um quarto escuro”. Também indica cores fechadas (“azul escuro”) ou algo sombrio."
    },
    "antonyms": []
   },
@@ -22819,14 +23049,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "reto",
-   "alternatives": [],
+   "alternatives": [
+    "direito",
+    "retilíneo"
+   ],
    "study_tier": "inicial",
    "study_priority": 305,
-   "description": "Sem curvas.",
+   "description": "Sem curvas: “uma linha reta”. Também indica pessoa franca e direta.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sem curvas."
+    "pt-BR": "Sem curvas: “uma linha reta”. Também indica pessoa franca e direta."
    },
    "antonyms": []
   },
@@ -23046,11 +23279,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 308,
-   "description": "O segundo mês do ano.",
+   "description": "O segundo mês do ano, o mais curto do calendário. Em português, o nome do mês se escreve com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O segundo mês do ano."
+    "pt-BR": "O segundo mês do ano, o mais curto do calendário. Em português, o nome do mês se escreve com letra minúscula."
    },
    "antonyms": []
   },
@@ -23386,14 +23619,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "hoje à noite",
-   "alternatives": [],
+   "alternatives": [
+    "esta noite"
+   ],
    "study_tier": "inicial",
    "study_priority": 312,
-   "description": "Esta noite, neste mesmo dia.",
+   "description": "Esta noite, neste mesmo dia: “hoje à noite vou sair”. Também indica o período depois do pôr do sol de hoje.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Esta noite, neste mesmo dia."
+    "pt-BR": "Esta noite, neste mesmo dia: “hoje à noite vou sair”. Também indica o período depois do pôr do sol de hoje."
    },
    "antonyms": []
   },
@@ -23513,17 +23748,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "frio",
-   "alternatives": [],
+   "alternatives": [
+    "gelado",
+    "gélido"
+   ],
    "study_tier": "inicial",
    "study_priority": 314,
-   "description": "Com temperatura baixa.",
+   "description": "Com temperatura baixa: “água fria”. Também indica pessoa pouco afetuosa ou doença: “estar com um resfriado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000687"
    ],
    "nativeExplain": {
-    "pt-BR": "Com temperatura baixa."
+    "pt-BR": "Com temperatura baixa: “água fria”. Também indica pessoa pouco afetuosa ou doença: “estar com um resfriado”."
    },
    "forms": [
     {
@@ -23599,11 +23837,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 315,
-   "description": "O número 8.",
+   "description": "O número 8. Ex.: “oito horas”, “oito anos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 8."
+    "pt-BR": "O número 8. Ex.: “oito horas”, “oito anos”."
    },
    "antonyms": []
   },
@@ -23681,14 +23919,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "engraçado",
-   "alternatives": [],
+   "alternatives": [
+    "divertido",
+    "cômico"
+   ],
    "study_tier": "inicial",
    "study_priority": 317,
-   "description": "Que faz você rir.",
+   "description": "Que faz rir: “uma piada engraçada”. Também indica algo estranho ou curioso: “que engraçado”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que faz você rir."
+    "pt-BR": "Que faz rir: “uma piada engraçada”. Também indica algo estranho ou curioso: “que engraçado”."
    },
    "antonyms": []
   },
@@ -23781,14 +24022,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "recentemente",
-   "alternatives": [],
+   "alternatives": [
+    "há pouco",
+    "ultimamente"
+   ],
    "study_tier": "inicial",
    "study_priority": 318,
-   "description": "Há pouco tempo.",
+   "description": "Há pouco tempo: “recentemente mudei de casa”. Também indica algo que aconteceu nos últimos dias ou semanas.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Há pouco tempo."
+    "pt-BR": "Há pouco tempo: “recentemente mudei de casa”. Também indica algo que aconteceu nos últimos dias ou semanas."
    },
    "antonyms": []
   },
@@ -23893,11 +24137,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 320,
-   "description": "Pessoa que estuda.",
+   "description": "Pessoa que estuda numa escola ou curso: “aluno do quinto ano”. “Estudante” é mais geral; “aluno” destaca quem recebe aulas.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pessoa que estuda."
+    "pt-BR": "Pessoa que estuda numa escola ou curso: “aluno do quinto ano”. “Estudante” é mais geral; “aluno” destaca quem recebe aulas."
    },
    "antonyms": []
   },
@@ -23919,14 +24163,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "amanhã",
-   "alternatives": [],
+   "alternatives": [
+    "dia seguinte"
+   ],
    "study_tier": "inicial",
    "study_priority": 321,
-   "description": "O dia depois de hoje.",
+   "description": "O dia depois de hoje: “amanhã tem aula”. Também indica um futuro próximo ou vago: “o amanhã”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois de hoje."
+    "pt-BR": "O dia depois de hoje: “amanhã tem aula”. Também indica um futuro próximo ou vago: “o amanhã”."
    },
    "antonyms": []
   },
@@ -24145,14 +24391,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "marrom",
-   "alternatives": [],
+   "alternatives": [
+    "castanho"
+   ],
    "study_tier": "inicial",
    "study_priority": 322,
    "user_hint": "",
-   "description": "A cor do chocolate.",
+   "description": "A cor do chocolate e da terra: “sapato marrom”. Também indica cabelos castanhos e olhos escuros.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A cor do chocolate."
+    "pt-BR": "A cor do chocolate e da terra: “sapato marrom”. Também indica cabelos castanhos e olhos escuros."
    },
    "antonyms": []
   },
@@ -24416,14 +24664,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "normal",
-   "alternatives": [],
+   "alternatives": [
+    "comum",
+    "habitual"
+   ],
    "study_tier": "inicial",
    "study_priority": 325,
    "user_hint": "",
-   "description": "Habitual; comum.",
+   "description": "Habitual, comum: “um dia normal”. Também indica algo dentro do padrão, sem problema.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Habitual; comum."
+    "pt-BR": "Habitual, comum: “um dia normal”. Também indica algo dentro do padrão, sem problema."
    },
    "antonyms": []
   },
@@ -24689,15 +24940,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "começo",
    "alternatives": [
-    "início"
+    "início",
+    "princípio"
    ],
    "study_tier": "inicial",
    "study_priority": 328,
-   "description": "O momento em que algo começa.",
+   "description": "O momento ou a parte em que algo começa: “o começo do filme”. Também indica a origem de algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O momento em que algo começa."
+    "pt-BR": "O momento ou a parte em que algo começa: “o começo do filme”. Também indica a origem de algo."
    },
    "antonyms": [
     "en:000000188",
@@ -24845,15 +25097,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "atravessar",
    "alternatives": [
-    "cruzar"
+    "cruzar",
+    "passar"
    ],
    "study_tier": "inicial",
    "study_priority": 329,
-   "description": "Ir de um lado ao outro.",
+   "description": "Ir de um lado ao outro: “atravessar a rua”. Também significa passar por algo ou cruzar com alguém.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ir de um lado ao outro."
+    "pt-BR": "Ir de um lado ao outro: “atravessar a rua”. Também significa passar por algo ou cruzar com alguém."
    },
    "antonyms": []
   },
@@ -24971,14 +25224,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "oi",
-   "alternatives": [],
+   "alternatives": [
+    "olá"
+   ],
    "study_tier": "inicial",
    "study_priority": 330,
-   "description": "Cumprimento informal.",
+   "description": "Cumprimento informal: “oi, tudo bem?”. Usa-se entre amigos e no dia a dia, em qualquer hora do dia.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Cumprimento informal."
+    "pt-BR": "Cumprimento informal: “oi, tudo bem?”. Usa-se entre amigos e no dia a dia, em qualquer hora do dia."
    },
    "antonyms": []
   },
@@ -25027,14 +25282,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "gelo",
-   "alternatives": [],
+   "alternatives": [
+    "água congelada"
+   ],
    "study_tier": "inicial",
    "study_priority": 332,
-   "description": "Água congelada.",
+   "description": "Água em estado sólido: “cubos de gelo”. Também indica frio intenso ou pessoa distante.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Água congelada."
+    "pt-BR": "Água em estado sólido: “cubos de gelo”. Também indica frio intenso ou pessoa distante."
    },
    "antonyms": []
   },
@@ -25076,14 +25333,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "interessante",
-   "alternatives": [],
+   "alternatives": [
+    "curioso",
+    "cativante"
+   ],
    "study_tier": "inicial",
    "study_priority": 333,
-   "description": "Que prende a sua atenção.",
+   "description": "Que prende a atenção: “um livro interessante”. Também indica algo útil, curioso ou vantajoso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que prende a sua atenção."
+    "pt-BR": "Que prende a atenção: “um livro interessante”. Também indica algo útil, curioso ou vantajoso."
    },
    "antonyms": []
   },
@@ -25156,15 +25416,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "mensagem",
    "alternatives": [
-    "recado"
+    "recado",
+    "aviso"
    ],
    "study_tier": "inicial",
    "study_priority": 334,
-   "description": "Informação enviada a alguém.",
+   "description": "Informação enviada a alguém por escrito ou por voz: “deixar uma mensagem”. Também indica o recado de um texto ou de um filme.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Informação enviada a alguém."
+    "pt-BR": "Informação enviada a alguém por escrito ou por voz: “deixar uma mensagem”. Também indica o recado de um texto ou de um filme."
    },
    "antonyms": []
   },
@@ -25279,15 +25540,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "rapidamente",
    "alternatives": [
-    "depressa"
+    "depressa",
+    "ligeiro"
    ],
    "study_tier": "inicial",
    "study_priority": 335,
    "user_hint": "",
-   "description": "Em alta velocidade.",
+   "description": "Em alta velocidade, em pouco tempo: “correr rapidamente”. Também indica algo feito sem demora.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Em alta velocidade."
+    "pt-BR": "Em alta velocidade, em pouco tempo: “correr rapidamente”. Também indica algo feito sem demora."
    },
    "antonyms": [
     "en:000002329"
@@ -25428,14 +25690,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "viajar",
-   "alternatives": [],
+   "alternatives": [
+    "deslocar-se",
+    "passear"
+   ],
    "study_tier": "inicial",
    "study_priority": 336,
-   "description": "Fazer uma viagem.",
+   "description": "Fazer uma viagem para outro lugar: “viajar de avião”. Também significa deslocar-se ou passar pela mente: “viajar na ideia”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Fazer uma viagem."
+    "pt-BR": "Fazer uma viagem para outro lugar: “viajar de avião”. Também significa deslocar-se ou passar pela mente: “viajar na ideia”."
    },
    "antonyms": []
   },
@@ -25506,15 +25771,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "deixar cair",
    "alternatives": [
-    "derrubar"
+    "derrubar",
+    "largar"
    ],
    "study_tier": "inicial",
    "study_priority": 337,
-   "description": "Deixar algo cair.",
+   "description": "Deixar algo cair da mão: “deixar cair o copo”. Também significa derrubar, ou abandonar uma ideia ou atividade.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Deixar algo cair."
+    "pt-BR": "Deixar algo cair da mão: “deixar cair o copo”. Também significa derrubar, ou abandonar uma ideia ou atividade."
    },
    "antonyms": []
   },
@@ -25946,14 +26212,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "minuto",
-   "alternatives": [],
+   "alternatives": [
+    "instante"
+   ],
    "study_tier": "inicial",
    "study_priority": 340,
-   "description": "Sessenta segundos.",
+   "description": "Sessenta segundos: “cinco minutos”. Também indica um instante curto: “espere um minuto”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sessenta segundos."
+    "pt-BR": "Sessenta segundos: “cinco minutos”. Também indica um instante curto: “espere um minuto”."
    },
    "antonyms": []
   },
@@ -25990,14 +26258,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "rápido",
-   "alternatives": [],
+   "alternatives": [
+    "veloz",
+    "ligeiro"
+   ],
    "study_tier": "inicial",
    "study_priority": 341,
    "user_hint": "",
-   "description": "Rápido; que leva pouco tempo.",
+   "description": "Que leva pouco tempo: “uma resposta rápida”. Também indica movimento veloz ou pessoa ágil.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Rápido; que leva pouco tempo."
+    "pt-BR": "Que leva pouco tempo: “uma resposta rápida”. Também indica movimento veloz ou pessoa ágil."
    },
    "antonyms": [],
    "forms": [
@@ -26135,17 +26406,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "concordar",
-   "alternatives": [],
+   "alternatives": [
+    "estar de acordo",
+    "aceitar"
+   ],
    "study_tier": "inicial",
    "study_priority": 343,
-   "description": "Ter a mesma opinião.",
+   "description": "Ter a mesma opinião que alguém: “concordo com você”. Também significa aceitar uma proposta ou combinar com algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000004108"
    ],
    "nativeExplain": {
-    "pt-BR": "Ter a mesma opinião."
+    "pt-BR": "Ter a mesma opinião que alguém: “concordo com você”. Também significa aceitar uma proposta ou combinar com algo."
    }
   },
   {
@@ -26282,15 +26556,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "favorito",
    "alternatives": [
-    "preferido"
+    "preferido",
+    "predileto"
    ],
    "study_tier": "inicial",
    "study_priority": 346,
    "user_hint": "",
-   "description": "De que se gosta mais.",
+   "description": "De que mais se gosta: “minha comida favorita”. Também indica um candidato ou time com mais chances.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "De que se gosta mais."
+    "pt-BR": "De que mais se gosta: “minha comida favorita”. Também indica um candidato ou time com mais chances."
    },
    "antonyms": []
   },
@@ -26762,11 +27037,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 349,
-   "description": "O dia depois da quinta-feira.",
+   "description": "O sexto dia da semana, depois de quinta-feira e antes de sábado, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois da quinta-feira."
+    "pt-BR": "O sexto dia da semana, depois de quinta-feira e antes de sábado, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -26805,14 +27080,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "pesado",
-   "alternatives": [],
+   "alternatives": [
+    "carregado",
+    "denso"
+   ],
    "study_tier": "inicial",
    "study_priority": 350,
    "user_hint": "",
-   "description": "Que pesa muito.",
+   "description": "Que pesa muito: “uma mala pesada”. Também indica algo difícil de suportar, como uma carga emocional, ou comida difícil de digerir.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que pesa muito."
+    "pt-BR": "Que pesa muito: “uma mala pesada”. Também indica algo difícil de suportar, como uma carga emocional, ou comida difícil de digerir."
    },
    "antonyms": [
     "en:000003195"
@@ -26990,14 +27268,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "uau",
-   "alternatives": [],
+   "alternatives": [
+    "nossa",
+    "caramba"
+   ],
    "study_tier": "inicial",
    "study_priority": 353,
    "user_hint": "",
-   "description": "Mostra surpresa ou admiração.",
+   "description": "Mostra surpresa ou admiração: “uau, que lindo!”. Usada em conversa informal.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Mostra surpresa ou admiração."
+    "pt-BR": "Mostra surpresa ou admiração: “uau, que lindo!”. Usada em conversa informal."
    },
    "antonyms": []
   },
@@ -27106,11 +27387,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 354,
-   "description": "Pai, de forma carinhosa.",
+   "description": "Forma carinhosa de se referir ao próprio pai: “pai, olha isso!”. A forma “papai” é mais infantil.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pai, de forma carinhosa."
+    "pt-BR": "Forma carinhosa de se referir ao próprio pai: “pai, olha isso!”. A forma “papai” é mais infantil."
    },
    "antonyms": []
   },
@@ -27159,15 +27440,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "caber",
    "alternatives": [
-    "servir"
+    "servir",
+    "ajustar-se"
    ],
    "study_tier": "inicial",
    "study_priority": 355,
-   "description": "Ter o tamanho certo.",
+   "description": "Caber: ter o tamanho certo para entrar ou ajustar-se: “a chave cabe na fechadura”. Também vale para roupas: “servir”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ter o tamanho certo."
+    "pt-BR": "Caber: ter o tamanho certo para entrar ou ajustar-se: “a chave cabe na fechadura”. Também vale para roupas: “servir”."
    },
    "antonyms": []
   },
@@ -27494,10 +27776,12 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ninguém",
-   "alternatives": [],
+   "alternatives": [
+    "nenhuma pessoa"
+   ],
    "study_tier": "inicial",
    "study_priority": 357,
-   "description": "Nenhuma pessoa.",
+   "description": "Nenhuma pessoa: “ninguém chegou”. Com verbo antes dele, exige outra negação: “não vi ninguém”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
@@ -27505,7 +27789,7 @@
     "en:000003164"
    ],
    "nativeExplain": {
-    "pt-BR": "Nenhuma pessoa."
+    "pt-BR": "Nenhuma pessoa: “ninguém chegou”. Com verbo antes dele, exige outra negação: “não vi ninguém”."
    }
   },
   {
@@ -27899,15 +28183,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "terminado",
    "alternatives": [
-    "acabado"
+    "acabado",
+    "concluído"
    ],
    "study_tier": "inicial",
    "study_priority": 359,
    "user_hint": "",
-   "description": "Concluído; encerrado.",
+   "description": "Concluído, encerrado: “o trabalho está terminado”. Também indica algo que não existe mais.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Concluído; encerrado."
+    "pt-BR": "Concluído, encerrado: “o trabalho está terminado”. Também indica algo que não existe mais."
    },
    "antonyms": []
   },
@@ -28686,14 +28971,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "fim de semana",
-   "alternatives": [],
+   "alternatives": [
+    "sábado e domingo"
+   ],
    "study_tier": "inicial",
    "study_priority": 365,
-   "description": "Sábado e domingo.",
+   "description": "Sábado e domingo, quando muita gente não trabalha: “no fim de semana, viajo”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sábado e domingo."
+    "pt-BR": "Sábado e domingo, quando muita gente não trabalha: “no fim de semana, viajo”."
    },
    "antonyms": []
   },
@@ -29274,14 +29561,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "segredo",
-   "alternatives": [],
+   "alternatives": [
+    "sigilo",
+    "mistério"
+   ],
    "study_tier": "inicial",
    "study_priority": 369,
-   "description": "Algo mantido escondido.",
+   "description": "Algo mantido escondido de outras pessoas: “guardar um segredo”. Também indica o ponto-chave de algo: “o segredo do sucesso”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Algo mantido escondido."
+    "pt-BR": "Algo mantido escondido de outras pessoas: “guardar um segredo”. Também indica o ponto-chave de algo: “o segredo do sucesso”."
    },
    "antonyms": []
   },
@@ -29356,11 +29646,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 371,
-   "description": "O dia depois do sábado.",
+   "description": "O sétimo dia da semana, depois de sábado e antes de segunda-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois do sábado."
+    "pt-BR": "O sétimo dia da semana, depois de sábado e antes de segunda-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -29515,14 +29805,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "escolher",
-   "alternatives": [],
+   "alternatives": [
+    "selecionar",
+    "optar"
+   ],
    "study_tier": "inicial",
    "study_priority": 373,
-   "description": "Decidir qual você quer.",
+   "description": "Decidir qual quer entre várias opções: “escolher um prato”. Também significa eleger uma pessoa.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Decidir qual você quer."
+    "pt-BR": "Decidir qual quer entre várias opções: “escolher um prato”. Também significa eleger uma pessoa."
    },
    "antonyms": []
   },
@@ -29537,14 +29830,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "Natal",
-   "alternatives": [],
+   "alternatives": [
+    "festa de natal"
+   ],
    "study_tier": "inicial",
    "study_priority": 374,
    "user_hint": "",
-   "description": "Feriado de 25 de dezembro.",
+   "description": "Festa de 25 de dezembro, com presentes e reuniões de família: “feliz Natal”. Também indica a época das festas de fim de ano.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Feriado de 25 de dezembro."
+    "pt-BR": "Festa de 25 de dezembro, com presentes e reuniões de família: “feliz Natal”. Também indica a época das festas de fim de ano."
    },
    "antonyms": []
   },
@@ -29564,14 +29859,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cor",
-   "alternatives": [],
+   "alternatives": [
+    "tom",
+    "tonalidade"
+   ],
    "study_tier": "inicial",
    "study_priority": 375,
-   "description": "Vermelho, azul, verde etc.",
+   "description": "Aparência das coisas que vemos, como vermelho, azul e verde: “qual é a sua cor favorita?”. Também indica identidade ou aspecto.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Vermelho, azul, verde etc."
+    "pt-BR": "Aparência das coisas que vemos, como vermelho, azul e verde: “qual é a sua cor favorita?”. Também indica identidade ou aspecto."
    },
    "antonyms": []
   },
@@ -29929,17 +30227,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "rico",
-   "alternatives": [],
+   "alternatives": [
+    "abastado",
+    "endinheirado"
+   ],
    "study_tier": "inicial",
    "study_priority": 378,
    "user_hint": "",
-   "description": "Que tem muito dinheiro.",
+   "description": "Que tem muito dinheiro: “uma pessoa rica”. Também indica algo cheio de valor: “um solo rico em minerais”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000827"
    ],
    "nativeExplain": {
-    "pt-BR": "Que tem muito dinheiro."
+    "pt-BR": "Que tem muito dinheiro: “uma pessoa rica”. Também indica algo cheio de valor: “um solo rico em minerais”."
    },
    "forms": [
     {
@@ -30099,14 +30400,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ontem",
-   "alternatives": [],
+   "alternatives": [
+    "véspera"
+   ],
    "study_tier": "inicial",
    "study_priority": 382,
-   "description": "O dia antes de hoje.",
+   "description": "O dia antes de hoje: “ontem choveu”. Também indica um passado recente: “até ontem”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia antes de hoje."
+    "pt-BR": "O dia antes de hoje: “ontem choveu”. Também indica um passado recente: “até ontem”."
    },
    "antonyms": []
   },
@@ -30684,15 +30987,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "viagem",
    "alternatives": [
-    "passeio"
+    "passeio",
+    "excursão"
    ],
    "study_tier": "inicial",
    "study_priority": 389,
-   "description": "Viagem a um lugar e volta.",
+   "description": "Viagem curta a um lugar e de volta: “uma viagem de trabalho”. Também indica uma saída de passeio.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Viagem a um lugar e volta."
+    "pt-BR": "Viagem curta a um lugar e de volta: “uma viagem de trabalho”. Também indica uma saída de passeio."
    },
    "antonyms": []
   },
@@ -31083,17 +31387,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "inverno",
-   "alternatives": [],
+   "alternatives": [
+    "estação fria"
+   ],
    "study_tier": "inicial",
    "study_priority": 392,
-   "description": "A estação mais fria.",
+   "description": "A estação mais fria do ano: “o inverno chegou”. Também designa o período de frio e chuvas.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000579"
    ],
    "nativeExplain": {
-    "pt-BR": "A estação mais fria."
+    "pt-BR": "A estação mais fria do ano: “o inverno chegou”. Também designa o período de frio e chuvas."
    }
   },
   {
@@ -31249,14 +31555,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quebrado",
-   "alternatives": [],
+   "alternatives": [
+    "danificado",
+    "estragado"
+   ],
    "study_tier": "inicial",
    "study_priority": 394,
-   "description": "Danificado; que não funciona.",
+   "description": "Danificado, que não funciona: “um relógio quebrado”. Também indica algo partido em pedaços.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Danificado; que não funciona."
+    "pt-BR": "Danificado, que não funciona: “um relógio quebrado”. Também indica algo partido em pedaços."
    },
    "antonyms": [],
    "forms": [
@@ -31507,15 +31816,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "muitos",
    "alternatives": [
-    "um monte"
+    "um monte",
+    "bastante"
    ],
    "study_tier": "inicial",
    "study_priority": 395,
    "user_hint": "",
-   "description": "Grande quantidade.",
+   "description": "Grande quantidade: “muitos amigos”. Também aparece como expressão informal: “um monte de coisas”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Grande quantidade."
+    "pt-BR": "Grande quantidade: “muitos amigos”. Também aparece como expressão informal: “um monte de coisas”."
    },
    "antonyms": []
   },
@@ -31690,14 +32000,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "doente",
-   "alternatives": [],
+   "alternatives": [
+    "adoentado",
+    "enfermo"
+   ],
    "study_tier": "inicial",
    "study_priority": 397,
-   "description": "Que não está bem de saúde.",
+   "description": "Que não está bem de saúde: “ficar doente”. Também indica algo fora do normal, como mente doente.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que não está bem de saúde."
+    "pt-BR": "Que não está bem de saúde: “ficar doente”. Também indica algo fora do normal, como mente doente."
    },
    "antonyms": []
   },
@@ -31718,14 +32031,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "professor",
-   "alternatives": [],
+   "alternatives": [
+    "mestre",
+    "docente"
+   ],
    "study_tier": "inicial",
    "study_priority": 398,
-   "description": "Pessoa que ensina.",
+   "description": "Pessoa que ensina: “professor de matemática”. Também indica quem orienta num curso ou atividade. Fem.: “professora”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Pessoa que ensina."
+    "pt-BR": "Pessoa que ensina: “professor de matemática”. Também indica quem orienta num curso ou atividade. Fem.: “professora”."
    },
    "antonyms": [],
    "forms": [
@@ -32147,11 +32463,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 402,
-   "description": "O número 9.",
+   "description": "O número 9. Ex.: “nove da manhã”, “nove anos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 9."
+    "pt-BR": "O número 9. Ex.: “nove da manhã”, “nove anos”."
    },
    "antonyms": []
   },
@@ -32270,11 +32586,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 403,
-   "description": "O dia depois da sexta-feira.",
+   "description": "O sexto dia da semana, depois de sexta-feira e antes de domingo, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois da sexta-feira."
+    "pt-BR": "O sexto dia da semana, depois de sexta-feira e antes de domingo, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -32615,18 +32931,18 @@
    "text": "fim de tarde",
    "alternatives": [
     "entardecer",
-    "noite"
+    "anoitecer"
    ],
    "study_tier": "inicial",
    "study_priority": 407,
-   "description": "O fim do dia, antes da noite.",
+   "description": "O fim do dia, antes da noite: “o fim de tarde na praia”. Também indica o horário em que o sol se põe.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000452"
    ],
    "nativeExplain": {
-    "pt-BR": "O fim do dia, antes da noite."
+    "pt-BR": "O fim do dia, antes da noite: “o fim de tarde na praia”. Também indica o horário em que o sol se põe."
    }
   },
   {
@@ -32646,14 +32962,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "voo",
-   "alternatives": [],
+   "alternatives": [
+    "viagem aérea"
+   ],
    "study_tier": "inicial",
    "study_priority": 408,
-   "description": "Viagem de avião.",
+   "description": "Viagem de avião: “o voo para o Rio”. Também indica o ato de voar e o código de uma viagem aérea.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Viagem de avião."
+    "pt-BR": "Viagem de avião: “o voo para o Rio”. Também indica o ato de voar e o código de uma viagem aérea."
    },
    "antonyms": []
   },
@@ -33547,18 +33865,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "lento",
    "alternatives": [
-    "devagar"
+    "devagar",
+    "vagaroso"
    ],
    "study_tier": "inicial",
    "study_priority": 413,
    "user_hint": "",
-   "description": "Que não é rápido.",
+   "description": "Que não é rápido: “um carro lento”. Também indica pessoa que demora para entender ou agir.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000742"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é rápido."
+    "pt-BR": "Que não é rápido: “um carro lento”. Também indica pessoa que demora para entender ou agir."
    }
   },
   {
@@ -33804,17 +34123,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "começar",
-   "alternatives": [],
+   "alternatives": [
+    "iniciar",
+    "principiar"
+   ],
    "study_tier": "inicial",
    "study_priority": 417,
-   "description": "Dar início.",
+   "description": "Dar início a algo: “começar a estudar”. Também significa nascer ou ter origem num ponto.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000188"
    ],
    "nativeExplain": {
-    "pt-BR": "Dar início."
+    "pt-BR": "Dar início a algo: “começar a estudar”. Também significa nascer ou ter origem num ponto."
    }
   },
   {
@@ -33910,17 +34232,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "todo mundo",
-   "alternatives": [],
+   "alternatives": [
+    "todos",
+    "pessoal"
+   ],
    "study_tier": "inicial",
    "study_priority": 418,
-   "description": "Todas as pessoas.",
+   "description": "Todas as pessoas, em conjunto: “todo mundo gosta de música”. Em frases ao grupo: “oi, pessoal”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001166"
    ],
    "nativeExplain": {
-    "pt-BR": "Todas as pessoas."
+    "pt-BR": "Todas as pessoas, em conjunto: “todo mundo gosta de música”. Em frases ao grupo: “oi, pessoal”."
    }
   },
   {
@@ -33934,14 +34259,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "famoso",
-   "alternatives": [],
+   "alternatives": [
+    "conhecido",
+    "renomado"
+   ],
    "study_tier": "inicial",
    "study_priority": 419,
    "user_hint": "",
-   "description": "Conhecido por muita gente.",
+   "description": "Conhecido por muita gente: “um cantor famoso”. Também vale para lugares e marcas.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Conhecido por muita gente."
+    "pt-BR": "Conhecido por muita gente: “um cantor famoso”. Também vale para lugares e marcas."
    },
    "antonyms": [],
    "forms": [
@@ -34258,14 +34586,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "duas vezes",
-   "alternatives": [],
+   "alternatives": [
+    "em dobro",
+    "duas ocasiões"
+   ],
    "study_tier": "inicial",
    "study_priority": 421,
-   "description": "Uma vez e mais outra.",
+   "description": "Duas vezes: “já fui duas vezes”. Também indica algo feito em dobro.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Uma vez e mais outra."
+    "pt-BR": "Duas vezes: “já fui duas vezes”. Também indica algo feito em dobro."
    },
    "antonyms": []
   },
@@ -34285,14 +34616,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "vento",
-   "alternatives": [],
+   "alternatives": [
+    "brisa",
+    "ventania"
+   ],
    "study_tier": "inicial",
    "study_priority": 422,
-   "description": "Ar em movimento.",
+   "description": "Ar em movimento: “vento forte”. Também indica uma corrente que sopra ou muda o rumo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Ar em movimento."
+    "pt-BR": "Ar em movimento: “vento forte”. Também indica uma corrente que sopra ou muda o rumo."
    },
    "antonyms": []
   },
@@ -35014,14 +35348,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "casamento",
-   "alternatives": [],
+   "alternatives": [
+    "matrimônio",
+    "cerimônia"
+   ],
    "study_tier": "inicial",
    "study_priority": 431,
-   "description": "Cerimônia de casamento.",
+   "description": "Cerimônia em que duas pessoas se casam: “ir a um casamento”. Também indica a união em si: “casamento feliz”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Cerimônia de casamento."
+    "pt-BR": "Cerimônia em que duas pessoas se casam: “ir a um casamento”. Também indica a união em si: “casamento feliz”."
    },
    "antonyms": []
   },
@@ -35485,17 +35822,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "puxar",
-   "alternatives": [],
+   "alternatives": [
+    "arrastar",
+    "tracionar"
+   ],
    "study_tier": "inicial",
    "study_priority": 433,
-   "description": "Mover algo em sua direção.",
+   "description": "Mover algo em sua direção: “puxar a porta”. Também significa arrastar ou atrair algo: “puxar conversa”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001576"
    ],
    "nativeExplain": {
-    "pt-BR": "Mover algo em sua direção."
+    "pt-BR": "Mover algo em sua direção: “puxar a porta”. Também significa arrastar ou atrair algo: “puxar conversa”."
    }
   },
   {
@@ -35594,15 +35934,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "assento",
    "alternatives": [
-    "lugar"
+    "lugar",
+    "cadeira"
    ],
    "study_tier": "inicial",
    "study_priority": 435,
-   "description": "Lugar para sentar.",
+   "description": "Lugar para sentar: “um assento no ônibus”. Também indica uma vaga de cadeira em espetáculo ou veículo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Lugar para sentar."
+    "pt-BR": "Lugar para sentar: “um assento no ônibus”. Também indica uma vaga de cadeira em espetáculo ou veículo."
    },
    "antonyms": []
   },
@@ -35890,15 +36231,18 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "entrar",
-   "alternatives": [],
+   "alternatives": [
+    "ingressar",
+    "adentrar"
+   ],
    "study_tier": "inicial",
    "study_priority": 439,
-   "description": "Ir para dentro de um lugar.",
+   "description": "Ir para dentro de um lugar: “entrar em casa”. Também significa passar a fazer parte de algo: “entrar numa empresa”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
    "nativeExplain": {
-    "pt-BR": "Ir para dentro de um lugar."
+    "pt-BR": "Ir para dentro de um lugar: “entrar em casa”. Também significa passar a fazer parte de algo: “entrar numa empresa”."
    }
   },
   {
@@ -36442,17 +36786,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "saudável",
-   "alternatives": [],
+   "alternatives": [
+    "sadio",
+    "são"
+   ],
    "study_tier": "inicial",
    "study_priority": 441,
-   "description": "Sem doença; bom para o corpo.",
+   "description": "Sem doença, bom para o corpo: “alimentação saudável”. Também indica quem tem boa saúde.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001909"
    ],
    "nativeExplain": {
-    "pt-BR": "Sem doença; bom para o corpo."
+    "pt-BR": "Sem doença, bom para o corpo: “alimentação saudável”. Também indica quem tem boa saúde."
    }
   },
   {
@@ -36518,11 +36865,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 442,
-   "description": "O dia depois do domingo.",
+   "description": "O segundo dia da semana, depois de domingo e antes de terça-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois do domingo."
+    "pt-BR": "O segundo dia da semana, depois de domingo e antes de terça-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -36919,15 +37266,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "correto",
    "alternatives": [
-    "certo"
+    "certo",
+    "exato"
    ],
    "study_tier": "inicial",
    "study_priority": 447,
-   "description": "Certo; sem erros.",
+   "description": "Sem erros, certo: “uma resposta correta”. Também indica comportamento adequado ou educado.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Certo; sem erros."
+    "pt-BR": "Sem erros, certo: “uma resposta correta”. Também indica comportamento adequado ou educado."
    },
    "antonyms": []
   },
@@ -36947,17 +37295,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "perigoso",
-   "alternatives": [],
+   "alternatives": [
+    "arriscado",
+    "perigoso"
+   ],
    "study_tier": "inicial",
    "study_priority": 448,
-   "description": "Que pode machucar você.",
+   "description": "Que pode causar dano: “uma rua perigosa”. Também indica pessoa ou situação arriscada.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000885"
    ],
    "nativeExplain": {
-    "pt-BR": "Que pode machucar você."
+    "pt-BR": "Que pode causar dano: “uma rua perigosa”. Também indica pessoa ou situação arriscada."
    },
    "forms": [
     {
@@ -37471,14 +37822,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "decidir",
-   "alternatives": [],
+   "alternatives": [
+    "resolver",
+    "optar"
+   ],
    "study_tier": "inicial",
    "study_priority": 451,
-   "description": "Escolher depois de pensar.",
+   "description": "Escolher depois de pensar: “decidi viajar”. Também significa resolver uma dúvida ou determinar algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Escolher depois de pensar."
+    "pt-BR": "Escolher depois de pensar: “decidi viajar”. Também significa resolver uma dúvida ou determinar algo."
    },
    "antonyms": []
   },
@@ -37663,17 +38017,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "impossível",
-   "alternatives": [],
+   "alternatives": [
+    "inviável",
+    "inatingível"
+   ],
    "study_tier": "inicial",
    "study_priority": 454,
-   "description": "Que não pode acontecer.",
+   "description": "Que não pode acontecer: “missão impossível”. Também indica algo muito difícil, ou pessoa insuportável.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000423"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não pode acontecer."
+    "pt-BR": "Que não pode acontecer: “missão impossível”. Também indica algo muito difícil, ou pessoa insuportável."
    }
   },
   {
@@ -38300,15 +38657,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sortudo",
    "alternatives": [
-    "de sorte"
+    "de sorte",
+    "afortunado"
    ],
    "study_tier": "inicial",
    "study_priority": 459,
    "user_hint": "",
-   "description": "Que tem boa sorte.",
+   "description": "Que tem boa sorte: “ele é sortudo”. Também indica algo ocorrido por acaso, para o bem.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que tem boa sorte."
+    "pt-BR": "Que tem boa sorte: “ele é sortudo”. Também indica algo ocorrido por acaso, para o bem."
    },
    "antonyms": []
   },
@@ -38598,17 +38956,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vivo",
-   "alternatives": [],
+   "alternatives": [
+    "com vida",
+    "animado"
+   ],
    "study_tier": "inicial",
    "study_priority": 460,
    "user_hint": "",
-   "description": "Que vive; que não morreu.",
+   "description": "Que vive, que não morreu: “um peixe vivo”. Também indica cor viva ou algo ativo.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000629"
    ],
    "nativeExplain": {
-    "pt-BR": "Que vive; que não morreu."
+    "pt-BR": "Que vive, que não morreu: “um peixe vivo”. Também indica cor viva ou algo ativo."
    },
    "forms": [
     {
@@ -39175,17 +39536,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "acordar",
-   "alternatives": [],
+   "alternatives": [
+    "despertar",
+    "levantar"
+   ],
    "study_tier": "inicial",
    "study_priority": 467,
-   "description": "Deixar de dormir.",
+   "description": "Deixar de dormir: “acordar cedo”. Também significa despertar outra pessoa ou ficar consciente.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000926"
    ],
    "nativeExplain": {
-    "pt-BR": "Deixar de dormir."
+    "pt-BR": "Deixar de dormir: “acordar cedo”. Também significa despertar outra pessoa ou ficar consciente."
    }
   },
   {
@@ -39294,17 +39658,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "ocupado",
-   "alternatives": [],
+   "alternatives": [
+    "atarefado",
+    "movimentado"
+   ],
    "study_tier": "inicial",
    "study_priority": 468,
    "user_hint": "",
-   "description": "Com muita coisa para fazer.",
+   "description": "Com muita coisa para fazer: “estou ocupado hoje”. Também indica um lugar movimentado ou uma linha em uso.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004171"
    ],
    "nativeExplain": {
-    "pt-BR": "Com muita coisa para fazer."
+    "pt-BR": "Com muita coisa para fazer: “estou ocupado hoje”. Também indica um lugar movimentado ou uma linha em uso."
    },
    "forms": [
     {
@@ -39844,14 +40211,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "surpresa",
-   "alternatives": [],
+   "alternatives": [
+    "imprevisto",
+    "novidade"
+   ],
    "study_tier": "inicial",
    "study_priority": 476,
-   "description": "Algo inesperado.",
+   "description": "Algo inesperado, que causa espanto: “uma festa surpresa”. Também indica um presente ou uma visita não anunciada.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Algo inesperado."
+    "pt-BR": "Algo inesperado, que causa espanto: “uma festa surpresa”. Também indica um presente ou uma visita não anunciada."
    },
    "antonyms": []
   },
@@ -40075,17 +40445,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "seco",
-   "alternatives": [],
+   "alternatives": [
+    "árido",
+    "enxuto"
+   ],
    "study_tier": "inicial",
    "study_priority": 477,
-   "description": "Sem umidade.",
+   "description": "Sem umidade: “roupa seca”. Também indica clima sem chuva, ou algo sem graça: “resposta seca”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002772"
    ],
    "nativeExplain": {
-    "pt-BR": "Sem umidade."
+    "pt-BR": "Sem umidade: “roupa seca”. Também indica clima sem chuva, ou algo sem graça: “resposta seca”."
    },
    "forms": [
     {
@@ -40200,14 +40573,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "para sempre",
-   "alternatives": [],
+   "alternatives": [
+    "eternamente",
+    "sempre"
+   ],
    "study_tier": "inicial",
    "study_priority": 479,
-   "description": "Por todo o tempo, sem fim.",
+   "description": "Por todo o tempo, sem fim: “para sempre”. Também indica algo que dura muito.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Por todo o tempo, sem fim."
+    "pt-BR": "Por todo o tempo, sem fim: “para sempre”. Também indica algo que dura muito."
    },
    "antonyms": []
   },
@@ -40280,15 +40656,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "lindo",
    "alternatives": [
-    "encantador"
+    "encantador",
+    "adorável"
    ],
    "study_tier": "inicial",
    "study_priority": 480,
    "user_hint": "",
-   "description": "Bonito; muito agradável.",
+   "description": "Bonito, muito agradável: “um dia lindo”. Também indica aprovação a uma ação ou pessoa.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Bonito; muito agradável."
+    "pt-BR": "Bonito, muito agradável: “um dia lindo”. Também indica aprovação a uma ação ou pessoa."
    },
    "antonyms": []
   },
@@ -40829,15 +41206,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "honesto",
    "alternatives": [
-    "sincero"
+    "sincero",
+    "íntegro"
    ],
    "study_tier": "inicial",
    "study_priority": 483,
-   "description": "Que diz a verdade.",
+   "description": "Que diz a verdade: “uma pessoa honesta”. Também indica quem age de forma justa, sem enganar.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que diz a verdade."
+    "pt-BR": "Que diz a verdade: “uma pessoa honesta”. Também indica quem age de forma justa, sem enganar."
    },
    "antonyms": []
   },
@@ -41151,14 +41529,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esporte",
-   "alternatives": [],
+   "alternatives": [
+    "modalidade",
+    "atividade física"
+   ],
    "study_tier": "inicial",
    "study_priority": 485,
-   "description": "Atividade física com regras.",
+   "description": "Atividade física com regras: “praticar esporte”. Também indica uma modalidade específica, como o futebol.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Atividade física com regras."
+    "pt-BR": "Atividade física com regras: “praticar esporte”. Também indica uma modalidade específica, como o futebol."
    },
    "antonyms": []
   },
@@ -41376,15 +41757,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "roupas",
    "alternatives": [
-    "roupa"
+    "roupa",
+    "vestuário"
    ],
    "study_tier": "inicial",
    "study_priority": 488,
-   "description": "O que se veste.",
+   "description": "O que se veste: “comprar roupas”. Também indica o conjunto de peças usado no dia a dia.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O que se veste."
+    "pt-BR": "O que se veste: “comprar roupas”. Também indica o conjunto de peças usado no dia a dia."
    },
    "antonyms": []
   },
@@ -41710,14 +42092,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "chutar",
-   "alternatives": [],
+   "alternatives": [
+    "dar um pontapé"
+   ],
    "study_tier": "inicial",
    "study_priority": 490,
    "user_hint": "",
-   "description": "Bater com o pé.",
+   "description": "Bater com o pé: “chutar a bola”. Também indica atacar ou dar um golpe com o pé.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Bater com o pé."
+    "pt-BR": "Bater com o pé: “chutar a bola”. Também indica atacar ou dar um golpe com o pé."
    },
    "antonyms": []
   },
@@ -42115,14 +42499,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "útil",
-   "alternatives": [],
+   "alternatives": [
+    "prático",
+    "proveitoso"
+   ],
    "study_tier": "inicial",
    "study_priority": 494,
-   "description": "Que ajuda; bom de usar.",
+   "description": "Que ajuda ou é bom de usar: “uma ferramenta útil”. Também indica algo vantajoso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Que ajuda; bom de usar."
+    "pt-BR": "Que ajuda ou é bom de usar: “uma ferramenta útil”. Também indica algo vantajoso."
    },
    "antonyms": []
   },
@@ -42380,17 +42767,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "barato",
-   "alternatives": [],
+   "alternatives": [
+    "em conta",
+    "acessível"
+   ],
    "study_tier": "inicial",
    "study_priority": 498,
    "user_hint": "",
-   "description": "Que não custa muito.",
+   "description": "Que não custa muito: “uma roupa barata”. Também pode indicar algo de baixa qualidade.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000002033"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não custa muito."
+    "pt-BR": "Que não custa muito: “uma roupa barata”. Também pode indicar algo de baixa qualidade."
    },
    "forms": [
     {
@@ -42488,14 +42878,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "fantástico",
-   "alternatives": [],
+   "alternatives": [
+    "maravilhoso",
+    "excelente"
+   ],
    "study_tier": "inicial",
    "study_priority": 499,
    "user_hint": "",
-   "description": "Muito bom.",
+   "description": "Muito bom, de qualidade excelente: “um show fantástico”. Também indica algo irreal ou imaginário.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito bom."
+    "pt-BR": "Muito bom, de qualidade excelente: “um show fantástico”. Também indica algo irreal ou imaginário."
    },
    "antonyms": []
   },
@@ -42602,11 +42995,11 @@
    ],
    "study_tier": "inicial",
    "study_priority": 500,
-   "description": "O número 100.",
+   "description": "O número 100. “Cem” usa-se sozinho, e “cento” antes de outro número: “cento e dez”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 100."
+    "pt-BR": "O número 100. “Cem” usa-se sozinho, e “cento” antes de outro número: “cento e dez”."
    },
    "antonyms": []
   },
@@ -42835,14 +43228,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "chuva",
-   "alternatives": [],
+   "alternatives": [
+    "precipitação",
+    "temporal"
+   ],
    "study_tier": "inicial",
    "study_priority": 503,
-   "description": "Água que cai das nuvens.",
+   "description": "Água que cai das nuvens: “chuva forte”. Também indica uma grande quantidade de algo: “uma chuva de elogios”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Água que cai das nuvens."
+    "pt-BR": "Água que cai das nuvens: “chuva forte”. Também indica uma grande quantidade de algo: “uma chuva de elogios”."
    },
    "antonyms": []
   },
@@ -42906,15 +43302,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "terrível",
    "alternatives": [
-    "horrível"
+    "horrível",
+    "péssimo"
    ],
    "study_tier": "inicial",
    "study_priority": 504,
    "user_hint": "",
-   "description": "Muito ruim.",
+   "description": "Muito ruim: “um clima terrível”. Também indica algo assustador ou muito grave.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito ruim."
+    "pt-BR": "Muito ruim: “um clima terrível”. Também indica algo assustador ou muito grave."
    },
    "antonyms": []
   },
@@ -43029,14 +43426,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "com medo",
-   "alternatives": [],
+   "alternatives": [
+    "amedrontado",
+    "assustado"
+   ],
    "study_tier": "inicial",
    "study_priority": 507,
-   "description": "Sentindo medo.",
+   "description": "Sentindo medo: “estou com medo do escuro”. Também indica preocupação com algo que pode acontecer.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sentindo medo."
+    "pt-BR": "Sentindo medo: “estou com medo do escuro”. Também indica preocupação com algo que pode acontecer."
    },
    "antonyms": []
   },
@@ -43497,14 +43897,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "oceano",
-   "alternatives": [],
+   "alternatives": [
+    "mar"
+   ],
    "study_tier": "inicial",
    "study_priority": 510,
-   "description": "Massa de água salgada imensa.",
+   "description": "Massa de água salgada imensa: “o oceano Atlântico”. Também indica uma grande quantidade de algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Massa de água salgada imensa."
+    "pt-BR": "Massa de água salgada imensa: “o oceano Atlântico”. Também indica uma grande quantidade de algo."
    },
    "antonyms": []
   },
@@ -43798,17 +44200,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "caro",
-   "alternatives": [],
+   "alternatives": [
+    "custoso",
+    "dispendioso"
+   ],
    "study_tier": "inicial",
    "study_priority": 512,
    "user_hint": "",
-   "description": "Que custa muito dinheiro.",
+   "description": "Que custa muito dinheiro: “um carro caro”. Também indica algo valioso, ou pessoa querida: “caro amigo”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001952"
    ],
    "nativeExplain": {
-    "pt-BR": "Que custa muito dinheiro."
+    "pt-BR": "Que custa muito dinheiro: “um carro caro”. Também indica algo valioso, ou pessoa querida: “caro amigo”."
    },
    "forms": [
     {
@@ -44127,14 +44532,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "de repente",
-   "alternatives": [],
+   "alternatives": [
+    "subitamente",
+    "do nada"
+   ],
    "study_tier": "inicial",
    "study_priority": 514,
-   "description": "De modo rápido e inesperado.",
+   "description": "De modo rápido e inesperado: “de repente, a luz apagou”. Também indica um acontecimento sem aviso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "De modo rápido e inesperado."
+    "pt-BR": "De modo rápido e inesperado: “de repente, a luz apagou”. Também indica um acontecimento sem aviso."
    },
    "antonyms": []
   },
@@ -44307,14 +44715,16 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "amarelo",
-   "alternatives": [],
+   "alternatives": [
+    "amarelado"
+   ],
    "study_tier": "inicial",
    "study_priority": 515,
    "user_hint": "",
-   "description": "A cor da banana.",
+   "description": "A cor da banana e do sol: “camiseta amarela”. Também indica cor pálida de pele em quem está doente.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A cor da banana."
+    "pt-BR": "A cor da banana e do sol: “camiseta amarela”. Também indica cor pálida de pele em quem está doente."
    },
    "antonyms": [],
    "forms": [
@@ -44833,18 +45243,19 @@
    "translation_confidence": "editorial-reviewed",
    "text": "macio",
    "alternatives": [
-    "mole"
+    "mole",
+    "fofo"
    ],
    "study_tier": "inicial",
    "study_priority": 523,
    "user_hint": "",
-   "description": "Que não é duro.",
+   "description": "Que não é duro: “um travesseiro macio”. Também indica voz suave ou fruta passada.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000004172"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é duro."
+    "pt-BR": "Que não é duro: “um travesseiro macio”. Também indica voz suave ou fruta passada."
    }
   },
   {
@@ -45444,14 +45855,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "erro",
-   "alternatives": [],
+   "alternatives": [
+    "engano",
+    "falha"
+   ],
    "study_tier": "inicial",
    "study_priority": 525,
-   "description": "Algo feito de modo errado.",
+   "description": "Algo feito de modo errado: “cometer um erro”. Também indica um engano de cálculo ou de escrita.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Algo feito de modo errado."
+    "pt-BR": "Algo feito de modo errado: “cometer um erro”. Também indica um engano de cálculo ou de escrita."
    },
    "antonyms": []
   },
@@ -45927,15 +46341,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "bravo",
    "alternatives": [
-    "irritado"
+    "irritado",
+    "zangado"
    ],
    "study_tier": "inicial",
    "study_priority": 528,
-   "description": "Sentindo forte desagrado.",
+   "description": "Sentindo forte desagrado: “ficar bravo”. Também indica algo agitado: “mar bravo”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Sentindo forte desagrado."
+    "pt-BR": "Sentindo forte desagrado: “ficar bravo”. Também indica algo agitado: “mar bravo”."
    },
    "antonyms": []
   },
@@ -46132,14 +46547,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "buraco",
-   "alternatives": [],
+   "alternatives": [
+    "furo",
+    "cavidade"
+   ],
    "study_tier": "inicial",
    "study_priority": 531,
    "user_hint": "",
-   "description": "Espaço vazio ou abertura.",
+   "description": "Espaço vazio ou abertura: “um buraco na parede”. Também indica uma cova ou uma falta: “buraco no orçamento”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Espaço vazio ou abertura."
+    "pt-BR": "Espaço vazio ou abertura: “um buraco na parede”. Também indica uma cova ou uma falta: “buraco no orçamento”."
    },
    "antonyms": []
   },
@@ -46347,14 +46765,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "almoço",
-   "alternatives": [],
+   "alternatives": [
+    "refeição do meio-dia"
+   ],
    "study_tier": "inicial",
    "study_priority": 534,
-   "description": "A refeição do meio do dia.",
+   "description": "A refeição do meio do dia: “almoço às doze”. Também indica o horário em que se come.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A refeição do meio do dia."
+    "pt-BR": "A refeição do meio do dia: “almoço às doze”. Também indica o horário em que se come."
    },
    "antonyms": []
   },
@@ -46667,17 +47087,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "fraco",
-   "alternatives": [],
+   "alternatives": [
+    "frágil",
+    "débil"
+   ],
    "study_tier": "inicial",
    "study_priority": 538,
    "user_hint": "",
-   "description": "Que não é forte.",
+   "description": "Que não é forte: “uma pessoa fraca”. Também indica algo sem intensidade, como luz ou sinal.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000593"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é forte."
+    "pt-BR": "Que não é forte: “uma pessoa fraca”. Também indica algo sem intensidade, como luz ou sinal."
    },
    "forms": [
     {
@@ -46881,14 +47304,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cozinhar",
-   "alternatives": [],
+   "alternatives": [
+    "preparar",
+    "fazer comida"
+   ],
    "study_tier": "inicial",
    "study_priority": 541,
-   "description": "Preparar comida usando calor.",
+   "description": "Preparar comida usando calor: “cozinhar o arroz”. Também indica fazer uma refeição: “cozinhar para os amigos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Preparar comida usando calor."
+    "pt-BR": "Preparar comida usando calor: “cozinhar o arroz”. Também indica fazer uma refeição: “cozinhar para os amigos”."
    },
    "antonyms": []
   },
@@ -47080,14 +47506,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cozinha",
-   "alternatives": [],
+   "alternatives": [
+    "copa",
+    "culinária"
+   ],
    "study_tier": "inicial",
    "study_priority": 543,
-   "description": "Cômodo onde a comida é feita.",
+   "description": "Cômodo onde a comida é feita: “a cozinha da casa”. Também indica o estilo da comida: “cozinha japonesa”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Cômodo onde a comida é feita."
+    "pt-BR": "Cômodo onde a comida é feita: “a cozinha da casa”. Também indica o estilo da comida: “cozinha japonesa”."
    },
    "antonyms": []
   },
@@ -47198,18 +47627,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "silencioso",
    "alternatives": [
+    "calado",
     "tranquilo"
    ],
    "study_tier": "inicial",
    "study_priority": 544,
-   "description": "Com pouco barulho.",
+   "description": "Com pouco barulho: “uma rua silenciosa”. Também indica pessoa que fala pouco.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002799"
    ],
    "nativeExplain": {
-    "pt-BR": "Com pouco barulho."
+    "pt-BR": "Com pouco barulho: “uma rua silenciosa”. Também indica pessoa que fala pouco."
    }
   },
   {
@@ -47330,11 +47760,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 545,
-   "description": "O número 20.",
+   "description": "O número 20. Ex.: “vinte reais”, “vinte anos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 20."
+    "pt-BR": "O número 20. Ex.: “vinte reais”, “vinte anos”."
    },
    "antonyms": []
   },
@@ -48137,14 +48567,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "estranho",
-   "alternatives": [],
+   "alternatives": [
+    "esquisito",
+    "incomum"
+   ],
    "study_tier": "inicial",
    "study_priority": 548,
-   "description": "Fora do comum; não familiar.",
+   "description": "Fora do comum: “um barulho estranho”. Também indica algo não familiar: “uma pessoa estranha”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Fora do comum; não familiar."
+    "pt-BR": "Fora do comum: “um barulho estranho”. Também indica algo não familiar: “uma pessoa estranha”."
    },
    "antonyms": [
     "en:000002403"
@@ -48220,11 +48653,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 549,
-   "description": "O número 1.000.",
+   "description": "O número 1.000. Ex.: “mil reais”, “mil pessoas”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 1.000."
+    "pt-BR": "O número 1.000. Ex.: “mil reais”, “mil pessoas”."
    },
    "antonyms": []
   },
@@ -48423,14 +48856,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "tigela",
-   "alternatives": [],
+   "alternatives": [
+    "cumbuca",
+    "bacia"
+   ],
    "study_tier": "inicial",
    "study_priority": 552,
-   "description": "Recipiente redondo e fundo.",
+   "description": "Recipiente redondo e fundo para sopa ou cereal: “uma tigela de sopa”. Também designa o conteúdo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Recipiente redondo e fundo."
+    "pt-BR": "Recipiente redondo e fundo para sopa ou cereal: “uma tigela de sopa”. Também designa o conteúdo."
    },
    "antonyms": []
   },
@@ -48641,17 +49077,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "falso",
-   "alternatives": [],
+   "alternatives": [
+    "inverídico",
+    "fingido"
+   ],
    "study_tier": "inicial",
    "study_priority": 553,
    "user_hint": "",
-   "description": "Que não é verdade.",
+   "description": "Que não é verdade: “uma notícia falsa”. Também indica algo imitado ou fingido: “nome falso”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000379"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não é verdade."
+    "pt-BR": "Que não é verdade: “uma notícia falsa”. Também indica algo imitado ou fingido: “nome falso”."
    }
   },
   {
@@ -49037,15 +49476,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "devagar",
    "alternatives": [
-    "lentamente"
+    "lentamente",
+    "pausadamente"
    ],
    "study_tier": "inicial",
    "study_priority": 558,
    "user_hint": "",
-   "description": "De modo lento, sem pressa.",
+   "description": "De modo lento, sem pressa: “andar devagar”. Também indica o ritmo de um processo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "De modo lento, sem pressa."
+    "pt-BR": "De modo lento, sem pressa: “andar devagar”. Também indica o ritmo de um processo."
    },
    "antonyms": [
     "en:000001060"
@@ -49205,11 +49645,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 561,
-   "description": "O número 0.",
+   "description": "O número 0, que indica quantidade nenhuma: “zero grau”. Também indica a nota mais baixa.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O número 0."
+    "pt-BR": "O número 0, que indica quantidade nenhuma: “zero grau”. Também indica a nota mais baixa."
    },
    "antonyms": []
   },
@@ -49224,14 +49664,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "campeão",
-   "alternatives": [],
+   "alternatives": [
+    "vencedor",
+    "líder"
+   ],
    "study_tier": "inicial",
    "study_priority": 562,
    "user_hint": "",
-   "description": "O vencedor de uma competição.",
+   "description": "O vencedor de uma competição: “o campeão do torneio”. Também indica quem defende uma causa. Fem.: “campeã”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "O vencedor de uma competição."
+    "pt-BR": "O vencedor de uma competição: “o campeão do torneio”. Também indica quem defende uma causa. Fem.: “campeã”."
    },
    "antonyms": [],
    "forms": [
@@ -49824,11 +50267,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 564,
-   "description": "O dia depois da quarta-feira.",
+   "description": "O quinto dia da semana, depois de quarta-feira e antes de sexta-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois da quarta-feira."
+    "pt-BR": "O quinto dia da semana, depois de quarta-feira e antes de sexta-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -49844,15 +50287,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "minúsculo",
    "alternatives": [
+    "diminuto",
     "pequenininho"
    ],
    "study_tier": "inicial",
    "study_priority": 565,
    "user_hint": "",
-   "description": "Muito pequeno.",
+   "description": "Muito pequeno: “uma formiga minúscula”. Também indica algo quase invisível, por seu tamanho.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Muito pequeno."
+    "pt-BR": "Muito pequeno: “uma formiga minúscula”. Também indica algo quase invisível, por seu tamanho."
    },
    "antonyms": []
   },
@@ -50039,14 +50483,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "café da manhã",
-   "alternatives": [],
+   "alternatives": [
+    "desjejum"
+   ],
    "study_tier": "inicial",
    "study_priority": 567,
-   "description": "A primeira refeição do dia.",
+   "description": "A primeira refeição do dia: “tomar café da manhã”. Em geral inclui pão, frutas e café.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "A primeira refeição do dia."
+    "pt-BR": "A primeira refeição do dia: “tomar café da manhã”. Em geral inclui pão, frutas e café."
    },
    "antonyms": []
   },
@@ -50062,15 +50508,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "brilhante",
    "alternatives": [
-    "claro"
+    "claro",
+    "luminoso"
    ],
    "study_tier": "inicial",
    "study_priority": 568,
    "user_hint": "",
-   "description": "Cheio de luz.",
+   "description": "Cheio de luz ou cor intensa: “um quarto brilhante”. Também indica algo inteligente: “uma ideia brilhante”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Cheio de luz."
+    "pt-BR": "Cheio de luz ou cor intensa: “um quarto brilhante”. Também indica algo inteligente: “uma ideia brilhante”."
    },
    "antonyms": []
   },
@@ -51455,15 +51902,16 @@
    "translation_confidence": "editorial-reviewed",
    "text": "sino",
    "alternatives": [
-    "campainha"
+    "campainha",
+    "sineta"
    ],
    "study_tier": "inicial",
    "study_priority": 575,
    "user_hint": "",
-   "description": "Objeto de metal que toca.",
+   "description": "Objeto de metal que soa quando tocado: “o sino da igreja”. Também indica a campainha da porta.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Objeto de metal que toca."
+    "pt-BR": "Objeto de metal que soa quando tocado: “o sino da igreja”. Também indica a campainha da porta."
    },
    "antonyms": []
   },
@@ -51529,17 +51977,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "namorado",
-   "alternatives": [],
+   "alternatives": [
+    "parceiro"
+   ],
    "study_tier": "inicial",
    "study_priority": 576,
-   "description": "Homem com quem alguém namora.",
+   "description": "Homem com quem alguém namora: “meu namorado”. Também indica o parceiro de um relacionamento amoroso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002075"
    ],
    "nativeExplain": {
-    "pt-BR": "Homem com quem alguém namora."
+    "pt-BR": "Homem com quem alguém namora: “meu namorado”. Também indica o parceiro de um relacionamento amoroso."
    }
   },
   {
@@ -51657,14 +52107,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "perigo",
-   "alternatives": [],
+   "alternatives": [
+    "risco",
+    "ameaça"
+   ],
    "study_tier": "inicial",
    "study_priority": 579,
    "user_hint": "",
-   "description": "A chance de se machucar.",
+   "description": "A chance de se machucar ou sofrer dano: “em perigo”. Também indica algo que ameaça ou assusta.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "A chance de se machucar."
+    "pt-BR": "A chance de se machucar ou sofrer dano: “em perigo”. Também indica algo que ameaça ou assusta."
    },
    "antonyms": [
     "en:000001113"
@@ -51759,17 +52212,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "vazio",
-   "alternatives": [],
+   "alternatives": [
+    "oco",
+    "desocupado"
+   ],
    "study_tier": "inicial",
    "study_priority": 581,
-   "description": "Sem nada dentro.",
+   "description": "Sem nada dentro: “um copo vazio”. Também indica um lugar sem pessoas ou sem sentido.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000252"
    ],
    "nativeExplain": {
-    "pt-BR": "Sem nada dentro."
+    "pt-BR": "Sem nada dentro: “um copo vazio”. Também indica um lugar sem pessoas ou sem sentido."
    },
    "forms": [
     {
@@ -52261,11 +52717,11 @@
    "alternatives": [],
    "study_tier": "inicial",
    "study_priority": 582,
-   "description": "O dia depois da terça-feira.",
+   "description": "O quarto dia da semana, depois de terça-feira e antes de quinta-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O dia depois da terça-feira."
+    "pt-BR": "O quarto dia da semana, depois de terça-feira e antes de quinta-feira, contando a semana de domingo a sábado. Em português, os dias da semana se escrevem com letra minúscula."
    },
    "antonyms": []
   },
@@ -53203,14 +53659,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "queijo",
-   "alternatives": [],
+   "alternatives": [
+    "laticínio"
+   ],
    "study_tier": "inicial",
    "study_priority": 590,
-   "description": "Alimento feito de leite.",
+   "description": "Alimento feito de leite: “queijo com pão”. Também indica um prato com esse ingrediente.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Alimento feito de leite."
+    "pt-BR": "Alimento feito de leite: “queijo com pão”. Também indica um prato com esse ingrediente."
    },
    "antonyms": []
   },
@@ -55208,14 +55666,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "círculo",
-   "alternatives": [],
+   "alternatives": [
+    "roda",
+    "disco"
+   ],
    "study_tier": "inicial",
    "study_priority": 600,
    "user_hint": "",
-   "description": "Uma forma redonda.",
+   "description": "Uma forma redonda: “desenhar um círculo”. Também indica um grupo de pessoas: “círculo de amigos”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Uma forma redonda."
+    "pt-BR": "Uma forma redonda: “desenhar um círculo”. Também indica um grupo de pessoas: “círculo de amigos”."
    },
    "antonyms": []
   },
@@ -55388,17 +55849,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "sujo",
-   "alternatives": [],
+   "alternatives": [
+    "imundo",
+    "encardido"
+   ],
    "study_tier": "inicial",
    "study_priority": 601,
-   "description": "Que não está limpo.",
+   "description": "Que não está limpo: “roupa suja”. Também indica algo moralmente impróprio: “piada suja”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001101"
    ],
    "nativeExplain": {
-    "pt-BR": "Que não está limpo."
+    "pt-BR": "Que não está limpo: “roupa suja”. Também indica algo moralmente impróprio: “piada suja”."
    },
    "forms": [
     {
@@ -55607,14 +56071,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alegria",
-   "alternatives": [],
+   "alternatives": [
+    "felicidade",
+    "contentamento"
+   ],
    "study_tier": "inicial",
    "study_priority": 602,
    "user_hint": "",
-   "description": "Grande felicidade.",
+   "description": "Grande felicidade: “chorar de alegria”. Também indica o que traz prazer.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Grande felicidade."
+    "pt-BR": "Grande felicidade: “chorar de alegria”. Também indica o que traz prazer."
    },
    "antonyms": []
   },
@@ -55749,14 +56216,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "barulho",
-   "alternatives": [],
+   "alternatives": [
+    "ruído",
+    "estrondo"
+   ],
    "study_tier": "inicial",
    "study_priority": 603,
    "user_hint": "",
-   "description": "Som alto ou desagradável.",
+   "description": "Som alto ou desagradável: “fazer barulho”. Também indica confusão ou agitação.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Som alto ou desagradável."
+    "pt-BR": "Som alto ou desagradável: “fazer barulho”. Também indica confusão ou agitação."
    },
    "antonyms": []
   },
@@ -55865,14 +56335,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "preparar",
-   "alternatives": [],
+   "alternatives": [
+    "aprontar",
+    "organizar"
+   ],
    "study_tier": "inicial",
    "study_priority": 605,
    "user_hint": "",
-   "description": "Deixar pronto.",
+   "description": "Deixar pronto: “preparar o jantar”. Também significa treinar ou organizar-se para algo: “preparar-se para a prova”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Deixar pronto."
+    "pt-BR": "Deixar pronto: “preparar o jantar”. Também significa treinar ou organizar-se para algo: “preparar-se para a prova”."
    },
    "antonyms": []
   },
@@ -56339,15 +56812,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "calmo",
    "alternatives": [
-    "tranquilo"
+    "tranquilo",
+    "sereno"
    ],
    "study_tier": "inicial",
    "study_priority": 610,
-   "description": "Tranquilo e sem preocupação.",
+   "description": "Tranquilo e sem preocupação: “mar calmo”. Também indica pessoa serena, ou período sem agitação.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Tranquilo e sem preocupação."
+    "pt-BR": "Tranquilo e sem preocupação: “mar calmo”. Também indica pessoa serena, ou período sem agitação."
    },
    "antonyms": []
   },
@@ -56610,17 +57084,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esconder",
-   "alternatives": [],
+   "alternatives": [
+    "ocultar",
+    "guardar"
+   ],
    "study_tier": "inicial",
    "study_priority": 611,
-   "description": "Pôr fora da vista.",
+   "description": "Pôr fora da vista: “esconder o presente”. Também significa ocultar um fato ou sentimento.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000191"
    ],
    "nativeExplain": {
-    "pt-BR": "Pôr fora da vista."
+    "pt-BR": "Pôr fora da vista: “esconder o presente”. Também significa ocultar um fato ou sentimento."
    }
   },
   {
@@ -56851,14 +57328,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "cantar",
-   "alternatives": [],
+   "alternatives": [
+    "entoar"
+   ],
    "study_tier": "inicial",
    "study_priority": 613,
-   "description": "Fazer música com a voz.",
+   "description": "Fazer música com a voz: “cantar uma canção”. Também indica produzir sons como os pássaros.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Fazer música com a voz."
+    "pt-BR": "Fazer música com a voz: “cantar uma canção”. Também indica produzir sons como os pássaros."
    },
    "antonyms": []
   },
@@ -56902,17 +57381,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "molhado",
-   "alternatives": [],
+   "alternatives": [
+    "úmido",
+    "encharcado"
+   ],
    "study_tier": "inicial",
    "study_priority": 614,
-   "description": "Coberto de água.",
+   "description": "Coberto de água ou líquido: “chão molhado”. Também indica algo úmido, ou chuvoso.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000001820"
    ],
    "nativeExplain": {
-    "pt-BR": "Coberto de água."
+    "pt-BR": "Coberto de água ou líquido: “chão molhado”. Também indica algo úmido, ou chuvoso."
    },
    "forms": [
     {
@@ -57306,14 +57788,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "altura",
-   "alternatives": [],
+   "alternatives": [
+    "estatura",
+    "elevação"
+   ],
    "study_tier": "inicial",
    "study_priority": 619,
-   "description": "Quão alto algo é.",
+   "description": "Quão alto algo é: “a altura da torre”. Também indica a estatura de uma pessoa e o ponto em que algo está.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Quão alto algo é."
+    "pt-BR": "Quão alto algo é: “a altura da torre”. Também indica a estatura de uma pessoa e o ponto em que algo está."
    },
    "antonyms": []
   },
@@ -57378,18 +57863,19 @@
    "vcu14_status": "provisional-editorial",
    "text": "alto",
    "alternatives": [
-    "barulhento"
+    "barulhento",
+    "estridente"
    ],
    "study_tier": "inicial",
    "study_priority": 620,
-   "description": "Que faz muito barulho.",
+   "description": "Que faz muito barulho: “música alta”. Também indica pessoa que fala em tom elevado.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000002228"
    ],
    "nativeExplain": {
-    "pt-BR": "Que faz muito barulho."
+    "pt-BR": "Que faz muito barulho: “música alta”. Também indica pessoa que fala em tom elevado."
    }
   },
   {
@@ -57609,14 +58095,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cru",
-   "alternatives": [],
+   "alternatives": [
+    "não cozido",
+    "bruto"
+   ],
    "study_tier": "inicial",
    "study_priority": 621,
    "user_hint": "",
-   "description": "Que não foi cozido.",
+   "description": "Que não foi cozido: “peixe cru”. Também indica algo sem preparo: “material cru”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Que não foi cozido."
+    "pt-BR": "Que não foi cozido: “peixe cru”. Também indica algo sem preparo: “material cru”."
    },
    "antonyms": [],
    "forms": [
@@ -58436,14 +58925,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "piloto",
-   "alternatives": [],
+   "alternatives": [
+    "aviador",
+    "comandante"
+   ],
    "study_tier": "inicial",
    "study_priority": 624,
    "user_hint": "",
-   "description": "Pessoa que pilota um avião.",
+   "description": "Pessoa que conduz um avião: “o piloto do voo”. Também indica quem conduz corridas de carro.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pessoa que pilota um avião."
+    "pt-BR": "Pessoa que conduz um avião: “o piloto do voo”. Também indica quem conduz corridas de carro."
    },
    "antonyms": []
   },
@@ -58464,10 +58956,10 @@
    "study_tier": "inicial",
    "study_priority": 625,
    "user_hint": "",
-   "description": "Um vermelho claro.",
+   "description": "Cor clara, entre o vermelho e o branco: “um vestido cor-de-rosa”. Também se diz apenas “rosa”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Um vermelho claro."
+    "pt-BR": "Cor clara, entre o vermelho e o branco: “um vestido cor-de-rosa”. Também se diz apenas “rosa”."
    },
    "antonyms": []
   },
@@ -58659,14 +59151,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "cantor",
-   "alternatives": [],
+   "alternatives": [
+    "vocalista",
+    "intérprete"
+   ],
    "study_tier": "inicial",
    "study_priority": 626,
    "user_hint": "",
-   "description": "Pessoa que canta.",
+   "description": "Pessoa que canta: “cantor de ópera”. Fem.: “cantora”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Pessoa que canta."
+    "pt-BR": "Pessoa que canta: “cantor de ópera”. Fem.: “cantora”."
    },
    "antonyms": [],
    "forms": [
@@ -58782,17 +59277,20 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "alto",
-   "alternatives": [],
+   "alternatives": [
+    "elevado",
+    "comprido"
+   ],
    "study_tier": "inicial",
    "study_priority": 627,
    "user_hint": "",
-   "description": "Com altura acima do normal.",
+   "description": "Com altura acima do normal: “um prédio alto”. Também indica volume elevado de som: “voz alta”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000454"
    ],
    "nativeExplain": {
-    "pt-BR": "Com altura acima do normal."
+    "pt-BR": "Com altura acima do normal: “um prédio alto”. Também indica volume elevado de som: “voz alta”."
    },
    "forms": [
     {
@@ -60640,14 +61138,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "torre",
-   "alternatives": [],
+   "alternatives": [
+    "torreão",
+    "campanário"
+   ],
    "study_tier": "inicial",
    "study_priority": 636,
-   "description": "Construção alta e estreita.",
+   "description": "Construção alta e estreita: “a torre da cidade”. Também indica uma estrutura para observar ou transmitir.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Construção alta e estreita."
+    "pt-BR": "Construção alta e estreita: “a torre da cidade”. Também indica uma estrutura para observar ou transmitir."
    },
    "antonyms": []
   },
@@ -62251,14 +62752,17 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "refrigerante",
-   "alternatives": [],
+   "alternatives": [
+    "refri",
+    "bebida gasosa"
+   ],
    "study_tier": "inicial",
    "study_priority": 638,
    "user_hint": "",
-   "description": "Bebida doce com gás.",
+   "description": "Bebida doce com gás: “uma lata de refrigerante”. Também chamada de “refri”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Bebida doce com gás."
+    "pt-BR": "Bebida doce com gás: “uma lata de refrigerante”. Também chamada de “refri”."
    },
    "antonyms": []
   },
@@ -62567,14 +63071,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "mochila",
-   "alternatives": [],
+   "alternatives": [
+    "bolsa de costas"
+   ],
    "study_tier": "inicial",
    "study_priority": 639,
-   "description": "Bolsa carregada nas costas.",
+   "description": "Bolsa carregada nas costas: “mochila de viagem”. Também indica uma bolsa de escola.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Bolsa carregada nas costas."
+    "pt-BR": "Bolsa carregada nas costas: “mochila de viagem”. Também indica uma bolsa de escola."
    },
    "antonyms": []
   },
@@ -63194,14 +63700,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "padaria",
-   "alternatives": [],
+   "alternatives": [
+    "panificadora"
+   ],
    "study_tier": "inicial",
    "study_priority": 643,
-   "description": "Loja que faz e vende pão.",
+   "description": "Loja que faz e vende pão: “comprar na padaria”. Também vende doces e café.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Loja que faz e vende pão."
+    "pt-BR": "Loja que faz e vende pão: “comprar na padaria”. Também vende doces e café."
    },
    "antonyms": []
   },
@@ -63399,14 +63907,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "nuvem",
-   "alternatives": [],
+   "alternatives": [
+    "nebulosidade"
+   ],
    "study_tier": "inicial",
    "study_priority": 647,
-   "description": "Massa branca ou cinza no céu.",
+   "description": "Massa branca ou cinza no céu: “céu com nuvens”. Também indica um grupo de dados na internet: “nuvem de arquivos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Massa branca ou cinza no céu."
+    "pt-BR": "Massa branca ou cinza no céu: “céu com nuvens”. Também indica um grupo de dados na internet: “nuvem de arquivos”."
    },
    "antonyms": []
   },
@@ -63513,17 +64023,20 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "saída",
-   "alternatives": [],
+   "alternatives": [
+    "porta de saída",
+    "partida"
+   ],
    "study_tier": "inicial",
    "study_priority": 649,
-   "description": "Por onde se sai de um lugar.",
+   "description": "Por onde se sai de um lugar: “a saída de emergência”. Também indica o ato de partir.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000004182"
    ],
    "nativeExplain": {
-    "pt-BR": "Por onde se sai de um lugar."
+    "pt-BR": "Por onde se sai de um lugar: “a saída de emergência”. Também indica o ato de partir."
    }
   },
   {
@@ -63656,14 +64169,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "lixo",
-   "alternatives": [],
+   "alternatives": [
+    "resíduos",
+    "sujeira"
+   ],
    "study_tier": "inicial",
    "study_priority": 652,
-   "description": "Coisas jogadas fora.",
+   "description": "Coisas jogadas fora: “levar o lixo para fora”. Também indica algo sem valor.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Coisas jogadas fora."
+    "pt-BR": "Coisas jogadas fora: “levar o lixo para fora”. Também indica algo sem valor."
    },
    "antonyms": []
   },
@@ -63802,15 +64318,16 @@
    "vcu14_status": "provisional-editorial",
    "text": "lição de casa",
    "alternatives": [
-    "dever de casa"
+    "dever de casa",
+    "tarefa"
    ],
    "study_tier": "inicial",
    "study_priority": 653,
-   "description": "Tarefa escolar feita em casa.",
+   "description": "Tarefa escolar para fazer em casa: “fazer a lição de casa”. Também chamada de “dever de casa”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Tarefa escolar feita em casa."
+    "pt-BR": "Tarefa escolar para fazer em casa: “fazer a lição de casa”. Também chamada de “dever de casa”."
    },
    "antonyms": []
   },
@@ -63888,14 +64405,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "suco",
-   "alternatives": [],
+   "alternatives": [
+    "sumo",
+    "bebida de fruta"
+   ],
    "study_tier": "inicial",
    "study_priority": 654,
-   "description": "Líquido que sai da fruta.",
+   "description": "Líquido que sai da fruta: “suco de laranja”. Também indica bebida feita de fruta ou legumes.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Líquido que sai da fruta."
+    "pt-BR": "Líquido que sai da fruta: “suco de laranja”. Também indica bebida feita de fruta ou legumes."
    },
    "antonyms": []
   },
@@ -64222,14 +64742,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "farmácia",
-   "alternatives": [],
+   "alternatives": [
+    "drogaria"
+   ],
    "study_tier": "inicial",
    "study_priority": 656,
-   "description": "Loja que vende remédios.",
+   "description": "Loja que vende remédios: “ir à farmácia”. Também indica o espaço onde se preparam medicamentos.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Loja que vende remédios."
+    "pt-BR": "Loja que vende remédios: “ir à farmácia”. Também indica o espaço onde se preparam medicamentos."
    },
    "antonyms": []
   },
@@ -64625,14 +65147,17 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "lavar",
-   "alternatives": [],
+   "alternatives": [
+    "limpar",
+    "higienizar"
+   ],
    "study_tier": "inicial",
    "study_priority": 664,
-   "description": "Limpar com água.",
+   "description": "Limpar com água: “lavar as mãos”. Também indica lavar roupa ou louça.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Limpar com água."
+    "pt-BR": "Limpar com água: “lavar as mãos”. Também indica lavar roupa ou louça."
    },
    "antonyms": []
   },
@@ -64710,14 +65235,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "dela",
-   "alternatives": [],
+   "alternatives": [
+    "dela mesma"
+   ],
    "study_tier": "inicial",
    "study_priority": 665,
-   "description": "O que pertence a ela.",
+   "description": "O que pertence a ela: “o livro é dela”. Também funciona sem substantivo: “o carro dele e o dela”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "O que pertence a ela."
+    "pt-BR": "O que pertence a ela: “o livro é dela”. Também funciona sem substantivo: “o carro dele e o dela”."
    },
    "antonyms": []
   },
@@ -64906,14 +65433,16 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "avião",
-   "alternatives": [],
+   "alternatives": [
+    "aeronave"
+   ],
    "study_tier": "inicial",
    "study_priority": 666,
-   "description": "Veículo com asas que voa.",
+   "description": "Veículo com asas que voa: “viajar de avião”. Também designa o aparelho de transporte aéreo.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "pt-BR": "Veículo com asas que voa."
+    "pt-BR": "Veículo com asas que voa: “viajar de avião”. Também designa o aparelho de transporte aéreo."
    },
    "antonyms": []
   },
@@ -68605,17 +69134,20 @@
    "kind": "word",
    "description_en": "A room used for sleeping.",
    "text": "quarto",
-   "alternatives": [],
+   "alternatives": [
+    "dormitório",
+    "aposento"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 676,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Cômodo usado para dormir.",
+   "description": "Cômodo usado para dormir: “o quarto do casal”. Também indica um espaço pessoal para descansar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Cômodo usado para dormir."
+    "pt-BR": "Cômodo usado para dormir: “o quarto do casal”. Também indica um espaço pessoal para descansar."
    },
    "level": "A1",
    "antonyms": []
@@ -68759,17 +69291,20 @@
    "kind": "word",
    "description_en": "Feeling that you want to sleep.",
    "text": "com sono",
-   "alternatives": [],
+   "alternatives": [
+    "sonolento",
+    "cansado"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 683,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Sentir vontade de dormir.",
+   "description": "Sentir vontade de dormir: “estou com sono”. Também indica algo tedioso: “aula sonolenta”.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sentir vontade de dormir."
+    "pt-BR": "Sentir vontade de dormir: “estou com sono”. Também indica algo tedioso: “aula sonolenta”."
    },
    "level": "A1",
    "antonyms": []
@@ -68781,17 +69316,20 @@
    "kind": "word",
    "description_en": "Feeling that you need to eat.",
    "text": "com fome",
-   "alternatives": [],
+   "alternatives": [
+    "faminto",
+    "esfomeado"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 684,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Sentir que precisa comer.",
+   "description": "Sentir que precisa comer: “estou com fome”. Também indica desejo intenso por algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sentir que precisa comer."
+    "pt-BR": "Sentir que precisa comer: “estou com fome”. Também indica desejo intenso por algo."
    },
    "level": "A1",
    "antonyms": []
@@ -68803,17 +69341,19 @@
    "kind": "word",
    "description_en": "Feeling that you need to drink.",
    "text": "com sede",
-   "alternatives": [],
+   "alternatives": [
+    "sedento"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 685,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "Sentir que precisa beber.",
+   "description": "Sentir que precisa beber: “estou com sede”. Também indica desejo intenso por algo.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Sentir que precisa beber."
+    "pt-BR": "Sentir que precisa beber: “estou com sede”. Também indica desejo intenso por algo."
    },
    "level": "A1",
    "antonyms": []
@@ -68847,17 +69387,20 @@
    "kind": "expression",
    "description_en": "To dress yourself in a piece of clothing.",
    "text": "vestir",
-   "alternatives": [],
+   "alternatives": [
+    "colocar",
+    "pôr"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 687,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Vestir uma peça de roupa.",
+   "description": "Vestir uma peça de roupa: “vestir o casaco”. Também significa calçar ou usar um acessório.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Vestir uma peça de roupa."
+    "pt-BR": "Vestir uma peça de roupa: “vestir o casaco”. Também significa calçar ou usar um acessório."
    },
    "level": "A1",
    "antonyms": []
@@ -68869,17 +69412,20 @@
    "kind": "expression",
    "description_en": "To remove a piece of clothing.",
    "text": "tirar",
-   "alternatives": [],
+   "alternatives": [
+    "despir",
+    "retirar"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 688,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "Tirar uma peça de roupa.",
+   "description": "Tirar uma peça de roupa: “tirar o casaco”. Também indica retirar algo de um lugar.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Tirar uma peça de roupa."
+    "pt-BR": "Tirar uma peça de roupa: “tirar o casaco”. Também indica retirar algo de um lugar."
    },
    "level": "A1",
    "antonyms": []
@@ -68891,17 +69437,20 @@
    "kind": "word",
    "description_en": "Goodbye (informal).",
    "text": "tchau",
-   "alternatives": [],
+   "alternatives": [
+    "até logo",
+    "adeus"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 689,
    "part_of_speech": "exp",
    "user_hint": "",
-   "description": "Adeus (informal).",
+   "description": "Adeus, de modo informal: “tchau, até mais!”. Usado entre amigos e conhecidos.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Adeus (informal)."
+    "pt-BR": "Adeus, de modo informal: “tchau, até mais!”. Usado entre amigos e conhecidos."
    },
    "level": "A1",
    "antonyms": []
@@ -68913,17 +69462,20 @@
    "kind": "word",
    "description_en": "A sweet food made of sugar.",
    "text": "bala",
-   "alternatives": [],
+   "alternatives": [
+    "doce",
+    "confeito"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 690,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Doce feito de açúcar.",
+   "description": "Doce feito de açúcar: “chupar uma bala”. Também chamado de “doce” em geral.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Doce feito de açúcar."
+    "pt-BR": "Doce feito de açúcar: “chupar uma bala”. Também chamado de “doce” em geral."
    },
    "level": "A1",
    "antonyms": []
@@ -69068,17 +69620,20 @@
    "kind": "expression",
    "description_en": "A soft toy bear.",
    "text": "ursinho de pelúcia",
-   "alternatives": [],
+   "alternatives": [
+    "urso de pelúcia",
+    "bichinho de pelúcia"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
    "study_priority": 696,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Urso de brinquedo macio.",
+   "description": "Urso de brinquedo macio: “abraçar o ursinho de pelúcia”. Muito comum para crianças.",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "pt-BR": "Urso de brinquedo macio."
+    "pt-BR": "Urso de brinquedo macio: “abraçar o ursinho de pelúcia”. Muito comum para crianças."
    },
    "level": "A1",
    "antonyms": []
