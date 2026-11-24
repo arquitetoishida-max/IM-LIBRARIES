@@ -30103,7 +30103,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3719,
+   "study_priority": 3720,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi",
     "ja": "「be」の過去の形。"
@@ -30301,7 +30301,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3720,
+   "study_priority": 3721,
    "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31169,7 +31169,7 @@
    "romanization": "~ tsumori",
    "usage_note": "Intention: 〜するつもり; prediction: 〜でしょう/だろう; often just the non-past form. Japanese has no future tense.",
    "study_tier": "expansão estruturante",
-   "study_priority": 3713,
+   "study_priority": 3714,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "ja": "これからすることや決めたことを表す言葉。"
@@ -31406,7 +31406,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3721,
+   "study_priority": 3722,
    "description": "「彼・彼女・それ」と使う「have」の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31678,7 +31678,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3722,
+   "study_priority": 3723,
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
@@ -31762,7 +31762,7 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_tier": "praticar com lema",
-   "study_priority": 3723,
+   "study_priority": 3724,
    "description": "「have」の過去の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32108,7 +32108,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3724,
+   "study_priority": 3725,
    "description": "「be」の過去分詞（「そこに行ったことがある」）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32141,7 +32141,7 @@
    "core_status": "pending",
    "retired_reason": "WOULD_SENSES_SPLIT_PENDING",
    "study_tier": "expansão estruturante",
-   "study_priority": 3714,
+   "study_priority": 3715,
    "description": "仮定や、ていねいな言い方に使う言葉。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -33569,7 +33569,7 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_tier": "praticar com lema",
-   "study_priority": 3725,
+   "study_priority": 3726,
    "description": "「can」の過去。ていねいな依頼にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -34076,7 +34076,7 @@
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
    "study_tier": "expansão estruturante",
-   "study_priority": 3715,
+   "study_priority": 3716,
    "description": "順番や程度の最上位を表す。「一番大きい」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -39366,7 +39366,7 @@
    "reading": "すこしの",
    "romanization": "sukoshi no",
    "class_real": "adnominal (adverb + の)",
-   "study_priority": 3727,
+   "study_priority": 3728,
    "description": "物の数や量が少ないことを名詞の前で表す。「少しのお金」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -45782,7 +45782,7 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 3726,
+   "study_priority": 3727,
    "user_hint": "",
    "description": "「come」の〜ing形。",
    "novrev_status": "reviewed",
@@ -52430,7 +52430,7 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 3716,
+   "study_priority": 3717,
    "description": "一方から反対側へ。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -52977,7 +52977,7 @@
    "romanization": "kawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 3717,
+   "study_priority": 3718,
    "description": "別のものの代わりに。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -86614,15 +86614,13 @@
    "english_id": "en:000001539",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The size or extent of something.",
+   "description_en": "A range of numbers or marks for measuring.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "目盛り",
-   "alternatives": [
-    "はかり"
-   ],
+   "alternatives": [],
    "reading": "めもり",
    "romanization": "memori",
    "class_real": "noun",
@@ -86630,10 +86628,10 @@
    "study_priority": 1361,
    "nativeExplain": {
     "pt-BR": "escala vs balança",
-    "ja": "測るための目盛り。重さを測るはかりの意味もある。"
+    "ja": "測るための目盛り。"
    },
    "user_hint": "",
-   "description": "測るための目盛り。重さを測るはかりの意味もある。",
+   "description": "測るための目盛り。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -88610,7 +88608,7 @@
    "english_id": "en:000001599",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The base of a building or of an idea.",
+   "description_en": "The base of a building.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -88624,10 +88622,10 @@
    "study_priority": 1385,
    "nativeExplain": {
     "pt-BR": "fundação (de prédio) vs fundação (organização)",
-    "ja": "建物の土台。お金を出して活動を支える団体の意味もある。"
+    "ja": "建物をささえる、いちばん下の部分。"
    },
    "user_hint": "",
-   "description": "建物の土台。お金を出して活動を支える団体の意味もある。",
+   "description": "建物をささえる、いちばん下の部分。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -88754,7 +88752,7 @@
    "english_id": "en:000001603",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "From Japan.",
+   "description_en": "From Japan or relating to Japan.",
    "level": "B1",
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
@@ -88767,10 +88765,10 @@
    "study_tier": "cedo",
    "study_priority": 1387,
    "user_hint": "",
-   "description": "日本という国にかかわる。日本で使われる言葉の意味もある。",
+   "description": "日本の、または日本に関係のある。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "日本という国にかかわる。日本で使われる言葉の意味もある。"
+    "ja": "日本の、または日本に関係のある。"
    },
    "antonyms": []
   },
@@ -88779,17 +88777,17 @@
    "english_id": "en:000001605",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The ability to remember; something you remember.",
+   "description_en": "Something you remember from the past.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "記憶",
+   "text": "思い出",
    "alternatives": [
-    "思い出"
+    "記憶"
    ],
-   "reading": "きおく",
-   "romanization": "kioku",
+   "reading": "おもいで",
+   "romanization": "omoide",
    "classifications": [
     {
      "system": "JLPT",
@@ -88801,10 +88799,10 @@
    "study_tier": "cedo",
    "study_priority": 1388,
    "user_hint": "",
-   "description": "覚えておく力。思い出したこと。",
+   "description": "過ぎたことで、覚えていること。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "覚えておく力。思い出したこと。"
+    "ja": "過ぎたことで、覚えていること。"
    },
    "antonyms": []
   },
@@ -90257,10 +90255,10 @@
    "study_tier": "cedo",
    "study_priority": 1405,
    "user_hint": "",
-   "description": "結果にお金をかける。「I bet」は、きっとそうだ。",
+   "description": "結果にお金をかける。「きっとそうだ」と言うときにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "結果にお金をかける。「I bet」は、きっとそうだ。"
+    "ja": "結果にお金をかける。「きっとそうだ」と言うときにも使う。"
    },
    "antonyms": []
   },
@@ -90269,7 +90267,7 @@
    "english_id": "en:000001649",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A place with tents; a summer activity program.",
+   "description_en": "A place with tents where people stay outdoors.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -90290,10 +90288,10 @@
    "study_tier": "cedo",
    "study_priority": 1406,
    "user_hint": "",
-   "description": "テントを張る場所。休みに行う合宿活動の意味もある。",
+   "description": "テントを張って、外で過ごす場所。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "テントを張る場所。休みに行う合宿活動の意味もある。"
+    "ja": "テントを張って、外で過ごす場所。"
    },
    "antonyms": []
   },
@@ -90971,9 +90969,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "精神",
-   "alternatives": [
-    "霊"
-   ],
+   "alternatives": [],
    "reading": "せいしん",
    "romanization": "seishin",
    "classifications": [
@@ -90988,10 +90984,10 @@
    "study_tier": "cedo",
    "study_priority": 1412,
    "user_hint": "",
-   "description": "心や気力、やる気。霊の意味もある。",
+   "description": "心や気力、やる気。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "心や気力、やる気。霊の意味もある。"
+    "ja": "心や気力、やる気。"
    },
    "antonyms": []
   },
@@ -92608,7 +92604,7 @@
    "english_id": "en:000001726",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A diary.",
+   "description_en": "A book where you write about your days.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -92630,10 +92626,10 @@
    "study_priority": 1435,
    "nativeExplain": {
     "pt-BR": "diário pessoal vs revista acadêmica",
-    "ja": "毎日の記録。専門の雑誌の意味もある。"
+    "ja": "毎日のできごとや気持ちを書く記録。"
    },
    "user_hint": "",
-   "description": "毎日の記録。専門の雑誌の意味もある。",
+   "description": "毎日のできごとや気持ちを書く記録。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -93121,15 +93117,17 @@
    "english_id": "en:000001737",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "An option or configuration you can set.",
+   "description_en": "Where and when a story takes place.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "設定",
-   "alternatives": [],
-   "reading": "せってい",
-   "romanization": "settei",
+   "text": "舞台",
+   "alternatives": [
+    "設定"
+   ],
+   "reading": "ぶたい",
+   "romanization": "butai",
    "classifications": [
     {
      "system": "JLPT",
@@ -93143,10 +93141,10 @@
    "study_priority": 1445,
    "nativeExplain": {
     "pt-BR": "ambientação (história) vs configuração (app)",
-    "ja": "物語の舞台や時代。機器の設定項目の意味もある。"
+    "ja": "物語が起こる場所や時代。"
    },
    "user_hint": "",
-   "description": "物語の舞台や時代。機器の設定項目の意味もある。",
+   "description": "物語が起こる場所や時代。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -93404,7 +93402,7 @@
    "english_id": "en:000001746",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Staying steady without falling; balance.",
+   "description_en": "Staying steady without falling.",
    "level": "B1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -93418,10 +93416,10 @@
    "study_priority": 1449,
    "nativeExplain": {
     "pt-BR": "equilíbrio vs saldo (conta)",
-    "ja": "かたむかずに安定していること。口座に残っているお金の意味もある。"
+    "ja": "かたむかずに安定していること。"
    },
    "user_hint": "",
-   "description": "かたむかずに安定していること。口座に残っているお金の意味もある。",
+   "description": "かたむかずに安定していること。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -93945,10 +93943,10 @@
    "study_tier": "cedo",
    "study_priority": 1456,
    "user_hint": "",
-   "description": "「turn」の複数形。「take turns」は順にかわる。",
+   "description": "順番に回ってくる、自分がする番（「あなたの番だよ」）。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "「turn」の複数形。「take turns」は順にかわる。"
+    "ja": "順番に回ってくる、自分がする番（「あなたの番だよ」）。"
    },
    "antonyms": []
   },
@@ -163058,7 +163056,7 @@
    "reading": "くるまにのせること",
    "romanization": "kurumaninoserukoto",
    "study_tier": "cedo",
-   "study_priority": 3718,
+   "study_priority": 3719,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "人の車に、ただで乗せてもらうこと。",
@@ -167164,7 +167162,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3712,
+   "study_priority": 3713,
    "novrev_status": "reviewed",
    "text": "孫",
    "reading": "まご",
@@ -167539,7 +167537,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3703,
+   "study_priority": 3704,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "無事な",
    "reading": "ぶじな",
@@ -167592,7 +167590,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3704,
+   "study_priority": 3705,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167618,7 +167616,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3705,
+   "study_priority": 3706,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167644,7 +167642,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3706,
+   "study_priority": 3707,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167670,7 +167668,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3707,
+   "study_priority": 3708,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167696,7 +167694,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3708,
+   "study_priority": 3709,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167722,7 +167720,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3709,
+   "study_priority": 3710,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167748,7 +167746,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3710,
+   "study_priority": 3711,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167774,7 +167772,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3711,
+   "study_priority": 3712,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167810,7 +167808,7 @@
     "ja": "結婚していない女の人の名前のあとにつける呼び方。"
    },
    "core_status": "pending",
-   "study_priority": 3728
+   "study_priority": 3729
   },
   {
    "kind": "word",
@@ -169890,6 +169888,29 @@
    "alternatives": [],
    "reading": "じょうけん",
    "romanization": "jouken"
+  },
+  {
+   "id": "ja:en:000004282",
+   "english_id": "en:000004282",
+   "english_sense_id": null,
+   "text": "日本語",
+   "kind": "word",
+   "description_en": "The language of Japan.",
+   "level": "B1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3703,
+   "description": "日本で話されている言語。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "日本で話されている言語。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "にほんご",
+   "romanization": "nihongo"
   }
  ]
 }
