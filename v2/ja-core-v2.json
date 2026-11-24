@@ -30103,7 +30103,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3711,
+   "study_priority": 3712,
    "nativeExplain": {
     "pt-BR": "Passado de be: era/foi",
     "ja": "「be」の過去の形。"
@@ -30301,7 +30301,7 @@
     }
    ],
    "study_tier": "praticar com lema",
-   "study_priority": 3712,
+   "study_priority": 3713,
    "description": "「あなた・私たち・彼ら」と使う「be」の現在の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -30543,23 +30543,25 @@
    "english_id": "en:000000022",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "Next to; also shows who did something (\"made by\").",
+   "description_en": "Shows who or what does something: \"written by\".",
    "level": "A1",
    "part_of_speech": "prep",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "によって",
-   "alternatives": [],
+   "text": "〜によって",
+   "alternatives": [
+    "〜に"
+   ],
    "reading": "によって",
    "romanization": "ni yotte",
    "class_real": "compound particle",
    "study_tier": "expansão estruturante",
    "study_priority": 924,
    "user_hint": "",
-   "description": "そばに。また、だれがしたかを示す言葉。",
+   "description": "だれ（何）がしたかを示す言葉。「〜によって書かれた」のように使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "そばに。また、だれがしたかを示す言葉。"
+    "ja": "だれ（何）がしたかを示す言葉。「〜によって書かれた」のように使う。"
    },
    "antonyms": []
   },
@@ -31167,7 +31169,7 @@
    "romanization": "~ tsumori",
    "usage_note": "Intention: 〜するつもり; prediction: 〜でしょう/だろう; often just the non-past form. Japanese has no future tense.",
    "study_tier": "expansão estruturante",
-   "study_priority": 3705,
+   "study_priority": 3706,
    "nativeExplain": {
     "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "ja": "これからすることや決めたことを表す言葉。"
@@ -31404,7 +31406,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3713,
+   "study_priority": 3714,
    "description": "「彼・彼女・それ」と使う「have」の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -31676,7 +31678,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3714,
+   "study_priority": 3715,
    "lemma_id": "ja:en:000000006",
    "grammatical_key": "PAST.PLAIN.POS",
    "lexical_type": "form",
@@ -31760,7 +31762,7 @@
    "grammatical_key": "PAST.PLAIN.POS",
    "key_pending": false,
    "study_tier": "praticar com lema",
-   "study_priority": 3715,
+   "study_priority": 3716,
    "description": "「have」の過去の形。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32106,7 +32108,7 @@
    "core_status": "pending",
    "retired_reason": "EN_FORM_NO_JA_SENSE",
    "study_tier": "praticar com lema",
-   "study_priority": 3716,
+   "study_priority": 3717,
    "description": "「be」の過去分詞（「そこに行ったことがある」）。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -32139,7 +32141,7 @@
    "core_status": "pending",
    "retired_reason": "WOULD_SENSES_SPLIT_PENDING",
    "study_tier": "expansão estruturante",
-   "study_priority": 3706,
+   "study_priority": 3707,
    "description": "仮定や、ていねいな言い方に使う言葉。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -33567,7 +33569,7 @@
    "grammatical_key": null,
    "key_pending": true,
    "study_tier": "praticar com lema",
-   "study_priority": 3717,
+   "study_priority": 3718,
    "description": "「can」の過去。ていねいな依頼にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -34074,7 +34076,7 @@
    "romanization": "ichiban",
    "class_real": "adverb (superlative marker)",
    "study_tier": "expansão estruturante",
-   "study_priority": 3707,
+   "study_priority": 3708,
    "description": "順番や程度の最上位を表す。「一番大きい」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -39364,7 +39366,7 @@
    "reading": "すこしの",
    "romanization": "sukoshi no",
    "class_real": "adnominal (adverb + の)",
-   "study_priority": 3719,
+   "study_priority": 3720,
    "description": "物の数や量が少ないことを名詞の前で表す。「少しのお金」。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -45780,7 +45782,7 @@
     }
    ],
    "study_tier": "herdado",
-   "study_priority": 3718,
+   "study_priority": 3719,
    "user_hint": "",
    "description": "「come」の〜ing形。",
    "novrev_status": "reviewed",
@@ -46943,7 +46945,7 @@
    "english_id": "en:000000400",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A question or issue to be dealt with.",
+   "description_en": "A subject or situation that people deal with.",
    "level": "A1",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -46957,12 +46959,12 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "assunto; “não importa”",
-    "ja": "話題や問題になっていること。"
+    "ja": "人が扱ったり話したりしている物ごと。"
    },
    "study_tier": "cedo",
    "study_priority": 1035,
    "user_hint": "",
-   "description": "話題や問題になっていること。",
+   "description": "人が扱ったり話したりしている物ごと。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -51981,7 +51983,7 @@
    "english_id": "en:000000525",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A TV or radio show.",
+   "description_en": "A show on television or radio.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -51992,12 +51994,12 @@
    "romanization": "bangumi",
    "class_real": "noun",
    "nativeExplain": {
-    "ja": "テレビの番組。コンピューターのプログラム。"
+    "ja": "テレビやラジオで放送される番組。"
    },
    "study_tier": "cedo",
    "study_priority": 1045,
    "user_hint": "",
-   "description": "テレビの番組。コンピューターのプログラム。",
+   "description": "テレビやラジオで放送される番組。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -52428,7 +52430,7 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "study_tier": "cedo",
-   "study_priority": 3708,
+   "study_priority": 3709,
    "description": "一方から反対側へ。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -52975,7 +52977,7 @@
    "romanization": "kawari ni",
    "class_real": "noun + に (adverbial)",
    "study_tier": "cedo",
-   "study_priority": 3709,
+   "study_priority": 3710,
    "description": "別のものの代わりに。",
    "novrev_status": "reviewed",
    "user_hint": "",
@@ -53577,7 +53579,7 @@
    "english_id": "en:000000574",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A break to relax; a day off.",
+   "description_en": "A break to relax.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -53599,10 +53601,10 @@
    "study_priority": 1062,
    "nativeExplain": {
     "pt-BR": "descanso",
-    "ja": "体をやすめる時間。「the rest」は残りのこと。"
+    "ja": "体をやすめる時間。"
    },
    "user_hint": "",
-   "description": "体をやすめる時間。「the rest」は残りのこと。",
+   "description": "体をやすめる時間。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -53611,7 +53613,7 @@
    "english_id": "en:000000578",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "An empty area; space.",
+   "description_en": "An empty area.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -53625,10 +53627,10 @@
    "study_priority": 1063,
    "nativeExplain": {
     "pt-BR": "espaço (lugar vazio)",
-    "ja": "何もない広がり。宇宙の意味もある。"
+    "ja": "何もない、あいている広がり。"
    },
    "user_hint": "",
-   "description": "何もない広がり。宇宙の意味もある。",
+   "description": "何もない、あいている広がり。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -53677,7 +53679,7 @@
    "english_id": "en:000000580",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A part of the school year; a term.",
+   "description_en": "A part of the school year.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -53689,12 +53691,12 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "período letivo; termo",
-    "ja": "学校の一年を分けたひとつの期間。専門的な意味をもつ言葉の意味もある。"
+    "ja": "学校の一年を分けたひとつの期間。"
    },
    "study_tier": "cedo",
    "study_priority": 1064,
    "user_hint": "",
-   "description": "学校の一年を分けたひとつの期間。専門的な意味をもつ言葉の意味もある。",
+   "description": "学校の一年を分けたひとつの期間。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -53906,7 +53908,7 @@
    "english_id": "en:000000588",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "To feel sad that someone is not there.",
+   "description_en": "To feel sad because someone is not there.",
    "level": "A2",
    "part_of_speech": "v",
    "source_status": "editorial-reviewed",
@@ -54010,10 +54012,10 @@
    "study_priority": 1067,
    "nativeExplain": {
     "pt-BR": "sentir falta vs perder (ônibus/alvo)",
-    "ja": "いない人をさびしく思う。つかみそこなう意味もある。"
+    "ja": "いない人をさびしく思う。"
    },
    "user_hint": "",
-   "description": "いない人をさびしく思う。つかみそこなう意味もある。",
+   "description": "いない人をさびしく思う。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -54053,7 +54055,7 @@
    "english_id": "en:000000591",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "The act of firing a gun.",
+   "description_en": "The act of shooting a weapon; also an attempt to score in sports.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -54067,10 +54069,10 @@
    "study_priority": 1068,
    "nativeExplain": {
     "pt-BR": "tiro",
-    "ja": "弾をうつこと。写真やシュートの意味もある。"
+    "ja": "弾をうつこと。スポーツでのシュートの意味もある。"
    },
    "user_hint": "",
-   "description": "弾をうつこと。写真やシュートの意味もある。",
+   "description": "弾をうつこと。スポーツでのシュートの意味もある。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -58124,10 +58126,10 @@
    "study_tier": "cedo",
    "study_priority": 1072,
    "user_hint": "",
-   "description": "ある値打ちがある。「worth it」はやる価値がある。",
+   "description": "ある値打ちがある。「やる価値がある」のようにも使う。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "ja": "ある値打ちがある。「worth it」はやる価値がある。"
+    "ja": "ある値打ちがある。「やる価値がある」のようにも使う。"
    },
    "antonyms": []
   },
@@ -58281,7 +58283,7 @@
    "english_id": "en:000000708",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A person who directs a film or a sports team.",
+   "description_en": "A person who directs a film or a play.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -58301,12 +58303,12 @@
    "class_real": "noun",
    "nativeExplain": {
     "pt-BR": "de filme ou organização",
-    "ja": "映画をつくる指揮をとる人。組織を率いる人。"
+    "ja": "映画や劇をつくる指揮をとる人。"
    },
    "study_tier": "cedo",
    "study_priority": 1075,
    "user_hint": "",
-   "description": "映画をつくる指揮をとる人。組織を率いる人。",
+   "description": "映画や劇をつくる指揮をとる人。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -60122,7 +60124,7 @@
    "english_id": "en:000000750",
    "english_sense_id": null,
    "kind": "word",
-   "description_en": "A small copy of something.",
+   "description_en": "A small copy of something, or a particular design of a product.",
    "level": "A2",
    "part_of_speech": "n",
    "source_status": "editorial-reviewed",
@@ -60136,10 +60138,10 @@
    "study_priority": 1092,
    "nativeExplain": {
     "pt-BR": "modelo (miniatura/exemplo) vs modelo (pessoa)",
-    "ja": "小さく似せてつくった物。服を着て見せる人の意味もある。"
+    "ja": "小さく似せてつくった物。商品の型の意味もある。"
    },
    "user_hint": "",
-   "description": "小さく似せてつくった物。服を着て見せる人の意味もある。",
+   "description": "小さく似せてつくった物。商品の型の意味もある。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -163056,7 +163058,7 @@
    "reading": "くるまにのせること",
    "romanization": "kurumaninoserukoto",
    "study_tier": "cedo",
-   "study_priority": 3710,
+   "study_priority": 3711,
    "part_of_speech": "n",
    "user_hint": "",
    "description": "人の車に、ただで乗せてもらうこと。",
@@ -167162,7 +167164,7 @@
    "english_sense_id": null,
    "description_en": "A child of your son or daughter.",
    "antonyms": [],
-   "study_priority": 3704,
+   "study_priority": 3705,
    "novrev_status": "reviewed",
    "text": "孫",
    "reading": "まご",
@@ -167537,7 +167539,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "sound-adj",
-   "study_priority": 3695,
+   "study_priority": 3696,
    "description_en": "Healthy and not hurt or damaged (\"safe and sound\").",
    "text": "無事な",
    "reading": "ぶじな",
@@ -167590,7 +167592,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂哥",
-   "study_priority": 3696,
+   "study_priority": 3697,
    "description_en": "A cousin: older male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167616,7 +167618,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂弟",
-   "study_priority": 3697,
+   "study_priority": 3698,
    "description_en": "A cousin: younger male cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167642,7 +167644,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂姐",
-   "study_priority": 3698,
+   "study_priority": 3699,
    "description_en": "A cousin: older female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167668,7 +167670,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-堂妹",
-   "study_priority": 3699,
+   "study_priority": 3700,
    "description_en": "A cousin: younger female cousin (father's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167694,7 +167696,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表哥",
-   "study_priority": 3700,
+   "study_priority": 3701,
    "description_en": "A cousin: older male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167720,7 +167722,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表弟",
-   "study_priority": 3701,
+   "study_priority": 3702,
    "description_en": "A cousin: younger male cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167746,7 +167748,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表姐",
-   "study_priority": 3702,
+   "study_priority": 3703,
    "description_en": "A cousin: older female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167772,7 +167774,7 @@
    "antonyms": [],
    "novrev_status": "reviewed",
    "t7_key": "cousin-表妹",
-   "study_priority": 3703,
+   "study_priority": 3704,
    "description_en": "A cousin: younger female cousin (mother's side).",
    "text": "いとこ",
    "reading": "いとこ",
@@ -167808,7 +167810,7 @@
     "ja": "結婚していない女の人の名前のあとにつける呼び方。"
    },
    "core_status": "pending",
-   "study_priority": 3720
+   "study_priority": 3721
   },
   {
    "kind": "word",
@@ -169700,6 +169702,29 @@
    "alternatives": [],
    "reading": "つち",
    "romanization": "tsuchi"
+  },
+  {
+   "id": "ja:en:000004274",
+   "english_id": "en:000004274",
+   "english_sense_id": null,
+   "text": "用語",
+   "kind": "word",
+   "description_en": "A word or phrase with a special or exact meaning.",
+   "level": "B2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_priority": 3695,
+   "description": "ある分野で、決まった意味で使う言葉。",
+   "novrev_status": "reviewed",
+   "user_hint": "",
+   "nativeExplain": {
+    "ja": "ある分野で、決まった意味で使う言葉。"
+   },
+   "antonyms": [],
+   "translation_confidence": "editorial-reviewed",
+   "alternatives": [],
+   "reading": "ようご",
+   "romanization": "yougo"
   }
  ]
 }

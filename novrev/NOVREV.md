@@ -17,7 +17,7 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 - Base em `2e74688642dba1088f98a00536f00310f1c50ae4`: catálogo 1.5.3 e núcleos 2.5.3.
 - Candidato nesta branch: catálogo 1.5.4 e núcleos 2.5.4. São 3.718 IDs por núcleo. Mantidas a sequência interna dos IDs preexistentes, as classificações e a prioridade relativa de estudo. As pendências ficam depois das entradas elegíveis.
 - [XLS de pendências e cobertura](NOVREV_pendencias.xlsx): 1.058 conceitos conferidos nos quatro idiomas, 40 recortes regionais reservados e 26 conceitos suspensos por falta de equivalência prática. Outros 6 IDs da matriz já estavam fora dos quatro pacotes desde a integração 2.4.0. Os 109 conceitos adicionados depois da matriz constam na aba Matriz atual. A fila de 423 relatos foi indexada. Um termo localizado no acervo ainda precisa ser conferido pelo sentido do relato.
-- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1420 foram percorridas. Retomar na posição 1421, `en:000003913` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
+- A matriz tem 2.594 conceitos com revisão semântica em aberto. As posições 1–1510 foram percorridas. Retomar na posição 1511, `en:000000791` (próximo ID da fila). O XLS indica os itens mais adiante já tratados e permite passá-los ao retomar. Após as quatro colunas, cruzar os casos ainda em aberto por ID e sentido.
 - Conferências feitas: hashes, versões, contagens, ordem e IDs por língua, proteção dos vínculos e níveis, estados e prioridades. Passaram os 16 testes do repositório e o validador do catálogo. A homologação em Android fica para a fase de entrega.
 
 ### Lote 267–283
@@ -169,6 +169,12 @@ Quando a mesma palavra abranger sentidos cotidianos que exigem equivalentes dife
 
 - 89 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1331–1420; 1420 já tratada). *Fry* passou a distinguir óleo abundante (揚げる, 炸) de óleo escasso (炒める, 焼く, 煎, 炒). *Guitar* inclui a guitarra elétrica em português. O japonês de *lazy* passou a usar 怠け者の, forma cotidiana. Em *pen*, o chinês inclui 圆珠笔 e 钢笔. *Grandpa* e *grandma* passaram a incluir 外公 e 外婆 em chinês. Retirada a alternativa 幸福, que estava duplicada em *happiness*.
 - A Kanji Study foi consultada para 怠, 炒, 揚 e 笛. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
+
+### Lote 1421–1510
+
+- 85 conceitos conferidos em EN-US, PT-BR, JA e ZH (posições 1421–1510; 1436, 1438, 1453, 1457 e 1482 já tratadas). Delimitados os sentidos de oito IDs cujas outras acepções já têm ID próprio: *rest* (pausa; o restante está em *the rest*), *space* (área; o espaço sideral tem ID), *program* (TV; programa de computador tem ID), *miss* (sentir falta), *shot* (disparo e tentativa de pontuar; a injeção e a foto têm ID), *director* (cinema e teatro; chefe de departamento tem ID), *model* (cópia e tipo de produto; a modelo tem ID) e *matter* (assunto). *By* ficou no sentido de agente, pois "perto de" já está em *beside*.
+- Criado o espelho `en:000004274` para *term* (palavra de sentido específico): termo, 用語, 术语. O ID `en:000000580` fica no período escolar. Corrigidas as descrições de *according to* e *worth* em português, japonês e chinês, que traziam expressões em inglês.
+- A Kanji Study foi consultada para 術, 語 e 模. Passaram os 16 testes, o validador do catálogo e as conferências de IDs, prioridades e hashes.
 
 ## Registro anterior — 19/11/2026
 
