@@ -144,7 +144,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "的",
-   "alternatives": [],
+   "alternatives": [
+    "之"
+   ],
    "reading": "de",
    "romanization": "de",
    "classifications": [
@@ -157,11 +159,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 917,
-   "description": "放在修饰语和名词之间，表示所属、性质等。后面的名词有时可以省略。",
+   "description": "放在修饰语和名词之间，表示所属或性质：“我的书”“红色的车”。也用在“的”字结构里：“买便宜的”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "放在修饰语和名词之间，表示所属、性质等。后面的名词有时可以省略。"
+    "zh": "放在修饰语和名词之间，表示所属或性质：“我的书”“红色的车”。也用在“的”字结构里：“买便宜的”。"
    },
    "antonyms": []
   },
@@ -253,7 +255,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "为",
    "alternatives": [
-    "给"
+    "给",
+    "为了"
    ],
    "reading": "wèi",
    "romanization": "wèi",
@@ -267,11 +270,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 918,
-   "description": "为了某人或某物。",
+   "description": "表示为了某人或某事：“为朋友做饭”。口语中也常用“给”：“给你买”。也表示原因：“为什么”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "为了某人或某物。"
+    "zh": "表示为了某人或某事：“为朋友做饭”。口语中也常用“给”：“给你买”。也表示原因：“为什么”。"
    },
    "antonyms": []
   },
@@ -375,7 +378,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "它",
-   "alternatives": [],
+   "alternatives": [
+    "它们"
+   ],
    "reading": "tā",
    "romanization": "tā",
    "classifications": [
@@ -388,11 +393,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 919,
-   "description": "指已经提到的动物或事物。",
+   "description": "指已经提到的动物或事物：“它很可爱”。书面语也可指前面说到的情况。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指已经提到的动物或事物。"
+    "zh": "指已经提到的动物或事物：“它很可爱”。书面语也可指前面说到的情况。"
    },
    "antonyms": []
   },
@@ -412,16 +417,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "在…上",
-   "alternatives": [],
+   "alternatives": [
+    "在…上面",
+    "在"
+   ],
    "reading": "zài…shàng",
    "romanization": "zài…shàng",
    "study_tier": "expansão estruturante",
    "study_priority": 920,
-   "description": "接触在某物的上面。",
+   "description": "表示接触在某物上面：“书在桌子上”。也表示时间：“在周一”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "接触在某物的上面。"
+    "zh": "表示接触在某物上面：“书在桌子上”。也表示时间：“在周一”。"
    },
    "antonyms": [
     "en:000000120"
@@ -445,7 +453,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "跟",
    "alternatives": [
-    "和"
+    "和",
+    "同"
    ],
    "reading": "gēn",
    "romanization": "gēn",
@@ -459,11 +468,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 921,
-   "description": "表示和某人一起做事，如“跟朋友出门”。",
+   "description": "表示和某人一起做事：“跟朋友出门”。也引出对象：“跟他说”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示和某人一起做事，如“跟朋友出门”。"
+    "zh": "表示和某人一起做事：“跟朋友出门”。也引出对象：“跟他说”。"
    },
    "antonyms": []
   },
@@ -595,7 +604,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "像",
-   "alternatives": [],
+   "alternatives": [
+    "如同",
+    "作为"
+   ],
    "reading": "xiàng",
    "romanization": "xiàng",
    "classifications": [
@@ -608,11 +620,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 922,
-   "description": "表示相似或相像，如“像他这样做”。作动词时也表示外表或情形相似。",
+   "description": "表示相似或相像：“像他这样做”。也表示身份或作用：“作为老师”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示相似或相像，如“像他这样做”。作动词时也表示外表或情形相似。"
+    "zh": "表示相似或相像：“像他这样做”。也表示身份或作用：“作为老师”。"
    },
    "antonyms": []
   },
@@ -825,7 +837,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "被",
    "alternatives": [
-    "由"
+    "由",
+    "被"
    ],
    "reading": "bèi",
    "romanization": "bèi",
@@ -840,10 +853,10 @@
    "study_tier": "expansão estruturante",
    "study_priority": 924,
    "user_hint": "",
-   "description": "表示动作由谁做出，如“被……”“由……”。",
+   "description": "表示动作由谁做出：“被老师批评”。口语也用“让”“叫”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表示动作由谁做出，如“被……”“由……”。"
+    "zh": "表示动作由谁做出：“被老师批评”。口语也用“让”“叫”。"
    },
    "antonyms": []
   },
@@ -903,7 +916,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "从",
-   "alternatives": [],
+   "alternatives": [
+    "自",
+    "起"
+   ],
    "reading": "cóng",
    "romanization": "cóng",
    "classifications": [
@@ -916,11 +932,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 925,
-   "description": "表示起点或来源。",
+   "description": "表示起点或来源：“从北京来”。也表示时间起点：“从九点开始”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示起点或来源。"
+    "zh": "表示起点或来源：“从北京来”。也表示时间起点：“从九点开始”。"
    },
    "antonyms": []
   },
@@ -941,16 +957,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "我的",
-   "alternatives": [],
+   "alternatives": [
+    "我们的",
+    "本人的"
+   ],
    "reading": "wǒ de",
    "romanization": "wǒ de",
    "study_tier": "expansão estruturante",
    "study_priority": 926,
-   "description": "表示某人或某物与说话者有关，或者归说话者所有，如“我的书”。",
+   "description": "表示属于说话者：“我的书”。亲近的人和关系常省略“的”：“我妈”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示某人或某物与说话者有关，或者归说话者所有，如“我的书”。"
+    "zh": "表示属于说话者：“我的书”。亲近的人和关系常省略“的”：“我妈”。"
    },
    "antonyms": []
   },
@@ -1053,17 +1072,17 @@
    "vcu14_status": "provisional-editorial",
    "text": "你的",
    "alternatives": [
-    "你们的"
+    "您的"
    ],
    "reading": "nǐ de",
    "romanization": "nǐ de",
    "study_tier": "expansão estruturante",
    "study_priority": 927,
-   "description": "放在名词前，表示事物属于听话人或和听话人有关。",
+   "description": "表示属于听话人：“你的包”。亲近的关系常省略“的”：“你妈”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "放在名词前，表示事物属于听话人或和听话人有关。"
+    "zh": "表示属于听话人：“你的包”。亲近的关系常省略“的”：“你妈”。"
    },
    "antonyms": []
   },
@@ -1101,11 +1120,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 928,
-   "description": "指一个范围里的全部人或事物，没有例外。",
+   "description": "指范围里的全部，没有例外：“所有人”。说“都”时放在动词前：“都来了”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指一个范围里的全部人或事物，没有例外。"
+    "zh": "指范围里的全部，没有例外：“所有人”。说“都”时放在动词前：“都来了”。"
    },
    "antonyms": []
   },
@@ -1127,7 +1146,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "这么",
-   "alternatives": [],
+   "alternatives": [
+    "这么",
+    "那么"
+   ],
    "reading": "zhème",
    "romanization": "zhème",
    "classifications": [
@@ -1140,11 +1162,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 929,
-   "description": "表示达到说话时所指的程度，如“这么累”。",
+   "description": "表示达到某个程度：“这么累”。也表示结果：“所以”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示达到说话时所指的程度，如“这么累”。"
+    "zh": "表示达到某个程度：“这么累”。也表示结果：“所以”。"
    },
    "antonyms": []
   },
@@ -1196,8 +1218,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "他们",
    "alternatives": [
-    "她们",
-    "它们"
+    "他们俩",
+    "人家"
    ],
    "reading": "tāmen",
    "romanization": "tāmen",
@@ -1211,11 +1233,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 931,
-   "description": "指已经提到的多个人，通常是男性或男女都有的群体。",
+   "description": "指已经提到的多个人：“他们去了”。通常指男性或男女混合的群体。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指已经提到的多个人，通常是男性或男女都有的群体。"
+    "zh": "指已经提到的多个人：“他们去了”。通常指男性或男女混合的群体。"
    },
    "antonyms": []
   },
@@ -1237,7 +1259,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "我",
-   "alternatives": [],
+   "alternatives": [
+    "我"
+   ],
    "reading": "wǒ",
    "romanization": "wǒ",
    "classifications": [
@@ -1250,11 +1274,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 932,
-   "description": "指说话者自己。在“叫我”中，“我”是动作的对象。",
+   "description": "指说话者自己。作宾语时：“叫我”。口语中“我”也可省略。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指说话者自己。在“叫我”中，“我”是动作的对象。"
+    "zh": "指说话者自己。作宾语时：“叫我”。口语中“我”也可省略。"
    },
    "antonyms": []
   },
@@ -1437,7 +1461,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "只",
-   "alternatives": [],
+   "alternatives": [
+    "只",
+    "仅"
+   ],
    "reading": "zhǐ",
    "romanization": "zhǐ",
    "classifications": [
@@ -1450,11 +1477,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 933,
-   "description": "限定人、事物或动作，表示仅此而已，如“只喝水”。",
+   "description": "限定人、事物或动作，表示仅此而已：“只喝水”。也表示刚才：“我刚到”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "限定人、事物或动作，表示仅此而已，如“只喝水”。"
+    "zh": "限定人、事物或动作，表示仅此而已：“只喝水”。也表示刚才：“我刚到”。"
    },
    "antonyms": []
   },
@@ -1515,7 +1542,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "关于",
-   "alternatives": [],
+   "alternatives": [
+    "关于",
+    "约"
+   ],
    "reading": "guānyú",
    "romanization": "guānyú",
    "classifications": [
@@ -1528,11 +1558,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 934,
-   "description": "表示谈论的主题。",
+   "description": "表示谈论的主题：“关于这本书”。也表示大约：“大约十个人”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示谈论的主题。"
+    "zh": "表示谈论的主题：“关于这本书”。也表示大约：“大约十个人”。"
    },
    "antonyms": []
   },
@@ -1555,7 +1585,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "向上",
    "alternatives": [
-    "上"
+    "上",
+    "往上"
    ],
    "reading": "xiàng shàng",
    "romanization": "xiàng shàng",
@@ -1569,14 +1600,14 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 935,
-   "description": "朝更高的地方。",
+   "description": "朝更高的地方：“向上看”。也表示增加、完成：“涨上去”“说上来”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000132"
    ],
    "nativeExplain": {
-    "zh": "朝更高的地方。"
+    "zh": "朝更高的地方：“向上看”。也表示增加、完成：“涨上去”“说上来”。"
    }
   },
   {
@@ -1598,7 +1629,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "出去",
    "alternatives": [
-    "外面"
+    "外面",
+    "出去"
    ],
    "reading": "chūqu",
    "romanization": "chūqu",
@@ -1612,11 +1644,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 936,
-   "description": "从里面走到外面，也可表示离开当前的地方。",
+   "description": "从里面到外面：“出去”。也表示离开当前的地方：“出门”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "从里面走到外面，也可表示离开当前的地方。"
+    "zh": "从里面到外面：“出去”。也表示离开当前的地方：“出门”。"
    },
    "antonyms": []
   },
@@ -2108,17 +2140,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "哪个",
    "alternatives": [
-    "哪"
+    "哪",
+    "哪一个"
    ],
    "reading": "nǎge",
    "romanization": "nǎge",
    "study_tier": "expansão estruturante",
    "study_priority": 939,
-   "description": "在若干选项中问具体是哪一个。",
+   "description": "在若干选项中问具体哪一个：“你要哪个？”。也可连接小句：“知道哪个好”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在若干选项中问具体是哪一个。"
+    "zh": "在若干选项中问具体哪一个：“你要哪个？”。也可连接小句：“知道哪个好”。"
    },
    "antonyms": []
   },
@@ -2178,7 +2211,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "得到",
    "alternatives": [
-    "拿到"
+    "拿到",
+    "获得"
    ],
    "reading": "dédào",
    "romanization": "dédào",
@@ -2192,11 +2226,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 940,
-   "description": "获得某物，如机会、奖品或许可。",
+   "description": "获得某物，如机会、奖品或许可：“得到奖品”。也表示变得：“越来越冷”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "获得某物，如机会、奖品或许可。"
+    "zh": "获得某物，如机会、奖品或许可：“得到奖品”。也表示变得：“越来越冷”。"
    },
    "antonyms": []
   },
@@ -2323,7 +2357,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "新",
-   "alternatives": [],
+   "alternatives": [
+    "新的",
+    "崭新"
+   ],
    "reading": "xīn",
    "romanization": "xīn",
    "classifications": [
@@ -2337,13 +2374,13 @@
    "study_tier": "expansão estruturante",
    "study_priority": 942,
    "user_hint": "",
-   "description": "刚做出或刚买的，不旧。",
+   "description": "刚做出或刚买的，不旧：“新手机”。也指不熟悉的：“新同学”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000166"
    ],
    "nativeExplain": {
-    "zh": "刚做出或刚买的，不旧。"
+    "zh": "刚做出或刚买的，不旧：“新手机”。也指不熟悉的：“新同学”。"
    }
   },
   {
@@ -2468,7 +2505,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "一些",
    "alternatives": [
-    "有些"
+    "有些",
+    "一点"
    ],
    "reading": "yìxiē",
    "romanization": "yìxiē",
@@ -2482,11 +2520,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 944,
-   "description": "表示不确定的一部分或一定数量，如“一些问题”。",
+   "description": "表示不确定的一部分或数量：“一些问题”。口语也说“有些”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示不确定的一部分或一定数量，如“一些问题”。"
+    "zh": "表示不确定的一部分或数量：“一些问题”。口语也说“有些”。"
    },
    "antonyms": []
   },
@@ -2507,7 +2545,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "也",
-   "alternatives": [],
+   "alternatives": [
+    "也",
+    "同样"
+   ],
    "reading": "yě",
    "romanization": "yě",
    "classifications": [
@@ -2520,11 +2561,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 945,
-   "description": "此外，同样。",
+   "description": "此外，同样：“我也去”。放在动词前，表示相同的情况。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "此外，同样。"
+    "zh": "此外，同样：“我也去”。放在动词前，表示相同的情况。"
    },
    "antonyms": []
   },
@@ -2619,7 +2660,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "别的",
    "alternatives": [
-    "其他"
+    "其他",
+    "另外的"
    ],
    "reading": "bié de",
    "romanization": "bié de",
@@ -2633,11 +2675,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 947,
-   "description": "和已经提到的不同的。",
+   "description": "和已经提到的不同：“别的人”。也指剩下的部分。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "和已经提到的不同的。"
+    "zh": "和已经提到的不同：“别的人”。也指剩下的部分。"
    },
    "antonyms": []
   },
@@ -2742,7 +2784,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "比",
-   "alternatives": [],
+   "alternatives": [
+    "比较"
+   ],
    "reading": "bǐ",
    "romanization": "bǐ",
    "classifications": [
@@ -2755,11 +2799,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 950,
-   "description": "用于比较（“比我高”）。",
+   "description": "用于比较：“比我高”。也表示比拟：“比喻”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "用于比较（“比我高”）。"
+    "zh": "用于比较：“比我高”。也表示比拟：“比喻”。"
    },
    "antonyms": []
   },
@@ -2824,7 +2868,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "只",
    "alternatives": [
-    "仅仅"
+    "仅仅",
+    "只有"
    ],
    "reading": "zhǐ",
    "romanization": "zhǐ",
@@ -2838,11 +2883,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 951,
-   "description": "仅此而已，没有别的。",
+   "description": "仅此而已，没有别的：“只有一个”。也表示强调：“只是”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "仅此而已，没有别的。"
+    "zh": "仅此而已，没有别的：“只有一个”。也表示强调：“只是”。"
    },
    "antonyms": []
   },
@@ -2865,20 +2910,21 @@
    "vcu14_status": "provisional-editorial",
    "text": "在…以后",
    "alternatives": [
-    "之后"
+    "之后",
+    "以后"
    ],
    "reading": "zài…yǐhòu",
    "romanization": "zài…yǐhòu",
    "study_tier": "expansão estruturante",
    "study_priority": 952,
-   "description": "表示某一时间点或某件事之后。",
+   "description": "表示某一时间点或某件事之后：“吃饭以后”。也表示顺序在后面。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000119"
    ],
    "nativeExplain": {
-    "zh": "表示某一时间点或某件事之后。"
+    "zh": "表示某一时间点或某件事之后：“吃饭以后”。也表示顺序在后面。"
    }
   },
   {
@@ -2898,19 +2944,22 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "第一",
-   "alternatives": [],
+   "alternatives": [
+    "首先",
+    "最初"
+   ],
    "reading": "dì-yī",
    "romanization": "dì-yī",
    "study_tier": "expansão estruturante",
    "study_priority": 953,
-   "description": "顺序上排在最前面的。",
+   "description": "顺序上排在最前面：“第一天”。也指最重要：“第一名”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000136"
    ],
    "nativeExplain": {
-    "zh": "顺序上排在最前面的。"
+    "zh": "顺序上排在最前面：“第一天”。也指最重要：“第一名”。"
    }
   },
   {
@@ -2961,7 +3010,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "进",
    "alternatives": [
-    "到…里"
+    "到…里",
+    "进入"
    ],
    "reading": "jìn",
    "romanization": "jìn",
@@ -2975,11 +3025,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 955,
-   "description": "进入某物里面。",
+   "description": "进入某物里面：“进房间”。也表示变成：“变成”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "进入某物里面。"
+    "zh": "进入某物里面：“进房间”。也表示变成：“变成”。"
    },
    "antonyms": []
   },
@@ -3121,7 +3171,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "做",
    "alternatives": [
-    "制作"
+    "制作",
+    "造"
    ],
    "reading": "zuò",
    "romanization": "zuò",
@@ -3135,11 +3186,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 956,
-   "description": "创造或制作某物。",
+   "description": "创造或制作某物：“做饭”。也表示担任或使成为：“做老师”“让人高兴”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "创造或制作某物。"
+    "zh": "创造或制作某物：“做饭”。也表示担任或使成为：“做老师”“让人高兴”。"
    },
    "antonyms": []
   },
@@ -3160,16 +3211,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "在…上方",
-   "alternatives": [],
+   "alternatives": [
+    "越过",
+    "在…之上"
+   ],
    "reading": "zài…shàngfāng",
    "romanization": "zài…shàngfāng",
    "study_tier": "expansão estruturante",
    "study_priority": 957,
-   "description": "表示处在某物或某处的上面。",
+   "description": "表示处在某物上方：“桥上方”。也表示越过：“越过墙”，结束：“结束了”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示处在某物或某处的上面。"
+    "zh": "表示处在某物上方：“桥上方”。也表示越过：“越过墙”，结束：“结束了”。"
    },
    "antonyms": []
   },
@@ -3191,7 +3245,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "想",
    "alternatives": [
-    "认为"
+    "认为",
+    "思考"
    ],
    "reading": "xiǎng",
    "romanization": "xiǎng",
@@ -3205,11 +3260,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 958,
-   "description": "考虑问题或形成想法，也可表示猜测或愿望。",
+   "description": "考虑问题或形成想法：“想办法”。也表示猜测、想念或打算：“我想去”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "考虑问题或形成想法，也可表示猜测或愿望。"
+    "zh": "考虑问题或形成想法：“想办法”。也表示猜测、想念或打算：“我想去”。"
    },
    "antonyms": []
   },
@@ -3231,7 +3286,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "任何",
    "alternatives": [
-    "任何一个"
+    "任何",
+    "随便"
    ],
    "reading": "rènhé",
    "romanization": "rènhé",
@@ -3245,11 +3301,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 959,
-   "description": "表示不限具体哪一个或哪一种，如“任何人”。",
+   "description": "表示不限哪一个：“任何人”。疑问或否定句中常说“什么”“都”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示不限具体哪一个或哪一种，如“任何人”。"
+    "zh": "表示不限哪一个：“任何人”。疑问或否定句中常说“什么”“都”。"
    },
    "antonyms": []
   },
@@ -3270,6 +3326,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "然后",
    "alternatives": [
+    "接着",
     "那时"
    ],
    "reading": "ránhòu",
@@ -3284,11 +3341,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 960,
-   "description": "表示一件事之后接着发生另一件事。",
+   "description": "表示一件事之后接着发生另一件事：“然后去”。也表示那时：“那时候”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示一件事之后接着发生另一件事。"
+    "zh": "表示一件事之后接着发生另一件事：“然后去”。也表示那时：“那时候”。"
    },
    "antonyms": []
   },
@@ -3345,7 +3402,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "回",
    "alternatives": [
-    "后面"
+    "回",
+    "返回"
    ],
    "reading": "huí",
    "romanization": "huí",
@@ -3359,14 +3417,14 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 961,
-   "description": "表示从别处返到原来或认定的地方，如“回家”。",
+   "description": "表示从别处返回原来的地方：“回家”。也表示恢复：“回原位”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000509"
    ],
    "nativeExplain": {
-    "zh": "表示从别处返到原来或认定的地方，如“回家”。"
+    "zh": "表示从别处返回原来的地方：“回家”。也表示恢复：“回原位”。"
    }
   },
   {
@@ -3570,7 +3628,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "好",
    "alternatives": [
-    "很好地"
+    "好",
+    "很好"
    ],
    "reading": "hǎo",
    "romanization": "hǎo",
@@ -3584,11 +3643,11 @@
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 964,
-   "description": "做得好，状态好。",
+   "description": "做得好，状态好：“说得好”。也表示身体好：“我很好”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "做得好，状态好。"
+    "zh": "做得好，状态好：“说得好”。也表示身体好：“我很好”。"
    },
    "antonyms": [
     "en:000001909"
@@ -3829,7 +3888,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "甚至",
    "alternatives": [
-    "连"
+    "连",
+    "竟然"
    ],
    "reading": "shènzhì",
    "romanization": "shènzhì",
@@ -3843,11 +3903,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 966,
-   "description": "强调出乎意料的事情。",
+   "description": "强调出乎意料的事：“连小孩都知道”。比较时也表示更：“更好”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "强调出乎意料的事情。"
+    "zh": "强调出乎意料的事：“连小孩都知道”。比较时也表示更：“更好”。"
    },
    "antonyms": []
   },
@@ -3867,7 +3927,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "应该",
-   "alternatives": [],
+   "alternatives": [
+    "应当",
+    "该"
+   ],
    "reading": "yīnggāi",
    "romanization": "yīnggāi",
    "classifications": [
@@ -3880,11 +3943,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 967,
-   "description": "表示建议（“你应该休息”）。",
+   "description": "表示建议：“你应该休息”。也表示推测：“应该到了”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示建议（“你应该休息”）。"
+    "zh": "表示建议：“你应该休息”。也表示推测：“应该到了”。"
    },
    "antonyms": []
   },
@@ -3906,6 +3969,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "可以",
    "alternatives": [
+    "可以",
     "可能"
    ],
    "reading": "kěyǐ",
@@ -3920,11 +3984,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 968,
-   "description": "表示允许做某事。也可表示具备条件、能够做某事。",
+   "description": "表示允许：“可以进来”。也表示可能：“可能会下雨”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示允许做某事。也可表示具备条件、能够做某事。"
+    "zh": "表示允许：“可以进来”。也表示可能：“可能会下雨”。"
    },
    "antonyms": []
   },
@@ -4294,6 +4358,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "也",
    "alternatives": [
+    "也",
     "太"
    ],
    "reading": "yě",
@@ -4308,11 +4373,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 969,
-   "description": "表示同样的情况也适用于另一个人或事物，如“我也去”。",
+   "description": "表示同样的情况也适用于另一人或事物：“我也去”。也表示过分：“太”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示同样的情况也适用于另一个人或事物，如“我也去”。"
+    "zh": "表示同样的情况也适用于另一人或事物：“我也去”。也表示过分：“太”。"
    },
    "antonyms": []
   },
@@ -4362,20 +4427,21 @@
    "vcu14_status": "provisional-editorial",
    "text": "在…以前",
    "alternatives": [
-    "之前"
+    "之前",
+    "以前"
    ],
    "reading": "zài…yǐqián",
    "romanization": "zài…yǐqián",
    "study_tier": "cedo",
    "study_priority": 970,
-   "description": "在某个时间之前。",
+   "description": "在某个时间之前：“吃饭前”。也表示位置在前：“在…面前”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000078"
    ],
    "nativeExplain": {
-    "zh": "在某个时间之前。"
+    "zh": "在某个时间之前：“吃饭前”。也表示位置在前：“在…面前”。"
    }
   },
   {
@@ -4842,20 +4908,21 @@
    "vcu14_status": "provisional-editorial",
    "text": "向下",
    "alternatives": [
-    "下"
+    "下",
+    "往下"
    ],
    "reading": "xiàng xià",
    "romanization": "xiàng xià",
    "study_tier": "cedo",
    "study_priority": 974,
-   "description": "朝更低的地方。",
+   "description": "朝更低的地方：“向下看”。也表示减少、降低：“下降”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000042"
    ],
    "nativeExplain": {
-    "zh": "朝更低的地方。"
+    "zh": "朝更低的地方：“向下看”。也表示减少、降低：“下降”。"
    }
   },
   {
@@ -4908,6 +4975,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "通过",
    "alternatives": [
+    "经过",
     "穿过"
    ],
    "reading": "tōngguò",
@@ -4922,11 +4990,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 975,
-   "description": "表示从某个地方经过、穿过，或借助某种方法。",
+   "description": "从某个地方经过：“通过隧道”。也表示借助某种方法或经历：“通过努力”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示从某个地方经过、穿过，或借助某种方法。"
+    "zh": "从某个地方经过：“通过隧道”。也表示借助某种方法或经历：“通过努力”。"
    },
    "antonyms": []
   },
@@ -4978,20 +5046,21 @@
    "vcu14_status": "provisional-editorial",
    "text": "最后的",
    "alternatives": [
-    "上一个"
+    "上一个",
+    "末尾的"
    ],
    "reading": "zuìhòu de",
    "romanization": "zuìhòu de",
    "study_tier": "cedo",
    "study_priority": 976,
-   "description": "表示次序排在末尾的，如“最后的一页”。",
+   "description": "次序排在末尾的：“最后一页”。也指刚过去的：“上一次”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000079"
    ],
    "nativeExplain": {
-    "zh": "表示次序排在末尾的，如“最后的一页”。"
+    "zh": "次序排在末尾的：“最后一页”。也指刚过去的：“上一次”。"
    }
   },
   {
@@ -5042,17 +5111,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "当…的时候",
    "alternatives": [
-    "同时"
+    "同时",
+    "期间"
    ],
    "reading": "dāng…de shíhou",
    "romanization": "dāng…de shíhou",
    "study_tier": "cedo",
    "study_priority": 977,
-   "description": "在某段时间内。",
+   "description": "在某段时间内：“吃饭的时候”。也表示对比：“而”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在某段时间内。"
+    "zh": "在某段时间内：“吃饭的时候”。也表示对比：“而”。"
    },
    "antonyms": []
   },
@@ -5249,7 +5319,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "长",
-   "alternatives": [],
+   "alternatives": [
+    "漫长",
+    "久"
+   ],
    "reading": "cháng",
    "romanization": "cháng",
    "classifications": [
@@ -5262,14 +5335,14 @@
    ],
    "study_tier": "cedo",
    "study_priority": 979,
-   "description": "两端之间的距离大，也可以形容持续的时间久。",
+   "description": "两端之间距离大：“长路”。也形容时间久：“很长时间”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [
     "en:000000454"
    ],
    "nativeExplain": {
-    "zh": "两端之间的距离大，也可以形容持续的时间久。"
+    "zh": "两端之间距离大：“长路”。也形容时间久：“很长时间”。"
    }
   },
   {
@@ -5531,7 +5604,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "每",
    "alternatives": [
-    "每个"
+    "每个",
+    "各"
    ],
    "reading": "měi",
    "romanization": "měi",
@@ -5545,11 +5619,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 981,
-   "description": "放在单位或名词前，表示逐一涵盖全体，如“每个人”“每天”。",
+   "description": "逐一涵盖全体：“每个人”。也表示每隔：“每三天”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "放在单位或名词前，表示逐一涵盖全体，如“每个人”“每天”。"
+    "zh": "逐一涵盖全体：“每个人”。也表示每隔：“每三天”。"
    },
    "antonyms": []
   },
@@ -5768,7 +5842,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "周围",
    "alternatives": [
-    "到处"
+    "附近",
+    "四周"
    ],
    "reading": "zhōuwéi",
    "romanization": "zhōuwéi",
@@ -5782,11 +5857,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 983,
-   "description": "指某处或某物附近的区域，也可指四周。",
+   "description": "某处附近的区域：“周围有人”。也表示大约：“十点左右”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指某处或某物附近的区域，也可指四周。"
+    "zh": "某处附近的区域：“周围有人”。也表示大约：“十点左右”。"
    },
    "antonyms": []
   },
@@ -5807,16 +5882,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "在…之间",
-   "alternatives": [],
+   "alternatives": [
+    "之间",
+    "当中"
+   ],
    "reading": "zài…zhījiān",
    "romanization": "zài…zhījiān",
    "study_tier": "cedo",
    "study_priority": 984,
-   "description": "在两个事物之间的空间。",
+   "description": "在两个事物之间：“学校和家之间”。也表示在几个人中：“你们之间”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在两个事物之间的空间。"
+    "zh": "在两个事物之间：“学校和家之间”。也表示在几个人中：“你们之间”。"
    },
    "antonyms": []
   },
@@ -5976,7 +6054,10 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "高",
-   "alternatives": [],
+   "alternatives": [
+    "高大",
+    "高处"
+   ],
    "reading": "gāo",
    "romanization": "gāo",
    "classifications": [
@@ -5990,13 +6071,13 @@
    "study_tier": "cedo",
    "study_priority": 985,
    "user_hint": "",
-   "description": "离地面很远；很高。",
+   "description": "离地面很远：“高山”。也表示程度大：“高价”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000450"
    ],
    "nativeExplain": {
-    "zh": "离地面很远；很高。"
+    "zh": "离地面很远：“高山”。也表示程度大：“高价”。"
    }
   },
   {
@@ -6053,7 +6134,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "老",
    "alternatives": [
-    "旧"
+    "旧",
+    "年老"
    ],
    "reading": "lǎo",
    "romanization": "lǎo",
@@ -6068,14 +6150,14 @@
    "study_tier": "cedo",
    "study_priority": 986,
    "user_hint": "",
-   "description": "存在或活了很长时间。",
+   "description": "存在或活了很长时间：“老房子”。也指年龄大：“老人”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000063",
     "en:000000351"
    ],
    "nativeExplain": {
-    "zh": "存在或活了很长时间。"
+    "zh": "存在或活了很长时间：“老房子”。也指年龄大：“老人”。"
    }
   },
   {
@@ -6096,7 +6178,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "自从",
    "alternatives": [
-    "既然"
+    "从…起",
+    "自"
    ],
    "reading": "zìcóng",
    "romanization": "zìcóng",
@@ -6110,11 +6193,11 @@
    ],
    "study_tier": "cedo",
    "study_priority": 987,
-   "description": "表示从过去某一时间或事件起，如“自从那天起”。",
+   "description": "表示从过去某一时间起：“自从那天”。也表示原因：“既然”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示从过去某一时间或事件起，如“自从那天起”。"
+    "zh": "表示从过去某一时间起：“自从那天”。也表示原因：“既然”。"
    },
    "antonyms": []
   },
@@ -6137,17 +6220,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "另一个",
    "alternatives": [
-    "又一个"
+    "又一个",
+    "别的"
    ],
    "reading": "lìng yí ge",
    "romanization": "lìng yí ge",
    "study_tier": "cedo",
    "study_priority": 988,
-   "description": "指再加一个，或在已知的事物中另选一个。",
+   "description": "再加一个同类的：“再来一个”。也指另选一个：“换另一个”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "指再加一个，或在已知的事物中另选一个。"
+    "zh": "再加一个同类的：“再来一个”。也指另选一个：“换另一个”。"
    },
    "antonyms": []
   },
@@ -6194,16 +6278,19 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "自己的",
-   "alternatives": [],
+   "alternatives": [
+    "自己的",
+    "亲自"
+   ],
    "reading": "zìjǐ de",
    "romanization": "zìjǐ de",
    "study_tier": "cedo",
    "study_priority": 989,
    "user_hint": "",
-   "description": "属于自己的（如“我自己的房间”）。",
+   "description": "属于自己的：“我自己的房间”。也表示亲自：“自己做”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "属于自己的（如“我自己的房间”）。"
+    "zh": "属于自己的：“我自己的房间”。也表示亲自：“自己做”。"
    },
    "antonyms": []
   },
@@ -6224,16 +6311,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "在…下面",
-   "alternatives": [],
+   "alternatives": [
+    "在…下",
+    "低于"
+   ],
    "reading": "zài…xiàmiàn",
    "romanization": "zài…xiàmiàn",
    "study_tier": "cedo",
    "study_priority": 990,
-   "description": "在某物的下面。",
+   "description": "在某物的下面：“桌子下面”。也表示低于：“十岁以下”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "在某物的下面。"
+    "zh": "在某物的下面：“桌子下面”。也表示低于：“十岁以下”。"
    },
    "antonyms": []
   },
@@ -6253,16 +6343,19 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "在…期间",
-   "alternatives": [],
+   "alternatives": [
+    "期间",
+    "其间"
+   ],
    "reading": "zài…qījiān",
    "romanization": "zài…qījiān",
    "study_tier": "cedo",
    "study_priority": 991,
-   "description": "表示某件事发生或持续在一段时间之内。",
+   "description": "某件事在一段时间之内发生：“暑假期间”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "表示某件事发生或持续在一段时间之内。"
+    "zh": "某件事在一段时间之内发生：“暑假期间”。"
    },
    "antonyms": []
   },
@@ -6583,17 +6676,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "下一个",
    "alternatives": [
-    "下"
+    "下",
+    "接着"
    ],
    "reading": "xià yí ge",
    "romanization": "xià yí ge",
    "study_tier": "cedo",
    "study_priority": 993,
-   "description": "紧接着这个之后的。",
+   "description": "紧接着这个之后的：“下一站”。也指下次：“下次见”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "紧接着这个之后的。"
+    "zh": "紧接着这个之后的：“下一站”。也指下次：“下次见”。"
    },
    "antonyms": []
   },
@@ -6617,17 +6711,18 @@
    "vcu14_status": "provisional-editorial",
    "text": "每个",
    "alternatives": [
-    "各"
+    "各",
+    "每"
    ],
    "reading": "měi ge",
    "romanization": "měi ge",
    "study_tier": "cedo",
    "study_priority": 994,
-   "description": "每一个，逐个来看。",
+   "description": "每一个，逐个来看：“每个人”。也表示各自：“各有不同”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "nativeExplain": {
-    "zh": "每一个，逐个来看。"
+    "zh": "每一个，逐个来看：“每个人”。也表示各自：“各有不同”。"
    },
    "antonyms": []
   },
@@ -6642,7 +6737,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "先生",
-   "alternatives": [],
+   "alternatives": [
+    "先生"
+   ],
    "reading": "xiānsheng",
    "romanization": "xiānsheng",
    "classifications": [
@@ -6656,10 +6753,10 @@
    "study_tier": "cedo",
    "study_priority": 995,
    "user_hint": "",
-   "description": "放在男士的姓后面的称呼（如：王先生）。",
+   "description": "放在男士姓后面的称呼：“王先生”。也指丈夫或老师。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "放在男士的姓后面的称呼（如：王先生）。"
+    "zh": "放在男士姓后面的称呼：“王先生”。也指丈夫或老师。"
    },
    "antonyms": []
   },
@@ -87953,7 +88050,9 @@
    "kind": "word",
    "description_en": "To move through water using arms and legs.",
    "text": "游泳",
-   "alternatives": [],
+   "alternatives": [
+    "泳"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "yóuyǒng",
@@ -87962,10 +88061,10 @@
    "study_priority": 705,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "用手臂和腿在水中前进。",
+   "description": "用手脚在水中前进：“去游泳”。也指在水里自由活动。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用手臂和腿在水中前进。"
+    "zh": "用手脚在水中前进：“去游泳”。也指在水里自由活动。"
    },
    "level": "A1",
    "antonyms": []
@@ -89760,7 +89859,10 @@
    "kind": "word",
    "description_en": "Having a good flavor.",
    "text": "好吃",
-   "alternatives": [],
+   "alternatives": [
+    "美味",
+    "可口"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "hǎochī",
@@ -89769,10 +89871,10 @@
    "study_priority": 756,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "味道好。",
+   "description": "味道好，让人想吃：“这个菜很好吃”。多用于食物，饮料常说“好喝”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "味道好。"
+    "zh": "味道好，让人想吃：“这个菜很好吃”。多用于食物，饮料常说“好喝”。"
    },
    "level": "A2",
    "antonyms": []
@@ -90122,7 +90224,9 @@
    "kind": "word",
    "description_en": "To notice something with the nose.",
    "text": "闻",
-   "alternatives": [],
+   "alternatives": [
+    "嗅"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "wén",
@@ -90131,10 +90235,10 @@
    "study_priority": 766,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "用鼻子察觉气味。",
+   "description": "用鼻子察觉气味：“闻花香”。也指用鼻子凑近去嗅。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用鼻子察觉气味。"
+    "zh": "用鼻子察觉气味：“闻花香”。也指用鼻子凑近去嗅。"
    },
    "level": "A2",
    "antonyms": []
@@ -90393,7 +90497,9 @@
    "kind": "expression",
    "description_en": "To play football (soccer).",
    "text": "踢足球",
-   "alternatives": [],
+   "alternatives": [
+    "玩足球"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "tī zúqiú",
@@ -90402,10 +90508,10 @@
    "study_priority": 769,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "参加用脚踢球、把球踢进球门的运动。",
+   "description": "用脚踢球，把球踢进球门的运动：“周末踢足球”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "参加用脚踢球、把球踢进球门的运动。"
+    "zh": "用脚踢球，把球踢进球门的运动：“周末踢足球”。"
    },
    "level": "A2",
    "antonyms": []
@@ -93113,7 +93219,10 @@
    "kind": "word",
    "description_en": "To go up something using hands and feet.",
    "text": "爬",
-   "alternatives": [],
+   "alternatives": [
+    "攀登",
+    "攀爬"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "pá",
@@ -93122,10 +93231,10 @@
    "study_priority": 842,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "手脚并用向上攀登。",
+   "description": "手脚并用向上攀登：“爬山”“爬树”。也指缓慢向前移动，如婴儿“爬”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "手脚并用向上攀登。"
+    "zh": "手脚并用向上攀登：“爬山”“爬树”。也指缓慢向前移动，如婴儿“爬”。"
    },
    "level": "A2",
    "antonyms": []
@@ -93308,7 +93417,10 @@
    "kind": "word",
    "description_en": "To cook in an oven.",
    "text": "烤",
-   "alternatives": [],
+   "alternatives": [
+    "烘烤",
+    "烘焙"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "kǎo",
@@ -93317,10 +93429,10 @@
    "study_priority": 843,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "在烤箱里烹制。",
+   "description": "在烤箱里加热烹制：“烤蛋糕”“烤面包”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "在烤箱里烹制。"
+    "zh": "在烤箱里加热烹制：“烤蛋糕”“烤面包”。"
    },
    "level": "A2",
    "antonyms": []
@@ -103982,7 +104094,10 @@
    "kind": "word",
    "description_en": "Showing courage.",
    "text": "勇敢",
-   "alternatives": [],
+   "alternatives": [
+    "英勇",
+    "有胆量"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "yǒnggǎn",
@@ -103991,10 +104106,10 @@
    "study_priority": 900,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "表现出勇气的。",
+   "description": "不怕危险，敢于面对困难：“勇敢的人”。也可用于行为和决定。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表现出勇气的。"
+    "zh": "不怕危险，敢于面对困难：“勇敢的人”。也可用于行为和决定。"
    },
    "level": "C1",
    "antonyms": [
@@ -104188,7 +104303,10 @@
    "kind": "word",
    "description_en": "Not wanting to work.",
    "text": "懒惰",
-   "alternatives": [],
+   "alternatives": [
+    "懒",
+    "懒散"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "lǎnduò",
@@ -104197,10 +104315,10 @@
    "study_priority": 901,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "不想干活的。",
+   "description": "不想工作或动手：“懒惰的人”。口语也常说“懒”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "不想干活的。"
+    "zh": "不想工作或动手：“懒惰的人”。口语也常说“懒”。"
    },
    "level": "C1",
    "antonyms": [
@@ -104338,7 +104456,10 @@
    "kind": "word",
    "description_en": "The speaker referring to themselves (subject).",
    "text": "我",
-   "alternatives": [],
+   "alternatives": [
+    "咱",
+    "本人"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "wǒ",
@@ -104347,10 +104468,10 @@
    "study_priority": 902,
    "part_of_speech": "pron",
    "user_hint": "",
-   "description": "说话人指称自己（作主语）。",
+   "description": "说话人指称自己，作主语：“我是学生”。作宾语时也用“我”：“请叫我”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "说话人指称自己（作主语）。"
+    "zh": "说话人指称自己，作主语：“我是学生”。作宾语时也用“我”：“请叫我”。"
    },
    "level": "B1",
    "antonyms": []
@@ -108045,7 +108166,8 @@
    "description_en": "To stick things together with glue.",
    "text": "粘",
    "alternatives": [
-    "贴"
+    "贴",
+    "黏"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -108055,10 +108177,10 @@
    "study_priority": 905,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "用胶把东西粘在一起。",
+   "description": "用胶把东西粘在一起：“粘纸”。作形容词时指黏的东西。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用胶把东西粘在一起。"
+    "zh": "用胶把东西粘在一起：“粘纸”。作形容词时指黏的东西。"
    },
    "level": "B1",
    "antonyms": []
@@ -108071,7 +108193,8 @@
    "description_en": "To put something away in its place.",
    "text": "收起来",
    "alternatives": [
-    "收好"
+    "收好",
+    "放好"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -108081,10 +108204,10 @@
    "study_priority": 906,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "把东西放回原处。",
+   "description": "把东西放回原处或收好：“把玩具收起来”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把东西放回原处。"
+    "zh": "把东西放回原处或收好：“把玩具收起来”。"
    },
    "level": "A2",
    "antonyms": []
@@ -108146,7 +108269,10 @@
    "kind": "word",
    "description_en": "Nervous with other people.",
    "text": "害羞",
-   "alternatives": [],
+   "alternatives": [
+    "腼腆",
+    "怕生"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "hàixiū",
@@ -108155,10 +108281,10 @@
    "study_priority": 909,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "在别人面前拘谨紧张。",
+   "description": "在别人面前拘谨不自然：“害羞的孩子”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "在别人面前拘谨紧张。"
+    "zh": "在别人面前拘谨不自然：“害羞的孩子”。"
    },
    "level": "B1",
    "antonyms": []
@@ -108242,7 +108368,10 @@
    "kind": "word",
    "description_en": "Having an even surface.",
    "text": "光滑",
-   "alternatives": [],
+   "alternatives": [
+    "平滑",
+    "平整"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "guānghuá",
@@ -108251,10 +108380,10 @@
    "study_priority": 913,
    "part_of_speech": "adj",
    "user_hint": "",
-   "description": "表面平整的。",
+   "description": "表面平整，没有凸起：“光滑的桌面”。也形容事情顺利：“很顺利”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "表面平整的。"
+    "zh": "表面平整，没有凸起：“光滑的桌面”。也形容事情顺利：“很顺利”。"
    },
    "level": "B1",
    "antonyms": [
@@ -108268,7 +108397,10 @@
    "kind": "word",
    "description_en": "To put your arms around someone.",
    "text": "拥抱",
-   "alternatives": [],
+   "alternatives": [
+    "抱",
+    "搂"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "yōngbào",
@@ -108277,10 +108409,10 @@
    "study_priority": 914,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "用手臂搂住某人。",
+   "description": "用手臂搂住某人：“拥抱朋友”。也表示接受某事物：“拥抱新生活”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "用手臂搂住某人。"
+    "zh": "用手臂搂住某人：“拥抱朋友”。也表示接受某事物：“拥抱新生活”。"
    },
    "level": "B1",
    "antonyms": []
@@ -108292,7 +108424,10 @@
    "kind": "word",
    "description_en": "To have images in your mind while sleeping.",
    "text": "做梦",
-   "alternatives": [],
+   "alternatives": [
+    "梦见",
+    "梦想"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "zuòmèng",
@@ -108301,10 +108436,10 @@
    "study_priority": 915,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "睡觉时脑中出现影像。",
+   "description": "睡觉时脑中出现影像：“做梦”。也指怀抱愿望：“梦想”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "睡觉时脑中出现影像。"
+    "zh": "睡觉时脑中出现影像：“做梦”。也指怀抱愿望：“梦想”。"
    },
    "level": "B1",
    "antonyms": []
@@ -108316,7 +108451,10 @@
    "kind": "word",
    "description_en": "To take air into and out of the lungs.",
    "text": "呼吸",
-   "alternatives": [],
+   "alternatives": [
+    "吸气",
+    "喘气"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "reading": "hūxī",
@@ -108325,10 +108463,10 @@
    "study_priority": 916,
    "part_of_speech": "v",
    "user_hint": "",
-   "description": "把空气吸入和呼出肺部。",
+   "description": "把空气吸入和呼出肺部：“深呼吸”。也指生存：“呼吸新鲜空气”。",
    "novrev_status": "reviewed",
    "nativeExplain": {
-    "zh": "把空气吸入和呼出肺部。"
+    "zh": "把空气吸入和呼出肺部：“深呼吸”。也指生存：“呼吸新鲜空气”。"
    },
    "level": "B1",
    "antonyms": []
