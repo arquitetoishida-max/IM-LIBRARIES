@@ -78254,27 +78254,6 @@
    "antonyms": []
   },
   {
-   "id": "zh:en:000002914",
-   "english_id": "en:000002914",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A thing that you can see or touch.",
-   "text": "物体",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "reading": "wùtǐ",
-   "romanization": "wùtǐ",
-   "study_tier": "pendente",
-   "study_priority": 2993,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "能看到或摸到的东西。",
-   "novrev_status": "reviewed",
-   "level": "C1",
-   "antonyms": []
-  },
-  {
    "id": "zh:en:000002955",
    "english_id": "en:000002955",
    "english_sense_id": null,
@@ -78529,26 +78508,6 @@
    "description": "能把某件事做得好（如“擅长数学”）。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "zh:en:000003201",
-   "english_id": "en:000003201",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "The time when it is someone's chance to do something: \"It's your turn\".",
-   "text": "轮到",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "reading": "lúndào",
-   "romanization": "lúndào",
-   "study_tier": "inicial",
-   "study_priority": 677,
-   "user_hint": "",
-   "description": "轮到某人做某事的时机：“轮到你了”。",
-   "novrev_status": "reviewed",
-   "level": "A2",
    "antonyms": []
   },
   {
@@ -106184,6 +106143,172 @@
    "alternatives": [],
    "reading": "búguò",
    "romanization": "búguò"
+  },
+  {
+   "id": "zh:en:000004518",
+   "english_id": "en:000004518",
+   "kind": "word",
+   "description_en": "To make a machine, light or device start working: \"turn on the TV\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "打开",
+   "alternatives": [
+    "开"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "让电器、灯或机器开始工作，比如“打开电视”“开灯”。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "dǎkāi",
+   "romanization": "dǎkāi",
+   "vcu14_rank": 1070,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "zh:en:000004519",
+   "english_id": "en:000004519",
+   "kind": "word",
+   "description_en": "To make a machine, light or device stop working: \"turn off the light\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "关",
+   "alternatives": [
+    "关掉"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "让电器、灯或机器停止工作，比如“关灯”“关电视”。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "guān",
+   "romanization": "guān",
+   "vcu14_rank": 1071,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "zh:en:000004520",
+   "english_id": "en:000004520",
+   "kind": "word",
+   "description_en": "The time in the early morning when the sky starts to get light.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "黎明",
+   "alternatives": [
+    "天亮"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "早上天刚开始变亮的时候。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "límíng",
+   "romanization": "límíng",
+   "vcu14_rank": 1072,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "zh:en:000004521",
+   "english_id": "en:000004521",
+   "kind": "word",
+   "description_en": "The hours after midnight and before the sun comes up.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "凌晨",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "半夜以后、天亮以前的时间。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "língchén",
+   "romanization": "língchén",
+   "vcu14_rank": 1073,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "zh:en:000004522",
+   "english_id": "en:000004522",
+   "kind": "word",
+   "description_en": "To join two things together, or to link a device to a network: \"connect to the Wi-Fi\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "连接",
+   "alternatives": [
+    "连"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "把两样东西连在一起，或者让设备上网，比如“连接Wi-Fi”。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "liánjiē",
+   "romanization": "liánjiē",
+   "vcu14_rank": 1074,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "zh:en:000004523",
+   "english_id": "en:000004523",
+   "kind": "word",
+   "description_en": "The spirit of a dead person that some people believe can be seen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "鬼",
+   "alternatives": [
+    "幽灵"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "人死后的灵魂，有人相信能看到。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "guǐ",
+   "romanization": "guǐ",
+   "vcu14_rank": 1075,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
   }
  ],
  "third_party": [

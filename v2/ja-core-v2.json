@@ -127465,30 +127465,6 @@
    "antonyms": []
   },
   {
-   "id": "ja:en:000003201",
-   "english_id": "en:000003201",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "The time when it is someone's chance to do something: \"It's your turn\".",
-   "level": "A2",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "alternatives": [
-    "順番"
-   ],
-   "allocation": "ALLOC-001",
-   "text": "番",
-   "reading": "ばん",
-   "part_of_speech": "n",
-   "romanization": "ban",
-   "study_tier": "inicial",
-   "study_priority": 677,
-   "user_hint": "",
-   "description": "だれかが順番にする、番。「あなたの番だ」のように使い、ゲームや待ち時間にもよく使う。",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "ja:en:000003202",
    "english_id": "en:000003202",
    "english_sense_id": null,
@@ -130299,27 +130275,6 @@
    "user_hint": "",
    "description": "相手がそうすることを許す。",
    "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "ja:en:000002914",
-   "english_id": "en:000002914",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A thing that you can see or touch.",
-   "text": "物",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "reading": "もの",
-   "romanization": "mono",
-   "study_tier": "pendente",
-   "study_priority": 3025,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "目で見たり手でふれたりできる物。",
-   "novrev_status": "reviewed",
-   "level": "C1",
    "antonyms": []
   },
   {
@@ -163810,6 +163765,170 @@
    "alternatives": [],
    "reading": "ただ",
    "romanization": "tada"
+  },
+  {
+   "id": "ja:en:000004518",
+   "english_id": "en:000004518",
+   "kind": "word",
+   "description_en": "To make a machine, light or device start working: \"turn on the TV\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "つける",
+   "alternatives": [
+    "点ける"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "電気や機械を動くようにする。「テレビをつける」「電気をつける」。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "つける",
+   "romanization": "tsukeru",
+   "vcu14_rank": 1070,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "ja:en:000004519",
+   "english_id": "en:000004519",
+   "kind": "word",
+   "description_en": "To make a machine, light or device stop working: \"turn off the light\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "消す",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "電気や機械を止める。「電気を消す」「テレビを消す」。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "けす",
+   "romanization": "kesu",
+   "vcu14_rank": 1071,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "ja:en:000004520",
+   "english_id": "en:000004520",
+   "kind": "word",
+   "description_en": "The time in the early morning when the sky starts to get light.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "夜明け",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "朝、空が明るくなり始めるころ。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "よあけ",
+   "romanization": "yoake",
+   "vcu14_rank": 1072,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "ja:en:000004521",
+   "english_id": "en:000004521",
+   "kind": "word",
+   "description_en": "The hours after midnight and before the sun comes up.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "深夜",
+   "alternatives": [
+    "夜中"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "真夜中から朝になる前までの時間。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "しんや",
+   "romanization": "shin'ya",
+   "vcu14_rank": 1073,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "ja:en:000004522",
+   "english_id": "en:000004522",
+   "kind": "word",
+   "description_en": "To join two things together, or to link a device to a network: \"connect to the Wi-Fi\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "つなぐ",
+   "alternatives": [
+    "接続する"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "二つのものを結ぶ。機械をネットにつなぐこと。「Wi-Fiにつなぐ」。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "つなぐ",
+   "romanization": "tsunagu",
+   "vcu14_rank": 1074,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "ja:en:000004523",
+   "english_id": "en:000004523",
+   "kind": "word",
+   "description_en": "The spirit of a dead person that some people believe can be seen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "幽霊",
+   "alternatives": [
+    "お化け"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "死んだ人のたましいで、見えると信じられているもの。",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "reading": "ゆうれい",
+   "romanization": "yuurei",
+   "vcu14_rank": 1075,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
   }
  ]
 }

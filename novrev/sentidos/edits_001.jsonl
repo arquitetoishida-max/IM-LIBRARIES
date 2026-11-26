@@ -1,0 +1,28 @@
+# pt-BR, palavras de conteúdo 1–130 (VCU14) + IDs que faltavam
+{"op":"alt-","l":"pt-BR","id":179,"v":["sítio"]}
+{"op":"alt-","l":"pt-BR","id":192,"v":["amplo"]}
+{"op":"alt-","l":"pt-BR","id":452,"v":["amanhecer"]}
+{"op":"alt-","l":"pt-BR","id":462,"v":["rubro"]}
+{"op":"alt+","l":"pt-BR","id":388,"v":["peça"]}
+{"op":"alt-","l":"pt-BR","id":388,"v":["sala","quarto"]}
+{"op":"alt+","l":"pt-BR","id":4345,"v":["sala"]}
+{"op":"alt+","l":"pt-BR","id":504,"v":["segundo","conforme"]}
+{"op":"alt+","l":"pt-BR","id":1926,"v":["quarto","quarta parte"]}
+{"op":"alt+","l":"pt-BR","id":277,"v":["telefonar"]}
+{"op":"desc","l":"pt-BR","id":277,"v":"Telefonar para alguém: “ligar para casa”. Também chamar alguém pelo nome ou pedir que venha."}
+{"op":"desc","l":"pt-BR","id":211,"v":"Grande quantidade: “muito dinheiro”, “um monte de coisas”."}
+{"op":"drop","l":"pt-BR","id":2914}
+{"op":"drop","l":"en","id":2914}
+{"op":"drop","l":"ja","id":2914}
+{"op":"drop","l":"zh","id":2914}
+{"op":"drop","l":"pt-BR","id":3201}
+{"op":"drop","l":"en","id":3201}
+{"op":"drop","l":"ja","id":3201}
+{"op":"drop","l":"zh","id":3201}
+{"op":"new","vcu14":["home"],"pos":"v","level":"A1","en":{"text":"turn on","alt":["switch on"],"desc":"To make a machine, light or device start working: \"turn on the TV\"."},"pt-BR":{"text":"ligar","alt":["acender"],"desc":"Fazer um aparelho, uma luz ou uma máquina começar a funcionar: “ligar a TV”, “acender a luz”."},"ja":{"text":"つける","alt":["点ける"],"reading":"つける","desc":"電気や機械を動くようにする。「テレビをつける」「電気をつける」。"},"zh":{"text":"打开","alt":["开"],"reading":"dǎkāi","desc":"让电器、灯或机器开始工作，比如“打开电视”“开灯”。"}}
+{"op":"new","vcu14":["home"],"pos":"v","level":"A1","en":{"text":"turn off","alt":["switch off"],"desc":"To make a machine, light or device stop working: \"turn off the light\"."},"pt-BR":{"text":"desligar","alt":["apagar"],"desc":"Fazer um aparelho, uma luz ou uma máquina parar de funcionar: “desligar o celular”, “apagar a luz”."},"ja":{"text":"消す","reading":"けす","desc":"電気や機械を止める。「電気を消す」「テレビを消す」。"},"zh":{"text":"关","alt":["关掉"],"reading":"guān","desc":"让电器、灯或机器停止工作，比如“关灯”“关电视”。"}}
+{"op":"new","vcu14":["weather_emotion_time"],"pos":"n","level":"A2","en":{"text":"dawn","alt":["sunrise"],"desc":"The time in the early morning when the sky starts to get light."},"pt-BR":{"text":"amanhecer","alt":["nascer do sol","alvorada"],"desc":"O começo do dia, quando o céu começa a clarear."},"ja":{"text":"夜明け","reading":"よあけ","desc":"朝、空が明るくなり始めるころ。"},"zh":{"text":"黎明","alt":["天亮"],"reading":"límíng","desc":"早上天刚开始变亮的时候。"}}
+{"op":"new","vcu14":["weather_emotion_time"],"pos":"n","level":"A2","en":{"text":"early morning","desc":"The hours after midnight and before the sun comes up."},"pt-BR":{"text":"madrugada","desc":"As horas depois da meia-noite e antes de o sol nascer: “acordei de madrugada”."},"ja":{"text":"深夜","alt":["夜中"],"reading":"しんや","desc":"真夜中から朝になる前までの時間。"},"zh":{"text":"凌晨","reading":"língchén","desc":"半夜以后、天亮以前的时间。"}}
+{"op":"new","vcu14":["technology_common"],"pos":"v","level":"A2","en":{"text":"connect","desc":"To join two things together, or to link a device to a network: \"connect to the Wi-Fi\"."},"pt-BR":{"text":"conectar","alt":["ligar"],"desc":"Unir duas coisas ou ligar um aparelho a uma rede: “conectar no Wi-Fi”, “ligar o cabo”."},"ja":{"text":"つなぐ","alt":["接続する"],"reading":"つなぐ","desc":"二つのものを結ぶ。機械をネットにつなぐこと。「Wi-Fiにつなぐ」。"},"zh":{"text":"连接","alt":["连"],"reading":"liánjiē","desc":"把两样东西连在一起，或者让设备上网，比如“连接Wi-Fi”。"}}
+{"op":"new","vcu14":["play_nature"],"pos":"n","level":"A2","en":{"text":"ghost","desc":"The spirit of a dead person that some people believe can be seen."},"pt-BR":{"text":"fantasma","alt":["assombração"],"desc":"Espírito de alguém que morreu e que, segundo se acredita, pode aparecer às pessoas."},"ja":{"text":"幽霊","alt":["お化け"],"reading":"ゆうれい","desc":"死んだ人のたましいで、見えると信じられているもの。"},"zh":{"text":"鬼","alt":["幽灵"],"reading":"guǐ","desc":"人死后的灵魂，有人相信能看到。"}}
+{"op":"alt-","l":"en","id":452,"v":["dawn","early day"]}

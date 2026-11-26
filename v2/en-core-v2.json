@@ -12312,10 +12312,7 @@
    "antonyms": [
     "en:000001417"
    ],
-   "alternatives": [
-    "early day",
-    "dawn"
-   ]
+   "alternatives": []
   },
   {
    "id": "en:000000453",
@@ -65347,25 +65344,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000003201",
-   "english_id": "en:000003201",
-   "kind": "word",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "sense_of": "en:000000466",
-   "allocation": "ALLOC-001",
-   "text": "turn",
-   "part_of_speech": "n",
-   "level": "A2",
-   "description_en": "The time when it is someone's chance to do something: \"It's your turn\".",
-   "study_tier": "inicial",
-   "study_priority": 673,
-   "user_hint": "",
-   "description": "The time when it is someone's chance to do something: \"It's your turn\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000003202",
    "english_id": "en:000003202",
    "kind": "word",
@@ -67836,25 +67814,6 @@
    "user_hint": "",
    "description": "To allow someone to do something.",
    "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "en:000002914",
-   "english_id": "en:000002914",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A thing that you can see or touch.",
-   "text": "object",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "pendente",
-   "study_priority": 3036,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "A thing that you can see or touch.",
-   "novrev_status": "reviewed",
-   "level": "C1",
    "antonyms": []
   },
   {
@@ -94879,6 +94838,141 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
+  },
+  {
+   "id": "en:000004518",
+   "english_id": "en:000004518",
+   "kind": "word",
+   "description_en": "To make a machine, light or device start working: \"turn on the TV\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "turn on",
+   "alternatives": [
+    "switch on"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "To make a machine, light or device start working: \"turn on the TV\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1070,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "en:000004519",
+   "english_id": "en:000004519",
+   "kind": "word",
+   "description_en": "To make a machine, light or device stop working: \"turn off the light\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "turn off",
+   "alternatives": [
+    "switch off"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "To make a machine, light or device stop working: \"turn off the light\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1071,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "en:000004520",
+   "english_id": "en:000004520",
+   "kind": "word",
+   "description_en": "The time in the early morning when the sky starts to get light.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "dawn",
+   "alternatives": [
+    "sunrise"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "The time in the early morning when the sky starts to get light.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1072,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "en:000004521",
+   "english_id": "en:000004521",
+   "kind": "word",
+   "description_en": "The hours after midnight and before the sun comes up.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "early morning",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "The hours after midnight and before the sun comes up.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1073,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "en:000004522",
+   "english_id": "en:000004522",
+   "kind": "word",
+   "description_en": "To join two things together, or to link a device to a network: \"connect to the Wi-Fi\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "connect",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "To join two things together, or to link a device to a network: \"connect to the Wi-Fi\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1074,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "en:000004523",
+   "english_id": "en:000004523",
+   "kind": "word",
+   "description_en": "The spirit of a dead person that some people believe can be seen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "ghost",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "The spirit of a dead person that some people believe can be seen.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1075,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
   }
  ]
 }

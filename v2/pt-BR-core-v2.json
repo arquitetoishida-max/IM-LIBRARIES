@@ -4798,8 +4798,7 @@
    "translation_confidence": "editorial-reviewed",
    "text": "lugar",
    "alternatives": [
-    "local",
-    "sítio"
+    "local"
    ],
    "study_tier": "inicial",
    "study_priority": 68,
@@ -5134,7 +5133,6 @@
    "translation_confidence": "editorial-reviewed",
    "text": "grande",
    "alternatives": [
-    "amplo",
     "enorme"
    ],
    "study_tier": "inicial",
@@ -5612,7 +5610,7 @@
    ],
    "study_priority": 3072,
    "user_hint": "",
-   "description": "\"A lot\" = uma grande quantidade.",
+   "description": "Grande quantidade: “muito dinheiro”, “um monte de coisas”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -6982,10 +6980,11 @@
    "vcu14_status": "provisional-editorial",
    "text": "ligar",
    "alternatives": [
-    "chamar"
+    "chamar",
+    "telefonar"
    ],
    "study_priority": 3127,
-   "description": "Telefonar para alguém, como em “ligar para casa”. Também pode indicar pôr um aparelho em funcionamento em outro contexto.",
+   "description": "Telefonar para alguém: “ligar para casa”. Também chamar alguém pelo nome ou pedir que venha.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -9541,8 +9540,7 @@
    "vcu14_status": "provisional-editorial",
    "text": "cômodo",
    "alternatives": [
-    "sala",
-    "quarto"
+    "peça"
    ],
    "study_tier": "inicial",
    "study_priority": 104,
@@ -10856,9 +10854,7 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "manhã",
-   "alternatives": [
-    "amanhecer"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 128,
    "description": "Parte inicial do dia, do amanhecer até o meio-dia: “bom dia, de manhã”.",
@@ -11106,9 +11102,7 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "vermelho",
-   "alternatives": [
-    "rubro"
-   ],
+   "alternatives": [],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 132,
    "user_hint": "",
@@ -12026,7 +12020,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "de acordo com",
    "alternatives": [
-    "segundo"
+    "segundo",
+    "conforme"
    ],
    "study_tier": "cedo",
    "study_priority": 1033,
@@ -38689,7 +38684,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "um quarto",
    "alternatives": [
-    "quarta parte"
+    "quarta parte",
+    "quarto"
    ],
    "study_tier": "cedo",
    "study_priority": 1509,
@@ -61747,26 +61743,6 @@
    "antonyms": []
   },
   {
-   "id": "pt-BR:en:000002914",
-   "english_id": "en:000002914",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A thing that you can see or touch.",
-   "text": "objeto",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "pendente",
-   "study_priority": 3032,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "Coisa que se pode ver ou tocar.",
-   "novrev_status": "reviewed",
-   "level": "C1",
-   "antonyms": [],
-   "articles": "o,os"
-  },
-  {
    "id": "pt-BR:en:000002955",
    "english_id": "en:000002955",
    "english_sense_id": null,
@@ -61996,24 +61972,6 @@
    "description": "Capaz de fazer algo bem: \"bom em matemática\".",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "pt-BR:en:000003201",
-   "english_id": "en:000003201",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "The time when it is someone's chance to do something: \"It's your turn\".",
-   "text": "vez",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "inicial",
-   "study_priority": 673,
-   "user_hint": "",
-   "description": "O momento em que é a vez de alguém fazer algo: \"É a sua vez\".",
-   "novrev_status": "reviewed",
-   "level": "A2",
    "antonyms": []
   },
   {
@@ -84574,7 +84532,9 @@
    "user_hint": "",
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "sala"
+   ],
    "articles": "a,as"
   },
   {
@@ -87749,6 +87709,161 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": []
+  },
+  {
+   "id": "pt-BR:en:000004518",
+   "english_id": "en:000004518",
+   "kind": "word",
+   "description_en": "To make a machine, light or device start working: \"turn on the TV\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "ligar",
+   "alternatives": [
+    "acender"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "Fazer um aparelho, uma luz ou uma máquina começar a funcionar: “ligar a TV”, “acender a luz”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1070,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004519",
+   "english_id": "en:000004519",
+   "kind": "word",
+   "description_en": "To make a machine, light or device stop working: \"turn off the light\".",
+   "level": "A1",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "desligar",
+   "alternatives": [
+    "apagar"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "Fazer um aparelho, uma luz ou uma máquina parar de funcionar: “desligar o celular”, “apagar a luz”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1071,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004520",
+   "english_id": "en:000004520",
+   "kind": "word",
+   "description_en": "The time in the early morning when the sky starts to get light.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "amanhecer",
+   "alternatives": [
+    "nascer do sol",
+    "alvorada"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "O começo do dia, quando o céu começa a clarear.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1072,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004521",
+   "english_id": "en:000004521",
+   "kind": "word",
+   "description_en": "The hours after midnight and before the sun comes up.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "madrugada",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "As horas depois da meia-noite e antes de o sol nascer: “acordei de madrugada”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1073,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004522",
+   "english_id": "en:000004522",
+   "kind": "word",
+   "description_en": "To join two things together, or to link a device to a network: \"connect to the Wi-Fi\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "conectar",
+   "alternatives": [
+    "ligar"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "Unir duas coisas ou ligar um aparelho a uma rede: “conectar no Wi-Fi”, “ligar o cabo”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1074,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004523",
+   "english_id": "en:000004523",
+   "kind": "word",
+   "description_en": "The spirit of a dead person that some people believe can be seen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "fantasma",
+   "alternatives": [
+    "assombração"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 9000,
+   "user_hint": "",
+   "description": "Espírito de alguém que morreu e que, segundo se acredita, pode aparecer às pessoas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1075,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
   }
  ]
 }
