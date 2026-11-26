@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.5.6",
+ "version": "2.6.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -45,7 +45,7 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
-  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -2940,36 +2940,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000000110",
-   "english_id": "en:000000110",
-   "text": "did",
-   "kind": "form",
-   "description_en": "Past tense of “do”. In this lexical use, it refers to an action someone performed.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "do",
-   "vcu14_rank": 252,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000048",
-   "lexical_type": "form",
-   "grammatical_key": "PAST",
-   "study_tier": "herdado",
-   "key_pending": false,
-   "study_priority": 3194,
-   "description": "Past tense of “do”. In this lexical use, it refers to an action someone performed.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000048",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000111",
@@ -41615,7 +41585,7 @@
   {
    "id": "en:000002142",
    "english_id": "en:000002142",
-   "text": "shoes",
+   "text": "shoe",
    "kind": "word",
    "description_en": "More than one shoe, including a pair worn on the feet.",
    "level": "B2",
@@ -41639,7 +41609,7 @@
    "key_pending": true,
    "study_tier": "herdado",
    "study_priority": 3304,
-   "description": "More than one shoe, including a pair worn on the feet.",
+   "description": "Something you wear on your foot: \"a pair of shoes\".",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -55368,27 +55338,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000003024",
-   "english_id": "en:000003024",
-   "text": "brb",
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"be right back\".",
-   "level": "B2",
-   "region_tags": [
-    "internet"
-   ],
-   "source_status": "editorial-reviewed",
-   "lemma": "BRB",
-   "part_of_speech": "abbr",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3370,
-   "user_hint": "",
-   "description": "Chat abbreviation: \"be right back\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000003047",
    "english_id": "en:000003047",
    "text": "break a leg",
@@ -55512,32 +55461,6 @@
    "study_priority": 3383,
    "user_hint": "",
    "description": "Close friends; \"family\" (slang).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "en:000003022",
-   "english_id": "en:000003022",
-   "text": "finna",
-   "kind": "expression",
-   "description_en": "Slang: \"going to\" (about to do).",
-   "level": "B2",
-   "region_tags": [
-    "US"
-   ],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "exp",
-   "lexical_type": "informal_variant",
-   "features": {
-    "variant_of": "be going to"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "temático (Slang)",
-   "study_priority": 3369,
-   "user_hint": "",
-   "description": "Slang: \"going to\" (about to do).",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -55692,27 +55615,6 @@
    "core_status": "search_only"
   },
   {
-   "id": "en:000003029",
-   "english_id": "en:000003029",
-   "text": "high-key",
-   "kind": "expression",
-   "description_en": "Openly; very much (opposite of low-key).",
-   "level": "B2",
-   "region_tags": [
-    "US",
-    "internet"
-   ],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "exp",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3375,
-   "user_hint": "",
-   "description": "Openly; very much (opposite of low-key).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000003045",
    "english_id": "en:000003045",
    "text": "hit the road",
@@ -55732,26 +55634,6 @@
    "description": "To leave on a trip.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000003025",
-   "english_id": "en:000003025",
-   "text": "idk",
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"I don't know\".",
-   "level": "B2",
-   "region_tags": [
-    "internet"
-   ],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "abbr",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3371,
-   "user_hint": "",
-   "description": "Chat abbreviation: \"I don't know\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000003033",
@@ -61524,35 +61406,6 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
-  },
-  {
-   "id": "en:000003239",
-   "english_id": "en:000003239",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A covering for the foot.",
-   "text": "shoe",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "inicial",
-   "study_priority": 703,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "A covering for the foot.",
-   "novrev_status": "reviewed",
-   "level": "A1",
-   "antonyms": [],
-   "forms": [
-    {
-     "form_id": "en:000003239:f:PL:shoes",
-     "lemma_id": "en:000003239",
-     "grammatical_key": "PL",
-     "text": "shoes",
-     "study_tier": "standard",
-     "description_en": "The plural of shoe."
-    }
-   ]
   },
   {
    "id": "en:000003240",

@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.5.6",
+ "version": "2.6.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -45,7 +45,7 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522) ; pt-BR: campo `articles` (artigo singular,plural) em 2.073 substantivos (LEXICON #90)",
-  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
  ],
  "entries": [
   {
@@ -2219,7 +2219,7 @@
    ],
    "study_tier": "praticar com lema",
    "study_priority": 3960,
-   "description": "Passado de \"poder\"; também possibilidade educada (\"você poderia...?\").",
+   "description": "Passado de “poder”: “eu podia correr”. Também pedido educado: “você poderia me ajudar?”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -2722,33 +2722,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "pt-BR:en:000000110",
-   "english_id": "en:000000110",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "Past tense of “do”. In this lexical use, it refers to an action someone performed.",
-   "level": "A1",
-   "part_of_speech": "v",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "vcu14_rank": 252,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "text": "fez",
-   "alternatives": [],
-   "study_tier": "herdado",
-   "study_priority": 3184,
-   "description": "Forma passada de “fazer”, usada com ele, ela ou você.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000048",
-   "inflection_key": "PAST"
   },
   {
    "id": "pt-BR:en:000000111",
@@ -3378,7 +3351,7 @@
    "study_tier": "herdado",
    "study_priority": 2387,
    "user_hint": "",
-   "description": "Melhor que todos os outros (superlativo de \"bom\").",
+   "description": "Melhor que todos os outros: “o melhor aluno da sala”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001225"
@@ -3908,7 +3881,7 @@
    "study_tier": "herdado",
    "study_priority": 2391,
    "user_hint": "",
-   "description": "De qualidade mais alta (comparativo de \"bom\").",
+   "description": "Mais bom, de qualidade mais alta: “este é melhor que aquele”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001346"
@@ -5257,7 +5230,7 @@
    ],
    "study_priority": 3079,
    "user_hint": "",
-   "description": "Permitir; \"let's\" = vamos (sugestão).",
+   "description": "Permitir que alguém faça algo: “deixa eu ver”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -7541,7 +7514,7 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1010,
-   "description": "Informação sobre fatos recentes: “boas notícias”. Também indica um telejornal.",
+   "description": "Informação sobre algo que aconteceu há pouco: “uma boa notícia”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -9118,7 +9091,7 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
-   "description": "Forma informal de “sim”: “aham, claro”. Usada entre amigos; em situações formais, usa-se “sim”.",
+   "description": "“Sim”, de modo informal: “aham, claro”. Usado entre amigos.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -13634,7 +13607,7 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2484,
    "user_hint": "",
-   "description": "Forma comparativa de \"high\" (alto).",
+   "description": "Mais alto que outro: “o prédio novo é mais alto”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000785"
@@ -16122,7 +16095,7 @@
    "study_tier": "herdado",
    "study_priority": 2510,
    "user_hint": "",
-   "description": "Forma comparativa de \"low\" (baixo).",
+   "description": "Mais baixo que outro: “a mesa é mais baixa que a cadeira”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000651"
@@ -17898,7 +17871,7 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 3220,
    "user_hint": "",
-   "description": "\"The ones\" = aquelas pessoas ou coisas.",
+   "description": "Indica pessoas ou coisas já citadas: “quero os vermelhos”.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -19454,7 +19427,7 @@
    "alternatives": [],
    "study_tier": "cedo",
    "study_priority": 1130,
-   "description": "Em uma pergunta com 'shall we', introduz uma sugestão de fazer algo juntos.",
+   "description": "Convite para fazer algo junto: “vamos?”, “vamos dançar?”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -23888,7 +23861,7 @@
    "study_tier": "herdado",
    "study_priority": 2580,
    "user_hint": "",
-   "description": "Forma superlativa de \"big\" (grande).",
+   "description": "Maior que todos os outros: “a maior casa da rua”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -24175,7 +24148,7 @@
    "study_tier": "herdado",
    "study_priority": 2582,
    "user_hint": "",
-   "description": "Forma superlativa irregular de \"bad\" (ruim).",
+   "description": "Pior que todos os outros: “o pior dia da semana”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000139"
@@ -24521,7 +24494,7 @@
    "study_tier": "herdado",
    "study_priority": 2584,
    "user_hint": "",
-   "description": "Forma comparativa de \"old\" (velho).",
+   "description": "Com mais idade que outro: “meu irmão mais velho”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -25019,7 +24992,7 @@
    "study_tier": "herdado",
    "study_priority": 2587,
    "user_hint": "",
-   "description": "\"Here is\": ao entregar algo a alguém.",
+   "description": "Dito ao entregar algo a alguém: “aqui está o seu café”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -25243,7 +25216,7 @@
    "study_tier": "herdado",
    "study_priority": 2589,
    "user_hint": "",
-   "description": "\"Be supposed to\" = dever; ser esperado que.",
+   "description": "Ser esperado ou combinado que alguém faça algo: “eu deveria estar lá às oito”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -25643,7 +25616,7 @@
    "study_tier": "herdado",
    "study_priority": 2594,
    "user_hint": "",
-   "description": "Forma comparativa de \"great\" (grande).",
+   "description": "Maior em tamanho ou importância que outro: “um problema maior”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -25684,7 +25657,7 @@
    "study_tier": "herdado",
    "study_priority": 2595,
    "user_hint": "",
-   "description": "Forma superlativa de \"large\" (grande).",
+   "description": "O de maior tamanho entre todos: “o maior país”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -26198,7 +26171,7 @@
    "study_tier": "herdado",
    "study_priority": 2597,
    "user_hint": "",
-   "description": "Forma comparativa irregular de \"bad\" (ruim).",
+   "description": "Mais ruim que outro: “hoje está pior que ontem”.",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000161"
@@ -27806,7 +27779,7 @@
    "study_tier": "cedo",
    "study_priority": 1323,
    "user_hint": "",
-   "description": "Emissora de TV ou conta do YouTube: “um canal de notícias”. Também indica meio de comunicação ou canal de água.",
+   "description": "Estação de TV ou conta de vídeos: “canal de notícias”. Também uma passagem de água.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "articles": "o,os"
@@ -30733,7 +30706,7 @@
    "study_tier": "herdado",
    "study_priority": 2617,
    "user_hint": "",
-   "description": "Forma comparativa de \"small\" (pequeno).",
+   "description": "Menos grande que outro: “uma caixa menor”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -31104,7 +31077,7 @@
    "study_tier": "herdado",
    "study_priority": 2619,
    "user_hint": "",
-   "description": "Forma superlativa de \"great\" (grande, ótimo).",
+   "description": "O mais importante ou admirado: “o maior jogador de todos”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -31313,7 +31286,7 @@
    "study_tier": "cedo",
    "study_priority": 1409,
    "user_hint": "",
-   "description": "Até: “espere até segunda”. Forma curta e informal de “until” em inglês.",
+   "description": "Até certo momento: “espere até segunda”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -32652,7 +32625,7 @@
    "study_tier": "herdado",
    "study_priority": 2624,
    "user_hint": "",
-   "description": "Forma comparativa de \"easy\" (fácil).",
+   "description": "Menos difícil que outro: “esta prova é mais fácil”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -33649,7 +33622,7 @@
    "study_tier": "herdado",
    "study_priority": 2626,
    "user_hint": "",
-   "description": "Forma comparativa de \"big\" (grande).",
+   "description": "Mais grande que outro: “uma casa maior”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -34183,7 +34156,7 @@
    "study_tier": "herdado",
    "study_priority": 2630,
    "user_hint": "",
-   "description": "Forma comparativa de \"close\" (perto).",
+   "description": "Mais perto que outro: “a escola fica mais perto”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -37328,7 +37301,7 @@
    "study_tier": "herdado",
    "study_priority": 2645,
    "user_hint": "",
-   "description": "Forma comparativa de \"young\" (jovem).",
+   "description": "Com menos idade que outro: “minha irmã mais nova”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -38501,11 +38474,11 @@
     "clothes_personal"
    ],
    "vcu14_status": "provisional-editorial",
-   "text": "sapatos",
+   "text": "sapato",
    "alternatives": [],
    "study_tier": "herdado",
    "study_priority": 3292,
-   "description": "Plural de sapato. Pode indicar um par ou vários sapatos.",
+   "description": "Calçado para os pés: “um par de sapatos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -40178,7 +40151,7 @@
    "study_tier": "herdado",
    "study_priority": 2667,
    "user_hint": "",
-   "description": "Forma comparativa de \"fast\" (rápido).",
+   "description": "Mais veloz que outro: “o trem é mais rápido”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -44824,7 +44797,7 @@
    "study_tier": "herdado",
    "study_priority": 2692,
    "user_hint": "",
-   "description": "Forma comparativa de \"hard\" (difícil).",
+   "description": "Mais complicado que outro: “a lição de hoje é mais difícil”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -47159,7 +47132,7 @@
    "study_tier": "herdado",
    "study_priority": 2709,
    "user_hint": "",
-   "description": "Forma comparativa de \"strong\" (forte).",
+   "description": "Com mais força que outro: “ele ficou mais forte”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -50523,7 +50496,7 @@
    "study_tier": "herdado",
    "study_priority": 3335,
    "user_hint": "",
-   "description": "Passado de \"found\" (criar uma organização): \"The school was founded in 1900\".",
+   "description": "Criado ou iniciado por alguém: “uma escola fundada em 1900”.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only",
@@ -51156,26 +51129,6 @@
    "antonyms": []
   },
   {
-   "id": "pt-BR:en:000003024",
-   "english_id": "en:000003024",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"be right back\".",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "já volto (jájá)",
-   "alternatives": [],
-   "study_tier": "temático (Slang)",
-   "study_priority": 3362,
-   "user_hint": "",
-   "description": "Abreviação de chat: \"be right back\" (já volto).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "pt-BR:en:000003047",
    "english_id": "en:000003047",
    "english_sense_id": null,
@@ -51298,27 +51251,7 @@
    "study_tier": "temático (Slang)",
    "study_priority": 3375,
    "user_hint": "",
-   "description": "Amigos próximos; \"family\" (gíria).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "pt-BR:en:000003022",
-   "english_id": "en:000003022",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Slang: \"going to\" (about to do).",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "vou",
-   "alternatives": [],
-   "study_tier": "temático (Slang)",
-   "study_priority": 3361,
-   "user_hint": "",
-   "description": "Gíria: \"going to\" (prestes a fazer).",
+   "description": "Gíria para os amigos mais próximos, como uma família.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -51474,28 +51407,6 @@
    "core_status": "search_only"
   },
   {
-   "id": "pt-BR:en:000003029",
-   "english_id": "en:000003029",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Openly; very much (opposite of low-key).",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "assumidamente",
-   "alternatives": [
-    "abertamente"
-   ],
-   "study_tier": "temático (Slang)",
-   "study_priority": 3367,
-   "user_hint": "",
-   "description": "Abertamente; muito (o oposto de low-key).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "pt-BR:en:000003045",
    "english_id": "en:000003045",
    "english_sense_id": null,
@@ -51511,28 +51422,6 @@
    "study_priority": 3379,
    "user_hint": "",
    "description": "Sair para uma viagem.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "pt-BR:en:000003025",
-   "english_id": "en:000003025",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"I don't know\".",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "sei lá",
-   "alternatives": [
-    "não sei"
-   ],
-   "study_tier": "temático (Slang)",
-   "study_priority": 3363,
-   "user_hint": "",
-   "description": "Abreviação de chat: \"I don't know\".",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -51808,7 +51697,7 @@
    "study_tier": "inicial",
    "study_priority": 638,
    "user_hint": "",
-   "description": "Bebida doce com gás: “uma lata de refrigerante”. Também chamada de “refri”.",
+   "description": "Bebida doce com gás: “uma lata de refrigerante”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -56747,7 +56636,7 @@
    "study_priority": 690,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Doce feito de açúcar: “chupar uma bala”. Também chamado de “doce” em geral.",
+   "description": "Docinho de açúcar para chupar: “uma bala de morango”.",
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
@@ -57055,26 +56944,6 @@
    "level": "A1",
    "antonyms": [],
    "articles": "a,as"
-  },
-  {
-   "id": "pt-BR:en:000003239",
-   "english_id": "en:000003239",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A covering for the foot.",
-   "text": "sapato",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "inicial",
-   "study_priority": 703,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "Cobertura para o pé.",
-   "novrev_status": "reviewed",
-   "level": "A1",
-   "antonyms": [],
-   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000003240",
@@ -73787,7 +73656,7 @@
    "study_priority": 2356,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "Filho ou filha de um tio ou de uma tia. “Prima” é o feminino de “primo”.",
+   "description": "Filho ou filha do seu tio ou da sua tia.",
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],

@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.5.6",
+ "version": "2.6.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -46,7 +46,7 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
-  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -32799,7 +32799,7 @@
    "key_pending": true,
    "study_tier": "praticar com lema",
    "study_priority": 3960,
-   "description": "「can」の過去。ていねいな依頼にも使う。",
+   "description": "「できる」の過去：「昔は速く走れた」。ていねいなお願いにも使う：「手伝っていただけますか」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -33554,53 +33554,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "ja:en:000000110",
-   "english_id": "en:000000110",
-   "english_sense_id": null,
-   "kind": "form",
-   "description_en": "Past tense of “do”. In this lexical use, it refers to an action someone performed.",
-   "level": "A1",
-   "part_of_speech": "v",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "vcu14_rank": 252,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "text": "した",
-   "alternatives": [],
-   "reading": "した",
-   "romanization": "shita",
-   "classifications": [
-    {
-     "system": "JLPT",
-     "level": "N5",
-     "status": "community",
-     "source": "OpenJLPT (CC BY-SA 4.0)"
-    }
-   ],
-   "lemma": "する",
-   "lemma_id": "ja:en:000000048",
-   "lexical_type": "form",
-   "features": {
-    "tense": "past",
-    "polarity": "affirmative",
-    "register": "plain"
-   },
-   "grammatical_key": "PAST.PLAIN.POS",
-   "key_pending": false,
-   "study_tier": "herdado",
-   "study_priority": 3172,
-   "description": "「する」の過去形。行動がすでに行われたことを表す。",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000048",
-   "inflection_key": "PAST"
   },
   {
    "id": "ja:en:000000111",
@@ -34580,7 +34533,7 @@
    "study_tier": "herdado",
    "study_priority": 2389,
    "user_hint": "",
-   "description": "ほかのどれよりもよい（「いい」の最上級）。",
+   "description": "ほかのどれよりもいい：「クラスで一番いい生徒」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001225"
@@ -35546,7 +35499,7 @@
    "study_tier": "herdado",
    "study_priority": 2393,
    "user_hint": "",
-   "description": "質がもっとよい（「いい」の比較級）。",
+   "description": "くらべて、よりいい：「こちらのほうがいい」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001346"
@@ -37610,7 +37563,7 @@
    "class_real": "noun/adverb",
    "study_priority": 3065,
    "user_hint": "",
-   "description": "数や量が多いこと。",
+   "description": "数や量が多いこと：「たくさんの本」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -37913,7 +37866,7 @@
    "class_real": "causative auxiliary (ichidan)",
    "study_priority": 3072,
    "user_hint": "",
-   "description": "許す。「let's」は「〜しよう」と誘う言い方。",
+   "description": "人に何かをすることを許す：「子どもに遊ばせる」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -42290,7 +42243,7 @@
    "romanization": "nyuusu",
    "study_tier": "cedo",
    "study_priority": 1014,
-   "description": "最近の出来事についての知らせ。「いい知らせ」。英語では単数あつかい。",
+   "description": "最近の出来事の知らせ：「いいニュース」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -45039,7 +44992,7 @@
    "class_real": "interjection",
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
-   "description": "くだけた言いかたで「はい」や、同意を表す。友だちや家族との会話で使い、ていねいな場面では「はい」を使う。",
+   "description": "「はい」のくだけた言い方：「うん、いいよ」。友だちどうしで使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -52720,7 +52673,7 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2479,
    "user_hint": "",
-   "description": "「high」（高い）の比較級。",
+   "description": "ほかとくらべて高い：「新しいビルのほうが高い」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000785"
@@ -56816,7 +56769,7 @@
    "study_tier": "herdado",
    "study_priority": 2505,
    "user_hint": "",
-   "description": "「low」（低い）の比較級。",
+   "description": "ほかとくらべて低い：「この机のほうが低い」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000651"
@@ -60201,7 +60154,7 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 3208,
    "user_hint": "",
-   "description": "「the ones」は、あの人たちやあの物たち。",
+   "description": "前に言った人や物を指す：「赤いのがほしい」。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -62749,7 +62702,7 @@
    "class_real": "offer/suggestion construction",
    "study_tier": "cedo",
    "study_priority": 1134,
-   "description": "英語の shall we で始まる疑問文の形で、一緒に何かをしようと誘うときの言い方。",
+   "description": "いっしょに何かをしようとさそう言い方：「行きましょうか」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -70120,7 +70073,7 @@
    "study_tier": "herdado",
    "study_priority": 2575,
    "user_hint": "",
-   "description": "「big」（大きい）の最上級。",
+   "description": "ほかのどれよりも大きい：「町で一番大きい家」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -70533,7 +70486,7 @@
    "study_tier": "herdado",
    "study_priority": 2577,
    "user_hint": "",
-   "description": "「bad」（悪い）の不規則な最上級。",
+   "description": "ほかのどれよりも悪い：「最悪の一日」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000139"
@@ -71083,7 +71036,7 @@
    "study_tier": "herdado",
    "study_priority": 2579,
    "user_hint": "",
-   "description": "「old」（古い、年とった）の比較級。",
+   "description": "ほかの人より年が上：「年上の兄」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -72094,7 +72047,7 @@
    "study_tier": "herdado",
    "study_priority": 2582,
    "user_hint": "",
-   "description": "物を相手にわたすときに言う言葉。",
+   "description": "物をわたすときに言う：「はい、どうぞ」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -72345,7 +72298,7 @@
    "study_tier": "herdado",
    "study_priority": 2584,
    "user_hint": "",
-   "description": "「be supposed to」は〜することになっている。",
+   "description": "そうする予定や決まりになっている：「八時に行くことになっている」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -73068,7 +73021,7 @@
    "study_tier": "herdado",
    "study_priority": 2589,
    "user_hint": "",
-   "description": "「great」（大きい）の比較級。",
+   "description": "ほかとくらべて大きい：「より大きな問題」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -73194,7 +73147,7 @@
    "study_tier": "herdado",
    "study_priority": 2590,
    "user_hint": "",
-   "description": "「large」（大きい）の最上級。",
+   "description": "いちばん大きい：「最大の国」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -74122,7 +74075,7 @@
    "study_tier": "herdado",
    "study_priority": 2592,
    "user_hint": "",
-   "description": "「bad」（悪い）の不規則な比較級。",
+   "description": "ほかとくらべて悪い：「今日は昨日よりもっと悪い」。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000161"
@@ -76439,7 +76392,7 @@
    "study_tier": "cedo",
    "study_priority": 1327,
    "user_hint": "",
-   "description": "テレビ局やYouTubeのアカウント。「ニュースチャンネル」。伝達の経路や、水路の意味にも使う。",
+   "description": "テレビ局や動画のアカウント：「ニュースのチャンネル」。水路の意味もある。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -81979,7 +81932,7 @@
    "study_tier": "herdado",
    "study_priority": 2612,
    "user_hint": "",
-   "description": "「small」（小さい）の比較級。",
+   "description": "ほかとくらべて小さい：「もっと小さい箱」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -82573,7 +82526,7 @@
    "study_tier": "herdado",
    "study_priority": 2614,
    "user_hint": "",
-   "description": "「great」（すばらしい）の最上級。",
+   "description": "いちばんすばらしい：「史上最も偉大な選手」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -83007,7 +82960,7 @@
    "study_tier": "cedo",
    "study_priority": 1413,
    "user_hint": "",
-   "description": "〜まで。「月曜まで待つ」。英語では until のくだけた短い形。",
+   "description": "ある時までずっと：「月曜まで待つ」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -85371,7 +85324,7 @@
    "study_tier": "herdado",
    "study_priority": 2619,
    "user_hint": "",
-   "description": "「easy」（かんたん）の比較級。",
+   "description": "ほかとくらべて簡単：「このテストのほうが簡単」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -87456,7 +87409,7 @@
    "study_tier": "herdado",
    "study_priority": 2621,
    "user_hint": "",
-   "description": "「big」（大きい）の比較級。",
+   "description": "ほかとくらべて大きい：「もっと大きい家」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -88137,7 +88090,7 @@
    "study_tier": "herdado",
    "study_priority": 2625,
    "user_hint": "",
-   "description": "「close」（近い）の比較級。",
+   "description": "ほかとくらべて近い：「学校のほうが近い」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -93354,7 +93307,7 @@
    "study_tier": "herdado",
    "study_priority": 2640,
    "user_hint": "",
-   "description": "「young」（若い）の比較級。",
+   "description": "ほかの人より年が下：「年下の妹」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -95144,7 +95097,7 @@
    ],
    "study_tier": "herdado",
    "study_priority": 3280,
-   "description": "足にはく物。英語の shoes は複数形だが、日本語の靴は一足にも複数にも使う。",
+   "description": "足にはくもの：「靴をはく」。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -98196,7 +98149,7 @@
    "study_tier": "herdado",
    "study_priority": 2661,
    "user_hint": "",
-   "description": "「fast」（速い）の比較級。",
+   "description": "ほかとくらべて速い：「電車のほうが速い」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -105866,7 +105819,7 @@
    "study_tier": "herdado",
    "study_priority": 2686,
    "user_hint": "",
-   "description": "「hard」（むずかしい）の比較級。",
+   "description": "ほかとくらべて難しい：「今日の問題のほうが難しい」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -109447,7 +109400,7 @@
    "study_tier": "herdado",
    "study_priority": 2702,
    "user_hint": "",
-   "description": "「strong」（強い）の比較級。",
+   "description": "ほかとくらべて強い：「前よりもっと強くなった」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -114905,7 +114858,7 @@
    "study_tier": "herdado",
    "study_priority": 3323,
    "user_hint": "",
-   "description": "「found」（組織をつくる）の過去形・過去分詞。例：「The school was founded in 1900」。",
+   "description": "つくられた、始められた：「1900年に設立された学校」。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only",
@@ -115997,29 +115950,6 @@
    "antonyms": []
   },
   {
-   "id": "ja:en:000003024",
-   "english_id": "en:000003024",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Be right back.",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "すぐ戻る",
-   "alternatives": [],
-   "reading": "すぐもどる",
-   "romanization": "sugu modoru",
-   "class_real": "construction",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3350,
-   "user_hint": "",
-   "description": "チャットの略語。「be right back」、すぐ戻る。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "ja:en:000003047",
    "english_id": "en:000003047",
    "english_sense_id": null,
@@ -116160,31 +116090,7 @@
    "study_tier": "temático (Slang)",
    "study_priority": 3363,
    "user_hint": "",
-   "description": "家族のように近い仲間（くだけた言い方）。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "ja:en:000003022",
-   "english_id": "en:000003022",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Slang: \"going to\" (about to do).",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "〜するところ",
-   "alternatives": [],
-   "reading": "〜するところ",
-   "romanization": "~ suru tokoro",
-   "lexical_type": "construction",
-   "class_real": "verb construction",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3349,
-   "user_hint": "",
-   "description": "くだけた言い方で「going to」。今まさにするところ。",
+   "description": "家族のように親しい友だちのこと（くだけた言い方）。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -116358,29 +116264,6 @@
    "core_status": "search_only"
   },
   {
-   "id": "ja:en:000003029",
-   "english_id": "en:000003029",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Fully; seriously.",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "おおっぴらに",
-   "alternatives": [],
-   "reading": "おおっぴらに",
-   "romanization": "ooppira ni",
-   "class_real": "adverb",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3355,
-   "user_hint": "",
-   "description": "かくさず、はっきりと。「low-key」の反対。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "ja:en:000003045",
    "english_id": "en:000003045",
    "english_sense_id": null,
@@ -116399,37 +116282,6 @@
    "study_priority": 3367,
    "user_hint": "",
    "description": "旅や移動に出かける。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "ja:en:000003025",
-   "english_id": "en:000003025",
-   "english_sense_id": null,
-   "kind": "form",
-   "description_en": "Chat abbreviation: \"I don't know\".",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "分からない",
-   "alternatives": [],
-   "reading": "わからない",
-   "romanization": "wakaranai",
-   "lexical_type": "form",
-   "lemma": "分かる",
-   "lemma_id": "ja:en:000000412",
-   "features": {
-    "polarity": "negative",
-    "register": "plain"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "temático (Slang)",
-   "study_priority": 3351,
-   "user_hint": "",
-   "description": "チャットの略語。「I don't know」、わからない。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -116744,7 +116596,7 @@
    "study_tier": "inicial",
    "study_priority": 642,
    "user_hint": "",
-   "description": "甘くて、泡のある飲み物。「炭酸飲料」のように使い、コーラやサイダーなどを指す。",
+   "description": "あまくて泡の出る飲み物：「炭酸飲料の缶」。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -122894,7 +122746,7 @@
    "study_priority": 694,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "砂糖でつくった、甘いお菓子。「キャンディーをなめる」のように使い、小さな玉の形が多い。",
+   "description": "口の中でなめるあまいお菓子：「いちごのキャンディー」。",
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
@@ -123503,29 +123355,6 @@
    "part_of_speech": "n",
    "user_hint": "",
    "description": "両足をそれぞれおおう服。",
-   "novrev_status": "reviewed",
-   "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "ja:en:000003239",
-   "english_id": "en:000003239",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A covering for the foot.",
-   "text": "靴",
-   "alternatives": [
-    "シューズ"
-   ],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "reading": "くつ",
-   "romanization": "kutsu",
-   "study_tier": "inicial",
-   "study_priority": 707,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "足にはいて外を歩くための物。「靴をはく」。玄関で脱ぐ物として、日本の暮らしでは大切。",
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
@@ -146405,7 +146234,7 @@
    "study_priority": 2360,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "おじやおばの子ども。漢字では年上の男性に従兄、女性に従姉、年下の男性に従弟、女性に従妹を使うことがある。",
+   "description": "おじやおばの子ども。",
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": []

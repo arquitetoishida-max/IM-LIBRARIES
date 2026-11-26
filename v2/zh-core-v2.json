@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.5.6",
+ "version": "2.6.0",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -45,7 +45,7 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
-  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
  ],
  "entries": [
   {
@@ -2833,7 +2833,7 @@
    "romanization": "néng",
    "study_tier": "praticar com lema",
    "study_priority": 3960,
-   "description": "“can”的过去形式；也用于客气的请求。",
+   "description": "“能”的过去，比如“以前能跑很快”。也用于客气地请求：“能帮我一下吗？”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -3481,35 +3481,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "zh:en:000000110",
-   "english_id": "en:000000110",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "Past tense of “do”. In this lexical use, it refers to an action someone performed.",
-   "level": "A1",
-   "part_of_speech": "v",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "vcu14_rank": 252,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "text": "做了",
-   "alternatives": [],
-   "reading": "zuò le",
-   "romanization": "zuò le",
-   "core_status": "search_only",
-   "study_tier": "herdado",
-   "study_priority": 3141,
-   "description": "做加上“了”，表示做这个动作已经发生或完成。",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "inflection_of": "en:000000048",
-   "inflection_key": "PAST"
   },
   {
    "id": "zh:en:000000111",
@@ -4306,7 +4277,7 @@
    "study_tier": "herdado",
    "study_priority": 2389,
    "user_hint": "",
-   "description": "比其他所有的都好（“好”的最高级）。",
+   "description": "比其他的都好，比如“班里最好的学生”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001225"
@@ -4998,7 +4969,7 @@
    "study_tier": "herdado",
    "study_priority": 2393,
    "user_hint": "",
-   "description": "质量更高（“好”的比较级）。",
+   "description": "比较起来更好，比如“这个比那个更好”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000001346"
@@ -6495,7 +6466,7 @@
    "romanization": "hěn duō",
    "study_priority": 3033,
    "user_hint": "",
-   "description": "“a lot”表示很大的数量。",
+   "description": "数量很大，比如“很多书”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -6729,7 +6700,7 @@
    ],
    "study_priority": 3040,
    "user_hint": "",
-   "description": "允许；“let's”表示提议“咱们……”。",
+   "description": "允许别人做某事，比如“让我看看”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -9774,7 +9745,7 @@
    ],
    "study_tier": "cedo",
    "study_priority": 1014,
-   "description": "最近の出来事の知らせ：“好消息”。在英语中是单数：“the news is”。",
+   "description": "关于最近发生的事情的消息，比如“好消息”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -11839,7 +11810,7 @@
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 115,
-   "description": "口语里表示“是”，或轻轻地答应。如“嗯，我知道”。不用于正式场合。",
+   "description": "“是”的口语说法，比如“嗯，好的”。朋友之间用。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -17724,7 +17695,7 @@
    "study_tier": "expansão cotidiana",
    "study_priority": 2481,
    "user_hint": "",
-   "description": "“high”（高）的比较级。",
+   "description": "和别的比更高，比如“新楼更高”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000785"
@@ -20948,7 +20919,7 @@
    "study_tier": "herdado",
    "study_priority": 2507,
    "user_hint": "",
-   "description": "“low”（低）的比较级。",
+   "description": "和别的比更低，比如“这张桌子更低”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000651"
@@ -23275,7 +23246,7 @@
    "study_tier": "após reconciliar o sentido",
    "study_priority": 3177,
    "user_hint": "",
-   "description": "“the ones”指那些人或东西。",
+   "description": "指前面说过的人或东西，比如“我要那些红的”。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -25300,7 +25271,7 @@
    "romanization": "hǎo ma",
    "study_tier": "cedo",
    "study_priority": 1134,
-   "description": "用于以 shall we 开头的问句，表示提议一起做某事。",
+   "description": "邀请别人一起做某事，比如“我们走好吗？”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
@@ -31056,7 +31027,7 @@
    "study_tier": "herdado",
    "study_priority": 3473,
    "user_hint": "",
-   "description": "“big”（大）的最高级。",
+   "description": "比其他的都大，比如“街上最大的房子”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -31404,7 +31375,7 @@
    "study_tier": "herdado",
    "study_priority": 3474,
    "user_hint": "",
-   "description": "“bad”（坏）的不规则最高级。",
+   "description": "比其他的都差，比如“最差的一天”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -31849,7 +31820,7 @@
    "study_tier": "herdado",
    "study_priority": 3475,
    "user_hint": "",
-   "description": "“old”（老）的比较级。",
+   "description": "比别人年纪大，比如“比我年纪大的哥哥”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -32500,7 +32471,7 @@
    "study_tier": "herdado",
    "study_priority": 2580,
    "user_hint": "",
-   "description": "“here is”：把东西递给别人时说。",
+   "description": "把东西递给别人时说：“给你，这是你的咖啡”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -32768,7 +32739,7 @@
    "study_tier": "herdado",
    "study_priority": 3476,
    "user_hint": "",
-   "description": "“be supposed to”表示应该；被期望做。",
+   "description": "按照约定或规定应该做某事，比如“我应该八点到”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -33288,7 +33259,7 @@
    "study_tier": "herdado",
    "study_priority": 2585,
    "user_hint": "",
-   "description": "“great”（大）的比较级。",
+   "description": "和别的比更大，比如“更大的问题”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -33341,7 +33312,7 @@
    "study_tier": "herdado",
    "study_priority": 2586,
    "user_hint": "",
-   "description": "“large”（大）的最高级。",
+   "description": "所有的里面最大的，比如“最大的国家”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -34002,7 +33973,7 @@
    "study_tier": "herdado",
    "study_priority": 2588,
    "user_hint": "",
-   "description": "“bad”（坏）的不规则比较级。",
+   "description": "和别的比更差，比如“今天比昨天更糟”。",
    "novrev_status": "reviewed",
    "antonyms": [
     "en:000000161"
@@ -36105,7 +36076,7 @@
    "study_tier": "cedo",
    "study_priority": 1327,
    "user_hint": "",
-   "description": "电视台或视频账号：“新闻频道”。也指渠道，或水道。",
+   "description": "电视台或视频账号，比如“新闻频道”。也指水道。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -39942,7 +39913,7 @@
    "study_tier": "herdado",
    "study_priority": 3479,
    "user_hint": "",
-   "description": "“small”（小）的比较级。",
+   "description": "和别的比更小，比如“更小的盒子”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -40385,7 +40356,7 @@
    "study_tier": "herdado",
    "study_priority": 3480,
    "user_hint": "",
-   "description": "“great”（伟大）的最高级。",
+   "description": "最了不起的，比如“最伟大的球员”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -40676,7 +40647,7 @@
    "study_tier": "cedo",
    "study_priority": 1413,
    "user_hint": "",
-   "description": "直到：“等到周一”。英语中“until”的口语短形式。",
+   "description": "一直到某个时候，比如“等到周一”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -42359,7 +42330,7 @@
    "study_tier": "herdado",
    "study_priority": 2612,
    "user_hint": "",
-   "description": "“easy”（容易）的比较级。",
+   "description": "和别的比更容易，比如“这次考试更容易”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -43684,7 +43655,7 @@
    "study_tier": "herdado",
    "study_priority": 3481,
    "user_hint": "",
-   "description": "“big”（大）的比较级。",
+   "description": "和别的比更大，比如“更大的房子”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -44375,7 +44346,7 @@
    "study_tier": "herdado",
    "study_priority": 3483,
    "user_hint": "",
-   "description": "“close”（近）的比较级。",
+   "description": "和别的比更近，比如“学校更近”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -48362,7 +48333,7 @@
    "study_tier": "herdado",
    "study_priority": 3485,
    "user_hint": "",
-   "description": "“young”（年轻）的比较级。",
+   "description": "比别人年纪小，比如“更年轻的妹妹”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -49884,7 +49855,7 @@
    ],
    "study_tier": "herdado",
    "study_priority": 3249,
-   "description": "穿在脚上的物品。英语 shoes 是复数，汉语的鞋本身不标明数量。",
+   "description": "穿在脚上的东西，比如“一双鞋”。",
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": [],
@@ -52050,7 +52021,7 @@
    "study_tier": "herdado",
    "study_priority": 3493,
    "user_hint": "",
-   "description": "“fast”（快）的比较级。",
+   "description": "和别的比更快，比如“火车更快”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -57997,7 +57968,7 @@
    "study_tier": "herdado",
    "study_priority": 2663,
    "user_hint": "",
-   "description": "“hard”（难）的比较级。",
+   "description": "和别的比更难，比如“今天的题更难”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -61103,7 +61074,7 @@
    "study_tier": "herdado",
    "study_priority": 3503,
    "user_hint": "",
-   "description": "“strong”（强）的比较级。",
+   "description": "和别的比更强，比如“他变得更强了”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -65373,7 +65344,7 @@
    "study_tier": "herdado",
    "study_priority": 3292,
    "user_hint": "",
-   "description": "“found”（创立）的过去式，如“The school was founded in 1900”。",
+   "description": "被创立的，比如“1900年建立的学校”。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "inflection_of": "en:000000189",
@@ -66162,28 +66133,6 @@
    "antonyms": []
   },
   {
-   "id": "zh:en:000003024",
-   "english_id": "en:000003024",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"be right back\".",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "马上回来",
-   "alternatives": [],
-   "reading": "mǎshàng huílai",
-   "romanization": "mǎshàng huílai",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3319,
-   "user_hint": "",
-   "description": "聊天缩写：“be right back”，马上回来。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "zh:en:000003047",
    "english_id": "en:000003047",
    "english_sense_id": null,
@@ -66344,31 +66293,7 @@
    "study_tier": "temático (Slang)",
    "study_priority": 3332,
    "user_hint": "",
-   "description": "亲密的朋友；“family”的俚语。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "zh:en:000003022",
-   "english_id": "en:000003022",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Slang: \"going to\" (about to do).",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "马上要",
-   "alternatives": [
-    "快要"
-   ],
-   "reading": "mǎshàng yào",
-   "romanization": "mǎshàng yào",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3318,
-   "user_hint": "",
-   "description": "俚语：“going to”，即将要做。",
+   "description": "很亲密、像家人一样的朋友（口语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -66542,30 +66467,6 @@
    "core_status": "search_only"
   },
   {
-   "id": "zh:en:000003029",
-   "english_id": "en:000003029",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Openly; very much (opposite of low-key).",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "明着",
-   "alternatives": [
-    "公开地"
-   ],
-   "reading": "míngzhe",
-   "romanization": "míngzhe",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3324,
-   "user_hint": "",
-   "description": "公开地；很（与 low-key 相反）。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "zh:en:000003045",
    "english_id": "en:000003045",
    "english_sense_id": null,
@@ -66585,28 +66486,6 @@
    "study_priority": 3336,
    "user_hint": "",
    "description": "启程上路。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "zh:en:000003025",
-   "english_id": "en:000003025",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "Chat abbreviation: \"I don't know\".",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "不知道",
-   "alternatives": [],
-   "reading": "bù zhīdào",
-   "romanization": "bù zhīdào",
-   "study_tier": "temático (Slang)",
-   "study_priority": 3320,
-   "user_hint": "",
-   "description": "聊天缩写：“I don't know”，不知道。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "search_only"
@@ -66940,7 +66819,7 @@
    "study_tier": "inicial",
    "study_priority": 642,
    "user_hint": "",
-   "description": "甜的含气饮料。如“喝汽水”“一瓶汽水”。",
+   "description": "有气泡的甜饮料，比如“一罐汽水”。",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -72651,7 +72530,7 @@
    "study_priority": 694,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "用糖做的甜食。如“吃糖果”“一颗糖”。",
+   "description": "含在嘴里的甜东西，比如“草莓糖果”。",
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
@@ -72980,27 +72859,6 @@
    "part_of_speech": "n",
    "user_hint": "",
    "description": "分别包住两条腿的衣服。",
-   "novrev_status": "reviewed",
-   "level": "A1",
-   "antonyms": []
-  },
-  {
-   "id": "zh:en:000003239",
-   "english_id": "en:000003239",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "A covering for the foot.",
-   "text": "鞋",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "reading": "xié",
-   "romanization": "xié",
-   "study_tier": "inicial",
-   "study_priority": 707,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "穿在脚上的东西。",
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
@@ -90920,7 +90778,7 @@
    "study_priority": 2360,
    "part_of_speech": "n",
    "user_hint": "",
-   "description": "亲属中称姑、舅、姨的子女为表亲。父亲兄弟的子女通常另称堂亲。",
+   "description": "叔叔、阿姨等的孩子。",
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": []
