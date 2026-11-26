@@ -28,7 +28,7 @@ for f in sys.argv[1:]:
                 if l not in o: continue
                 x=o[l]; e={'id':i if l=='en' else f'{l}:{i}','english_id':i,'kind':'word','description_en':o['en']['desc'],
                    'level':o.get('level','A2'),'part_of_speech':o['pos'],'source_status':'editorial-reviewed','text':x['text'],
-                   'alternatives':x.get('alt',[]),'study_tier':'cedo','study_priority':9000,'user_hint':'','description':x['desc'],
+                   'alternatives':x.get('alt',[]),'study_tier':'cedo','study_priority':max(x.get('study_priority') or 0 for x in P[l]['entries'])+1,'user_hint':'','description':x['desc'],
                    'novrev_status':'reviewed','antonyms':[]}
                 if l=='en': e.pop('alternatives') if not x.get('alt') else None
                 else: e['english_sense_id']=None; e['translation_confidence']='editorial-reviewed'

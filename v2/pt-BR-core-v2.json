@@ -1554,7 +1554,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "tempo",
    "alternatives": [
-    "hora"
+    "hora",
+    "vez"
    ],
    "study_tier": "núcleo inicial",
    "study_priority": 25,
@@ -1583,7 +1584,8 @@
    "text": "conseguir",
    "alternatives": [
     "pegar",
-    "receber"
+    "receber",
+    "ganhar"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 936,
@@ -3364,7 +3366,9 @@
    "text": "pegar",
    "alternatives": [
     "levar",
-    "agarrar"
+    "agarrar",
+    "tirar",
+    "tomar"
    ],
    "study_tier": "inicial",
    "study_priority": 47,
@@ -4181,7 +4185,8 @@
    "text": "parte",
    "alternatives": [
     "pedaço",
-    "porção"
+    "porção",
+    "peça"
    ],
    "study_tier": "cedo",
    "study_priority": 978,
@@ -5526,7 +5531,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "esquerdo",
-   "alternatives": [],
+   "alternatives": [
+    "esquerda"
+   ],
    "study_priority": 3069,
    "description": "O lado oposto ao direito.",
    "novrev_status": "reviewed",
@@ -6474,7 +6481,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "morar",
    "alternatives": [
-    "residir"
+    "residir",
+    "viver"
    ],
    "study_priority": 3107,
    "user_hint": "",
@@ -7880,7 +7888,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "lei",
-   "alternatives": [],
+   "alternatives": [
+    "direito"
+   ],
    "study_tier": "intermediário",
    "study_priority": 2397,
    "user_hint": "",
@@ -8337,7 +8347,8 @@
    "text": "notícia",
    "alternatives": [
     "notícia",
-    "novidade"
+    "novidade",
+    "jornal"
    ],
    "study_tier": "cedo",
    "study_priority": 1010,
@@ -9150,7 +9161,8 @@
    "text": "comida",
    "alternatives": [
     "alimento",
-    "refeição"
+    "refeição",
+    "cozinha"
    ],
    "study_tier": "inicial",
    "study_priority": 99,
@@ -10069,7 +10081,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "turma",
-   "alternatives": [],
+   "alternatives": [
+    "aula"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 116,
    "description": "Grupo de alunos que frequentam a mesma série, disciplina ou aula.",
@@ -10659,7 +10673,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "assistir",
    "alternatives": [
-    "observar"
+    "observar",
+    "ver",
+    "olhar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 127,
@@ -11539,7 +11555,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "criança",
-   "alternatives": [],
+   "alternatives": [
+    "filho"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 134,
    "description": "Pessoa jovem que ainda não é adulta.",
@@ -12478,7 +12496,9 @@
    "vcu14_status": "provisional-editorial",
    "text": "encontrar-se",
    "alternatives": [
-    "encontrar alguém"
+    "encontrar alguém",
+    "conhecer",
+    "encontrar"
    ],
    "study_tier": "inicial",
    "study_priority": 149,
@@ -14020,7 +14040,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "período",
-   "alternatives": [],
+   "alternatives": [
+    "ponto"
+   ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2464,
    "user_hint": "",
@@ -17115,7 +17137,8 @@
    "text": "imagem",
    "alternatives": [
     "foto",
-    "desenho"
+    "desenho",
+    "quadro"
    ],
    "study_tier": "inicial",
    "study_priority": 227,
@@ -18370,7 +18393,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "artigo",
-   "alternatives": [],
+   "alternatives": [
+    "matéria"
+   ],
    "study_tier": "expansão cotidiana",
    "study_priority": 2520,
    "user_hint": "",
@@ -19794,7 +19819,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "papel",
-   "alternatives": [],
+   "alternatives": [
+    "folha"
+   ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 284,
    "description": "Material fino usado para escrever.",
@@ -19996,7 +20023,8 @@
    "text": "Terra",
    "alternatives": [
     "planeta",
-    "mundo"
+    "mundo",
+    "terra"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 288,
@@ -20947,7 +20975,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "pedaço",
-   "alternatives": [],
+   "alternatives": [
+    "peça"
+   ],
    "study_tier": "cedo",
    "study_priority": 1120,
    "description": "Porção de um material ou objeto sólido cortada, partida ou separada do todo.",
@@ -29465,7 +29495,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "meio ambiente",
    "alternatives": [
-    "ambiente"
+    "ambiente",
+    "meio"
    ],
    "study_tier": "cedo",
    "study_priority": 1305,
@@ -30059,7 +30090,8 @@
    "text": "fim de tarde",
    "alternatives": [
     "entardecer",
-    "anoitecer"
+    "anoitecer",
+    "noite"
    ],
    "study_tier": "inicial",
    "study_priority": 407,
@@ -32611,7 +32643,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "audição",
-   "alternatives": [],
+   "alternatives": [
+    "ouvido"
+   ],
    "study_tier": "cedo",
    "study_priority": 1371,
    "user_hint": "",
@@ -32811,7 +32845,8 @@
    "text": "assento",
    "alternatives": [
     "lugar",
-    "cadeira"
+    "cadeira",
+    "banco"
    ],
    "study_tier": "inicial",
    "study_priority": 435,
@@ -35120,7 +35155,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "querido",
-   "alternatives": [],
+   "alternatives": [
+    "caro"
+   ],
    "study_tier": "cedo",
    "study_priority": 1428,
    "user_hint": "",
@@ -37021,7 +37058,8 @@
    "text": "mau",
    "alternatives": [
     "maligno",
-    "cruel"
+    "cruel",
+    "mal"
    ],
    "study_tier": "cedo",
    "study_priority": 1475,
@@ -39544,7 +39582,8 @@
    "text": "remover",
    "alternatives": [
     "retirar",
-    "apagar"
+    "apagar",
+    "tirar"
    ],
    "study_tier": "cedo",
    "study_priority": 1531,
@@ -46121,7 +46160,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "café da manhã",
    "alternatives": [
-    "desjejum"
+    "desjejum",
+    "café"
    ],
    "study_tier": "inicial",
    "study_priority": 567,
@@ -48344,7 +48384,8 @@
    "vcu14_status": "provisional-editorial",
    "text": "moldura",
    "alternatives": [
-    "armação"
+    "armação",
+    "quadro"
    ],
    "study_tier": "cedo",
    "study_priority": 1725,
@@ -48412,7 +48453,9 @@
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
    "text": "céu (paraíso)",
-   "alternatives": [],
+   "alternatives": [
+    "céu"
+   ],
    "study_tier": "cedo",
    "study_priority": 1726,
    "user_hint": "",
@@ -48932,7 +48975,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "cacho",
    "alternatives": [
-    "monte"
+    "monte",
+    "molho"
    ],
    "study_tier": "cedo",
    "study_priority": 1744,
@@ -62195,7 +62239,9 @@
    "kind": "word",
    "description_en": "The part of the body used for hearing.",
    "text": "orelha",
-   "alternatives": [],
+   "alternatives": [
+    "ouvido"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -64470,7 +64516,8 @@
    "description_en": "To notice something with the nose.",
    "text": "cheirar",
    "alternatives": [
-    "farejar"
+    "farejar",
+    "sentir"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -64837,7 +64884,9 @@
    "kind": "word",
    "description_en": "A small amount of food between meals.",
    "text": "lanche",
-   "alternatives": [],
+   "alternatives": [
+    "salgado"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -64857,7 +64906,9 @@
    "kind": "word",
    "description_en": "Sweet food eaten after a meal.",
    "text": "sobremesa",
-   "alternatives": [],
+   "alternatives": [
+    "doce"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -65625,7 +65676,9 @@
    "kind": "word",
    "description_en": "A room where lessons take place.",
    "text": "sala de aula",
-   "alternatives": [],
+   "alternatives": [
+    "sala"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "inicial",
@@ -73496,7 +73549,9 @@
    "kind": "expression",
    "description_en": "A place where shares of companies are bought and sold.",
    "text": "bolsa de valores",
-   "alternatives": [],
+   "alternatives": [
+    "bolsa"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
@@ -78928,7 +78983,9 @@
    "kind": "word",
    "description_en": "A small pill of medicine.",
    "text": "comprimido",
-   "alternatives": [],
+   "alternatives": [
+    "pílula"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "cedo",
@@ -80306,7 +80363,10 @@
    "kind": "word",
    "description_en": "Energy that powers lights and machines.",
    "text": "eletricidade",
-   "alternatives": [],
+   "alternatives": [
+    "energia",
+    "luz"
+   ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
    "study_tier": "intermediário",
@@ -85161,7 +85221,9 @@
    "user_hint": "",
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "porco"
+   ],
    "articles": "a,as"
   },
   {
@@ -85294,7 +85356,9 @@
    "user_hint": "",
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
-   "alternatives": [],
+   "alternatives": [
+    "ponto"
+   ],
    "articles": "o,os"
   },
   {
@@ -87723,7 +87787,7 @@
     "acender"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3964,
    "user_hint": "",
    "description": "Fazer um aparelho, uma luz ou uma máquina começar a funcionar: “ligar a TV”, “acender a luz”.",
    "novrev_status": "reviewed",
@@ -87749,7 +87813,7 @@
     "apagar"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3965,
    "user_hint": "",
    "description": "Fazer um aparelho, uma luz ou uma máquina parar de funcionar: “desligar o celular”, “apagar a luz”.",
    "novrev_status": "reviewed",
@@ -87776,7 +87840,7 @@
     "alvorada"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3966,
    "user_hint": "",
    "description": "O começo do dia, quando o céu começa a clarear.",
    "novrev_status": "reviewed",
@@ -87800,7 +87864,7 @@
    "text": "madrugada",
    "alternatives": [],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3967,
    "user_hint": "",
    "description": "As horas depois da meia-noite e antes de o sol nascer: “acordei de madrugada”.",
    "novrev_status": "reviewed",
@@ -87826,7 +87890,7 @@
     "ligar"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3968,
    "user_hint": "",
    "description": "Unir duas coisas ou ligar um aparelho a uma rede: “conectar no Wi-Fi”, “ligar o cabo”.",
    "novrev_status": "reviewed",
@@ -87852,7 +87916,7 @@
     "assombração"
    ],
    "study_tier": "fala cotidiana inicial",
-   "study_priority": 9000,
+   "study_priority": 3969,
    "user_hint": "",
    "description": "Espírito de alguém que morreu e que, segundo se acredita, pode aparecer às pessoas.",
    "novrev_status": "reviewed",
@@ -87863,6 +87927,2589 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004524",
+   "english_id": "en:000004524",
+   "kind": "word",
+   "description_en": "A device that shows the time, on a wall or a table.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "relógio",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3970,
+   "user_hint": "",
+   "description": "Aparelho que mostra as horas, na parede ou na mesa.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1076,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004525",
+   "english_id": "en:000004525",
+   "kind": "word",
+   "description_en": "The bowl in a bathroom that you use to pee and poop.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "vaso sanitário",
+   "alternatives": [
+    "privada"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3971,
+   "user_hint": "",
+   "description": "Peça do banheiro onde se faz xixi e cocô.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1077,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004526",
+   "english_id": "en:000004526",
+   "kind": "word",
+   "description_en": "A person who lives near your home.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "vizinho",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3972,
+   "user_hint": "",
+   "description": "Pessoa que mora perto da sua casa.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1078,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004527",
+   "english_id": "en:000004527",
+   "kind": "word",
+   "description_en": "A period of teaching, or something you learn: \"today's lesson\".",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "lição",
+   "alternatives": [
+    "aula"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3973,
+   "user_hint": "",
+   "description": "Parte do que se aprende de cada vez: “a lição de hoje”. Também algo que a vida ensina.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1079,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004528",
+   "english_id": "en:000004528",
+   "kind": "word",
+   "description_en": "Speaking and acting with respect and good manners.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "educado",
+   "alternatives": [
+    "gentil",
+    "cortês"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3974,
+   "user_hint": "",
+   "description": "Que trata os outros com respeito e boas maneiras.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1080,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004529",
+   "english_id": "en:000004529",
+   "kind": "word",
+   "description_en": "Not polite; speaking or acting without respect.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "grosso",
+   "alternatives": [
+    "mal-educado",
+    "grosseiro"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3975,
+   "user_hint": "",
+   "description": "Que fala ou age sem respeito com os outros.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1081,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004530",
+   "english_id": "en:000004530",
+   "kind": "word",
+   "description_en": "Large from one side to the other: \"a thick book\".",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "grosso",
+   "alternatives": [
+    "espesso"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3976,
+   "user_hint": "",
+   "description": "Que tem grande espessura: “um livro grosso”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1082,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "quantities"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004531",
+   "english_id": "en:000004531",
+   "kind": "word",
+   "description_en": "Having a strong, sharp taste, like coffee without sugar.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "amargo",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3977,
+   "user_hint": "",
+   "description": "Com gosto forte e desagradável, como o do café sem açúcar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1083,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004532",
+   "english_id": "en:000004532",
+   "kind": "word",
+   "description_en": "Very good to eat or drink.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "gostoso",
+   "alternatives": [
+    "delicioso"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3978,
+   "user_hint": "",
+   "description": "Muito bom de comer ou beber.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1084,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004533",
+   "english_id": "en:000004533",
+   "kind": "word",
+   "description_en": "A stick of wax that you light to give light.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "vela",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3979,
+   "user_hint": "",
+   "description": "Bastão de cera com pavio que se acende para dar luz.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1085,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004534",
+   "english_id": "en:000004534",
+   "kind": "word",
+   "description_en": "A long seat for several people, like in a park.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "banco",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3980,
+   "user_hint": "",
+   "description": "Assento comprido para várias pessoas, como na praça.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1086,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "places"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004535",
+   "english_id": "en:000004535",
+   "kind": "word",
+   "description_en": "The part of a piece of clothing that covers the arm.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "manga",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3981,
+   "user_hint": "",
+   "description": "Parte da roupa que cobre o braço.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1087,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004536",
+   "english_id": "en:000004536",
+   "kind": "word",
+   "description_en": "A thin string used for sewing.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "linha",
+   "alternatives": [
+    "fio"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3982,
+   "user_hint": "",
+   "description": "Fio fino usado para costurar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1088,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004537",
+   "english_id": "en:000004537",
+   "kind": "word",
+   "description_en": "A thin piece of metal, like one that carries electricity.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "fio",
+   "alternatives": [
+    "cabo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3983,
+   "user_hint": "",
+   "description": "Fio de metal, como o que leva eletricidade.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1089,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004538",
+   "english_id": "en:000004538",
+   "kind": "word",
+   "description_en": "Things placed one on top of another: \"a pile of books\".",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pilha",
+   "alternatives": [
+    "monte"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3984,
+   "user_hint": "",
+   "description": "Coisas colocadas umas sobre as outras: “uma pilha de livros”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1090,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "quantities"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004539",
+   "english_id": "en:000004539",
+   "kind": "word",
+   "description_en": "To remove writing or a drawing.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "apagar",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3985,
+   "user_hint": "",
+   "description": "Tirar o que está escrito ou desenhado.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1091,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004540",
+   "english_id": "en:000004540",
+   "kind": "word",
+   "description_en": "To have to pay or give something back to someone.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "dever",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3986,
+   "user_hint": "",
+   "description": "Ter que pagar ou devolver algo a alguém: “te devo dez reais”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1092,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004541",
+   "english_id": "en:000004541",
+   "kind": "word",
+   "description_en": "To make someone remember something.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "lembrar",
+   "alternatives": [
+    "recordar"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3987,
+   "user_hint": "",
+   "description": "Fazer alguém se lembrar de algo: “me lembre de ligar”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1093,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "communication"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004542",
+   "english_id": "en:000004542",
+   "kind": "word",
+   "description_en": "A cut or injury on the body.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "ferida",
+   "alternatives": [
+    "machucado"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3988,
+   "user_hint": "",
+   "description": "Lugar do corpo cortado ou machucado.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1094,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004543",
+   "english_id": "en:000004543",
+   "kind": "word",
+   "description_en": "Loose earth or soil; also something that makes things dirty.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "terra",
+   "alternatives": [
+    "sujeira"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3989,
+   "user_hint": "",
+   "description": "Terra solta ou sujeira: “mãos cheias de terra”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1095,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004544",
+   "english_id": "en:000004544",
+   "kind": "word",
+   "description_en": "One of the fingers of the foot.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "dedo do pé",
+   "alternatives": [
+    "dedo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3990,
+   "user_hint": "",
+   "description": "Cada um dos dedos do pé.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1096,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004545",
+   "english_id": "en:000004545",
+   "kind": "word",
+   "description_en": "A small bag for a wallet and other things.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bolsa",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3991,
+   "user_hint": "",
+   "description": "Bolsa de mão para levar carteira e outras coisas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1097,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004546",
+   "english_id": "en:000004546",
+   "kind": "word",
+   "description_en": "A female chicken that lays eggs.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "galinha",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3992,
+   "user_hint": "",
+   "description": "Ave fêmea que bota ovos.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1098,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004547",
+   "english_id": "en:000004547",
+   "kind": "word",
+   "description_en": "Two lenses in a frame that you wear to see better.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "óculos",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3993,
+   "user_hint": "",
+   "description": "Duas lentes num suporte, usadas para enxergar melhor.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1099,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004548",
+   "english_id": "en:000004548",
+   "kind": "word",
+   "description_en": "A piece of paper or cloth to clean your mouth and hands at a meal.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "guardanapo",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3994,
+   "user_hint": "",
+   "description": "Pedaço de papel ou pano para limpar a boca e as mãos na refeição.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1100,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004549",
+   "english_id": "en:000004549",
+   "kind": "word",
+   "description_en": "A deep container for cooking.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "panela",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3995,
+   "user_hint": "",
+   "description": "Recipiente fundo para cozinhar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1101,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004550",
+   "english_id": "en:000004550",
+   "kind": "word",
+   "description_en": "A shallow pan with a handle, for frying.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "frigideira",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3996,
+   "user_hint": "",
+   "description": "Panela rasa com cabo, para fritar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1102,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004551",
+   "english_id": "en:000004551",
+   "kind": "word",
+   "description_en": "A kitchen appliance with burners for cooking.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "fogão",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3997,
+   "user_hint": "",
+   "description": "Aparelho da cozinha com bocas para cozinhar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1103,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004552",
+   "english_id": "en:000004552",
+   "kind": "word",
+   "description_en": "A closed box for baking or roasting food.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "forno",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3998,
+   "user_hint": "",
+   "description": "Parte fechada do fogão ou aparelho para assar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1104,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004553",
+   "english_id": "en:000004553",
+   "kind": "word",
+   "description_en": "A machine that heats food quickly.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "micro-ondas",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 3999,
+   "user_hint": "",
+   "description": "Aparelho que esquenta comida rápido.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1105,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004554",
+   "english_id": "en:000004554",
+   "kind": "word",
+   "description_en": "A liquid soap for washing hair.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "xampu",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4000,
+   "user_hint": "",
+   "description": "Sabão líquido para lavar o cabelo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1106,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004555",
+   "english_id": "en:000004555",
+   "kind": "word",
+   "description_en": "A paste for cleaning your teeth.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pasta de dente",
+   "alternatives": [
+    "creme dental"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4001,
+   "user_hint": "",
+   "description": "Pasta para escovar os dentes.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1107,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004556",
+   "english_id": "en:000004556",
+   "kind": "word",
+   "description_en": "An object with thin teeth for tidying your hair.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pente",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4002,
+   "user_hint": "",
+   "description": "Objeto com dentes finos para arrumar o cabelo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1108,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004557",
+   "english_id": "en:000004557",
+   "kind": "word",
+   "description_en": "A glass that shows your reflection.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "espelho",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4003,
+   "user_hint": "",
+   "description": "Vidro que reflete a imagem de quem olha.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1109,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004558",
+   "english_id": "en:000004558",
+   "kind": "word",
+   "description_en": "The soft part of a bed that you lie on.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "colchão",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4004,
+   "user_hint": "",
+   "description": "Parte macia da cama onde se deita.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1110,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004559",
+   "english_id": "en:000004559",
+   "kind": "word",
+   "description_en": "A long soft seat for several people.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "sofá",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4005,
+   "user_hint": "",
+   "description": "Assento estofado e comprido para várias pessoas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1111,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004560",
+   "english_id": "en:000004560",
+   "kind": "word",
+   "description_en": "A box that slides in and out of a piece of furniture.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "gaveta",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4006,
+   "user_hint": "",
+   "description": "Caixa que desliza para dentro de um móvel.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1112,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004561",
+   "english_id": "en:000004561",
+   "kind": "word",
+   "description_en": "A cupboard or space for keeping clothes.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "armário",
+   "alternatives": [
+    "guarda-roupa"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4007,
+   "user_hint": "",
+   "description": "Móvel ou espaço para guardar roupas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1113,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004562",
+   "english_id": "en:000004562",
+   "kind": "word",
+   "description_en": "A cloth that covers a window.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "cortina",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4008,
+   "user_hint": "",
+   "description": "Pano que cobre a janela.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1114,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004563",
+   "english_id": "en:000004563",
+   "kind": "word",
+   "description_en": "A thick cloth that covers a floor.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "tapete",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4009,
+   "user_hint": "",
+   "description": "Pano grosso que cobre o chão.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1115,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004564",
+   "english_id": "en:000004564",
+   "kind": "word",
+   "description_en": "A barrier around a piece of land.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "cerca",
+   "alternatives": [
+    "grade"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4010,
+   "user_hint": "",
+   "description": "Barreira em volta de um terreno.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1116,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004565",
+   "english_id": "en:000004565",
+   "kind": "word",
+   "description_en": "A covered place for keeping a car.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "garagem",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4011,
+   "user_hint": "",
+   "description": "Lugar coberto para guardar o carro.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1117,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004566",
+   "english_id": "en:000004566",
+   "kind": "word",
+   "description_en": "A hot liquid food made with vegetables, meat or noodles.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "sopa",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4012,
+   "user_hint": "",
+   "description": "Comida líquida e quente, feita com legumes, carne ou massa.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1118,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004567",
+   "english_id": "en:000004567",
+   "kind": "word",
+   "description_en": "Long strips of pasta, like spaghetti or ramen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "macarrão",
+   "alternatives": [
+    "miojo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4013,
+   "user_hint": "",
+   "description": "Massa comprida, como espaguete ou lámen.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1119,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004568",
+   "english_id": "en:000004568",
+   "kind": "word",
+   "description_en": "A yellow fat made from milk, spread on bread.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "manteiga",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4014,
+   "user_hint": "",
+   "description": "Gordura amarela feita do leite, passada no pão.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1120,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004569",
+   "english_id": "en:000004569",
+   "kind": "word",
+   "description_en": "A sweet liquid made by bees.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "mel",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4015,
+   "user_hint": "",
+   "description": "Líquido doce feito pelas abelhas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1121,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004570",
+   "english_id": "en:000004570",
+   "kind": "word",
+   "description_en": "A spice that makes food hot.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pimenta",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4016,
+   "user_hint": "",
+   "description": "Tempero que deixa a comida picante.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1122,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004571",
+   "english_id": "en:000004571",
+   "kind": "word",
+   "description_en": "A small sea animal often eaten as food.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "camarão",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4017,
+   "user_hint": "",
+   "description": "Animal pequeno do mar, muito usado na comida.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1123,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004572",
+   "english_id": "en:000004572",
+   "kind": "word",
+   "description_en": "A round soft fruit with a big stone.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pêssego",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4018,
+   "user_hint": "",
+   "description": "Fruta redonda de casca macia e caroço grande.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1124,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004573",
+   "english_id": "en:000004573",
+   "kind": "word",
+   "description_en": "A juicy fruit, wider at the bottom.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pera",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4019,
+   "user_hint": "",
+   "description": "Fruta suculenta, mais larga embaixo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1125,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004574",
+   "english_id": "en:000004574",
+   "kind": "word",
+   "description_en": "A small, round red fruit.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "cereja",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4020,
+   "user_hint": "",
+   "description": "Fruta pequena, redonda e vermelha.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1126,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004575",
+   "english_id": "en:000004575",
+   "kind": "word",
+   "description_en": "A vegetable with thick leaves in the shape of a ball.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "repolho",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4021,
+   "user_hint": "",
+   "description": "Verdura de folhas grossas em forma de bola.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1127,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004576",
+   "english_id": "en:000004576",
+   "kind": "word",
+   "description_en": "A long green vegetable eaten raw in salads.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pepino",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4022,
+   "user_hint": "",
+   "description": "Legume verde e comprido, comido cru na salada.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1128,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004577",
+   "english_id": "en:000004577",
+   "kind": "word",
+   "description_en": "A yellow grain that grows on cobs.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "milho",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4023,
+   "user_hint": "",
+   "description": "Grão amarelo que cresce em espigas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1129,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004578",
+   "english_id": "en:000004578",
+   "kind": "word",
+   "description_en": "Trousers made of thick blue cloth.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "calça jeans",
+   "alternatives": [
+    "jeans"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4024,
+   "user_hint": "",
+   "description": "Calça de tecido azul e grosso.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1130,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004579",
+   "english_id": "en:000004579",
+   "kind": "word",
+   "description_en": "Short trousers that end at or above the knee.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bermuda",
+   "alternatives": [
+    "short"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4025,
+   "user_hint": "",
+   "description": "Calça curta que vai até o joelho ou acima.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1131,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004580",
+   "english_id": "en:000004580",
+   "kind": "word",
+   "description_en": "A warm piece of clothing made of wool.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "blusa de frio",
+   "alternatives": [
+    "suéter",
+    "malha"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4026,
+   "user_hint": "",
+   "description": "Roupa de lã ou tecido grosso para o frio.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1132,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004581",
+   "english_id": "en:000004581",
+   "kind": "word",
+   "description_en": "Sports shoes with rubber soles.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "tênis",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4027,
+   "user_hint": "",
+   "description": "Calçado esportivo de sola de borracha.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1133,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004582",
+   "english_id": "en:000004582",
+   "kind": "word",
+   "description_en": "Shoes that cover the foot and part of the leg.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bota",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4028,
+   "user_hint": "",
+   "description": "Calçado que cobre o pé e parte da perna.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1134,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004583",
+   "english_id": "en:000004583",
+   "kind": "word",
+   "description_en": "Open shoes held on with straps.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "sandália",
+   "alternatives": [
+    "chinelo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4029,
+   "user_hint": "",
+   "description": "Calçado aberto, preso por tiras.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1135,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004584",
+   "english_id": "en:000004584",
+   "kind": "word",
+   "description_en": "A covering for the hand and fingers.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "luva",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4030,
+   "user_hint": "",
+   "description": "Peça que cobre a mão e os dedos.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1136,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004585",
+   "english_id": "en:000004585",
+   "kind": "word",
+   "description_en": "A small bag sewn into clothes to keep things in.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bolso",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4031,
+   "user_hint": "",
+   "description": "Pequeno saco costurado na roupa para guardar coisas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1137,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004586",
+   "english_id": "en:000004586",
+   "kind": "word",
+   "description_en": "A piece of jewelry worn on the ear.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "brinco",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4032,
+   "user_hint": "",
+   "description": "Enfeite usado na orelha.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1138,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004587",
+   "english_id": "en:000004587",
+   "kind": "word",
+   "description_en": "The part of the face above the eyes.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "testa",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4033,
+   "user_hint": "",
+   "description": "Parte do rosto acima dos olhos.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1139,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004588",
+   "english_id": "en:000004588",
+   "kind": "word",
+   "description_en": "The hair above the eyes.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "sobrancelha",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4034,
+   "user_hint": "",
+   "description": "Pelos acima dos olhos.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1140,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004589",
+   "english_id": "en:000004589",
+   "kind": "word",
+   "description_en": "One of the two soft edges of the mouth.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "lábio",
+   "alternatives": [
+    "beiço"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4035,
+   "user_hint": "",
+   "description": "Cada uma das bordas da boca.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1141,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004590",
+   "english_id": "en:000004590",
+   "kind": "word",
+   "description_en": "The side of the face below the eye.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bochecha",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4036,
+   "user_hint": "",
+   "description": "Parte lateral do rosto, abaixo dos olhos.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1142,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004591",
+   "english_id": "en:000004591",
+   "kind": "word",
+   "description_en": "The part of the face below the mouth.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "queixo",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4037,
+   "user_hint": "",
+   "description": "Parte do rosto abaixo da boca.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1143,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004592",
+   "english_id": "en:000004592",
+   "kind": "word",
+   "description_en": "The joint between the hand and the arm.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pulso",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4038,
+   "user_hint": "",
+   "description": "Junta entre a mão e o braço.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1144,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004593",
+   "english_id": "en:000004593",
+   "kind": "word",
+   "description_en": "The thick short finger on the side of the hand.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "polegar",
+   "alternatives": [
+    "dedão"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4039,
+   "user_hint": "",
+   "description": "O dedo mais grosso da mão.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1145,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004594",
+   "english_id": "en:000004594",
+   "kind": "word",
+   "description_en": "The part of the body between the chest and the hips.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "cintura",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4040,
+   "user_hint": "",
+   "description": "Parte do corpo entre o peito e o quadril.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1146,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004595",
+   "english_id": "en:000004595",
+   "kind": "word",
+   "description_en": "The part of the body on each side below the waist.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "quadril",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4041,
+   "user_hint": "",
+   "description": "Parte do corpo de cada lado, abaixo da cintura.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1147,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004596",
+   "english_id": "en:000004596",
+   "kind": "word",
+   "description_en": "The back part of the foot.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "calcanhar",
+   "alternatives": [
+    "salto"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4042,
+   "user_hint": "",
+   "description": "Parte de trás do pé. Também a parte alta do sapato.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1148,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004597",
+   "english_id": "en:000004597",
+   "kind": "word",
+   "description_en": "A body temperature higher than normal when you are sick.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "febre",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4043,
+   "user_hint": "",
+   "description": "Temperatura do corpo mais alta que o normal, quando se está doente.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1149,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004598",
+   "english_id": "en:000004598",
+   "kind": "word",
+   "description_en": "A pain in the head.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "dor de cabeça",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4044,
+   "user_hint": "",
+   "description": "Dor na cabeça.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1150,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004599",
+   "english_id": "en:000004599",
+   "kind": "word",
+   "description_en": "A pain in the stomach.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "dor de barriga",
+   "alternatives": [
+    "dor de estômago"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4045,
+   "user_hint": "",
+   "description": "Dor na barriga.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1151,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004600",
+   "english_id": "en:000004600",
+   "kind": "word",
+   "description_en": "A pain in a tooth.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "dor de dente",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4046,
+   "user_hint": "",
+   "description": "Dor num dente.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1152,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004601",
+   "english_id": "en:000004601",
+   "kind": "word",
+   "description_en": "An illness with fever, cough and body aches.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "gripe",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4047,
+   "user_hint": "",
+   "description": "Doença com febre, tosse e dor no corpo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1153,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "body_health"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004602",
+   "english_id": "en:000004602",
+   "kind": "word",
+   "description_en": "An animal with horns and a beard that gives milk.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "bode",
+   "alternatives": [
+    "cabra"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4048,
+   "user_hint": "",
+   "description": "Animal com chifres e barba, que dá leite.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1154,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004603",
+   "english_id": "en:000004603",
+   "kind": "word",
+   "description_en": "A wild animal like a big dog.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "lobo",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4049,
+   "user_hint": "",
+   "description": "Animal selvagem parecido com um cachorro grande.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1155,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004604",
+   "english_id": "en:000004604",
+   "kind": "word",
+   "description_en": "A forest animal; the male has big antlers.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "veado",
+   "alternatives": [
+    "cervo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4050,
+   "user_hint": "",
+   "description": "Animal da floresta; o macho tem chifres grandes.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1156,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004605",
+   "english_id": "en:000004605",
+   "kind": "word",
+   "description_en": "A black and white bear from China that eats bamboo.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "panda",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4051,
+   "user_hint": "",
+   "description": "Urso preto e branco da China que come bambu.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1157,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004606",
+   "english_id": "en:000004606",
+   "kind": "word",
+   "description_en": "A sea animal with a shell and claws that walks sideways.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "caranguejo",
+   "alternatives": [
+    "siri"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4052,
+   "user_hint": "",
+   "description": "Animal do mar com carapaça e garras, que anda de lado.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1158,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004607",
+   "english_id": "en:000004607",
+   "kind": "word",
+   "description_en": "A small insect that bites and sucks blood.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "mosquito",
+   "alternatives": [
+    "pernilongo"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4053,
+   "user_hint": "",
+   "description": "Inseto pequeno que pica e suga sangue.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1159,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004608",
+   "english_id": "en:000004608",
+   "kind": "word",
+   "description_en": "A small animal with six legs, like an ant.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "inseto",
+   "alternatives": [
+    "bicho"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4054,
+   "user_hint": "",
+   "description": "Bicho pequeno com seis patas, como a formiga.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1160,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004609",
+   "english_id": "en:000004609",
+   "kind": "word",
+   "description_en": "A low cloud that makes it hard to see.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "neblina",
+   "alternatives": [
+    "névoa"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4055,
+   "user_hint": "",
+   "description": "Nuvem baixa que dificulta enxergar.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1161,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004610",
+   "english_id": "en:000004610",
+   "kind": "word",
+   "description_en": "A person in the same class at school.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "colega de classe",
+   "alternatives": [
+    "colega"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4056,
+   "user_hint": "",
+   "description": "Pessoa que estuda na mesma turma.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1162,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004611",
+   "english_id": "en:000004611",
+   "kind": "word",
+   "description_en": "A board in a classroom that the teacher writes on.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "lousa",
+   "alternatives": [
+    "quadro",
+    "quadro-negro"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4057,
+   "user_hint": "",
+   "description": "Quadro onde o professor escreve na sala de aula.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1163,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004612",
+   "english_id": "en:000004612",
+   "kind": "word",
+   "description_en": "A book used to study a subject at school.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "livro didático",
+   "alternatives": [
+    "apostila"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4058,
+   "user_hint": "",
+   "description": "Livro usado para estudar uma matéria na escola.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1164,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004613",
+   "english_id": "en:000004613",
+   "kind": "word",
+   "description_en": "The school subject about the Earth, countries and places.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "geografia",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4059,
+   "user_hint": "",
+   "description": "Matéria que estuda a Terra, os países e os lugares.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1165,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school_learning"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004614",
+   "english_id": "en:000004614",
+   "kind": "word",
+   "description_en": "A device that charges a phone battery.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "carregador",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4060,
+   "user_hint": "",
+   "description": "Aparelho que carrega a bateria do celular.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1166,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "technology_common"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004615",
+   "english_id": "en:000004615",
+   "kind": "word",
+   "description_en": "Tired and unhappy because nothing is interesting.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "entediado",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4061,
+   "user_hint": "",
+   "description": "Sem vontade, porque não há nada interessante para fazer.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1167,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004616",
+   "english_id": "en:000004616",
+   "kind": "word",
+   "description_en": "Not interesting: \"a boring movie\".",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "chato",
+   "alternatives": [
+    "tedioso"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4062,
+   "user_hint": "",
+   "description": "Que não tem graça e cansa: “um filme chato”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1168,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004617",
+   "english_id": "en:000004617",
+   "kind": "word",
+   "description_en": "Worried or a little afraid before something important.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "nervoso",
+   "alternatives": [
+    "ansioso"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4063,
+   "user_hint": "",
+   "description": "Preocupado ou com medo antes de algo importante.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1169,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004618",
+   "english_id": "en:000004618",
+   "kind": "word",
+   "description_en": "Sad because you are alone.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "solitário",
+   "alternatives": [
+    "sozinho"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4064,
+   "user_hint": "",
+   "description": "Triste por estar sem companhia.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1170,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004619",
+   "english_id": "en:000004619",
+   "kind": "word",
+   "description_en": "Unhappy because someone has what you want.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "com ciúmes",
+   "alternatives": [
+    "ciumento",
+    "com inveja"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4065,
+   "user_hint": "",
+   "description": "Incomodado porque outra pessoa tem o que você quer.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1171,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004620",
+   "english_id": "en:000004620",
+   "kind": "word",
+   "description_en": "Feeling silly or ashamed in front of others.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "envergonhado",
+   "alternatives": [
+    "sem graça"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4066,
+   "user_hint": "",
+   "description": "Com vergonha por causa de uma situação.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1172,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004621",
+   "english_id": "en:000004621",
+   "kind": "word",
+   "description_en": "Having a sharp taste, like a lemon.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "azedo",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4067,
+   "user_hint": "",
+   "description": "Com gosto ácido, como o limão.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1173,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food_market"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004622",
+   "english_id": "en:000004622",
+   "kind": "word",
+   "description_en": "Not nice to look at.",
+   "level": "A2",
+   "part_of_speech": "adj",
+   "source_status": "editorial-reviewed",
+   "text": "feio",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4068,
+   "user_hint": "",
+   "description": "Que não é bonito de ver.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1174,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "feelings"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004623",
+   "english_id": "en:000004623",
+   "kind": "word",
+   "description_en": "To clean or tidy with a brush: \"brush your teeth\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "escovar",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4069,
+   "user_hint": "",
+   "description": "Limpar ou arrumar com escova: “escovar os dentes”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1175,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "routine"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004624",
+   "english_id": "en:000004624",
+   "kind": "word",
+   "description_en": "To go or do something quickly because there is little time.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "apressar-se",
+   "alternatives": [
+    "correr"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4070,
+   "user_hint": "",
+   "description": "Fazer algo rápido porque falta tempo: “corre, estamos atrasados”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1176,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "actions"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004625",
+   "english_id": "en:000004625",
+   "kind": "word",
+   "description_en": "To say something very loudly.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "gritar",
+   "alternatives": [
+    "berrar"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4071,
+   "user_hint": "",
+   "description": "Falar muito alto.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1177,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "communication"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004626",
+   "english_id": "en:000004626",
+   "kind": "word",
+   "description_en": "Twelve o'clock at night.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "meia-noite",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4072,
+   "user_hint": "",
+   "description": "Meio da noite, às 24 horas.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1178,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004627",
+   "english_id": "en:000004627",
+   "kind": "word",
+   "description_en": "Twelve o'clock in the day.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "meio-dia",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4073,
+   "user_hint": "",
+   "description": "As 12 horas do dia.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1179,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "weather_emotion_time"
    ]
   }
  ]
