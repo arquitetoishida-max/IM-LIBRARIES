@@ -46,6 +46,10 @@ for f in sys.argv[1:]:
         elif op=='alt-': e['alternatives']=[a for a in e.get('alternatives') or [] if a not in o['v']]
         elif op=='text': e['text']=o['v']
         elif op=='desc': e['description']=o['v']
-        elif op=='drop': P[l]['entries']=[x for x in P[l]['entries'] if x['english_id']!=i]; E[l].pop(i)
+        elif op=='drop':
+            P[l]['entries']=[x for x in P[l]['entries'] if x['english_id']!=i]; E[l].pop(i)
+            if isinstance(P[l].get('constructions'),list): P[l]['constructions']=[c for c in P[l]['constructions'] if not str(c.get('lemma_id','')).endswith(i)]
+            for x in P[l]['entries']:
+                if x.get('antonyms'): x['antonyms']=[a for a in x['antonyms'] if a!=i]
 for l in L: json.dump(P[l],open(f'v2/{l}-core-v2.json','w'),ensure_ascii=False,indent=1)
 print('ok')

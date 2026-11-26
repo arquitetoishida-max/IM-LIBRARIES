@@ -141,36 +141,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000006",
-   "english_id": "en:000000006",
-   "text": "is",
-   "kind": "form",
-   "description_en": "Present-tense form of “be” used with a singular third-person subject, as in “she is ready”.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 90,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "grammatical_key": "PRES.3SG",
-   "study_tier": "núcleo inicial",
-   "key_pending": false,
-   "study_priority": 3161,
-   "description": "Present-tense form of “be” used with a singular third-person subject, as in “she is ready”.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PRES.3SG"
-  },
-  {
    "id": "en:000000007",
    "english_id": "en:000000007",
    "text": "for",
@@ -352,36 +322,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000014",
-   "english_id": "en:000000014",
-   "text": "was",
-   "kind": "form",
-   "description_en": "Past of \"be\" (I/he/she was).",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 117,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "grammatical_key": "PAST.1_3SG",
-   "study_tier": "praticar com lema",
-   "key_pending": false,
-   "study_priority": 3954,
-   "description": "Past of \"be\" (I/he/she was).",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000015",
    "english_id": "en:000000015",
    "text": "be",
@@ -493,42 +433,6 @@
     "like",
     "while"
    ]
-  },
-  {
-   "id": "en:000000017",
-   "english_id": "en:000000017",
-   "text": "are",
-   "kind": "form",
-   "description_en": "Present form of be used with you, we, or they.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 78,
-   "environments": [
-    "communication",
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative",
-    "person": "second_or_plural",
-    "number": "singular_or_plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "praticar com lema",
-   "study_priority": 3955,
-   "description": "The present form of \"be\" used with you, we and they.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PRES.3SG"
   },
   {
    "id": "en:000000018",
@@ -1235,41 +1139,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000045",
-   "english_id": "en:000000045",
-   "text": "has",
-   "kind": "form",
-   "description_en": "Third-person singular present form of have, as in she has a car.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "have",
-   "vcu14_rank": 174,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000018",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative",
-    "person": "third",
-    "number": "singular"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "praticar com lema",
-   "study_priority": 3956,
-   "description": "A form of \"have\" used with he, she and it.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000018",
-   "inflection_key": "PRES.3SG"
-  },
-  {
    "id": "en:000000046",
    "english_id": "en:000000046",
    "text": "when",
@@ -1411,36 +1280,6 @@
    ]
   },
   {
-   "id": "en:000000050",
-   "english_id": "en:000000050",
-   "text": "were",
-   "kind": "form",
-   "description_en": "Past of \"be\" (we/you/they were).",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 184,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "grammatical_key": "PAST.2SG_PL",
-   "study_tier": "praticar com lema",
-   "key_pending": false,
-   "study_priority": 3957,
-   "description": "Past of \"be\" (we/you/they were).",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000051",
    "english_id": "en:000000051",
    "text": "who",
@@ -1465,80 +1304,6 @@
    "alternatives": [
     "which person"
    ]
-  },
-  {
-   "id": "en:000000052",
-   "english_id": "en:000000052",
-   "text": "had",
-   "kind": "form",
-   "description_en": "Past of \"have\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "have",
-   "vcu14_rank": 186,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000018",
-   "lexical_type": "form",
-   "grammatical_key": "PAST",
-   "study_tier": "praticar com lema",
-   "key_pending": false,
-   "study_priority": 3958,
-   "description": "Past of \"have\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000018",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000000053",
-   "english_id": "en:000000053",
-   "text": "it's",
-   "kind": "word",
-   "description_en": "Short for \"it is\" or \"it has\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "it",
-     "role": "pronoun",
-     "refs": [
-      "en:000000010"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      2,
-      4
-     ]
-    }
-   ],
-   "usage_note": "'s = is or has, by context",
-   "study_tier": "praticar com lema",
-   "study_priority": 2387,
-   "user_hint": "",
-   "description": "Short for \"it is\" or \"it has\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000054",
@@ -1721,39 +1486,6 @@
     "obtain",
     "become"
    ]
-  },
-  {
-   "id": "en:000000060",
-   "english_id": "en:000000060",
-   "text": "been",
-   "kind": "form",
-   "description_en": "Past participle of be, as in I have been there.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 191,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "praticar com lema",
-   "study_priority": 3959,
-   "description": "Past participle of \"be\" (\"I have been there\").",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "pending",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "en:000000061",
@@ -2055,46 +1787,6 @@
     "different",
     "another"
    ]
-  },
-  {
-   "id": "en:000000072",
-   "english_id": "en:000000072",
-   "text": "I'm",
-   "kind": "word",
-   "description_en": "Short for \"I am\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "I",
-     "role": "pronoun",
-     "refs": [],
-     "span": [
-      0,
-      1
-     ]
-    },
-    {
-     "surface": "'m",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      1,
-      3
-     ]
-    }
-   ],
-   "study_tier": "praticar com lema",
-   "study_priority": 2389,
-   "user_hint": "",
-   "description": "Short for \"I am\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000073",
@@ -2931,34 +2623,6 @@
    ]
   },
   {
-   "id": "en:000000098",
-   "english_id": "en:000000098",
-   "text": "said",
-   "kind": "form",
-   "description_en": "Past and past-participle form of say.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "say",
-   "lemma_id": "en:000000130",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "praticar com lema",
-   "study_priority": 3193,
-   "user_hint": "",
-   "description": "Past and past-participle form of say.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000130",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000099",
    "english_id": "en:000000099",
    "text": "way",
@@ -3470,32 +3134,6 @@
    ]
   },
   {
-   "id": "en:000000118",
-   "english_id": "en:000000118",
-   "text": "going",
-   "kind": "form",
-   "description_en": "Present participle of go, as in she is going home.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "go",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000096",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3195,
-   "user_hint": "",
-   "description": "Present participle of go, as in she is going home.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000119",
    "english_id": "en:000000119",
    "text": "before",
@@ -3575,34 +3213,6 @@
    "alternatives": [
     "for what reason"
    ]
-  },
-  {
-   "id": "en:000000122",
-   "english_id": "en:000000122",
-   "text": "made",
-   "kind": "form",
-   "description_en": "Past and past-participle form of make.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "make",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000085",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3196,
-   "user_hint": "",
-   "description": "Past and past-participle form of make.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000085",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000123",
@@ -3688,34 +3298,6 @@
     "grab",
     "carry"
    ]
-  },
-  {
-   "id": "en:000000125",
-   "english_id": "en:000000125",
-   "text": "got",
-   "kind": "form",
-   "description_en": "Past form of get; also its past participle.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "get",
-   "lemma_id": "en:000000059",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3197,
-   "user_hint": "",
-   "description": "Past form of get; also its past participle.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000059",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000126",
@@ -3974,53 +3556,6 @@
    ]
   },
   {
-   "id": "en:000000135",
-   "english_id": "en:000000135",
-   "text": "you're",
-   "kind": "word",
-   "description_en": "Short for \"you are\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "vcu14_rank": 284,
-   "environments": [
-    "communication"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "you",
-     "role": "pronoun",
-     "refs": [
-      "en:000000009"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'re",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2390,
-   "description": "Short for \"you are\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": []
-  },
-  {
    "id": "en:000000136",
    "english_id": "en:000000136",
    "text": "last",
@@ -4048,55 +3583,6 @@
     "final",
     "latest"
    ]
-  },
-  {
-   "id": "en:000000137",
-   "english_id": "en:000000137",
-   "text": "that's",
-   "kind": "word",
-   "description_en": "Short for \"that is\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "vcu14_rank": 285,
-   "environments": [
-    "communication"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "that",
-     "role": "pronoun",
-     "refs": [
-      "en:000000008"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      4,
-      6
-     ]
-    }
-   ],
-   "usage_note": "'s = is or has",
-   "study_tier": "herdado",
-   "study_priority": 2391,
-   "description": "Short for \"that is\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": []
   },
   {
    "id": "en:000000138",
@@ -4425,48 +3911,6 @@
    ]
   },
   {
-   "id": "en:000000148",
-   "english_id": "en:000000148",
-   "text": "can't",
-   "kind": "word",
-   "description_en": "Short for \"cannot\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "ca",
-     "role": "modal",
-     "refs": [
-      "en:000000037"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2393,
-   "user_hint": "",
-   "description": "Short for \"cannot\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000149",
    "english_id": "en:000000149",
    "text": "same",
@@ -4617,36 +4061,6 @@
     "each",
     "all"
    ]
-  },
-  {
-   "id": "en:000000153",
-   "english_id": "en:000000153",
-   "text": "am",
-   "kind": "form",
-   "description_en": "Form of \"be\" (I am).",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "be",
-   "vcu14_rank": 305,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000015",
-   "lexical_type": "form",
-   "grammatical_key": "PRES.1SG",
-   "study_tier": "herdado",
-   "key_pending": false,
-   "study_priority": 3198,
-   "description": "A form of \"be\" used with \"I\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000015",
-   "inflection_key": "PRES.3SG"
   },
   {
    "id": "en:000000154",
@@ -5131,41 +4545,6 @@
    ]
   },
   {
-   "id": "en:000000169",
-   "english_id": "en:000000169",
-   "text": "does",
-   "kind": "form",
-   "description_en": "The present-tense form of “do” used with he, she, it, or a singular subject. It can mean to perform an action or help form a question or negative.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "do",
-   "vcu14_rank": 317,
-   "environments": [
-    "grammar"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000048",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative",
-    "person": "third",
-    "number": "singular"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3199,
-   "description": "The present-tense form of “do” used with he, she, it, or a singular subject. It can mean to perform an action or help form a question or negative.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000048",
-   "inflection_key": "PRES.3SG"
-  },
-  {
    "id": "en:000000170",
    "english_id": "en:000000170",
    "text": "own",
@@ -5270,46 +4649,6 @@
    "description": "An activity you play for fun, with rules.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
-  },
-  {
-   "id": "en:000000175",
-   "english_id": "en:000000175",
-   "text": "I've",
-   "kind": "word",
-   "description_en": "Short for \"I have\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "I",
-     "role": "pronoun",
-     "refs": [],
-     "span": [
-      0,
-      1
-     ]
-    },
-    {
-     "surface": "'ve",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      1,
-      4
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2397,
-   "user_hint": "",
-   "description": "Short for \"I have\".",
-   "novrev_status": "reviewed",
    "antonyms": []
   },
   {
@@ -5615,48 +4954,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000187",
-   "english_id": "en:000000187",
-   "text": "didn't",
-   "kind": "word",
-   "description_en": "Short for \"did not\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "did",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000048"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2399,
-   "user_hint": "",
-   "description": "Short for \"did not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000188",
    "english_id": "en:000000188",
    "text": "end",
@@ -5685,44 +4982,6 @@
    "alternatives": [
     "finish",
     "goal"
-   ]
-  },
-  {
-   "id": "en:000000189",
-   "english_id": "en:000000189",
-   "text": "found",
-   "kind": "form",
-   "description_en": "Past and past-participle form of find.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "find",
-   "lemma_id": "en:000000162",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3200,
-   "user_hint": "",
-   "description": "Past and past-participle form of find.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000162",
-   "inflection_key": "PAST",
-   "forms": [
-    {
-     "form_id": "en:000000189:f:PAST:founded",
-     "lemma_id": "en:000000189",
-     "grammatical_key": "PAST",
-     "text": "founded",
-     "study_tier": "standard",
-     "description_en": "Past of \"found\" (to start an organization): \"The school was founded in 1900\"."
-    }
    ]
   },
   {
@@ -6498,49 +5757,6 @@
    "core_status": "pending"
   },
   {
-   "id": "en:000000219",
-   "english_id": "en:000000219",
-   "text": "he's",
-   "kind": "word",
-   "description_en": "Short for \"he is\" or \"he has\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "he",
-     "role": "pronoun",
-     "refs": [
-      "en:000000020"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      2,
-      4
-     ]
-    }
-   ],
-   "usage_note": "'s = is or has",
-   "study_priority": 3093,
-   "user_hint": "",
-   "description": "Short for \"he is\" or \"he has\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000220",
    "english_id": "en:000000220",
    "text": "let",
@@ -6816,34 +6032,6 @@
    "antonyms": [
     "en:000001486"
    ]
-  },
-  {
-   "id": "en:000000236",
-   "english_id": "en:000000236",
-   "text": "women",
-   "kind": "form",
-   "description_en": "The irregular plural of woman.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "woman",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000435",
-   "lexical_type": "form",
-   "features": {
-    "construction": "irregular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3451,
-   "user_hint": "",
-   "description": "The irregular plural of woman.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000435",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000000237",
@@ -7393,75 +6581,6 @@
    ]
   },
   {
-   "id": "en:000000257",
-   "english_id": "en:000000257",
-   "text": "there's",
-   "kind": "word",
-   "description_en": "Short for \"there is\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "there",
-     "role": "pronoun",
-     "refs": [
-      "en:000000055"
-     ],
-     "span": [
-      0,
-      5
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      5,
-      7
-     ]
-    }
-   ],
-   "study_priority": 3125,
-   "user_hint": "",
-   "description": "Short for \"there is\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
-   "id": "en:000000258",
-   "english_id": "en:000000258",
-   "text": "told",
-   "kind": "form",
-   "description_en": "Past and past-participle form of tell.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "tell",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000267",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3452,
-   "user_hint": "",
-   "description": "Past and past-participle form of tell.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000267",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000259",
    "english_id": "en:000000259",
    "text": "yet",
@@ -7502,47 +6621,6 @@
    "antonyms": [
     "en:000000076"
    ]
-  },
-  {
-   "id": "en:000000261",
-   "english_id": "en:000000261",
-   "text": "doesn't",
-   "kind": "word",
-   "description_en": "Short for \"does not\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "does",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000048"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_priority": 3128,
-   "user_hint": "",
-   "description": "Short for \"does not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000262",
@@ -7820,33 +6898,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000271",
-   "english_id": "en:000000271",
-   "text": "seen",
-   "kind": "form",
-   "description_en": "Past participle of see, as in I have seen it.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "see",
-   "lemma_id": "en:000000083",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3453,
-   "user_hint": "",
-   "description": "Past participle of see, as in I have seen it.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000083",
-   "inflection_key": "PTCP_PAST"
-  },
-  {
    "id": "en:000000273",
    "english_id": "en:000000273",
    "text": "stop",
@@ -8068,34 +7119,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000279",
-   "english_id": "en:000000279",
-   "text": "men",
-   "kind": "form",
-   "description_en": "The irregular plural of man.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "man",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000142",
-   "lexical_type": "form",
-   "features": {
-    "construction": "irregular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3454,
-   "user_hint": "",
-   "description": "The irregular plural of man.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000142",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000000280",
    "english_id": "en:000000280",
    "text": "national",
@@ -8136,33 +7159,6 @@
    ]
   },
   {
-   "id": "en:000000282",
-   "english_id": "en:000000282",
-   "text": "took",
-   "kind": "form",
-   "description_en": "Simple past form of take.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "take",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000124",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3455,
-   "user_hint": "",
-   "description": "Simple past form of take.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000124",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000283",
    "english_id": "en:000000283",
    "text": "white",
@@ -8179,33 +7175,6 @@
    "antonyms": [
     "en:000000315"
    ]
-  },
-  {
-   "id": "en:000000284",
-   "english_id": "en:000000284",
-   "text": "came",
-   "kind": "form",
-   "description_en": "Simple past form of come.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "come",
-   "lemma_id": "en:000000154",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_priority": 3456,
-   "user_hint": "",
-   "description": "Simple past form of come.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000154",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000285",
@@ -8352,31 +7321,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000000290",
-   "english_id": "en:000000290",
-   "text": "went",
-   "kind": "form",
-   "description_en": "Past of \"go\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "go",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000096",
-   "lexical_type": "form",
-   "grammatical_key": "PAST",
-   "study_tier": "essential",
-   "key_pending": false,
-   "study_priority": 3457,
-   "user_hint": "",
-   "description": "Past of \"go\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000096",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000291",
@@ -8817,31 +7761,6 @@
    ]
   },
   {
-   "id": "en:000000307",
-   "english_id": "en:000000307",
-   "text": "children",
-   "kind": "form",
-   "description_en": "Plural of \"child\": young people.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "child",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000481",
-   "lexical_type": "form",
-   "grammatical_key": "PL",
-   "study_tier": "herdado",
-   "key_pending": false,
-   "study_priority": 3201,
-   "user_hint": "",
-   "description": "Plural of \"child\": young people.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000481",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000000308",
    "english_id": "en:000000308",
    "text": "everyone",
@@ -8878,48 +7797,6 @@
    "study_priority": 2401,
    "user_hint": "",
    "description": "About the whole, not details.",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
-   "id": "en:000000310",
-   "english_id": "en:000000310",
-   "text": "they're",
-   "kind": "word",
-   "description_en": "Short for \"they are\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "they",
-     "role": "pronoun",
-     "refs": [
-      "en:000000033"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "'re",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2402,
-   "user_hint": "",
-   "description": "Short for \"they are\".",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -9395,36 +8272,6 @@
    ]
   },
   {
-   "id": "en:000000337",
-   "english_id": "en:000000337",
-   "text": "means",
-   "kind": "form",
-   "description_en": "Third-person singular present form of mean.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "mean",
-   "lemma_id": "en:000000264",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative",
-    "person": "third",
-    "number": "singular"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3202,
-   "user_hint": "",
-   "description": "Third-person singular present form of mean.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000264",
-   "inflection_key": "PRES.3SG"
-  },
-  {
    "id": "en:000000338",
    "english_id": "en:000000338",
    "text": "news",
@@ -9537,70 +8384,6 @@
    "antonyms": [
     "en:000000439"
    ]
-  },
-  {
-   "id": "en:000000343",
-   "english_id": "en:000000343",
-   "text": "friends",
-   "kind": "form",
-   "description_en": "Plural of \"friend\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "friend",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000405",
-   "lexical_type": "form",
-   "grammatical_key": "PL",
-   "study_tier": "herdado",
-   "study_priority": 3203,
-   "user_hint": "",
-   "description": "Plural of \"friend\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000405",
-   "inflection_key": "PL"
-  },
-  {
-   "id": "en:000000344",
-   "english_id": "en:000000344",
-   "text": "I'll",
-   "kind": "word",
-   "description_en": "Short for \"I will\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "I",
-     "role": "pronoun",
-     "refs": [],
-     "span": [
-      0,
-      1
-     ]
-    },
-    {
-     "surface": "'ll",
-     "role": "modal",
-     "refs": [
-      "en:000000038"
-     ],
-     "span": [
-      1,
-      4
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2407,
-   "user_hint": "",
-   "description": "Short for \"I will\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000345",
@@ -9939,32 +8722,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000358",
-   "english_id": "en:000000358",
-   "text": "given",
-   "kind": "form",
-   "description_en": "Past participle of give, as in she has given me a book.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "adj",
-   "lemma": "give",
-   "lemma_id": "en:000000177",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "tardio",
-   "study_priority": 3359,
-   "user_hint": "",
-   "description": "Past participle of give, as in she has given me a book.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000359",
    "english_id": "en:000000359",
    "text": "guys",
@@ -10033,48 +8790,6 @@
    "alternatives": [
     "palm"
    ]
-  },
-  {
-   "id": "en:000000362",
-   "english_id": "en:000000362",
-   "text": "isn't",
-   "kind": "word",
-   "description_en": "Short for \"is not\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "is",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2410,
-   "user_hint": "",
-   "description": "Short for \"is not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000363",
@@ -10240,32 +8955,6 @@
     "figure",
     "frame"
    ]
-  },
-  {
-   "id": "en:000000369",
-   "english_id": "en:000000369",
-   "text": "coming",
-   "kind": "form",
-   "description_en": "Present participle of come, as in she is coming.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "come",
-   "lemma_id": "en:000000154",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3961,
-   "user_hint": "",
-   "description": "Present participle of come, as in she is coming.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "pending"
   },
   {
    "id": "en:000000370",
@@ -10525,48 +9214,6 @@
    "antonyms": [
     "en:000002306"
    ]
-  },
-  {
-   "id": "en:000000380",
-   "english_id": "en:000000380",
-   "text": "we're",
-   "kind": "word",
-   "description_en": "Short for \"we are\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "we",
-     "role": "pronoun",
-     "refs": [
-      "en:000000027"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'re",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2412,
-   "user_hint": "",
-   "description": "Short for \"we are\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000381",
@@ -11410,48 +10057,6 @@
    ]
   },
   {
-   "id": "en:000000418",
-   "english_id": "en:000000418",
-   "text": "I'd",
-   "kind": "word",
-   "description_en": "Short for \"I would\" or \"I had\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "I",
-     "role": "pronoun",
-     "refs": [],
-     "span": [
-      0,
-      1
-     ]
-    },
-    {
-     "surface": "'d",
-     "role": "modal",
-     "refs": [
-      "en:000000061",
-      "en:000000018"
-     ],
-     "span": [
-      1,
-      3
-     ]
-    }
-   ],
-   "usage_note": "'d = would or had",
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 2419,
-   "user_hint": "",
-   "description": "Short for \"I would\" or \"I had\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000419",
    "english_id": "en:000000419",
    "text": "idea",
@@ -12001,34 +10606,6 @@
    ]
   },
   {
-   "id": "en:000000442",
-   "english_id": "en:000000442",
-   "text": "saw",
-   "kind": "form",
-   "description_en": "Simple past form of see.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "see",
-   "lemma_id": "en:000000083",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3204,
-   "user_hint": "",
-   "description": "Simple past form of see.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000083",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000443",
    "english_id": "en:000000443",
    "text": "special",
@@ -12099,48 +10676,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000000445",
-   "english_id": "en:000000445",
-   "text": "won't",
-   "kind": "word",
-   "description_en": "Short for \"will not\".",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "wo",
-     "role": "modal",
-     "refs": [
-      "en:000000038"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 2431,
-   "user_hint": "",
-   "description": "Short for \"will not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000446",
@@ -12407,34 +10942,6 @@
     "remain",
     "wait"
    ]
-  },
-  {
-   "id": "en:000000456",
-   "english_id": "en:000000456",
-   "text": "taken",
-   "kind": "form",
-   "description_en": "Past participle of take, as in I have taken it.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "take",
-   "lemma_id": "en:000000124",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 3206,
-   "user_hint": "",
-   "description": "Past participle of take, as in I have taken it.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000124",
-   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "en:000000457",
@@ -12898,35 +11405,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000474",
-   "english_id": "en:000000474",
-   "text": "minutes",
-   "kind": "form",
-   "description_en": "The plural of minute.",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "n",
-   "lemma": "minute",
-   "lemma_id": "en:000001090",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3207,
-   "user_hint": "",
-   "description": "The plural of minute.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001090",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000000475",
    "english_id": "en:000000475",
    "text": "myself",
@@ -13306,30 +11784,6 @@
    ]
   },
   {
-   "id": "en:000000493",
-   "english_id": "en:000000493",
-   "text": "gonna",
-   "kind": "word",
-   "description_en": "Informal \"going to\" (future).",
-   "level": "A1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "informal_variant",
-   "features": {
-    "variant_of": "be going to"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3208,
-   "user_hint": "",
-   "description": "Informal \"going to\" (future).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000494",
    "english_id": "en:000000494",
    "text": "market",
@@ -13612,35 +12066,6 @@
    ]
   },
   {
-   "id": "en:000000510",
-   "english_id": "en:000000510",
-   "text": "kids",
-   "kind": "form",
-   "description_en": "The plural of kid; informal for children.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "kid",
-   "part_of_speech": "n",
-   "lemma_id": "en:000001073",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "inicial",
-   "study_priority": 3164,
-   "user_hint": "",
-   "description": "The plural of kid; informal for children.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001073",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000000511",
    "english_id": "en:000000511",
    "text": "list",
@@ -13764,48 +12189,6 @@
     "road",
     "avenue"
    ]
-  },
-  {
-   "id": "en:000000516",
-   "english_id": "en:000000516",
-   "text": "wasn't",
-   "kind": "word",
-   "description_en": "Short for \"was not\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "was",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2466,
-   "user_hint": "",
-   "description": "Short for \"was not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
   },
   {
    "id": "en:000000517",
@@ -13939,34 +12322,6 @@
    "description": "Knowledge from doing things; something that happened to you.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000000522",
-   "english_id": "en:000000522",
-   "text": "heard",
-   "kind": "form",
-   "description_en": "Past and past-participle form of hear.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "hear",
-   "lemma_id": "en:000000568",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3209,
-   "user_hint": "",
-   "description": "Past and past-participle form of hear.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000568",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000524",
@@ -14184,50 +12539,6 @@
    ]
   },
   {
-   "id": "en:000000532",
-   "english_id": "en:000000532",
-   "text": "she's",
-   "kind": "word",
-   "description_en": "Short for \"she is\" or \"she has\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "she",
-     "role": "pronoun",
-     "refs": [
-      "en:000000062"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      3,
-      5
-     ]
-    }
-   ],
-   "usage_note": "'s = is or has",
-   "study_tier": "herdado",
-   "study_priority": 2467,
-   "user_hint": "",
-   "description": "Short for \"she is\" or \"she has\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000533",
    "english_id": "en:000000533",
    "text": "song",
@@ -14400,34 +12711,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000000539",
-   "english_id": "en:000000539",
-   "text": "gave",
-   "kind": "form",
-   "description_en": "Simple past form of give.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "give",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000177",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3210,
-   "user_hint": "",
-   "description": "Simple past form of give.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000177",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000541",
@@ -14702,34 +12985,6 @@
     "meadow",
     "pitch"
    ]
-  },
-  {
-   "id": "en:000000552",
-   "english_id": "en:000000552",
-   "text": "held",
-   "kind": "form",
-   "description_en": "Past and past-participle form of hold.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "hold",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000632",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3211,
-   "user_hint": "",
-   "description": "Past and past-participle form of hold.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000632",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000553",
@@ -15271,34 +13526,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000586",
-   "english_id": "en:000000586",
-   "text": "killed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of kill.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "kill",
-   "lemma_id": "en:000000824",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3212,
-   "user_hint": "",
-   "description": "Past and past-participle form of kill.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000824",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000587",
    "english_id": "en:000000587",
    "text": "land",
@@ -15454,48 +13681,6 @@
    ]
   },
   {
-   "id": "en:000000594",
-   "english_id": "en:000000594",
-   "text": "you'll",
-   "kind": "word",
-   "description_en": "Short for \"you will\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "you",
-     "role": "pronoun",
-     "refs": [
-      "en:000000009"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'ll",
-     "role": "modal",
-     "refs": [
-      "en:000000038"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2468,
-   "user_hint": "",
-   "description": "Short for \"you will\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000000595",
    "english_id": "en:000000595",
    "text": "account",
@@ -15540,40 +13725,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000000598",
-   "english_id": "en:000000598",
-   "text": "eyes",
-   "kind": "form",
-   "description_en": "The plural of eye.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "eye",
-   "vcu14_rank": 594,
-   "environments": [
-    "body_health"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000986",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3213,
-   "description": "The plural of eye.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000986",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000000599",
@@ -15872,34 +14023,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000610",
-   "english_id": "en:000000610",
-   "text": "died",
-   "kind": "form",
-   "description_en": "Past and past-participle form of die.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "die",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000873",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3165,
-   "user_hint": "",
-   "description": "Past and past-participle form of die.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000873",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000611",
    "english_id": "en:000000611",
    "text": "film",
@@ -15926,67 +14049,6 @@
     "movie",
     "picture"
    ]
-  },
-  {
-   "id": "en:000000612",
-   "english_id": "en:000000612",
-   "text": "happened",
-   "kind": "form",
-   "description_en": "Past and past-participle form of happen.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "happen",
-   "vcu14_rank": 599,
-   "environments": [
-    "communication"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000631",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3214,
-   "description": "Past form of \"happen\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000631",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000000613",
-   "english_id": "en:000000613",
-   "text": "knew",
-   "kind": "form",
-   "description_en": "Simple past form of know.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "know",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000082",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3166,
-   "user_hint": "",
-   "description": "Simple past form of know.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000082",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000614",
@@ -16215,83 +14277,6 @@
     "television",
     "telly"
    ]
-  },
-  {
-   "id": "en:000000623",
-   "english_id": "en:000000623",
-   "text": "what's",
-   "kind": "word",
-   "description_en": "Short for \"what is\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "vcu14_rank": 604,
-   "environments": [
-    "communication"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "what",
-     "role": "pronoun",
-     "refs": [
-      "en:000000044"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      4,
-      6
-     ]
-    }
-   ],
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 3215,
-   "description": "Short for \"what is\".",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "en:000000624",
-   "english_id": "en:000000624",
-   "text": "won",
-   "kind": "form",
-   "description_en": "Past and past-participle form of win.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "win",
-   "lemma_id": "en:000000393",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3216,
-   "user_hint": "",
-   "description": "Past and past-participle form of win.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000393",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000625",
@@ -17085,49 +15070,6 @@
    ]
   },
   {
-   "id": "en:000000662",
-   "english_id": "en:000000662",
-   "text": "wouldn't",
-   "kind": "word",
-   "description_en": "Short for \"would not\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "would",
-     "role": "modal",
-     "refs": [
-      "en:000000061"
-     ],
-     "span": [
-      0,
-      5
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      5,
-      8
-     ]
-    }
-   ],
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 3217,
-   "user_hint": "",
-   "description": "Short for \"would not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000663",
    "english_id": "en:000000663",
    "text": "answer",
@@ -17470,34 +15412,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000677",
-   "english_id": "en:000000677",
-   "text": "added",
-   "kind": "form",
-   "description_en": "Past and past-participle form of add.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "add",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000812",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3218,
-   "user_hint": "",
-   "description": "Past and past-participle form of add.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000812",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000679",
    "english_id": "en:000000679",
    "text": "alone",
@@ -17558,34 +15472,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000000682",
-   "english_id": "en:000000682",
-   "text": "brought",
-   "kind": "form",
-   "description_en": "Past and past-participle form of bring.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "bring",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000517",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3167,
-   "user_hint": "",
-   "description": "Past and past-participle form of bring.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000517",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000683",
@@ -17908,34 +15794,6 @@
    ]
   },
   {
-   "id": "en:000000696",
-   "english_id": "en:000000696",
-   "text": "received",
-   "kind": "form",
-   "description_en": "Past and past-participle form of receive.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "receive",
-   "lemma_id": "en:000001461",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3168,
-   "user_hint": "",
-   "description": "Past and past-participle form of receive.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001461",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000697",
    "english_id": "en:000000697",
    "text": "role",
@@ -17954,34 +15812,6 @@
    "alternatives": [
     "part"
    ]
-  },
-  {
-   "id": "en:000000698",
-   "english_id": "en:000000698",
-   "text": "sent",
-   "kind": "form",
-   "description_en": "Past and past-participle form of send.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "send",
-   "lemma_id": "en:000000790",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3169,
-   "user_hint": "",
-   "description": "Past and past-participle form of send.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000790",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000699",
@@ -18007,34 +15837,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000700",
-   "english_id": "en:000000700",
-   "text": "tried",
-   "kind": "form",
-   "description_en": "Past and past-participle form of try.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "try",
-   "lemma_id": "en:000000289",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3170,
-   "user_hint": "",
-   "description": "Past and past-participle form of try.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000289",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000702",
    "english_id": "en:000000702",
    "text": "worth",
@@ -18050,34 +15852,6 @@
    "description": "Having a certain value; \"worth it\" = good enough to do.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000000704",
-   "english_id": "en:000000704",
-   "text": "became",
-   "kind": "form",
-   "description_en": "Simple past form of become.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "become",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000367",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3219,
-   "user_hint": "",
-   "description": "Simple past form of become.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000367",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000705",
@@ -19045,34 +16819,6 @@
    ]
   },
   {
-   "id": "en:000000745",
-   "english_id": "en:000000745",
-   "text": "felt",
-   "kind": "form",
-   "description_en": "Past and past-participle form of feel.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "feel",
-   "lemma_id": "en:000000193",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3220,
-   "user_hint": "",
-   "description": "Past and past-participle form of feel.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000193",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000746",
    "english_id": "en:000000746",
    "text": "green",
@@ -19282,49 +17028,6 @@
    ]
   },
   {
-   "id": "en:000000755",
-   "english_id": "en:000000755",
-   "text": "you've",
-   "kind": "word",
-   "description_en": "Short for \"you have\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "you",
-     "role": "pronoun",
-     "refs": [
-      "en:000000009"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'ve",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3221,
-   "user_hint": "",
-   "description": "Short for \"you have\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000756",
    "english_id": "en:000000756",
    "text": "central",
@@ -19458,34 +17161,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000000765",
-   "english_id": "en:000000765",
-   "text": "paid",
-   "kind": "form",
-   "description_en": "Past and past-participle form of pay.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "pay",
-   "lemma_id": "en:000000376",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3222,
-   "user_hint": "",
-   "description": "Past and past-participle form of pay.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000376",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000766",
@@ -19867,77 +17542,6 @@
     "detest",
     "loathe"
    ]
-  },
-  {
-   "id": "en:000000781",
-   "english_id": "en:000000781",
-   "text": "haven't",
-   "kind": "word",
-   "description_en": "Short for \"have not\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "have",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3223,
-   "user_hint": "",
-   "description": "Short for \"have not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "en:000000783",
-   "english_id": "en:000000783",
-   "text": "led",
-   "kind": "form",
-   "description_en": "Past and past-participle form of lead.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "lead",
-   "lemma_id": "en:000000614",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3224,
-   "user_hint": "",
-   "description": "Past and past-participle form of lead.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000614",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000785",
@@ -20613,49 +18217,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000816",
-   "english_id": "en:000000816",
-   "text": "couldn't",
-   "kind": "word",
-   "description_en": "Short for \"could not\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "could",
-     "role": "modal",
-     "refs": [
-      "en:000000090"
-     ],
-     "span": [
-      0,
-      5
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      5,
-      8
-     ]
-    }
-   ],
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3226,
-   "user_hint": "",
-   "description": "Short for \"could not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000817",
    "english_id": "en:000000817",
    "text": "damn",
@@ -20673,34 +18234,6 @@
    "user_hint": "",
    "description": "Word showing anger or surprise (mildly rude).",
    "antonyms": []
-  },
-  {
-   "id": "en:000000818",
-   "english_id": "en:000000818",
-   "text": "decided",
-   "kind": "form",
-   "description_en": "Past and past-participle form of decide.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "decide",
-   "lemma_id": "en:000001679",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3175,
-   "user_hint": "",
-   "description": "Past and past-participle form of decide.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001679",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000819",
@@ -20885,34 +18418,6 @@
    ]
   },
   {
-   "id": "en:000000825",
-   "english_id": "en:000000825",
-   "text": "met",
-   "kind": "form",
-   "description_en": "Past and past-participle form of meet.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "meet",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000524",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "fala cotidiana inicial",
-   "study_priority": 3176,
-   "user_hint": "",
-   "description": "Past and past-participle form of meet.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000524",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000826",
    "english_id": "en:000000826",
    "text": "perhaps",
@@ -21064,34 +18569,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000833",
-   "english_id": "en:000000833",
-   "text": "written",
-   "kind": "form",
-   "description_en": "Past participle of write, as in I have written it.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "write",
-   "lemma_id": "en:000000977",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 3228,
-   "user_hint": "",
-   "description": "Past participle of write, as in I have written it.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000977",
-   "inflection_key": "PTCP_PAST"
-  },
-  {
    "id": "en:000000834",
    "english_id": "en:000000834",
    "text": "choice",
@@ -21129,34 +18606,6 @@
    "description": "A set of letters or numbers; computer instructions.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000000836",
-   "english_id": "en:000000836",
-   "text": "considered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of consider.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "consider",
-   "lemma_id": "en:000001067",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "após reconciliar o sentido",
-   "study_priority": 3229,
-   "user_hint": "",
-   "description": "Past and past-participle form of consider.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001067",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000837",
@@ -21836,62 +19285,6 @@
     "bunk",
     "cot"
    ]
-  },
-  {
-   "id": "en:000000865",
-   "english_id": "en:000000865",
-   "text": "began",
-   "kind": "form",
-   "description_en": "Simple past form of begin.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "begin",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001484",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3230,
-   "user_hint": "",
-   "description": "Simple past form of begin.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001484",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000000866",
-   "english_id": "en:000000866",
-   "text": "built",
-   "kind": "form",
-   "description_en": "Past and past-participle form of build.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "build",
-   "lemma_id": "en:000000932",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "expansão cotidiana",
-   "study_priority": 3231,
-   "user_hint": "",
-   "description": "Past and past-participle form of build.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000932",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000867",
@@ -22749,49 +20142,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000910",
-   "english_id": "en:000000910",
-   "text": "aren't",
-   "kind": "word",
-   "description_en": "Short for \"are not\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "are",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3233,
-   "user_hint": "",
-   "description": "Short for \"are not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000000911",
    "english_id": "en:000000911",
    "text": "base",
@@ -22837,34 +20187,6 @@
     "under",
     "beneath"
    ]
-  },
-  {
-   "id": "en:000000913",
-   "english_id": "en:000000913",
-   "text": "created",
-   "kind": "form",
-   "description_en": "Past and past-participle form of create.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "create",
-   "lemma_id": "en:000000982",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3234,
-   "user_hint": "",
-   "description": "Past and past-participle form of create.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000982",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000914",
@@ -23625,100 +20947,6 @@
     "barrier",
     "partition"
    ]
-  },
-  {
-   "id": "en:000000951",
-   "english_id": "en:000000951",
-   "text": "wanna",
-   "kind": "word",
-   "description_en": "Informal \"want to\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "informal_variant",
-   "features": {
-    "variant_of": "want to"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "core_status": "search_only",
-   "study_tier": "restrito",
-   "study_priority": 3424,
-   "user_hint": "",
-   "description": "Informal \"want to\".",
-   "antonyms": []
-  },
-  {
-   "id": "en:000000952",
-   "english_id": "en:000000952",
-   "text": "we've",
-   "kind": "word",
-   "description_en": "Short for \"we have\".",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "we",
-     "role": "pronoun",
-     "refs": [
-      "en:000000027"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'ve",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3235,
-   "user_hint": "",
-   "description": "Short for \"we have\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
-   "id": "en:000000953",
-   "english_id": "en:000000953",
-   "text": "wrote",
-   "kind": "form",
-   "description_en": "Simple past form of write.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "write",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000977",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3236,
-   "user_hint": "",
-   "description": "Simple past form of write.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000977",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000000954",
@@ -24586,34 +21814,6 @@
    ]
   },
   {
-   "id": "en:000000997",
-   "english_id": "en:000000997",
-   "text": "spent",
-   "kind": "form",
-   "description_en": "Past and past-participle form of spend.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "spend",
-   "lemma_id": "en:000001118",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3237,
-   "user_hint": "",
-   "description": "Past and past-participle form of spend.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001118",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000998",
    "english_id": "en:000000998",
    "text": "store",
@@ -25153,34 +22353,6 @@
    ]
   },
   {
-   "id": "en:000001021",
-   "english_id": "en:000001021",
-   "text": "moved",
-   "kind": "form",
-   "description_en": "Past and past-participle form of move.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "move",
-   "lemma_id": "en:000000431",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3238,
-   "user_hint": "",
-   "description": "Past and past-participle form of move.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000431",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001022",
    "english_id": "en:000001022",
    "text": "normal",
@@ -25588,34 +22760,6 @@
    ]
   },
   {
-   "id": "en:000001042",
-   "english_id": "en:000001042",
-   "text": "described",
-   "kind": "form",
-   "description_en": "Past and past-participle form of describe.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "describe",
-   "part_of_speech": "v",
-   "lemma_id": "en:000002632",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3239,
-   "user_hint": "",
-   "description": "Past and past-participle form of describe.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002632",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001043",
    "english_id": "en:000001043",
    "text": "despite",
@@ -25881,34 +23025,6 @@
    ]
   },
   {
-   "id": "en:000001052",
-   "english_id": "en:000001052",
-   "text": "kept",
-   "kind": "form",
-   "description_en": "Past and past-participle form of keep.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "keep",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000198",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3240,
-   "user_hint": "",
-   "description": "Past and past-participle form of keep.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000198",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001055",
    "english_id": "en:000001055",
    "text": "message",
@@ -25934,33 +23050,6 @@
     "note",
     "text"
    ]
-  },
-  {
-   "id": "en:000001056",
-   "english_id": "en:000001056",
-   "text": "miles",
-   "kind": "form",
-   "description_en": "The plural of mile.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "mile",
-   "part_of_speech": "n",
-   "lemma_id": "en:000002505",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3241,
-   "user_hint": "",
-   "description": "The plural of mile.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001057",
@@ -26070,34 +23159,6 @@
    "description": "A large area of a country.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001062",
-   "english_id": "en:000001062",
-   "text": "reported",
-   "kind": "form",
-   "description_en": "Past and past-participle form of report.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "report",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000463",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3242,
-   "user_hint": "",
-   "description": "Past and past-participle form of report.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001318",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001063",
@@ -26364,41 +23425,6 @@
    "antonyms": [
     "en:000003897"
    ]
-  },
-  {
-   "id": "en:000001071",
-   "english_id": "en:000001071",
-   "text": "feet",
-   "kind": "form",
-   "description_en": "The irregular plural of foot.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "foot",
-   "vcu14_rank": 473,
-   "environments": [
-    "body",
-    "body_health"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma_id": "en:000001391",
-   "lexical_type": "form",
-   "features": {
-    "construction": "irregular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3243,
-   "description": "The irregular plural of foot.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001391",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000001073",
@@ -26881,34 +23907,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001096",
-   "english_id": "en:000001096",
-   "text": "studies",
-   "kind": "form",
-   "description_en": "The plural of study: learning or research.",
-   "level": "A2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "n",
-   "lemma": "study",
-   "lemma_id": "en:000000534",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative_or_plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3244,
-   "user_hint": "",
-   "description": "The plural of study: learning or research.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000534",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000001097",
    "english_id": "en:000001097",
    "text": "unless",
@@ -27249,62 +24247,6 @@
     "view",
     "setting"
    ]
-  },
-  {
-   "id": "en:000001116",
-   "english_id": "en:000001116",
-   "text": "sold",
-   "kind": "form",
-   "description_en": "Past and past-participle form of sell.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "sell",
-   "lemma_id": "en:000001094",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3245,
-   "user_hint": "",
-   "description": "Past and past-participle form of sell.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001094",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000001117",
-   "english_id": "en:000001117",
-   "text": "sounds",
-   "kind": "form",
-   "description_en": "Third-person singular present form of sound, as in it sounds good.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "sound",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000717",
-   "lexical_type": "form",
-   "features": {
-    "construction": "present_indicative",
-    "person": "third",
-    "number": "singular"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3246,
-   "user_hint": "",
-   "description": "Third-person singular present form of sound, as in it sounds good.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001118",
@@ -28036,29 +24978,6 @@
    ]
   },
   {
-   "id": "en:000001156",
-   "english_id": "en:000001156",
-   "text": "gotta",
-   "kind": "word",
-   "description_en": "Informal \"have got to\" = must.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "informal_variant",
-   "features": {
-    "variant_of": "have got to"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "core_status": "search_only",
-   "study_tier": "restrito",
-   "study_priority": 3427,
-   "user_hint": "",
-   "description": "Informal \"have got to\" = must.",
-   "antonyms": []
-  },
-  {
    "id": "en:000001157",
    "english_id": "en:000001157",
    "text": "hotel",
@@ -28209,34 +25128,6 @@
    "description": "What something is made of; information for study.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001165",
-   "english_id": "en:000001165",
-   "text": "named",
-   "kind": "form",
-   "description_en": "Past and past-participle form of name.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "name",
-   "lemma_id": "en:000000212",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3247,
-   "user_hint": "",
-   "description": "Past and past-participle form of name.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000212",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001166",
@@ -28753,34 +25644,6 @@
    "description": "Most of a group.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001194",
-   "english_id": "en:000001194",
-   "text": "meant",
-   "kind": "form",
-   "description_en": "Past and past-participle form of mean.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "mean",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000264",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3248,
-   "user_hint": "",
-   "description": "Past and past-participle form of mean.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000264",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001195",
@@ -29657,34 +26520,6 @@
    "alternatives": []
   },
   {
-   "id": "en:000001235",
-   "english_id": "en:000001235",
-   "text": "ended",
-   "kind": "form",
-   "description_en": "Past and past-participle form of end.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "end",
-   "lemma_id": "en:000000188",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3249,
-   "user_hint": "",
-   "description": "Past and past-participle form of end.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000188",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001236",
    "english_id": "en:000001236",
    "text": "fan",
@@ -29903,34 +26738,6 @@
    "description": "A medical surgery.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001247",
-   "english_id": "en:000001247",
-   "text": "passed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of pass.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "pass",
-   "lemma_id": "en:000000921",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3250,
-   "user_hint": "",
-   "description": "Past and past-participle form of pass.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000921",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001249",
@@ -30202,34 +27009,6 @@
     "in any case",
     "regardless"
    ]
-  },
-  {
-   "id": "en:000001260",
-   "english_id": "en:000001260",
-   "text": "bought",
-   "kind": "form",
-   "description_en": "Past and past-participle form of buy.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "buy",
-   "lemma_id": "en:000000458",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3251,
-   "user_hint": "",
-   "description": "Past and past-participle form of buy.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000458",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001262",
@@ -30889,34 +27668,6 @@
    ]
   },
   {
-   "id": "en:000001291",
-   "english_id": "en:000001291",
-   "text": "caught",
-   "kind": "form",
-   "description_en": "Past and past-participle form of catch.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "catch",
-   "lemma_id": "en:000001383",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3252,
-   "user_hint": "",
-   "description": "Past and past-participle form of catch.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001383",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001292",
    "english_id": "en:000001292",
    "text": "closed",
@@ -31395,34 +28146,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001319",
-   "english_id": "en:000001319",
-   "text": "shown",
-   "kind": "form",
-   "description_en": "Past participle of show, as in I have shown it.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "show",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000191",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3253,
-   "user_hint": "",
-   "description": "Past participle of show, as in I have shown it.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000191",
-   "inflection_key": "PTCP_PAST"
-  },
-  {
    "id": "en:000001320",
    "english_id": "en:000001320",
    "text": "sit",
@@ -31839,49 +28562,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001344",
-   "english_id": "en:000001344",
-   "text": "we'll",
-   "kind": "word",
-   "description_en": "Short for \"we will\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "we",
-     "role": "pronoun",
-     "refs": [
-      "en:000000027"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'ll",
-     "role": "modal",
-     "refs": [
-      "en:000000038"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3254,
-   "user_hint": "",
-   "description": "Short for \"we will\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000001345",
    "english_id": "en:000001345",
    "text": "winter",
@@ -31972,51 +28652,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001349",
-   "english_id": "en:000001349",
-   "text": "ain't",
-   "kind": "word",
-   "description_en": "Informal \"is not / are not / have not\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "ai",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      2,
-      5
-     ]
-    }
-   ],
-   "usage_note": "non-standard; recognition only",
-   "register": "nonstandard",
-   "core_status": "search_only",
-   "study_tier": "restrito",
-   "study_priority": 3429,
-   "user_hint": "",
-   "description": "Informal \"is not / are not / have not\".",
-   "antonyms": []
-  },
-  {
    "id": "en:000001350",
    "english_id": "en:000001350",
    "text": "award",
@@ -32076,34 +28711,6 @@
     "damaged",
     "out of order"
    ]
-  },
-  {
-   "id": "en:000001353",
-   "english_id": "en:000001353",
-   "text": "caused",
-   "kind": "form",
-   "description_en": "Past and past-participle form of cause.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "cause",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000425",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3255,
-   "user_hint": "",
-   "description": "Past and past-participle form of cause.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000425",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001354",
@@ -32202,34 +28809,6 @@
    ]
   },
   {
-   "id": "en:000001360",
-   "english_id": "en:000001360",
-   "text": "helped",
-   "kind": "form",
-   "description_en": "Past and past-participle form of help.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "help",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000163",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3256,
-   "user_hint": "",
-   "description": "Past and past-participle form of help.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000163",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001361",
    "english_id": "en:000001361",
    "text": "holy",
@@ -32245,34 +28824,6 @@
    "description": "Sacred; related to God.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001363",
-   "english_id": "en:000001363",
-   "text": "lived",
-   "kind": "form",
-   "description_en": "Past and past-participle form of live.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "live",
-   "lemma_id": "en:000000253",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3257,
-   "user_hint": "",
-   "description": "Past and past-participle form of live.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000253",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001364",
@@ -32918,61 +29469,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001401",
-   "english_id": "en:000001401",
-   "text": "produced",
-   "kind": "form",
-   "description_en": "Past and past-participle form of produce.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "produce",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001697",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3258,
-   "user_hint": "",
-   "description": "Past and past-participle form of produce.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001697",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000001402",
-   "english_id": "en:000001402",
-   "text": "ran",
-   "kind": "form",
-   "description_en": "Simple past form of run.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000299",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3259,
-   "user_hint": "",
-   "description": "Simple past form of run.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000299",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001403",
    "english_id": "en:000001403",
    "text": "Saturday",
@@ -33533,34 +30029,6 @@
    ]
   },
   {
-   "id": "en:000001433",
-   "english_id": "en:000001433",
-   "text": "showed",
-   "kind": "form",
-   "description_en": "Simple past form of show.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "show",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000191",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3260,
-   "user_hint": "",
-   "description": "Simple past form of show.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000191",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001438",
    "english_id": "en:000001438",
    "text": "accept",
@@ -33814,34 +30282,6 @@
    ]
   },
   {
-   "id": "en:000001448",
-   "english_id": "en:000001448",
-   "text": "fell",
-   "kind": "form",
-   "description_en": "Simple past form of fall.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "fall",
-   "lemma_id": "en:000000741",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3261,
-   "user_hint": "",
-   "description": "Simple past form of fall.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000741",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001450",
    "english_id": "en:000001450",
    "text": "glass",
@@ -33863,34 +30303,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000001451",
-   "english_id": "en:000001451",
-   "text": "learned",
-   "kind": "form",
-   "description_en": "Past and past-participle form of learn.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "learn",
-   "lemma_id": "en:000000674",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3262,
-   "user_hint": "",
-   "description": "Past and past-participle form of learn.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000674",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001453",
@@ -33934,34 +30346,6 @@
    "antonyms": [
     "en:000001505"
    ]
-  },
-  {
-   "id": "en:000001455",
-   "english_id": "en:000001455",
-   "text": "opened",
-   "kind": "form",
-   "description_en": "Past and past-participle form of open.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "open",
-   "lemma_id": "en:000000303",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3263,
-   "user_hint": "",
-   "description": "Past and past-participle form of open.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000303",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001457",
@@ -34017,34 +30401,6 @@
     "safety",
     "defense"
    ]
-  },
-  {
-   "id": "en:000001460",
-   "english_id": "en:000001460",
-   "text": "reached",
-   "kind": "form",
-   "description_en": "Past and past-participle form of reach.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "reach",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001199",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3264,
-   "user_hint": "",
-   "description": "Past and past-participle form of reach.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001199",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001461",
@@ -34264,34 +30620,6 @@
    ]
   },
   {
-   "id": "en:000001468",
-   "english_id": "en:000001468",
-   "text": "signed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of sign.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "sign",
-   "lemma_id": "en:000000856",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3265,
-   "user_hint": "",
-   "description": "Past and past-participle form of sign.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000856",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001469",
    "english_id": "en:000001469",
    "text": "slow",
@@ -34417,50 +30745,6 @@
    "alternatives": [
     "vs"
    ]
-  },
-  {
-   "id": "en:000001477",
-   "english_id": "en:000001477",
-   "text": "who's",
-   "kind": "word",
-   "description_en": "Short for \"who is\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "who",
-     "role": "pronoun",
-     "refs": [
-      "en:000000051"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'s",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015",
-      "en:000000018"
-     ],
-     "span": [
-      3,
-      5
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3266,
-   "user_hint": "",
-   "description": "Short for \"who is\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001478",
@@ -34791,34 +31075,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001499",
-   "english_id": "en:000001499",
-   "text": "raised",
-   "kind": "form",
-   "description_en": "Past and past-participle form of raise.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "raise",
-   "lemma_id": "en:000001800",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3267,
-   "user_hint": "",
-   "description": "Past and past-participle form of raise.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001800",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001501",
    "english_id": "en:000001501",
    "text": "sad",
@@ -34901,34 +31157,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000001507",
-   "english_id": "en:000001507",
-   "text": "stopped",
-   "kind": "form",
-   "description_en": "Past and past-participle form of stop.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "stop",
-   "lemma_id": "en:000000273",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3268,
-   "user_hint": "",
-   "description": "Past and past-participle form of stop.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000273",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001508",
@@ -35189,34 +31417,6 @@
    ]
   },
   {
-   "id": "en:000001522",
-   "english_id": "en:000001522",
-   "text": "covered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of cover.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "cover",
-   "lemma_id": "en:000000839",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3269,
-   "user_hint": "",
-   "description": "Past and past-participle form of cover.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000839",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001523",
    "english_id": "en:000001523",
    "text": "critical",
@@ -35344,62 +31544,6 @@
    "antonyms": [
     "en:000001197"
    ]
-  },
-  {
-   "id": "en:000001530",
-   "english_id": "en:000001530",
-   "text": "mentioned",
-   "kind": "form",
-   "description_en": "Past and past-participle form of mention.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "mention",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001872",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3270,
-   "user_hint": "",
-   "description": "Past and past-participle form of mention.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001872",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000001531",
-   "english_id": "en:000001531",
-   "text": "missed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of miss.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "miss",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000588",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3271,
-   "user_hint": "",
-   "description": "Past and past-participle form of miss.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000588",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001532",
@@ -35786,51 +31930,6 @@
    ]
   },
   {
-   "id": "en:000001551",
-   "english_id": "en:000001551",
-   "text": "you'd",
-   "kind": "word",
-   "description_en": "Short for \"you would\" or \"you had\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "you",
-     "role": "pronoun",
-     "refs": [
-      "en:000000009"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "'d",
-     "role": "modal",
-     "refs": [
-      "en:000000061",
-      "en:000000018"
-     ],
-     "span": [
-      3,
-      5
-     ]
-    }
-   ],
-   "usage_note": "'d = would or had",
-   "study_tier": "herdado",
-   "study_priority": 3272,
-   "user_hint": "",
-   "description": "Short for \"you would\" or \"you had\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000001552",
    "english_id": "en:000001552",
    "text": "acting",
@@ -35863,38 +31962,6 @@
    "description": "From Africa.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001555",
-   "english_id": "en:000001555",
-   "text": "arms",
-   "kind": "form",
-   "description_en": "The plural of arm, the body part that extends from the shoulder toward the hand.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "vcu14_rank": 836,
-   "environments": [
-    "body_health"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma": "arm",
-   "lemma_id": "en:000001850",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3273,
-   "description": "The plural of arm, the body part that extends from the shoulder toward the hand.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001556",
@@ -36003,34 +32070,6 @@
    "description": "Land and buildings someone owns; \"real estate\".",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001560",
-   "english_id": "en:000001560",
-   "text": "failed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of fail.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "fail",
-   "lemma_id": "en:000002402",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3274,
-   "user_hint": "",
-   "description": "Past and past-participle form of fail.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002402",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001561",
@@ -36318,34 +32357,6 @@
    ]
   },
   {
-   "id": "en:000001577",
-   "english_id": "en:000001577",
-   "text": "returned",
-   "kind": "form",
-   "description_en": "Past and past-participle form of return.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "return",
-   "lemma_id": "en:000000640",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3275,
-   "user_hint": "",
-   "description": "Past and past-participle form of return.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000640",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001578",
    "english_id": "en:000001578",
    "text": "rose",
@@ -36388,49 +32399,6 @@
     "chair",
     "place"
    ]
-  },
-  {
-   "id": "en:000001582",
-   "english_id": "en:000001582",
-   "text": "shouldn't",
-   "kind": "word",
-   "description_en": "Short for \"should not\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "should",
-     "role": "modal",
-     "refs": [
-      "en:000000105"
-     ],
-     "span": [
-      0,
-      6
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      6,
-      9
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3276,
-   "user_hint": "",
-   "description": "Short for \"should not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001583",
@@ -37589,34 +33557,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001646",
-   "english_id": "en:000001646",
-   "text": "arrived",
-   "kind": "form",
-   "description_en": "Past and past-participle form of arrive.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "arrive",
-   "part_of_speech": "v",
-   "lemma_id": "en:000003180",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3277,
-   "user_hint": "",
-   "description": "Past and past-participle form of arrive.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003180",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001647",
    "english_id": "en:000001647",
    "text": "bag",
@@ -37977,35 +33917,6 @@
    "alternatives": []
   },
   {
-   "id": "en:000001663",
-   "english_id": "en:000001663",
-   "text": "movies",
-   "kind": "form",
-   "description_en": "The plural of movie.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "n",
-   "lemma": "movie",
-   "lemma_id": "en:000000691",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3278,
-   "user_hint": "",
-   "description": "The plural of movie.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000691",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000001664",
    "english_id": "en:000001664",
    "text": "negative",
@@ -38078,34 +33989,6 @@
     "stop",
     "avoid"
    ]
-  },
-  {
-   "id": "en:000001666",
-   "english_id": "en:000001666",
-   "text": "removed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of remove.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "remove",
-   "lemma_id": "en:000001976",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3279,
-   "user_hint": "",
-   "description": "Past and past-participle form of remove.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001976",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001668",
@@ -38814,62 +34697,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000001711",
-   "english_id": "en:000001711",
-   "text": "carried",
-   "kind": "form",
-   "description_en": "Past and past-participle form of carry.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "carry",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001325",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3280,
-   "user_hint": "",
-   "description": "Past and past-participle form of carry.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001325",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000001714",
-   "english_id": "en:000001714",
-   "text": "completed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of complete.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "complete",
-   "lemma_id": "en:000000797",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3281,
-   "user_hint": "",
-   "description": "Past and past-participle form of complete.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000797",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001715",
@@ -39641,34 +35468,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001761",
-   "english_id": "en:000001761",
-   "text": "managed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of manage.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "manage",
-   "part_of_speech": "v",
-   "lemma_id": "en:000002757",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3282,
-   "user_hint": "",
-   "description": "Past and past-participle form of manage.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002757",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001762",
    "english_id": "en:000001762",
    "text": "map",
@@ -39709,34 +35508,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001764",
-   "english_id": "en:000001764",
-   "text": "owned",
-   "kind": "form",
-   "description_en": "Past and past-participle form of own.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "own",
-   "lemma_id": "en:000000170",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3283,
-   "user_hint": "",
-   "description": "Past and past-participle form of own.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000170",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001765",
    "english_id": "en:000001765",
    "text": "request",
@@ -39769,49 +35540,6 @@
    "description": "A thin piece of wood.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001767",
-   "english_id": "en:000001767",
-   "text": "they've",
-   "kind": "word",
-   "description_en": "Short for \"they have\".",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "they",
-     "role": "pronoun",
-     "refs": [
-      "en:000000033"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "'ve",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3284,
-   "user_hint": "",
-   "description": "Short for \"they have\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001768",
@@ -39967,34 +35695,6 @@
    "description": "Being beautiful.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001774",
-   "english_id": "en:000001774",
-   "text": "believed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of believe.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "believe",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000276",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3285,
-   "user_hint": "",
-   "description": "Past and past-participle form of believe.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000276",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001775",
@@ -40441,34 +36141,6 @@
    "description": "Trying to find out the facts (police).",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001799",
-   "english_id": "en:000001799",
-   "text": "presented",
-   "kind": "form",
-   "description_en": "Past and past-participle form of present.",
-   "level": "B1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "present",
-   "lemma_id": "en:000000656",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3286,
-   "user_hint": "",
-   "description": "Past and past-participle form of present.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000656",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001800",
@@ -41187,34 +36859,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001836",
-   "english_id": "en:000001836",
-   "text": "ordered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of order.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "order",
-   "lemma_id": "en:000000297",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3287,
-   "user_hint": "",
-   "description": "Past and past-participle form of order.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000297",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001838",
    "english_id": "en:000001838",
    "text": "prepared",
@@ -41494,34 +37138,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001858",
-   "english_id": "en:000001858",
-   "text": "dropped",
-   "kind": "form",
-   "description_en": "Past and past-participle form of drop.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "drop",
-   "lemma_id": "en:000001069",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3288,
-   "user_hint": "",
-   "description": "Past and past-participle form of drop.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001069",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001859",
    "english_id": "en:000001859",
    "text": "excellent",
@@ -41643,34 +37259,6 @@
     "truthful",
     "sincere"
    ]
-  },
-  {
-   "id": "en:000001866",
-   "english_id": "en:000001866",
-   "text": "joined",
-   "kind": "form",
-   "description_en": "Past and past-participle form of join.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "join",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001051",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3289,
-   "user_hint": "",
-   "description": "Past and past-participle form of join.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001051",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001871",
@@ -42224,34 +37812,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000001899",
-   "english_id": "en:000001899",
-   "text": "entered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of enter.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "enter",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001596",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3290,
-   "user_hint": "",
-   "description": "Past and past-participle form of enter.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001596",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000001900",
    "english_id": "en:000001900",
    "text": "entirely",
@@ -42600,34 +38160,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000001919",
-   "english_id": "en:000001919",
-   "text": "picked",
-   "kind": "form",
-   "description_en": "Past and past-participle form of pick.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "pick",
-   "lemma_id": "en:000000852",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3291,
-   "user_hint": "",
-   "description": "Past and past-participle form of pick.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000852",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000001921",
@@ -43214,35 +38746,6 @@
    ]
   },
   {
-   "id": "en:000001959",
-   "english_id": "en:000001959",
-   "text": "feelings",
-   "kind": "form",
-   "description_en": "The plural of feeling; emotions.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "feeling",
-   "part_of_speech": "n",
-   "lemma_id": "en:000000744",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3292,
-   "user_hint": "",
-   "description": "The plural of feeling; emotions.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000744",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000001961",
    "english_id": "en:000001961",
    "text": "governor",
@@ -43259,49 +38762,6 @@
    "description": "The leader of a state.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000001962",
-   "english_id": "en:000001962",
-   "text": "hasn't",
-   "kind": "word",
-   "description_en": "Short for \"has not\".",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "has",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000018"
-     ],
-     "span": [
-      0,
-      3
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      3,
-      6
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3293,
-   "user_hint": "",
-   "description": "Short for \"has not\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000001963",
@@ -43757,49 +39217,6 @@
    ]
   },
   {
-   "id": "en:000001983",
-   "english_id": "en:000001983",
-   "text": "they'll",
-   "kind": "word",
-   "description_en": "Short for \"they will\".",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "they",
-     "role": "pronoun",
-     "refs": [
-      "en:000000033"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "'ll",
-     "role": "modal",
-     "refs": [
-      "en:000000038"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 3294,
-   "user_hint": "",
-   "description": "Short for \"they will\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000001984",
    "english_id": "en:000001984",
    "text": "tired",
@@ -44130,34 +39547,6 @@
     "ecological",
     "green"
    ]
-  },
-  {
-   "id": "en:000002004",
-   "english_id": "en:000002004",
-   "text": "fixed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of fix.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "fix",
-   "lemma_id": "en:000001790",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3295,
-   "user_hint": "",
-   "description": "Past and past-participle form of fix.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001790",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002005",
@@ -44552,34 +39941,6 @@
    ]
   },
   {
-   "id": "en:000002034",
-   "english_id": "en:000002034",
-   "text": "grew",
-   "kind": "form",
-   "description_en": "Simple past form of grow.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "grow",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001309",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3297,
-   "user_hint": "",
-   "description": "Simple past form of grow.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001309",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002035",
    "english_id": "en:000002035",
    "text": "historical",
@@ -44803,34 +40164,6 @@
     "at first",
     "initially"
    ]
-  },
-  {
-   "id": "en:000002047",
-   "english_id": "en:000002047",
-   "text": "planned",
-   "kind": "form",
-   "description_en": "Past and past-participle form of plan.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "plan",
-   "lemma_id": "en:000000497",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3298,
-   "user_hint": "",
-   "description": "Past and past-participle form of plan.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000497",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002048",
@@ -45628,34 +40961,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002098",
-   "english_id": "en:000002098",
-   "text": "taught",
-   "kind": "form",
-   "description_en": "Past and past-participle form of teach.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "teach",
-   "part_of_speech": "v",
-   "lemma_id": "en:000002145",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3299,
-   "user_hint": "",
-   "description": "Past and past-participle form of teach.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002145",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002099",
    "english_id": "en:000002099",
    "text": "transport",
@@ -45672,76 +40977,6 @@
    "description": "Ways of moving people and goods (buses, trains).",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002100",
-   "english_id": "en:000002100",
-   "text": "weren't",
-   "kind": "word",
-   "description_en": "Short for \"were not\".",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "were",
-     "role": "auxiliary",
-     "refs": [
-      "en:000000015"
-     ],
-     "span": [
-      0,
-      4
-     ]
-    },
-    {
-     "surface": "n't",
-     "role": "negation",
-     "refs": [
-      "en:000000021"
-     ],
-     "span": [
-      4,
-      7
-     ]
-    }
-   ],
-   "study_tier": "herdado",
-   "study_priority": 2656,
-   "user_hint": "",
-   "description": "Short for \"were not\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
-   "id": "en:000002101",
-   "english_id": "en:000002101",
-   "text": "accepted",
-   "kind": "form",
-   "description_en": "Past and past-participle form of accept.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "accept",
-   "lemma_id": "en:000001438",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3300,
-   "user_hint": "",
-   "description": "Past and past-participle form of accept.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001438",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002103",
@@ -46137,35 +41372,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002125",
-   "english_id": "en:000002125",
-   "text": "legs",
-   "kind": "form",
-   "description_en": "The plural of leg.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "n",
-   "lemma": "leg",
-   "lemma_id": "en:000002177",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3301,
-   "user_hint": "",
-   "description": "The plural of leg.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002177",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000002128",
    "english_id": "en:000002128",
    "text": "mistake",
@@ -46277,34 +41483,6 @@
    ]
   },
   {
-   "id": "en:000002134",
-   "english_id": "en:000002134",
-   "text": "pulled",
-   "kind": "form",
-   "description_en": "Past and past-participle form of pull.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "pull",
-   "lemma_id": "en:000001575",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3302,
-   "user_hint": "",
-   "description": "Past and past-participle form of pull.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001575",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002135",
    "english_id": "en:000002135",
    "text": "regarding",
@@ -46385,34 +41563,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002139",
-   "english_id": "en:000002139",
-   "text": "saved",
-   "kind": "form",
-   "description_en": "Past and past-participle form of save.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "save",
-   "lemma_id": "en:000000730",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3303,
-   "user_hint": "",
-   "description": "Past and past-participle form of save.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000730",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002140",
@@ -46585,31 +41735,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000002149",
-   "english_id": "en:000002149",
-   "text": "walked",
-   "kind": "form",
-   "description_en": "Past of \"walk\".",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "walk",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000862",
-   "lexical_type": "form",
-   "grammatical_key": "PAST",
-   "study_tier": "herdado",
-   "key_pending": false,
-   "study_priority": 3305,
-   "user_hint": "",
-   "description": "Past of \"walk\".",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000862",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002152",
@@ -47199,34 +42324,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000002189",
-   "english_id": "en:000002189",
-   "text": "recorded",
-   "kind": "form",
-   "description_en": "Past and past-participle form of record.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "record",
-   "lemma_id": "en:000000604",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3306,
-   "user_hint": "",
-   "description": "Past and past-participle form of record.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000604",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002190",
@@ -48161,34 +43258,6 @@
    ]
   },
   {
-   "id": "en:000002238",
-   "english_id": "en:000002238",
-   "text": "affected",
-   "kind": "form",
-   "description_en": "Past and past-participle form of affect.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "affect",
-   "lemma_id": "en:000002471",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3307,
-   "user_hint": "",
-   "description": "Past and past-participle form of affect.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002471",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002239",
    "english_id": "en:000002239",
    "text": "aircraft",
@@ -48305,34 +43374,6 @@
    "description": "An angry disagreement.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002244",
-   "english_id": "en:000002244",
-   "text": "arrested",
-   "kind": "form",
-   "description_en": "Past and past-participle form of arrest.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "arrest",
-   "lemma_id": "en:000002672",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3308,
-   "user_hint": "",
-   "description": "Past and past-participle form of arrest.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002672",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002246",
@@ -48587,40 +43628,6 @@
    ]
   },
   {
-   "id": "en:000002260",
-   "english_id": "en:000002260",
-   "text": "flowers",
-   "kind": "form",
-   "description_en": "The plural of flower. It can refer to several blooms or to flowers picked for decoration.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "flower",
-   "vcu14_rank": 907,
-   "environments": [
-    "play_nature"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma_id": "en:000003125",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3309,
-   "description": "The plural of flower. It can refer to several blooms or to flowers picked for decoration.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003125",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000002261",
    "english_id": "en:000002261",
    "text": "friendly",
@@ -48642,35 +43649,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002262",
-   "english_id": "en:000002262",
-   "text": "ladies",
-   "kind": "form",
-   "description_en": "The plural of lady.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "lady",
-   "part_of_speech": "n",
-   "lemma_id": "en:000001160",
-   "lexical_type": "form",
-   "features": {
-    "construction": "irregular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3310,
-   "user_hint": "",
-   "description": "The plural of lady.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001160",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000002263",
@@ -48718,35 +43696,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000002264",
-   "english_id": "en:000002264",
-   "text": "lights",
-   "kind": "form",
-   "description_en": "The plural of light.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "n",
-   "lemma": "light",
-   "lemma_id": "en:000000449",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3311,
-   "user_hint": "",
-   "description": "The plural of light.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000449",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000002266",
@@ -48910,34 +43859,6 @@
    "description": "Money a company or government receives.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002275",
-   "english_id": "en:000002275",
-   "text": "sat",
-   "kind": "form",
-   "description_en": "Past and past-participle form of sit.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "sit",
-   "lemma_id": "en:000001320",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3312,
-   "user_hint": "",
-   "description": "Past and past-participle form of sit.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001320",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002276",
@@ -49615,34 +44536,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002308",
-   "english_id": "en:000002308",
-   "text": "forgot",
-   "kind": "form",
-   "description_en": "Simple past form of forget.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "forget",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000895",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3313,
-   "user_hint": "",
-   "description": "Simple past form of forget.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000895",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002312",
    "english_id": "en:000002312",
    "text": "incredible",
@@ -49786,34 +44679,6 @@
    ]
   },
   {
-   "id": "en:000002320",
-   "english_id": "en:000002320",
-   "text": "noticed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of notice.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "notice",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001312",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3314,
-   "user_hint": "",
-   "description": "Past and past-participle form of notice.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001312",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002321",
    "english_id": "en:000002321",
    "text": "novel",
@@ -49873,34 +44738,6 @@
    "description": "Left over.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002326",
-   "english_id": "en:000002326",
-   "text": "scored",
-   "kind": "form",
-   "description_en": "Past and past-participle form of score.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "score",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001540",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3315,
-   "user_hint": "",
-   "description": "Past and past-participle form of score.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001540",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002327",
@@ -50132,34 +44969,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002347",
-   "english_id": "en:000002347",
-   "text": "delivered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of deliver.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "deliver",
-   "lemma_id": "en:000002683",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3316,
-   "user_hint": "",
-   "description": "Past and past-participle form of deliver.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002683",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002348",
    "english_id": "en:000002348",
    "text": "editor",
@@ -50366,34 +45175,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002364",
-   "english_id": "en:000002364",
-   "text": "remained",
-   "kind": "form",
-   "description_en": "Past and past-participle form of remain.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "remain",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001538",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3317,
-   "user_hint": "",
-   "description": "Past and past-participle form of remain.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001538",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002365",
    "english_id": "en:000002365",
    "text": "selection",
@@ -50519,34 +45300,6 @@
    ]
   },
   {
-   "id": "en:000002371",
-   "english_id": "en:000002371",
-   "text": "talked",
-   "kind": "form",
-   "description_en": "Past and past-participle form of talk.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "talk",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000355",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3318,
-   "user_hint": "",
-   "description": "Past and past-participle form of talk.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000355",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002372",
    "english_id": "en:000002372",
    "text": "theme",
@@ -50656,34 +45409,6 @@
    "description": "Normal; happening most often.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002381",
-   "english_id": "en:000002381",
-   "text": "voted",
-   "kind": "form",
-   "description_en": "Past and past-participle form of vote.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "vote",
-   "lemma_id": "en:000000792",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3319,
-   "user_hint": "",
-   "description": "Past and past-participle form of vote.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000792",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002384",
@@ -50832,34 +45557,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002392",
-   "english_id": "en:000002392",
-   "text": "chosen",
-   "kind": "form",
-   "description_en": "Past participle of choose, as in I have chosen.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "choose",
-   "lemma_id": "en:000001262",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3320,
-   "user_hint": "",
-   "description": "Past participle of choose, as in I have chosen.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001262",
-   "inflection_key": "PTCP_PAST"
-  },
-  {
    "id": "en:000002393",
    "english_id": "en:000002393",
    "text": "combination",
@@ -50940,34 +45637,6 @@
    "description": "A strong wish.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002398",
-   "english_id": "en:000002398",
-   "text": "destroyed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of destroy.",
-   "level": "B2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "destroy",
-   "lemma_id": "en:000002845",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3321,
-   "user_hint": "",
-   "description": "Past and past-participle form of destroy.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002845",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002399",
@@ -51405,34 +46074,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002426",
-   "english_id": "en:000002426",
-   "text": "spoke",
-   "kind": "form",
-   "description_en": "Simple past form of speak.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "speak",
-   "lemma_id": "en:000000973",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3322,
-   "user_hint": "",
-   "description": "Simple past form of speak.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000973",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002429",
    "english_id": "en:000002429",
    "text": "ticket",
@@ -51569,34 +46210,6 @@
    "description": "Events that repeat in the same order.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002440",
-   "english_id": "en:000002440",
-   "text": "directed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of direct.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "direct",
-   "lemma_id": "en:000001268",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3323,
-   "user_hint": "",
-   "description": "Past and past-participle form of direct.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001268",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002442",
@@ -52604,62 +47217,6 @@
    ]
   },
   {
-   "id": "en:000002495",
-   "english_id": "en:000002495",
-   "text": "enjoyed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of enjoy.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "enjoy",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000820",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3324,
-   "user_hint": "",
-   "description": "Past and past-participle form of enjoy.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000820",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000002496",
-   "english_id": "en:000002496",
-   "text": "explained",
-   "kind": "form",
-   "description_en": "Past and past-participle form of explain.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "explain",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001330",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3325,
-   "user_hint": "",
-   "description": "Past and past-participle form of explain.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001330",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002498",
    "english_id": "en:000002498",
    "text": "folks",
@@ -52708,29 +47265,6 @@
    "user_hint": "",
    "description": "An example (\"for instance\").",
    "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
-   "id": "en:000002503",
-   "english_id": "en:000002503",
-   "text": "kinda",
-   "kind": "word",
-   "description_en": "Informal \"kind of\": a little.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "adv",
-   "lexical_type": "informal_variant",
-   "features": {
-    "variant_of": "kind of"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "core_status": "search_only",
-   "study_tier": "restrito",
-   "study_priority": 3443,
-   "user_hint": "",
-   "description": "Informal \"kind of\": a little.",
    "antonyms": []
   },
   {
@@ -52783,34 +47317,6 @@
    "description": "Something given to a winner.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002511",
-   "english_id": "en:000002511",
-   "text": "realized",
-   "kind": "form",
-   "description_en": "Past and past-participle form of realize.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "realize",
-   "part_of_speech": "v",
-   "lemma_id": "en:000001537",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3326,
-   "user_hint": "",
-   "description": "Past and past-participle form of realize.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001537",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002512",
@@ -52944,35 +47450,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002522",
-   "english_id": "en:000002522",
-   "text": "tools",
-   "kind": "form",
-   "description_en": "The plural of tool.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "tool",
-   "part_of_speech": "n",
-   "lemma_id": "en:000002664",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3327,
-   "user_hint": "",
-   "description": "The plural of tool.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002664",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000002523",
@@ -53662,70 +48139,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002561",
-   "english_id": "en:000002561",
-   "text": "teeth",
-   "kind": "word",
-   "description_en": "The irregular plural of tooth.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "vcu14_rank": 484,
-   "environments": [
-    "body",
-    "body_health",
-    "routine"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma": "tooth",
-   "lemma_id": null,
-   "lexical_type": "form",
-   "features": {
-    "construction": "irregular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3328,
-   "description": "The irregular plural of tooth.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003214",
-   "inflection_key": "PL"
-  },
-  {
-   "id": "en:000002564",
-   "english_id": "en:000002564",
-   "text": "understood",
-   "kind": "form",
-   "description_en": "Past and past-participle form of understand.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "understand",
-   "lemma_id": "en:000000412",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3329,
-   "user_hint": "",
-   "description": "Past and past-participle form of understand.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000412",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002565",
    "english_id": "en:000002565",
    "text": "academic",
@@ -54178,50 +48591,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002588",
-   "english_id": "en:000002588",
-   "text": "he'd",
-   "kind": "word",
-   "description_en": "Short for \"he would\" or \"he had\".",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "phr",
-   "lexical_type": "contraction",
-   "components": [
-    {
-     "surface": "he",
-     "role": "pronoun",
-     "refs": [
-      "en:000000020"
-     ],
-     "span": [
-      0,
-      2
-     ]
-    },
-    {
-     "surface": "'d",
-     "role": "modal",
-     "refs": [
-      "en:000000061",
-      "en:000000018"
-     ],
-     "span": [
-      2,
-      4
-     ]
-    }
-   ],
-   "usage_note": "'d = would or had",
-   "study_tier": "herdado",
-   "study_priority": 2697,
-   "user_hint": "",
-   "description": "Short for \"he would\" or \"he had\".",
-   "novrev_status": "reviewed",
-   "antonyms": []
-  },
-  {
    "id": "en:000002589",
    "english_id": "en:000002589",
    "text": "index",
@@ -54343,32 +48712,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002595",
-   "english_id": "en:000002595",
-   "text": "occurred",
-   "kind": "word",
-   "description_en": "Past and past-participle form of occur.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "occur",
-   "part_of_speech": "v",
-   "lemma_id": null,
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3330,
-   "user_hint": "",
-   "description": "Past and past-participle form of occur.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
   },
   {
    "id": "en:000002596",
@@ -54586,34 +48929,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002606",
-   "english_id": "en:000002606",
-   "text": "stood",
-   "kind": "form",
-   "description_en": "Past and past-participle form of stand.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "stand",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000731",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3331,
-   "user_hint": "",
-   "description": "Past and past-participle form of stand.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000731",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002607",
@@ -55389,32 +49704,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002646",
-   "english_id": "en:000002646",
-   "text": "laid",
-   "kind": "form",
-   "description_en": "Past and past-participle form of lay.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "lay",
-   "lemma_id": "en:000002263",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3332,
-   "user_hint": "",
-   "description": "Past and past-participle form of lay.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000002647",
    "english_id": "en:000002647",
    "text": "latter",
@@ -56002,34 +50291,6 @@
    "description": "Of the Catholic Church.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002678",
-   "english_id": "en:000002678",
-   "text": "chose",
-   "kind": "form",
-   "description_en": "Simple past form of choose.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "choose",
-   "lemma_id": "en:000001262",
-   "lexical_type": "form",
-   "features": {
-    "construction": "simple_past"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3333,
-   "user_hint": "",
-   "description": "Simple past form of choose.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001262",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002679",
@@ -56735,34 +50996,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002714",
-   "english_id": "en:000002714",
-   "text": "replaced",
-   "kind": "form",
-   "description_en": "Past and past-participle form of replace.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "replace",
-   "part_of_speech": "v",
-   "lemma_id": "en:000002554",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3334,
-   "user_hint": "",
-   "description": "Past and past-participle form of replace.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002554",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002715",
    "english_id": "en:000002715",
    "text": "resistance",
@@ -57191,68 +51424,6 @@
     "steady",
     "continual"
    ]
-  },
-  {
-   "id": "en:000002743",
-   "english_id": "en:000002743",
-   "text": "degrees",
-   "kind": "form",
-   "description_en": "The plural of degree.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "degree",
-   "vcu14_rank": 948,
-   "environments": [
-    "weather_emotion_time"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma_id": "en:000001183",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3335,
-   "description": "The plural of degree.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001183",
-   "inflection_key": "PL"
-  },
-  {
-   "id": "en:000002746",
-   "english_id": "en:000002746",
-   "text": "driven",
-   "kind": "form",
-   "description_en": "Past participle of drive, as in I have driven.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "drive",
-   "lemma_id": "en:000000739",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3336,
-   "user_hint": "",
-   "description": "Past participle of drive, as in I have driven.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000739",
-   "inflection_key": "PTCP_PAST"
   },
   {
    "id": "en:000002747",
@@ -58126,34 +52297,6 @@
    "alternatives": []
   },
   {
-   "id": "en:000002788",
-   "english_id": "en:000002788",
-   "text": "drawn",
-   "kind": "form",
-   "description_en": "Past participle of draw.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "draw",
-   "lemma_id": "en:000001593",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3337,
-   "user_hint": "",
-   "description": "Past participle of draw.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001593",
-   "inflection_key": "PTCP_PAST"
-  },
-  {
    "id": "en:000002792",
    "english_id": "en:000002792",
    "text": "hardly",
@@ -58389,33 +52532,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002807",
-   "english_id": "en:000002807",
-   "text": "pounds",
-   "kind": "word",
-   "description_en": "The plural of pound (money or weight).",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "pound",
-   "part_of_speech": "n",
-   "lemma_id": null,
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "cedo",
-   "study_priority": 3183,
-   "user_hint": "",
-   "description": "The plural of pound (money or weight).",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000002808",
    "english_id": "en:000002808",
    "text": "princess",
@@ -58639,34 +52755,6 @@
    ]
   },
   {
-   "id": "en:000002822",
-   "english_id": "en:000002822",
-   "text": "stayed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of stay.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "stay",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000455",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3338,
-   "user_hint": "",
-   "description": "Past and past-participle form of stay.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000455",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002823",
    "english_id": "en:000002823",
    "text": "suffering",
@@ -58739,34 +52827,6 @@
    "description": "Connected to something.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002832",
-   "english_id": "en:000002832",
-   "text": "attacked",
-   "kind": "form",
-   "description_en": "Past and past-participle form of attack.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "attack",
-   "part_of_speech": "v",
-   "lemma_id": "en:000000814",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3339,
-   "user_hint": "",
-   "description": "Past and past-participle form of attack.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000004177",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002833",
@@ -59005,34 +53065,6 @@
     "betrothed",
     "busy"
    ]
-  },
-  {
-   "id": "en:000002850",
-   "english_id": "en:000002850",
-   "text": "expressed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of express.",
-   "level": "C1",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "express",
-   "lemma_id": "en:000002072",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3340,
-   "user_hint": "",
-   "description": "Past and past-participle form of express.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002072",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002851",
@@ -59319,62 +53351,6 @@
      "study_tier": "standard"
     }
    ]
-  },
-  {
-   "id": "en:000002866",
-   "english_id": "en:000002866",
-   "text": "recognized",
-   "kind": "form",
-   "description_en": "Past and past-participle form of recognize.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "recognize",
-   "lemma_id": "en:000002865",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3341,
-   "user_hint": "",
-   "description": "Past and past-participle form of recognize.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002865",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000002867",
-   "english_id": "en:000002867",
-   "text": "registered",
-   "kind": "form",
-   "description_en": "Past and past-participle form of register.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "register",
-   "lemma_id": "en:000002514",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3342,
-   "user_hint": "",
-   "description": "Past and past-participle form of register.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002514",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002868",
@@ -59969,32 +53945,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002903",
-   "english_id": "en:000002903",
-   "text": "fed",
-   "kind": "form",
-   "description_en": "Past and past-participle form of feed.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "feed",
-   "lemma_id": "en:000002117",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3343,
-   "user_hint": "",
-   "description": "Past and past-participle form of feed.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only"
-  },
-  {
    "id": "en:000002904",
    "english_id": "en:000002904",
    "text": "fee",
@@ -60151,34 +54101,6 @@
    "novrev_status": "reviewed",
    "user_hint": "",
    "antonyms": []
-  },
-  {
-   "id": "en:000002918",
-   "english_id": "en:000002918",
-   "text": "protected",
-   "kind": "form",
-   "description_en": "Past and past-participle form of protect.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "protect",
-   "lemma_id": "en:000001249",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3344,
-   "user_hint": "",
-   "description": "Past and past-participle form of protect.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000001249",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002920",
@@ -60652,35 +54574,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002945",
-   "english_id": "en:000002945",
-   "text": "eggs",
-   "kind": "form",
-   "description_en": "The plural of egg.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "egg",
-   "part_of_speech": "n",
-   "lemma_id": "en:000003122",
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3345,
-   "user_hint": "",
-   "description": "The plural of egg.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003122",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000002946",
    "english_id": "en:000002946",
    "text": "employee",
@@ -60756,40 +54649,6 @@
     "quite",
     "reasonably"
    ]
-  },
-  {
-   "id": "en:000002952",
-   "english_id": "en:000002952",
-   "text": "fingers",
-   "kind": "word",
-   "description_en": "The plural of finger.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "finger",
-   "vcu14_rank": 965,
-   "environments": [
-    "body_health"
-   ],
-   "vcu14_status": "provisional-editorial",
-   "part_of_speech": "n",
-   "lemma_id": null,
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3346,
-   "description": "The plural of finger.",
-   "novrev_status": "reviewed",
-   "user_hint": "",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003223",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000002954",
@@ -60974,34 +54833,6 @@
     "raise",
     "hoist"
    ]
-  },
-  {
-   "id": "en:000002964",
-   "english_id": "en:000002964",
-   "text": "marked",
-   "kind": "form",
-   "description_en": "Past and past-participle form of mark.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "mark",
-   "lemma_id": "en:000000918",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3348,
-   "user_hint": "",
-   "description": "Past and past-participle form of mark.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000918",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002967",
@@ -61278,35 +55109,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002981",
-   "english_id": "en:000002981",
-   "text": "scientists",
-   "kind": "word",
-   "description_en": "The plural of scientist.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "lemma": "scientist",
-   "part_of_speech": "n",
-   "lemma_id": null,
-   "lexical_type": "form",
-   "features": {
-    "construction": "regular_plural",
-    "number": "plural"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3349,
-   "user_hint": "",
-   "description": "The plural of scientist.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000003405",
-   "inflection_key": "PL"
-  },
-  {
    "id": "en:000002982",
    "english_id": "en:000002982",
    "text": "shoulder",
@@ -61400,34 +55202,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000002990",
-   "english_id": "en:000002990",
-   "text": "visited",
-   "kind": "form",
-   "description_en": "Past and past-participle form of visit.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "visit",
-   "lemma_id": "en:000000949",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3350,
-   "user_hint": "",
-   "description": "Past and past-participle form of visit.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000949",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000002991",
    "english_id": "en:000002991",
    "text": "visual",
@@ -61460,62 +55234,6 @@
    "description": "A round object that turns, on cars and bikes.",
    "novrev_status": "reviewed",
    "antonyms": []
-  },
-  {
-   "id": "en:000002994",
-   "english_id": "en:000002994",
-   "text": "achieved",
-   "kind": "form",
-   "description_en": "Past and past-participle form of achieve.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "achieve",
-   "lemma_id": "en:000002568",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3351,
-   "user_hint": "",
-   "description": "Past and past-participle form of achieve.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002568",
-   "inflection_key": "PAST"
-  },
-  {
-   "id": "en:000002995",
-   "english_id": "en:000002995",
-   "text": "admitted",
-   "kind": "form",
-   "description_en": "Past and past-participle form of admit.",
-   "level": "C2",
-   "region_tags": [],
-   "source_status": "editorial-reviewed",
-   "part_of_speech": "v",
-   "lemma": "admit",
-   "lemma_id": "en:000002528",
-   "lexical_type": "form",
-   "features": {
-    "construction": "past_or_past_participle"
-   },
-   "grammatical_key": null,
-   "key_pending": true,
-   "study_tier": "herdado",
-   "study_priority": 3352,
-   "user_hint": "",
-   "description": "Past and past-participle form of admit.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000002528",
-   "inflection_key": "PAST"
   },
   {
    "id": "en:000002996",
@@ -65463,28 +59181,6 @@
    "antonyms": []
   },
   {
-   "id": "en:000000784",
-   "english_id": "en:000000784",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "Past form of look: turned the eyes toward something.",
-   "text": "looked",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "pendente",
-   "study_priority": 3360,
-   "part_of_speech": "v",
-   "user_hint": "",
-   "description": "Past form of look: turned the eyes toward something.",
-   "novrev_status": "reviewed",
-   "level": "B1",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000145",
-   "inflection_key": "PAST"
-  },
-  {
    "id": "en:000000796",
    "english_id": "en:000000796",
    "english_sense_id": null,
@@ -65540,50 +59236,6 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": []
-  },
-  {
-   "id": "en:000000908",
-   "english_id": "en:000000908",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "Plural of way: methods or manners of doing something.",
-   "text": "ways",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "pendente",
-   "study_priority": 3361,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "Plural of way: methods or manners of doing something.",
-   "novrev_status": "reviewed",
-   "level": "B1",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000099",
-   "inflection_key": "PL"
-  },
-  {
-   "id": "en:000000955",
-   "english_id": "en:000000955",
-   "english_sense_id": null,
-   "kind": "word",
-   "description_en": "Plural of boy: male children.",
-   "text": "boys",
-   "alternatives": [],
-   "source_status": "base4-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "study_tier": "pendente",
-   "study_priority": 3362,
-   "part_of_speech": "n",
-   "user_hint": "",
-   "description": "Plural of boy: male children.",
-   "novrev_status": "reviewed",
-   "level": "B1",
-   "antonyms": [],
-   "core_status": "search_only",
-   "inflection_of": "en:000000664",
-   "inflection_key": "PL"
   },
   {
    "id": "en:000000958",
