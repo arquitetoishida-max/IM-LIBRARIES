@@ -45,7 +45,7 @@
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
-  "2.5.5: nativeExplain só no próprio idioma do pacote (removidas as dicas pt-BR dentro de en, ja e zh)."
+  "2.5.5: nativeExplain só no próprio idioma (removidas as dicas pt-BR dentro de en, ja e zh)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -29875,7 +29875,6 @@
    "romanization": "~ no tame ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "finalidade, benefício",
     "ja": "誰かや何かの利益・目的・相手を示す。「友だちのために料理する」。期間を表す「三日間」や、交換の「千円で」にも近い使い方がある。"
    },
    "study_tier": "expansão estruturante",
@@ -30506,7 +30505,6 @@
    ],
    "class_real": "pronoun",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "ja": "すでに話に出た男性を指す。「彼は先生だ」。会話では名前や「あの人」を使うことが多い。"
    },
    "study_tier": "expansão estruturante",
@@ -30640,7 +30638,6 @@
    ],
    "class_real": "particle (case/conjunctive)",
    "nativeExplain": {
-    "pt-BR": "origem, procedência",
     "ja": "始まりや出どころを示す。「東京から来る」。時間の起点（「九時から」）や材料（「木から作る」）にも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -30744,7 +30741,6 @@
    "reading": "わたしたち",
    "romanization": "watashitachi",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "ja": "自分と、ほかの人たちを合わせて指す。ていねいな言いかたで、話す相手を入れる場合も入れない場合もある。"
    },
    "study_tier": "núcleo inicial",
@@ -31056,7 +31052,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 15,
    "nativeExplain": {
-    "pt-BR": "Número um: 一",
     "ja": "数の1。ものを数えるときは「一つ」、人は「一人」のように言う。"
    },
    "description": "数の1。ものを数えるときは「一つ」、人は「一人」のように言う。",
@@ -31293,7 +31288,6 @@
    "romanization": "~ ni tsuite",
    "class_real": "compound particle",
    "nativeExplain": {
-    "pt-BR": "assunto",
     "ja": "話題や内容を示す。「本について話す」。おおよその数（「約十人」）にも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -31637,7 +31631,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "ação, tarefa",
     "ja": "ある行動や仕事をおこなう。「宿題をする」のように名詞といっしょに使い、「〜する」の形で多くの動作を表せる。"
    },
    "study_tier": "núcleo inicial",
@@ -31681,7 +31674,6 @@
    ],
    "class_real": "interjection",
    "nativeExplain": {
-    "pt-BR": "resposta negativa",
     "ja": "質問や頼みごとに対して、そうではない、できないと答えるときの言葉。ていねいな場面で使い、くだけると「ううん」になる。"
    },
    "study_tier": "núcleo inicial",
@@ -31762,7 +31754,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "pergunta pela pessoa",
     "ja": "知らない人が誰なのかをたずねる言葉。「あの人は誰ですか」のように使う。ていねいに言うと「どなた」。"
    },
    "study_tier": "núcleo inicial",
@@ -31866,7 +31857,6 @@
    "romanization": "karera no",
    "class_real": "pronoun + の",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo",
     "ja": "その人たちのもの。「彼らの家」。性別に関係なく複数の人を指す。"
    },
    "study_tier": "expansão estruturante",
@@ -31941,7 +31931,6 @@
    "romanization": "kanojo no",
    "class_real": "pronoun + の",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo (dela + coisa)",
     "ja": "その女の人のもの。「彼女の帽子」。"
    },
    "study_tier": "expansão estruturante",
@@ -32457,7 +32446,6 @@
    "romanization": "mo",
    "class_real": "particle (additive)",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "ja": "そのうえ、同じく。「私も行く」。付け加えるときに使う。"
    },
    "study_tier": "expansão estruturante",
@@ -32585,7 +32573,6 @@
    "romanization": "hoka no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "diferente do citado",
     "ja": "すでに話に出たものとは別の。「他の人」。残りの部分を指すときにも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -32678,7 +32665,6 @@
    "romanization": "watashitachi no",
    "class_real": "pronoun + の",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo",
     "ja": "私たちのもの。「私たちの学校」。"
    },
    "study_tier": "expansão estruturante",
@@ -32821,7 +32807,6 @@
    "romanization": "dake",
    "class_real": "particle (limiting)",
    "nativeExplain": {
-    "pt-BR": "nada mais",
     "ja": "それだけで、ほかにはない。「一つだけ」。時間では「やっと」：「いまになってやっと」。"
    },
    "study_tier": "expansão estruturante",
@@ -32950,7 +32935,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "objeto (ver ele, para ele)",
     "ja": "男の人を、動作を受ける側として指す。「彼を見る」。「彼に」と使うことも多い。"
    },
    "study_tier": "expansão estruturante",
@@ -33268,7 +33252,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 31,
    "nativeExplain": {
-    "pt-BR": "Número dois: 二",
     "ja": "数の2。ものを数えるときは「二つ」、人は「二人」のように言う。"
    },
    "description": "数の2。ものを数えるときは「二つ」、人は「二人」のように言う。",
@@ -33388,7 +33371,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "criar, fabricar",
     "ja": "何かをつくる。「ごはんを作る」。ある状態にさせる（「楽しくさせる」）、お金を得る（「お金を稼ぐ」）にも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -33423,7 +33405,6 @@
    "romanization": "~ no ue",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "posição acima",
     "ja": "ある場所や物より高い位置を指す。「橋の上」。終わった意味（「終わった」）や、越える動きにも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -33778,7 +33759,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "objeto",
     "ja": "自分と他の人たちを、動作を受ける側として指す。「私たちを助ける」。「私たちに」とも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -34061,7 +34041,6 @@
    "romanization": "jouzu ni",
    "class_real": "na-adjective adverbial",
    "nativeExplain": {
-    "pt-BR": "de modo bom",
     "ja": "うまく、よい状態で。「上手に歌う」。健康（「元気だ」）や、話を始める「さて」にも使う。"
    },
    "study_tier": "expansão estruturante",
@@ -34248,7 +34227,6 @@
    ],
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "intensidade antes de adjetivo",
     "ja": "あとにくる形容詞や副詞の程度が強いことを表す。「とても大きい」「とても好き」のように使う。"
    },
    "study_tier": "inicial",
@@ -34356,7 +34334,6 @@
    "lexical_type": "construction",
    "class_real": "advice construction",
    "nativeExplain": {
-    "pt-BR": "conselho",
     "ja": "よいと思うことをすすめる。「早く寝たほうがいい」。ふつうそうなると予想する意味でも使う。"
    },
    "study_tier": "cedo",
@@ -34622,7 +34599,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "correto",
     "ja": "答えや考えかたにまちがいがなく、そのとおりである。「あなたの言うことは正しい」のように使う。"
    },
    "study_tier": "inicial",
@@ -34666,7 +34642,6 @@
    ],
    "class_real": "noun (suru-noun)",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "お金をかせぐためにする、日々のつとめ。職業や職場の意味でも使い、「仕事に行く」のようにも言う。"
    },
    "study_tier": "inicial",
@@ -35022,7 +34997,6 @@
    "romanization": "mada",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "continua até agora",
     "ja": "今まで続いていることが、いまも変わらない。「まだ雨が降っている」のように使う。否定と合わせて「まだ〜ない」とも言う。"
    },
    "study_tier": "inicial",
@@ -35144,7 +35118,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "pegar e levar",
     "ja": "手でつかんで、自分のほうへ受け取る。「本を取る」のように使う。持っていく意味では「持って行く」とも言う。"
    },
    "study_tier": "inicial",
@@ -35742,7 +35715,6 @@
    "lexical_type": "construction",
    "class_real": "subordinating construction",
    "nativeExplain": {
-    "pt-BR": "durante",
     "ja": "ある間のこと。「勉強している間に」。対比（「一方で」）にも使う。"
    },
    "study_tier": "cedo",
@@ -35916,7 +35888,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "o lar",
     "ja": "自分や家族が住んでいる場所や建物。「家に帰る」のように、ふるさとや自分の居場所の意味でも使う。"
    },
    "study_tier": "inicial",
@@ -36890,7 +36861,6 @@
    "romanization": "~ no aida ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "dois",
     "ja": "ふたつの物のあいだ。「駅と学校の間」。ふたりの関係や選択にも使う。"
    },
    "study_tier": "cedo",
@@ -37258,7 +37228,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "distância do chão, posição",
     "ja": "地面から遠く上にある、背が高い。「高い山」。値段や程度が大きい意味にも使う。"
    },
    "study_tier": "cedo",
@@ -37473,7 +37442,6 @@
    "romanization": "mou hitotsu no",
    "class_real": "adnominal phrase",
    "nativeExplain": {
-    "pt-BR": "mais um",
     "ja": "すでにあるものに、同じ種類のものを一つ加える。「もう一つ」。別のものを指す意味にも使う。"
    },
    "study_tier": "cedo",
@@ -37577,7 +37545,6 @@
    "romanization": "~ no shita ni",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "ja": "何かの下側。「机の下に」。年齢や数が下回る意味（「十歳未満」）にも使う。"
    },
    "study_tier": "cedo",
@@ -37861,7 +37828,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "o edifício",
     "ja": "家族が住むための建物。「家」は建物も、家庭も指すことがあり、「一軒家」のように数える。"
    },
    "study_tier": "inicial",
@@ -38035,7 +38001,6 @@
    "romanization": "sorezore",
    "class_real": "noun/adverb",
    "nativeExplain": {
-    "pt-BR": "um por um, separadamente",
     "ja": "ひとつひとつ、別々に。「それぞれの意見」。「各」とも言う。"
    },
    "study_tier": "cedo",
@@ -38457,7 +38422,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "tamanho (mais comum)",
     "ja": "大きさや量が、ふつうより上である。体のサイズにも、年齢が上であることや、重要さにも使う。"
    },
    "study_tier": "inicial",
@@ -43807,7 +43771,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "dizer obrigado",
     "ja": "人からしてもらったことに対して、ありがたいと言葉で伝える。「お礼を言う」の形で使う。"
    },
    "study_tier": "inicial",
@@ -44181,7 +44144,6 @@
    "romanization": "zenbu no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "completo (comum)",
     "ja": "欠けたところのない、全部。「一日じゅう」。「丸ごと」。"
    },
    "study_tier": "cedo",
@@ -44338,7 +44300,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "espécie (comum)",
     "ja": "ものを分けたときのひとつのまとまり。「どんな種類の音楽？」。「〜のような」と例える意味にも使う。"
    },
    "study_tier": "cedo",
@@ -44374,7 +44335,6 @@
    "romanization": "moshikashitara",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "comum",
     "ja": "はっきりとはわからないが、そうなる可能性がある。「もしかしたら雨が降るかもしれない」のように使う。"
    },
    "study_tier": "inicial",
@@ -44467,7 +44427,6 @@
    "reading": "はなし",
    "romanization": "hanashi",
    "nativeExplain": {
-    "pt-BR": "narrativa",
     "ja": "本当または作った出来事の話。「話をする」。ニュース記事の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -44579,7 +44538,6 @@
    "romanization": "~ to ii na",
    "class_real": "godan verb",
    "nativeExplain": {
-    "pt-BR": "desejar",
     "ja": "望んでいることが実現してほしいという気持ち。「晴れるといいな」。ていねいな言い方（「〜と思っています」）にも使う。"
    },
    "study_tier": "cedo",
@@ -44613,7 +44571,6 @@
    "romanization": "taisetsu na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "価値が高く、そのままにしておけない。物や人、考えなどを、とても大事に思うときに使う。"
    },
    "study_tier": "inicial",
@@ -45539,7 +45496,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "falar com alguém",
     "ja": "人と言葉を交わして、考えや気持ちを伝える。「友だちと話す」のように使い、「話す」は会話にも、一人でのスピーチにも使える。"
    },
    "study_tier": "inicial",
@@ -45891,7 +45847,6 @@
    "romanization": "hitotsu no",
    "class_real": "numeral + の",
    "nativeExplain": {
-    "pt-BR": "apenas um no conjunto",
     "ja": "数が一つだけで、ほかにないことを表す。「一つの理由」のように名詞の前に置き、「一人の」「たった一つの」ともいう。"
    },
    "study_tier": "inicial",
@@ -46491,7 +46446,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "すぐには解決できず、こまることやむずかしいこと。「問題を解く」は試験の問題、「問題がある」は困りごとを表す。"
    },
    "study_tier": "inicial",
@@ -46693,7 +46647,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "o passado, disciplina",
     "ja": "過去の出来事。「世界の歴史」。教科や、その人の経歴（「病歴」）の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -46794,7 +46747,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "tamanho (um pouco formal)",
     "ja": "サイズや量が、ふつうより上である。「大きい」は、形や数、規模にも使える。"
    },
    "study_tier": "inicial",
@@ -46890,7 +46842,6 @@
    "study_tier": "inicial",
    "study_priority": 104,
    "nativeExplain": {
-    "pt-BR": "cômodo/quarto",
     "ja": "家やビルの中の、かべで仕切られた場所。「部屋」は一つ一つの空間、「教室」のような名前がついた部屋もある。"
    },
    "description": "家やビルの中の、かべで仕切られた場所。「部屋」は一つ一つの空間、「教室」のような名前がついた部屋もある。",
@@ -47067,7 +47018,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "vencer",
     "ja": "試合や競争で、相手に勝って一番になる。「試合に勝つ」のように使い、くじや賞を得る意味もある。"
    },
    "study_tier": "inicial",
@@ -47205,7 +47155,6 @@
    "romanization": "hoka ni",
    "class_real": "adverbial phrase",
    "nativeExplain": {
-    "pt-BR": "outro, diferente",
     "ja": "すでに出た人や物のほかのもの。「ほかの人」「他に何か」のように使う。"
    },
    "study_tier": "inicial",
@@ -47519,7 +47468,6 @@
    "reading": "ともだち",
    "romanization": "tomodachi",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "仲がよくて、よく知っていて、信頼できる人。「友だちと遊ぶ」のように使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -48661,7 +48609,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "aguardar",
     "ja": "何かが起こったり来たりするまで、その場や状態にいる。「友だちを待つ」のように使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -50010,7 +49957,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "comum",
     "ja": "お金を払って、物を自分のものにする。「パンを買う」のように使い、対の言葉は「売る」。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -50956,7 +50902,6 @@
    "reading": "こども",
    "romanization": "kodomo",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "まだ大人になっていない、年の若い人。「子ども」は自分の親から見た息子や娘にも使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -51819,7 +51764,6 @@
    "romanization": "junbi ga dekita",
    "class_real": "construction",
    "nativeExplain": {
-    "pt-BR": "preparado",
     "ja": "すぐに始められるように、用意ができている。「出かける準備ができた」のように使い、「準備ができた」の形でよく使う。"
    },
    "study_tier": "inicial",
@@ -52163,7 +52107,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "modelo",
     "ja": "同じようなことがらを示すための、ひとつの見本。「例を挙げる」のように使い、説明をわかりやすくするときに使う。"
    },
    "study_tier": "inicial",
@@ -52630,7 +52573,6 @@
    "reading": "うた",
    "romanization": "uta",
    "nativeExplain": {
-    "pt-BR": "a canção",
     "ja": "言葉と旋律でできた、歌うための音楽。「歌を歌う」のように使い、歌手の歌い方にも使う。"
    },
    "study_tier": "inicial",
@@ -53759,7 +53701,6 @@
    "class_real": "na-adjective",
    "romanization_segments": "genki (na)",
    "nativeExplain": {
-    "pt-BR": "estar bem",
     "ja": "体や気分に問題がなく、よい状態である。「元気です」のように、あいさつの返事に使う。"
    },
    "study_tier": "inicial",
@@ -53944,7 +53885,6 @@
    "romanization": "mondai",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "tema em discussão",
     "ja": "人が話し合う問題や話題。「政治的な問題」。雑誌の号の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -54041,7 +53981,6 @@
    "study_tier": "cedo",
    "study_priority": 1063,
    "nativeExplain": {
-    "pt-BR": "espaço (lugar vazio)",
     "ja": "何もない場所。「部屋の空き」。宇宙や、文字の間のスペースの意味にも使う。"
    },
    "user_hint": "",
@@ -54111,7 +54050,6 @@
    "romanization": "gakki",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "período letivo; termo",
     "ja": "学年の区切り。「春の学期」。専門用語や、契約の条件の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -56961,7 +56899,6 @@
    "romanization": "purezento",
    "class_real": "noun (loanword)",
    "nativeExplain": {
-    "pt-BR": "objeto dado a outra pessoa",
     "ja": "人に贈る物。誕生日やお祝いなどで、「プレゼントをあげる」のように使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -57233,7 +57170,6 @@
    "reading": "こたえ",
    "romanization": "kotae",
    "nativeExplain": {
-    "pt-BR": "resposta a pergunta",
     "ja": "質問に対する返事。クイズや問題の正しい答えにも、「答えを出す」の意味でも使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -58842,7 +58778,6 @@
    "reading": "じめん",
    "romanization": "jimen",
    "nativeExplain": {
-    "pt-BR": "terreno lá fora",
     "ja": "私たちが歩く、地球の表面。「地面に落ちる」のように使い、土や、地上にある場所を指す。"
    },
    "study_tier": "inicial",
@@ -60422,7 +60357,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "velocidade",
     "ja": "動いたり進んだりするスピードが大きい。「速い車」のように使い、「早い」は時刻が前であることを表す。"
    },
    "study_tier": "inicial",
@@ -62086,7 +62020,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "surpreendente e bom",
     "ja": "おどろくほど、すばらしい。「すごい景色」のように使い、会話では「すごい」「すばらしい」と言う。"
    },
    "study_tier": "inicial",
@@ -63363,7 +63296,6 @@
    "romanization": "tabun",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "ja": "はっきりとはわからないが、そうなる可能性がある。「たぶん明日は雨だ」のように使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -63643,7 +63575,6 @@
    "romanization": "webusaito",
    "class_real": "noun (loanword)",
    "nativeExplain": {
-    "pt-BR": "página na internet",
     "ja": "インターネット上にある、ページのまとまり。会社や店、個人の情報を、ブラウザで見られる。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -65441,7 +65372,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "かんたんではなく、するのに努力や知識が必要だ。「難しい問題」のように使い、人の性格にも使う。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -65914,7 +65844,6 @@
    "romanization": "chikyuu",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "o planeta; solo",
     "ja": "私たちが住んでいる星。「地球は丸い」のように使い、人類の世界全体を指すこともある。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -66094,7 +66023,6 @@
    "romanization": "kyodai na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "ja": "ふつうよりずっと大きい。「巨大な建物」のように使い、規模や力が大きいことを表す。"
    },
    "study_tier": "fala cotidiana inicial",
@@ -67135,7 +67063,6 @@
    "study_tier": "inicial",
    "study_priority": 302,
    "nativeExplain": {
-    "pt-BR": "mesa",
     "ja": "平らな板に、足がついた家具。「テーブルで食事をする」のように使い、食卓にも作業用にも使う。"
    },
    "description": "平らな板に、足がついた家具。「テーブルで食事をする」のように使い、食卓にも作業用にも使う。",
@@ -70746,7 +70673,6 @@
    "study_tier": "inicial",
    "study_priority": 331,
    "nativeExplain": {
-    "pt-BR": "estação (trem) vs estação (rádio/TV)",
     "ja": "電車やバスが止まって、人が乗り降りする場所。「駅で待ち合わせる」のように使い、鉄道では「駅」と言う。"
    },
    "description": "電車やバスが止まって、人が乗り降りする場所。「駅で待ち合わせる」のように使い、鉄道では「駅」と言う。",
@@ -71731,7 +71657,6 @@
    "romanization": "messeeji",
    "class_real": "noun (loanword)",
    "nativeExplain": {
-    "pt-BR": "recado",
     "ja": "人に送る、知らせや言葉。「メッセージを送る」のように使い、スマホやメールの短い文章にも使う。"
    },
    "study_tier": "inicial",
@@ -72510,7 +72435,6 @@
    "romanization": "kodomo",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "informal",
     "ja": "年の小さい人をまとめて指す、くだけた言いかた。「子ども」と言うことも多い。"
    },
    "study_tier": "inicial",
@@ -73018,7 +72942,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "que leva pouco tempo",
     "ja": "時間がかからず、動きに無駄がない。「速い返事」「素早い動き」のように、行動やしかたの速さを表す。"
    },
    "study_tier": "inicial",
@@ -73425,7 +73348,6 @@
    "reading": "コンピューター",
    "romanization": "konpyuutaa",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "ja": "仕事やゲーム、インターネットなどに使う電子機器。「パソコン」とも言い、机の上に置くものから持ち運べるものまである。"
    },
    "study_tier": "inicial",
@@ -73669,7 +73591,6 @@
    "romanization": "shashin",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "fotografia",
     "ja": "カメラで、人や景色などを写した画像。「写真をとる」のように使い、スマホでとったものも含む。"
    },
    "study_tier": "inicial",
@@ -74091,7 +74012,6 @@
    "study_tier": "cedo",
    "study_priority": 1198,
    "nativeExplain": {
-    "pt-BR": "treinador",
     "ja": "チームを指導する人。「サッカーのコーチ」。長距離バスや、家庭教師の意味にも使う。"
    },
    "user_hint": "",
@@ -74881,7 +74801,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "informal",
     "ja": "自分の父親を、親しみをこめて呼ぶ言葉。「お父さん」は呼びかけにも、他人の父を指すときにも使い、家では「パパ」とも言う。"
    },
    "study_tier": "inicial",
@@ -76056,7 +75975,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "chão ou piso de um cômodo",
     "ja": "建物や部屋の中で、歩く面。「床にすわる」のように使い、階を表すときは「階」を使う。"
    },
    "study_tier": "inicial",
@@ -77449,7 +77367,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "informal",
     "ja": "とてもすばらしく、感心するほどだ。くだけた会話で、「すごい」「最高」のように使う。"
    },
    "study_tier": "inicial",
@@ -78014,7 +77931,6 @@
    "romanization": "fukusuu no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "múltiplos",
     "ja": "いくつもの。「複数の選択肢」。いくつかの部分からできていることにも使う。"
    },
    "study_tier": "cedo",
@@ -78816,7 +78732,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "decidir entre opções",
     "ja": "いくつかの中から、どれにするかを決める。「好きな色を選ぶ」のように使い、人を選ぶときにも使う。"
    },
    "study_tier": "inicial",
@@ -80417,7 +80332,6 @@
    "study_tier": "cedo",
    "study_priority": 1272,
    "nativeExplain": {
-    "pt-BR": "crescer (intransitivo) vs cultivar (plantas)",
     "ja": "生き物が大きくなる。「子どもが育つ」。植物を育てる意味（「トマトを育てる」）や、変化する意味にも使う。"
    },
    "user_hint": "",
@@ -80617,7 +80531,6 @@
    "romanization": "zentai no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "no total",
     "ja": "全体の。おおまかに見た。「全体の結果」。"
    },
    "study_tier": "cedo",
@@ -80851,7 +80764,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "ida e volta",
     "ja": "どこかへ行って帰ってくる、短い旅や外出。「日帰りの旅行」のように使い、出張にも使える。"
    },
    "study_tier": "inicial",
@@ -81244,7 +81156,6 @@
    "romanization": "kanzen ni",
    "class_real": "na-adjective + に (adverbial)",
    "nativeExplain": {
-    "pt-BR": "completamente (formal)",
     "ja": "すっかり。「完全に理解する」。いっぱいの意味にも使う：「満席だ」。"
    },
    "study_tier": "cedo",
@@ -81875,7 +81786,6 @@
    "romanization": "saishuuteki ni",
    "class_real": "na-adjective + に (adverbial)",
    "nativeExplain": {
-    "pt-BR": "com o tempo",
     "ja": "長い時間がたって、最後には。「最終的に決まった」。苦労のあとにも使う。"
    },
    "study_tier": "cedo",
@@ -82009,7 +81919,6 @@
    "romanization": "takusan",
    "class_real": "noun/adverb",
    "nativeExplain": {
-    "pt-BR": "informal",
     "ja": "数や量がとても多いこと。「たくさんの人」のように使い、「たくさん食べる」のように副詞としても使う。"
    },
    "study_tier": "inicial",
@@ -82238,7 +82147,6 @@
    "romanization": "byouki no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "ja": "病気で、体の調子が悪い。「病気の人」のように使い、気分が悪いときは「気分が悪い」と言う。"
    },
    "study_tier": "inicial",
@@ -82466,7 +82374,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "afastar-se de",
     "ja": "近づかないようにする。「渋滞を避ける」。しないようにする意味にも使う。"
    },
    "study_tier": "cedo",
@@ -82621,7 +82528,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "agarrar algo em movimento",
     "ja": "動いているものをつかむ。「ボールを捕まえる」。電車に間に合う、かぜをひく意味にも近い。"
    },
    "study_tier": "cedo",
@@ -82654,7 +82560,6 @@
    "study_tier": "cedo",
    "study_priority": 1305,
    "nativeExplain": {
-    "pt-BR": "célula (biologia) vs celular/cela",
     "ja": "体の最小の生きた単位。「血液の細胞」。独房や、携帯電話の意味にも使う。"
    },
    "user_hint": "",
@@ -83595,7 +83500,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "início da noite",
     "ja": "日が暮れるころの、夜になる前の時間。「夕方に帰る」のように使い、「晩」は夜に近い時間を指す。"
    },
    "study_tier": "inicial",
@@ -84073,7 +83977,6 @@
    "romanization": "jissai no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "real, efetivo",
     "ja": "本当にある。現実の。「実際の値段」。予想と対比して使う。"
    },
    "study_tier": "cedo",
@@ -84465,7 +84368,6 @@
    "study_tier": "inicial",
    "study_priority": 415,
    "nativeExplain": {
-    "pt-BR": "material de janelas e garrafas",
     "ja": "窓やびんなどに使う、かたく、ふつう光を通す材料。「ガラスのコップ」のように使い、割れやすい。"
    },
    "description": "窓やびんなどに使う、かたく、ふつう光を通す材料。「ガラスのコップ」のように使い、割れやすい。",
@@ -85060,7 +84962,6 @@
    "reading": "がめん",
    "romanization": "gamen",
    "nativeExplain": {
-    "pt-BR": "parte do aparelho",
     "ja": "テレビやスマホ、パソコンなどで、映像が映る部分。「画面を見る」のように使う。"
    },
    "study_tier": "inicial",
@@ -85755,7 +85656,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "um pouco mais formal",
     "ja": "物事に、とりかかる。「仕事を始める」のように使い、「始まる」は、ものごとが自分でスタートするときに使う。"
    },
    "study_tier": "inicial",
@@ -85890,7 +85790,6 @@
    "romanization": "minna",
    "class_real": "pronoun",
    "nativeExplain": {
-    "pt-BR": "informal",
     "ja": "その場にいる、すべての人。「みんなで行く」のように使い、「皆さん」はていねいに呼びかけるときに使う。"
    },
    "study_tier": "inicial",
@@ -86890,7 +86789,6 @@
    "study_tier": "cedo",
    "study_priority": 1352,
    "nativeExplain": {
-    "pt-BR": "crítico (decisivo) vs crítico (que critica)",
     "ja": "とても重要で、結果を左右する。「重大な瞬間」。人の欠点を指摘する意味にも使う。"
    },
    "user_hint": "",
@@ -87154,7 +87052,6 @@
    "romanization": "omoni",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "na maior parte",
     "ja": "大部分は。だいたい。「ほとんど晴れ」。"
    },
    "study_tier": "cedo",
@@ -87572,7 +87469,6 @@
    "romanization": "betsubetsu no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "não junto",
     "ja": "一緒になっていない。「別々の部屋」。動詞では、わけること。"
    },
    "study_tier": "cedo",
@@ -87861,7 +87757,6 @@
    "reading": "けっこんしき",
    "romanization": "kekkonshiki",
    "nativeExplain": {
-    "pt-BR": "a cerimônia",
     "ja": "結婚をお祝いするための式。「結婚式に出る」のように使い、家族や友だちが参加する。"
    },
    "study_tier": "inicial",
@@ -89650,7 +89545,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "obter mais",
     "ja": "何かをより多く手に入れる。「体重が増える」。経験や利益を得る意味にも使う。"
    },
    "study_tier": "cedo",
@@ -90835,7 +90729,6 @@
    ],
    "class_real": "pronoun",
    "nativeExplain": {
-    "pt-BR": "mais informal",
     "ja": "名前を言わない、ある人。「誰かが来た」のように、はっきりしない人を指す。"
    },
    "study_tier": "inicial",
@@ -91866,7 +91759,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "impedir",
     "ja": "何かが起きないようにする。「事故を防ぐ」。人にさせないようにする意味にも使う。"
    },
    "study_tier": "cedo",
@@ -92085,7 +91977,6 @@
    "romanization": "hanarete",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "distante um do outro",
     "ja": "距離をおいて離れている。「二メートル離れて」。ばらばらになる意味にも使う。"
    },
    "study_tier": "cedo",
@@ -92519,7 +92410,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "presente dado",
     "ja": "人に贈る物。誕生日や記念日などに、気持ちをこめて渡す。「プレゼント」のほうが会話ではよく使う。"
    },
    "study_tier": "inicial",
@@ -93144,7 +93034,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "firme, de vez",
     "ja": "開いているものを、とじる。「ドアを閉める」のように使い、店や会などを終える意味でも使う。"
    },
    "study_tier": "inicial",
@@ -93904,7 +93793,6 @@
    "study_tier": "cedo",
    "study_priority": 1441,
    "nativeExplain": {
-    "pt-BR": "paciente (adj.) vs paciente (doente)",
     "ja": "落ち着いて待てる。「辛抱強い」。医者にかかっている人（患者）にも使う。"
    },
    "description": "落ち着いて待てる。「辛抱強い」。医者にかかっている人（患者）にも使う。",
@@ -94517,7 +94405,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "no trabalho",
     "ja": "仕事で、自分に指示を出す人。「上司に報告する」のように使い、会社の中の立場が上の人を指す。"
    },
    "study_tier": "inicial",
@@ -95453,7 +95340,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "preocupação séria",
     "ja": "心配している。「健康を心配する」。かかわりのある人の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -96799,7 +96685,6 @@
    "romanization": "dokutoku no",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "sem igual",
     "ja": "同じ種類で唯一の。「ほかにない贈り物」。とても特別な意味にも使う。"
    },
    "study_tier": "cedo",
@@ -96994,7 +96879,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "valorizar, ser grato por",
     "ja": "ありがたく思う。「助けに感謝する」。価値を認める意味や、値上がりする意味にも使う。"
    },
    "study_tier": "cedo",
@@ -97949,7 +97833,6 @@
    "romanization": "sugureta",
    "class_real": "past participle (優れる), attributive",
    "nativeExplain": {
-    "pt-BR": "muito bom",
     "ja": "とてもよい。「すばらしい食事」。ほめる返事にも使う。"
    },
    "study_tier": "cedo",
@@ -99438,7 +99321,6 @@
    "romanization": "byouki no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "ja": "病気の。「かぜで具合が悪い」。悪い意味でも使う：「不運」。"
    },
    "study_tier": "cedo",
@@ -99697,7 +99579,6 @@
    "romanization": "kyodai na",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "maciço, gigante",
     "ja": "とても大きい。「巨大な木」。量や影響が大きい意味にも使う。"
    },
    "study_tier": "cedo",
@@ -99824,7 +99705,6 @@
    "romanization": "takusan",
    "class_real": "noun/adverb",
    "nativeExplain": {
-    "pt-BR": "mais que suficiente",
     "ja": "たくさん、十分に。「時間はたっぷりある」。"
    },
    "study_tier": "cedo",
@@ -101505,7 +101385,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "formal",
     "ja": "買う（かたい言い方）。「切符を購入する」。"
    },
    "study_tier": "cedo",
@@ -103880,7 +103759,6 @@
    "romanization": "kodai no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "muito velho, de séculos",
     "ja": "とても古い。「古代ローマ」。ずっと昔のものにも使う。"
    },
    "study_tier": "cedo",
@@ -105601,7 +105479,6 @@
    "reading": "まちがい",
    "romanization": "machigai",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "ja": "間違ってしまった行い。「間違いを直す」のように使い、「ミス」とも言う。"
    },
    "study_tier": "inicial",
@@ -105784,7 +105661,6 @@
    "lexical_type": "construction",
    "class_real": "postpositional construction",
    "nativeExplain": {
-    "pt-BR": "formal: a respeito de",
     "ja": "〜について（かたい言い方）。「お手紙について」。"
    },
    "study_tier": "cedo",
@@ -106275,7 +106151,6 @@
    "romanization": "okotta",
    "class_real": "past participle (怒る), attributive",
    "nativeExplain": {
-    "pt-BR": "com raiva (geral)",
     "ja": "強くいやだと思って、腹を立てている。「怒った顔」のように使い、人に対する強い不満を表す。"
    },
    "study_tier": "inicial",
@@ -106665,7 +106540,6 @@
    "romanization": "naibu no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "técnico",
     "ja": "内側の。「内部のドア」。組織の中の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -107451,7 +107325,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "golpe; greve",
     "ja": "打つ。「ボールを打つ」。ストライキをする意味や、ふと思いつく意味にも使う。"
    },
    "study_tier": "cedo",
@@ -108157,7 +108030,6 @@
    "romanization": "nise no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "falsificado",
     "ja": "本物ではない。「偽の身分証」。ニセ情報や模造品にも使う。"
    },
    "study_tier": "cedo",
@@ -108420,7 +108292,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "conservar em bom estado",
     "ja": "よい状態に保つ。「車を整備する」。続ける意味にも使う：「速度を保つ」。"
    },
    "study_tier": "cedo",
@@ -111063,7 +110934,6 @@
    "romanization": "uso no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "não verdadeiro",
     "ja": "本当ではない。「うその話」のように使い、「偽の」は本物に見せかけた物にも使う。"
    },
    "study_tier": "inicial",
@@ -112870,7 +112740,6 @@
    "study_tier": "inicial",
    "study_priority": 570,
    "nativeExplain": {
-    "pt-BR": "acenar vs onda (mar)",
     "ja": "あいさつやわかれのために、手を左右にふる。「手を振る」のように使い、遠くの人に合図をするときにも使う。"
    },
    "user_hint": "",
@@ -113185,7 +113054,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "de loja",
     "ja": "店で買い物をしたり、サービスを受けたりする人。「お客さん」と言い、お金を払って利用する人を指す。"
    },
    "study_tier": "inicial",
@@ -113601,7 +113469,6 @@
    "romanization": "chuu kurai no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "tamanho médio",
     "ja": "中くらいの。「Mサイズ」。伝える手段の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -116982,7 +116849,6 @@
    "romanization": "shoutaikyaku",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "pessoa convidada",
     "ja": "家や行事、番組などに招かれた人。「結婚式の招待客」のように使い、ホテルに泊まるお客にも使う。"
    },
    "study_tier": "inicial",
@@ -117911,7 +117777,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "conseguir, realizar",
     "ja": "成しとげる。「目標を達成する」。結果を出す意味にも使う。"
    },
    "study_tier": "cedo",
@@ -118270,7 +118135,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "bater papo; por mensagem",
     "ja": "相手と、気軽におしゃべりする。「友だちとチャットする」のように使い、ネットでの会話にも使う。"
    },
    "study_tier": "inicial",
@@ -120039,7 +119903,6 @@
    ],
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "ja": "よく。「しばしば訪れる」。短い間をおいて、の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -120742,7 +120605,6 @@
    "lexical_type": "construction",
    "class_real": "verb construction",
    "nativeExplain": {
-    "pt-BR": "achar provável",
     "ja": "たぶん本当だと思う。「そうだと思う」。仮に考える意味にも使う。"
    },
    "study_tier": "cedo",
@@ -121235,7 +121097,6 @@
    "romanization": "atama ga ii",
    "class_real": "na-adjective (adnominal form)",
    "nativeExplain": {
-    "pt-BR": "genial; muito inteligente",
     "ja": "とても賢い、すばらしい。「すごいアイデア」。とても明るい意味にも使う。"
    },
    "study_tier": "cedo",
@@ -122713,7 +122574,6 @@
    "romanization": "kitto",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "com certeza (ênfase)",
     "ja": "きっと。「きっと知っているはず」。疑いを表す疑問にも使う。"
    },
    "study_tier": "cedo",
@@ -124254,7 +124114,6 @@
    ],
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "forma curta, informal",
     "ja": "ペダルをこいで走る、二輪の乗り物。「自転車に乗る」のように使い、会話では「チャリ」とも言う。"
    },
    "study_tier": "inicial",
@@ -125259,7 +125118,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "reagir, responder",
     "ja": "答える、反応する。「手紙に返事をする」。治療に反応する意味にも使う。"
    },
    "study_tier": "cedo",
@@ -125501,7 +125359,6 @@
    "romanization": "kyuukyoku no",
    "class_real": "noun + の",
    "nativeExplain": {
-    "pt-BR": "definitivo, supremo",
     "ja": "最後の、最高の。「最終目標」。同種の中でいちばんの意味にも使う。"
    },
    "study_tier": "cedo",
@@ -127064,7 +126921,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "estatura de pessoas/coisas",
     "ja": "ふつうより、背たけや高さがある。「背が高い」のように使い、人や木、建物に使う。"
    },
    "study_tier": "inicial",
@@ -128311,7 +128167,6 @@
    "study_tier": "inicial",
    "study_priority": 635,
    "nativeExplain": {
-    "pt-BR": "gravata",
     "ja": "シャツに合わせて、首に結んでつける、細長い布。「ネクタイをしめる」のように使い、仕事で使うことが多い。"
    },
    "description": "シャツに合わせて、首に結んでつける、細長い布。「ネクタイをしめる」のように使い、仕事で使うことが多い。",
@@ -129008,7 +128863,6 @@
    "romanization": "kanari",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "razoavelmente; de modo justo",
     "ja": "かなり。「まずまずよい」。公平に、の意味にも使う。"
    },
    "study_tier": "cedo",
@@ -129771,7 +129625,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "responder (mensagem)",
     "ja": "答える。「メッセージに返信する」。返事そのものにも使う。"
    },
    "study_tier": "cedo",
@@ -132561,7 +132414,6 @@
    "romanization": "jitensha",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "ja": "ペダルをこぐ、二輪の乗り物。「自転車で通学する」のように使う。"
    },
    "study_tier": "inicial",
@@ -134918,7 +134770,6 @@
    "lexical_type": "construction",
    "class_real": "possessive construction",
    "nativeExplain": {
-    "pt-BR": "sozinho (é dela)",
     "ja": "その女の人が持っている物。「これは彼女のものだ」のように使い、名前や代名詞のあとに使う。"
    },
    "study_tier": "inicial",
@@ -134983,7 +134834,6 @@
    "romanization": "mainasu",
    "class_real": "noun (loanword)",
    "nativeExplain": {
-    "pt-BR": "subtração (−)",
     "ja": "引く。「十ひく三」。ゼロより下の意味にも使う：「マイナス五度」。"
    },
    "study_tier": "cedo",
@@ -135143,7 +134993,6 @@
    "romanization": "hikouki",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "ja": "つばさがあって、空を飛ぶ乗り物。「飛行機に乗る」のように使い、遠くへ行くときに使う。"
    },
    "study_tier": "inicial",

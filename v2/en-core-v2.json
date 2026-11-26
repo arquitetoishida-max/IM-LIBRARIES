@@ -44,7 +44,7 @@
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
-  "2.5.5: nativeExplain só no próprio idioma do pacote (removidas as dicas pt-BR dentro de en, ja e zh)."
+  "2.5.5: nativeExplain só no próprio idioma (removidas as dicas pt-BR dentro de en, ja e zh)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -200,7 +200,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "finalidade, benefício",
     "en": "Shows who gets something or why: \"a gift for you\". Also shows purpose (\"for sale\") and length of time: \"for two hours\"."
    },
    "study_tier": "expansão estruturante",
@@ -261,7 +260,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 5,
    "nativeExplain": {
-    "pt-BR": "pessoa com quem se fala",
     "en": "The person or people you are talking to: \"Can you help?\". Works for one person or a group."
    },
    "description": "The person or people you are talking to: \"Can you help?\". Works for one person or a group.",
@@ -527,7 +525,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "modo ou comparação",
     "en": "Used for comparison: \"as tall as me\". Also means in the role of (\"as a teacher\") or while: \"as I walked\"."
    },
    "study_tier": "expansão estruturante",
@@ -787,7 +784,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "origem, procedência",
     "en": "Shows where something starts: \"from Rome\". Also shows a start time (\"from nine\"), a material or a reason."
    },
    "study_tier": "expansão estruturante",
@@ -870,7 +866,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "en": "The speaker and other people together: \"We live here.\" Also used for a group the speaker belongs to."
    },
    "study_tier": "núcleo inicial",
@@ -1096,7 +1091,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 15,
    "nativeExplain": {
-    "pt-BR": "Número um: 一",
     "en": "The number 1. Also means a single, not-specific thing: \"one day\", \"one of them\"."
    },
    "description": "The number 1. Also means a single, not-specific thing: \"one day\", \"one of them\".",
@@ -1175,7 +1169,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "apenas",
     "en": "Only or simply: \"just water\". Also means a moment ago (\"I just ate\"), exactly, or fair: \"a just law\"."
    },
    "study_tier": "expansão estruturante",
@@ -1262,7 +1255,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "assunto",
     "en": "On the subject of: \"a book about cats\". Also means approximately: \"about ten people\"."
    },
    "study_tier": "expansão estruturante",
@@ -1483,7 +1475,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "ação, tarefa",
     "en": "To perform an action: \"do homework\". Also used for questions and negatives (\"Do you know?\", \"I do not know\") and to avoid repeating a verb."
    },
    "study_tier": "núcleo inicial",
@@ -1609,7 +1600,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "pergunta pela pessoa",
     "en": "Asks which person: \"Who is she?\". Also joins a clause to a person: \"the man who called\"."
    },
    "study_tier": "núcleo inicial",
@@ -2064,7 +2054,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "de que maneira",
     "en": "Asks by what method or in what way: \"How do you do it?\". Also asks about degree or condition: \"How are you?\", \"how much\"."
    },
    "study_tier": "núcleo inicial",
@@ -2175,7 +2164,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "In addition: \"I also went\". Also joins two ideas as a connector."
    },
    "study_tier": "expansão estruturante",
@@ -2261,7 +2249,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "diferente do citado",
     "en": "Different from the one already named: \"the other day\". Also means the remaining one: \"the other side\"."
    },
    "study_tier": "expansão estruturante",
@@ -2447,7 +2434,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "nada mais",
     "en": "And nothing else: \"only one\". Also means just now (\"only yesterday\") or best of its kind: \"the only choice\"."
    },
    "study_tier": "expansão estruturante",
@@ -2717,7 +2703,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 31,
    "nativeExplain": {
-    "pt-BR": "Número dois: 二",
     "en": "The number 2. Also means a pair: \"two of us\", \"two o'clock\"."
    },
    "description": "The number 2. Also means a pair: \"two of us\", \"two o'clock\".",
@@ -2741,7 +2726,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "criar, fabricar",
     "en": "To create or build something: \"make a cake\". Also means to cause (\"make laugh\"), to earn (\"make money\") or to equal."
    },
    "study_tier": "expansão estruturante",
@@ -2803,7 +2787,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "posição acima",
     "en": "In a position above: \"a bridge over a river\". Also means across (\"jump over\"), finished (\"it is over\") or more than: \"over ten\"."
    },
    "study_tier": "expansão estruturante",
@@ -3216,7 +3199,6 @@
    "part_of_speech": "adv",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "de modo bom",
     "en": "In a good way: \"sing well\". Also means in good health (\"I am well\") or as an opener: \"well, let's go\"."
    },
    "study_tier": "expansão estruturante",
@@ -3371,7 +3353,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "intensidade antes de adjetivo",
     "en": "To a great degree: \"very big\". Also strengthens an idea: \"the very best\"."
    },
    "study_tier": "inicial",
@@ -3457,7 +3438,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "aux",
    "nativeExplain": {
-    "pt-BR": "conselho",
     "en": "Gives advice: \"you should rest\". Also shows what is expected: \"he should be here\"."
    },
    "study_tier": "cedo",
@@ -3669,7 +3649,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "correto",
     "en": "Correct or true: \"the right answer\". Also means proper or fair: \"the right thing to do\", and the opposite of left."
    },
    "study_tier": "inicial",
@@ -3702,7 +3681,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A job, or things you do to earn money: \"go to work\". Also means effort or a product: \"hard work\", \"a work of art\"."
    },
    "study_tier": "inicial",
@@ -3819,7 +3797,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "inclusão",
     "en": "Also: \"me too\". Also means more than needed: \"too big\"."
    },
    "study_tier": "cedo",
@@ -4027,7 +4004,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "pegar e levar",
     "en": "To pick up and carry, or to grab: \"take a book\". Also means to need time (\"it takes an hour\"), to use transport or to accept."
    },
    "study_tier": "inicial",
@@ -4540,7 +4516,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "durante",
     "en": "During the time that: \"while I eat\". Also shows contrast: \"he is tall, while she is short\"."
    },
    "study_tier": "cedo",
@@ -4692,7 +4667,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o lar",
     "en": "The place where you live: \"go home\". Also means family life or the place something comes from."
    },
    "study_tier": "inicial",
@@ -5077,7 +5051,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "todos, sem exceção",
     "en": "Each one of a group: \"every student\". Also means at regular intervals: \"every day\"."
    },
    "study_tier": "cedo",
@@ -5316,7 +5289,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "dois",
     "en": "In the space separating two: \"between the house and school\". Also means among choices: \"choose between\"."
    },
    "study_tier": "cedo",
@@ -5520,7 +5492,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "distância do chão, posição",
     "en": "Far above the ground: \"a high wall\". Also means great in degree: \"high prices\"."
    },
    "study_tier": "cedo",
@@ -5640,7 +5611,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "mais um",
     "en": "One more of the same kind: \"another cup\". Also means a different one: \"try another way\"."
    },
    "study_tier": "cedo",
@@ -5743,7 +5713,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Below something: \"under the table\". Also means less than (\"under ten\") or governed by: \"under the law\"."
    },
    "study_tier": "cedo",
@@ -5958,7 +5927,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o edifício",
     "en": "A building where a family lives: \"a big house\". Also means the people in it or a business: \"house of fashion\"."
    },
    "study_tier": "inicial",
@@ -6108,7 +6076,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "um por um, separadamente",
     "en": "Every single one, considered separately: \"each student\". Also means per person or item: \"two dollars each\"."
    },
    "study_tier": "cedo",
@@ -6417,7 +6384,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho (mais comum)",
     "en": "Large in size: \"a big house\". Also means important (\"a big day\"), older (\"big brother\") or popular."
    },
    "study_tier": "inicial",
@@ -9683,7 +9649,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "dizer obrigado",
     "en": "To say you are grateful: \"thank you\". Also means to acknowledge someone's help: \"I thank everyone\"."
    },
    "study_tier": "inicial",
@@ -10129,7 +10094,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "Perhaps: \"maybe it will rain\". Also softens a suggestion: \"maybe we should go\"."
    },
    "study_tier": "inicial",
@@ -10200,7 +10164,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "narrativa",
     "en": "An account of events, real or invented: \"tell a story\". Also means a news report or a floor of a building."
    },
    "study_tier": "cedo",
@@ -10335,7 +10298,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Having great value or meaning: \"an important day\". Also describes a person with power or influence."
    },
    "study_tier": "inicial",
@@ -10899,7 +10861,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "falar com alguém",
     "en": "To speak with someone: \"talk to a friend\". Also means to discuss a topic or give a speech: \"talk about work\"."
    },
    "study_tier": "inicial",
@@ -11570,7 +11531,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Something difficult to solve: \"a math problem\". Also means a difficulty, fault or worry: \"no problem\"."
    },
    "study_tier": "inicial",
@@ -11744,7 +11704,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o passado, disciplina",
     "en": "Events of the past: \"world history\". Also means a school subject or a person's past: \"medical history\"."
    },
    "study_tier": "cedo",
@@ -11796,7 +11755,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho (um pouco formal)",
     "en": "Big in size: \"a large room\". Also means big in amount or scope, in a more formal tone."
    },
    "study_tier": "inicial",
@@ -11881,7 +11839,6 @@
    "study_tier": "inicial",
    "study_priority": 104,
    "nativeExplain": {
-    "pt-BR": "cômodo/quarto",
     "en": "A part of a house with walls: \"a bedroom\". Also means free space: \"there is no room\"."
    },
    "description": "A part of a house with walls: \"a bedroom\". Also means free space: \"there is no room\".",
@@ -12096,7 +12053,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "outro, diferente",
     "en": "Other or different: \"someone else\". Also means otherwise: \"or else\"."
    },
    "study_tier": "inicial",
@@ -12305,7 +12261,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A person you like and know well: \"my best friend\". Also means a supporter or an ally."
    },
    "study_tier": "fala cotidiana inicial",
@@ -12982,7 +12937,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "aguardar",
     "en": "To stay until something happens: \"wait for the bus\". Also means to expect, or to serve at tables: \"wait tables\"."
    },
    "study_tier": "fala cotidiana inicial",
@@ -13810,7 +13764,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "To get something by paying: \"buy bread\". Also means to believe an idea: \"I don't buy it.\""
    },
    "study_tier": "fala cotidiana inicial",
@@ -14464,7 +14417,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A young person who is not yet an adult: \"a child of six\". Also means a son or daughter of any age."
    },
    "study_tier": "fala cotidiana inicial",
@@ -15149,7 +15101,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "preparado",
     "en": "Prepared: \"dinner is ready\". Also means willing to act: \"I am ready to help\"."
    },
    "study_tier": "inicial",
@@ -15779,7 +15730,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a canção",
     "en": "Music with words that you sing: \"a love song\". Also means a bird's call or a piece of music."
    },
    "study_tier": "inicial",
@@ -16592,7 +16542,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "estar bem",
     "en": "OK or well: \"I'm fine.\" Also means of good quality (\"a fine day\") or a payment for breaking a rule."
    },
    "study_tier": "inicial",
@@ -16697,7 +16646,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "tema em discussão",
     "en": "A problem or topic people discuss: \"a political issue\". Also means one copy of a magazine or the act of giving out."
    },
    "study_tier": "cedo",
@@ -16775,7 +16723,6 @@
    "study_tier": "cedo",
    "study_priority": 1060,
    "nativeExplain": {
-    "pt-BR": "espaço (lugar vazio)",
     "en": "An empty area: \"space in the room\". Also means outer space or a gap between words."
    },
    "user_hint": "",
@@ -16830,7 +16777,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "período letivo; termo",
     "en": "A part of the school year: \"the spring term\". Also means a word or phrase (\"a technical term\") or conditions of a deal."
    },
    "study_tier": "cedo",
@@ -18801,7 +18747,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "objeto dado a outra pessoa",
     "en": "A gift: \"a birthday present\". Also means the time now: \"at present\"."
    },
    "study_tier": "fala cotidiana inicial",
@@ -18999,7 +18944,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "resposta a pergunta",
     "en": "A reply to a question: \"the right answer\". Also means a solution or a response to a call or request."
    },
    "study_tier": "fala cotidiana inicial",
@@ -19588,7 +19532,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito quente",
     "en": "Very warm: \"hot coffee\". Also means spicy (\"hot sauce\") or very popular: \"a hot topic\"."
    },
    "study_tier": "fala cotidiana inicial",
@@ -21037,7 +20980,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "velocidade",
     "en": "Quick: \"a fast car\". Also means firmly fixed: \"hold fast\", and quickly: \"run fast\"."
    },
    "study_tier": "inicial",
@@ -22366,7 +22308,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "surpreendente e bom",
     "en": "Very surprising and good: \"an amazing view\". Also describes a great person or result."
    },
    "study_tier": "inicial",
@@ -23210,7 +23151,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Maybe or possibly: \"perhaps he will come\". Also softens a question or offer politely."
    },
    "study_tier": "fala cotidiana inicial",
@@ -24499,7 +24439,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Not easy: \"a difficult test\". Also describes a hard person or a delicate situation."
    },
    "study_tier": "fala cotidiana inicial",
@@ -24897,7 +24836,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o planeta; solo",
     "en": "The planet we live on: \"the Earth moves\". Also means soil or ground: \"dig the earth\"."
    },
    "study_tier": "fala cotidiana inicial",
@@ -25004,7 +24942,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Very big: \"a huge house\". Also means very large in amount or importance."
    },
    "study_tier": "fala cotidiana inicial",
@@ -25744,7 +25681,6 @@
    "study_tier": "inicial",
    "study_priority": 298,
    "nativeExplain": {
-    "pt-BR": "mesa",
     "en": "Furniture with a flat top and legs: \"a dining table\". Also means a list of data arranged in rows and columns."
    },
    "description": "Furniture with a flat top and legs: \"a dining table\". Also means a list of data arranged in rows and columns.",
@@ -26760,7 +26696,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "normal, usual",
     "en": "Normal or usual: \"a standard size\". Also means a level of quality or a rule: \"high standards\"."
    },
    "study_tier": "cedo",
@@ -26979,7 +26914,6 @@
    "study_tier": "inicial",
    "study_priority": 314,
    "nativeExplain": {
-    "pt-BR": "frio",
     "en": "Having a low temperature: \"cold water\". Also means unfriendly (\"a cold look\") or an illness: \"catch a cold\"."
    },
    "description": "Having a low temperature: \"cold water\". Also means unfriendly (\"a cold look\") or an illness: \"catch a cold\".",
@@ -27652,7 +27586,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "repetidamente; vencer alguém",
     "en": "To hit many times: \"beat a drum\". Also means to defeat (\"beat a rival\") or to mix eggs."
    },
    "study_tier": "cedo",
@@ -28129,7 +28062,6 @@
    "study_tier": "inicial",
    "study_priority": 327,
    "nativeExplain": {
-    "pt-BR": "estação (trem) vs estação (rádio/TV)",
     "en": "A place where trains or buses stop: \"a train station\". Also means a radio or TV channel, or a base for work."
    },
    "description": "A place where trains or buses stop: \"a train station\". Also means a radio or TV channel, or a base for work.",
@@ -28304,7 +28236,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "sem dúvida",
     "en": "Surely: \"I will certainly come\". Also used to agree politely: \"Certainly!\"."
    },
    "study_tier": "cedo",
@@ -28819,7 +28750,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "recado",
     "en": "Information sent to someone, in writing or by voice: \"leave a message\". Also means the main idea of a text or film."
    },
    "study_tier": "inicial",
@@ -28879,7 +28809,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "por pouco",
     "en": "Almost: \"nearly ready\". Also means close in number: \"nearly ten\"."
    },
    "study_tier": "cedo",
@@ -28929,7 +28858,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "o que veio antes",
     "en": "Coming before: \"the previous page\". Also describes earlier experience."
    },
    "study_tier": "cedo",
@@ -29364,7 +29292,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "A child, informal: \"the kids are asleep\". Also means to joke: \"I'm just kidding\"."
    },
    "study_tier": "inicial",
@@ -29611,7 +29538,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "mais longe que",
     "en": "Farther than: \"beyond the hill\". Also means outside reach: \"beyond help\"."
    },
    "study_tier": "cedo",
@@ -29789,7 +29715,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "que leva pouco tempo",
     "en": "Taking little time: \"a quick answer\". Also describes fast movement or a smart person."
    },
    "study_tier": "inicial",
@@ -30565,7 +30490,6 @@
    "study_tier": "cedo",
    "study_priority": 1195,
    "nativeExplain": {
-    "pt-BR": "treinador",
     "en": "A person who trains a team: \"a football coach\". Also means a long-distance bus or a private teacher."
    },
    "user_hint": "",
@@ -30615,7 +30539,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "sem dúvida",
     "en": "Without doubt: \"I will definitely come\". Also used as a strong yes: \"Definitely!\"."
    },
    "study_tier": "cedo",
@@ -31036,7 +30959,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Father, informal: \"Dad, come here!\". Used by children and adults."
    },
    "study_tier": "inicial",
@@ -31146,7 +31068,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "em geral",
     "en": "Usually: \"generally speaking\". Also means by most people: \"generally accepted\"."
    },
    "study_tier": "cedo",
@@ -31505,7 +31426,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "soma (+)",
     "en": "And, added to: \"two plus three\". Also means an extra advantage: \"a plus\"."
    },
    "study_tier": "cedo",
@@ -32852,7 +32772,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Really great, informal: \"an awesome party\". Also used to answer with approval: \"Awesome!\""
    },
    "study_tier": "inicial",
@@ -33284,7 +33203,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "múltiplos",
     "en": "Many: \"multiple choices\". Also describes several parts or kinds."
    },
    "study_tier": "cedo",
@@ -33743,7 +33661,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "decidir entre opções",
     "en": "To decide which one you want: \"choose a dish\". Also means to pick a person for a role."
    },
    "study_tier": "inicial",
@@ -34827,7 +34744,6 @@
    "study_tier": "cedo",
    "study_priority": 1269,
    "nativeExplain": {
-    "pt-BR": "crescer (intransitivo) vs cultivar (plantas)",
     "en": "To become bigger or older: \"children grow\". Also means to plant (\"grow tomatoes\") or to become: \"grow tired\"."
    },
    "user_hint": "",
@@ -34991,7 +34907,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "no total",
     "en": "Total or general: \"the overall result\". Also means a work garment: \"overalls\"."
    },
    "study_tier": "cedo",
@@ -35131,7 +35046,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "ida e volta",
     "en": "A journey to a place and back: \"a business trip\". Also means a short outing: \"a trip to the store\"."
    },
    "study_tier": "inicial",
@@ -35377,7 +35291,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "completamente (formal)",
     "en": "Completely: \"fully aware\". Also means at the maximum: \"fully booked\"."
    },
    "study_tier": "cedo",
@@ -35917,7 +35830,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "com o tempo",
     "en": "In the end, after some time: \"he eventually left\". Also means after trouble: \"we eventually found it\"."
    },
    "study_tier": "cedo",
@@ -36024,7 +35936,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "A large number or amount, informal: \"lots of friends\". Also used as a short answer: \"lots\"."
    },
    "study_tier": "inicial",
@@ -36199,7 +36110,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Ill or not well: \"I am sick\". Also means tired of something (\"sick of it\") or strange: \"a sick joke\"."
    },
    "study_tier": "inicial",
@@ -36294,7 +36204,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "afastar-se de",
     "en": "To keep away from something: \"avoid traffic\". Also means to escape or not do: \"avoid talking\"."
    },
    "study_tier": "cedo",
@@ -36386,7 +36295,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "agarrar algo em movimento",
     "en": "To take hold of something moving: \"catch a ball\". Also means to get a bus, an illness or a person: \"catch a cold\"."
    },
    "study_tier": "cedo",
@@ -36446,7 +36354,6 @@
    "study_tier": "cedo",
    "study_priority": 1302,
    "nativeExplain": {
-    "pt-BR": "célula (biologia) vs celular/cela",
     "en": "The smallest living part of a body: \"blood cells\". Also means a small room (\"a prison cell\") or a phone: \"cell phone\"."
    },
    "user_hint": "",
@@ -37144,7 +37051,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "início da noite",
     "en": "The end of the day, before night: \"in the evening\". Also means a social event held at that time."
    },
    "study_tier": "inicial",
@@ -37533,7 +37439,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "real, efetivo",
     "en": "Real: \"the actual price\". Also stresses what is true, not expected: \"the actual reason\"."
    },
    "study_tier": "cedo",
@@ -38562,7 +38467,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "um pouco mais formal",
     "en": "To start: \"begin the lesson\". Also means to come into being or to start working."
    },
    "study_tier": "inicial",
@@ -38694,7 +38598,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "All people in a group: \"everybody likes music\". Also used to greet a group: \"hello, everybody\"."
    },
    "study_tier": "inicial",
@@ -39322,7 +39225,6 @@
    "study_tier": "cedo",
    "study_priority": 1349,
    "nativeExplain": {
-    "pt-BR": "crítico (decisivo) vs crítico (que critica)",
     "en": "Very important or decisive: \"a critical moment\". Also means finding faults: \"critical of\"."
    },
    "user_hint": "",
@@ -39530,7 +39432,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "na maior parte",
     "en": "Mainly: \"mostly sunny\". Also means in most cases."
    },
    "study_tier": "cedo",
@@ -39778,7 +39679,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "não junto",
     "en": "Not together: \"separate rooms\". As a verb, to divide or to part: \"separate the eggs\"."
    },
    "study_tier": "cedo",
@@ -39934,7 +39834,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a cerimônia",
     "en": "A marriage ceremony: \"a wedding dress\". Also means the party that follows it."
    },
    "study_tier": "inicial",
@@ -41064,7 +40963,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "obter mais",
     "en": "To get more of something: \"gain weight\". Also means to win or to obtain: \"gain experience\"."
    },
    "study_tier": "cedo",
@@ -41844,7 +41742,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "mais informal",
     "en": "A person who is not named: \"somebody called\". Also means an important person: \"he thinks he is somebody\"."
    },
    "study_tier": "inicial",
@@ -42479,7 +42376,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "impedir",
     "en": "To stop something from happening: \"prevent accidents\". Also means to keep someone from doing something."
    },
    "study_tier": "cedo",
@@ -42684,7 +42580,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "distante um do outro",
     "en": "Separated by distance: \"two miles apart\". Also means in pieces (\"fall apart\") or aside: \"joking apart\"."
    },
    "study_tier": "cedo",
@@ -42925,7 +42820,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "presente dado",
     "en": "A present: \"a birthday gift\". Also means a natural talent: \"a gift for music\"."
    },
    "study_tier": "inicial",
@@ -43202,7 +43096,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "firme, de vez",
     "en": "To close: \"shut the door\". Also means to stop a business or to be quiet: \"shut up\", which is rude."
    },
    "study_tier": "inicial",
@@ -43754,7 +43647,6 @@
    "study_tier": "cedo",
    "study_priority": 1438,
    "nativeExplain": {
-    "pt-BR": "paciente (adj.) vs paciente (doente)",
     "en": "Able to wait calmly: \"be patient\". Also means a person receiving medical care."
    },
    "description": "Able to wait calmly: \"be patient\". Also means a person receiving medical care.",
@@ -44111,7 +44003,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "no trabalho",
     "en": "The person in charge of you at work: \"my boss\". Also means someone who gives orders, or a strong enemy in a game."
    },
    "study_tier": "inicial",
@@ -44760,7 +44651,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "preocupação séria",
     "en": "Worried: \"concerned about health\". Also means involved: \"the people concerned\"."
    },
    "study_tier": "cedo",
@@ -45542,7 +45432,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "sem igual",
     "en": "The only one of its kind: \"a unique gift\". Also means very special or unusual."
    },
    "study_tier": "cedo",
@@ -45627,7 +45516,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "valorizar, ser grato por",
     "en": "To be thankful for: \"appreciate your help\". Also means to understand the value, or to rise in value."
    },
    "study_tier": "cedo",
@@ -46415,7 +46303,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito bom",
     "en": "Very good: \"an excellent meal\". Also used as an approving reply: \"Excellent!\"."
    },
    "study_tier": "cedo",
@@ -47382,7 +47269,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Sick: \"ill with the flu\". Also means bad: \"ill luck\", or badly: \"speak ill of\"."
    },
    "study_tier": "cedo",
@@ -47574,7 +47460,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "maciço, gigante",
     "en": "Very big: \"a massive tree\". Also means very large in amount or effect."
    },
    "study_tier": "cedo",
@@ -47680,7 +47565,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "mais que suficiente",
     "en": "A lot, more than enough: \"plenty of time\". Also used as an answer: \"plenty\"."
    },
    "study_tier": "cedo",
@@ -48726,7 +48610,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "formal",
     "en": "To buy, in formal use: \"purchase a ticket\". Also names the thing bought."
    },
    "study_tier": "cedo",
@@ -50412,7 +50295,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito velho, de séculos",
     "en": "Very old: \"ancient Rome\". Also describes things from long ago."
    },
    "study_tier": "cedo",
@@ -51682,7 +51564,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Something done wrong: \"a spelling mistake\". Also means a wrong idea or choice: \"a big mistake\"."
    },
    "study_tier": "inicial",
@@ -51834,7 +51715,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "formal: a respeito de",
     "en": "About, in formal use: \"regarding your letter\". Also used to introduce a topic."
    },
    "study_tier": "cedo",
@@ -52200,7 +52080,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "com raiva (geral)",
     "en": "Feeling strong displeasure: \"angry at someone\". Also describes a sore wound or a stormy sea."
    },
    "study_tier": "inicial",
@@ -52475,7 +52354,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "técnico",
     "en": "Inside: \"an internal door\". Also means within an organization: \"internal rules\"."
    },
    "study_tier": "cedo",
@@ -52963,7 +52841,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "golpe; greve",
     "en": "To hit: \"strike a ball\". Also means to stop work (\"workers strike\") or to come to mind: \"it struck me\"."
    },
    "study_tier": "cedo",
@@ -53377,7 +53254,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "falsificado",
     "en": "Not real: \"a fake ID\". Also means false news or an imitation."
    },
    "study_tier": "cedo",
@@ -53518,7 +53394,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "conservar em bom estado",
     "en": "To keep in good condition: \"maintain a car\". Also means to continue: \"maintain a speed\"."
    },
    "study_tier": "cedo",
@@ -55470,7 +55345,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "não verdadeiro",
     "en": "Not true: \"a false answer\". Also means fake or not real: \"false teeth\"."
    },
    "study_tier": "inicial",
@@ -55548,7 +55422,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "difícil de acreditar",
     "en": "Amazing: \"an incredible view\". Also means hard to believe: \"an incredible story\"."
    },
    "study_tier": "inicial",
@@ -56859,7 +56732,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "cheio de luz",
     "en": "Full of light: \"a bright room\". Also means intense in color or clever: \"a bright idea\"."
    },
    "study_tier": "inicial",
@@ -56985,7 +56857,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de loja",
     "en": "A person who buys in a shop: \"a regular customer\". Also means anyone who pays for a service."
    },
    "study_tier": "inicial",
@@ -57295,7 +57166,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho médio",
     "en": "In the middle: \"medium size\". Also means a way of sharing information: \"a medium\"."
    },
    "study_tier": "cedo",
@@ -60208,7 +60078,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "conseguir, realizar",
     "en": "To succeed in doing something: \"achieve a goal\". Also means to reach a result."
    },
    "study_tier": "cedo",
@@ -61899,7 +61768,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Often: \"visit frequently\". Also means at short intervals."
    },
    "study_tier": "cedo",
@@ -62373,7 +62241,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "achar provável",
     "en": "To think something is probably true: \"I suppose so\". Also means to assume: \"suppose he comes\"."
    },
    "study_tier": "cedo",
@@ -62686,7 +62553,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "genial; muito inteligente",
     "en": "Very clever or very good: \"a brilliant idea\". Also means very bright: \"brilliant light\"."
    },
    "study_tier": "cedo",
@@ -63793,7 +63659,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "com certeza (ênfase)",
     "en": "Certainly: \"surely you know\". Also expresses doubt in questions: \"surely not?\"."
    },
    "study_tier": "cedo",
@@ -64881,7 +64746,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma curta, informal",
     "en": "A bicycle, informal: \"ride a bike\". Also short for a motorcycle."
    },
    "study_tier": "inicial",
@@ -65553,7 +65417,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "reagir, responder",
     "en": "To answer or react: \"respond to a letter\". Also means to react to treatment."
    },
    "study_tier": "cedo",
@@ -65774,7 +65637,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "definitivo, supremo",
     "en": "Final, or the best: \"the ultimate goal\". Also means the greatest of its kind."
    },
    "study_tier": "cedo",
@@ -66805,7 +66667,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "estatura de pessoas/coisas",
     "en": "Of more than normal height: \"a tall building\". Also means a claim that is hard to believe: \"a tall tale\"."
    },
    "study_tier": "inicial",
@@ -68137,7 +67998,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "razoavelmente; de modo justo",
     "en": "Quite: \"fairly good\". Also means in a fair way: \"play fairly\"."
    },
    "study_tier": "cedo",
@@ -68637,7 +68497,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "responder (mensagem)",
     "en": "To answer: \"reply to a message\". Also names the answer itself."
    },
    "study_tier": "cedo",
@@ -71034,7 +70893,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "en": "A two-wheeled vehicle with pedals: \"ride a bicycle\". Also used as a sport or exercise machine."
    },
    "study_tier": "inicial",
@@ -72934,7 +72792,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sozinho (é dela)",
     "en": "Belonging to her: \"the book is hers\". Also used without a noun: \"his car and hers\"."
    },
    "study_tier": "inicial",
@@ -72988,7 +72845,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "subtração (−)",
     "en": "Less: \"ten minus three\". Also means a bad point (\"a minus\") or below zero: \"minus five degrees\"."
    },
    "study_tier": "cedo",
@@ -73121,7 +72977,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "en": "A vehicle with wings that flies: \"travel by airplane\". Also called a plane or aircraft."
    },
    "study_tier": "inicial",
