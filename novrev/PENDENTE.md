@@ -1,9 +1,11 @@
-# Pendente (25/11/2026)
-- PR #507 (nota do catálogo 2.5.4 + previous 2.5.3) e PR #511 (ただ, すぐに/もうすぐ, いくつか): mergeados em 24/11. Relatos #509 e #510 fechados em 25/11.
-- Relatos do Multilang que seguem abertos (85, fora do núcleo): ver `novrev/suspensos/suspensos.json`. Nenhum relato novo desde #510 (24/11).
-- Reservados e pendentes (72): regionais, britânicos, gírias e conceitos sem equivalente nos quatro idiomas. Revisar antes de voltar ao estudo.
+# Pendente (26/11/2026)
+- PR #507 e PR #511 mergeados em 24/11. Relatos #509 e #510 fechados em 25/11.
+- **#519 Dicionários (núcleos 2.5.4):** `description` e `nativeExplain[idioma]` idênticos em quase todas as entradas (card repete a frase); `nativeExplain["pt-BR"]` dentro de en (471), ja (474) e zh (101) = português em dicionário de outro idioma, proibido pelo dono. `nativeExplain` é a descrição nativa (2.4.2): não apagar. Decidir qual dos dois campos fica, limpar os 4 núcleos, atualizar catálogo/hash, subir 2.5.5 e guardar 2.5.4 em `v2/previous`. Nada foi gravado ainda (arquivos de ~12 MB não passam pelas ferramentas da sessão; script testado fora do repositório).
+- **#520 App (ISHIDA-MULTILANG):** card repete a descrição; "descrição indisponível no idioma alvo" em quase todas as palavras, embora ja/zh tenham descrição em 3.865/3.865. Hipótese: busca de `nativeExplain[ja]` na entrada pt-BR em vez da entrada ja pelo mesmo ID. Repositório do app não esteve acessível. Sem APK até pedido.
+- **#512 Auditoria de sentidos:** liberada (#507/#511 mergeados), mas sem começar. A planilha Kanji Study (Meanings Portuguese) deve dominar as traduções, porém cobre só kanji isolados (JLPT 2.231, Non-JLPT 4.657, radicais 241, kana 143, termos 366). Falta fonte em nível de palavra e definir onde guardar a planilha (ex.: `curation/kanji-study/` em CSV).
+- Relatos do Multilang abertos (85, fora do núcleo): ver `novrev/suspensos/suspensos.json`. Nenhum relato novo desde #510.
+- Reservados e pendentes (72): regionais, britânicos, gírias e conceitos sem equivalente nos quatro idiomas.
 - Pares de IDs duplicados para decidir consolidação: Mass, makeup, savings, paint, medicine, football, commercial, hour, fusion.
 - Instruções antigas do `NOVREV.md` que conflitam com o #88: atualizar.
-- Branches `codex/*` (GPT): último commit em 20/11 (`codex/native-description-context`); nenhum commit novo até 25/11; nada em andamento no GitHub.
-- IM-LIBRARIES #512: auditoria de sentidos que faltam e segunda passada de descrições e alternativas por idioma. Liberada: #507 e #511 já foram mergeados.
+- Branches `codex/*` (GPT): último commit em 20/11 (`codex/native-description-context`); nenhum arquivo novo subiu depois.
 - ISHIDA-MULTILANG: card com "+ significados" (código do app, sem APK até pedido); issue aberta com o fluxo.
