@@ -8252,7 +8252,10 @@
    "description": "A paid position or regular work someone does for a living. In other contexts, a piece of work that needs doing.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "work"
+   ]
   },
   {
    "id": "en:000000287",
@@ -8995,7 +8998,10 @@
    "user_hint": "",
    "description": "Rules made by a government.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "right"
+   ]
   },
   {
    "id": "en:000000319",
@@ -10204,6 +10210,9 @@
      "text": "becoming",
      "study_tier": "standard"
     }
+   ],
+   "alternatives": [
+    "get"
    ]
   },
   {
@@ -14054,7 +14063,10 @@
    "description": "A kind or sort.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "kind"
+   ]
   },
   {
    "id": "en:000000527",
@@ -17938,7 +17950,10 @@
    "user_hint": "",
    "description": "A part someone plays.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "part"
+   ]
   },
   {
    "id": "en:000000698",
@@ -56384,7 +56399,10 @@
    "user_hint": "",
    "description": "A look on someone's face.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "face"
+   ]
   },
   {
    "id": "en:000002694",
@@ -56401,7 +56419,10 @@
    "user_hint": "",
    "description": "A building where things are made.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "plant"
+   ]
   },
   {
    "id": "en:000002695",
@@ -64738,7 +64759,10 @@
    "description": "The season after summer (also called fall).",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "fall"
+   ]
   },
   {
    "id": "en:000003183",
@@ -83961,7 +83985,8 @@
    "description_en": "A mobile phone.",
    "text": "cell phone",
    "alternatives": [
-    "smartphone"
+    "smartphone",
+    "cell"
    ],
    "source_status": "base4-reviewed",
    "translation_confidence": "editorial-reviewed",
@@ -93921,6 +93946,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
+   ],
+   "alternatives": [
+    "class"
    ]
   },
   {
@@ -96231,6 +96259,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
+   ],
+   "alternatives": [
+    "point"
    ]
   },
   {
@@ -96399,6 +96430,69 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "leisure"
+   ]
+  },
+  {
+   "id": "en:000004646",
+   "english_id": "en:000004646",
+   "kind": "word",
+   "description_en": "To go onto a bus, train or plane.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "get on",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4092,
+   "user_hint": "",
+   "description": "To go onto a bus, train or plane.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1198,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004647",
+   "english_id": "en:000004647",
+   "kind": "word",
+   "description_en": "To lie down in bed to sleep.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "go to bed",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4093,
+   "user_hint": "",
+   "description": "To lie down in bed to sleep.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1199,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "routine"
+   ]
+  },
+  {
+   "id": "en:000004648",
+   "english_id": "en:000004648",
+   "kind": "word",
+   "description_en": "To return to your own home.",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "go home",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4094,
+   "user_hint": "",
+   "description": "To return to your own home.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1200,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "routine"
    ]
   }
  ]
