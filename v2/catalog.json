@@ -13,7 +13,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3865,
+      "entry_count": 3963,
       "has_ui": false,
       "flag": "🇺🇸",
       "locale": "en-US",
@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "d5555df8fe3e1b68e034463cdf179609a5b6925e33c20ce22d00aa4e790dd631",
-      "version": "2.5.5",
-      "size_bytes": 2715409
+      "sha256": "8f6c0f884264550af266cf88953b1d09b9fc8577073089854bd8e9b0eb2806e9",
+      "version": "2.5.4",
+      "size_bytes": 2936146
     },
     {
       "id": "pt-BR-core-v2",
@@ -35,7 +35,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3865,
+      "entry_count": 3963,
       "has_ui": false,
       "flag": "🇧🇷",
       "locale": "pt-BR",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "ff9136f5cf547257d4ad69d2d73174c4c730ac7f5893af15a4d8fd2836985468",
-      "version": "2.5.5",
-      "size_bytes": 2653297
+      "sha256": "2867589442a43085457fca6e9293965a922a22dd63c14d94540b05e5b4f94a13",
+      "version": "2.5.4",
+      "size_bytes": 2822654
     },
     {
       "id": "pt-PT-core-v2",
@@ -80,7 +80,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3865,
+      "entry_count": 3963,
       "has_ui": false,
       "flag": "🇯🇵",
       "locale": "ja-JP",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "d57e2277ae2096b5a510f318a1aafad4c14174bcb8ae0c1ac07ee5e176444363",
-      "version": "2.5.5",
-      "size_bytes": 4853885
+      "sha256": "8daab6c819b213069e35c99c4a61227c0c4596742c73b76f8f96d2c2310b5f92",
+      "version": "2.5.4",
+      "size_bytes": 5107039
     },
     {
       "id": "es-core-v2",
@@ -194,7 +194,7 @@
       "kind": "ishida-monolingual",
       "schema_version": 2,
       "available": true,
-      "entry_count": 3865,
+      "entry_count": 3963,
       "has_ui": false,
       "flag": "🇨🇳",
       "locale": "zh-CN",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "f61a6470453d3eac4d6cda53dfa9a2658f42ae74ddd8ff048d8ee0275cfca619",
-      "version": "2.5.5",
-      "size_bytes": 3067190
+      "sha256": "f9942a1446a8fe1544f45400d95b48583084d8f794aabedf3e9e50f7ce26ee4d",
+      "version": "2.5.4",
+      "size_bytes": 3250332
     },
     {
       "id": "ko-core-v2",
@@ -972,12 +972,12 @@
       "kind": "ishida-writing",
       "schema_version": 1,
       "available": true,
-      "entry_count": 1487,
+      "entry_count": 1566,
       "version": "1.1.0",
       "license": "CC BY-SA 3.0 (KanjiVG, Ulrich Apel)",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/ja-writing-kanjivg.json",
-      "sha256": "2130b933d642eb25b9437f2ba8d632c0a754170216efbace37472f52755054f1",
-      "size_bytes": 607352
+      "sha256": "c834890ae00d2a1eec913a5985d6f454ee682281a1a7806714c61724cd6b0eb2",
+      "size_bytes": 643705
     },
     {
       "id": "zh-writing-hanziwriter",
@@ -988,12 +988,12 @@
       "kind": "ishida-writing",
       "schema_version": 1,
       "available": true,
-      "entry_count": 1884,
+      "entry_count": 1999,
       "version": "1.1.0",
       "license": "Arphic Public License / LGPL (Make Me a Hanzi via hanzi-writer-data)",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/zh-writing-hanziwriter.json",
-      "sha256": "3d0981e7ae287729a9fcfff030d4e89b588aa21103d259b1c86bbf50d8368a7a",
-      "size_bytes": 848773
+      "sha256": "b827bf56b12f5c5ca76d36891e5755dbd2acec135da409462e7ccd644f94e78e",
+      "size_bytes": 907079
     }
   ],
   "notes": [
@@ -1032,6 +1032,6 @@
     "1.5.1: core 2.5.1.",
     "1.5.2: core 2.5.2.",
     "1.5.3: core 2.5.3.",
-    "1.5.4: en/pt-BR/ja/zh core 2.5.4 — revisão NOVREV integrada (3.864 conceitos, 114 novos a partir dos relatos); previous 2.5.3 files in v2/previous/ for rollback."
+    "1.5.4: candidato NOVREV dos quatro núcleos 2.5.4."
   ]
 }
