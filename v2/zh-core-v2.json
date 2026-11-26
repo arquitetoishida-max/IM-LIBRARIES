@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.5.4",
+ "version": "2.5.5",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -43,7 +43,8 @@
   "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
-  "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma."
+  "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
+  "2.5.5: nativeExplain só no próprio idioma do pacote (removidas as dicas pt-BR dentro de en, ja e zh)."
  ],
  "entries": [
   {
@@ -119,7 +120,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 2,
    "nativeExplain": {
-    "pt-BR": "adição ou coordenação",
     "zh": "连接并列的名词或名词短语，也可表示和某人在一起。"
    },
    "description": "连接并列的名词或名词短语，也可表示和某人在一起。",
@@ -350,7 +350,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 5,
    "nativeExplain": {
-    "pt-BR": "pessoa com quem se fala",
     "zh": "指说话的对象，通常是一个人。表示尊敬可用“您”，复数用“你们”。"
    },
    "description": "指说话的对象，通常是一个人。表示尊敬可用“您”，复数用“你们”。",
@@ -529,7 +528,6 @@
    "study_tier": "praticar com lema",
    "study_priority": 3856,
    "nativeExplain": {
-    "pt-BR": "Passado de be: era/foi",
     "zh": "“be”的过去形式（was）。"
    },
    "description": "“be”的过去形式（was）。",
@@ -985,7 +983,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 12,
    "nativeExplain": {
-    "pt-BR": "Alternativas: ou",
     "zh": "连接可以选择的事物或做法。在要求对方二选一的问句中，常用“还是”。"
    },
    "description": "连接可以选择的事物或做法。在要求对方二选一的问句中，常用“还是”。",
@@ -1324,7 +1321,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 15,
    "nativeExplain": {
-    "pt-BR": "Número um: 一",
     "zh": "数字1。"
    },
    "description": "数字1。",
@@ -1406,7 +1402,6 @@
    "study_tier": "expansão estruturante",
    "study_priority": 3850,
    "nativeExplain": {
-    "pt-BR": "Intenção e previsão: つもり exprime intenção",
     "zh": "表示将来的动作、决定或提议。"
    },
    "description": "表示将来的动作、决定或提议。",
@@ -2646,7 +2641,6 @@
    "study_tier": "praticar com lema",
    "study_priority": 2388,
    "nativeExplain": {
-    "pt-BR": "I am: eu sou/estou",
     "zh": "“I am”的缩略形式。"
    },
    "user_hint": "",
@@ -3081,7 +3075,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 31,
    "nativeExplain": {
-    "pt-BR": "Número dois: 二",
     "zh": "数字2。"
    },
    "description": "数字2。",
@@ -5663,7 +5656,6 @@
    "study_tier": "intermediário",
    "study_priority": 2392,
    "nativeExplain": {
-    "pt-BR": "estado como divisão política de um país",
     "zh": "国家里有自己政府的一级行政区。"
    },
    "description": "国家里有自己政府的一级行政区。",
@@ -11757,7 +11749,6 @@
    "study_tier": "cedo",
    "study_priority": 1019,
    "nativeExplain": {
-    "pt-BR": "postar (publicar on-line)",
     "zh": "把消息、照片或视频发布到网上，比如发一条动态。"
    },
    "description": "把消息、照片或视频发布到网上，比如发一条动态。",
@@ -12029,7 +12020,6 @@
    "study_tier": "intermediário",
    "study_priority": 2404,
    "nativeExplain": {
-    "pt-BR": "tribunal",
     "zh": "法官审理案件的地方。"
    },
    "user_hint": "",
@@ -13016,7 +13006,6 @@
    "study_tier": "cedo",
    "study_priority": 1031,
    "nativeExplain": {
-    "pt-BR": "sem saber encontrar o caminho",
     "zh": "不知道自己在哪里，或找不到通往目的地的路。"
    },
    "description": "不知道自己在哪里，或找不到通往目的地的路。",
@@ -13091,7 +13080,6 @@
    "study_tier": "inicial",
    "study_priority": 104,
    "nativeExplain": {
-    "pt-BR": "cômodo/quarto",
     "zh": "房子里用墙隔开的一部分。"
    },
    "description": "房子里用墙隔开的一部分。",
@@ -18389,7 +18377,6 @@
    "study_tier": "cedo",
    "study_priority": 1059,
    "nativeExplain": {
-    "pt-BR": "brigar (fisicamente) vs discutir",
     "zh": "想伤害别人；争吵。"
    },
    "user_hint": "",
@@ -18609,7 +18596,6 @@
    "study_tier": "cedo",
    "study_priority": 1062,
    "nativeExplain": {
-    "pt-BR": "descanso",
     "zh": "为放松而停下来。"
    },
    "user_hint": "",
@@ -18642,7 +18628,6 @@
    "study_tier": "cedo",
    "study_priority": 1063,
    "nativeExplain": {
-    "pt-BR": "espaço (lugar vazio)",
     "zh": "空着的区域。"
    },
    "user_hint": "",
@@ -18829,7 +18814,6 @@
    "study_tier": "cedo",
    "study_priority": 1065,
    "nativeExplain": {
-    "pt-BR": "dia identificado no calendário",
     "zh": "日历上可以用年月日标明的某一天。"
    },
    "description": "日历上可以用年月日标明的某一天。",
@@ -18923,7 +18907,6 @@
    "study_tier": "cedo",
    "study_priority": 1067,
    "nativeExplain": {
-    "pt-BR": "sentir falta vs perder (ônibus/alvo)",
     "zh": "因某人不在身边而感到难过。"
    },
    "user_hint": "",
@@ -18999,7 +18982,6 @@
    "study_tier": "cedo",
    "study_priority": 1068,
    "nativeExplain": {
-    "pt-BR": "tiro",
     "zh": "开枪射击；也指体育中的一次投篮或射门。"
    },
    "user_hint": "",
@@ -19140,7 +19122,6 @@
    "study_tier": "cedo",
    "study_priority": 1069,
    "nativeExplain": {
-    "pt-BR": "conta bancária",
     "zh": "银行等为客户记录资金和交易而设立的账户。也可用于网络服务。"
    },
    "description": "银行等为客户记录资金和交易而设立的账户。也可用于网络服务。",
@@ -22276,7 +22257,6 @@
    "study_tier": "cedo",
    "study_priority": 1073,
    "nativeExplain": {
-    "pt-BR": "conta a pagar",
     "zh": "写明要付多少钱的单据。"
    },
    "description": "写明要付多少钱的单据。",
@@ -22317,7 +22297,6 @@
    "study_tier": "cedo",
    "study_priority": 1074,
    "nativeExplain": {
-    "pt-BR": "aprovação informal",
     "zh": "口语中形容有型、有魅力或令人赞赏。"
    },
    "description": "口语中形容有型、有魅力或令人赞赏。",
@@ -22981,7 +22960,6 @@
    "study_tier": "cedo",
    "study_priority": 1086,
    "nativeExplain": {
-    "pt-BR": "resgatar do perigo",
     "zh": "帮助人或动物脱离危险、困难，也可指采取措施挽回不利局面。"
    },
    "description": "帮助人或动物脱离危险、困难，也可指采取措施挽回不利局面。",
@@ -23559,7 +23537,6 @@
    "study_tier": "cedo",
    "study_priority": 1091,
    "nativeExplain": {
-    "pt-BR": "partida (jogo)",
     "zh": "两支队伍或两个人之间争胜负的活动。"
    },
    "user_hint": "",
@@ -23594,7 +23571,6 @@
    "study_tier": "cedo",
    "study_priority": 1092,
    "nativeExplain": {
-    "pt-BR": "modelo (miniatura/exemplo) vs modelo (pessoa)",
     "zh": "某物的小型仿制品；也指产品的型号。"
    },
    "user_hint": "",
@@ -24443,7 +24419,6 @@
    "study_tier": "cedo",
    "study_priority": 3416,
    "nativeExplain": {
-    "pt-BR": "futebol (soccer) vs futebol americano (EUA)",
     "zh": "用脚踢球的运动（足球）。"
    },
    "description": "用脚踢球的运动（足球）。",
@@ -28332,7 +28307,6 @@
    "study_tier": "cedo",
    "study_priority": 1113,
    "nativeExplain": {
-    "pt-BR": "marca visível numa superfície",
     "zh": "留在物体表面可看见的斑点、线条或符号，可以是有意做的，也可以是接触后留下的。"
    },
    "description": "留在物体表面可看见的斑点、线条或符号，可以是有意做的，也可以是接触后留下的。",
@@ -28443,7 +28417,6 @@
    "study_tier": "cedo",
    "study_priority": 1116,
    "nativeExplain": {
-    "pt-BR": "passar por um lugar ou ir além de alguém no caminho",
     "zh": "从某个地方经过或穿过去。也用来表示达到考试或审核的要求。"
    },
    "description": "从某个地方经过或穿过去。也用来表示达到考试或审核的要求。",
@@ -28587,7 +28560,6 @@
    "study_tier": "inicial",
    "study_priority": 302,
    "nativeExplain": {
-    "pt-BR": "mesa",
     "zh": "有平面台板和腿的家具。"
    },
    "description": "有平面台板和腿的家具。",
@@ -29946,7 +29918,6 @@
    "study_tier": "cedo",
    "study_priority": 1139,
    "nativeExplain": {
-    "pt-BR": "carregar uma bateria",
     "zh": "给电池或使用电池的设备补充电能。"
    },
    "description": "给电池或使用电池的设备补充电能。",
@@ -29988,7 +29959,6 @@
    "study_tier": "inicial",
    "study_priority": 318,
    "nativeExplain": {
-    "pt-BR": "frio",
     "zh": "温度低。"
    },
    "description": "温度低。",
@@ -30551,7 +30521,6 @@
    "study_tier": "pendente",
    "study_priority": 2916,
    "nativeExplain": {
-    "pt-BR": "pista de corrida",
     "zh": "供人或车辆进行竞速比赛的专用路线。"
    },
    "description": "供人或车辆进行竞速比赛的专用路线。",
@@ -31359,7 +31328,6 @@
    "study_tier": "inicial",
    "study_priority": 331,
    "nativeExplain": {
-    "pt-BR": "estação (trem) vs estação (rádio/TV)",
     "zh": "火车或公共汽车停靠的地方。"
    },
    "description": "火车或公共汽车停靠的地方。",
@@ -34060,7 +34028,6 @@
    "study_tier": "cedo",
    "study_priority": 1198,
    "nativeExplain": {
-    "pt-BR": "treinador",
     "zh": "训练球队的人。"
    },
    "user_hint": "",
@@ -34396,7 +34363,6 @@
    "study_tier": "cedo",
    "study_priority": 1203,
    "nativeExplain": {
-    "pt-BR": "assunto vs matéria escolar vs sujeito gramatical",
     "zh": "人们谈论或写作的题材。"
    },
    "user_hint": "",
@@ -35041,7 +35007,6 @@
    "study_tier": "cedo",
    "study_priority": 1214,
    "nativeExplain": {
-    "pt-BR": "letra do alfabeto",
     "zh": "字母表中用来书写的一个符号，如 A 或 B。"
    },
    "description": "字母表中用来书写的一个符号，如 A 或 B。",
@@ -35639,7 +35604,6 @@
    "study_tier": "cedo",
    "study_priority": 1226,
    "nativeExplain": {
-    "pt-BR": "grau de temperatura ou ângulo",
     "zh": "温度或角度的计量单位，如摄氏二十度或九十度角。"
    },
    "description": "温度或角度的计量单位，如摄氏二十度或九十度角。",
@@ -35894,7 +35858,6 @@
    "study_tier": "intermediário",
    "study_priority": 2573,
    "nativeExplain": {
-    "pt-BR": "abertura (buraco) vs inauguração vs vaga de emprego",
     "zh": "某事的开始。"
    },
    "user_hint": "",
@@ -36645,7 +36608,6 @@
    "study_tier": "pendente",
    "study_priority": 2924,
    "nativeExplain": {
-    "pt-BR": "estoque vs ações (bolsa)",
     "zh": "商店里存放的货物。"
    },
    "user_hint": "",
@@ -36936,7 +36898,6 @@
    "study_tier": "pendente",
    "study_priority": 2925,
    "nativeExplain": {
-    "pt-BR": "comercial (adj.) vs comercial de TV (subst.)",
     "zh": "电视或广播中的广告。"
    },
    "user_hint": "",
@@ -37306,7 +37267,6 @@
    "study_tier": "pendente",
    "study_priority": 2926,
    "nativeExplain": {
-    "pt-BR": "operação (cirurgia) vs operação (funcionamento)",
     "zh": "外科手术。"
    },
    "user_hint": "",
@@ -38984,7 +38944,6 @@
    "study_tier": "cedo",
    "study_priority": 1272,
    "nativeExplain": {
-    "pt-BR": "crescer (intransitivo) vs cultivar (plantas)",
     "zh": "长大；变大或变老。"
    },
    "user_hint": "",
@@ -39617,7 +39576,6 @@
    "study_tier": "cedo",
    "study_priority": 1284,
    "nativeExplain": {
-    "pt-BR": "planta",
     "zh": "如树木、草和花一类的生物，通常利用光来生长。"
    },
    "description": "如树木、草和花一类的生物，通常利用光来生长。",
@@ -39682,7 +39640,6 @@
    "study_tier": "cedo",
    "study_priority": 1286,
    "nativeExplain": {
-    "pt-BR": "mancha vs lugar específico",
     "zh": "小而圆的斑点。"
    },
    "user_hint": "",
@@ -39936,7 +39893,6 @@
    "study_tier": "cedo",
    "study_priority": 1289,
    "nativeExplain": {
-    "pt-BR": "bloco (peça) vs quarteirão",
     "zh": "整块的东西。"
    },
    "user_hint": "",
@@ -40760,7 +40716,6 @@
    "study_tier": "cedo",
    "study_priority": 1305,
    "nativeExplain": {
-    "pt-BR": "célula (biologia) vs celular/cela",
     "zh": "身体最小的生命单位。"
    },
    "user_hint": "",
@@ -40817,7 +40772,6 @@
    "study_tier": "cedo",
    "study_priority": 1307,
    "nativeExplain": {
-    "pt-BR": "substância psicoativa no sentido estudado",
     "zh": "对身体或精神产生作用的物质。在滥用的语境中可指非法使用的物质。"
    },
    "user_hint": "",
@@ -41029,7 +40983,6 @@
    "study_tier": "cedo",
    "study_priority": 1311,
    "nativeExplain": {
-    "pt-BR": "massa (grande quantidade) vs missa",
     "zh": "物体所含物质的多少；也指一大团物质。"
    },
    "user_hint": "",
@@ -41558,7 +41511,6 @@
    "study_tier": "pendente",
    "study_priority": 2933,
    "nativeExplain": {
-    "pt-BR": "pedido formal de inscrição ou candidatura",
     "zh": "为获得工作、入学资格或其他机会而按程序提出的正式请求。"
    },
    "description": "为获得工作、入学资格或其他机会而按程序提出的正式请求。",
@@ -41694,7 +41646,6 @@
    "study_tier": "intermediário",
    "study_priority": 2592,
    "nativeExplain": {
-    "pt-BR": "divisão aritmética",
     "zh": "把一个数按相等的份分开，求每份的大小或所能分成的份数的运算。"
    },
    "description": "把一个数按相等的份分开，求每份的大小或所能分成的份数的运算。",
@@ -42431,7 +42382,6 @@
    "study_tier": "inicial",
    "study_priority": 415,
    "nativeExplain": {
-    "pt-BR": "material de janelas e garrafas",
     "zh": "做窗户、瓶子等用的硬质材料，通常能够透光。"
    },
    "description": "做窗户、瓶子等用的硬质材料，通常能够透光。",
@@ -43706,7 +43656,6 @@
    "study_tier": "cedo",
    "study_priority": 1347,
    "nativeExplain": {
-    "pt-BR": "figura de quatro lados iguais e ângulos retos",
     "zh": "四条边等长、四个角都是直角的平面图形。"
    },
    "description": "四条边等长、四个角都是直角的平面图形。",
@@ -44091,7 +44040,6 @@
    "study_tier": "cedo",
    "study_priority": 1352,
    "nativeExplain": {
-    "pt-BR": "crítico (decisivo) vs crítico (que critica)",
     "zh": "极其重要，起决定作用的。"
    },
    "user_hint": "",
@@ -44527,7 +44475,6 @@
    "study_tier": "cedo",
    "study_priority": 1361,
    "nativeExplain": {
-    "pt-BR": "escala vs balança",
     "zh": "用来测量的一系列数字或刻线。"
    },
    "user_hint": "",
@@ -45995,7 +45942,6 @@
    "study_tier": "cedo",
    "study_priority": 1385,
    "nativeExplain": {
-    "pt-BR": "fundação (de prédio) vs fundação (organização)",
     "zh": "建筑最下面的承重部分。"
    },
    "user_hint": "",
@@ -46154,7 +46100,6 @@
    "study_tier": "pendente",
    "study_priority": 2938,
    "nativeExplain": {
-    "pt-BR": "joia circular usada no dedo",
     "zh": "戴在手指上的环形首饰。"
    },
    "description": "戴在手指上的环形首饰。",
@@ -46630,7 +46575,6 @@
    "study_tier": "pendente",
    "study_priority": 2939,
    "nativeExplain": {
-    "pt-BR": "nota dada pelo desempenho escolar",
     "zh": "根据作业或考试表现给出的分数或等级。"
    },
    "description": "根据作业或考试表现给出的分数或等级。",
@@ -48872,7 +48816,6 @@
    "study_tier": "cedo",
    "study_priority": 1435,
    "nativeExplain": {
-    "pt-BR": "diário pessoal vs revista acadêmica",
     "zh": "每天记录所做所想的本子。"
    },
    "user_hint": "",
@@ -49094,7 +49037,6 @@
    "study_tier": "cedo",
    "study_priority": 1441,
    "nativeExplain": {
-    "pt-BR": "paciente (adj.) vs paciente (doente)",
     "zh": "能平静地等待。"
    },
    "description": "能平静地等待。",
@@ -49221,7 +49163,6 @@
    "study_tier": "cedo",
    "study_priority": 1445,
    "nativeExplain": {
-    "pt-BR": "ambientação (história) vs configuração (app)",
     "zh": "故事发生的地点和时间。"
    },
    "user_hint": "",
@@ -49452,7 +49393,6 @@
    "study_tier": "cedo",
    "study_priority": 1449,
    "nativeExplain": {
-    "pt-BR": "equilíbrio vs saldo (conta)",
     "zh": "保持稳定、不摔倒。"
    },
    "user_hint": "",
@@ -51509,7 +51449,6 @@
    "study_tier": "pendente",
    "study_priority": 2946,
    "nativeExplain": {
-    "pt-BR": "ferro (metal) vs ferro de passar",
     "zh": "元素符号为 Fe 的金属，可用来制造钢等材料。"
    },
    "description": "元素符号为 Fe 的金属，可用来制造钢等材料。",
@@ -52330,7 +52269,6 @@
    "study_tier": "pendente",
    "study_priority": 2950,
    "nativeExplain": {
-    "pt-BR": "remédio vs medicina (ciência)",
     "zh": "为了治好病而服用的东西。"
    },
    "description": "为了治好病而服用的东西。",
@@ -52748,7 +52686,6 @@
    "study_tier": "pendente",
    "study_priority": 2952,
    "nativeExplain": {
-    "pt-BR": "gosto (sabor) vs provar (verbo)",
     "zh": "食物或饮料的滋味。"
    },
    "user_hint": "",
@@ -55465,7 +55402,6 @@
    "study_tier": "cedo",
    "study_priority": 1546,
    "nativeExplain": {
-    "pt-BR": "inteligência (capacidade) vs inteligência (serviço secreto)",
     "zh": "学习和理解的能力。"
    },
    "user_hint": "",
@@ -55989,7 +55925,6 @@
    "study_tier": "intermediário",
    "study_priority": 2628,
    "nativeExplain": {
-    "pt-BR": "doméstico (do país) vs doméstico (da casa)",
     "zh": "本国之内的。"
    },
    "user_hint": "",
@@ -56951,7 +56886,6 @@
    "study_tier": "pendente",
    "study_priority": 2963,
    "nativeExplain": {
-    "pt-BR": "exercício físico vs exercício escolar",
     "zh": "为了保持或改善健康、力量或体能而进行的身体活动。"
    },
    "description": "为了保持或改善健康、力量或体能而进行的身体活动。",
@@ -57640,7 +57574,6 @@
    "study_tier": "intermediário",
    "study_priority": 2633,
    "nativeExplain": {
-    "pt-BR": "apelo/atração vs recurso jurídico",
     "zh": "引起兴趣的特质。"
    },
    "user_hint": "",
@@ -58199,7 +58132,6 @@
    "study_tier": "cedo",
    "study_priority": 1585,
    "nativeExplain": {
-    "pt-BR": "plataforma de estação",
     "zh": "车站里靠近轨道、供乘客候车和上下车的区域。"
    },
    "description": "车站里靠近轨道、供乘客候车和上下车的区域。",
@@ -58535,7 +58467,6 @@
    "study_tier": "cedo",
    "study_priority": 1590,
    "nativeExplain": {
-    "pt-BR": "fumaça",
     "zh": "火燃烧时冒出的灰色烟雾。"
    },
    "user_hint": "",
@@ -59787,7 +59718,6 @@
    "study_tier": "cedo",
    "study_priority": 1610,
    "nativeExplain": {
-    "pt-BR": "corrente (metal) vs rede de lojas",
     "zh": "一个个相连的金属环。"
    },
    "user_hint": "",
@@ -61948,7 +61878,6 @@
    "study_tier": "pendente",
    "study_priority": 2969,
    "nativeExplain": {
-    "pt-BR": "ave doméstica criada para produção de ovos ou carne",
     "zh": "常见家禽，通常为取蛋或肉而饲养，公鸡和母鸡都包括在内。"
    },
    "description": "常见家禽，通常为取蛋或肉而饲养，公鸡和母鸡都包括在内。",
@@ -62924,7 +62853,6 @@
    "study_tier": "cedo",
    "study_priority": 1651,
    "nativeExplain": {
-    "pt-BR": "creme (de leite) vs creme (cosmético)",
     "zh": "从牛奶中分离出来、富含乳脂的部分，可用于烹饪或做点心。"
    },
    "description": "从牛奶中分离出来、富含乳脂的部分，可用于烹饪或做点心。",
@@ -63277,7 +63205,6 @@
    "study_tier": "inicial",
    "study_priority": 567,
    "nativeExplain": {
-    "pt-BR": "laranja (fruta) vs laranja (cor)",
     "zh": "一种圆形柑橘类水果，果皮较厚，果瓣多汁。"
    },
    "description": "一种圆形柑橘类水果，果皮较厚，果瓣多汁。",
@@ -63744,7 +63671,6 @@
    "study_tier": "inicial",
    "study_priority": 570,
    "nativeExplain": {
-    "pt-BR": "acenar vs onda (mar)",
     "zh": "挥手打招呼或告别。"
    },
    "user_hint": "",
@@ -65440,7 +65366,6 @@
    "study_tier": "pendente",
    "study_priority": 2975,
    "nativeExplain": {
-    "pt-BR": "interruptor (subst.) vs trocar (verbo)",
     "zh": "接通或断开电路，以控制灯、设备等运行的装置。"
    },
    "description": "接通或断开电路，以控制灯、设备等运行的装置。",
@@ -66495,7 +66420,6 @@
    "study_tier": "intermediário",
    "study_priority": 2661,
    "nativeExplain": {
-    "pt-BR": "resolução (decisão/propósito) vs resolução (tela)",
     "zh": "坚定的决心。"
    },
    "user_hint": "",
@@ -66794,7 +66718,6 @@
    "study_tier": "cedo",
    "study_priority": 1726,
    "nativeExplain": {
-    "pt-BR": "galho de árvore",
     "zh": "从树干或较粗的树枝上分生出来的部分。"
    },
    "description": "从树干或较粗的树枝上分生出来的部分。",
@@ -67252,7 +67175,6 @@
    "study_tier": "cedo",
    "study_priority": 1733,
    "nativeExplain": {
-    "pt-BR": "enredo vs terreno/lote",
     "zh": "书或电影的故事情节。"
    },
    "user_hint": "",
@@ -67504,7 +67426,6 @@
    "study_tier": "cedo",
    "study_priority": 1741,
    "nativeExplain": {
-    "pt-BR": "frase, unidade gramatical",
     "zh": "语法上的表达单位，通常能完整表达一个陈述、疑问或命令。"
    },
    "description": "语法上的表达单位，通常能完整表达一个陈述、疑问或命令。",
@@ -68029,7 +67950,6 @@
    "study_tier": "cedo",
    "study_priority": 1753,
    "nativeExplain": {
-    "pt-BR": "alimentação habitual vs regime para emagrecer",
     "zh": "日常吃的食物。"
    },
    "user_hint": "",
@@ -68787,7 +68707,6 @@
    "study_tier": "cedo",
    "study_priority": 1767,
    "nativeExplain": {
-    "pt-BR": "tanque (recipiente) vs tanque de guerra",
     "zh": "盛放液体或气体的大容器。"
    },
    "user_hint": "",
@@ -69023,7 +68942,6 @@
    "study_tier": "cedo",
    "study_priority": 1773,
    "nativeExplain": {
-    "pt-BR": "área externa junto à casa",
     "zh": "房屋旁边或围墙内的空地。"
    },
    "description": "房屋旁边或围墙内的空地。",
@@ -70120,7 +70038,6 @@
    "study_tier": "pendente",
    "study_priority": 2982,
    "nativeExplain": {
-    "pt-BR": "promover (divulgar) vs promover (cargo)",
     "zh": "推广，让更多人知道。"
    },
    "user_hint": "",
@@ -70948,7 +70865,6 @@
    "study_tier": "pendente",
    "study_priority": 2986,
    "nativeExplain": {
-    "pt-BR": "expressão (facial) vs expressão (frase)",
     "zh": "脸上的神情。"
    },
    "user_hint": "",
@@ -71804,7 +71720,6 @@
    "study_tier": "pendente",
    "study_priority": 2987,
    "nativeExplain": {
-    "pt-BR": "gorjeta vs dica vs ponta",
     "zh": "为感谢服务而额外给服务员等人的钱。"
    },
    "description": "为感谢服务而额外给服务员等人的钱。",
@@ -73587,7 +73502,6 @@
    "study_tier": "cedo",
    "study_priority": 3126,
    "nativeExplain": {
-    "pt-BR": "libras (dinheiro) vs libras (peso)",
     "zh": "“pound”的复数：英镑或磅。"
    },
    "user_hint": "",
@@ -75802,7 +75716,6 @@
    "study_tier": "pendente",
    "study_priority": 2992,
    "nativeExplain": {
-    "pt-BR": "mecanismo de trancar",
     "zh": "用来锁门、箱子等的装置，可用钥匙、密码或其他方式打开。"
    },
    "description": "用来锁门、箱子等的装置，可用钥匙、密码或其他方式打开。",
@@ -76179,7 +76092,6 @@
    "study_tier": "inicial",
    "study_priority": 635,
    "nativeExplain": {
-    "pt-BR": "gravata",
     "zh": "系在脖子上、与衬衫搭配的窄布带。"
    },
    "description": "系在脖子上、与衬衫搭配的窄布带。",
@@ -76520,7 +76432,6 @@
    "study_tier": "cedo",
    "study_priority": 1906,
    "nativeExplain": {
-    "pt-BR": "convenção (evento) vs convenção (costume)",
     "zh": "有共同兴趣的人聚在一起的大型会议。"
    },
    "user_hint": "",
@@ -80760,7 +80671,6 @@
    "study_tier": "pendente",
    "study_priority": 2995,
    "nativeExplain": {
-    "pt-BR": "gola vs coleira (animal)",
     "zh": "衬衫围在脖子周围的部分。"
    },
    "description": "衬衫围在脖子周围的部分。",
@@ -81656,7 +81566,6 @@
    "study_tier": "pendente",
    "study_priority": 2996,
    "nativeExplain": {
-    "pt-BR": "colar (copiar e colar) vs pasta (substância)",
     "zh": "把复制的内容放到某处。"
    },
    "description": "把复制的内容放到某处。",
@@ -83217,7 +83126,6 @@
    "study_tier": "pendente",
    "study_priority": 2909,
    "nativeExplain": {
-    "pt-BR": "demais idiomas apontam \"desafiador/difícil\"",
     "zh": "难度大，能考验人的能力。"
    },
    "part_of_speech": "adj",
@@ -87568,7 +87476,6 @@
    "study_tier": "cedo",
    "study_priority": 1996,
    "nativeExplain": {
-    "pt-BR": "língua (órgão)",
     "zh": "嘴里用来尝味道和说话的软组织。"
    },
    "part_of_speech": "n",
@@ -89617,7 +89524,6 @@
    "study_tier": "pendente",
    "study_priority": 2997,
    "nativeExplain": {
-    "pt-BR": "fazer as pazes",
     "zh": "吵架后重新和好。"
    },
    "part_of_speech": "v",
@@ -94594,7 +94500,6 @@
    "study_tier": "pendente",
    "study_priority": 2998,
    "nativeExplain": {
-    "pt-BR": "casca (ovo/noz) vs concha (marinha)",
     "zh": "蛋或坚果坚硬的外壳。"
    },
    "part_of_speech": "n",
@@ -96430,7 +96335,6 @@
    "study_tier": "intermediário",
    "study_priority": 2762,
    "nativeExplain": {
-    "pt-BR": "fusão (nuclear/de empresas) vs derretimento",
     "zh": "多个事物合为一体。"
    },
    "part_of_speech": "n",
@@ -98651,7 +98555,6 @@
    "study_tier": "pendente",
    "study_priority": 2999,
    "nativeExplain": {
-    "pt-BR": "polo (geografia) vs poste/vara",
     "zh": "地轴的北端或南端。"
    },
    "part_of_speech": "n",
@@ -100358,7 +100261,6 @@
    "study_tier": "pendente",
    "study_priority": 3001,
    "nativeExplain": {
-    "pt-BR": "porca (parafuso) vs noz (fruto)",
     "zh": "拧在螺栓上的小金属件。"
    },
    "part_of_speech": "n",
@@ -100383,7 +100285,6 @@
    "study_tier": "pendente",
    "study_priority": 3002,
    "nativeExplain": {
-    "pt-BR": "prego vs unha",
     "zh": "用锤子敲入的细尖金属件。"
    },
    "part_of_speech": "n",
@@ -101780,7 +101681,6 @@
    "study_tier": "pendente",
    "study_priority": 3003,
    "nativeExplain": {
-    "pt-BR": "casca de árvore vs latir",
     "zh": "树干的外皮。"
    },
    "part_of_speech": "n",

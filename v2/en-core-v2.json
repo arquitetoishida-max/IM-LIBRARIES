@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.5.4",
+ "version": "2.5.5",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -43,7 +43,8 @@
   "2.5.1: regras do dono — sem id para flexões e plurais (formas dentro do card), comparativos mantidos, sentidos e classes desambiguados, masculino padrão no pt, parentesco por idioma, duplicatas fora.",
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
-  "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma."
+  "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
+  "2.5.5: nativeExplain só no próprio idioma do pacote (removidas as dicas pt-BR dentro de en, ja e zh)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -64,7 +65,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "direção, destino",
     "en": "Marks the direction or destination of movement."
    },
    "study_tier": "núcleo inicial",
@@ -93,7 +93,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 2,
    "nativeExplain": {
-    "pt-BR": "adição ou coordenação",
     "en": "Links words, phrases or clauses to add one to another."
    },
    "description": "Links words, phrases or clauses to add one to another.",
@@ -118,7 +117,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "pertence a; parte de",
     "en": "Shows a relation such as belonging, part and whole, contents or origin."
    },
    "study_tier": "expansão estruturante",
@@ -144,7 +142,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "dentro",
     "en": "Within a place, container, period or situation. The spatial sense here is “inside”."
    },
    "study_tier": "núcleo inicial",
@@ -203,7 +200,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "finalidade, benefício",
     "en": "Intended for or benefiting someone or something."
    },
    "study_tier": "expansão estruturante",
@@ -260,7 +256,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 5,
    "nativeExplain": {
-    "pt-BR": "pessoa com quem se fala",
     "en": "The person or people being addressed."
    },
    "description": "The person or people being addressed.",
@@ -396,7 +391,6 @@
    "key_pending": false,
    "study_priority": 3856,
    "nativeExplain": {
-    "pt-BR": "Passado de be: era/foi",
     "en": "Past of \"be\" (I/he/she was)."
    },
    "description": "Past of \"be\" (I/he/she was).",
@@ -513,7 +507,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "modo ou comparação",
     "en": "In the manner indicated, or in comparison with something else."
    },
    "study_tier": "expansão estruturante",
@@ -637,7 +630,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "ponto, hora exata",
     "en": "Identifies a point in space or time, as in “at home” or “at noon”."
    },
    "study_tier": "núcleo inicial",
@@ -664,7 +656,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "en": "Refers to a man or boy already identified."
    },
    "study_tier": "expansão estruturante",
@@ -692,7 +683,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "negação de verbo",
     "en": "Makes a statement, action or quality negative."
    },
    "study_tier": "núcleo inicial",
@@ -764,7 +754,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "origem, procedência",
     "en": "Shows where something starts or comes from."
    },
    "study_tier": "expansão estruturante",
@@ -791,7 +780,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo",
     "en": "Possessive before a noun indicating something related to or belonging to the speaker."
    },
    "study_tier": "expansão estruturante",
@@ -820,7 +808,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 12,
    "nativeExplain": {
-    "pt-BR": "Alternativas: ou",
     "en": "Links alternatives. It can also introduce a consequence if a condition is not met, as in “hurry, or we’ll be late”."
    },
    "description": "Links alternatives. It can also introduce a consequence if a condition is not met, as in “hurry, or we’ll be late”.",
@@ -845,7 +832,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "en": "The speaker and other people together."
    },
    "study_tier": "núcleo inicial",
@@ -872,7 +858,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "de você (antes do substantivo)",
     "en": "Possessive form before a noun identifying something connected with the person being addressed."
    },
    "study_tier": "expansão estruturante",
@@ -979,7 +964,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sujeito",
     "en": "Refers to other people or things already identified. It can also refer to one person whose gender is unspecified or who uses they."
    },
    "study_tier": "expansão estruturante",
@@ -1033,7 +1017,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "condição",
     "en": "Introduces a condition on which something depends, as in “if it rains”."
    },
    "study_tier": "núcleo inicial",
@@ -1063,7 +1046,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 15,
    "nativeExplain": {
-    "pt-BR": "Número um: 一",
     "en": "The number 1."
    },
    "description": "The number 1.",
@@ -1089,8 +1071,7 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "aux",
    "nativeExplain": {
-    "en": "Be able to do something. In other contexts, “can” can ask for permission or state that something is possible.",
-    "pt-BR": "capacidade de fazer algo"
+    "en": "Be able to do something. In other contexts, “can” can ask for permission or state that something is possible."
    },
    "study_tier": "núcleo inicial",
    "study_priority": 16,
@@ -1115,8 +1096,7 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "aux",
    "nativeExplain": {
-    "en": "future, decision, or offer",
-    "pt-BR": "futuro, decisão ou oferta"
+    "en": "future, decision, or offer"
    },
    "study_tier": "expansão estruturante",
    "study_priority": 3850,
@@ -1144,7 +1124,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "apenas",
     "en": "Only or merely, as in “just water”."
    },
    "study_tier": "expansão estruturante",
@@ -1227,7 +1206,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "assunto",
     "en": "On the subject of (\"a book about cats\")."
    },
    "study_tier": "expansão estruturante",
@@ -1407,7 +1385,6 @@
     "en:000000101"
    ],
    "nativeExplain": {
-    "pt-BR": "quantidade maior",
     "en": "A greater amount, number or degree than before or than another option."
    },
    "study_tier": "núcleo inicial",
@@ -1437,7 +1414,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "ação, tarefa",
     "en": "To perform an action (\"do homework\")."
    },
    "study_tier": "núcleo inicial",
@@ -1498,7 +1474,6 @@
    "part_of_speech": "interj",
    "class_real": "interjection",
    "nativeExplain": {
-    "pt-BR": "resposta negativa",
     "en": "A negative answer to a question or request."
    },
    "study_tier": "núcleo inicial",
@@ -1560,7 +1535,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "pergunta pela pessoa",
     "en": "Asks which person."
    },
    "study_tier": "núcleo inicial",
@@ -1641,7 +1615,6 @@
    ],
    "usage_note": "'s = is or has, by context",
    "nativeExplain": {
-    "pt-BR": "isso (coisa)",
     "en": "Short for \"it is\" or \"it has\"."
    },
    "study_tier": "praticar com lema",
@@ -1668,7 +1641,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo",
     "en": "Belonging to them."
    },
    "study_tier": "expansão estruturante",
@@ -1724,7 +1696,6 @@
    "part_of_speech": "det",
    "class_real": "determiner (possessive)",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo (dela + coisa)",
     "en": "Belonging to her."
    },
    "study_tier": "expansão estruturante",
@@ -2003,7 +1974,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "de que maneira",
     "en": "Asks by what method or in what way."
    },
    "study_tier": "núcleo inicial",
@@ -2107,7 +2077,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "In addition; too."
    },
    "study_tier": "expansão estruturante",
@@ -2134,7 +2103,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "objeto",
     "en": "Refers to people or things as the object, as in “call them”."
    },
    "study_tier": "expansão estruturante",
@@ -2186,7 +2154,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "diferente do citado",
     "en": "Different from the one already mentioned."
    },
    "study_tier": "expansão estruturante",
@@ -2232,7 +2199,6 @@
    "study_tier": "praticar com lema",
    "study_priority": 2389,
    "nativeExplain": {
-    "pt-BR": "I am: eu sou/estou",
     "en": "Short for \"I am\"."
    },
    "user_hint": "",
@@ -2257,7 +2223,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "posse de algo já mencionado",
     "en": "Possessive form before a noun, referring to an animal, object or organization already mentioned."
    },
    "study_tier": "expansão estruturante",
@@ -2284,7 +2249,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "antes do substantivo",
     "en": "Belonging to us."
    },
    "study_tier": "expansão estruturante",
@@ -2364,7 +2328,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "nada mais",
     "en": "And nothing else; just."
    },
    "study_tier": "expansão estruturante",
@@ -2448,7 +2411,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "objeto (ver ele, para ele)",
     "en": "A man or boy, as the object (\"call him\")."
    },
    "study_tier": "expansão estruturante",
@@ -2619,7 +2581,6 @@
    "study_tier": "núcleo inicial",
    "study_priority": 31,
    "nativeExplain": {
-    "pt-BR": "Número dois: 二",
     "en": "The number 2."
    },
    "description": "The number 2.",
@@ -2643,7 +2604,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "criar, fabricar",
     "en": "To create or build something."
    },
    "study_tier": "expansão estruturante",
@@ -2701,7 +2661,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "posição acima",
     "en": "In a position above or covering something, as in “a blanket over the bed”."
    },
    "study_tier": "expansão estruturante",
@@ -2920,7 +2879,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "objeto",
     "en": "The speaker and others, as the object (\"help us\")."
    },
    "study_tier": "expansão estruturante",
@@ -3091,7 +3049,6 @@
    "part_of_speech": "adv",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "de modo bom",
     "en": "In a good way."
    },
    "study_tier": "expansão estruturante",
@@ -3150,7 +3107,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "via ou percurso",
     "en": "A path or route from one place to another. It can also mean a method or manner."
    },
    "study_tier": "expansão estruturante",
@@ -3218,7 +3174,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "quantidade (incontável)",
     "en": "A large amount of something treated as uncountable, as in “much water”."
    },
    "study_tier": "inicial",
@@ -3244,7 +3199,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "intensidade antes de adjetivo",
     "en": "To a great degree (\"very big\")."
    },
    "study_tier": "inicial",
@@ -3322,7 +3276,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "aux",
    "nativeExplain": {
-    "pt-BR": "conselho",
     "en": "Gives advice (\"you should rest\")."
    },
    "study_tier": "cedo",
@@ -3520,7 +3473,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "correto",
     "en": "Correct; true."
    },
    "study_tier": "inicial",
@@ -3549,7 +3501,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A job; things you do to earn money."
    },
    "study_tier": "inicial",
@@ -3655,7 +3606,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "inclusão",
     "en": "Also, or in addition to what was just mentioned, as in “me too”."
    },
    "study_tier": "cedo",
@@ -3826,7 +3776,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "continua até agora",
     "en": "Continuing until now (\"it is still raining\")."
    },
    "study_tier": "inicial",
@@ -3853,7 +3802,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "pegar e levar",
     "en": "To pick up and carry; to grab."
    },
    "study_tier": "inicial",
@@ -3947,7 +3895,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "contáveis",
     "en": "A large number of people or things that can be counted."
    },
    "study_tier": "inicial",
@@ -4313,7 +4260,6 @@
    ],
    "usage_note": "'s = is or has",
    "nativeExplain": {
-    "pt-BR": "isso é",
     "en": "Short for \"that is\"."
    },
    "study_tier": "herdado",
@@ -4340,7 +4286,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "durante",
     "en": "During the time that."
    },
    "study_tier": "cedo",
@@ -4480,7 +4425,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o lar",
     "en": "The place where you live."
    },
    "study_tier": "inicial",
@@ -4690,7 +4634,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "contração",
     "en": "Short for \"cannot\"."
    },
    "study_tier": "herdado",
@@ -4847,7 +4790,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "todos, sem exceção",
     "en": "Applies to all the individual members or periods of a set."
    },
    "study_tier": "cedo",
@@ -4994,7 +4936,6 @@
    "study_tier": "intermediário",
    "study_priority": 2395,
    "nativeExplain": {
-    "pt-BR": "estado como divisão política de um país",
     "en": "A part of a country with its own government."
    },
    "description": "A part of a country with its own government.",
@@ -5071,7 +5012,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "dois",
     "en": "In the space separating two things."
    },
    "study_tier": "cedo",
@@ -5152,7 +5092,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "achar algo",
     "en": "To locate someone or something, either by looking or by chance. Also to discover a fact or answer."
    },
    "study_tier": "inicial",
@@ -5264,7 +5203,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "distância do chão, posição",
     "en": "Far above the ground; tall."
    },
    "study_tier": "cedo",
@@ -5293,7 +5231,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "também: pouco",
     "en": "Small in size. In other uses it can refer to a small amount or a young child."
    },
    "study_tier": "inicial",
@@ -5373,7 +5310,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "mais um",
     "en": "One more of the same kind, or a different one."
    },
    "study_tier": "cedo",
@@ -5468,7 +5404,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Below something."
    },
    "study_tier": "cedo",
@@ -5667,7 +5602,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o edifício",
     "en": "A building where a family lives."
    },
    "study_tier": "inicial",
@@ -5797,7 +5731,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "um por um, separadamente",
     "en": "Every single one, one by one."
    },
    "study_tier": "cedo",
@@ -5864,7 +5797,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "em oposição; encostado",
     "en": "Opposing something."
    },
    "study_tier": "intermediário",
@@ -6087,7 +6019,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho (mais comum)",
     "en": "Large in size."
    },
    "study_tier": "inicial",
@@ -6173,7 +6104,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "ter certeza",
     "en": "Certain that something is true or will happen. On its own, “sure” can express agreement."
    },
    "study_tier": "intermediário",
@@ -6271,7 +6201,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "continuar a ter/fazer",
     "en": "To continue to have or do something."
    },
    "study_tier": "cedo",
@@ -6380,7 +6309,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "pôr em um lugar",
     "en": "To place something somewhere."
    },
    "study_priority": 3078,
@@ -6506,7 +6434,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "An unspecified person."
    },
    "study_priority": 3082,
@@ -6584,7 +6511,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "quantidade, algarismo",
     "en": "A word or symbol for an amount (1, 2, 3...)."
    },
    "study_priority": 3085,
@@ -6630,7 +6556,6 @@
    "part_of_speech": "n",
    "class_real": "noun (in \"a lot of\")",
    "nativeExplain": {
-    "pt-BR": "“um monte”",
     "en": "\"A lot\" = a large amount."
    },
    "study_priority": 3087,
@@ -6677,7 +6602,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "noite (escura)",
     "en": "The dark part of the day."
    },
    "study_priority": 3089,
@@ -6783,7 +6707,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A business that sells goods or services."
    },
    "study_priority": 3092,
@@ -6927,7 +6850,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "existente",
     "en": "Truly existing; not fake."
    },
    "study_priority": 3095,
@@ -6974,7 +6896,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "arrumar, ajustar",
     "en": "To put something in place; to arrange."
    },
    "study_priority": 3097,
@@ -7044,7 +6965,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "terminado",
     "en": "Finished."
    },
    "study_priority": 3099,
@@ -7304,7 +7224,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "To begin."
    },
    "study_priority": 3108,
@@ -7452,7 +7371,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "qualquer coisa",
     "en": "Any thing at all."
    },
    "study_priority": 3113,
@@ -7914,7 +7832,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "algo esperado ainda não ocorre",
     "en": "Up to the present, especially with a negative, as in “not yet”. It can also ask whether an expected event has happened."
    },
    "study_priority": 3126,
@@ -8024,7 +7941,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "também: duro",
     "en": "Difficult; not easy."
    },
    "study_priority": 3130,
@@ -8181,7 +8097,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "dizer, informar",
     "en": "To give information by speaking."
    },
    "study_priority": 3134,
@@ -8259,7 +8174,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a arte",
     "en": "Sounds arranged as an art, usually with elements such as rhythm, melody or harmony."
    },
    "study_priority": 3136,
@@ -8628,7 +8542,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho",
     "en": "Not big."
    },
    "study_priority": 3145,
@@ -8766,7 +8679,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o trabalho que se tem",
     "en": "A paid position or regular work someone does for a living. In other contexts, a piece of work that needs doing."
    },
    "study_priority": 3148,
@@ -9029,7 +8941,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "quantidade menor",
     "en": "A smaller amount."
    },
    "study_priority": 3156,
@@ -9081,7 +8992,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "pedido de comida ou mercadoria",
     "en": "A customer’s request for food or goods, or the food or goods requested."
    },
    "study_priority": 3158,
@@ -9347,7 +9257,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "dizer obrigado",
     "en": "To say you are grateful."
    },
    "study_tier": "inicial",
@@ -9432,7 +9341,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "All the people in the group or situation being discussed."
    },
    "study_tier": "inicial",
@@ -9453,7 +9361,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "não específico",
     "en": "About the whole, not details."
    },
    "study_tier": "intermediário",
@@ -9648,7 +9555,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "completo (comum)",
     "en": "Complete; all of something."
    },
    "study_tier": "cedo",
@@ -9755,7 +9661,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "espécie (comum)",
     "en": "A type or sort (\"what kind of music?\")."
    },
    "study_tier": "cedo",
@@ -9783,7 +9688,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "Perhaps."
    },
    "study_tier": "inicial",
@@ -9850,7 +9754,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "narrativa",
     "en": "An account of events, real or invented."
    },
    "study_tier": "cedo",
@@ -9922,7 +9825,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "desejar",
     "en": "To want something to happen and believe that it might."
    },
    "study_tier": "cedo",
@@ -9978,7 +9880,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Having great value or meaning."
    },
    "study_tier": "inicial",
@@ -10109,7 +10010,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "ter a capacidade",
     "en": "Having the power or skill to do something."
    },
    "study_tier": "cedo",
@@ -10323,7 +10223,6 @@
    "study_tier": "cedo",
    "study_priority": 1016,
    "nativeExplain": {
-    "pt-BR": "postar (publicar on-line)",
     "en": "To publish a message, photo, video, or other content on the internet."
    },
    "description": "To publish a message, photo, video, or other content on the internet.",
@@ -10517,7 +10416,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "falar com alguém",
     "en": "To speak with someone."
    },
    "study_tier": "inicial",
@@ -10571,7 +10469,6 @@
    "study_tier": "intermediário",
    "study_priority": 2409,
    "nativeExplain": {
-    "pt-BR": "tribunal",
     "en": "A place where judges decide legal cases."
    },
    "user_hint": "",
@@ -10813,7 +10710,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "On many occasions or with high frequency."
    },
    "study_tier": "inicial",
@@ -10841,7 +10737,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "apenas um no conjunto",
     "en": "Only one person or thing, rather than two or more."
    },
    "study_tier": "inicial",
@@ -11064,7 +10959,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "homem (informal)",
     "en": "A man (informal)."
    },
    "study_tier": "inicial",
@@ -11177,7 +11071,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Something difficult to solve."
    },
    "study_tier": "inicial",
@@ -11299,7 +11192,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Nearly but short of a stated point, amount or result."
    },
    "study_tier": "inicial",
@@ -11348,7 +11240,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o passado, disciplina",
     "en": "Events of the past; a school subject."
    },
    "study_tier": "cedo",
@@ -11396,7 +11287,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho (um pouco formal)",
     "en": "Big."
    },
    "study_tier": "inicial",
@@ -11427,7 +11317,6 @@
    "study_tier": "cedo",
    "study_priority": 1028,
    "nativeExplain": {
-    "pt-BR": "sem saber encontrar o caminho",
     "en": "Unsure where you are or how to get to your destination."
    },
    "description": "Unsure where you are or how to get to your destination.",
@@ -11446,7 +11335,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "estudo científico",
     "en": "Careful study to find new facts."
    },
    "study_tier": "intermediário",
@@ -11479,7 +11367,6 @@
    "study_tier": "inicial",
    "study_priority": 104,
    "nativeExplain": {
-    "pt-BR": "cômodo/quarto",
     "en": "A part of a house with walls."
    },
    "description": "A part of a house with walls.",
@@ -11504,7 +11391,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "det",
    "nativeExplain": {
-    "pt-BR": "alguns",
     "en": "More than two but not many."
    },
    "study_tier": "cedo",
@@ -11545,7 +11431,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "vencer",
     "en": "To be the best in a game or competition."
    },
    "study_tier": "inicial",
@@ -11684,7 +11569,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "outro, diferente",
     "en": "Other; different (\"someone else\")."
    },
    "study_tier": "inicial",
@@ -11733,7 +11617,6 @@
    "part_of_speech": "n",
    "class_real": "noun/verb",
    "nativeExplain": {
-    "pt-BR": "assunto; “não importa”",
     "en": "A subject or situation that people deal with."
    },
    "study_tier": "cedo",
@@ -11755,7 +11638,6 @@
    "part_of_speech": "adv",
    "class_real": "adverb",
    "nativeExplain": {
-    "pt-BR": "“bem” informal antes de adjetivo",
     "en": "Fairly; quite (\"pretty good\")."
    },
    "study_tier": "expansão cotidiana",
@@ -11883,7 +11765,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A person you like and know well."
    },
    "study_tier": "fala cotidiana inicial",
@@ -11917,7 +11798,6 @@
    "part_of_speech": "v",
    "class_real": "verb (irregular, past = hit)",
    "nativeExplain": {
-    "pt-BR": "um golpe",
     "en": "To strike with the hand or an object."
    },
    "study_tier": "expansão cotidiana",
@@ -12137,7 +12017,6 @@
    "part_of_speech": "v",
    "class_real": "verb",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "To move an open thing into a shut position. It can also mean ending business for the day."
    },
    "study_tier": "fala cotidiana inicial",
@@ -12538,7 +12417,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "aguardar",
     "en": "To stay until something happens."
    },
    "study_tier": "fala cotidiana inicial",
@@ -13342,7 +13220,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "To get something by paying."
    },
    "study_tier": "fala cotidiana inicial",
@@ -13396,7 +13273,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "negócio fechado; algo importante",
     "en": "An agreement."
    },
    "study_tier": "expansão cotidiana",
@@ -13417,7 +13293,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "um tanto (às vezes negativo)",
     "en": "Quite or fairly, as in rather cold."
    },
    "study_tier": "expansão cotidiana",
@@ -13623,7 +13498,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "dúvida entre opções",
     "en": "Introduces an indirect question about alternatives, especially “yes” versus “no”."
    },
    "study_tier": "expansão cotidiana",
@@ -13649,7 +13523,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "no meio de um grupo",
     "en": "In the middle of, or included in, a group."
    },
    "study_tier": "expansão cotidiana",
@@ -13771,7 +13644,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "adicional; mais longe",
     "en": "More; to a greater distance."
    },
    "study_tier": "após reconciliar o sentido",
@@ -13993,7 +13865,6 @@
     }
    ],
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A young person who is not yet an adult."
    },
    "study_tier": "fala cotidiana inicial",
@@ -14087,7 +13958,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "principal, de grande porte",
     "en": "Very important or big."
    },
    "study_tier": "expansão cotidiana",
@@ -14396,7 +14266,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "bem, razoavelmente",
     "en": "To a noticeably high degree, as in 'quite good'. With words like 'sure' it can mean completely."
    },
    "study_tier": "expansão cotidiana",
@@ -14531,7 +14400,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "último",
     "en": "Last; at the end."
    },
    "study_tier": "cedo",
@@ -14552,7 +14420,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "ex-, que já foi",
     "en": "Earlier; who used to be (\"former teacher\")."
    },
    "study_tier": "cedo",
@@ -14654,7 +14521,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "preparado",
     "en": "Prepared."
    },
    "study_tier": "inicial",
@@ -14904,7 +14770,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "modelo",
     "en": "Something that shows what others are like."
    },
    "study_tier": "inicial",
@@ -14981,7 +14846,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "encontrar-se com alguém",
     "en": "To come together with someone in person. It can refer to an arranged meeting or a chance encounter."
    },
    "study_tier": "inicial",
@@ -15059,7 +14923,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "tipo, categoria",
     "en": "A kind or sort."
    },
    "study_tier": "cedo",
@@ -15135,7 +14998,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A man in relation to his child. In some contexts it also refers to a founder or to a priest as a title."
    },
    "study_tier": "inicial",
@@ -15256,7 +15118,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a canção",
     "en": "Music with words that you sing."
    },
    "study_tier": "inicial",
@@ -15468,7 +15329,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "referente a pessoa",
     "en": "Refers back to \"he\" (\"he hurt himself\")."
    },
    "study_tier": "cedo",
@@ -15812,7 +15672,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "principal (comum)",
     "en": "Most important."
    },
    "study_tier": "cedo",
@@ -15863,7 +15722,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A woman in relation to her child. It can also refer to a woman who has a maternal role."
    },
    "study_tier": "inicial",
@@ -15986,7 +15844,6 @@
    "study_tier": "cedo",
    "study_priority": 1056,
    "nativeExplain": {
-    "pt-BR": "brigar (fisicamente) vs discutir",
     "en": "To try to hurt someone; to argue."
    },
    "user_hint": "",
@@ -16041,7 +15898,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "estar bem",
     "en": "OK; well (\"I'm fine\")."
    },
    "study_tier": "inicial",
@@ -16062,7 +15918,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "física; poder",
     "en": "Strength used to push or pull."
    },
    "study_tier": "cedo",
@@ -16139,7 +15994,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "tema em discussão",
     "en": "A problem or topic people discuss."
    },
    "study_tier": "cedo",
@@ -16189,7 +16043,6 @@
    "study_tier": "cedo",
    "study_priority": 1059,
    "nativeExplain": {
-    "pt-BR": "descanso",
     "en": "A break to relax."
    },
    "user_hint": "",
@@ -16210,7 +16063,6 @@
    "study_tier": "cedo",
    "study_priority": 1060,
    "nativeExplain": {
-    "pt-BR": "espaço (lugar vazio)",
     "en": "An empty area."
    },
    "user_hint": "",
@@ -16258,7 +16110,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "período letivo; termo",
     "en": "A part of the school year."
    },
    "study_tier": "cedo",
@@ -16333,7 +16184,6 @@
    "study_tier": "cedo",
    "study_priority": 1062,
    "nativeExplain": {
-    "pt-BR": "dia identificado no calendário",
     "en": "A particular day identified on a calendar."
    },
    "description": "A particular day identified on a calendar.",
@@ -16383,7 +16233,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "terreno, solo firme",
     "en": "The ground; the part of Earth without sea."
    },
    "study_tier": "cedo",
@@ -16406,7 +16255,6 @@
    "study_tier": "cedo",
    "study_priority": 1064,
    "nativeExplain": {
-    "pt-BR": "sentir falta vs perder (ônibus/alvo)",
     "en": "To feel sad because someone is not there."
    },
    "user_hint": "",
@@ -16485,7 +16333,6 @@
    "study_tier": "cedo",
    "study_priority": 1065,
    "nativeExplain": {
-    "pt-BR": "tiro",
     "en": "The act of shooting a weapon; also an attempt to score in sports."
    },
    "user_hint": "",
@@ -16509,7 +16356,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "páginas reunidas em um endereço web",
     "en": "A website or place online where related pages or other content are available."
    },
    "study_tier": "inicial",
@@ -16606,7 +16452,6 @@
    "study_tier": "cedo",
    "study_priority": 1066,
    "nativeExplain": {
-    "pt-BR": "conta bancária",
     "en": "An arrangement for keeping, receiving or paying money through a bank. In other contexts, “account” can refer to a login or an account of events."
    },
    "description": "An arrangement for keeping, receiving or paying money through a bank. In other contexts, “account” can refer to a login or an account of events.",
@@ -16797,7 +16642,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "intervalo de tempo; aula",
     "en": "A length of time."
    },
    "study_tier": "expansão cotidiana",
@@ -17277,7 +17121,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "proteção, guardas",
     "en": "Protection against danger, theft, or interference. It can also refer to the arrangements or people that provide that protection."
    },
    "study_tier": "após reconciliar o sentido",
@@ -17782,7 +17625,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "privado",
     "en": "Only for one person or group."
    },
    "study_tier": "após reconciliar o sentido",
@@ -18160,7 +18002,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "objeto dado a outra pessoa",
     "en": "A gift."
    },
    "study_tier": "fala cotidiana inicial",
@@ -18210,7 +18051,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "int",
    "nativeExplain": {
-    "pt-BR": "arrependimento, pedir desculpa",
     "en": "Used to apologize after causing trouble, offense or an inconvenience."
    },
    "study_tier": "fala cotidiana inicial",
@@ -18355,7 +18195,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "resposta a pergunta",
     "en": "A reply to a question."
    },
    "study_tier": "fala cotidiana inicial",
@@ -18433,7 +18272,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "por fim",
     "en": "At last; after a long time."
    },
    "study_tier": "expansão cotidiana",
@@ -18675,7 +18513,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "regra, diretriz",
     "en": "A rule or plan of a government or company."
    },
    "study_tier": "após reconciliar o sentido",
@@ -18767,7 +18604,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "média, comum",
     "en": "Usual; normal; in the middle."
    },
    "study_tier": "após reconciliar o sentido",
@@ -18846,7 +18682,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "determinado; seguro",
     "en": "Sure; without doubt."
    },
    "study_tier": "após reconciliar o sentido",
@@ -18925,7 +18760,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito quente",
     "en": "Very warm."
    },
    "study_tier": "fala cotidiana inicial",
@@ -19382,7 +19216,6 @@
    "study_tier": "cedo",
    "study_priority": 1070,
    "nativeExplain": {
-    "pt-BR": "conta a pagar",
     "en": "A paper that shows how much you must pay."
    },
    "description": "A paper that shows how much you must pay.",
@@ -19411,7 +19244,6 @@
    "study_tier": "cedo",
    "study_priority": 1071,
    "nativeExplain": {
-    "pt-BR": "aprovação informal",
     "en": "Informal approval for something impressive, appealing or stylish."
    },
    "description": "Informal approval for something impressive, appealing or stylish.",
@@ -19430,7 +19262,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de filme ou organização",
     "en": "A person who directs a film or a play."
    },
    "study_tier": "cedo",
@@ -19478,7 +19309,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "terreno lá fora",
     "en": "The surface of the earth that we walk on."
    },
    "study_tier": "inicial",
@@ -19526,7 +19356,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "To give something that is needed."
    },
    "study_tier": "cedo",
@@ -19669,7 +19498,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "comum",
     "en": "On most occasions or under normal conditions."
    },
    "study_tier": "inicial",
@@ -19785,7 +19613,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "adjetivo: oficial",
     "en": "Approved by the government or an authority."
    },
    "study_tier": "cedo",
@@ -19852,7 +19679,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "proporção, índice",
     "en": "A speed or amount compared with another (\"birth rate\")."
    },
    "study_tier": "cedo",
@@ -19928,7 +19754,6 @@
    "study_tier": "cedo",
    "study_priority": 1083,
    "nativeExplain": {
-    "pt-BR": "resgatar do perigo",
     "en": "To rescue someone or something from harm or loss. In other contexts, it can mean keeping money or storing data."
    },
    "description": "To rescue someone or something from harm or loss. In other contexts, it can mean keeping money or storing data.",
@@ -20082,7 +19907,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "tanto faz",
     "en": "Anything that meets a condition or anything at all. Alone it can express indifference."
    },
    "study_tier": "inicial",
@@ -20320,7 +20144,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "velocidade",
     "en": "Quick."
    },
    "study_tier": "inicial",
@@ -20486,7 +20309,6 @@
    "study_tier": "cedo",
    "study_priority": 1088,
    "nativeExplain": {
-    "pt-BR": "partida (jogo)",
     "en": "A game between two teams or players."
    },
    "user_hint": "",
@@ -20507,7 +20329,6 @@
    "study_tier": "cedo",
    "study_priority": 1089,
    "nativeExplain": {
-    "pt-BR": "modelo (miniatura/exemplo) vs modelo (pessoa)",
     "en": "A small copy of something, or a particular design of a product."
    },
    "user_hint": "",
@@ -20532,7 +20353,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "imagem, desenho ou foto",
     "en": "A visual representation, such as a drawing, painting or photograph."
    },
    "study_tier": "inicial",
@@ -20969,7 +20789,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "em cima de, sobre",
     "en": "On top of or resting on something. In formal contexts, upon can also introduce the event that something happens at or right after."
    },
    "study_tier": "intermediário",
@@ -20990,7 +20809,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "diversos tipos",
     "en": "Several different."
    },
    "study_tier": "cedo",
@@ -21084,7 +20902,6 @@
    ],
    "usage_note": "written as one word",
    "nativeExplain": {
-    "pt-BR": "escrito junto",
     "en": "Is not able to; is not allowed to."
    },
    "study_tier": "herdado",
@@ -21155,7 +20972,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "líder de um grupo",
     "en": "The leader of a group."
    },
    "study_tier": "cedo",
@@ -21212,7 +21028,6 @@
    "study_tier": "cedo",
    "study_priority": 3460,
    "nativeExplain": {
-    "pt-BR": "futebol (soccer) vs futebol americano (EUA)",
     "en": "Association football (soccer); called \"soccer\" in the US."
    },
    "description": "Association football (soccer); called \"soccer\" in the US.",
@@ -21443,7 +21258,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "bens, imóvel",
     "en": "Things that someone owns, like land or a house."
    },
    "study_tier": "intermediário",
@@ -21611,7 +21425,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "surpreendente e bom",
     "en": "Very surprising and good."
    },
    "study_tier": "inicial",
@@ -21805,7 +21618,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "referente a coisa",
     "en": "Refers back to the thing or animal already called “it.” It can also emphasize the thing in its own right, as in “the idea itself.”"
    },
    "study_tier": "expansão cotidiana",
@@ -21926,7 +21738,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "que fala ou se dedica a algo com seriedade",
     "en": "Showing that someone means what they say or is paying careful attention to something."
    },
    "study_tier": "após reconciliar o sentido",
@@ -22288,7 +22099,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "completo (formal)",
     "en": "Whole."
    },
    "study_tier": "expansão cotidiana",
@@ -22443,7 +22253,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Maybe; possibly."
    },
    "study_tier": "fala cotidiana inicial",
@@ -22556,7 +22365,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo completo",
     "en": "Machines and computers made using science."
    },
    "study_tier": "expansão cotidiana",
@@ -22583,7 +22391,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "página na internet",
     "en": "A page or set of pages under one address on the web."
    },
    "study_tier": "fala cotidiana inicial",
@@ -23096,7 +22903,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "escolher entre opções",
     "en": "To choose someone or something from the available options."
    },
    "study_tier": "fala cotidiana inicial",
@@ -23699,7 +23505,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Not easy."
    },
    "study_tier": "fala cotidiana inicial",
@@ -23722,7 +23527,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "número; também figura",
     "en": "A number or amount."
    },
    "study_tier": "expansão cotidiana",
@@ -24078,7 +23882,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "o planeta; solo",
     "en": "The planet we live on."
    },
    "study_tier": "fala cotidiana inicial",
@@ -24157,7 +23960,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "meta; gol",
     "en": "Something you want to achieve."
    },
    "study_tier": "expansão cotidiana",
@@ -24178,7 +23980,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Very big."
    },
    "study_tier": "fala cotidiana inicial",
@@ -24494,7 +24295,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "parte de baixo; sede",
     "en": "The bottom part of something; what it stands on."
    },
    "study_tier": "cedo",
@@ -24623,7 +24423,6 @@
    "study_tier": "cedo",
    "study_priority": 1110,
    "nativeExplain": {
-    "pt-BR": "marca visível numa superfície",
     "en": "A visible spot, line, or sign on a surface, made deliberately or left by contact."
    },
    "description": "A visible spot, line, or sign on a surface, made deliberately or left by contact.",
@@ -24732,7 +24531,6 @@
    "study_tier": "cedo",
    "study_priority": 1113,
    "nativeExplain": {
-    "pt-BR": "passar por um lugar ou ir além de alguém no caminho",
     "en": "To move through a place or go past a person or object."
    },
    "description": "To move through a place or go past a person or object.",
@@ -24784,7 +24582,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "termo completo",
     "en": "Doing something as a job; very skilled."
    },
    "study_tier": "cedo",
@@ -24894,7 +24691,6 @@
    "study_tier": "inicial",
    "study_priority": 298,
    "nativeExplain": {
-    "pt-BR": "mesa",
     "en": "Furniture with a flat top and legs."
    },
    "description": "Furniture with a flat top and legs.",
@@ -25118,7 +24914,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "divisão administrativa",
     "en": "An area of a city or country."
    },
    "study_tier": "cedo",
@@ -25146,7 +24941,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "posse de quem fala, sem repetir o substantivo",
     "en": "Replaces a noun to say something belongs to the speaker, as in “that is mine”."
    },
    "study_tier": "inicial",
@@ -25629,7 +25423,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "integrante da força policial",
     "en": "A member of the police force whose job includes enforcing the law."
    },
    "study_tier": "cedo",
@@ -25695,7 +25488,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "reação",
     "en": "An answer or reaction."
    },
    "study_tier": "cedo",
@@ -25749,7 +25541,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "rocha ou pedra grande",
     "en": "A hard natural mass of stone, especially one large enough to be distinct from the ground around it."
    },
    "study_tier": "cedo",
@@ -25871,7 +25662,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "normal, usual",
     "en": "Normal; usual."
    },
    "study_tier": "cedo",
@@ -26021,7 +25811,6 @@
    "study_tier": "cedo",
    "study_priority": 1136,
    "nativeExplain": {
-    "pt-BR": "carregar uma bateria",
     "en": "To supply a battery or a battery-powered device with electrical energy."
    },
    "description": "To supply a battery or a battery-powered device with electrical energy.",
@@ -26079,7 +25868,6 @@
    "study_tier": "inicial",
    "study_priority": 314,
    "nativeExplain": {
-    "pt-BR": "frio",
     "en": "Having a low temperature."
    },
    "description": "Having a low temperature.",
@@ -26309,7 +26097,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "rede de computadores ou outros dispositivos",
     "en": "A group of interconnected computers or devices that can exchange data."
    },
    "study_tier": "cedo",
@@ -26515,7 +26302,6 @@
    "study_tier": "pendente",
    "study_priority": 2959,
    "nativeExplain": {
-    "pt-BR": "pista de corrida",
     "en": "A marked course on which people or vehicles race."
    },
    "description": "A marked course on which people or vehicles race.",
@@ -26699,7 +26485,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "repetidamente; vencer alguém",
     "en": "To hit something or someone many times."
    },
    "study_tier": "cedo",
@@ -26890,7 +26675,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "prever, contar com",
     "en": "To think something will happen."
    },
    "study_tier": "pendente",
@@ -27153,7 +26937,6 @@
    "study_tier": "inicial",
    "study_priority": 327,
    "nativeExplain": {
-    "pt-BR": "estação (trem) vs estação (rádio/TV)",
     "en": "A place where trains or buses stop."
    },
    "description": "A place where trains or buses stop.",
@@ -27178,7 +26961,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "mensagem de texto (celular)",
     "en": "A short written message sent from one phone to another."
    },
    "study_tier": "cedo",
@@ -27317,7 +27099,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "sem dúvida",
     "en": "Surely; of course."
    },
    "study_tier": "cedo",
@@ -27793,7 +27574,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "recado",
     "en": "Information sent to someone."
    },
    "study_tier": "inicial",
@@ -27849,7 +27629,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "por pouco",
     "en": "Almost."
    },
    "study_tier": "cedo",
@@ -27870,7 +27649,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "específico",
     "en": "Specific; special."
    },
    "study_tier": "intermediário",
@@ -27896,7 +27674,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "o que veio antes",
     "en": "Coming before."
    },
    "study_tier": "cedo",
@@ -28011,7 +27788,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "tipo; “meio que”",
     "en": "A type or kind of something."
    },
    "study_tier": "cedo",
@@ -28308,7 +28084,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "A child (informal)."
    },
    "study_tier": "inicial",
@@ -28491,7 +28266,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "totalmente; “com certeza!”",
     "en": "Completely or without any doubt. On its own it can express emphatic agreement."
    },
    "study_tier": "cedo",
@@ -28537,7 +28311,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "mais longe que",
     "en": "Farther than."
    },
    "study_tier": "cedo",
@@ -28700,7 +28473,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "que leva pouco tempo",
     "en": "Fast; taking little time."
    },
    "study_tier": "inicial",
@@ -28953,7 +28725,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "An electronic machine for work, games and the internet."
    },
    "study_tier": "inicial",
@@ -29109,7 +28880,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "mudança de posição; movimento social",
     "en": "Changing position or moving."
    },
    "study_tier": "cedo",
@@ -29138,7 +28908,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "fotografia",
     "en": "An image made with a camera, including an image stored digitally."
    },
    "study_tier": "inicial",
@@ -29159,7 +28928,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "estar livre de perigo",
     "en": "Being protected from danger."
    },
    "study_tier": "cedo",
@@ -29448,7 +29216,6 @@
    "study_tier": "cedo",
    "study_priority": 1195,
    "nativeExplain": {
-    "pt-BR": "treinador",
     "en": "A person who trains a team."
    },
    "user_hint": "",
@@ -29494,7 +29261,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "sem dúvida",
     "en": "Certainly; without doubt."
    },
    "study_tier": "cedo",
@@ -29560,7 +29326,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de fogo",
     "en": "A weapon that shoots bullets."
    },
    "core_status": "search_only",
@@ -29702,7 +29467,6 @@
    "study_tier": "cedo",
    "study_priority": 1200,
    "nativeExplain": {
-    "pt-BR": "assunto vs matéria escolar vs sujeito gramatical",
     "en": "A topic that people talk or write about."
    },
    "user_hint": "",
@@ -29893,7 +29657,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Father (informal)."
    },
    "study_tier": "inicial",
@@ -29995,7 +29758,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "em geral",
     "en": "Usually; in most cases."
    },
    "study_tier": "cedo",
@@ -30215,7 +29977,6 @@
    "study_tier": "cedo",
    "study_priority": 1211,
    "nativeExplain": {
-    "pt-BR": "letra do alfabeto",
     "en": "One of the written symbols in an alphabet, such as A or B."
    },
    "description": "One of the written symbols in an alphabet, such as A or B.",
@@ -30339,7 +30100,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "soma (+)",
     "en": "And; added to (+)."
    },
    "study_tier": "cedo",
@@ -30652,7 +30412,6 @@
    "study_tier": "cedo",
    "study_priority": 1223,
    "nativeExplain": {
-    "pt-BR": "grau de temperatura ou ângulo",
     "en": "A unit on a temperature scale, such as Celsius, or a unit for measuring an angle."
    },
    "description": "A unit on a temperature scale, such as Celsius, or a unit for measuring an angle.",
@@ -30708,7 +30467,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "chão ou piso de um cômodo",
     "en": "The surface you stand or walk on in a room."
    },
    "study_tier": "inicial",
@@ -30872,7 +30630,6 @@
    "study_tier": "intermediário",
    "study_priority": 2581,
    "nativeExplain": {
-    "pt-BR": "abertura (buraco) vs inauguração vs vaga de emprego",
     "en": "The start of something."
    },
    "user_hint": "",
@@ -30938,7 +30695,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "A professional."
    },
    "study_tier": "cedo",
@@ -30959,7 +30715,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "chegar até; esticar o braço",
     "en": "To arrive at; to stretch out your arm to touch."
    },
    "study_tier": "cedo",
@@ -31036,7 +30791,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "de maneira séria",
     "en": "With earnest attention or an understanding of the importance of what is happening."
    },
    "study_tier": "cedo",
@@ -31084,7 +30838,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "ofensivo, geral",
     "en": "Not smart; silly (rude)."
    },
    "core_status": "search_only",
@@ -31502,7 +31255,6 @@
    "study_tier": "pendente",
    "study_priority": 2967,
    "nativeExplain": {
-    "pt-BR": "estoque vs ações (bolsa)",
     "en": "Goods kept in a store."
    },
    "user_hint": "",
@@ -31633,7 +31385,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Really great; amazing (informal)."
    },
    "study_tier": "inicial",
@@ -31750,7 +31501,6 @@
    "study_tier": "pendente",
    "study_priority": 2968,
    "nativeExplain": {
-    "pt-BR": "comercial (adj.) vs comercial de TV (subst.)",
     "en": "An advertisement on TV or radio."
    },
    "user_hint": "",
@@ -32050,7 +31800,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "múltiplos",
     "en": "Many."
    },
    "study_tier": "cedo",
@@ -32102,7 +31851,6 @@
    "study_tier": "pendente",
    "study_priority": 2969,
    "nativeExplain": {
-    "pt-BR": "operação (cirurgia) vs operação (funcionamento)",
     "en": "A medical surgery."
    },
    "user_hint": "",
@@ -32483,7 +32231,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "decidir entre opções",
     "en": "To decide which one you want."
    },
    "study_tier": "inicial",
@@ -32751,7 +32498,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "imponente",
     "en": "Large and impressive."
    },
    "study_tier": "intermediário",
@@ -32884,7 +32630,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a união, estar casado",
     "en": "Being married."
    },
    "study_tier": "cedo",
@@ -33019,7 +32764,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective (in be supposed to)",
    "nativeExplain": {
-    "pt-BR": "esperado que, combinado",
     "en": "\"Be supposed to\" = should; expected to."
    },
    "study_tier": "herdado",
@@ -33522,7 +33266,6 @@
    "study_tier": "cedo",
    "study_priority": 1269,
    "nativeExplain": {
-    "pt-BR": "crescer (intransitivo) vs cultivar (plantas)",
     "en": "To become bigger or older."
    },
    "user_hint": "",
@@ -33678,7 +33421,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "no total",
     "en": "Total; general."
    },
    "study_tier": "cedo",
@@ -33814,7 +33556,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "ida e volta",
     "en": "A journey to a place and back."
    },
    "study_tier": "inicial",
@@ -34048,7 +33789,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "completamente (formal)",
     "en": "Completely."
    },
    "study_tier": "cedo",
@@ -34138,7 +33878,6 @@
    "study_tier": "cedo",
    "study_priority": 1281,
    "nativeExplain": {
-    "pt-BR": "planta",
     "en": "A living thing such as a tree, grass, or flower that typically uses light to grow."
    },
    "description": "A living thing such as a tree, grass, or flower that typically uses light to grow.",
@@ -34179,7 +33918,6 @@
    "study_tier": "cedo",
    "study_priority": 1283,
    "nativeExplain": {
-    "pt-BR": "mancha vs lugar específico",
     "en": "A small round mark."
    },
    "user_hint": "",
@@ -34323,7 +34061,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "opinião igual; concordância",
     "en": "Having the same opinion; a deal."
    },
    "study_tier": "cedo",
@@ -34392,7 +34129,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "prêmio honorífico",
     "en": "A prize."
    },
    "study_tier": "cedo",
@@ -34415,7 +34151,6 @@
    "study_tier": "cedo",
    "study_priority": 1286,
    "nativeExplain": {
-    "pt-BR": "bloco (peça) vs quarteirão",
     "en": "A solid piece of something."
    },
    "user_hint": "",
@@ -34578,7 +34313,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "com o tempo",
     "en": "In the end; after some time."
    },
    "study_tier": "cedo",
@@ -34681,7 +34415,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "A large number or amount."
    },
    "study_tier": "inicial",
@@ -34844,7 +34577,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Ill; not well."
    },
    "study_tier": "inicial",
@@ -34931,7 +34663,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "afastar-se de",
     "en": "To keep away from something."
    },
    "study_tier": "cedo",
@@ -35015,7 +34746,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "agarrar algo em movimento",
     "en": "To take hold of something moving."
    },
    "study_tier": "cedo",
@@ -35071,7 +34801,6 @@
    "study_tier": "cedo",
    "study_priority": 1302,
    "nativeExplain": {
-    "pt-BR": "célula (biologia) vs celular/cela",
     "en": "The smallest living part of a body."
    },
    "user_hint": "",
@@ -35112,7 +34841,6 @@
    "study_tier": "cedo",
    "study_priority": 1304,
    "nativeExplain": {
-    "pt-BR": "substância psicoativa no sentido estudado",
     "en": "A substance taken for its effects on the body or mind, especially a recreational or controlled substance in this sense."
    },
    "user_hint": "",
@@ -35250,7 +34978,6 @@
    "study_tier": "cedo",
    "study_priority": 1308,
    "nativeExplain": {
-    "pt-BR": "massa (grande quantidade) vs missa",
     "en": "A large amount of matter; how much matter something has."
    },
    "user_hint": "",
@@ -35335,7 +35062,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "atividade política",
     "en": "Activities of government and parties."
    },
    "study_tier": "cedo",
@@ -35629,7 +35355,6 @@
    "study_tier": "pendente",
    "study_priority": 2976,
    "nativeExplain": {
-    "pt-BR": "pedido formal de inscrição ou candidatura",
     "en": "A formal request to be considered for a job, admission, or similar opportunity."
    },
    "description": "A formal request to be considered for a job, admission, or similar opportunity.",
@@ -35723,7 +35448,6 @@
    "study_tier": "intermediário",
    "study_priority": 2605,
    "nativeExplain": {
-    "pt-BR": "divisão aritmética",
     "en": "The arithmetic operation used to find how many equal parts a quantity can be split into, or how large each part is."
    },
    "description": "The arithmetic operation used to find how many equal parts a quantity can be split into, or how large each part is.",
@@ -35750,7 +35474,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "início da noite",
     "en": "The end of the day, before night."
    },
    "study_tier": "inicial",
@@ -36116,7 +35839,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "real, efetivo",
     "en": "Real."
    },
    "study_tier": "cedo",
@@ -36369,7 +36091,6 @@
    "study_tier": "inicial",
    "study_priority": 411,
    "nativeExplain": {
-    "pt-BR": "material de janelas e garrafas",
     "en": "A hard, usually transparent material used to make windows, bottles, and other objects."
    },
    "description": "A hard, usually transparent material used to make windows, bottles, and other objects.",
@@ -36519,7 +36240,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "formal",
     "en": "Earlier."
    },
    "study_tier": "intermediário",
@@ -36748,7 +36468,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "parte do aparelho",
     "en": "The part of a TV, phone or computer that shows images."
    },
    "study_tier": "inicial",
@@ -37039,7 +36758,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "formal, como objeto",
     "en": "Formal \"who\" as an object."
    },
    "study_tier": "cedo",
@@ -37113,7 +36831,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "um pouco mais formal",
     "en": "To start."
    },
    "study_tier": "inicial",
@@ -37216,7 +36933,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de carro",
     "en": "The part of a car that makes it move."
    },
    "study_tier": "cedo",
@@ -37242,7 +36958,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "All people."
    },
    "study_tier": "inicial",
@@ -37495,7 +37210,6 @@
    "study_tier": "cedo",
    "study_priority": 1344,
    "nativeExplain": {
-    "pt-BR": "figura de quatro lados iguais e ângulos retos",
     "en": "A flat shape with four equal sides meeting at right angles."
    },
    "description": "A flat shape with four equal sides meeting at right angles.",
@@ -37768,7 +37482,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "números",
     "en": "To say numbers in order, especially to find how many things there are."
    },
    "study_tier": "inicial",
@@ -37852,7 +37565,6 @@
    "study_tier": "cedo",
    "study_priority": 1349,
    "nativeExplain": {
-    "pt-BR": "crítico (decisivo) vs crítico (que critica)",
     "en": "Very important; decisive."
    },
    "user_hint": "",
@@ -38048,7 +37760,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "na maior parte",
     "en": "Mainly."
    },
    "study_tier": "cedo",
@@ -38239,7 +37950,6 @@
    "study_tier": "cedo",
    "study_priority": 1358,
    "nativeExplain": {
-    "pt-BR": "escala vs balança",
     "en": "A range of numbers or marks for measuring."
    },
    "user_hint": "",
@@ -38285,7 +37995,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "não junto",
     "en": "Not together."
    },
    "study_tier": "cedo",
@@ -38408,7 +38117,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "totalmente (informal)",
     "en": "Completely."
    },
    "study_tier": "cedo",
@@ -38434,7 +38142,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a cerimônia",
     "en": "A marriage ceremony."
    },
    "study_tier": "inicial",
@@ -38674,7 +38381,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "propriedade rural; imóveis",
     "en": "Land and buildings someone owns; \"real estate\"."
    },
    "study_tier": "intermediário",
@@ -39336,7 +39042,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "fundamento, razão",
     "en": "The base or main reason."
    },
    "study_tier": "cedo",
@@ -39414,7 +39119,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "gíria, chamar amigo",
     "en": "A man; also used to call a friend (slang)."
    },
    "core_status": "search_only",
@@ -39513,7 +39217,6 @@
    "study_tier": "cedo",
    "study_priority": 1382,
    "nativeExplain": {
-    "pt-BR": "fundação (de prédio) vs fundação (organização)",
     "en": "The base of a building."
    },
    "user_hint": "",
@@ -39532,7 +39235,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "obter mais",
     "en": "To get more of something."
    },
    "study_tier": "cedo",
@@ -39625,7 +39327,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "primeiro em importância",
     "en": "Most important."
    },
    "study_tier": "intermediário",
@@ -39654,7 +39355,6 @@
    "study_tier": "pendente",
    "study_priority": 2981,
    "nativeExplain": {
-    "pt-BR": "joia circular usada no dedo",
     "en": "A circular piece of jewelry worn around a finger."
    },
    "description": "A circular piece of jewelry worn around a finger.",
@@ -39815,7 +39515,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "abastecer",
     "en": "To give what is needed."
    },
    "study_tier": "intermediário",
@@ -40085,7 +39784,6 @@
    "study_tier": "pendente",
    "study_priority": 2982,
    "nativeExplain": {
-    "pt-BR": "nota dada pelo desempenho escolar",
     "en": "A score or rating given for schoolwork or exam performance."
    },
    "description": "A score or rating given for schoolwork or exam performance.",
@@ -40291,7 +39989,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "mais informal",
     "en": "A person who is not named."
    },
    "study_tier": "inicial",
@@ -40317,7 +40014,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "pedrinha",
     "en": "A piece of hard natural rock, especially one small enough to pick up."
    },
    "study_tier": "inicial",
@@ -40338,7 +40034,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "ser forte",
     "en": "Being strong."
    },
    "study_tier": "cedo",
@@ -40652,7 +40347,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "escritório, sociedade",
     "en": "A company."
    },
    "study_tier": "pendente",
@@ -40897,7 +40591,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "impedir",
     "en": "To stop something from happening."
    },
    "study_tier": "cedo",
@@ -41050,7 +40743,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "encrenca, dificuldade",
     "en": "Problems or difficulties."
    },
    "study_tier": "cedo",
@@ -41091,7 +40783,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "distante um do outro",
     "en": "Separated by distance."
    },
    "study_tier": "cedo",
@@ -41309,7 +41000,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "presente dado",
     "en": "A present."
    },
    "study_tier": "inicial",
@@ -41570,7 +41260,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "firme, de vez",
     "en": "To close."
    },
    "study_tier": "inicial",
@@ -41941,7 +41630,6 @@
    "study_tier": "cedo",
    "study_priority": 1432,
    "nativeExplain": {
-    "pt-BR": "diário pessoal vs revista acadêmica",
     "en": "A book where you write about your days."
    },
    "user_hint": "",
@@ -42079,7 +41767,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "movimento para cima de",
     "en": "Moving to a position on top of something."
    },
    "study_tier": "cedo",
@@ -42108,7 +41795,6 @@
    "study_tier": "cedo",
    "study_priority": 1438,
    "nativeExplain": {
-    "pt-BR": "paciente (adj.) vs paciente (doente)",
     "en": "Able to wait calmly."
    },
    "description": "Able to wait calmly.",
@@ -42220,7 +41906,6 @@
    "study_tier": "cedo",
    "study_priority": 1442,
    "nativeExplain": {
-    "pt-BR": "ambientação (história) vs configuração (app)",
     "en": "Where and when a story takes place."
    },
    "user_hint": "",
@@ -42391,7 +42076,6 @@
    "study_tier": "cedo",
    "study_priority": 1446,
    "nativeExplain": {
-    "pt-BR": "equilíbrio vs saldo (conta)",
     "en": "Staying steady without falling."
    },
    "user_hint": "",
@@ -42443,7 +42127,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "no trabalho",
     "en": "The person in charge of you at work."
    },
    "study_tier": "inicial",
@@ -42693,7 +42376,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "malha, rede de pesca/gol",
     "en": "A material with holes made of string (soccer net)."
    },
    "study_tier": "cedo",
@@ -42745,7 +42427,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "solicitação",
     "en": "Asking for something."
    },
    "study_tier": "cedo",
@@ -43074,7 +42755,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "preocupação séria",
     "en": "Worried."
    },
    "study_tier": "cedo",
@@ -43804,7 +43484,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "sem igual",
     "en": "The only one of its kind."
    },
    "study_tier": "cedo",
@@ -43885,7 +43564,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "valorizar, ser grato por",
     "en": "To be thankful for."
    },
    "study_tier": "cedo",
@@ -44188,7 +43866,6 @@
    "study_tier": "pendente",
    "study_priority": 2989,
    "nativeExplain": {
-    "pt-BR": "ferro (metal) vs ferro de passar",
     "en": "The metallic element Fe, used to make steel and many other materials."
    },
    "description": "The metallic element Fe, used to make steel and many other materials.",
@@ -44228,7 +43905,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "irritado (informal) ou louco",
     "en": "Angry."
    },
    "study_tier": "pendente",
@@ -44651,7 +44327,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito bom",
     "en": "Very good."
    },
    "study_tier": "cedo",
@@ -44814,7 +44489,6 @@
    "study_tier": "pendente",
    "study_priority": 2993,
    "nativeExplain": {
-    "pt-BR": "remédio vs medicina (ciência)",
     "en": "Something you take to get better from illness."
    },
    "description": "Something you take to get better from illness.",
@@ -45151,7 +44825,6 @@
    "study_tier": "pendente",
    "study_priority": 2995,
    "nativeExplain": {
-    "pt-BR": "gosto (sabor) vs provar (verbo)",
     "en": "The flavor of food or drink."
    },
    "user_hint": "",
@@ -45573,7 +45246,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Sick."
    },
    "study_tier": "cedo",
@@ -45753,7 +45425,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "maciço, gigante",
     "en": "Very big."
    },
    "study_tier": "cedo",
@@ -45835,7 +45506,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma curta",
     "en": "An aircraft with fixed wings and one or more engines, used to travel through the air."
    },
    "study_tier": "inicial",
@@ -45856,7 +45526,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "mais que suficiente",
     "en": "A lot; more than enough."
    },
    "study_tier": "cedo",
@@ -46401,7 +46070,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "conversa sobre um tema",
     "en": "A conversation about a topic."
    },
    "study_tier": "cedo",
@@ -46716,7 +46384,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "trilha para andar",
     "en": "A small road for walking."
    },
    "study_tier": "cedo",
@@ -46853,7 +46520,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "formal",
     "en": "To buy (formal)."
    },
    "study_tier": "cedo",
@@ -47104,7 +46770,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "morno, agradável",
     "en": "Moderately hot or pleasantly above room or outdoor temperature."
    },
    "study_tier": "inicial",
@@ -47490,7 +47155,6 @@
    "study_tier": "cedo",
    "study_priority": 1543,
    "nativeExplain": {
-    "pt-BR": "inteligência (capacidade) vs inteligência (serviço secreto)",
     "en": "The ability to learn and understand."
    },
    "user_hint": "",
@@ -47891,7 +47555,6 @@
    "study_tier": "intermediário",
    "study_priority": 2647,
    "nativeExplain": {
-    "pt-BR": "doméstico (do país) vs doméstico (da casa)",
     "en": "Inside a country."
    },
    "user_hint": "",
@@ -48315,7 +47978,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "questionário",
     "en": "Asking many people the same questions."
    },
    "study_tier": "cedo",
@@ -48336,7 +47998,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Technology (informal)."
    },
    "study_tier": "cedo",
@@ -48472,7 +48133,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "muito velho, de séculos",
     "en": "Very old; from long ago."
    },
    "study_tier": "cedo",
@@ -48640,7 +48300,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "desfecho de história",
     "en": "The end of a story or film."
    },
    "study_tier": "cedo",
@@ -48670,7 +48329,6 @@
    "study_tier": "pendente",
    "study_priority": 3006,
    "nativeExplain": {
-    "pt-BR": "exercício físico vs exercício escolar",
     "en": "Physical activity you do to improve or maintain your health, strength, or fitness."
    },
    "description": "Physical activity you do to improve or maintain your health, strength, or fitness.",
@@ -49136,7 +48794,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Ways of moving people and goods (buses, trains)."
    },
    "study_tier": "cedo",
@@ -49275,7 +48932,6 @@
    "study_tier": "intermediário",
    "study_priority": 2658,
    "nativeExplain": {
-    "pt-BR": "apelo/atração vs recurso jurídico",
     "en": "The quality of attracting interest."
    },
    "user_hint": "",
@@ -49640,7 +49296,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A person who gives legal advice."
    },
    "study_tier": "cedo",
@@ -49699,7 +49354,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "mais comum",
     "en": "Something done wrong."
    },
    "study_tier": "inicial",
@@ -49768,7 +49422,6 @@
    "study_tier": "cedo",
    "study_priority": 1582,
    "nativeExplain": {
-    "pt-BR": "plataforma de estação",
     "en": "The area beside the tracks at a station where passengers wait and get on or off trains."
    },
    "description": "The area beside the tracks at a station where passengers wait and get on or off trains.",
@@ -49844,7 +49497,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "formal: a respeito de",
     "en": "About (formal)."
    },
    "study_tier": "cedo",
@@ -50053,7 +49705,6 @@
    "study_tier": "cedo",
    "study_priority": 1587,
    "nativeExplain": {
-    "pt-BR": "fumaça",
     "en": "The gray cloud that comes from fire."
    },
    "user_hint": "",
@@ -50203,7 +49854,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "com raiva (geral)",
     "en": "Feeling strong displeasure."
    },
    "study_tier": "inicial",
@@ -50458,7 +50108,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "técnico",
     "en": "Inside."
    },
    "study_tier": "cedo",
@@ -50665,7 +50314,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "abbr",
    "nativeExplain": {
-    "pt-BR": "abreviação",
     "en": "Maximum."
    },
    "study_tier": "cedo",
@@ -50712,7 +50360,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "pacote; mochila",
     "en": "A package; a backpack."
    },
    "study_tier": "cedo",
@@ -50933,7 +50580,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "golpe; greve",
     "en": "To hit."
    },
    "study_tier": "cedo",
@@ -51130,7 +50776,6 @@
    "study_tier": "cedo",
    "study_priority": 1607,
    "nativeExplain": {
-    "pt-BR": "corrente (metal) vs rede de lojas",
     "en": "Metal rings joined together."
    },
    "user_hint": "",
@@ -51316,7 +50961,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "falsificado",
     "en": "Not real."
    },
    "study_tier": "cedo",
@@ -51403,7 +51047,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "jornada longa",
     "en": "Travel from one place to another, especially the time and distance covered on the way."
    },
    "study_tier": "cedo",
@@ -51450,7 +51093,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "conservar em bom estado",
     "en": "To keep in good condition."
    },
    "study_tier": "cedo",
@@ -51756,7 +51398,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "A piece of work to do."
    },
    "study_tier": "cedo",
@@ -51965,7 +51606,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "briga; argumento",
     "en": "An angry disagreement."
    },
    "study_tier": "pendente",
@@ -52386,7 +52026,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "deitar algo (com objeto)",
     "en": "To put something down flat (needs an object): \"lay the book on the table\". Not \"lie\" (to rest flat; to say something false)."
    },
    "study_tier": "pendente",
@@ -52950,7 +52589,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "além disso, também",
     "en": "In addition to someone or something that has already been mentioned."
    },
    "study_tier": "cedo",
@@ -53081,7 +52719,6 @@
    "study_tier": "pendente",
    "study_priority": 3012,
    "nativeExplain": {
-    "pt-BR": "ave doméstica criada para produção de ovos ou carne",
     "en": "A common farm bird kept for eggs or meat."
    },
    "description": "A common farm bird kept for eggs or meat.",
@@ -53255,7 +52892,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "exibição; mostrador",
     "en": "The screen or electronic panel that shows an image, numbers, or other information."
    },
    "study_tier": "cedo",
@@ -53356,7 +52992,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "não verdadeiro",
     "en": "Not true."
    },
    "study_tier": "inicial",
@@ -53430,7 +53065,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "difícil de acreditar",
     "en": "Amazing; hard to believe."
    },
    "study_tier": "inicial",
@@ -53471,7 +53105,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "muito informal",
     "en": "Mom (informal)."
    },
    "study_tier": "temático",
@@ -53834,7 +53467,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "capacidade; visão de futuro",
     "en": "The ability to see."
    },
    "study_tier": "cedo",
@@ -53861,7 +53493,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "preocupado, apreensivo",
     "en": "Uneasy because you think something may go wrong or are concerned about an existing problem."
    },
    "study_tier": "inicial",
@@ -53934,7 +53565,6 @@
    "study_tier": "cedo",
    "study_priority": 1648,
    "nativeExplain": {
-    "pt-BR": "creme (de leite) vs creme (cosmético)",
     "en": "The fatty portion taken from milk and used in cooking or food preparation."
    },
    "description": "The fatty portion taken from milk and used in cooking or food preparation.",
@@ -54144,7 +53774,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "sem importância",
     "en": "Small; not important."
    },
    "study_tier": "cedo",
@@ -54200,7 +53829,6 @@
    "study_tier": "inicial",
    "study_priority": 563,
    "nativeExplain": {
-    "pt-BR": "laranja (fruta) vs laranja (cor)",
     "en": "A round citrus fruit with a thick skin and juicy segments."
    },
    "description": "A round citrus fruit with a thick skin and juicy segments.",
@@ -54296,7 +53924,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "porção servida",
     "en": "A portion of food."
    },
    "study_tier": "cedo",
@@ -54509,7 +54136,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "tipicamente",
     "en": "Usually."
    },
    "study_tier": "cedo",
@@ -54603,7 +54229,6 @@
    "study_tier": "inicial",
    "study_priority": 566,
    "nativeExplain": {
-    "pt-BR": "acenar vs onda (mar)",
     "en": "To move your hand to say hello or goodbye."
    },
    "user_hint": "",
@@ -54719,7 +54344,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "cheio de luz",
     "en": "Full of light."
    },
    "study_tier": "inicial",
@@ -54740,7 +54364,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "competente, faz bem",
     "en": "Able to do something well."
    },
    "study_tier": "cedo",
@@ -54842,7 +54465,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de loja",
     "en": "A person who buys in a shop."
    },
    "study_tier": "inicial",
@@ -55140,7 +54762,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "tamanho médio",
     "en": "In the middle; not big or small."
    },
    "study_tier": "cedo",
@@ -55775,7 +55396,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "principalmente",
     "en": "Mostly."
    },
    "study_tier": "cedo",
@@ -55796,7 +55416,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "en": "The highest amount possible."
    },
    "study_tier": "cedo",
@@ -56034,7 +55653,6 @@
    "study_tier": "pendente",
    "study_priority": 3018,
    "nativeExplain": {
-    "pt-BR": "interruptor (subst.) vs trocar (verbo)",
     "en": "A control that turns a device, light, or electric circuit on or off."
    },
    "description": "A control that turns a device, light, or electric circuit on or off.",
@@ -56771,7 +56389,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "caso (“por exemplo”)",
     "en": "An example (\"for instance\")."
    },
    "study_tier": "cedo",
@@ -56838,7 +56455,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo físico",
     "en": "Movement."
    },
    "study_tier": "cedo",
@@ -56859,7 +56475,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "prêmio de competição",
     "en": "Something given to a winner."
    },
    "study_tier": "cedo",
@@ -56990,7 +56605,6 @@
    "study_tier": "intermediário",
    "study_priority": 2693,
    "nativeExplain": {
-    "pt-BR": "resolução (decisão/propósito) vs resolução (tela)",
     "en": "A firm decision."
    },
    "user_hint": "",
@@ -57252,7 +56866,6 @@
    "study_tier": "cedo",
    "study_priority": 1723,
    "nativeExplain": {
-    "pt-BR": "galho de árvore",
     "en": "A part of a tree that grows outward from the trunk or from a larger branch."
    },
    "description": "A part of a tree that grows outward from the trunk or from a larger branch.",
@@ -57409,7 +57022,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "pessoa convidada",
     "en": "A person invited to someone's home, event, or program."
    },
    "study_tier": "inicial",
@@ -57602,7 +57214,6 @@
    "study_tier": "cedo",
    "study_priority": 1730,
    "nativeExplain": {
-    "pt-BR": "enredo vs terreno/lote",
     "en": "The story of a book or film."
    },
    "user_hint": "",
@@ -57839,7 +57450,6 @@
    "study_tier": "cedo",
    "study_priority": 1738,
    "nativeExplain": {
-    "pt-BR": "frase, unidade gramatical",
     "en": "A grammatical unit that normally makes a complete statement, question, or command."
    },
    "description": "A grammatical unit that normally makes a complete statement, question, or command.",
@@ -57988,7 +57598,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "conseguir, realizar",
     "en": "To succeed in doing something."
    },
    "study_tier": "cedo",
@@ -58090,7 +57699,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "presumir sem provas",
     "en": "To think something is true without proof."
    },
    "study_tier": "cedo",
@@ -58213,7 +57821,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "bater papo; por mensagem",
     "en": "To talk casually and informally with someone."
    },
    "study_tier": "inicial",
@@ -58351,7 +57958,6 @@
    "study_tier": "cedo",
    "study_priority": 1750,
    "nativeExplain": {
-    "pt-BR": "alimentação habitual vs regime para emagrecer",
     "en": "The food you usually eat."
    },
    "user_hint": "",
@@ -58375,7 +57981,6 @@
    "core_status": "retired",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica",
     "en": "British spelling of \"favorite\"."
    },
    "study_tier": "herdado",
@@ -58613,7 +58218,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "normalmente",
     "en": "Usually."
    },
    "study_tier": "cedo",
@@ -58830,7 +58434,6 @@
    "core_status": "retired",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica",
     "en": "British spelling of \"program\"."
    },
    "study_tier": "herdado",
@@ -58969,7 +58572,6 @@
    "study_tier": "cedo",
    "study_priority": 1764,
    "nativeExplain": {
-    "pt-BR": "tanque (recipiente) vs tanque de guerra",
     "en": "A big container for liquid or gas."
    },
    "user_hint": "",
@@ -59162,7 +58764,6 @@
    "study_tier": "cedo",
    "study_priority": 1770,
    "nativeExplain": {
-    "pt-BR": "área externa junto à casa",
     "en": "An outdoor area around a building, especially the ground at the front or back of a house."
    },
    "description": "An outdoor area around a building, especially the ground at the front or back of a house.",
@@ -59536,7 +59137,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "situação de estar empregado",
     "en": "Having a paid job."
    },
    "study_tier": "intermediário",
@@ -59587,7 +59187,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "justificativa para uma falha ou ausência",
     "en": "A reason someone gives for a mistake, an absence, or failing to do something expected."
    },
    "study_tier": "pendente",
@@ -59634,7 +59233,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "mais formal",
     "en": "Often."
    },
    "study_tier": "cedo",
@@ -59896,7 +59494,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "desenho repetido; tendência",
     "en": "A design repeated; a regular way things happen."
    },
    "study_tier": "cedo",
@@ -59983,7 +59580,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "o melhor; primeiro",
     "en": "Best; first in importance."
    },
    "study_tier": "intermediário",
@@ -60006,7 +59602,6 @@
    "study_tier": "pendente",
    "study_priority": 3025,
    "nativeExplain": {
-    "pt-BR": "promover (divulgar) vs promover (cargo)",
     "en": "To advertise."
    },
    "user_hint": "",
@@ -60095,7 +59690,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "achar provável",
     "en": "To think something is probably true."
    },
    "study_tier": "cedo",
@@ -60388,7 +59982,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "genial; muito inteligente",
     "en": "Very clever or very good."
    },
    "study_tier": "cedo",
@@ -60817,7 +60410,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "técnico, formal",
     "en": "Something incorrect, especially in a calculation, record, or technical process."
    },
    "study_tier": "cedo",
@@ -60860,7 +60452,6 @@
    "study_tier": "pendente",
    "study_priority": 3029,
    "nativeExplain": {
-    "pt-BR": "expressão (facial) vs expressão (frase)",
     "en": "A look on someone's face."
    },
    "user_hint": "",
@@ -61031,7 +60622,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "gíria britânica/australiana",
     "en": "A friend (British, Australian)."
    },
    "study_tier": "temático",
@@ -61451,7 +61041,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "com certeza (ênfase)",
     "en": "Certainly."
    },
    "study_tier": "cedo",
@@ -61480,7 +61069,6 @@
    "study_tier": "pendente",
    "study_priority": 3030,
    "nativeExplain": {
-    "pt-BR": "gorjeta vs dica vs ponta",
     "en": "Extra money given to a waiter or other worker for good service."
    },
    "description": "Extra money given to a waiter or other worker for good service.",
@@ -61710,7 +61298,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de um profissional",
     "en": "A person or organization receiving services or advice from a professional."
    },
    "study_tier": "cedo",
@@ -61820,7 +61407,6 @@
    "part_of_speech": "adj",
    "class_real": "adjective",
    "nativeExplain": {
-    "pt-BR": "informal",
     "en": "Stupid (informal, rude)."
    },
    "core_status": "search_only",
@@ -61901,7 +61487,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "intensamente; pesado",
     "en": "A lot; with great weight."
    },
    "study_tier": "cedo",
@@ -62277,7 +61862,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "vista; algo visto",
     "en": "The ability to see; something you see."
    },
    "study_tier": "cedo",
@@ -62373,7 +61957,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "termo geral",
     "en": "Something used to hurt or attack (gun, knife)."
    },
    "core_status": "search_only",
@@ -62509,7 +62092,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma curta, informal",
     "en": "A bicycle."
    },
    "study_tier": "inicial",
@@ -62875,7 +62457,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "que recebeu convite",
     "en": "Asked to come."
    },
    "study_tier": "herdado",
@@ -62943,7 +62524,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "máquina elétrica",
     "en": "A machine that makes something move."
    },
    "study_tier": "cedo",
@@ -62984,7 +62564,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "abbr",
    "nativeExplain": {
-    "pt-BR": "sigla",
     "en": "A personal computer."
    },
    "study_tier": "cedo",
@@ -63026,7 +62605,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "parte",
     "en": "A part or serving."
    },
    "study_tier": "cedo",
@@ -63058,7 +62636,6 @@
    "study_tier": "cedo",
    "study_priority": 3183,
    "nativeExplain": {
-    "pt-BR": "libras (dinheiro) vs libras (peso)",
     "en": "The plural of pound (money or weight)."
    },
    "user_hint": "",
@@ -63158,7 +62735,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "reagir, responder",
     "en": "To answer or react."
    },
    "study_tier": "cedo",
@@ -63367,7 +62943,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "definitivo, supremo",
     "en": "Final; the best."
    },
    "study_tier": "cedo",
@@ -63926,7 +63501,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de parede/quadro",
     "en": "A colored liquid for walls or pictures."
    },
    "study_tier": "pendente",
@@ -64008,7 +63582,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "de escola",
     "en": "The head of a school."
    },
    "study_tier": "cedo",
@@ -64364,7 +63937,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "estatura de pessoas/coisas",
     "en": "High; of more than normal height."
    },
    "study_tier": "inicial",
@@ -64395,7 +63967,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "espaço para espetáculos",
     "en": "A building or room arranged for people to watch live performances."
    },
    "study_tier": "herdado",
@@ -64477,7 +64048,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "propósito; mirar",
     "en": "A goal; pointing at a target."
    },
    "study_tier": "cedo",
@@ -64699,7 +64269,6 @@
    "core_status": "retired",
    "vcu14_status": "regional-variant-en-GB",
    "nativeExplain": {
-    "pt-BR": "grafia britânica",
     "en": "British spelling of \"defense\"."
    },
    "study_tier": "herdado",
@@ -64849,7 +64418,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "valor cobrado",
     "en": "Money paid for a service."
    },
    "study_tier": "cedo",
@@ -64897,7 +64465,6 @@
    "study_tier": "pendente",
    "study_priority": 3035,
    "nativeExplain": {
-    "pt-BR": "mecanismo de trancar",
     "en": "A device that secures a door, lid or similar object until opened with a key, code or other control."
    },
    "description": "A device that secures a door, lid or similar object until opened with a key, code or other control.",
@@ -64962,7 +64529,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "ser contrário a",
     "en": "Against something."
    },
    "study_tier": "cedo",
@@ -65225,7 +64791,6 @@
    "study_tier": "inicial",
    "study_priority": 631,
    "nativeExplain": {
-    "pt-BR": "gravata",
     "en": "A narrow strip of cloth tied around the neck and worn with a shirt."
    },
    "description": "A narrow strip of cloth tied around the neck and worn with a shirt.",
@@ -65504,7 +65069,6 @@
    "study_tier": "cedo",
    "study_priority": 1903,
    "nativeExplain": {
-    "pt-BR": "convenção (evento) vs convenção (costume)",
     "en": "A large meeting of people with a shared interest."
    },
    "user_hint": "",
@@ -65672,7 +65236,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adv",
    "nativeExplain": {
-    "pt-BR": "razoavelmente; de modo justo",
     "en": "Quite; to some degree."
    },
    "study_tier": "cedo",
@@ -65846,7 +65409,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "de dentro, íntimo",
     "en": "Inside."
    },
    "study_tier": "cedo",
@@ -65987,7 +65549,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "a vizinhança onde se mora",
     "en": "The area around where people live, often part of a larger town or city."
    },
    "study_tier": "cedo",
@@ -66058,7 +65619,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "adj",
    "nativeExplain": {
-    "pt-BR": "que se destaca",
     "en": "Excellent."
    },
    "study_tier": "cedo",
@@ -66159,7 +65719,6 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "v",
    "nativeExplain": {
-    "pt-BR": "responder (mensagem)",
     "en": "To answer."
    },
    "study_tier": "cedo",
@@ -66712,8 +66271,7 @@
    "part_of_speech": "n",
    "lexical_type": "lemma",
    "nativeExplain": {
-    "en": "an informal word for a man",
-    "pt-BR": "homem, em linguagem informal"
+    "en": "an informal word for a man"
    },
    "study_tier": "temático",
    "study_priority": 3595,
@@ -66785,8 +66343,7 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "exp",
    "nativeExplain": {
-    "en": "a wish before a performance",
-    "pt-BR": "voto de sorte antes de uma apresentação"
+    "en": "a wish before a performance"
    },
    "study_tier": "temático",
    "study_priority": 3387,
@@ -66982,8 +66539,7 @@
    "part_of_speech": "n",
    "lexical_type": "lemma",
    "nativeExplain": {
-    "en": "a cup of tea",
-    "pt-BR": "uma xícara de chá"
+    "en": "a cup of tea"
    },
    "study_tier": "temático",
    "study_priority": 3591,
@@ -68473,7 +68029,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sozinho (é deles)",
     "en": "Belonging to them."
    },
    "study_tier": "cedo",
@@ -68501,7 +68056,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "posse de quem ouve, sem repetir o substantivo",
     "en": "Used in place of a noun to say that something belongs to the person or people being addressed."
    },
    "study_tier": "cedo",
@@ -68530,7 +68084,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "en": "A two-wheeled vehicle with pedals."
    },
    "study_tier": "inicial",
@@ -68644,7 +68197,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "encomenda pelo correio",
     "en": "A box or parcel sent by mail."
    },
    "study_tier": "cedo",
@@ -68757,7 +68309,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sozinho (é nosso)",
     "en": "Belonging to us."
    },
    "study_tier": "cedo",
@@ -68811,7 +68362,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "entre fileiras (avião, mercado)",
     "en": "A path between rows of seats or shelves."
    },
    "study_tier": "cedo",
@@ -69058,7 +68608,6 @@
    "study_tier": "pendente",
    "study_priority": 3038,
    "nativeExplain": {
-    "pt-BR": "gola vs coleira (animal)",
     "en": "The part of a shirt that goes around the neck."
    },
    "description": "The part of a shirt that goes around the neck.",
@@ -69396,7 +68945,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "dentro de um edifício",
     "en": "A passage inside a building."
    },
    "study_tier": "cedo",
@@ -69451,7 +68999,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "de caneta/impressora",
     "en": "Colored liquid for pens and printers."
    },
    "study_tier": "cedo",
@@ -69746,7 +69293,6 @@
    "study_tier": "pendente",
    "study_priority": 3039,
    "nativeExplain": {
-    "pt-BR": "colar (copiar e colar) vs pasta (substância)",
     "en": "To put copied text into a place (copy and paste)."
    },
    "description": "To put copied text into a place (copy and paste).",
@@ -69803,7 +69349,6 @@
    "part_of_speech": "n",
    "class_real": "noun",
    "nativeExplain": {
-    "pt-BR": "termo britânico",
     "en": "British: the path beside a road for walking."
    },
    "study_tier": "cedo",
@@ -70352,7 +69897,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "pron",
    "nativeExplain": {
-    "pt-BR": "sozinho (é dela)",
     "en": "Belonging to her."
    },
    "study_tier": "inicial",
@@ -70403,7 +69947,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "subtração (−)",
     "en": "Less; the sign (−)."
    },
    "study_tier": "cedo",
@@ -70481,7 +70024,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "prep",
    "nativeExplain": {
-    "pt-BR": "bem por baixo",
     "en": "Under."
    },
    "study_tier": "cedo",
@@ -70507,7 +70049,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "conj",
    "nativeExplain": {
-    "pt-BR": "contraste: ao passo que",
     "en": "While; on the other hand."
    },
    "study_tier": "intermediário",
@@ -70534,7 +70075,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "forma completa",
     "en": "A vehicle with wings that flies."
    },
    "study_tier": "inicial",
@@ -70750,7 +70290,6 @@
    "vcu14_status": "provisional-editorial",
    "part_of_speech": "n",
    "nativeExplain": {
-    "pt-BR": "trabalho escolar",
     "en": "A piece of work given to a student."
    },
    "study_tier": "cedo",
@@ -71381,7 +70920,6 @@
    "study_tier": "pendente",
    "study_priority": 2952,
    "nativeExplain": {
-    "pt-BR": "demais idiomas apontam \"desafiador/difícil\"",
     "en": "Hard to do in a way that tests your ability."
    },
    "part_of_speech": "adj",
@@ -75431,7 +74969,6 @@
    "study_tier": "cedo",
    "study_priority": 1994,
    "nativeExplain": {
-    "pt-BR": "língua (órgão)",
     "en": "The soft part inside the mouth used for tasting and speaking."
    },
    "part_of_speech": "n",
@@ -77790,7 +77327,6 @@
    "study_tier": "pendente",
    "study_priority": 3040,
    "nativeExplain": {
-    "pt-BR": "fazer as pazes",
     "en": "To become friends again after an argument."
    },
    "part_of_speech": "v",
@@ -83347,7 +82883,6 @@
    "study_tier": "pendente",
    "study_priority": 3041,
    "nativeExplain": {
-    "pt-BR": "casca (ovo/noz) vs concha (marinha)",
     "en": "The hard outer covering of an egg or nut."
    },
    "part_of_speech": "n",
@@ -85021,7 +84556,6 @@
    "study_tier": "intermediário",
    "study_priority": 2805,
    "nativeExplain": {
-    "pt-BR": "fusão (nuclear/de empresas) vs derretimento",
     "en": "The joining of things into one."
    },
    "part_of_speech": "n",
@@ -87052,7 +86586,6 @@
    "study_tier": "pendente",
    "study_priority": 3042,
    "nativeExplain": {
-    "pt-BR": "polo (geografia) vs poste/vara",
     "en": "The northern or southern end of the earth's axis."
    },
    "part_of_speech": "n",
@@ -88611,7 +88144,6 @@
    "study_tier": "pendente",
    "study_priority": 3044,
    "nativeExplain": {
-    "pt-BR": "porca (parafuso) vs noz (fruto)",
     "en": "A small metal piece screwed onto a bolt."
    },
    "part_of_speech": "n",
@@ -88634,7 +88166,6 @@
    "study_tier": "pendente",
    "study_priority": 3045,
    "nativeExplain": {
-    "pt-BR": "prego vs unha",
     "en": "A thin pointed metal piece hit with a hammer."
    },
    "part_of_speech": "n",
@@ -89897,7 +89428,6 @@
    "study_tier": "pendente",
    "study_priority": 3046,
    "nativeExplain": {
-    "pt-BR": "casca de árvore vs latir",
     "en": "The outer covering of a tree."
    },
    "part_of_speech": "n",
