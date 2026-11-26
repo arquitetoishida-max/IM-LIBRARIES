@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.5.5",
+ "version": "2.5.6",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -44,7 +44,8 @@
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
-  "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)"
+  "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
+  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -61987,28 +61988,6 @@
    "study_priority": 3601,
    "user_hint": "",
    "description": "British slang: a lot of; very.",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "retired"
-  },
-  {
-   "id": "en:000003059",
-   "english_id": "en:000003059",
-   "text": "bloke",
-   "kind": "expression",
-   "description_en": "A man, in informal British and Australian English.",
-   "level": "B2",
-   "region_tags": [
-    "GB",
-    "AU"
-   ],
-   "source_status": "retired_to_en_GB",
-   "part_of_speech": "n",
-   "lexical_type": "lemma",
-   "study_tier": "temático",
-   "study_priority": 3595,
-   "user_hint": "",
-   "description": "A man, in informal British and Australian English.",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "retired"

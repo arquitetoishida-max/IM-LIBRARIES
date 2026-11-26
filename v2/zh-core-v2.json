@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.5.5",
+ "version": "2.5.6",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -44,7 +44,8 @@
   "2.5.2: exceções respondidas (títulos, identidade, describe, retirement, well-being, feira, swear, expressões unidirecionais).",
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
-  "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)"
+  "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
+  "2.5.6 (2026-11-26): \"cara\" corrigido (rosto, expressão e lado da moeda ligados; homem informal num ID só; bloke fora do núcleo en-US)."
  ],
  "entries": [
   {
@@ -71844,38 +71845,6 @@
    "study_priority": 3601,
    "user_hint": "",
    "description": "英国俚语：很多；非常。",
-   "novrev_status": "reviewed",
-   "antonyms": [],
-   "core_status": "retired"
-  },
-  {
-   "id": "zh:en:000003059",
-   "english_id": "en:000003059",
-   "english_sense_id": null,
-   "kind": "expression",
-   "description_en": "British slang: a man.",
-   "level": "B2",
-   "part_of_speech": "exp",
-   "source_status": "editorial-reviewed",
-   "translation_confidence": "editorial-reviewed",
-   "text": "家伙",
-   "alternatives": [
-    "男的"
-   ],
-   "reading": "jiāhuo",
-   "romanization": "jiāhuo",
-   "classifications": [
-    {
-     "system": "HSK",
-     "level": "7-9",
-     "status": "reference",
-     "source": "complete-hsk-vocabulary (MIT), HSK 3.0"
-    }
-   ],
-   "study_tier": "temático",
-   "study_priority": 3595,
-   "user_hint": "",
-   "description": "男人（英国、澳大利亚口语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
    "core_status": "retired"
