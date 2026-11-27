@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.6.0",
+ "version": "2.6.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -45,7 +45,8 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522) ; pt-BR: campo `articles` (artigo singular,plural) em 2.073 substantivos (LEXICON #90)",
-  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
+  "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto."
  ],
  "entries": [
   {
@@ -1729,7 +1730,9 @@
    "alternatives": [
     "sua",
     "dele",
-    "dela"
+    "dela",
+    "disso",
+    "daquilo"
    ],
    "study_tier": "expansão estruturante",
    "study_priority": 944,
@@ -7803,7 +7806,8 @@
    "translation_confidence": "editorial-reviewed",
    "text": "atrás",
    "alternatives": [
-    "há (tempo)"
+    "há (tempo)",
+    "antes"
    ],
    "study_tier": "inicial",
    "study_priority": 93,
@@ -8041,7 +8045,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "mente",
-   "alternatives": [],
+   "alternatives": [
+    "coração",
+    "espírito"
+   ],
    "study_tier": "cedo",
    "study_priority": 1019,
    "description": "Conjunto das capacidades de pensar, lembrar e prestar atenção. Também se refere à atividade interior do pensamento.",
@@ -11307,8 +11314,7 @@
    "text": "encontrar-se",
    "alternatives": [
     "encontrar alguém",
-    "conhecer",
-    "encontrar"
+    "conhecer"
    ],
    "study_tier": "inicial",
    "study_priority": 149,
@@ -18225,7 +18231,8 @@
    "text": "escutar",
    "alternatives": [
     "ouvir",
-    "dar ouvidos"
+    "dar ouvidos",
+    "perguntar"
    ],
    "study_tier": "fala cotidiana inicial",
    "study_priority": 292,
@@ -38485,7 +38492,7 @@
    "core_status": "search_only",
    "inflection_of": "en:000003239",
    "inflection_key": "PL",
-   "articles": "os,os"
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000002143",
@@ -38545,7 +38552,10 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "ensinar",
-   "alternatives": [],
+   "alternatives": [
+    "informar",
+    "mostrar"
+   ],
    "study_tier": "inicial",
    "study_priority": 527,
    "description": "Transmitir conhecimento ou habilidade, dando aulas ou mostrando como fazer algo. Também pode significar dar uma orientação ou levar alguém a aprender com a experiência.",
@@ -45266,7 +45276,10 @@
    "text": "no fim",
    "alternatives": [
     "finalmente",
-    "em última análise"
+    "em última análise",
+    "no fim das contas",
+    "em resumo",
+    "depois de tudo"
    ],
    "study_tier": "cedo",
    "study_priority": 1766,
@@ -45337,7 +45350,9 @@
    ],
    "vcu14_status": "provisional-editorial",
    "text": "quintal",
-   "alternatives": [],
+   "alternatives": [
+    "jardim"
+   ],
    "study_tier": "cedo",
    "study_priority": 1769,
    "description": "Área aberta junto à casa, geralmente nos fundos. Pode ter piso, terra ou jardim.",
@@ -48807,14 +48822,15 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "breve",
+   "text": "curto",
    "alternatives": [
-    "curto"
+    "breve",
+    "de pouca duração"
    ],
    "study_tier": "cedo",
    "study_priority": 1863,
    "user_hint": "",
-   "description": "De curta duração ou dito em poucas palavras.",
+   "description": "De pouca duração ou extensão: “uma pausa curta”, “um caminho curto”.",
    "novrev_status": "reviewed",
    "antonyms": []
   },
@@ -76503,7 +76519,7 @@
    "id": "pt-BR:en:000004240",
    "english_id": "en:000004240",
    "english_sense_id": null,
-   "text": "banheiro",
+   "text": "toalete",
    "kind": "word",
    "description_en": "A room with a toilet, especially one people use in a public place.",
    "level": "A2",
@@ -76516,7 +76532,8 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [
-    "toalete"
+    "banheiro",
+    "lavabo"
    ],
    "articles": "o,os"
   },
@@ -81768,7 +81785,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "weather_emotion_time"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004521",
@@ -81792,7 +81810,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "weather_emotion_time"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004522",
@@ -81844,7 +81863,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004524",
@@ -81868,7 +81888,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004525",
@@ -81894,7 +81915,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004526",
@@ -81918,7 +81940,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004527",
@@ -81944,7 +81967,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004528",
@@ -82098,7 +82122,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004534",
@@ -82122,7 +82147,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "places"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004535",
@@ -82146,7 +82172,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004536",
@@ -82172,7 +82199,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004537",
@@ -82198,7 +82226,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "technology_common"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004538",
@@ -82224,7 +82253,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "quantities"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004539",
@@ -82324,7 +82354,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004543",
@@ -82350,7 +82381,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004544",
@@ -82376,7 +82408,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004545",
@@ -82400,7 +82433,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004546",
@@ -82424,7 +82458,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004547",
@@ -82448,7 +82483,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "os,os"
   },
   {
    "id": "pt-BR:en:000004548",
@@ -82472,7 +82508,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004549",
@@ -82496,7 +82533,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004550",
@@ -82520,7 +82558,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004551",
@@ -82544,7 +82583,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004552",
@@ -82568,7 +82608,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004553",
@@ -82592,7 +82633,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004554",
@@ -82616,7 +82658,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004555",
@@ -82642,7 +82685,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004556",
@@ -82666,7 +82710,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004557",
@@ -82690,7 +82735,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004558",
@@ -82714,7 +82760,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004559",
@@ -82738,7 +82785,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004560",
@@ -82762,7 +82810,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004561",
@@ -82788,7 +82837,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004562",
@@ -82812,7 +82862,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004563",
@@ -82836,7 +82887,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004564",
@@ -82862,7 +82914,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004565",
@@ -82886,7 +82939,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "home"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004566",
@@ -82910,7 +82964,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004567",
@@ -82936,7 +82991,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004568",
@@ -82960,7 +83016,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004569",
@@ -82984,7 +83041,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004570",
@@ -83008,7 +83066,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004571",
@@ -83032,7 +83091,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004572",
@@ -83056,7 +83116,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004573",
@@ -83080,7 +83141,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004574",
@@ -83104,7 +83166,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004575",
@@ -83128,7 +83191,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004576",
@@ -83152,7 +83216,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004577",
@@ -83176,7 +83241,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food_market"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004578",
@@ -83202,7 +83268,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004579",
@@ -83228,7 +83295,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004580",
@@ -83255,7 +83323,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004581",
@@ -83279,7 +83348,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004582",
@@ -83303,7 +83373,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004583",
@@ -83329,7 +83400,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004584",
@@ -83353,7 +83425,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004585",
@@ -83377,7 +83450,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004586",
@@ -83401,7 +83475,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004587",
@@ -83425,7 +83500,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004588",
@@ -83449,7 +83525,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004589",
@@ -83475,7 +83552,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004590",
@@ -83499,7 +83577,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004591",
@@ -83523,7 +83602,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004592",
@@ -83547,7 +83627,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004593",
@@ -83573,7 +83654,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004594",
@@ -83597,7 +83679,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004595",
@@ -83621,7 +83704,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004596",
@@ -83647,7 +83731,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004597",
@@ -83671,7 +83756,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004598",
@@ -83695,7 +83781,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004599",
@@ -83721,7 +83808,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004600",
@@ -83745,7 +83833,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004601",
@@ -83769,7 +83858,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004602",
@@ -83795,7 +83885,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004603",
@@ -83819,7 +83910,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004604",
@@ -83845,7 +83937,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004605",
@@ -83869,7 +83962,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004606",
@@ -83895,7 +83989,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004607",
@@ -83921,7 +84016,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004608",
@@ -83947,7 +84043,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004609",
@@ -83973,7 +84070,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "weather_emotion_time"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004610",
@@ -83999,7 +84097,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "o/a,os/as"
   },
   {
    "id": "pt-BR:en:000004611",
@@ -84026,7 +84125,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004612",
@@ -84052,7 +84152,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004613",
@@ -84076,7 +84177,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004614",
@@ -84100,7 +84202,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "technology_common"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004615",
@@ -84403,7 +84506,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "weather_emotion_time"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004627",
@@ -84427,7 +84531,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "weather_emotion_time"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004628",
@@ -84656,7 +84761,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "places"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004637",
@@ -84682,7 +84788,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004638",
@@ -84708,7 +84815,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "school_learning"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004639",
@@ -84758,7 +84866,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "feelings"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004641",
@@ -84785,7 +84894,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "leisure"
-   ]
+   ],
+   "articles": "o,os"
   },
   {
    "id": "pt-BR:en:000004642",
@@ -84835,7 +84945,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "body_health"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004644",
@@ -84859,7 +84970,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "shopping"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004645",
@@ -84885,7 +84997,8 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "leisure"
-   ]
+   ],
+   "articles": "a,as"
   },
   {
    "id": "pt-BR:en:000004646",
@@ -84965,6 +85078,1371 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "routine"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004649",
+   "english_id": "en:000004649",
+   "kind": "word",
+   "description_en": "The people you are talking to, more than one: \"are you all ready?\".",
+   "level": "A1",
+   "part_of_speech": "pron",
+   "source_status": "editorial-reviewed",
+   "text": "vocês",
+   "alternatives": [
+    "os senhores",
+    "as senhoras"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4095,
+   "user_hint": "",
+   "description": "As pessoas com quem se fala, mais de uma: “vocês vêm?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1201,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004650",
+   "english_id": "en:000004650",
+   "kind": "word",
+   "description_en": "A thing far from both the speaker and the listener: \"what is that over there?\".",
+   "level": "A1",
+   "part_of_speech": "pron",
+   "source_status": "editorial-reviewed",
+   "text": "aquilo",
+   "alternatives": [
+    "aquela coisa"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4096,
+   "user_hint": "",
+   "description": "Coisa longe de quem fala e de quem ouve: “o que é aquilo?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1202,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004651",
+   "english_id": "en:000004651",
+   "kind": "word",
+   "description_en": "A small shop open long hours that sells food and everyday items.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "loja de conveniência",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4097,
+   "user_hint": "",
+   "description": "Pequena loja aberta por muitas horas, que vende comida e itens do dia a dia.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1203,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004652",
+   "english_id": "en:000004652",
+   "kind": "word",
+   "description_en": "A large number of people: \"many people came\".",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "muita gente",
+   "alternatives": [
+    "muitas pessoas",
+    "multidão"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4098,
+   "user_hint": "",
+   "description": "Grande número de pessoas: “veio muita gente”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1204,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004653",
+   "english_id": "en:000004653",
+   "kind": "word",
+   "description_en": "Used to move on or to end a conversation: \"well then, let's go\".",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "então",
+   "alternatives": [
+    "bom, então",
+    "bem"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4099,
+   "user_hint": "",
+   "description": "Usado para passar ao próximo assunto ou encerrar: “então, vamos”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1205,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004654",
+   "english_id": "en:000004654",
+   "kind": "word",
+   "description_en": "A person from Japan.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "japonês",
+   "alternatives": [
+    "japonesa"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4100,
+   "user_hint": "",
+   "description": "Pessoa do Japão: “ele é japonês”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1206,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004655",
+   "english_id": "en:000004655",
+   "kind": "word",
+   "description_en": "A person from Brazil.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "brasileiro",
+   "alternatives": [
+    "brasileira"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4101,
+   "user_hint": "",
+   "description": "Pessoa do Brasil: “ela é brasileira”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1207,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004656",
+   "english_id": "en:000004656",
+   "kind": "word",
+   "description_en": "A person from Vietnam.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "vietnamita",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4102,
+   "user_hint": "",
+   "description": "Pessoa do Vietnã: “meu colega é vietnamita”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1208,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ],
+   "articles": "o/a,os/as"
+  },
+  {
+   "id": "pt-BR:en:000004657",
+   "english_id": "en:000004657",
+   "kind": "word",
+   "description_en": "A greeting used in the evening.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "boa noite",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4103,
+   "user_hint": "",
+   "description": "Cumprimento usado à noite, ao chegar: “boa noite, tudo bem?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1209,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004658",
+   "english_id": "en:000004658",
+   "kind": "word",
+   "description_en": "Said when meeting someone for the first time.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "muito prazer",
+   "alternatives": [
+    "prazer em conhecer"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4104,
+   "user_hint": "",
+   "description": "Dito ao conhecer alguém: “muito prazer, sou o Gabriel”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1210,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004659",
+   "english_id": "en:000004659",
+   "kind": "word",
+   "description_en": "Polite phrase said when meeting someone or asking for a favor.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "conto com você",
+   "alternatives": [
+    "muito prazer",
+    "por favor"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4105,
+   "user_hint": "",
+   "description": "Frase educada ao conhecer alguém ou pedir algo: “conto com você”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1211,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004660",
+   "english_id": "en:000004660",
+   "kind": "word",
+   "description_en": "Said when saying goodbye until the next day.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "até amanhã",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4106,
+   "user_hint": "",
+   "description": "Despedida até o dia seguinte: “até amanhã!”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1212,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004661",
+   "english_id": "en:000004661",
+   "kind": "word",
+   "description_en": "In the middle of going somewhere or doing something.",
+   "level": "A2",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "no caminho",
+   "alternatives": [
+    "a meio caminho"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4107,
+   "user_hint": "",
+   "description": "Durante o trajeto ou no meio de algo: “parei no caminho”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1213,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004662",
+   "english_id": "en:000004662",
+   "kind": "word",
+   "description_en": "The coming Saturday and Sunday.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "este fim de semana",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4108,
+   "user_hint": "",
+   "description": "O sábado e o domingo desta semana.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1214,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004663",
+   "english_id": "en:000004663",
+   "kind": "word",
+   "description_en": "A building where works of art are shown.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "museu de arte",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4109,
+   "user_hint": "",
+   "description": "Lugar onde se expõem obras de arte.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1215,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004664",
+   "english_id": "en:000004664",
+   "kind": "word",
+   "description_en": "Visiting interesting places as a tourist.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "turismo",
+   "alternatives": [
+    "passeio turístico"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4110,
+   "user_hint": "",
+   "description": "Visitar lugares interessantes como turista: “fazer turismo em Kyoto”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1216,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004665",
+   "english_id": "en:000004665",
+   "kind": "word",
+   "description_en": "A style of cooking or the dishes of a place.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "culinária",
+   "alternatives": [
+    "cozinha",
+    "comida"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4111,
+   "user_hint": "",
+   "description": "Modo de cozinhar ou os pratos de um lugar: “culinária francesa”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1217,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004666",
+   "english_id": "en:000004666",
+   "kind": "word",
+   "description_en": "Food and dishes from France.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "culinária francesa",
+   "alternatives": [
+    "comida francesa"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4112,
+   "user_hint": "",
+   "description": "Comida e pratos típicos da França.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1218,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004667",
+   "english_id": "en:000004667",
+   "kind": "word",
+   "description_en": "Rice topped with thinly sliced beef and onion (gyudon).",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "gyudon",
+   "alternatives": [
+    "tigela de arroz com carne"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4113,
+   "user_hint": "",
+   "description": "Prato japonês: arroz coberto com carne bovina fatiada e cebola.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1219,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004668",
+   "english_id": "en:000004668",
+   "kind": "word",
+   "description_en": "The hours before noon.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "manhã",
+   "alternatives": [
+    "da manhã",
+    "antes do meio-dia"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4114,
+   "user_hint": "",
+   "description": "As horas antes do meio-dia: “às 9 da manhã”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1220,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004669",
+   "english_id": "en:000004669",
+   "kind": "word",
+   "description_en": "The final station of a train or bus line.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "ponto final",
+   "alternatives": [
+    "estação final"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4115,
+   "user_hint": "",
+   "description": "Última estação de uma linha de trem ou ônibus.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1221,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004670",
+   "english_id": "en:000004670",
+   "kind": "word",
+   "description_en": "The floor of a building below ground level.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "subsolo",
+   "alternatives": [
+    "porão"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4116,
+   "user_hint": "",
+   "description": "Andar de um prédio abaixo do nível da rua.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1222,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004671",
+   "english_id": "en:000004671",
+   "kind": "word",
+   "description_en": "Right after the present moment.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "depois disso",
+   "alternatives": [
+    "em seguida",
+    "daqui a pouco"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4117,
+   "user_hint": "",
+   "description": "Logo depois deste momento: “depois disso vamos comer”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1223,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004672",
+   "english_id": "en:000004672",
+   "kind": "word",
+   "description_en": "Sound made while thinking of what to say.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "é...",
+   "alternatives": [
+    "hum",
+    "deixa eu ver"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4118,
+   "user_hint": "",
+   "description": "Usado enquanto se pensa no que dizer: “é... não sei”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1224,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004673",
+   "english_id": "en:000004673",
+   "kind": "word",
+   "description_en": "Used with a negative: not much, not very.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "não muito",
+   "alternatives": [
+    "pouco"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4119,
+   "user_hint": "",
+   "description": "Usado com negação: “não gosto muito”, “não é muito caro”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1225,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004674",
+   "english_id": "en:000004674",
+   "kind": "word",
+   "description_en": "Asks for a number of things; also age.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "quantos",
+   "alternatives": [
+    "quantas"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4120,
+   "user_hint": "",
+   "description": "Pergunta a quantidade: “quantos você quer?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1226,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004675",
+   "english_id": "en:000004675",
+   "kind": "word",
+   "description_en": "Asks about an amount of time or quantity.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "quanto tempo",
+   "alternatives": [
+    "quanto"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4121,
+   "user_hint": "",
+   "description": "Pergunta duração ou quantidade: “quanto tempo leva?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1227,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004676",
+   "english_id": "en:000004676",
+   "kind": "word",
+   "description_en": "Asks about the type or nature of something.",
+   "level": "A1",
+   "part_of_speech": "det",
+   "source_status": "editorial-reviewed",
+   "text": "que tipo de",
+   "alternatives": [
+    "qual"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4122,
+   "user_hint": "",
+   "description": "Pergunta o tipo ou a natureza: “que tipo de música você gosta?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1228,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004677",
+   "english_id": "en:000004677",
+   "kind": "word",
+   "description_en": "A place far from both the speaker and the listener.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "lá",
+   "alternatives": [
+    "ali",
+    "acolá"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4123,
+   "user_hint": "",
+   "description": "Lugar longe de quem fala e de quem ouve: “o banheiro é lá”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1229,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004678",
+   "english_id": "en:000004678",
+   "kind": "word",
+   "description_en": "Asks about state or opinion: \"how is it?\", \"how about...?\".",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "como",
+   "alternatives": [
+    "que tal"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4124,
+   "user_hint": "",
+   "description": "Pergunta estado ou opinião: “como está?”, “que tal um café?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1230,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004679",
+   "english_id": "en:000004679",
+   "kind": "word",
+   "description_en": "Asks the hour.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "que horas",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4125,
+   "user_hint": "",
+   "description": "Pergunta a hora: “que horas são?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1231,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004680",
+   "english_id": "en:000004680",
+   "kind": "word",
+   "description_en": "Counter for hours on the clock: \"four o'clock\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "horas (no relógio)",
+   "alternatives": [
+    "hora"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4126,
+   "user_hint": "",
+   "description": "Indica a hora do relógio: “às quatro horas”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1232,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004681",
+   "english_id": "en:000004681",
+   "kind": "word",
+   "description_en": "Counter for age: \"twenty years old\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "anos (de idade)",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4127,
+   "user_hint": "",
+   "description": "Indica a idade: “tenho vinte anos”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1233,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004682",
+   "english_id": "en:000004682",
+   "kind": "word",
+   "description_en": "Asks someone's age.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "quantos anos",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4128,
+   "user_hint": "",
+   "description": "Pergunta a idade: “quantos anos você tem?”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1234,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004683",
+   "english_id": "en:000004683",
+   "kind": "word",
+   "description_en": "Counter for school years: \"third-year student\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "ano (série escolar)",
+   "alternatives": [
+    "aluno do primeiro ano"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4129,
+   "user_hint": "",
+   "description": "Ano escolar do aluno: “aluno do terceiro ano”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1235,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school"
+   ],
+   "articles": "o,os"
+  },
+  {
+   "id": "pt-BR:en:000004684",
+   "english_id": "en:000004684",
+   "kind": "word",
+   "description_en": "Two persons.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "duas pessoas",
+   "alternatives": [
+    "dois"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4130,
+   "user_hint": "",
+   "description": "Duas pessoas: “uma mesa para duas pessoas”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1236,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004685",
+   "english_id": "en:000004685",
+   "kind": "word",
+   "description_en": "A single person.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "uma pessoa",
+   "alternatives": [
+    "sozinho"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4131,
+   "user_hint": "",
+   "description": "Uma pessoa só: “uma pessoa por vez”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1237,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004686",
+   "english_id": "en:000004686",
+   "kind": "word",
+   "description_en": "A long running race of about 42 km.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "maratona",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4132,
+   "user_hint": "",
+   "description": "Corrida longa de cerca de 42 km.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1238,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "sports"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004687",
+   "english_id": "en:000004687",
+   "kind": "word",
+   "description_en": "To pour water over yourself: \"take a shower\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "tomar (banho)",
+   "alternatives": [
+    "banhar-se"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4133,
+   "user_hint": "",
+   "description": "Receber água no corpo: “tomar banho de chuveiro”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1239,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004688",
+   "english_id": "en:000004688",
+   "kind": "word",
+   "description_en": "A store where most items cost 100 yen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "loja de 100 ienes",
+   "alternatives": [
+    "loja de 1,99"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4134,
+   "user_hint": "",
+   "description": "Loja em que quase tudo custa 100 ienes.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1240,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004689",
+   "english_id": "en:000004689",
+   "kind": "word",
+   "description_en": "A snack bar with a lot of protein.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "barra de proteína",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4135,
+   "user_hint": "",
+   "description": "Barrinha com muita proteína.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1241,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004690",
+   "english_id": "en:000004690",
+   "kind": "word",
+   "description_en": "A banana dipped in chocolate, a festival snack.",
+   "level": "B1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "banana com chocolate",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4136,
+   "user_hint": "",
+   "description": "Banana coberta de chocolate, doce de festa japonesa.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1242,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004691",
+   "english_id": "en:000004691",
+   "kind": "word",
+   "description_en": "A restaurant that sells pizza.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pizzaria",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4137,
+   "user_hint": "",
+   "description": "Restaurante que vende pizza.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1243,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004692",
+   "english_id": "en:000004692",
+   "kind": "word",
+   "description_en": "A restaurant that serves ramen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "casa de lámen",
+   "alternatives": [
+    "lamenteria"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4138,
+   "user_hint": "",
+   "description": "Restaurante que serve lámen.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1244,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004693",
+   "english_id": "en:000004693",
+   "kind": "word",
+   "description_en": "A song from an anime series.",
+   "level": "B1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "música de anime",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4139,
+   "user_hint": "",
+   "description": "Música de abertura ou de um anime.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1245,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ],
+   "articles": "a,as"
+  },
+  {
+   "id": "pt-BR:en:000004694",
+   "english_id": "en:000004694",
+   "kind": "word",
+   "description_en": "A busy district in Tokyo.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Shibuya",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4140,
+   "user_hint": "",
+   "description": "Bairro movimentado de Tóquio.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1246,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004695",
+   "english_id": "en:000004695",
+   "kind": "word",
+   "description_en": "A Tokyo district known for electronics and anime.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Akihabara",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4141,
+   "user_hint": "",
+   "description": "Bairro de Tóquio conhecido por eletrônicos e anime.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1247,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004696",
+   "english_id": "en:000004696",
+   "kind": "word",
+   "description_en": "A Tokyo district known for youth fashion.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Harajuku",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4142,
+   "user_hint": "",
+   "description": "Bairro de Tóquio conhecido pela moda jovem.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1248,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004697",
+   "english_id": "en:000004697",
+   "kind": "word",
+   "description_en": "An old Tokyo district with a famous temple.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Asakusa",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4143,
+   "user_hint": "",
+   "description": "Bairro antigo de Tóquio com um templo famoso.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1249,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004698",
+   "english_id": "en:000004698",
+   "kind": "word",
+   "description_en": "A large park in Tokyo with museums and a zoo.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Parque Ueno",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4144,
+   "user_hint": "",
+   "description": "Grande parque de Tóquio, com museus e zoológico.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1250,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004699",
+   "english_id": "en:000004699",
+   "kind": "word",
+   "description_en": "The capital of South Korea.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Seul",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4145,
+   "user_hint": "",
+   "description": "Capital da Coreia do Sul.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1251,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004700",
+   "english_id": "en:000004700",
+   "kind": "word",
+   "description_en": "A large city in Canada.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Toronto",
+   "alternatives": [],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4146,
+   "user_hint": "",
+   "description": "Grande cidade do Canadá.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1252,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "pt-BR:en:000004701",
+   "english_id": "en:000004701",
+   "kind": "word",
+   "description_en": "Ending that forbids an action in casual speech: \"don't touch!\".",
+   "level": "A2",
+   "part_of_speech": "part",
+   "source_status": "editorial-reviewed",
+   "text": "não (proibição)",
+   "alternatives": [
+    "não faça"
+   ],
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4147,
+   "user_hint": "",
+   "description": "Terminação japonesa que proíbe, informal: “não toque!”.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "vcu14_rank": 1253,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
    ]
   }
  ]
