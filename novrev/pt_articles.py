@@ -48,6 +48,10 @@ EXACT['bebê']=C; EXACT['oficial']=C
 SKIP.update({'si','deixar','pular','dez','por'})
 EXACT.update({'quilograma':M,'prisma':M,'soba':M,'guarda':C,'moral':F,'ex':C})
 SKIP.discard('ex')
+EXACT.update({**{w:M for w in 'toalete amanhecer micro-ondas xampu pente tapete mel polegar quadril calcanhar bode carregador pênalti gyudon'.split()},
+               **{w:F for w in 'gripe meia-noite'.split()}, 'vietnamita':C})
+# 27/11 (relatos do dono): locuções e contadores sem artigo próprio
+NO_ARTICLE={'en:000004652','en:000004662','en:000004679','en:000004680','en:000004681','en:000004682','en:000004684','en:000004685'}
 ID_OVERRIDE={'en:000000373':M,'en:000001594':M,'en:000003642':M,
              'en:000004469':FP,'en:000004502':M,'en:000004505':M,'en:000004508':M}  # costas, hortifrúti, cheque, recorde (2.5.5)
 PLURAL_ONLY={'óculos':MP,'férias':FP,'juros':MP,'damas':FP,'finanças':FP,'bens':MP,'fones':MP,'fogos':MP,'pauzinhos':MP,'economias':FP,
@@ -64,6 +68,7 @@ def head(text):
     return t.split()[0] if t else ''
 
 def articles_for(entry):
+    if entry.get('english_id') in NO_ARTICLE: return None
     return ID_OVERRIDE.get(entry.get('english_id')) or articles(entry.get('text') or '')
 
 def articles(text):

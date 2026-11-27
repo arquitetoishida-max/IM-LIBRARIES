@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.6.0",
+ "version": "2.6.1",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -45,7 +45,8 @@
   "2.5.3: around (horário, 〜ごろ) separado de about (quantidade, 〜ぐらい).",
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
-  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua."
+  "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
+  "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -52902,7 +52903,10 @@
    "user_hint": "",
    "description": "Lasting only a short time or expressed in few words.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "alternatives": [
+    "short"
+   ]
   },
   {
    "id": "en:000002841",
@@ -89998,6 +90002,1119 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "routine"
+   ]
+  },
+  {
+   "id": "en:000004649",
+   "english_id": "en:000004649",
+   "kind": "word",
+   "description_en": "The people you are talking to, more than one: \"are you all ready?\".",
+   "level": "A1",
+   "part_of_speech": "pron",
+   "source_status": "editorial-reviewed",
+   "text": "you (plural)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4095,
+   "user_hint": "",
+   "description": "The people you are talking to, more than one: \"are you all ready?\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1201,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004650",
+   "english_id": "en:000004650",
+   "kind": "word",
+   "description_en": "A thing far from both the speaker and the listener: \"what is that over there?\".",
+   "level": "A1",
+   "part_of_speech": "pron",
+   "source_status": "editorial-reviewed",
+   "text": "that (over there)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4096,
+   "user_hint": "",
+   "description": "A thing far from both the speaker and the listener: \"what is that over there?\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1202,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "en:000004651",
+   "english_id": "en:000004651",
+   "kind": "word",
+   "description_en": "A small shop open long hours that sells food and everyday items.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "convenience store",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4097,
+   "user_hint": "",
+   "description": "A small shop open long hours that sells food and everyday items.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1203,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "en:000004652",
+   "english_id": "en:000004652",
+   "kind": "word",
+   "description_en": "A large number of people: \"many people came\".",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "many people",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4098,
+   "user_hint": "",
+   "description": "A large number of people: \"many people came\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1204,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004653",
+   "english_id": "en:000004653",
+   "kind": "word",
+   "description_en": "Used to move on or to end a conversation: \"well then, let's go\".",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "well then",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4099,
+   "user_hint": "",
+   "description": "Used to move on or to end a conversation: \"well then, let's go\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1205,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004654",
+   "english_id": "en:000004654",
+   "kind": "word",
+   "description_en": "A person from Japan.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Japanese person",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4100,
+   "user_hint": "",
+   "description": "A person from Japan.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1206,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004655",
+   "english_id": "en:000004655",
+   "kind": "word",
+   "description_en": "A person from Brazil.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Brazilian person",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4101,
+   "user_hint": "",
+   "description": "A person from Brazil.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1207,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004656",
+   "english_id": "en:000004656",
+   "kind": "word",
+   "description_en": "A person from Vietnam.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Vietnamese person",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4102,
+   "user_hint": "",
+   "description": "A person from Vietnam.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1208,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004657",
+   "english_id": "en:000004657",
+   "kind": "word",
+   "description_en": "A greeting used in the evening.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "good evening",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4103,
+   "user_hint": "",
+   "description": "A greeting used in the evening.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1209,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004658",
+   "english_id": "en:000004658",
+   "kind": "word",
+   "description_en": "Said when meeting someone for the first time.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "nice to meet you",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4104,
+   "user_hint": "",
+   "description": "Said when meeting someone for the first time.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1210,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004659",
+   "english_id": "en:000004659",
+   "kind": "word",
+   "description_en": "Polite phrase said when meeting someone or asking for a favor.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "please treat me well",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4105,
+   "user_hint": "",
+   "description": "Polite phrase said when meeting someone or asking for a favor.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1211,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004660",
+   "english_id": "en:000004660",
+   "kind": "word",
+   "description_en": "Said when saying goodbye until the next day.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "see you tomorrow",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4106,
+   "user_hint": "",
+   "description": "Said when saying goodbye until the next day.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1212,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004661",
+   "english_id": "en:000004661",
+   "kind": "word",
+   "description_en": "In the middle of going somewhere or doing something.",
+   "level": "A2",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "on the way",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4107,
+   "user_hint": "",
+   "description": "In the middle of going somewhere or doing something.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1213,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004662",
+   "english_id": "en:000004662",
+   "kind": "word",
+   "description_en": "The coming Saturday and Sunday.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "this weekend",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4108,
+   "user_hint": "",
+   "description": "The coming Saturday and Sunday.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1214,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004663",
+   "english_id": "en:000004663",
+   "kind": "word",
+   "description_en": "A building where works of art are shown.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "art museum",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4109,
+   "user_hint": "",
+   "description": "A building where works of art are shown.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1215,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004664",
+   "english_id": "en:000004664",
+   "kind": "word",
+   "description_en": "Visiting interesting places as a tourist.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "sightseeing",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4110,
+   "user_hint": "",
+   "description": "Visiting interesting places as a tourist.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1216,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004665",
+   "english_id": "en:000004665",
+   "kind": "word",
+   "description_en": "A style of cooking or the dishes of a place.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "cuisine",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4111,
+   "user_hint": "",
+   "description": "A style of cooking or the dishes of a place.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1217,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004666",
+   "english_id": "en:000004666",
+   "kind": "word",
+   "description_en": "Food and dishes from France.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "French cuisine",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4112,
+   "user_hint": "",
+   "description": "Food and dishes from France.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1218,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004667",
+   "english_id": "en:000004667",
+   "kind": "word",
+   "description_en": "Rice topped with thinly sliced beef and onion (gyudon).",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "beef bowl",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4113,
+   "user_hint": "",
+   "description": "Rice topped with thinly sliced beef and onion (gyudon).",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1219,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004668",
+   "english_id": "en:000004668",
+   "kind": "word",
+   "description_en": "The hours before noon.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "a.m.",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4114,
+   "user_hint": "",
+   "description": "The hours before noon.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1220,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004669",
+   "english_id": "en:000004669",
+   "kind": "word",
+   "description_en": "The final station of a train or bus line.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "last stop",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4115,
+   "user_hint": "",
+   "description": "The final station of a train or bus line.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1221,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004670",
+   "english_id": "en:000004670",
+   "kind": "word",
+   "description_en": "The floor of a building below ground level.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "basement",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4116,
+   "user_hint": "",
+   "description": "The floor of a building below ground level.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1222,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "en:000004671",
+   "english_id": "en:000004671",
+   "kind": "word",
+   "description_en": "Right after the present moment.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "after this",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4117,
+   "user_hint": "",
+   "description": "Right after the present moment.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1223,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004672",
+   "english_id": "en:000004672",
+   "kind": "word",
+   "description_en": "Sound made while thinking of what to say.",
+   "level": "A1",
+   "part_of_speech": "intj",
+   "source_status": "editorial-reviewed",
+   "text": "um",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4118,
+   "user_hint": "",
+   "description": "Sound made while thinking of what to say.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1224,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004673",
+   "english_id": "en:000004673",
+   "kind": "word",
+   "description_en": "Used with a negative: not much, not very.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "not very",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4119,
+   "user_hint": "",
+   "description": "Used with a negative: not much, not very.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1225,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004674",
+   "english_id": "en:000004674",
+   "kind": "word",
+   "description_en": "Asks for a number of things; also age.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "how many",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4120,
+   "user_hint": "",
+   "description": "Asks for a number of things; also age.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1226,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "en:000004675",
+   "english_id": "en:000004675",
+   "kind": "word",
+   "description_en": "Asks about an amount of time or quantity.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "how long",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4121,
+   "user_hint": "",
+   "description": "Asks about an amount of time or quantity.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1227,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004676",
+   "english_id": "en:000004676",
+   "kind": "word",
+   "description_en": "Asks about the type or nature of something.",
+   "level": "A1",
+   "part_of_speech": "det",
+   "source_status": "editorial-reviewed",
+   "text": "what kind of",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4122,
+   "user_hint": "",
+   "description": "Asks about the type or nature of something.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1228,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004677",
+   "english_id": "en:000004677",
+   "kind": "word",
+   "description_en": "A place far from both the speaker and the listener.",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "over there",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4123,
+   "user_hint": "",
+   "description": "A place far from both the speaker and the listener.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1229,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004678",
+   "english_id": "en:000004678",
+   "kind": "word",
+   "description_en": "Asks about state or opinion: \"how is it?\", \"how about...?\".",
+   "level": "A1",
+   "part_of_speech": "adv",
+   "source_status": "editorial-reviewed",
+   "text": "how (about)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4124,
+   "user_hint": "",
+   "description": "Asks about state or opinion: \"how is it?\", \"how about...?\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1230,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004679",
+   "english_id": "en:000004679",
+   "kind": "word",
+   "description_en": "Asks the hour.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "what time",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4125,
+   "user_hint": "",
+   "description": "Asks the hour.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1231,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004680",
+   "english_id": "en:000004680",
+   "kind": "word",
+   "description_en": "Counter for hours on the clock: \"four o'clock\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "o'clock",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4126,
+   "user_hint": "",
+   "description": "Counter for hours on the clock: \"four o'clock\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1232,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "time"
+   ]
+  },
+  {
+   "id": "en:000004681",
+   "english_id": "en:000004681",
+   "kind": "word",
+   "description_en": "Counter for age: \"twenty years old\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "years old",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4127,
+   "user_hint": "",
+   "description": "Counter for age: \"twenty years old\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1233,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004682",
+   "english_id": "en:000004682",
+   "kind": "word",
+   "description_en": "Asks someone's age.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "how old",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4128,
+   "user_hint": "",
+   "description": "Asks someone's age.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1234,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004683",
+   "english_id": "en:000004683",
+   "kind": "word",
+   "description_en": "Counter for school years: \"third-year student\".",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "school year (grade)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4129,
+   "user_hint": "",
+   "description": "Counter for school years: \"third-year student\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1235,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "school"
+   ]
+  },
+  {
+   "id": "en:000004684",
+   "english_id": "en:000004684",
+   "kind": "word",
+   "description_en": "Two persons.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "two people",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4130,
+   "user_hint": "",
+   "description": "Two persons.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1236,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004685",
+   "english_id": "en:000004685",
+   "kind": "word",
+   "description_en": "A single person.",
+   "level": "A1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "one person",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4131,
+   "user_hint": "",
+   "description": "A single person.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1237,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
+   ]
+  },
+  {
+   "id": "en:000004686",
+   "english_id": "en:000004686",
+   "kind": "word",
+   "description_en": "A long running race of about 42 km.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "marathon",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4132,
+   "user_hint": "",
+   "description": "A long running race of about 42 km.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1238,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "sports"
+   ]
+  },
+  {
+   "id": "en:000004687",
+   "english_id": "en:000004687",
+   "kind": "word",
+   "description_en": "To pour water over yourself: \"take a shower\".",
+   "level": "A2",
+   "part_of_speech": "v",
+   "source_status": "editorial-reviewed",
+   "text": "take (a shower)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4133,
+   "user_hint": "",
+   "description": "To pour water over yourself: \"take a shower\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1239,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "home"
+   ]
+  },
+  {
+   "id": "en:000004688",
+   "english_id": "en:000004688",
+   "kind": "word",
+   "description_en": "A store where most items cost 100 yen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "100-yen shop",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4134,
+   "user_hint": "",
+   "description": "A store where most items cost 100 yen.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1240,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "shopping"
+   ]
+  },
+  {
+   "id": "en:000004689",
+   "english_id": "en:000004689",
+   "kind": "word",
+   "description_en": "A snack bar with a lot of protein.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "protein bar",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4135,
+   "user_hint": "",
+   "description": "A snack bar with a lot of protein.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1241,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004690",
+   "english_id": "en:000004690",
+   "kind": "word",
+   "description_en": "A banana dipped in chocolate, a festival snack.",
+   "level": "B1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "chocolate banana",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4136,
+   "user_hint": "",
+   "description": "A banana dipped in chocolate, a festival snack.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1242,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004691",
+   "english_id": "en:000004691",
+   "kind": "word",
+   "description_en": "A restaurant that sells pizza.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "pizzeria",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4137,
+   "user_hint": "",
+   "description": "A restaurant that sells pizza.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1243,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004692",
+   "english_id": "en:000004692",
+   "kind": "word",
+   "description_en": "A restaurant that serves ramen.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "ramen shop",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4138,
+   "user_hint": "",
+   "description": "A restaurant that serves ramen.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1244,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "food"
+   ]
+  },
+  {
+   "id": "en:000004693",
+   "english_id": "en:000004693",
+   "kind": "word",
+   "description_en": "A song from an anime series.",
+   "level": "B1",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "anime song",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4139,
+   "user_hint": "",
+   "description": "A song from an anime series.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1245,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "play_nature"
+   ]
+  },
+  {
+   "id": "en:000004694",
+   "english_id": "en:000004694",
+   "kind": "word",
+   "description_en": "A busy district in Tokyo.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Shibuya",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4140,
+   "user_hint": "",
+   "description": "A busy district in Tokyo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1246,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004695",
+   "english_id": "en:000004695",
+   "kind": "word",
+   "description_en": "A Tokyo district known for electronics and anime.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Akihabara",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4141,
+   "user_hint": "",
+   "description": "A Tokyo district known for electronics and anime.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1247,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004696",
+   "english_id": "en:000004696",
+   "kind": "word",
+   "description_en": "A Tokyo district known for youth fashion.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Harajuku",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4142,
+   "user_hint": "",
+   "description": "A Tokyo district known for youth fashion.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1248,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004697",
+   "english_id": "en:000004697",
+   "kind": "word",
+   "description_en": "An old Tokyo district with a famous temple.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Asakusa",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4143,
+   "user_hint": "",
+   "description": "An old Tokyo district with a famous temple.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1249,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004698",
+   "english_id": "en:000004698",
+   "kind": "word",
+   "description_en": "A large park in Tokyo with museums and a zoo.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Ueno Park",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4144,
+   "user_hint": "",
+   "description": "A large park in Tokyo with museums and a zoo.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1250,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004699",
+   "english_id": "en:000004699",
+   "kind": "word",
+   "description_en": "The capital of South Korea.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Seoul",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4145,
+   "user_hint": "",
+   "description": "The capital of South Korea.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1251,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004700",
+   "english_id": "en:000004700",
+   "kind": "word",
+   "description_en": "A large city in Canada.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "text": "Toronto",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4146,
+   "user_hint": "",
+   "description": "A large city in Canada.",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1252,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "travel"
+   ]
+  },
+  {
+   "id": "en:000004701",
+   "english_id": "en:000004701",
+   "kind": "word",
+   "description_en": "Ending that forbids an action in casual speech: \"don't touch!\".",
+   "level": "A2",
+   "part_of_speech": "part",
+   "source_status": "editorial-reviewed",
+   "text": "don't (prohibition)",
+   "study_tier": "fala cotidiana inicial",
+   "study_priority": 4147,
+   "user_hint": "",
+   "description": "Ending that forbids an action in casual speech: \"don't touch!\".",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "vcu14_rank": 1253,
+   "vcu14_status": "provisional-editorial",
+   "environments": [
+    "people"
    ]
   }
  ]
