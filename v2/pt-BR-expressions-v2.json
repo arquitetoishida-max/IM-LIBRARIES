@@ -1,0 +1,3710 @@
+{
+ "schema_version": 2,
+ "package_id": "pt-BR-expressions-v2",
+ "package_type": "ishida-monolingual",
+ "language": "pt-BR",
+ "region": null,
+ "name": "Expressões e gírias em português",
+ "version": "1.0.0",
+ "english_explanations": true,
+ "status": "draft-editorial",
+ "language_info": {
+  "code": "pt-BR",
+  "flag": "🇧🇷",
+  "locale": "pt-BR",
+  "name_native": "Português (Brasil)",
+  "name_en": "Portuguese (Brazil)",
+  "name_pt": "Port. (Brasileiro)",
+  "name_ja": "ポルトガル語（ブラジル）",
+  "script": "latin"
+ },
+ "role": "expressions",
+ "license": "ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).",
+ "sources": [
+  "Moved from the pt-BR core (expression entries and composite headwords)"
+ ],
+ "notes": [
+  "Descriptions, readings and romanization are in English and are translated online at runtime; the URL search button is the escape hatch for mistranslations.",
+  "Independent per language; own ID space {lang}:x:100001+; no cross-language sync; no inter-group mobility (studied alone). Usage/vulgarity labels are free-form."
+ ],
+ "entries": [
+  {
+   "id": "pt-BR:x:100001",
+   "text": "atrás de",
+   "kind": "expression",
+   "alternatives": [
+    "por trás de"
+   ],
+   "description": "At the back of.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000490",
+    "english_id": "en:000000490",
+    "from": "core",
+    "core_priority": 137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 1
+  },
+  {
+   "id": "pt-BR:x:100002",
+   "text": "perto de",
+   "kind": "expression",
+   "alternatives": [
+    "próximo de"
+   ],
+   "description": "Close to.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000495",
+    "english_id": "en:000000495",
+    "from": "core",
+    "core_priority": 139,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 2
+  },
+  {
+   "id": "pt-BR:x:100003",
+   "text": "acima de",
+   "kind": "expression",
+   "alternatives": [
+    "em cima de",
+    "sobre"
+   ],
+   "description": "Higher than.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000607",
+    "english_id": "en:000000607",
+    "from": "core",
+    "core_priority": 178,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 3
+  },
+  {
+   "id": "pt-BR:x:100004",
+   "text": "abaixo de",
+   "kind": "expression",
+   "alternatives": [
+    "embaixo",
+    "debaixo de"
+   ],
+   "description": "Lower than.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000912",
+    "english_id": "en:000000912",
+    "from": "core",
+    "core_priority": 296,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 4
+  },
+  {
+   "id": "pt-BR:x:100005",
+   "text": "refrigerante",
+   "kind": "expression",
+   "alternatives": [
+    "refri",
+    "bebida gasosa"
+   ],
+   "description": "A sweet fizzy drink.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003075",
+    "english_id": "en:000003075",
+    "from": "core",
+    "core_priority": 639
+   },
+   "study_priority": 5
+  },
+  {
+   "id": "pt-BR:x:100006",
+   "text": "claro",
+   "kind": "expression",
+   "description": "Certainly; naturally: \"Of course I will help\".",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003205",
+    "english_id": "en:000003205",
+    "from": "core",
+    "core_priority": 675
+   },
+   "study_priority": 6
+  },
+  {
+   "id": "pt-BR:x:100007",
+   "text": "carrinho",
+   "kind": "expression",
+   "description": "A small car made as a toy.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003210",
+    "english_id": "en:000003210",
+    "from": "core",
+    "core_priority": 679
+   },
+   "study_priority": 7
+  },
+  {
+   "id": "pt-BR:x:100008",
+   "text": "vestir",
+   "kind": "expression",
+   "alternatives": [
+    "colocar",
+    "pôr"
+   ],
+   "description": "To dress yourself in a piece of clothing.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003219",
+    "english_id": "en:000003219",
+    "from": "core",
+    "core_priority": 688
+   },
+   "study_priority": 8
+  },
+  {
+   "id": "pt-BR:x:100009",
+   "text": "tirar",
+   "kind": "expression",
+   "alternatives": [
+    "despir",
+    "retirar"
+   ],
+   "description": "To remove a piece of clothing.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003220",
+    "english_id": "en:000003220",
+    "from": "core",
+    "core_priority": 689
+   },
+   "study_priority": 9
+  },
+  {
+   "id": "pt-BR:x:100010",
+   "text": "Papai Noel",
+   "kind": "expression",
+   "description": "The man in a red suit who brings presents at Christmas.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003227",
+    "english_id": "en:000003227",
+    "from": "core",
+    "core_priority": 695
+   },
+   "study_priority": 10
+  },
+  {
+   "id": "pt-BR:x:100011",
+   "text": "Ano Novo",
+   "kind": "expression",
+   "description": "The first days of the year and their celebration.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003229",
+    "english_id": "en:000003229",
+    "from": "core",
+    "core_priority": 696
+   },
+   "study_priority": 11
+  },
+  {
+   "id": "pt-BR:x:100012",
+   "text": "ursinho de pelúcia",
+   "kind": "expression",
+   "alternatives": [
+    "urso de pelúcia",
+    "bichinho de pelúcia"
+   ],
+   "description": "A soft toy bear.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003230",
+    "english_id": "en:000003230",
+    "from": "core",
+    "core_priority": 697
+   },
+   "study_priority": 12
+  },
+  {
+   "id": "pt-BR:x:100013",
+   "text": "bloco de montar",
+   "kind": "expression",
+   "description": "A small toy block used to build things.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003231",
+    "english_id": "en:000003231",
+    "from": "core",
+    "core_priority": 698
+   },
+   "study_priority": 13
+  },
+  {
+   "id": "pt-BR:x:100014",
+   "text": "gema",
+   "kind": "expression",
+   "description": "The yellow part inside an egg.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003240",
+    "english_id": "en:000003240",
+    "from": "core",
+    "core_priority": 705
+   },
+   "study_priority": 14
+  },
+  {
+   "id": "pt-BR:x:100015",
+   "text": "levantar a mão",
+   "kind": "expression",
+   "description": "To lift your hand to ask to speak.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003272",
+    "english_id": "en:000003272",
+    "from": "core",
+    "core_priority": 720
+   },
+   "study_priority": 15
+  },
+  {
+   "id": "pt-BR:x:100016",
+   "text": "lavar as mãos",
+   "kind": "expression",
+   "description": "To clean your hands with water and soap.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003316",
+    "english_id": "en:000003316",
+    "from": "core",
+    "core_priority": 754
+   },
+   "study_priority": 16
+  },
+  {
+   "id": "pt-BR:x:100017",
+   "text": "escovar os dentes",
+   "kind": "expression",
+   "description": "To clean your teeth with a toothbrush.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003317",
+    "english_id": "en:000003317",
+    "from": "core",
+    "core_priority": 755
+   },
+   "study_priority": 17
+  },
+  {
+   "id": "pt-BR:x:100018",
+   "text": "se vestir",
+   "kind": "expression",
+   "description": "To put your clothes on.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003318",
+    "english_id": "en:000003318",
+    "from": "core",
+    "core_priority": 756
+   },
+   "study_priority": 18
+  },
+  {
+   "id": "pt-BR:x:100019",
+   "text": "escovar o cabelo",
+   "kind": "expression",
+   "description": "To make your hair neat with a brush.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003319",
+    "english_id": "en:000003319",
+    "from": "core",
+    "core_priority": 757
+   },
+   "study_priority": 19
+  },
+  {
+   "id": "pt-BR:x:100020",
+   "text": "amarrar o cadarço",
+   "kind": "expression",
+   "description": "To fasten the laces of your shoes.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003320",
+    "english_id": "en:000003320",
+    "from": "core",
+    "core_priority": 758
+   },
+   "study_priority": 20
+  },
+  {
+   "id": "pt-BR:x:100021",
+   "text": "pedir ajuda",
+   "kind": "expression",
+   "description": "To ask someone to help you.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003322",
+    "english_id": "en:000003322",
+    "from": "core",
+    "core_priority": 759
+   },
+   "study_priority": 21
+  },
+  {
+   "id": "pt-BR:x:100022",
+   "text": "segurar a mão",
+   "kind": "expression",
+   "description": "To hold another person's hand.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003325",
+    "english_id": "en:000003325",
+    "from": "core",
+    "core_priority": 761
+   },
+   "study_priority": 22
+  },
+  {
+   "id": "pt-BR:x:100023",
+   "text": "dizer oi",
+   "kind": "expression",
+   "description": "To greet someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003326",
+    "english_id": "en:000003326",
+    "from": "core",
+    "core_priority": 762
+   },
+   "study_priority": 23
+  },
+  {
+   "id": "pt-BR:x:100024",
+   "text": "jogar futebol",
+   "kind": "expression",
+   "description": "To play football (soccer).",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003338",
+    "english_id": "en:000003338",
+    "from": "core",
+    "core_priority": 766
+   },
+   "study_priority": 24
+  },
+  {
+   "id": "pt-BR:x:100025",
+   "text": "assistir desenho",
+   "kind": "expression",
+   "description": "To watch animated programs.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003342",
+    "english_id": "en:000003342",
+    "from": "core",
+    "core_priority": 767
+   },
+   "study_priority": 25
+  },
+  {
+   "id": "pt-BR:x:100026",
+   "text": "escutar música",
+   "kind": "expression",
+   "description": "To listen to music.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003343",
+    "english_id": "en:000003343",
+    "from": "core",
+    "core_priority": 768
+   },
+   "study_priority": 26
+  },
+  {
+   "id": "pt-BR:x:100027",
+   "text": "dormir cedo",
+   "kind": "expression",
+   "description": "To go to sleep early.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003344",
+    "english_id": "en:000003344",
+    "from": "core",
+    "core_priority": 769
+   },
+   "study_priority": 27
+  },
+  {
+   "id": "pt-BR:x:100028",
+   "text": "acordar cedo",
+   "kind": "expression",
+   "description": "To wake up early.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003345",
+    "english_id": "en:000003345",
+    "from": "core",
+    "core_priority": 770
+   },
+   "study_priority": 28
+  },
+  {
+   "id": "pt-BR:x:100029",
+   "text": "sorvete",
+   "kind": "expression",
+   "description": "A frozen sweet food made from milk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003362",
+    "english_id": "en:000003362",
+    "from": "core",
+    "core_priority": 784
+   },
+   "study_priority": 29
+  },
+  {
+   "id": "pt-BR:x:100030",
+   "text": "suco de laranja",
+   "kind": "expression",
+   "description": "Drink made from oranges.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003365",
+    "english_id": "en:000003365",
+    "from": "core",
+    "core_priority": 787
+   },
+   "study_priority": 30
+  },
+  {
+   "id": "pt-BR:x:100031",
+   "text": "escola primária",
+   "kind": "expression",
+   "alternatives": [
+    "escola de ensino fundamental"
+   ],
+   "description": "A school for young children (first years).",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003385",
+    "english_id": "en:000003385",
+    "from": "core",
+    "core_priority": 806
+   },
+   "study_priority": 31
+  },
+  {
+   "id": "pt-BR:x:100032",
+   "text": "mochila escolar",
+   "kind": "expression",
+   "description": "A bag for carrying school things.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003389",
+    "english_id": "en:000003389",
+    "from": "core",
+    "core_priority": 810
+   },
+   "study_priority": 32
+  },
+  {
+   "id": "pt-BR:x:100033",
+   "text": "estojo",
+   "kind": "expression",
+   "description": "A small case for pencils and pens.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003390",
+    "english_id": "en:000003390",
+    "from": "core",
+    "core_priority": 811
+   },
+   "study_priority": 33
+  },
+  {
+   "id": "pt-BR:x:100034",
+   "text": "pião",
+   "kind": "expression",
+   "description": "A toy that spins on its point.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003441",
+    "english_id": "en:000003441",
+    "from": "core",
+    "core_priority": 834
+   },
+   "study_priority": 34
+  },
+  {
+   "id": "pt-BR:x:100035",
+   "text": "esconde-esconde",
+   "kind": "expression",
+   "description": "A game where one child looks for others who are hiding.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003444",
+    "english_id": "en:000003444",
+    "from": "core",
+    "core_priority": 836
+   },
+   "study_priority": 35
+  },
+  {
+   "id": "pt-BR:x:100036",
+   "text": "pular corda",
+   "kind": "expression",
+   "description": "A game of jumping over a turning rope.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003447",
+    "english_id": "en:000003447",
+    "from": "core",
+    "core_priority": 838
+   },
+   "study_priority": 36
+  },
+  {
+   "id": "pt-BR:x:100037",
+   "text": "lavar a louça",
+   "kind": "expression",
+   "description": "To clean plates and cups after a meal.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003462",
+    "english_id": "en:000003462",
+    "from": "core",
+    "core_priority": 842
+   },
+   "study_priority": 37
+  },
+  {
+   "id": "pt-BR:x:100038",
+   "text": "arrumar a cama",
+   "kind": "expression",
+   "description": "To arrange the sheets and covers of a bed.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003465",
+    "english_id": "en:000003465",
+    "from": "core",
+    "core_priority": 844
+   },
+   "study_priority": 38
+  },
+  {
+   "id": "pt-BR:x:100039",
+   "text": "regar as plantas",
+   "kind": "expression",
+   "description": "To give water to plants.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003466",
+    "english_id": "en:000003466",
+    "from": "core",
+    "core_priority": 845
+   },
+   "study_priority": 39
+  },
+  {
+   "id": "pt-BR:x:100040",
+   "text": "passear com o cachorro",
+   "kind": "expression",
+   "description": "To take a dog for a walk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003467",
+    "english_id": "en:000003467",
+    "from": "core",
+    "core_priority": 846
+   },
+   "study_priority": 40
+  },
+  {
+   "id": "pt-BR:x:100041",
+   "text": "assistir TV",
+   "kind": "expression",
+   "description": "To watch television.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003470",
+    "english_id": "en:000003470",
+    "from": "core",
+    "core_priority": 847
+   },
+   "study_priority": 41
+  },
+  {
+   "id": "pt-BR:x:100042",
+   "text": "tirar foto",
+   "kind": "expression",
+   "description": "To take a picture with a camera or phone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003473",
+    "english_id": "en:000003473",
+    "from": "core",
+    "core_priority": 848
+   },
+   "study_priority": 42
+  },
+  {
+   "id": "pt-BR:x:100043",
+   "text": "com licença",
+   "kind": "expression",
+   "description": "Polite words to get attention or pass by someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003485",
+    "english_id": "en:000003485",
+    "from": "core",
+    "core_priority": 849
+   },
+   "study_priority": 43
+  },
+  {
+   "id": "pt-BR:x:100044",
+   "text": "esperar na fila",
+   "kind": "expression",
+   "description": "To wait in a line for your turn.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003486",
+    "english_id": "en:000003486",
+    "from": "core",
+    "core_priority": 850
+   },
+   "study_priority": 44
+  },
+  {
+   "id": "pt-BR:x:100045",
+   "text": "avisar um adulto",
+   "kind": "expression",
+   "description": "To tell a grown-up when something is wrong.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003490",
+    "english_id": "en:000003490",
+    "from": "core",
+    "core_priority": 851
+   },
+   "study_priority": 45
+  },
+  {
+   "id": "pt-BR:x:100046",
+   "text": "dez mil",
+   "kind": "expression",
+   "description": "The number 10,000.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003568",
+    "english_id": "en:000003568",
+    "from": "core",
+    "core_priority": 870
+   },
+   "study_priority": 46
+  },
+  {
+   "id": "pt-BR:x:100047",
+   "text": "estrela cadente",
+   "kind": "expression",
+   "description": "A bright streak of light in the night sky.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003620",
+    "english_id": "en:000003620",
+    "from": "core",
+    "core_priority": 872
+   },
+   "study_priority": 47
+  },
+  {
+   "id": "pt-BR:x:100048",
+   "text": "lua cheia",
+   "kind": "expression",
+   "description": "The moon when it looks completely round.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003633",
+    "english_id": "en:000003633",
+    "from": "core",
+    "core_priority": 874
+   },
+   "study_priority": 48
+  },
+  {
+   "id": "pt-BR:x:100049",
+   "text": "em cima de",
+   "kind": "expression",
+   "alternatives": [
+    "sobre",
+    "em"
+   ],
+   "description": "Touching the top surface of something (\"on the table\").",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000011",
+    "english_id": "en:000000011",
+    "from": "core",
+    "core_priority": 917,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 49
+  },
+  {
+   "id": "pt-BR:x:100050",
+   "text": "antes de",
+   "kind": "expression",
+   "alternatives": [
+    "antes",
+    "diante de"
+   ],
+   "description": "Earlier than.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000119",
+    "english_id": "en:000000119",
+    "from": "core",
+    "core_priority": 967,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 50
+  },
+  {
+   "id": "pt-BR:x:100051",
+   "text": "embaixo de",
+   "kind": "expression",
+   "alternatives": [
+    "sob",
+    "debaixo de"
+   ],
+   "description": "Below something.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000172",
+    "english_id": "en:000000172",
+    "from": "core",
+    "core_priority": 987,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 51
+  },
+  {
+   "id": "pt-BR:x:100052",
+   "text": "dentro de",
+   "kind": "expression",
+   "alternatives": [
+    "dentro de",
+    "em até"
+   ],
+   "description": "Inside a space or time limit.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000339",
+    "english_id": "en:000000339",
+    "from": "core",
+    "core_priority": 1012,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 52
+  },
+  {
+   "id": "pt-BR:x:100053",
+   "text": "de acordo com",
+   "kind": "expression",
+   "alternatives": [
+    "segundo",
+    "conforme"
+   ],
+   "description": "\"According to\" = as said by.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000504",
+    "english_id": "en:000000504",
+    "from": "core",
+    "core_priority": 1034,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 53
+  },
+  {
+   "id": "pt-BR:x:100054",
+   "text": "durante todo",
+   "kind": "expression",
+   "alternatives": [
+    "por todo"
+   ],
+   "description": "In every part of; during the whole time.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000001077",
+    "english_id": "en:000001077",
+    "from": "core",
+    "core_priority": 1176,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 54
+  },
+  {
+   "id": "pt-BR:x:100055",
+   "text": "além de",
+   "kind": "expression",
+   "description": "In addition to someone or something that has already been mentioned.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000002289",
+    "english_id": "en:000002289",
+    "from": "core",
+    "core_priority": 1635,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 55
+  },
+  {
+   "id": "pt-BR:x:100056",
+   "text": "dependendo de",
+   "kind": "expression",
+   "description": "\"Depending on\" = it changes with.",
+   "level": "C1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000002630",
+    "english_id": "en:000002630",
+    "from": "core",
+    "core_priority": 1775,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 56
+  },
+  {
+   "id": "pt-BR:x:100057",
+   "text": "metrô",
+   "kind": "expression",
+   "description": "A city's subway train.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003080",
+    "english_id": "en:000003080",
+    "from": "core",
+    "core_priority": 1927
+   },
+   "study_priority": 57
+  },
+  {
+   "id": "pt-BR:x:100058",
+   "text": "ao lado de",
+   "kind": "expression",
+   "alternatives": [
+    "junto de",
+    "perto de"
+   ],
+   "description": "Next to.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003097",
+    "english_id": "en:000003097",
+    "from": "core",
+    "core_priority": 1932,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 58
+  },
+  {
+   "id": "pt-BR:x:100059",
+   "text": "embaixo de",
+   "kind": "expression",
+   "alternatives": [
+    "debaixo de"
+   ],
+   "description": "Under.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003172",
+    "english_id": "en:000003172",
+    "from": "core",
+    "core_priority": 1973,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 59
+  },
+  {
+   "id": "pt-BR:x:100060",
+   "text": "apontador",
+   "kind": "expression",
+   "description": "A small tool for making pencils sharp.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003255",
+    "english_id": "en:000003255",
+    "from": "core",
+    "core_priority": 1995
+   },
+   "study_priority": 60
+  },
+  {
+   "id": "pt-BR:x:100061",
+   "text": "atravessar a rua",
+   "kind": "expression",
+   "description": "To go from one side of the street to the other.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003258",
+    "english_id": "en:000003258",
+    "from": "core",
+    "core_priority": 1997
+   },
+   "study_priority": 61
+  },
+  {
+   "id": "pt-BR:x:100062",
+   "text": "esperar a vez",
+   "kind": "expression",
+   "description": "To wait until it is your time to do something.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003271",
+    "english_id": "en:000003271",
+    "from": "core",
+    "core_priority": 2003
+   },
+   "study_priority": 62
+  },
+  {
+   "id": "pt-BR:x:100063",
+   "text": "ouvir o professor",
+   "kind": "expression",
+   "description": "To pay attention to what the teacher says.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003273",
+    "english_id": "en:000003273",
+    "from": "core",
+    "core_priority": 2004
+   },
+   "study_priority": 63
+  },
+  {
+   "id": "pt-BR:x:100064",
+   "text": "sapato social",
+   "kind": "expression",
+   "description": "A formal leather shoe.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003277",
+    "english_id": "en:000003277",
+    "from": "core",
+    "core_priority": 2006
+   },
+   "study_priority": 64
+  },
+  {
+   "id": "pt-BR:x:100065",
+   "text": "olhar para os lados",
+   "kind": "expression",
+   "description": "To look left and right before crossing a street.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003321",
+    "english_id": "en:000003321",
+    "from": "core",
+    "core_priority": 2014
+   },
+   "study_priority": 65
+  },
+  {
+   "id": "pt-BR:x:100066",
+   "text": "dizer a verdade",
+   "kind": "expression",
+   "description": "To say what really happened.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003323",
+    "english_id": "en:000003323",
+    "from": "core",
+    "core_priority": 2015
+   },
+   "study_priority": 66
+  },
+  {
+   "id": "pt-BR:x:100067",
+   "text": "rolar de rir",
+   "kind": "expression",
+   "description": "To laugh a lot.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003329",
+    "english_id": "en:000003329",
+    "from": "core",
+    "core_priority": 2016
+   },
+   "study_priority": 67
+  },
+  {
+   "id": "pt-BR:x:100068",
+   "text": "guardar segredo",
+   "kind": "expression",
+   "description": "To not tell others something private.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003331",
+    "english_id": "en:000003331",
+    "from": "core",
+    "core_priority": 2017
+   },
+   "study_priority": 68
+  },
+  {
+   "id": "pt-BR:x:100069",
+   "text": "contar segredo",
+   "kind": "expression",
+   "description": "To tell someone something private.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003332",
+    "english_id": "en:000003332",
+    "from": "core",
+    "core_priority": 2018
+   },
+   "study_priority": 69
+  },
+  {
+   "id": "pt-BR:x:100070",
+   "text": "jogar basquete",
+   "kind": "expression",
+   "description": "To play basketball.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003339",
+    "english_id": "en:000003339",
+    "from": "core",
+    "core_priority": 2021
+   },
+   "study_priority": 70
+  },
+  {
+   "id": "pt-BR:x:100071",
+   "text": "jogar vôlei",
+   "kind": "expression",
+   "description": "To play volleyball.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003340",
+    "english_id": "en:000003340",
+    "from": "core",
+    "core_priority": 2022
+   },
+   "study_priority": 71
+  },
+  {
+   "id": "pt-BR:x:100072",
+   "text": "jogar videogame",
+   "kind": "expression",
+   "description": "To play games on a screen.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003341",
+    "english_id": "en:000003341",
+    "from": "core",
+    "core_priority": 2023
+   },
+   "study_priority": 72
+  },
+  {
+   "id": "pt-BR:x:100073",
+   "text": "atletismo",
+   "kind": "expression",
+   "description": "Sports of running, jumping and throwing.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003407",
+    "english_id": "en:000003407",
+    "from": "core",
+    "core_priority": 2032
+   },
+   "study_priority": 73
+  },
+  {
+   "id": "pt-BR:x:100074",
+   "text": "cabo de guerra",
+   "kind": "expression",
+   "description": "A game where two teams pull a rope in opposite directions.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003446",
+    "english_id": "en:000003446",
+    "from": "core",
+    "core_priority": 2049
+   },
+   "study_priority": 74
+  },
+  {
+   "id": "pt-BR:x:100075",
+   "text": "andar de patins",
+   "kind": "expression",
+   "description": "To move on roller skates.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003454",
+    "english_id": "en:000003454",
+    "from": "core",
+    "core_priority": 2053
+   },
+   "study_priority": 75
+  },
+  {
+   "id": "pt-BR:x:100076",
+   "text": "provar a comida",
+   "kind": "expression",
+   "description": "To try a little of the food to check its flavor.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003460",
+    "english_id": "en:000003460",
+    "from": "core",
+    "core_priority": 2056
+   },
+   "study_priority": 76
+  },
+  {
+   "id": "pt-BR:x:100077",
+   "text": "tirar a mesa",
+   "kind": "expression",
+   "alternatives": [
+    "limpar a mesa"
+   ],
+   "description": "To take dishes away from the table after eating.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003461",
+    "english_id": "en:000003461",
+    "from": "core",
+    "core_priority": 2057
+   },
+   "study_priority": 77
+  },
+  {
+   "id": "pt-BR:x:100078",
+   "text": "alimentar o animal",
+   "kind": "expression",
+   "description": "To give food to a pet.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003468",
+    "english_id": "en:000003468",
+    "from": "core",
+    "core_priority": 2059
+   },
+   "study_priority": 78
+  },
+  {
+   "id": "pt-BR:x:100079",
+   "text": "ouvir rádio",
+   "kind": "expression",
+   "description": "To listen to the radio.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003471",
+    "english_id": "en:000003471",
+    "from": "core",
+    "core_priority": 2060
+   },
+   "study_priority": 79
+  },
+  {
+   "id": "pt-BR:x:100080",
+   "text": "navegar na internet",
+   "kind": "expression",
+   "description": "To look at websites on the internet.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003472",
+    "english_id": "en:000003472",
+    "from": "core",
+    "core_priority": 2061
+   },
+   "study_priority": 80
+  },
+  {
+   "id": "pt-BR:x:100081",
+   "text": "gravar vídeo",
+   "kind": "expression",
+   "description": "To record a video.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003474",
+    "english_id": "en:000003474",
+    "from": "core",
+    "core_priority": 2062
+   },
+   "study_priority": 81
+  },
+  {
+   "id": "pt-BR:x:100082",
+   "text": "tocar piano",
+   "kind": "expression",
+   "description": "To play the piano.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003475",
+    "english_id": "en:000003475",
+    "from": "core",
+    "core_priority": 2063
+   },
+   "study_priority": 82
+  },
+  {
+   "id": "pt-BR:x:100083",
+   "text": "tocar violão",
+   "kind": "expression",
+   "description": "To play the guitar.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003476",
+    "english_id": "en:000003476",
+    "from": "core",
+    "core_priority": 2064
+   },
+   "study_priority": 83
+  },
+  {
+   "id": "pt-BR:x:100084",
+   "text": "tocar flauta",
+   "kind": "expression",
+   "description": "To play the flute.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003477",
+    "english_id": "en:000003477",
+    "from": "core",
+    "core_priority": 2065
+   },
+   "study_priority": 84
+  },
+  {
+   "id": "pt-BR:x:100085",
+   "text": "tocar bateria",
+   "kind": "expression",
+   "description": "To play the drums.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003478",
+    "english_id": "en:000003478",
+    "from": "core",
+    "core_priority": 2066
+   },
+   "study_priority": 85
+  },
+  {
+   "id": "pt-BR:x:100086",
+   "text": "limpar sujeira",
+   "kind": "expression",
+   "description": "To clean up a mess.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003484",
+    "english_id": "en:000003484",
+    "from": "core",
+    "core_priority": 2069
+   },
+   "study_priority": 86
+  },
+  {
+   "id": "pt-BR:x:100087",
+   "text": "escutar os pais",
+   "kind": "expression",
+   "description": "To listen to your parents.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003487",
+    "english_id": "en:000003487",
+    "from": "core",
+    "core_priority": 2070
+   },
+   "study_priority": 87
+  },
+  {
+   "id": "pt-BR:x:100088",
+   "text": "seguir as regras",
+   "kind": "expression",
+   "alternatives": [
+    "cumprir as regras"
+   ],
+   "description": "To do what the rules say.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003488",
+    "english_id": "en:000003488",
+    "from": "core",
+    "core_priority": 2071
+   },
+   "study_priority": 88
+  },
+  {
+   "id": "pt-BR:x:100089",
+   "text": "chegar na hora",
+   "kind": "expression",
+   "description": "To arrive at the planned time.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003489",
+    "english_id": "en:000003489",
+    "from": "core",
+    "core_priority": 2072
+   },
+   "study_priority": 89
+  },
+  {
+   "id": "pt-BR:x:100090",
+   "text": "mapa do tesouro",
+   "kind": "expression",
+   "description": "A map showing where treasure is hidden.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003504",
+    "english_id": "en:000003504",
+    "from": "core",
+    "core_priority": 2079
+   },
+   "study_priority": 90
+  },
+  {
+   "id": "pt-BR:x:100091",
+   "text": "flor de cerejeira",
+   "kind": "expression",
+   "description": "The pink or white flower of the cherry tree.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003523",
+    "english_id": "en:000003523",
+    "from": "core",
+    "core_priority": 2093
+   },
+   "study_priority": 91
+  },
+  {
+   "id": "pt-BR:x:100092",
+   "text": "abelha-rainha",
+   "kind": "expression",
+   "description": "The female bee that lays eggs.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003529",
+    "english_id": "en:000003529",
+    "from": "core",
+    "core_priority": 2098
+   },
+   "study_priority": 92
+  },
+  {
+   "id": "pt-BR:x:100093",
+   "text": "ovo de pássaro",
+   "kind": "expression",
+   "description": "An egg laid by a bird.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003533",
+    "english_id": "en:000003533",
+    "from": "core",
+    "core_priority": 2100
+   },
+   "study_priority": 93
+  },
+  {
+   "id": "pt-BR:x:100094",
+   "text": "teatro de bonecos",
+   "kind": "expression",
+   "description": "A show with puppets.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003560",
+    "english_id": "en:000003560",
+    "from": "core",
+    "core_priority": 2115
+   },
+   "study_priority": 94
+  },
+  {
+   "id": "pt-BR:x:100095",
+   "text": "sistema solar",
+   "kind": "expression",
+   "description": "The sun and the planets that move around it.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003624",
+    "english_id": "en:000003624",
+    "from": "core",
+    "core_priority": 2120
+   },
+   "study_priority": 95
+  },
+  {
+   "id": "pt-BR:x:100096",
+   "text": "direitos humanos",
+   "kind": "expression",
+   "description": "Basic rights that every person has.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003663",
+    "english_id": "en:000003663",
+    "from": "core",
+    "core_priority": 2137
+   },
+   "study_priority": 96
+  },
+  {
+   "id": "pt-BR:x:100097",
+   "text": "força aérea",
+   "kind": "expression",
+   "description": "The military branch that uses aircraft.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003664",
+    "english_id": "en:000003664",
+    "from": "core",
+    "core_priority": 2138
+   },
+   "study_priority": 97
+  },
+  {
+   "id": "pt-BR:x:100098",
+   "text": "mapa-múndi",
+   "kind": "expression",
+   "description": "A map of the whole world.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003697",
+    "english_id": "en:000003697",
+    "from": "core",
+    "core_priority": 2154
+   },
+   "study_priority": 98
+  },
+  {
+   "id": "pt-BR:x:100099",
+   "text": "corrente marítima",
+   "kind": "expression",
+   "description": "A steady flow of water in the ocean.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003732",
+    "english_id": "en:000003732",
+    "from": "core",
+    "core_priority": 2165
+   },
+   "study_priority": 99
+  },
+  {
+   "id": "pt-BR:x:100100",
+   "text": "obra de arte",
+   "kind": "expression",
+   "description": "A painting, sculpture or other creation of art.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003760",
+    "english_id": "en:000003760",
+    "from": "core",
+    "core_priority": 2171
+   },
+   "study_priority": 100
+  },
+  {
+   "id": "pt-BR:x:100101",
+   "text": "usina",
+   "kind": "expression",
+   "description": "A factory that produces electricity.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003805",
+    "english_id": "en:000003805",
+    "from": "core",
+    "core_priority": 2199
+   },
+   "study_priority": 101
+  },
+  {
+   "id": "pt-BR:x:100102",
+   "text": "energia eólica",
+   "kind": "expression",
+   "description": "Energy produced from wind.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003806",
+    "english_id": "en:000003806",
+    "from": "core",
+    "core_priority": 2200
+   },
+   "study_priority": 102
+  },
+  {
+   "id": "pt-BR:x:100103",
+   "text": "energia hidrelétrica",
+   "kind": "expression",
+   "description": "Energy produced from moving water.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003807",
+    "english_id": "en:000003807",
+    "from": "core",
+    "core_priority": 2201
+   },
+   "study_priority": 103
+  },
+  {
+   "id": "pt-BR:x:100104",
+   "text": "gás natural",
+   "kind": "expression",
+   "description": "Gas from the ground used as fuel.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003810",
+    "english_id": "en:000003810",
+    "from": "core",
+    "core_priority": 2204
+   },
+   "study_priority": 104
+  },
+  {
+   "id": "pt-BR:x:100105",
+   "text": "previsão do tempo",
+   "kind": "expression",
+   "description": "A prediction of the weather.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003914",
+    "english_id": "en:000003914",
+    "from": "core",
+    "core_priority": 2244
+   },
+   "study_priority": 105
+  },
+  {
+   "id": "pt-BR:x:100106",
+   "text": "um pouco",
+   "kind": "expression",
+   "description": "A small amount.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003920",
+    "english_id": "en:000003920",
+    "from": "core",
+    "core_priority": 2249
+   },
+   "study_priority": 106
+  },
+  {
+   "id": "pt-BR:x:100107",
+   "text": "pelo menos",
+   "kind": "expression",
+   "description": "Not less than; at minimum.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003931",
+    "english_id": "en:000003931",
+    "from": "core",
+    "core_priority": 2257
+   },
+   "study_priority": 107
+  },
+  {
+   "id": "pt-BR:x:100108",
+   "text": "o resto",
+   "kind": "expression",
+   "description": "What remains; the other part.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003943",
+    "english_id": "en:000003943",
+    "from": "core",
+    "core_priority": 2264
+   },
+   "study_priority": 108
+  },
+  {
+   "id": "pt-BR:x:100109",
+   "text": "por exemplo",
+   "kind": "expression",
+   "description": "Used to give an example.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003949",
+    "english_id": "en:000003949",
+    "from": "core",
+    "core_priority": 2269
+   },
+   "study_priority": 109
+  },
+  {
+   "id": "pt-BR:x:100110",
+   "text": "em promoção",
+   "kind": "expression",
+   "description": "Sold at a lower price.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003970",
+    "english_id": "en:000003970",
+    "from": "core",
+    "core_priority": 2281
+   },
+   "study_priority": 110
+  },
+  {
+   "id": "pt-BR:x:100111",
+   "text": "maiúscula",
+   "kind": "expression",
+   "description": "A big letter, such as A, B, C.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003973",
+    "english_id": "en:000003973",
+    "from": "core",
+    "core_priority": 2282
+   },
+   "study_priority": 111
+  },
+  {
+   "id": "pt-BR:x:100112",
+   "text": "celular",
+   "kind": "expression",
+   "description": "A mobile phone.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003994",
+    "english_id": "en:000003994",
+    "from": "core",
+    "core_priority": 2297
+   },
+   "study_priority": 112
+  },
+  {
+   "id": "pt-BR:x:100113",
+   "text": "nem eu",
+   "kind": "expression",
+   "description": "Not me either (agreeing with a negative).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004014",
+    "english_id": "en:000004014",
+    "from": "core",
+    "core_priority": 2310
+   },
+   "study_priority": 113
+  },
+  {
+   "id": "pt-BR:x:100114",
+   "text": "mexer",
+   "kind": "expression",
+   "description": "To mix food in a pot with a spoon.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004104",
+    "english_id": "en:000004104",
+    "from": "core",
+    "core_priority": 2363
+   },
+   "study_priority": 114
+  },
+  {
+   "id": "pt-BR:x:100115",
+   "text": "resposta certa",
+   "kind": "expression",
+   "alternatives": [
+    "acerto"
+   ],
+   "description": "An answer that is right.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004109",
+    "english_id": "en:000004109",
+    "from": "core",
+    "core_priority": 2368
+   },
+   "study_priority": 115
+  },
+  {
+   "id": "pt-BR:x:100116",
+   "text": "novela",
+   "kind": "expression",
+   "description": "A TV drama series about daily lives.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004110",
+    "english_id": "en:000004110",
+    "from": "core",
+    "core_priority": 2369
+   },
+   "study_priority": 116
+  },
+  {
+   "id": "pt-BR:x:100117",
+   "text": "bateria",
+   "kind": "expression",
+   "description": "A set of drums played by one person.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004122",
+    "english_id": "en:000004122",
+    "from": "core",
+    "core_priority": 2381
+   },
+   "study_priority": 117
+  },
+  {
+   "id": "pt-BR:x:100118",
+   "text": "com direito a",
+   "kind": "expression",
+   "description": "Having the right to something.",
+   "level": "C2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000002900",
+    "english_id": "en:000002900",
+    "from": "core",
+    "core_priority": 2726,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 118
+  },
+  {
+   "id": "pt-BR:x:100119",
+   "text": "guardar dinheiro",
+   "kind": "expression",
+   "description": "To keep money instead of spending it.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003383",
+    "english_id": "en:000003383",
+    "from": "core",
+    "core_priority": 2745
+   },
+   "study_priority": 119
+  },
+  {
+   "id": "pt-BR:x:100120",
+   "text": "correr rápido",
+   "kind": "expression",
+   "description": "To run quickly.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003412",
+    "english_id": "en:000003412",
+    "from": "core",
+    "core_priority": 2746
+   },
+   "study_priority": 120
+  },
+  {
+   "id": "pt-BR:x:100121",
+   "text": "pegar a bola",
+   "kind": "expression",
+   "description": "To take hold of a ball thrown to you.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003413",
+    "english_id": "en:000003413",
+    "from": "core",
+    "core_priority": 2747
+   },
+   "study_priority": 121
+  },
+  {
+   "id": "pt-BR:x:100122",
+   "text": "soltar pipa",
+   "kind": "expression",
+   "description": "To make a kite fly in the wind.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003448",
+    "english_id": "en:000003448",
+    "from": "core",
+    "core_priority": 2748
+   },
+   "study_priority": 122
+  },
+  {
+   "id": "pt-BR:x:100123",
+   "text": "jogar bola de gude",
+   "kind": "expression",
+   "description": "To play a game with small glass balls.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003449",
+    "english_id": "en:000003449",
+    "from": "core",
+    "core_priority": 2749
+   },
+   "study_priority": 123
+  },
+  {
+   "id": "pt-BR:x:100124",
+   "text": "água líquida",
+   "kind": "expression",
+   "description": "Water in its liquid state.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003605",
+    "english_id": "en:000003605",
+    "from": "core",
+    "core_priority": 2796
+   },
+   "study_priority": 124
+  },
+  {
+   "id": "pt-BR:x:100125",
+   "text": "gelo seco",
+   "kind": "expression",
+   "description": "Frozen carbon dioxide.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003606",
+    "english_id": "en:000003606",
+    "from": "core",
+    "core_priority": 2797
+   },
+   "study_priority": 125
+  },
+  {
+   "id": "pt-BR:x:100126",
+   "text": "reação química",
+   "kind": "expression",
+   "description": "A process that changes substances into new ones.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003618",
+    "english_id": "en:000003618",
+    "from": "core",
+    "core_priority": 2808
+   },
+   "study_priority": 126
+  },
+  {
+   "id": "pt-BR:x:100127",
+   "text": "revista científica",
+   "kind": "expression",
+   "description": "A publication of scientific articles.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003675",
+    "english_id": "en:000003675",
+    "from": "core",
+    "core_priority": 2821
+   },
+   "study_priority": 127
+  },
+  {
+   "id": "pt-BR:x:100128",
+   "text": "mercado financeiro",
+   "kind": "expression",
+   "description": "The system where money and investments are traded.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003782",
+    "english_id": "en:000003782",
+    "from": "core",
+    "core_priority": 2851
+   },
+   "study_priority": 128
+  },
+  {
+   "id": "pt-BR:x:100129",
+   "text": "bolsa de valores",
+   "kind": "expression",
+   "alternatives": [
+    "bolsa"
+   ],
+   "description": "A place where shares of companies are bought and sold.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003783",
+    "english_id": "en:000003783",
+    "from": "core",
+    "core_priority": 2852
+   },
+   "study_priority": 129
+  },
+  {
+   "id": "pt-BR:x:100130",
+   "text": "cadeia alimentar",
+   "kind": "expression",
+   "description": "The series of who eats whom in nature.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003822",
+    "english_id": "en:000003822",
+    "from": "core",
+    "core_priority": 2867
+   },
+   "study_priority": 130
+  },
+  {
+   "id": "pt-BR:x:100131",
+   "text": "qualidade de vida",
+   "kind": "expression",
+   "description": "How good a person's life and health are.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003866",
+    "english_id": "en:000003866",
+    "from": "core",
+    "core_priority": 2884
+   },
+   "study_priority": 131
+  },
+  {
+   "id": "pt-BR:x:100132",
+   "text": "energia solar",
+   "kind": "expression",
+   "description": "Energy from sunlight.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004149",
+    "english_id": "en:000004149",
+    "from": "core",
+    "core_priority": 2934
+   },
+   "study_priority": 132
+  },
+  {
+   "id": "pt-BR:x:100133",
+   "text": "seguido",
+   "kind": "expression",
+   "description": "One after another without a break (three days in a row).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000576",
+    "english_id": "en:000000576",
+    "from": "core",
+    "core_priority": 2952
+   },
+   "study_priority": 133
+  },
+  {
+   "id": "pt-BR:x:100134",
+   "text": "pensar em",
+   "kind": "expression",
+   "description": "To consider something carefully before deciding.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000001705",
+    "english_id": "en:000001705",
+    "from": "core",
+    "core_priority": 2982
+   },
+   "study_priority": 134
+  },
+  {
+   "id": "pt-BR:x:100135",
+   "text": "um monte",
+   "kind": "expression",
+   "alternatives": [
+    "muito"
+   ],
+   "description": "A large amount or number.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000002488",
+    "english_id": "en:000002488",
+    "from": "core",
+    "core_priority": 3017
+   },
+   "study_priority": 135
+  },
+  {
+   "id": "pt-BR:x:100136",
+   "text": "fazer as pazes",
+   "kind": "expression",
+   "description": "To become friends again after an argument.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003330",
+    "english_id": "en:000003330",
+    "from": "core",
+    "core_priority": 3037
+   },
+   "study_priority": 136
+  },
+  {
+   "id": "pt-BR:x:100137",
+   "text": "comida para viagem",
+   "kind": "expression",
+   "description": "Food bought to eat at home.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003054",
+    "english_id": "en:000003054",
+    "from": "core",
+    "core_priority": 3046
+   },
+   "study_priority": 137
+  },
+  {
+   "id": "pt-BR:x:100138",
+   "text": "música chiclete",
+   "kind": "expression",
+   "alternatives": [
+    "hit"
+   ],
+   "description": "A very good, exciting song.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003068",
+    "english_id": "en:000003068",
+    "from": "core",
+    "core_priority": 3047
+   },
+   "study_priority": 138
+  },
+  {
+   "id": "pt-BR:x:100139",
+   "text": "amarelo-ovo",
+   "kind": "expression",
+   "description": "A strong warm yellow like the yolk of an egg.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003233",
+    "english_id": "en:000003233",
+    "from": "core",
+    "core_priority": 3048
+   },
+   "study_priority": 139
+  },
+  {
+   "id": "pt-BR:x:100140",
+   "text": "kung fu",
+   "kind": "expression",
+   "description": "A Chinese martial art.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003409",
+    "english_id": "en:000003409",
+    "from": "core",
+    "core_priority": 3049
+   },
+   "study_priority": 140
+  },
+  {
+   "id": "pt-BR:x:100141",
+   "text": "Ano Novo Chinês",
+   "kind": "expression",
+   "description": "The festival of the lunar New Year.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003566",
+    "english_id": "en:000003566",
+    "from": "core",
+    "core_priority": 3054
+   },
+   "study_priority": 141
+  },
+  {
+   "id": "pt-BR:x:100142",
+   "text": "oceano Índico",
+   "kind": "expression",
+   "description": "The ocean south of Asia.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003735",
+    "english_id": "en:000003735",
+    "from": "core",
+    "core_priority": 3058
+   },
+   "study_priority": 142
+  },
+  {
+   "id": "pt-BR:x:100143",
+   "text": "oceano Ártico",
+   "kind": "expression",
+   "description": "The ocean around the North Pole.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003736",
+    "english_id": "en:000003736",
+    "from": "core",
+    "core_priority": 3059
+   },
+   "study_priority": 143
+  },
+  {
+   "id": "pt-BR:x:100144",
+   "text": "oceano Antártico",
+   "kind": "expression",
+   "description": "The ocean around Antarctica.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003737",
+    "english_id": "en:000003737",
+    "from": "core",
+    "core_priority": 3060
+   },
+   "study_priority": 144
+  },
+  {
+   "id": "pt-BR:x:100145",
+   "text": "qualquer coisa",
+   "kind": "expression",
+   "alternatives": [
+    "algo"
+   ],
+   "description": "Any thing at all.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000000244",
+    "english_id": "en:000000244",
+    "from": "core",
+    "core_priority": 3099,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 145
+  },
+  {
+   "id": "pt-BR:x:100146",
+   "text": "metrô",
+   "kind": "expression",
+   "description": "An underground train system.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003079",
+    "english_id": "en:000003079",
+    "from": "core",
+    "core_priority": 3164
+   },
+   "study_priority": 146
+  },
+  {
+   "id": "pt-BR:x:100147",
+   "text": "brincar no parque",
+   "kind": "expression",
+   "description": "To play at the park.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003469",
+    "english_id": "en:000003469",
+    "from": "core",
+    "core_priority": 3165
+   },
+   "study_priority": 147
+  },
+  {
+   "id": "pt-BR:x:100148",
+   "text": "sacar",
+   "kind": "expression",
+   "alternatives": [
+    "resgatar"
+   ],
+   "description": "To take out your money or winnings.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003091",
+    "english_id": "en:000003091",
+    "from": "core",
+    "core_priority": 3172
+   },
+   "study_priority": 148
+  },
+  {
+   "id": "pt-BR:x:100149",
+   "text": "desenhar no ar",
+   "kind": "expression",
+   "description": "To draw shapes in the air with your finger.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003334",
+    "english_id": "en:000003334",
+    "from": "core",
+    "core_priority": 3175
+   },
+   "study_priority": 149
+  },
+  {
+   "id": "pt-BR:x:100150",
+   "text": "nadar no mar",
+   "kind": "expression",
+   "description": "To swim in the sea.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003455",
+    "english_id": "en:000003455",
+    "from": "core",
+    "core_priority": 3177
+   },
+   "study_priority": 150
+  },
+  {
+   "id": "pt-BR:x:100151",
+   "text": "castelo mágico",
+   "kind": "expression",
+   "description": "A castle in a fairy tale.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003497",
+    "english_id": "en:000003497",
+    "from": "core",
+    "core_priority": 3178
+   },
+   "study_priority": 151
+  },
+  {
+   "id": "pt-BR:x:100152",
+   "text": "sítio",
+   "kind": "expression",
+   "description": "A small country property or farm.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004100",
+    "english_id": "en:000004100",
+    "from": "core",
+    "core_priority": 3183
+   },
+   "study_priority": 152
+  },
+  {
+   "id": "pt-BR:x:100153",
+   "text": "deixar para outra vez",
+   "kind": "expression",
+   "description": "A promise to accept an invitation at a later time.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003090",
+    "english_id": "en:000003090",
+    "from": "core",
+    "core_priority": 3342
+   },
+   "study_priority": 153
+  },
+  {
+   "id": "pt-BR:x:100154",
+   "text": "mochila de viagem",
+   "kind": "expression",
+   "description": "A large bag carried on the back when traveling.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003436",
+    "english_id": "en:000003436",
+    "from": "core",
+    "core_priority": 3343
+   },
+   "study_priority": 154
+  },
+  {
+   "id": "pt-BR:x:100155",
+   "text": "dólares",
+   "kind": "expression",
+   "description": "Dollars (informal).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003001",
+    "english_id": "en:000003001",
+    "from": "core",
+    "core_priority": 3355
+   },
+   "study_priority": 155
+  },
+  {
+   "id": "pt-BR:x:100156",
+   "text": "sem problema",
+   "kind": "expression",
+   "alternatives": [
+    "tranquilo"
+   ],
+   "description": "\"No problem; don't worry.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003011",
+    "english_id": "en:000003011",
+    "from": "core",
+    "core_priority": 3356
+   },
+   "study_priority": 156
+  },
+  {
+   "id": "pt-BR:x:100157",
+   "text": "e aí?",
+   "kind": "expression",
+   "alternatives": [
+    "beleza?"
+   ],
+   "description": "\"Hi, how are you?\" (very informal).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003012",
+    "english_id": "en:000003012",
+    "from": "core",
+    "core_priority": 3357
+   },
+   "study_priority": 157
+  },
+  {
+   "id": "pt-BR:x:100158",
+   "text": "sair",
+   "kind": "expression",
+   "alternatives": [
+    "passear"
+   ],
+   "description": "To spend time relaxing with friends.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003013",
+    "english_id": "en:000003013",
+    "from": "core",
+    "core_priority": 3358
+   },
+   "study_priority": 158
+  },
+  {
+   "id": "pt-BR:x:100159",
+   "text": "comer alguma coisa",
+   "kind": "expression",
+   "alternatives": [
+    "fazer um lanche"
+   ],
+   "description": "To eat something quickly.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003014",
+    "english_id": "en:000003014",
+    "from": "core",
+    "core_priority": 3359
+   },
+   "study_priority": 159
+  },
+  {
+   "id": "pt-BR:x:100160",
+   "text": "estou morto de cansaço",
+   "kind": "expression",
+   "alternatives": [
+    "tô morto"
+   ],
+   "description": "\"I'm beat\" = I am very tired.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003015",
+    "english_id": "en:000003015",
+    "from": "core",
+    "core_priority": 3360
+   },
+   "study_priority": 160
+  },
+  {
+   "id": "pt-BR:x:100161",
+   "text": "foi mal",
+   "kind": "expression",
+   "description": "\"My mistake.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003016",
+    "english_id": "en:000003016",
+    "from": "core",
+    "core_priority": 3361
+   },
+   "study_priority": 161
+  },
+  {
+   "id": "pt-BR:x:100162",
+   "text": "deixar para outra vez",
+   "kind": "expression",
+   "description": "To politely say no now but maybe later.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003026",
+    "english_id": "en:000003026",
+    "from": "core",
+    "core_priority": 3365
+   },
+   "study_priority": 162
+  },
+  {
+   "id": "pt-BR:x:100163",
+   "text": "contar a fofoca",
+   "kind": "expression",
+   "description": "To tell gossip.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003027",
+    "english_id": "en:000003027",
+    "from": "core",
+    "core_priority": 3366
+   },
+   "study_priority": 163
+  },
+  {
+   "id": "pt-BR:x:100164",
+   "text": "meio que",
+   "kind": "expression",
+   "alternatives": [
+    "discretamente"
+   ],
+   "description": "Quietly; a little (secretly).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003028",
+    "english_id": "en:000003028",
+    "from": "core",
+    "core_priority": 3367
+   },
+   "study_priority": 164
+  },
+  {
+   "id": "pt-BR:x:100165",
+   "text": "dar ghosting",
+   "kind": "expression",
+   "alternatives": [
+    "sumir"
+   ],
+   "description": "To stop answering someone suddenly.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003030",
+    "english_id": "en:000003030",
+    "from": "core",
+    "core_priority": 3369
+   },
+   "study_priority": 165
+  },
+  {
+   "id": "pt-BR:x:100166",
+   "text": "se exibir",
+   "kind": "expression",
+   "alternatives": [
+    "ostentar"
+   ],
+   "description": "To show off.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003031",
+    "english_id": "en:000003031",
+    "from": "core",
+    "core_priority": 3370
+   },
+   "study_priority": 166
+  },
+  {
+   "id": "pt-BR:x:100167",
+   "text": "bolado",
+   "kind": "expression",
+   "alternatives": [
+    "mordido"
+   ],
+   "description": "Annoyed or bitter about something.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003032",
+    "english_id": "en:000003032",
+    "from": "core",
+    "core_priority": 3371
+   },
+   "study_priority": 167
+  },
+  {
+   "id": "pt-BR:x:100168",
+   "text": "de verdade",
+   "kind": "expression",
+   "alternatives": [
+    "top"
+   ],
+   "description": "Real; really good.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003033",
+    "english_id": "en:000003033",
+    "from": "core",
+    "core_priority": 3372
+   },
+   "study_priority": 168
+  },
+  {
+   "id": "pt-BR:x:100169",
+   "text": "bombando",
+   "kind": "expression",
+   "description": "Very exciting and fun.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003035",
+    "english_id": "en:000003035",
+    "from": "core",
+    "core_priority": 3373
+   },
+   "study_priority": 169
+  },
+  {
+   "id": "pt-BR:x:100170",
+   "text": "suspeito",
+   "kind": "expression",
+   "alternatives": [
+    "estranho"
+   ],
+   "description": "Suspicious (slang).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003036",
+    "english_id": "en:000003036",
+    "from": "core",
+    "core_priority": 3374
+   },
+   "study_priority": 170
+  },
+  {
+   "id": "pt-BR:x:100171",
+   "text": "papo reto",
+   "kind": "expression",
+   "alternatives": [
+    "é sério"
+   ],
+   "description": "Slang: \"no lie; for real\".",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003038",
+    "english_id": "en:000003038",
+    "from": "core",
+    "core_priority": 3375
+   },
+   "study_priority": 171
+  },
+  {
+   "id": "pt-BR:x:100172",
+   "text": "parça",
+   "kind": "expression",
+   "alternatives": [
+    "galera"
+   ],
+   "description": "Close friends; \"family\" (slang).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003040",
+    "english_id": "en:000003040",
+    "from": "core",
+    "core_priority": 3376
+   },
+   "study_priority": 172
+  },
+  {
+   "id": "pt-BR:x:100173",
+   "text": "mano",
+   "kind": "expression",
+   "description": "Friendly way to call a male friend.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003041",
+    "english_id": "en:000003041",
+    "from": "core",
+    "core_priority": 3377
+   },
+   "study_priority": 173
+  },
+  {
+   "id": "pt-BR:x:100174",
+   "text": "irritado de fome",
+   "kind": "expression",
+   "description": "Angry because you are hungry.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003043",
+    "english_id": "en:000003043",
+    "from": "core",
+    "core_priority": 3378
+   },
+   "study_priority": 174
+  },
+  {
+   "id": "pt-BR:x:100175",
+   "text": "dormir na casa de alguém",
+   "kind": "expression",
+   "description": "To sleep at someone's place for a night.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003044",
+    "english_id": "en:000003044",
+    "from": "core",
+    "core_priority": 3379
+   },
+   "study_priority": 175
+  },
+  {
+   "id": "pt-BR:x:100176",
+   "text": "pegar a estrada",
+   "kind": "expression",
+   "description": "To leave on a trip.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003045",
+    "english_id": "en:000003045",
+    "from": "core",
+    "core_priority": 3380
+   },
+   "study_priority": 176
+  },
+  {
+   "id": "pt-BR:x:100177",
+   "text": "moleza",
+   "kind": "expression",
+   "alternatives": [
+    "mamão com açúcar"
+   ],
+   "description": "Something very easy.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003046",
+    "english_id": "en:000003046",
+    "from": "core",
+    "core_priority": 3381
+   },
+   "study_priority": 177
+  },
+  {
+   "id": "pt-BR:x:100178",
+   "text": "merda! (boa sorte no palco)",
+   "kind": "expression",
+   "alternatives": [
+    "boa sorte"
+   ],
+   "description": "\"Good luck!\" said before a performance.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003047",
+    "english_id": "en:000003047",
+    "from": "core",
+    "core_priority": 3382
+   },
+   "study_priority": 178
+  },
+  {
+   "id": "pt-BR:x:100179",
+   "text": "meio indisposto",
+   "kind": "expression",
+   "alternatives": [
+    "meio mal"
+   ],
+   "description": "Feeling a little sick.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003048",
+    "english_id": "en:000003048",
+    "from": "core",
+    "core_priority": 3383
+   },
+   "study_priority": 179
+  },
+  {
+   "id": "pt-BR:x:100180",
+   "text": "peraí",
+   "kind": "expression",
+   "alternatives": [
+    "um segundo"
+   ],
+   "description": "\"Wait a second, please.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003049",
+    "english_id": "en:000003049",
+    "from": "core",
+    "core_priority": 3384
+   },
+   "study_priority": 180
+  },
+  {
+   "id": "pt-BR:x:100181",
+   "text": "é por minha conta",
+   "kind": "expression",
+   "description": "\"I'll pay for you.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003050",
+    "english_id": "en:000003050",
+    "from": "core",
+    "core_priority": 3385
+   },
+   "study_priority": 181
+  },
+  {
+   "id": "pt-BR:x:100182",
+   "text": "cortesia da casa",
+   "kind": "expression",
+   "description": "Free, paid by the restaurant or bar.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003051",
+    "english_id": "en:000003051",
+    "from": "core",
+    "core_priority": 3386
+   },
+   "study_priority": 182
+  },
+  {
+   "id": "pt-BR:x:100183",
+   "text": "tomar um café",
+   "kind": "expression",
+   "description": "To meet for a coffee.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003052",
+    "english_id": "en:000003052",
+    "from": "core",
+    "core_priority": 3387
+   },
+   "study_priority": 183
+  },
+  {
+   "id": "pt-BR:x:100184",
+   "text": "sem problemas",
+   "kind": "expression",
+   "alternatives": [
+    "de boa"
+   ],
+   "description": "\"It's not a problem.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003089",
+    "english_id": "en:000003089",
+    "from": "core",
+    "core_priority": 3393
+   },
+   "study_priority": 184
+  },
+  {
+   "id": "pt-BR:x:100185",
+   "text": "banana amassada",
+   "kind": "expression",
+   "description": "Banana crushed into a soft food for babies.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003226",
+    "english_id": "en:000003226",
+    "from": "core",
+    "core_priority": 3394
+   },
+   "study_priority": 185
+  },
+  {
+   "id": "pt-BR:x:100186",
+   "text": "dançar forró",
+   "kind": "expression",
+   "description": "To dance forró, a Brazilian couple dance.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003337",
+    "english_id": "en:000003337",
+    "from": "core",
+    "core_priority": 3395
+   },
+   "study_priority": 186
+  },
+  {
+   "id": "pt-BR:x:100187",
+   "text": "festival de verão",
+   "kind": "expression",
+   "description": "A traditional outdoor festival in summer (Japan).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003567",
+    "english_id": "en:000003567",
+    "from": "core",
+    "core_priority": 3397
+   },
+   "study_priority": 187
+  },
+  {
+   "id": "pt-BR:x:100188",
+   "text": "Roma Antiga",
+   "kind": "expression",
+   "description": "The civilization of Rome in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003656",
+    "english_id": "en:000003656",
+    "from": "core",
+    "core_priority": 3398
+   },
+   "study_priority": 188
+  },
+  {
+   "id": "pt-BR:x:100189",
+   "text": "Grécia Antiga",
+   "kind": "expression",
+   "description": "The civilization of Greece in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003657",
+    "english_id": "en:000003657",
+    "from": "core",
+    "core_priority": 3399
+   },
+   "study_priority": 189
+  },
+  {
+   "id": "pt-BR:x:100190",
+   "text": "China Antiga",
+   "kind": "expression",
+   "description": "China in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003658",
+    "english_id": "en:000003658",
+    "from": "core",
+    "core_priority": 3400
+   },
+   "study_priority": 190
+  },
+  {
+   "id": "pt-BR:x:100191",
+   "text": "Japão Antigo",
+   "kind": "expression",
+   "description": "Japan in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003659",
+    "english_id": "en:000003659",
+    "from": "core",
+    "core_priority": 3401
+   },
+   "study_priority": 191
+  },
+  {
+   "id": "pt-BR:x:100192",
+   "text": "rio Amazonas",
+   "kind": "expression",
+   "description": "The great river of South America.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003744",
+    "english_id": "en:000003744",
+    "from": "core",
+    "core_priority": 3409
+   },
+   "study_priority": 192
+  },
+  {
+   "id": "pt-BR:x:100193",
+   "text": "monte Fuji",
+   "kind": "expression",
+   "description": "The highest mountain in Japan.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003745",
+    "english_id": "en:000003745",
+    "from": "core",
+    "core_priority": 3410
+   },
+   "study_priority": 193
+  },
+  {
+   "id": "pt-BR:x:100194",
+   "text": "Cristo Redentor",
+   "kind": "expression",
+   "description": "The large statue of Christ over Rio de Janeiro.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003746",
+    "english_id": "en:000003746",
+    "from": "core",
+    "core_priority": 3411
+   },
+   "study_priority": 194
+  },
+  {
+   "id": "pt-BR:x:100195",
+   "text": "Muralha da China",
+   "kind": "expression",
+   "description": "The ancient wall across northern China.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003747",
+    "english_id": "en:000003747",
+    "from": "core",
+    "core_priority": 3412
+   },
+   "study_priority": 195
+  },
+  {
+   "id": "pt-BR:x:100196",
+   "text": "Torre Eiffel",
+   "kind": "expression",
+   "description": "The iron tower in Paris.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003748",
+    "english_id": "en:000003748",
+    "from": "core",
+    "core_priority": 3413
+   },
+   "study_priority": 196
+  },
+  {
+   "id": "pt-BR:x:100197",
+   "text": "pirâmides de Gizé",
+   "kind": "expression",
+   "description": "The ancient pyramids near Cairo.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003750",
+    "english_id": "en:000003750",
+    "from": "core",
+    "core_priority": 3415
+   },
+   "study_priority": 197
+  },
+  {
+   "id": "pt-BR:x:100198",
+   "text": "Taj Mahal",
+   "kind": "expression",
+   "description": "The white marble monument in Agra, India.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003752",
+    "english_id": "en:000003752",
+    "from": "core",
+    "core_priority": 3417
+   },
+   "study_priority": 198
+  },
+  {
+   "id": "pt-BR:x:100199",
+   "text": "Machu Picchu",
+   "kind": "expression",
+   "description": "The Inca city in the mountains of Peru.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000003753",
+    "english_id": "en:000003753",
+    "from": "core",
+    "core_priority": 3418
+   },
+   "study_priority": 199
+  },
+  {
+   "id": "pt-BR:x:100200",
+   "text": "armário de moedas",
+   "kind": "expression",
+   "description": "A small locker where you keep your things for a short time by paying coins.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004310",
+    "english_id": "en:000004310",
+    "from": "core",
+    "core_priority": 3731,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 200
+  },
+  {
+   "id": "pt-BR:x:100201",
+   "text": "chocolate quente",
+   "kind": "expression",
+   "description": "A hot drink made with chocolate or cocoa and milk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004315",
+    "english_id": "en:000004315",
+    "from": "core",
+    "core_priority": 3736,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 201
+  },
+  {
+   "id": "pt-BR:x:100202",
+   "text": "loja de departamentos",
+   "kind": "expression",
+   "description": "A large store with many departments selling different goods.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004323",
+    "english_id": "en:000004323",
+    "from": "core",
+    "core_priority": 3744,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 202
+  },
+  {
+   "id": "pt-BR:x:100203",
+   "text": "máquina de venda automática",
+   "kind": "expression",
+   "description": "A machine that sells drinks or snacks when you put in money.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004364",
+    "english_id": "en:000004364",
+    "from": "core",
+    "core_priority": 3785,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 203
+  },
+  {
+   "id": "pt-BR:x:100204",
+   "text": "número de telefone",
+   "kind": "expression",
+   "description": "The series of digits you dial to call someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004374",
+    "english_id": "en:000004374",
+    "from": "core",
+    "core_priority": 3795,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 204
+  },
+  {
+   "id": "pt-BR:x:100205",
+   "text": "jogo de cartas",
+   "kind": "expression",
+   "description": "A game played with a set of cards.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004377",
+    "english_id": "en:000004377",
+    "from": "core",
+    "core_priority": 3798,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 205
+  },
+  {
+   "id": "pt-BR:x:100206",
+   "text": "ponto de ônibus",
+   "kind": "expression",
+   "alternatives": [
+    "ponto"
+   ],
+   "description": "A place where buses stop to pick up passengers.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004385",
+    "english_id": "en:000004385",
+    "from": "core",
+    "core_priority": 3806,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 206
+  },
+  {
+   "id": "pt-BR:x:100207",
+   "text": "música pop",
+   "kind": "expression",
+   "description": "Popular music with catchy songs.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004386",
+    "english_id": "en:000004386",
+    "from": "core",
+    "core_priority": 3807,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 207
+  },
+  {
+   "id": "pt-BR:x:100208",
+   "text": "luzes decorativas",
+   "kind": "expression",
+   "description": "Colorful lights put up outside for a festival, especially in winter.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004388",
+    "english_id": "en:000004388",
+    "from": "core",
+    "core_priority": 3809,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 208
+  },
+  {
+   "id": "pt-BR:x:100209",
+   "text": "toda manhã",
+   "kind": "expression",
+   "description": "In the morning of each day.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004411",
+    "english_id": "en:000004411",
+    "from": "core",
+    "core_priority": 3832,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 209
+  },
+  {
+   "id": "pt-BR:x:100210",
+   "text": "toda noite",
+   "kind": "expression",
+   "description": "In the evening or night of each day.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004412",
+    "english_id": "en:000004412",
+    "from": "core",
+    "core_priority": 3833,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 210
+  },
+  {
+   "id": "pt-BR:x:100211",
+   "text": "véspera de Ano-Novo",
+   "kind": "expression",
+   "description": "The last day of the year.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004416",
+    "english_id": "en:000004416",
+    "from": "core",
+    "core_priority": 3837,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 211
+  },
+  {
+   "id": "pt-BR:x:100212",
+   "text": "centro comunitário",
+   "kind": "expression",
+   "description": "A public building where local people meet for activities.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004418",
+    "english_id": "en:000004418",
+    "from": "core",
+    "core_priority": 3839,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 212
+  },
+  {
+   "id": "pt-BR:x:100213",
+   "text": "ir para a cama",
+   "kind": "expression",
+   "alternatives": [
+    "deitar",
+    "ir dormir"
+   ],
+   "description": "To lie down in bed to sleep.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004647",
+    "english_id": "en:000004647",
+    "from": "core",
+    "core_priority": 4094,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 213
+  },
+  {
+   "id": "pt-BR:x:100214",
+   "text": "conto com você",
+   "kind": "expression",
+   "alternatives": [
+    "muito prazer",
+    "por favor"
+   ],
+   "description": "Polite phrase said when meeting someone or asking for a favor.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004659",
+    "english_id": "en:000004659",
+    "from": "core",
+    "core_priority": 4106,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 214
+  },
+  {
+   "id": "pt-BR:x:100215",
+   "text": "este fim de semana",
+   "kind": "expression",
+   "description": "The coming Saturday and Sunday.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004662",
+    "english_id": "en:000004662",
+    "from": "core",
+    "core_priority": 4109,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 215
+  },
+  {
+   "id": "pt-BR:x:100216",
+   "text": "que tipo de",
+   "kind": "expression",
+   "alternatives": [
+    "qual"
+   ],
+   "description": "Asks about the type or nature of something.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004676",
+    "english_id": "en:000004676",
+    "from": "core",
+    "core_priority": 4123,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 216
+  },
+  {
+   "id": "pt-BR:x:100217",
+   "text": "banana com chocolate",
+   "kind": "expression",
+   "description": "A banana dipped in chocolate, a festival snack.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004690",
+    "english_id": "en:000004690",
+    "from": "core",
+    "core_priority": 4137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 217
+  },
+  {
+   "id": "pt-BR:x:100218",
+   "text": "música de anime",
+   "kind": "expression",
+   "description": "A song from an anime series.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "pt-BR:en:000004693",
+    "english_id": "en:000004693",
+    "from": "core",
+    "core_priority": 4140,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 218
+  }
+ ]
+}

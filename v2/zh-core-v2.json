@@ -5,7 +5,7 @@
  "language": "zh",
  "region": null,
  "name": "中文 — 词汇",
- "version": "2.6.2",
+ "version": "2.6.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -47,7 +47,8 @@
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
   "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
-  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346)."
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346).",
+  "2.6.3: 216 expression/composite entries retired and moved to zh-expressions-v2 (ids kept, core_status=retired, moved_to pointer)."
  ],
  "entries": [
   {
@@ -368,7 +369,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000120"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100049"
   },
   {
    "id": "zh:en:000000012",
@@ -3740,7 +3743,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000078"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100050"
   },
   {
    "id": "zh:en:000000120",
@@ -4627,7 +4632,9 @@
    "user_hint": "",
    "description": "过去经常做，现在不做了。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100116"
   },
   {
    "id": "zh:en:000000151",
@@ -5275,7 +5282,9 @@
    "description": "在某物的下面：“桌子下面”。也表示低于：“十岁以下”。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100051"
   },
   {
    "id": "zh:en:000000173",
@@ -7275,7 +7284,9 @@
    "description": "任何一样东西。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100144"
   },
   {
    "id": "zh:en:000000245",
@@ -9776,7 +9787,9 @@
    "description": "在某个范围或时间限度之内。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100052"
   },
   {
    "id": "zh:en:000000340",
@@ -13866,7 +13879,9 @@
    "description": "在某个物体的后面。如“在门后面”“站在我后面”。表示位置。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100001"
   },
   {
    "id": "zh:en:000000491",
@@ -14002,7 +14017,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000285"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100002"
   },
   {
    "id": "zh:en:000000497",
@@ -16731,7 +16748,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000912"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100003"
   },
   {
    "id": "zh:en:000000608",
@@ -23999,7 +24018,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000607"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100004"
   },
   {
    "id": "zh:en:000000914",
@@ -28003,7 +28024,9 @@
    "description": "遍及各处；在整个期间。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100053"
   },
   {
    "id": "zh:en:000001078",
@@ -52693,7 +52716,9 @@
    "description": "表示在已经提到的人或事物之外还有别的。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100054"
   },
   {
    "id": "zh:en:000002290",
@@ -64365,7 +64390,9 @@
    "user_hint": "",
    "description": "有权享有某物。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100117"
   },
   {
    "id": "zh:en:000002901",
@@ -66111,7 +66138,8 @@
    "description": "口语表达：我累极了。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100159"
   },
   {
    "id": "zh:en:000003068",
@@ -66133,7 +66161,9 @@
    "study_priority": 3008,
    "user_hint": "",
    "description": "一首非常好听、令人兴奋的歌。",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100137"
   },
   {
    "id": "zh:en:000003047",
@@ -66157,7 +66187,8 @@
    "description": "表演前祝人好运的口语说法。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100177"
   },
   {
    "id": "zh:en:000003041",
@@ -66189,7 +66220,8 @@
    "description": "亲切地称呼男性朋友。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100172"
   },
   {
    "id": "zh:en:000003001",
@@ -66213,7 +66245,8 @@
    "description": "美元（口语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100154"
   },
   {
    "id": "zh:en:000003091",
@@ -66245,7 +66278,8 @@
    "description": "取出自己的钱或赢得的钱。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100147"
   },
   {
    "id": "zh:en:000003044",
@@ -66267,7 +66301,8 @@
    "description": "在别人家借宿一晚。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100174"
   },
   {
    "id": "zh:en:000003040",
@@ -66299,7 +66334,8 @@
    "description": "很亲密、像家人一样的朋友（口语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100171"
   },
   {
    "id": "zh:en:000003031",
@@ -66331,7 +66367,8 @@
    "description": "炫耀自己拥有的东西。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100165"
   },
   {
    "id": "zh:en:000003030",
@@ -66355,7 +66392,8 @@
    "description": "突然不再回复某人。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100164"
   },
   {
    "id": "zh:en:000003049",
@@ -66377,7 +66415,8 @@
    "description": "“请稍等一下。”",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100179"
   },
   {
    "id": "zh:en:000003014",
@@ -66399,7 +66438,8 @@
    "description": "匆匆吃点东西。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100158"
   },
   {
    "id": "zh:en:000003052",
@@ -66421,7 +66461,8 @@
    "description": "约人喝杯咖啡。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100182"
   },
   {
    "id": "zh:en:000003013",
@@ -66445,7 +66486,8 @@
    "description": "和朋友一起放松消磨时间。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100157"
   },
   {
    "id": "zh:en:000003043",
@@ -66467,7 +66509,8 @@
    "description": "因为饿而发脾气。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100173"
   },
   {
    "id": "zh:en:000003045",
@@ -66491,7 +66534,8 @@
    "description": "启程上路。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100175"
   },
   {
    "id": "zh:en:000003033",
@@ -66515,7 +66559,8 @@
    "description": "真的；很靠谱。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100167"
   },
   {
    "id": "zh:en:000003035",
@@ -66539,7 +66584,8 @@
    "description": "非常热闹好玩。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100168"
   },
   {
    "id": "zh:en:000003028",
@@ -66571,7 +66617,8 @@
    "description": "低调地；有点儿（私下里）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100163"
   },
   {
    "id": "zh:en:000003080",
@@ -66600,7 +66647,9 @@
    "user_hint": "",
    "description": "城市的地铁。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100055"
   },
   {
    "id": "zh:en:000003016",
@@ -66622,7 +66671,8 @@
    "description": "“是我的错。”",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100160"
   },
   {
    "id": "zh:en:000003050",
@@ -66644,7 +66694,8 @@
    "description": "“我来请客。”",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100180"
   },
   {
    "id": "zh:en:000003089",
@@ -66666,7 +66717,8 @@
    "description": "“没什么大不了。”",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100183"
   },
   {
    "id": "zh:en:000003038",
@@ -66690,7 +66742,8 @@
    "description": "俚语：不骗你；说真的。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100170"
   },
   {
    "id": "zh:en:000003011",
@@ -66722,7 +66775,8 @@
    "description": "“没问题，别担心。”",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100155"
   },
   {
    "id": "zh:en:000003051",
@@ -66746,7 +66800,8 @@
    "description": "免费，由餐厅或酒吧买单。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100181"
   },
   {
    "id": "zh:en:000003046",
@@ -66768,7 +66823,8 @@
    "description": "非常容易的事。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100176"
   },
   {
    "id": "zh:en:000003032",
@@ -66792,7 +66848,8 @@
    "description": "因某事恼火或愤愤不平。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100166"
   },
   {
    "id": "zh:en:000003075",
@@ -66824,7 +66881,9 @@
    "user_hint": "",
    "description": "有气泡的甜饮料，比如“一罐汽水”。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100005"
   },
   {
    "id": "zh:en:000003027",
@@ -66856,7 +66915,8 @@
    "description": "说八卦。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100162"
   },
   {
    "id": "zh:en:000003036",
@@ -66886,7 +66946,8 @@
    "description": "可疑（俚语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100169"
   },
   {
    "id": "zh:en:000003026",
@@ -66910,7 +66971,8 @@
    "description": "礼貌地推掉这次，改日再说。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100161"
   },
   {
    "id": "zh:en:000003054",
@@ -66939,7 +67001,9 @@
    "user_hint": "",
    "description": "买回家吃的饭菜。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100136"
   },
   {
    "id": "zh:en:000003079",
@@ -66969,7 +67033,8 @@
    "description": "在地下运行的列车系统。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100145"
   },
   {
    "id": "zh:en:000003048",
@@ -66991,7 +67056,8 @@
    "description": "身体有点不舒服。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100178"
   },
   {
    "id": "zh:en:000003012",
@@ -67013,7 +67079,8 @@
    "description": "“嗨，最近怎么样？”（很口语）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100156"
   },
   {
    "id": "zh:en:000003092",
@@ -67232,7 +67299,9 @@
    "description": "在…旁边：“坐在我旁边”。也指与…相比。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100056"
   },
   {
    "id": "zh:en:000003098",
@@ -69563,7 +69632,9 @@
    "description": "在某物下面。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100057"
   },
   {
    "id": "zh:en:000003173",
@@ -70342,7 +70413,9 @@
    "description": "一个接一个，中间不断（如连续三天）。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100132"
   },
   {
    "id": "zh:en:000000703",
@@ -70764,7 +70837,9 @@
    "description": "做决定前仔细想一想。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100133"
   },
   {
    "id": "zh:en:000001720",
@@ -71528,7 +71603,9 @@
    "description": "大量。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100134"
   },
   {
    "id": "zh:en:000002493",
@@ -71952,7 +72029,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100152"
   },
   {
    "id": "zh:en:000003193",
@@ -72162,7 +72240,9 @@
    "description": "表示理所应当、毫无疑问（如“当然会帮忙”）。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100006"
   },
   {
    "id": "zh:en:000003206",
@@ -72270,7 +72350,9 @@
    "description": "作为玩具的小汽车。如“玩具车”“玩具小汽车”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100007"
   },
   {
    "id": "zh:en:000003211",
@@ -72469,7 +72551,9 @@
    "description": "把衣服、鞋帽等穿到身上。如“穿上外套”“戴上帽子”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100008"
   },
   {
    "id": "zh:en:000003220",
@@ -72490,7 +72574,9 @@
    "description": "把穿着的衣服等拿下来。如“脱下外套”“脱鞋”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100009"
   },
   {
    "id": "zh:en:000003221",
@@ -72625,7 +72711,8 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100184"
   },
   {
    "id": "zh:en:000003227",
@@ -72646,7 +72733,9 @@
    "description": "圣诞节送礼物的红衣老人。如“圣诞老人”。常出现在故事和图画中。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100010"
   },
   {
    "id": "zh:en:000003229",
@@ -72667,7 +72756,9 @@
    "description": "一年最初的几天及其庆祝。如“过新年”“新年快乐”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100011"
   },
   {
    "id": "zh:en:000003230",
@@ -72690,7 +72781,9 @@
    "description": "柔软的玩具熊。如“泰迪熊”“毛绒熊”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100012"
   },
   {
    "id": "zh:en:000003231",
@@ -72711,7 +72804,9 @@
    "description": "用来搭东西的小积木。如“玩积木”“搭积木”。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100013"
   },
   {
    "id": "zh:en:000003232",
@@ -72755,7 +72850,9 @@
    "description": "像蛋黄一样浓烈温暖的黄色。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100138"
   },
   {
    "id": "zh:en:000003234",
@@ -72885,7 +72982,9 @@
    "description": "蛋里面黄色的部分。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100014"
   },
   {
    "id": "zh:en:000003241",
@@ -73200,7 +73299,9 @@
    "description": "用来削尖铅笔的小工具。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100058"
   },
   {
    "id": "zh:en:000003256",
@@ -73263,7 +73364,9 @@
    "description": "从街的一边走到另一边。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100059"
   },
   {
    "id": "zh:en:000003259",
@@ -73543,7 +73646,9 @@
    "description": "等到轮到自己再做某事。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100060"
   },
   {
    "id": "zh:en:000003272",
@@ -73564,7 +73669,9 @@
    "description": "举起手来请求发言。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100015"
   },
   {
    "id": "zh:en:000003273",
@@ -73585,7 +73692,9 @@
    "description": "留心听老师讲话。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100061"
   },
   {
    "id": "zh:en:000003274",
@@ -73669,7 +73778,9 @@
    "description": "正式的皮鞋。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100062"
   },
   {
    "id": "zh:en:000003278",
@@ -74501,7 +74612,9 @@
    "description": "用水和肥皂清洁双手。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100016"
   },
   {
    "id": "zh:en:000003317",
@@ -74522,7 +74635,9 @@
    "description": "用牙刷清洁牙齿。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100017"
   },
   {
    "id": "zh:en:000003318",
@@ -74543,7 +74658,9 @@
    "description": "把衣服穿上。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100018"
   },
   {
    "id": "zh:en:000003319",
@@ -74564,7 +74681,9 @@
    "description": "用梳子把头发梳整齐。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100019"
   },
   {
    "id": "zh:en:000003320",
@@ -74585,7 +74704,9 @@
    "description": "系好鞋带。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100020"
   },
   {
    "id": "zh:en:000003321",
@@ -74606,7 +74727,9 @@
    "description": "过马路前看左右两边。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100063"
   },
   {
    "id": "zh:en:000003322",
@@ -74627,7 +74750,9 @@
    "description": "请别人帮忙。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100021"
   },
   {
    "id": "zh:en:000003323",
@@ -74648,7 +74773,9 @@
    "description": "说出真正发生的事。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100064"
   },
   {
    "id": "zh:en:000003324",
@@ -74690,7 +74817,9 @@
    "description": "握着另一个人的手。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100022"
   },
   {
    "id": "zh:en:000003326",
@@ -74711,7 +74840,9 @@
    "description": "向人问候。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100023"
   },
   {
    "id": "zh:en:000003327",
@@ -74776,7 +74907,9 @@
    "description": "笑得停不下来。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100065"
   },
   {
    "id": "zh:en:000003330",
@@ -74797,7 +74930,9 @@
    "description": "吵架后重新和好。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100135"
   },
   {
    "id": "zh:en:000003331",
@@ -74818,7 +74953,9 @@
    "description": "不把私密的事告诉别人。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100066"
   },
   {
    "id": "zh:en:000003332",
@@ -74841,7 +74978,9 @@
    "description": "把私密的事告诉某人。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100067"
   },
   {
    "id": "zh:en:000003333",
@@ -74887,7 +75026,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100148"
   },
   {
    "id": "zh:en:000003335",
@@ -74951,7 +75091,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100185"
   },
   {
    "id": "zh:en:000003338",
@@ -74974,7 +75115,9 @@
    "description": "用脚踢球，把球踢进球门的运动：“周末踢足球”。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100024"
   },
   {
    "id": "zh:en:000003339",
@@ -74995,7 +75138,9 @@
    "description": "打篮球。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100068"
   },
   {
    "id": "zh:en:000003340",
@@ -75016,7 +75161,9 @@
    "description": "打排球。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100069"
   },
   {
    "id": "zh:en:000003341",
@@ -75037,7 +75184,9 @@
    "description": "玩屏幕上的游戏。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100070"
   },
   {
    "id": "zh:en:000003342",
@@ -75058,7 +75207,9 @@
    "description": "看动画节目。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100025"
   },
   {
    "id": "zh:en:000003343",
@@ -75079,7 +75230,9 @@
    "description": "为了欣赏而听乐曲或歌曲。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100026"
   },
   {
    "id": "zh:en:000003344",
@@ -75100,7 +75253,9 @@
    "description": "很早就去睡觉。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100027"
   },
   {
    "id": "zh:en:000003345",
@@ -75121,7 +75276,9 @@
    "description": "很早就醒来起床。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100028"
   },
   {
    "id": "zh:en:000003346",
@@ -75479,7 +75636,9 @@
    "description": "用牛奶做的冰冻甜品。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100029"
   },
   {
    "id": "zh:en:000003363",
@@ -75542,7 +75701,9 @@
    "description": "用橙子制成的饮料。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100030"
   },
   {
    "id": "zh:en:000003366",
@@ -75920,7 +76081,9 @@
    "description": "把钱存起来而不花掉。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100118"
   },
   {
    "id": "zh:en:000003384",
@@ -75962,7 +76125,9 @@
    "description": "小孩子上的学校（最初几年）。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100031"
   },
   {
    "id": "zh:en:000003386",
@@ -76046,7 +76211,9 @@
    "description": "装学习用品的包。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100032"
   },
   {
    "id": "zh:en:000003390",
@@ -76067,7 +76234,9 @@
    "description": "装铅笔和钢笔的小盒子。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100033"
   },
   {
    "id": "zh:en:000003391",
@@ -76429,7 +76598,9 @@
    "description": "跑、跳、投掷类运动。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100071"
   },
   {
    "id": "zh:en:000003408",
@@ -76471,7 +76642,9 @@
    "description": "中国武术。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100139"
   },
   {
    "id": "zh:en:000003410",
@@ -76534,7 +76707,9 @@
    "description": "跑得很快。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100119"
   },
   {
    "id": "zh:en:000003413",
@@ -76555,7 +76730,9 @@
    "description": "接住朝你扔来的球。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100120"
   },
   {
    "id": "zh:en:000003414",
@@ -77061,7 +77238,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100153"
   },
   {
    "id": "zh:en:000003437",
@@ -77167,7 +77345,9 @@
    "description": "靠尖端旋转的玩具。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100034"
   },
   {
    "id": "zh:en:000003442",
@@ -77230,7 +77410,9 @@
    "description": "一个孩子找躲起来的其他孩子的游戏。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100035"
   },
   {
    "id": "zh:en:000003445",
@@ -77274,7 +77456,9 @@
    "description": "两队朝相反方向拉绳子的比赛。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100072"
   },
   {
    "id": "zh:en:000003447",
@@ -77295,7 +77479,9 @@
    "description": "跳过转动绳子的游戏。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100036"
   },
   {
    "id": "zh:en:000003448",
@@ -77316,7 +77502,9 @@
    "description": "让风筝在风中飞起来。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100121"
   },
   {
    "id": "zh:en:000003449",
@@ -77337,7 +77525,9 @@
    "description": "玩小玻璃球。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100122"
   },
   {
    "id": "zh:en:000003450",
@@ -77445,7 +77635,9 @@
    "description": "穿轮滑鞋滑行。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100073"
   },
   {
    "id": "zh:en:000003455",
@@ -77467,7 +77659,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100149"
   },
   {
    "id": "zh:en:000003456",
@@ -77580,7 +77773,9 @@
    "description": "尝一点食物来检查味道。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100074"
   },
   {
    "id": "zh:en:000003461",
@@ -77601,7 +77796,9 @@
    "description": "饭后把餐具从桌上收走。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100075"
   },
   {
    "id": "zh:en:000003462",
@@ -77622,7 +77819,9 @@
    "description": "饭后把盘子和杯子洗干净。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100037"
   },
   {
    "id": "zh:en:000003463",
@@ -77685,7 +77884,9 @@
    "description": "整理床单和被子。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100038"
   },
   {
    "id": "zh:en:000003466",
@@ -77706,7 +77907,9 @@
    "description": "给植物浇水。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100039"
   },
   {
    "id": "zh:en:000003467",
@@ -77727,7 +77930,9 @@
    "description": "带狗出去散步。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100040"
   },
   {
    "id": "zh:en:000003468",
@@ -77748,7 +77953,9 @@
    "description": "给宠物喂食。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100076"
   },
   {
    "id": "zh:en:000003469",
@@ -77770,7 +77977,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100146"
   },
   {
    "id": "zh:en:000003470",
@@ -77791,7 +77999,9 @@
    "description": "看电视。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100041"
   },
   {
    "id": "zh:en:000003471",
@@ -77812,7 +78022,9 @@
    "description": "收听广播。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100077"
   },
   {
    "id": "zh:en:000003472",
@@ -77833,7 +78045,9 @@
    "description": "浏览网络上的网站。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100078"
   },
   {
    "id": "zh:en:000003473",
@@ -77854,7 +78068,9 @@
    "description": "用相机或手机拍照。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100042"
   },
   {
    "id": "zh:en:000003474",
@@ -77875,7 +78091,9 @@
    "description": "录制视频。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100079"
   },
   {
    "id": "zh:en:000003475",
@@ -77896,7 +78114,9 @@
    "description": "弹奏钢琴。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100080"
   },
   {
    "id": "zh:en:000003476",
@@ -77917,7 +78137,9 @@
    "description": "弹奏吉他。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100081"
   },
   {
    "id": "zh:en:000003477",
@@ -77938,7 +78160,9 @@
    "description": "吹奏笛子或长笛。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100082"
   },
   {
    "id": "zh:en:000003478",
@@ -77959,7 +78183,9 @@
    "description": "演奏架子鼓。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100083"
   },
   {
    "id": "zh:en:000003479",
@@ -78087,7 +78313,9 @@
    "description": "清理脏乱。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100084"
   },
   {
    "id": "zh:en:000003485",
@@ -78108,7 +78336,9 @@
    "description": "引人注意或请人让路时的礼貌用语。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100043"
   },
   {
    "id": "zh:en:000003486",
@@ -78129,7 +78359,9 @@
    "description": "排队等候轮到自己。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100044"
   },
   {
    "id": "zh:en:000003487",
@@ -78150,7 +78382,9 @@
    "description": "听父母的话。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100085"
   },
   {
    "id": "zh:en:000003488",
@@ -78171,7 +78405,9 @@
    "description": "按规则所说的去做。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100086"
   },
   {
    "id": "zh:en:000003489",
@@ -78192,7 +78428,9 @@
    "description": "在约定的时间到达。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100087"
   },
   {
    "id": "zh:en:000003490",
@@ -78213,7 +78451,9 @@
    "description": "出了问题时告诉大人。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100045"
   },
   {
    "id": "zh:en:000003491",
@@ -78365,7 +78605,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100150"
   },
   {
    "id": "zh:en:000003498",
@@ -78514,7 +78755,9 @@
    "description": "标明宝藏藏在哪里的地图。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100088"
   },
   {
    "id": "zh:en:000003505",
@@ -78915,7 +79158,9 @@
    "description": "樱树开的粉色或白色花。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100089"
   },
   {
    "id": "zh:en:000003524",
@@ -79041,7 +79286,9 @@
    "description": "产卵的雌蜂。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100090"
   },
   {
    "id": "zh:en:000003530",
@@ -79125,7 +79372,9 @@
    "description": "鸟产下的蛋。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100091"
   },
   {
    "id": "zh:en:000003534",
@@ -79696,7 +79945,9 @@
    "description": "用木偶表演的戏。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100092"
   },
   {
    "id": "zh:en:000003561",
@@ -79822,7 +80073,9 @@
    "description": "庆祝农历新年的节日。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100140"
   },
   {
    "id": "zh:en:000003567",
@@ -79844,7 +80097,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100186"
   },
   {
    "id": "zh:en:000003568",
@@ -79865,7 +80119,9 @@
    "description": "数字10,000。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100046"
   },
   {
    "id": "zh:en:000003569",
@@ -80648,7 +80904,9 @@
    "description": "处于液态的水。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100123"
   },
   {
    "id": "zh:en:000003606",
@@ -80669,7 +80927,9 @@
    "description": "冻结的二氧化碳。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100124"
   },
   {
    "id": "zh:en:000003607",
@@ -80922,7 +81182,9 @@
    "description": "使物质变成新物质的过程。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100125"
   },
   {
    "id": "zh:en:000003619",
@@ -80964,7 +81226,9 @@
    "description": "夜空中一闪而过的明亮光迹。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100047"
   },
   {
    "id": "zh:en:000003621",
@@ -81048,7 +81312,9 @@
    "description": "太阳及绕它运转的行星。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100093"
   },
   {
    "id": "zh:en:000003625",
@@ -81237,7 +81503,9 @@
    "description": "看起来完全圆的月亮。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100048"
   },
   {
    "id": "zh:en:000003634",
@@ -81728,7 +81996,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100187"
   },
   {
    "id": "zh:en:000003657",
@@ -81750,7 +82019,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100188"
   },
   {
    "id": "zh:en:000003658",
@@ -81772,7 +82042,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100189"
   },
   {
    "id": "zh:en:000003659",
@@ -81794,7 +82065,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100190"
   },
   {
    "id": "zh:en:000003660",
@@ -81878,7 +82150,9 @@
    "description": "每个人都享有的基本权利。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100094"
   },
   {
    "id": "zh:en:000003664",
@@ -81899,7 +82173,9 @@
    "description": "使用飞机作战的军种。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100095"
   },
   {
    "id": "zh:en:000003666",
@@ -82109,7 +82385,9 @@
    "description": "刊登科学论文的出版物。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100126"
   },
   {
    "id": "zh:en:000003676",
@@ -82571,7 +82849,9 @@
    "description": "整个世界的地图。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100096"
   },
   {
    "id": "zh:en:000003698",
@@ -83309,7 +83589,9 @@
    "description": "海洋中持续流动的水流。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100097"
   },
   {
    "id": "zh:en:000003733",
@@ -83372,7 +83654,9 @@
    "description": "位于亚洲以南的大洋。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100141"
   },
   {
    "id": "zh:en:000003736",
@@ -83393,7 +83677,9 @@
    "description": "环绕北极的海洋。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100142"
   },
   {
    "id": "zh:en:000003737",
@@ -83414,7 +83700,9 @@
    "description": "环绕南极洲的海洋。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100143"
   },
   {
    "id": "zh:en:000003738",
@@ -83568,7 +83856,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100191"
   },
   {
    "id": "zh:en:000003745",
@@ -83590,7 +83879,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100192"
   },
   {
    "id": "zh:en:000003746",
@@ -83612,7 +83902,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100193"
   },
   {
    "id": "zh:en:000003747",
@@ -83634,7 +83925,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100194"
   },
   {
    "id": "zh:en:000003748",
@@ -83656,7 +83948,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100195"
   },
   {
    "id": "zh:en:000003750",
@@ -83678,7 +83971,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100196"
   },
   {
    "id": "zh:en:000003751",
@@ -83722,7 +84016,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100197"
   },
   {
    "id": "zh:en:000003753",
@@ -83744,7 +84039,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100198"
   },
   {
    "id": "zh:en:000003754",
@@ -83894,7 +84190,9 @@
    "description": "绘画、雕塑等艺术创作。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100098"
   },
   {
    "id": "zh:en:000003761",
@@ -84362,7 +84660,9 @@
    "description": "买卖资金和投资产品的体系。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100127"
   },
   {
    "id": "zh:en:000003783",
@@ -84383,7 +84683,9 @@
    "description": "买卖公司股票的场所。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100128"
   },
   {
    "id": "zh:en:000003784",
@@ -84865,7 +85167,9 @@
    "description": "生产电力的工厂。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100099"
   },
   {
    "id": "zh:en:000003806",
@@ -84886,7 +85190,9 @@
    "description": "由风产生的能量。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100100"
   },
   {
    "id": "zh:en:000003807",
@@ -84907,7 +85213,9 @@
    "description": "由流动的水产生的能量。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100101"
   },
   {
    "id": "zh:en:000003808",
@@ -84972,7 +85280,9 @@
    "description": "地下开采、用作燃料的气体。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100102"
   },
   {
    "id": "zh:en:000003811",
@@ -85228,7 +85538,9 @@
    "description": "自然界中谁吃谁的一连串关系。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100129"
   },
   {
    "id": "zh:en:000003823",
@@ -86168,7 +86480,9 @@
    "description": "一个人生活和健康状况的好坏程度。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100130"
   },
   {
    "id": "zh:en:000003867",
@@ -87229,7 +87543,9 @@
    "description": "对天气的预测。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100103"
   },
   {
    "id": "zh:en:000003915",
@@ -87336,7 +87652,9 @@
    "description": "很少的数量。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100104"
   },
   {
    "id": "zh:en:000003921",
@@ -87529,7 +87847,9 @@
    "description": "不少于；至少。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100105"
   },
   {
    "id": "zh:en:000003932",
@@ -87742,7 +88062,9 @@
    "description": "剩下的部分；其余的。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100106"
   },
   {
    "id": "zh:en:000003944",
@@ -87870,7 +88192,9 @@
    "description": "用来举例。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100107"
   },
   {
    "id": "zh:en:000003950",
@@ -88273,7 +88597,9 @@
    "description": "以较低价格出售。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100108"
   },
   {
    "id": "zh:en:000003972",
@@ -88315,7 +88641,9 @@
    "description": "大的字母，如 A、B、C。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100109"
   },
   {
    "id": "zh:en:000003974",
@@ -88745,7 +89073,9 @@
    "description": "可随身携带的电话。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100110"
   },
   {
    "id": "zh:en:000003997",
@@ -89124,7 +89454,9 @@
    "description": "我也不（附和否定的话）。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100111"
   },
   {
    "id": "zh:en:000004015",
@@ -90848,7 +91180,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "zh:x:100151"
   },
   {
    "id": "zh:en:000004101",
@@ -90934,7 +91267,9 @@
    "description": "用勺子转动，把食物或液体搅匀。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100112"
   },
   {
    "id": "zh:en:000004105",
@@ -91045,7 +91380,9 @@
    "description": "正确的答案。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100113"
   },
   {
    "id": "zh:en:000004110",
@@ -91068,7 +91405,9 @@
    "description": "以日常生活为内容的电视连续剧。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100114"
   },
   {
    "id": "zh:en:000004111",
@@ -91326,7 +91665,9 @@
    "description": "由一人演奏的成套鼓。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100115"
   },
   {
    "id": "zh:en:000004123",
@@ -91900,7 +92241,9 @@
    "description": "来自阳光的能量。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "zh:x:100131"
   },
   {
    "id": "zh:en:000004150",
@@ -95264,7 +95607,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "tóu bì shì chǔ wù guì",
-   "romanization": "tóu bì shì chǔ wù guì"
+   "romanization": "tóu bì shì chǔ wù guì",
+   "core_status": "retired",
+   "moved_to": "zh:x:100199"
   },
   {
    "id": "zh:en:000004311",
@@ -95364,7 +95709,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "rè qiǎo kè lì",
-   "romanization": "rè qiǎo kè lì"
+   "romanization": "rè qiǎo kè lì",
+   "core_status": "retired",
+   "moved_to": "zh:x:100200"
   },
   {
    "id": "zh:en:000004316",
@@ -95524,7 +95871,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "bǎi huò shāng diàn",
-   "romanization": "bǎi huò shāng diàn"
+   "romanization": "bǎi huò shāng diàn",
+   "core_status": "retired",
+   "moved_to": "zh:x:100201"
   },
   {
    "id": "zh:en:000004324",
@@ -96344,7 +96693,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "zì dòng shòu huò jī",
-   "romanization": "zì dòng shòu huò jī"
+   "romanization": "zì dòng shòu huò jī",
+   "core_status": "retired",
+   "moved_to": "zh:x:100202"
   },
   {
    "id": "zh:en:000004365",
@@ -96544,7 +96895,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "diàn huà hào mǎ",
-   "romanization": "diàn huà hào mǎ"
+   "romanization": "diàn huà hào mǎ",
+   "core_status": "retired",
+   "moved_to": "zh:x:100203"
   },
   {
    "id": "zh:en:000004375",
@@ -96604,7 +96957,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "zhǐ pái yóu xì",
-   "romanization": "zhǐ pái yóu xì"
+   "romanization": "zhǐ pái yóu xì",
+   "core_status": "retired",
+   "moved_to": "zh:x:100204"
   },
   {
    "id": "zh:en:000004378",
@@ -96764,7 +97119,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "gōng jiāo chē zhàn",
-   "romanization": "gōng jiāo chē zhàn"
+   "romanization": "gōng jiāo chē zhàn",
+   "core_status": "retired",
+   "moved_to": "zh:x:100205"
   },
   {
    "id": "zh:en:000004386",
@@ -96784,7 +97141,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "liú xíng yīn yuè",
-   "romanization": "liú xíng yīn yuè"
+   "romanization": "liú xíng yīn yuè",
+   "core_status": "retired",
+   "moved_to": "zh:x:100206"
   },
   {
    "id": "zh:en:000004387",
@@ -96824,7 +97183,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "dēng guāng zhuāng shì",
-   "romanization": "dēng guāng zhuāng shì"
+   "romanization": "dēng guāng zhuāng shì",
+   "core_status": "retired",
+   "moved_to": "zh:x:100207"
   },
   {
    "id": "zh:en:000004389",
@@ -97284,7 +97645,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "měi tiān zǎo shàng",
-   "romanization": "měi tiān zǎo shàng"
+   "romanization": "měi tiān zǎo shàng",
+   "core_status": "retired",
+   "moved_to": "zh:x:100208"
   },
   {
    "id": "zh:en:000004412",
@@ -97304,7 +97667,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "měi tiān wǎn shàng",
-   "romanization": "měi tiān wǎn shàng"
+   "romanization": "měi tiān wǎn shàng",
+   "core_status": "retired",
+   "moved_to": "zh:x:100209"
   },
   {
    "id": "zh:en:000004413",
@@ -97424,7 +97789,9 @@
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
    "reading": "shè qū huó dòng zhōng xīn",
-   "romanization": "shè qū huó dòng zhōng xīn"
+   "romanization": "shè qū huó dòng zhōng xīn",
+   "core_status": "retired",
+   "moved_to": "zh:x:100210"
   },
   {
    "id": "zh:en:000004420",
@@ -102882,7 +103249,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "routine"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100211"
   },
   {
    "id": "zh:en:000004648",
@@ -103200,7 +103569,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100212"
   },
   {
    "id": "zh:en:000004660",
@@ -103280,7 +103651,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "time"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100213"
   },
   {
    "id": "zh:en:000004663",
@@ -103660,7 +104033,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100214"
   },
   {
    "id": "zh:en:000004677",
@@ -104032,7 +104407,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100215"
   },
   {
    "id": "zh:en:000004691",
@@ -104110,7 +104487,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "zh:x:100216"
   },
   {
    "id": "zh:en:000004694",

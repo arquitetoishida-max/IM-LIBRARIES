@@ -1,0 +1,4077 @@
+{
+ "schema_version": 2,
+ "package_id": "zh-expressions-v2",
+ "package_type": "ishida-monolingual",
+ "language": "zh",
+ "region": null,
+ "name": "Expressions and slang in Chinese",
+ "version": "1.0.0",
+ "english_explanations": true,
+ "status": "draft-editorial",
+ "language_info": {
+  "code": "zh",
+  "flag": "🇨🇳",
+  "locale": "zh-CN",
+  "name_native": "中文（普通话）",
+  "name_en": "Mandarin Chinese",
+  "name_pt": "Mandarim",
+  "name_ja": "中国語（標準語）",
+  "script": "han"
+ },
+ "role": "expressions",
+ "license": "ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).",
+ "sources": [
+  "Moved from the zh core (expression entries and composite headwords)"
+ ],
+ "notes": [
+  "Descriptions, readings and romanization are in English and are translated online at runtime; the URL search button is the escape hatch for mistranslations.",
+  "Independent per language; own ID space {lang}:x:100001+; no cross-language sync; no inter-group mobility (studied alone). Usage/vulgarity labels are free-form."
+ ],
+ "entries": [
+  {
+   "id": "zh:x:100001",
+   "text": "在…后面",
+   "kind": "expression",
+   "alternatives": [
+    "在…之后",
+    "背后"
+   ],
+   "description": "At the back of.",
+   "reading": "zài…hòumiàn",
+   "romanization": "zài…hòumiàn",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000490",
+    "english_id": "en:000000490",
+    "from": "core",
+    "core_priority": 137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 1
+  },
+  {
+   "id": "zh:x:100002",
+   "text": "在…附近",
+   "kind": "expression",
+   "alternatives": [
+    "靠近",
+    "附近"
+   ],
+   "description": "Close to.",
+   "reading": "zài…fùjìn",
+   "romanization": "zài…fùjìn",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000495",
+    "english_id": "en:000000495",
+    "from": "core",
+    "core_priority": 139,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 2
+  },
+  {
+   "id": "zh:x:100003",
+   "text": "在…上面",
+   "kind": "expression",
+   "alternatives": [
+    "上面"
+   ],
+   "description": "Higher than.",
+   "reading": "zài…shàngmiàn",
+   "romanization": "zài…shàngmiàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000607",
+    "english_id": "en:000000607",
+    "from": "core",
+    "core_priority": 178,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 3
+  },
+  {
+   "id": "zh:x:100004",
+   "text": "在…下面",
+   "kind": "expression",
+   "alternatives": [
+    "以下"
+   ],
+   "description": "Lower than.",
+   "reading": "zài…xiàmiàn",
+   "romanization": "zài…xiàmiàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000912",
+    "english_id": "en:000000912",
+    "from": "core",
+    "core_priority": 300,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 4
+  },
+  {
+   "id": "zh:x:100005",
+   "text": "汽水",
+   "kind": "expression",
+   "alternatives": [
+    "碳酸饮料",
+    "苏打水"
+   ],
+   "description": "A sweet fizzy drink.",
+   "reading": "qìshuǐ",
+   "romanization": "qìshuǐ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003075",
+    "english_id": "en:000003075",
+    "from": "core",
+    "core_priority": 643
+   },
+   "study_priority": 5
+  },
+  {
+   "id": "zh:x:100006",
+   "text": "当然",
+   "kind": "expression",
+   "description": "Certainly; naturally: \"Of course I will help\".",
+   "reading": "dāngrán",
+   "romanization": "dāngrán",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003205",
+    "english_id": "en:000003205",
+    "from": "core",
+    "core_priority": 679
+   },
+   "study_priority": 6
+  },
+  {
+   "id": "zh:x:100007",
+   "text": "玩具车",
+   "kind": "expression",
+   "description": "A small car made as a toy.",
+   "reading": "wánjùchē",
+   "romanization": "wánjùchē",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003210",
+    "english_id": "en:000003210",
+    "from": "core",
+    "core_priority": 683
+   },
+   "study_priority": 7
+  },
+  {
+   "id": "zh:x:100008",
+   "text": "穿上",
+   "kind": "expression",
+   "description": "To dress yourself in a piece of clothing.",
+   "reading": "chuānshàng",
+   "romanization": "chuānshàng",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003219",
+    "english_id": "en:000003219",
+    "from": "core",
+    "core_priority": 692
+   },
+   "study_priority": 8
+  },
+  {
+   "id": "zh:x:100009",
+   "text": "脱下",
+   "kind": "expression",
+   "description": "To remove a piece of clothing.",
+   "reading": "tuōxià",
+   "romanization": "tuōxià",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003220",
+    "english_id": "en:000003220",
+    "from": "core",
+    "core_priority": 693
+   },
+   "study_priority": 9
+  },
+  {
+   "id": "zh:x:100010",
+   "text": "圣诞老人",
+   "kind": "expression",
+   "description": "The man in a red suit who brings presents at Christmas.",
+   "reading": "shèngdànlǎorén",
+   "romanization": "shèngdànlǎorén",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003227",
+    "english_id": "en:000003227",
+    "from": "core",
+    "core_priority": 699
+   },
+   "study_priority": 10
+  },
+  {
+   "id": "zh:x:100011",
+   "text": "新年",
+   "kind": "expression",
+   "description": "The first days of the year and their celebration.",
+   "reading": "xīnnián",
+   "romanization": "xīnnián",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003229",
+    "english_id": "en:000003229",
+    "from": "core",
+    "core_priority": 700
+   },
+   "study_priority": 11
+  },
+  {
+   "id": "zh:x:100012",
+   "text": "泰迪熊",
+   "kind": "expression",
+   "alternatives": [
+    "毛绒熊"
+   ],
+   "description": "A soft toy bear.",
+   "reading": "tàidíxióng",
+   "romanization": "tàidíxióng",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003230",
+    "english_id": "en:000003230",
+    "from": "core",
+    "core_priority": 701
+   },
+   "study_priority": 12
+  },
+  {
+   "id": "zh:x:100013",
+   "text": "积木",
+   "kind": "expression",
+   "description": "A small toy block used to build things.",
+   "reading": "jīmù",
+   "romanization": "jīmù",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003231",
+    "english_id": "en:000003231",
+    "from": "core",
+    "core_priority": 702
+   },
+   "study_priority": 13
+  },
+  {
+   "id": "zh:x:100014",
+   "text": "蛋黄",
+   "kind": "expression",
+   "description": "The yellow part inside an egg.",
+   "reading": "dànhuáng",
+   "romanization": "dànhuáng",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003240",
+    "english_id": "en:000003240",
+    "from": "core",
+    "core_priority": 709
+   },
+   "study_priority": 14
+  },
+  {
+   "id": "zh:x:100015",
+   "text": "举手",
+   "kind": "expression",
+   "description": "To lift your hand to ask to speak.",
+   "reading": "jǔshǒu",
+   "romanization": "jǔshǒu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003272",
+    "english_id": "en:000003272",
+    "from": "core",
+    "core_priority": 724
+   },
+   "study_priority": 15
+  },
+  {
+   "id": "zh:x:100016",
+   "text": "洗手",
+   "kind": "expression",
+   "description": "To clean your hands with water and soap.",
+   "reading": "xǐ shǒu",
+   "romanization": "xǐshǒu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003316",
+    "english_id": "en:000003316",
+    "from": "core",
+    "core_priority": 758
+   },
+   "study_priority": 16
+  },
+  {
+   "id": "zh:x:100017",
+   "text": "刷牙",
+   "kind": "expression",
+   "description": "To clean your teeth with a toothbrush.",
+   "reading": "shuāyá",
+   "romanization": "shuāyá",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003317",
+    "english_id": "en:000003317",
+    "from": "core",
+    "core_priority": 759
+   },
+   "study_priority": 17
+  },
+  {
+   "id": "zh:x:100018",
+   "text": "穿衣服",
+   "kind": "expression",
+   "description": "To put your clothes on.",
+   "reading": "chuān yīfu",
+   "romanization": "chuānyīfú",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003318",
+    "english_id": "en:000003318",
+    "from": "core",
+    "core_priority": 760
+   },
+   "study_priority": 18
+  },
+  {
+   "id": "zh:x:100019",
+   "text": "梳头",
+   "kind": "expression",
+   "description": "To make your hair neat with a brush.",
+   "reading": "shūtóu",
+   "romanization": "shūtóu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003319",
+    "english_id": "en:000003319",
+    "from": "core",
+    "core_priority": 761
+   },
+   "study_priority": 19
+  },
+  {
+   "id": "zh:x:100020",
+   "text": "系鞋带",
+   "kind": "expression",
+   "description": "To fasten the laces of your shoes.",
+   "reading": "jì xiédài",
+   "romanization": "jìxiédài",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003320",
+    "english_id": "en:000003320",
+    "from": "core",
+    "core_priority": 762
+   },
+   "study_priority": 20
+  },
+  {
+   "id": "zh:x:100021",
+   "text": "求助",
+   "kind": "expression",
+   "description": "To ask someone to help you.",
+   "reading": "qiúzhù",
+   "romanization": "qiúzhù",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003322",
+    "english_id": "en:000003322",
+    "from": "core",
+    "core_priority": 763
+   },
+   "study_priority": 21
+  },
+  {
+   "id": "zh:x:100022",
+   "text": "牵手",
+   "kind": "expression",
+   "description": "To hold another person's hand.",
+   "reading": "qiānshǒu",
+   "romanization": "qiānshǒu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003325",
+    "english_id": "en:000003325",
+    "from": "core",
+    "core_priority": 765
+   },
+   "study_priority": 22
+  },
+  {
+   "id": "zh:x:100023",
+   "text": "打招呼",
+   "kind": "expression",
+   "description": "To greet someone.",
+   "reading": "dǎ zhāohu",
+   "romanization": "dǎzhāohū",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003326",
+    "english_id": "en:000003326",
+    "from": "core",
+    "core_priority": 766
+   },
+   "study_priority": 23
+  },
+  {
+   "id": "zh:x:100024",
+   "text": "踢足球",
+   "kind": "expression",
+   "alternatives": [
+    "玩足球"
+   ],
+   "description": "To play football (soccer).",
+   "reading": "tī zúqiú",
+   "romanization": "tīzúqiú",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003338",
+    "english_id": "en:000003338",
+    "from": "core",
+    "core_priority": 770
+   },
+   "study_priority": 24
+  },
+  {
+   "id": "zh:x:100025",
+   "text": "看动画片",
+   "kind": "expression",
+   "description": "To watch animated programs.",
+   "reading": "kàn dònghuàpiàn",
+   "romanization": "kàndònghuàpiàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003342",
+    "english_id": "en:000003342",
+    "from": "core",
+    "core_priority": 771
+   },
+   "study_priority": 25
+  },
+  {
+   "id": "zh:x:100026",
+   "text": "听音乐",
+   "kind": "expression",
+   "description": "To listen to music.",
+   "reading": "tīng yīnyuè",
+   "romanization": "tīngyīnyuè",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003343",
+    "english_id": "en:000003343",
+    "from": "core",
+    "core_priority": 772
+   },
+   "study_priority": 26
+  },
+  {
+   "id": "zh:x:100027",
+   "text": "早睡",
+   "kind": "expression",
+   "description": "To go to sleep early.",
+   "reading": "zǎoshuì",
+   "romanization": "zǎoshuì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003344",
+    "english_id": "en:000003344",
+    "from": "core",
+    "core_priority": 773
+   },
+   "study_priority": 27
+  },
+  {
+   "id": "zh:x:100028",
+   "text": "早起",
+   "kind": "expression",
+   "description": "To wake up early.",
+   "reading": "zǎoqǐ",
+   "romanization": "zǎoqǐ",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003345",
+    "english_id": "en:000003345",
+    "from": "core",
+    "core_priority": 774
+   },
+   "study_priority": 28
+  },
+  {
+   "id": "zh:x:100029",
+   "text": "冰淇淋",
+   "kind": "expression",
+   "description": "A frozen sweet food made from milk.",
+   "reading": "bīngqílín",
+   "romanization": "bīngqílín",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003362",
+    "english_id": "en:000003362",
+    "from": "core",
+    "core_priority": 788
+   },
+   "study_priority": 29
+  },
+  {
+   "id": "zh:x:100030",
+   "text": "橙汁",
+   "kind": "expression",
+   "description": "Drink made from oranges.",
+   "reading": "chéngzhī",
+   "romanization": "chéngzhī",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003365",
+    "english_id": "en:000003365",
+    "from": "core",
+    "core_priority": 791
+   },
+   "study_priority": 30
+  },
+  {
+   "id": "zh:x:100031",
+   "text": "小学",
+   "kind": "expression",
+   "description": "A school for young children (first years).",
+   "reading": "xiǎoxué",
+   "romanization": "xiǎoxué",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003385",
+    "english_id": "en:000003385",
+    "from": "core",
+    "core_priority": 810
+   },
+   "study_priority": 31
+  },
+  {
+   "id": "zh:x:100032",
+   "text": "书包",
+   "kind": "expression",
+   "description": "A bag for carrying school things.",
+   "reading": "shūbāo",
+   "romanization": "shūbāo",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003389",
+    "english_id": "en:000003389",
+    "from": "core",
+    "core_priority": 814
+   },
+   "study_priority": 32
+  },
+  {
+   "id": "zh:x:100033",
+   "text": "铅笔盒",
+   "kind": "expression",
+   "description": "A small case for pencils and pens.",
+   "reading": "qiānbǐhé",
+   "romanization": "qiānbǐhé",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003390",
+    "english_id": "en:000003390",
+    "from": "core",
+    "core_priority": 815
+   },
+   "study_priority": 33
+  },
+  {
+   "id": "zh:x:100034",
+   "text": "陀螺",
+   "kind": "expression",
+   "description": "A toy that spins on its point.",
+   "reading": "tuóluó",
+   "romanization": "tuóluó",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003441",
+    "english_id": "en:000003441",
+    "from": "core",
+    "core_priority": 838
+   },
+   "study_priority": 34
+  },
+  {
+   "id": "zh:x:100035",
+   "text": "捉迷藏",
+   "kind": "expression",
+   "description": "A game where one child looks for others who are hiding.",
+   "reading": "zhuōmícáng",
+   "romanization": "zhuōmícáng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003444",
+    "english_id": "en:000003444",
+    "from": "core",
+    "core_priority": 840
+   },
+   "study_priority": 35
+  },
+  {
+   "id": "zh:x:100036",
+   "text": "跳绳",
+   "kind": "expression",
+   "description": "A game of jumping over a turning rope.",
+   "reading": "tiàoshéng",
+   "romanization": "tiàoshéng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003447",
+    "english_id": "en:000003447",
+    "from": "core",
+    "core_priority": 842
+   },
+   "study_priority": 36
+  },
+  {
+   "id": "zh:x:100037",
+   "text": "洗碗",
+   "kind": "expression",
+   "description": "To clean plates and cups after a meal.",
+   "reading": "xǐ wǎn",
+   "romanization": "xǐwǎn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003462",
+    "english_id": "en:000003462",
+    "from": "core",
+    "core_priority": 846
+   },
+   "study_priority": 37
+  },
+  {
+   "id": "zh:x:100038",
+   "text": "整理床铺",
+   "kind": "expression",
+   "description": "To arrange the sheets and covers of a bed.",
+   "reading": "zhěnglǐ chuángpù",
+   "romanization": "zhěnglǐchuángpù",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003465",
+    "english_id": "en:000003465",
+    "from": "core",
+    "core_priority": 848
+   },
+   "study_priority": 38
+  },
+  {
+   "id": "zh:x:100039",
+   "text": "浇花",
+   "kind": "expression",
+   "description": "To give water to plants.",
+   "reading": "jiāo huā",
+   "romanization": "jiāohuā",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003466",
+    "english_id": "en:000003466",
+    "from": "core",
+    "core_priority": 849
+   },
+   "study_priority": 39
+  },
+  {
+   "id": "zh:x:100040",
+   "text": "遛狗",
+   "kind": "expression",
+   "description": "To take a dog for a walk.",
+   "reading": "liù gǒu",
+   "romanization": "liúgǒu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003467",
+    "english_id": "en:000003467",
+    "from": "core",
+    "core_priority": 850
+   },
+   "study_priority": 40
+  },
+  {
+   "id": "zh:x:100041",
+   "text": "看电视",
+   "kind": "expression",
+   "description": "To watch television.",
+   "reading": "kàn diànshì",
+   "romanization": "kàndiànshì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003470",
+    "english_id": "en:000003470",
+    "from": "core",
+    "core_priority": 851
+   },
+   "study_priority": 41
+  },
+  {
+   "id": "zh:x:100042",
+   "text": "拍照",
+   "kind": "expression",
+   "description": "To take a picture with a camera or phone.",
+   "reading": "pāi zhào",
+   "romanization": "pāizhào",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003473",
+    "english_id": "en:000003473",
+    "from": "core",
+    "core_priority": 852
+   },
+   "study_priority": 42
+  },
+  {
+   "id": "zh:x:100043",
+   "text": "不好意思",
+   "kind": "expression",
+   "description": "Polite words to get attention or pass by someone.",
+   "reading": "bù hǎoyìsi",
+   "romanization": "bùhǎoyìsī",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003485",
+    "english_id": "en:000003485",
+    "from": "core",
+    "core_priority": 853
+   },
+   "study_priority": 43
+  },
+  {
+   "id": "zh:x:100044",
+   "text": "排队",
+   "kind": "expression",
+   "description": "To wait in a line for your turn.",
+   "reading": "pái duì",
+   "romanization": "páiduì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003486",
+    "english_id": "en:000003486",
+    "from": "core",
+    "core_priority": 854
+   },
+   "study_priority": 44
+  },
+  {
+   "id": "zh:x:100045",
+   "text": "告诉大人",
+   "kind": "expression",
+   "description": "To tell a grown-up when something is wrong.",
+   "reading": "gàosu dàren",
+   "romanization": "gàosùdàrén",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003490",
+    "english_id": "en:000003490",
+    "from": "core",
+    "core_priority": 855
+   },
+   "study_priority": 45
+  },
+  {
+   "id": "zh:x:100046",
+   "text": "一万",
+   "kind": "expression",
+   "description": "The number 10,000.",
+   "reading": "yíwàn",
+   "romanization": "yīwàn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003568",
+    "english_id": "en:000003568",
+    "from": "core",
+    "core_priority": 874
+   },
+   "study_priority": 46
+  },
+  {
+   "id": "zh:x:100047",
+   "text": "流星",
+   "kind": "expression",
+   "description": "A bright streak of light in the night sky.",
+   "reading": "liúxīng",
+   "romanization": "liúxīng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003620",
+    "english_id": "en:000003620",
+    "from": "core",
+    "core_priority": 876
+   },
+   "study_priority": 47
+  },
+  {
+   "id": "zh:x:100048",
+   "text": "满月",
+   "kind": "expression",
+   "description": "The moon when it looks completely round.",
+   "reading": "mǎnyuè",
+   "romanization": "mǎnyuè",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003633",
+    "english_id": "en:000003633",
+    "from": "core",
+    "core_priority": 878
+   },
+   "study_priority": 48
+  },
+  {
+   "id": "zh:x:100049",
+   "text": "在…上",
+   "kind": "expression",
+   "alternatives": [
+    "在…上面",
+    "在"
+   ],
+   "description": "Touching the top surface of something (\"on the table\").",
+   "reading": "zài…shàng",
+   "romanization": "zài…shàng",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000011",
+    "english_id": "en:000000011",
+    "from": "core",
+    "core_priority": 921,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 49
+  },
+  {
+   "id": "zh:x:100050",
+   "text": "在…以前",
+   "kind": "expression",
+   "alternatives": [
+    "之前",
+    "以前"
+   ],
+   "description": "Earlier than.",
+   "reading": "zài…yǐqián",
+   "romanization": "zài…yǐqián",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000119",
+    "english_id": "en:000000119",
+    "from": "core",
+    "core_priority": 971,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 50
+  },
+  {
+   "id": "zh:x:100051",
+   "text": "在…下面",
+   "kind": "expression",
+   "alternatives": [
+    "在…下",
+    "低于"
+   ],
+   "description": "Below something.",
+   "reading": "zài…xiàmiàn",
+   "romanization": "zài…xiàmiàn",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000172",
+    "english_id": "en:000000172",
+    "from": "core",
+    "core_priority": 991,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 51
+  },
+  {
+   "id": "zh:x:100052",
+   "text": "在…之内",
+   "kind": "expression",
+   "description": "Inside a space or time limit.",
+   "reading": "zài…zhīnèi",
+   "romanization": "zài…zhīnèi",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000339",
+    "english_id": "en:000000339",
+    "from": "core",
+    "core_priority": 1016,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 52
+  },
+  {
+   "id": "zh:x:100053",
+   "text": "整个…期间",
+   "kind": "expression",
+   "alternatives": [
+    "遍及"
+   ],
+   "description": "In every part of; during the whole time.",
+   "reading": "zhěnggè…qījiān",
+   "romanization": "zhěnggè…qījiān",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000001077",
+    "english_id": "en:000001077",
+    "from": "core",
+    "core_priority": 1180,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 53
+  },
+  {
+   "id": "zh:x:100054",
+   "text": "除了…以外",
+   "kind": "expression",
+   "description": "In addition to someone or something that has already been mentioned.",
+   "reading": "chúle…yǐwài",
+   "romanization": "chúle…yǐwài",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000002289",
+    "english_id": "en:000002289",
+    "from": "core",
+    "core_priority": 1639,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 54
+  },
+  {
+   "id": "zh:x:100055",
+   "text": "地铁",
+   "kind": "expression",
+   "description": "A city's subway train.",
+   "reading": "dìtiě",
+   "romanization": "dìtiě",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003080",
+    "english_id": "en:000003080",
+    "from": "core",
+    "core_priority": 1931
+   },
+   "study_priority": 55
+  },
+  {
+   "id": "zh:x:100056",
+   "text": "在…旁边",
+   "kind": "expression",
+   "alternatives": [
+    "旁边",
+    "紧靠"
+   ],
+   "description": "Next to.",
+   "reading": "zài…pángbiān",
+   "romanization": "zài…pángbiān",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003097",
+    "english_id": "en:000003097",
+    "from": "core",
+    "core_priority": 1936,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 56
+  },
+  {
+   "id": "zh:x:100057",
+   "text": "在…下面",
+   "kind": "expression",
+   "description": "Under.",
+   "reading": "zài…xiàmiàn",
+   "romanization": "zài…xiàmiàn",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003172",
+    "english_id": "en:000003172",
+    "from": "core",
+    "core_priority": 1977,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 57
+  },
+  {
+   "id": "zh:x:100058",
+   "text": "卷笔刀",
+   "kind": "expression",
+   "description": "A small tool for making pencils sharp.",
+   "reading": "juǎnbǐdāo",
+   "romanization": "juǎnbǐdāo",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003255",
+    "english_id": "en:000003255",
+    "from": "core",
+    "core_priority": 1999
+   },
+   "study_priority": 58
+  },
+  {
+   "id": "zh:x:100059",
+   "text": "过马路",
+   "kind": "expression",
+   "description": "To go from one side of the street to the other.",
+   "reading": "guò mǎlù",
+   "romanization": "guòmǎlù",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003258",
+    "english_id": "en:000003258",
+    "from": "core",
+    "core_priority": 2001
+   },
+   "study_priority": 59
+  },
+  {
+   "id": "zh:x:100060",
+   "text": "等轮到自己",
+   "kind": "expression",
+   "description": "To wait until it is your time to do something.",
+   "reading": "děng lúndào zìjǐ",
+   "romanization": "děnglúndàozìjǐ",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003271",
+    "english_id": "en:000003271",
+    "from": "core",
+    "core_priority": 2007
+   },
+   "study_priority": 60
+  },
+  {
+   "id": "zh:x:100061",
+   "text": "听老师的话",
+   "kind": "expression",
+   "description": "To pay attention to what the teacher says.",
+   "reading": "tīng lǎoshī de huà",
+   "romanization": "tīnglǎoshī",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003273",
+    "english_id": "en:000003273",
+    "from": "core",
+    "core_priority": 2008
+   },
+   "study_priority": 61
+  },
+  {
+   "id": "zh:x:100062",
+   "text": "皮鞋",
+   "kind": "expression",
+   "description": "A formal leather shoe.",
+   "reading": "píxié",
+   "romanization": "lǐfúxié",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003277",
+    "english_id": "en:000003277",
+    "from": "core",
+    "core_priority": 2010
+   },
+   "study_priority": 62
+  },
+  {
+   "id": "zh:x:100063",
+   "text": "看两边",
+   "kind": "expression",
+   "description": "To look left and right before crossing a street.",
+   "reading": "kàn liǎngbiān",
+   "romanization": "kànliǎngbiān",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003321",
+    "english_id": "en:000003321",
+    "from": "core",
+    "core_priority": 2018
+   },
+   "study_priority": 63
+  },
+  {
+   "id": "zh:x:100064",
+   "text": "说实话",
+   "kind": "expression",
+   "description": "To say what really happened.",
+   "reading": "shuō shíhuà",
+   "romanization": "shuōshíhuà",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003323",
+    "english_id": "en:000003323",
+    "from": "core",
+    "core_priority": 2019
+   },
+   "study_priority": 64
+  },
+  {
+   "id": "zh:x:100065",
+   "text": "大笑",
+   "kind": "expression",
+   "description": "To laugh a lot.",
+   "reading": "dàxiào",
+   "romanization": "xiàofān",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003329",
+    "english_id": "en:000003329",
+    "from": "core",
+    "core_priority": 2020
+   },
+   "study_priority": 65
+  },
+  {
+   "id": "zh:x:100066",
+   "text": "保密",
+   "kind": "expression",
+   "description": "To not tell others something private.",
+   "reading": "bǎomì",
+   "romanization": "bǎomì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003331",
+    "english_id": "en:000003331",
+    "from": "core",
+    "core_priority": 2021
+   },
+   "study_priority": 66
+  },
+  {
+   "id": "zh:x:100067",
+   "text": "说出秘密",
+   "kind": "expression",
+   "alternatives": [
+    "泄密"
+   ],
+   "description": "To tell someone something private.",
+   "reading": "shuōchū mìmì",
+   "romanization": "xièmì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003332",
+    "english_id": "en:000003332",
+    "from": "core",
+    "core_priority": 2022
+   },
+   "study_priority": 67
+  },
+  {
+   "id": "zh:x:100068",
+   "text": "打篮球",
+   "kind": "expression",
+   "description": "To play basketball.",
+   "reading": "dǎ lánqiú",
+   "romanization": "dǎlánqiú",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003339",
+    "english_id": "en:000003339",
+    "from": "core",
+    "core_priority": 2025
+   },
+   "study_priority": 68
+  },
+  {
+   "id": "zh:x:100069",
+   "text": "打排球",
+   "kind": "expression",
+   "description": "To play volleyball.",
+   "reading": "dǎ páiqiú",
+   "romanization": "dǎpáiqiú",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003340",
+    "english_id": "en:000003340",
+    "from": "core",
+    "core_priority": 2026
+   },
+   "study_priority": 69
+  },
+  {
+   "id": "zh:x:100070",
+   "text": "打游戏",
+   "kind": "expression",
+   "description": "To play games on a screen.",
+   "reading": "dǎ yóuxì",
+   "romanization": "dǎyóuxì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003341",
+    "english_id": "en:000003341",
+    "from": "core",
+    "core_priority": 2027
+   },
+   "study_priority": 70
+  },
+  {
+   "id": "zh:x:100071",
+   "text": "田径",
+   "kind": "expression",
+   "description": "Sports of running, jumping and throwing.",
+   "reading": "tiánjìng",
+   "romanization": "tiánjìng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003407",
+    "english_id": "en:000003407",
+    "from": "core",
+    "core_priority": 2036
+   },
+   "study_priority": 71
+  },
+  {
+   "id": "zh:x:100072",
+   "text": "拔河",
+   "kind": "expression",
+   "description": "A game where two teams pull a rope in opposite directions.",
+   "reading": "báhé",
+   "romanization": "báhé",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003446",
+    "english_id": "en:000003446",
+    "from": "core",
+    "core_priority": 2053
+   },
+   "study_priority": 72
+  },
+  {
+   "id": "zh:x:100073",
+   "text": "溜旱冰",
+   "kind": "expression",
+   "description": "To move on roller skates.",
+   "reading": "liū hànbīng",
+   "romanization": "liūhànbīng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003454",
+    "english_id": "en:000003454",
+    "from": "core",
+    "core_priority": 2057
+   },
+   "study_priority": 73
+  },
+  {
+   "id": "zh:x:100074",
+   "text": "尝味道",
+   "kind": "expression",
+   "description": "To try a little of the food to check its flavor.",
+   "reading": "cháng wèidao",
+   "romanization": "chángcài",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003460",
+    "english_id": "en:000003460",
+    "from": "core",
+    "core_priority": 2060
+   },
+   "study_priority": 74
+  },
+  {
+   "id": "zh:x:100075",
+   "text": "收拾桌子",
+   "kind": "expression",
+   "description": "To take dishes away from the table after eating.",
+   "reading": "shōushi zhuōzi",
+   "romanization": "shōushízhuōzi",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003461",
+    "english_id": "en:000003461",
+    "from": "core",
+    "core_priority": 2061
+   },
+   "study_priority": 75
+  },
+  {
+   "id": "zh:x:100076",
+   "text": "喂宠物",
+   "kind": "expression",
+   "description": "To give food to a pet.",
+   "reading": "wèi chǒngwù",
+   "romanization": "wèichǒngwù",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003468",
+    "english_id": "en:000003468",
+    "from": "core",
+    "core_priority": 2063
+   },
+   "study_priority": 76
+  },
+  {
+   "id": "zh:x:100077",
+   "text": "听广播",
+   "kind": "expression",
+   "description": "To listen to the radio.",
+   "reading": "tīng guǎngbō",
+   "romanization": "tīngguǎngbō",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003471",
+    "english_id": "en:000003471",
+    "from": "core",
+    "core_priority": 2064
+   },
+   "study_priority": 77
+  },
+  {
+   "id": "zh:x:100078",
+   "text": "上网",
+   "kind": "expression",
+   "description": "To look at websites on the internet.",
+   "reading": "shàng wǎng",
+   "romanization": "shàngwǎng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003472",
+    "english_id": "en:000003472",
+    "from": "core",
+    "core_priority": 2065
+   },
+   "study_priority": 78
+  },
+  {
+   "id": "zh:x:100079",
+   "text": "录视频",
+   "kind": "expression",
+   "description": "To record a video.",
+   "reading": "lù shìpín",
+   "romanization": "lùshìpín",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003474",
+    "english_id": "en:000003474",
+    "from": "core",
+    "core_priority": 2066
+   },
+   "study_priority": 79
+  },
+  {
+   "id": "zh:x:100080",
+   "text": "弹钢琴",
+   "kind": "expression",
+   "description": "To play the piano.",
+   "reading": "tán gāngqín",
+   "romanization": "tángāngqín",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003475",
+    "english_id": "en:000003475",
+    "from": "core",
+    "core_priority": 2067
+   },
+   "study_priority": 80
+  },
+  {
+   "id": "zh:x:100081",
+   "text": "弹吉他",
+   "kind": "expression",
+   "description": "To play the guitar.",
+   "reading": "tán jítā",
+   "romanization": "dànjítā",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003476",
+    "english_id": "en:000003476",
+    "from": "core",
+    "core_priority": 2068
+   },
+   "study_priority": 81
+  },
+  {
+   "id": "zh:x:100082",
+   "text": "吹笛子",
+   "kind": "expression",
+   "description": "To play the flute.",
+   "reading": "chuī dízi",
+   "romanization": "chuīdízi",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003477",
+    "english_id": "en:000003477",
+    "from": "core",
+    "core_priority": 2069
+   },
+   "study_priority": 82
+  },
+  {
+   "id": "zh:x:100083",
+   "text": "打鼓",
+   "kind": "expression",
+   "description": "To play the drums.",
+   "reading": "dǎ gǔ",
+   "romanization": "dǎgǔ",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003478",
+    "english_id": "en:000003478",
+    "from": "core",
+    "core_priority": 2070
+   },
+   "study_priority": 83
+  },
+  {
+   "id": "zh:x:100084",
+   "text": "清理",
+   "kind": "expression",
+   "description": "To clean up a mess.",
+   "reading": "qīnglǐ",
+   "romanization": "qīnglǐ",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003484",
+    "english_id": "en:000003484",
+    "from": "core",
+    "core_priority": 2073
+   },
+   "study_priority": 84
+  },
+  {
+   "id": "zh:x:100085",
+   "text": "听父母的话",
+   "kind": "expression",
+   "description": "To listen to your parents.",
+   "reading": "tīng fùmǔ de huà",
+   "romanization": "tīngfùmǔdehuà",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003487",
+    "english_id": "en:000003487",
+    "from": "core",
+    "core_priority": 2074
+   },
+   "study_priority": 85
+  },
+  {
+   "id": "zh:x:100086",
+   "text": "遵守规则",
+   "kind": "expression",
+   "description": "To do what the rules say.",
+   "reading": "zūnshǒu guīzé",
+   "romanization": "zūnshǒuguīzé",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003488",
+    "english_id": "en:000003488",
+    "from": "core",
+    "core_priority": 2075
+   },
+   "study_priority": 86
+  },
+  {
+   "id": "zh:x:100087",
+   "text": "准时到达",
+   "kind": "expression",
+   "description": "To arrive at the planned time.",
+   "reading": "zhǔnshí dàodá",
+   "romanization": "zhǔnshí",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003489",
+    "english_id": "en:000003489",
+    "from": "core",
+    "core_priority": 2076
+   },
+   "study_priority": 87
+  },
+  {
+   "id": "zh:x:100088",
+   "text": "藏宝图",
+   "kind": "expression",
+   "description": "A map showing where treasure is hidden.",
+   "reading": "cángbǎotú",
+   "romanization": "cángbǎotú",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003504",
+    "english_id": "en:000003504",
+    "from": "core",
+    "core_priority": 2083
+   },
+   "study_priority": 88
+  },
+  {
+   "id": "zh:x:100089",
+   "text": "樱花",
+   "kind": "expression",
+   "description": "The pink or white flower of the cherry tree.",
+   "reading": "yīnghuā",
+   "romanization": "yīnghuā",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003523",
+    "english_id": "en:000003523",
+    "from": "core",
+    "core_priority": 2097
+   },
+   "study_priority": 89
+  },
+  {
+   "id": "zh:x:100090",
+   "text": "蜂王",
+   "kind": "expression",
+   "description": "The female bee that lays eggs.",
+   "reading": "fēngwáng",
+   "romanization": "fēngwáng",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003529",
+    "english_id": "en:000003529",
+    "from": "core",
+    "core_priority": 2102
+   },
+   "study_priority": 90
+  },
+  {
+   "id": "zh:x:100091",
+   "text": "鸟蛋",
+   "kind": "expression",
+   "description": "An egg laid by a bird.",
+   "reading": "niǎodàn",
+   "romanization": "niǎodàn",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003533",
+    "english_id": "en:000003533",
+    "from": "core",
+    "core_priority": 2104
+   },
+   "study_priority": 91
+  },
+  {
+   "id": "zh:x:100092",
+   "text": "木偶戏",
+   "kind": "expression",
+   "description": "A show with puppets.",
+   "reading": "mù'ǒuxì",
+   "romanization": "mùǒuxì",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003560",
+    "english_id": "en:000003560",
+    "from": "core",
+    "core_priority": 2119
+   },
+   "study_priority": 92
+  },
+  {
+   "id": "zh:x:100093",
+   "text": "太阳系",
+   "kind": "expression",
+   "description": "The sun and the planets that move around it.",
+   "reading": "tàiyángxì",
+   "romanization": "tàiyángxì",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003624",
+    "english_id": "en:000003624",
+    "from": "core",
+    "core_priority": 2124
+   },
+   "study_priority": 93
+  },
+  {
+   "id": "zh:x:100094",
+   "text": "人权",
+   "kind": "expression",
+   "description": "Basic rights that every person has.",
+   "reading": "rénquán",
+   "romanization": "rénquán",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003663",
+    "english_id": "en:000003663",
+    "from": "core",
+    "core_priority": 2141
+   },
+   "study_priority": 94
+  },
+  {
+   "id": "zh:x:100095",
+   "text": "空军",
+   "kind": "expression",
+   "description": "The military branch that uses aircraft.",
+   "reading": "kōngjūn",
+   "romanization": "kōngjūn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003664",
+    "english_id": "en:000003664",
+    "from": "core",
+    "core_priority": 2142
+   },
+   "study_priority": 95
+  },
+  {
+   "id": "zh:x:100096",
+   "text": "世界地图",
+   "kind": "expression",
+   "description": "A map of the whole world.",
+   "reading": "shìjièdìtú",
+   "romanization": "shìjièdìtú",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003697",
+    "english_id": "en:000003697",
+    "from": "core",
+    "core_priority": 2158
+   },
+   "study_priority": 96
+  },
+  {
+   "id": "zh:x:100097",
+   "text": "洋流",
+   "kind": "expression",
+   "description": "A steady flow of water in the ocean.",
+   "reading": "yángliú",
+   "romanization": "yángliú",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003732",
+    "english_id": "en:000003732",
+    "from": "core",
+    "core_priority": 2169
+   },
+   "study_priority": 97
+  },
+  {
+   "id": "zh:x:100098",
+   "text": "艺术品",
+   "kind": "expression",
+   "description": "A painting, sculpture or other creation of art.",
+   "reading": "yìshùpǐn",
+   "romanization": "yìshùpǐn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003760",
+    "english_id": "en:000003760",
+    "from": "core",
+    "core_priority": 2175
+   },
+   "study_priority": 98
+  },
+  {
+   "id": "zh:x:100099",
+   "text": "发电厂",
+   "kind": "expression",
+   "description": "A factory that produces electricity.",
+   "reading": "fādiànchǎng",
+   "romanization": "fādiànchǎng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003805",
+    "english_id": "en:000003805",
+    "from": "core",
+    "core_priority": 2203
+   },
+   "study_priority": 99
+  },
+  {
+   "id": "zh:x:100100",
+   "text": "风能",
+   "kind": "expression",
+   "description": "Energy produced from wind.",
+   "reading": "fēngnéng",
+   "romanization": "fēngnéng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003806",
+    "english_id": "en:000003806",
+    "from": "core",
+    "core_priority": 2204
+   },
+   "study_priority": 100
+  },
+  {
+   "id": "zh:x:100101",
+   "text": "水能",
+   "kind": "expression",
+   "description": "Energy produced from moving water.",
+   "reading": "shuǐnéng",
+   "romanization": "shuǐnéng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003807",
+    "english_id": "en:000003807",
+    "from": "core",
+    "core_priority": 2205
+   },
+   "study_priority": 101
+  },
+  {
+   "id": "zh:x:100102",
+   "text": "天然气",
+   "kind": "expression",
+   "description": "Gas from the ground used as fuel.",
+   "reading": "tiānránqì",
+   "romanization": "tiānránqì",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003810",
+    "english_id": "en:000003810",
+    "from": "core",
+    "core_priority": 2208
+   },
+   "study_priority": 102
+  },
+  {
+   "id": "zh:x:100103",
+   "text": "天气预报",
+   "kind": "expression",
+   "description": "A prediction of the weather.",
+   "reading": "tiānqìyùbào",
+   "romanization": "tiānqìyùbào",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003914",
+    "english_id": "en:000003914",
+    "from": "core",
+    "core_priority": 2248
+   },
+   "study_priority": 103
+  },
+  {
+   "id": "zh:x:100104",
+   "text": "一点儿",
+   "kind": "expression",
+   "description": "A small amount.",
+   "reading": "yìdiǎnr",
+   "romanization": "yìdiǎnér",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003920",
+    "english_id": "en:000003920",
+    "from": "core",
+    "core_priority": 2253
+   },
+   "study_priority": 104
+  },
+  {
+   "id": "zh:x:100105",
+   "text": "至少",
+   "kind": "expression",
+   "description": "Not less than; at minimum.",
+   "reading": "zhìshǎo",
+   "romanization": "zhìshǎo",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003931",
+    "english_id": "en:000003931",
+    "from": "core",
+    "core_priority": 2261
+   },
+   "study_priority": 105
+  },
+  {
+   "id": "zh:x:100106",
+   "text": "剩下的",
+   "kind": "expression",
+   "description": "What remains; the other part.",
+   "reading": "shèngxià de",
+   "romanization": "shèngxiàde",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003943",
+    "english_id": "en:000003943",
+    "from": "core",
+    "core_priority": 2268
+   },
+   "study_priority": 106
+  },
+  {
+   "id": "zh:x:100107",
+   "text": "比如",
+   "kind": "expression",
+   "alternatives": [
+    "例如"
+   ],
+   "description": "Used to give an example.",
+   "reading": "bǐrú",
+   "romanization": "bǐrú",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003949",
+    "english_id": "en:000003949",
+    "from": "core",
+    "core_priority": 2273
+   },
+   "study_priority": 107
+  },
+  {
+   "id": "zh:x:100108",
+   "text": "打折",
+   "kind": "expression",
+   "description": "Sold at a lower price.",
+   "reading": "dǎzhé",
+   "romanization": "dǎzhé",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003970",
+    "english_id": "en:000003970",
+    "from": "core",
+    "core_priority": 2285
+   },
+   "study_priority": 108
+  },
+  {
+   "id": "zh:x:100109",
+   "text": "大写字母",
+   "kind": "expression",
+   "description": "A big letter, such as A, B, C.",
+   "reading": "dàxiězìmǔ",
+   "romanization": "dàxiězìmǔ",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003973",
+    "english_id": "en:000003973",
+    "from": "core",
+    "core_priority": 2286
+   },
+   "study_priority": 109
+  },
+  {
+   "id": "zh:x:100110",
+   "text": "手机",
+   "kind": "expression",
+   "description": "A mobile phone.",
+   "reading": "shǒujī",
+   "romanization": "shǒujī",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003994",
+    "english_id": "en:000003994",
+    "from": "core",
+    "core_priority": 2301
+   },
+   "study_priority": 110
+  },
+  {
+   "id": "zh:x:100111",
+   "text": "我也不",
+   "kind": "expression",
+   "description": "Not me either (agreeing with a negative).",
+   "reading": "wǒyěbù",
+   "romanization": "wǒyěbù",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004014",
+    "english_id": "en:000004014",
+    "from": "core",
+    "core_priority": 2314
+   },
+   "study_priority": 111
+  },
+  {
+   "id": "zh:x:100112",
+   "text": "搅拌",
+   "kind": "expression",
+   "alternatives": [
+    "搅"
+   ],
+   "description": "To mix food in a pot with a spoon.",
+   "reading": "jiǎobàn",
+   "romanization": "jiǎobàn",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004104",
+    "english_id": "en:000004104",
+    "from": "core",
+    "core_priority": 2367
+   },
+   "study_priority": 112
+  },
+  {
+   "id": "zh:x:100113",
+   "text": "正确答案",
+   "kind": "expression",
+   "description": "An answer that is right.",
+   "reading": "zhèngquèdá'àn",
+   "romanization": "zhèngquè dá'àn",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004109",
+    "english_id": "en:000004109",
+    "from": "core",
+    "core_priority": 2372
+   },
+   "study_priority": 113
+  },
+  {
+   "id": "zh:x:100114",
+   "text": "肥皂剧",
+   "kind": "expression",
+   "alternatives": [
+    "电视剧"
+   ],
+   "description": "A TV drama series about daily lives.",
+   "reading": "féizàojù",
+   "romanization": "diànshìjù",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004110",
+    "english_id": "en:000004110",
+    "from": "core",
+    "core_priority": 2373
+   },
+   "study_priority": 114
+  },
+  {
+   "id": "zh:x:100115",
+   "text": "架子鼓",
+   "kind": "expression",
+   "description": "A set of drums played by one person.",
+   "reading": "jiàzigǔ",
+   "romanization": "jiàzigǔ",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004122",
+    "english_id": "en:000004122",
+    "from": "core",
+    "core_priority": 2385
+   },
+   "study_priority": 115
+  },
+  {
+   "id": "zh:x:100116",
+   "text": "以前常常",
+   "kind": "expression",
+   "alternatives": [
+    "曾经"
+   ],
+   "description": "\"Used to\": did regularly in the past; also not new.",
+   "reading": "yǐqián chángcháng",
+   "romanization": "yǐqián chángcháng",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000150",
+    "english_id": "en:000000150",
+    "from": "core",
+    "core_priority": 2392,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 116
+  },
+  {
+   "id": "zh:x:100117",
+   "text": "有权的",
+   "kind": "expression",
+   "description": "Having the right to something.",
+   "reading": "yǒu quán de",
+   "romanization": "yǒu quán de",
+   "level": "C2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000002900",
+    "english_id": "en:000002900",
+    "from": "core",
+    "core_priority": 2691,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 117
+  },
+  {
+   "id": "zh:x:100118",
+   "text": "存钱",
+   "kind": "expression",
+   "description": "To keep money instead of spending it.",
+   "reading": "cúnqián",
+   "romanization": "cúnqián",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003383",
+    "english_id": "en:000003383",
+    "from": "core",
+    "core_priority": 2706
+   },
+   "study_priority": 118
+  },
+  {
+   "id": "zh:x:100119",
+   "text": "跑得快",
+   "kind": "expression",
+   "description": "To run quickly.",
+   "reading": "pǎo de kuài",
+   "romanization": "pǎodékuài",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003412",
+    "english_id": "en:000003412",
+    "from": "core",
+    "core_priority": 2707
+   },
+   "study_priority": 119
+  },
+  {
+   "id": "zh:x:100120",
+   "text": "接球",
+   "kind": "expression",
+   "description": "To take hold of a ball thrown to you.",
+   "reading": "jiē qiú",
+   "romanization": "jiēqiú",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003413",
+    "english_id": "en:000003413",
+    "from": "core",
+    "core_priority": 2708
+   },
+   "study_priority": 120
+  },
+  {
+   "id": "zh:x:100121",
+   "text": "放风筝",
+   "kind": "expression",
+   "description": "To make a kite fly in the wind.",
+   "reading": "fàng fēngzheng",
+   "romanization": "fàngfēngzhēng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003448",
+    "english_id": "en:000003448",
+    "from": "core",
+    "core_priority": 2709
+   },
+   "study_priority": 121
+  },
+  {
+   "id": "zh:x:100122",
+   "text": "打弹珠",
+   "kind": "expression",
+   "description": "To play a game with small glass balls.",
+   "reading": "dǎ dànzhū",
+   "romanization": "dǎdànzhū",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003449",
+    "english_id": "en:000003449",
+    "from": "core",
+    "core_priority": 2710
+   },
+   "study_priority": 122
+  },
+  {
+   "id": "zh:x:100123",
+   "text": "液态水",
+   "kind": "expression",
+   "description": "Water in its liquid state.",
+   "reading": "yètàishuǐ",
+   "romanization": "yètàishuǐ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003605",
+    "english_id": "en:000003605",
+    "from": "core",
+    "core_priority": 2757
+   },
+   "study_priority": 123
+  },
+  {
+   "id": "zh:x:100124",
+   "text": "干冰",
+   "kind": "expression",
+   "description": "Frozen carbon dioxide.",
+   "reading": "gānbīng",
+   "romanization": "gānbīng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003606",
+    "english_id": "en:000003606",
+    "from": "core",
+    "core_priority": 2758
+   },
+   "study_priority": 124
+  },
+  {
+   "id": "zh:x:100125",
+   "text": "化学反应",
+   "kind": "expression",
+   "description": "A process that changes substances into new ones.",
+   "reading": "huàxuéfǎnyìng",
+   "romanization": "huàxuéfǎnyìng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003618",
+    "english_id": "en:000003618",
+    "from": "core",
+    "core_priority": 2769
+   },
+   "study_priority": 125
+  },
+  {
+   "id": "zh:x:100126",
+   "text": "科学期刊",
+   "kind": "expression",
+   "description": "A publication of scientific articles.",
+   "reading": "kēxuéqīkān",
+   "romanization": "kēxuéqīkān",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003675",
+    "english_id": "en:000003675",
+    "from": "core",
+    "core_priority": 2782
+   },
+   "study_priority": 126
+  },
+  {
+   "id": "zh:x:100127",
+   "text": "金融市场",
+   "kind": "expression",
+   "description": "The system where money and investments are traded.",
+   "reading": "jīnróngshìchǎng",
+   "romanization": "jīnróngshìchǎng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003782",
+    "english_id": "en:000003782",
+    "from": "core",
+    "core_priority": 2812
+   },
+   "study_priority": 127
+  },
+  {
+   "id": "zh:x:100128",
+   "text": "证券交易所",
+   "kind": "expression",
+   "description": "A place where shares of companies are bought and sold.",
+   "reading": "zhèngquànjiāoyìsuǒ",
+   "romanization": "zhèngquànjiāoyìsuǒ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003783",
+    "english_id": "en:000003783",
+    "from": "core",
+    "core_priority": 2813
+   },
+   "study_priority": 128
+  },
+  {
+   "id": "zh:x:100129",
+   "text": "食物链",
+   "kind": "expression",
+   "description": "The series of who eats whom in nature.",
+   "reading": "shíwùliàn",
+   "romanization": "shíwùliàn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003822",
+    "english_id": "en:000003822",
+    "from": "core",
+    "core_priority": 2828
+   },
+   "study_priority": 129
+  },
+  {
+   "id": "zh:x:100130",
+   "text": "生活质量",
+   "kind": "expression",
+   "description": "How good a person's life and health are.",
+   "reading": "shēnghuózhìliàng",
+   "romanization": "shēnghuózhìliàng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003866",
+    "english_id": "en:000003866",
+    "from": "core",
+    "core_priority": 2845
+   },
+   "study_priority": 130
+  },
+  {
+   "id": "zh:x:100131",
+   "text": "太阳能",
+   "kind": "expression",
+   "description": "Energy from sunlight.",
+   "reading": "tàiyángnéng",
+   "romanization": "tàiyángnéng",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004149",
+    "english_id": "en:000004149",
+    "from": "core",
+    "core_priority": 2895
+   },
+   "study_priority": 131
+  },
+  {
+   "id": "zh:x:100132",
+   "text": "连续",
+   "kind": "expression",
+   "description": "One after another without a break (three days in a row).",
+   "reading": "liánxù",
+   "romanization": "liánxù",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000576",
+    "english_id": "en:000000576",
+    "from": "core",
+    "core_priority": 2913
+   },
+   "study_priority": 132
+  },
+  {
+   "id": "zh:x:100133",
+   "text": "考虑",
+   "kind": "expression",
+   "description": "To consider something carefully before deciding.",
+   "reading": "kǎolǜ",
+   "romanization": "kǎolǜ",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000001705",
+    "english_id": "en:000001705",
+    "from": "core",
+    "core_priority": 2943
+   },
+   "study_priority": 133
+  },
+  {
+   "id": "zh:x:100134",
+   "text": "很多",
+   "kind": "expression",
+   "alternatives": [
+    "一堆"
+   ],
+   "description": "A large amount or number.",
+   "reading": "hěn duō",
+   "romanization": "yīduī",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000002488",
+    "english_id": "en:000002488",
+    "from": "core",
+    "core_priority": 2978
+   },
+   "study_priority": 134
+  },
+  {
+   "id": "zh:x:100135",
+   "text": "和好",
+   "kind": "expression",
+   "description": "To become friends again after an argument.",
+   "reading": "héhǎo",
+   "romanization": "héhǎo",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003330",
+    "english_id": "en:000003330",
+    "from": "core",
+    "core_priority": 2998
+   },
+   "study_priority": 135
+  },
+  {
+   "id": "zh:x:100136",
+   "text": "外卖",
+   "kind": "expression",
+   "description": "Food bought to eat at home.",
+   "reading": "wàimài",
+   "romanization": "wàimài",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003054",
+    "english_id": "en:000003054",
+    "from": "core",
+    "core_priority": 3007
+   },
+   "study_priority": 136
+  },
+  {
+   "id": "zh:x:100137",
+   "text": "神曲",
+   "kind": "expression",
+   "alternatives": [
+    "热门歌"
+   ],
+   "description": "A very good, exciting song.",
+   "reading": "shénqǔ",
+   "romanization": "shénqǔ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003068",
+    "english_id": "en:000003068",
+    "from": "core",
+    "core_priority": 3008
+   },
+   "study_priority": 137
+  },
+  {
+   "id": "zh:x:100138",
+   "text": "蛋黄色",
+   "kind": "expression",
+   "description": "A strong warm yellow like the yolk of an egg.",
+   "reading": "dànhuángsè",
+   "romanization": "dànhuángsè",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003233",
+    "english_id": "en:000003233",
+    "from": "core",
+    "core_priority": 3009
+   },
+   "study_priority": 138
+  },
+  {
+   "id": "zh:x:100139",
+   "text": "功夫",
+   "kind": "expression",
+   "description": "A Chinese martial art.",
+   "reading": "gōngfu",
+   "romanization": "gōngfu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003409",
+    "english_id": "en:000003409",
+    "from": "core",
+    "core_priority": 3010
+   },
+   "study_priority": 139
+  },
+  {
+   "id": "zh:x:100140",
+   "text": "春节",
+   "kind": "expression",
+   "description": "The festival of the lunar New Year.",
+   "reading": "chūnjié",
+   "romanization": "chūnjié",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003566",
+    "english_id": "en:000003566",
+    "from": "core",
+    "core_priority": 3015
+   },
+   "study_priority": 140
+  },
+  {
+   "id": "zh:x:100141",
+   "text": "印度洋",
+   "kind": "expression",
+   "description": "The ocean south of Asia.",
+   "reading": "yìndùyáng",
+   "romanization": "yìndùyáng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003735",
+    "english_id": "en:000003735",
+    "from": "core",
+    "core_priority": 3019
+   },
+   "study_priority": 141
+  },
+  {
+   "id": "zh:x:100142",
+   "text": "北冰洋",
+   "kind": "expression",
+   "description": "The ocean around the North Pole.",
+   "reading": "běibīngyáng",
+   "romanization": "běibīngyáng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003736",
+    "english_id": "en:000003736",
+    "from": "core",
+    "core_priority": 3020
+   },
+   "study_priority": 142
+  },
+  {
+   "id": "zh:x:100143",
+   "text": "南冰洋",
+   "kind": "expression",
+   "description": "The ocean around Antarctica.",
+   "reading": "nánbīngyáng",
+   "romanization": "nánbīngyáng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003737",
+    "english_id": "en:000003737",
+    "from": "core",
+    "core_priority": 3021
+   },
+   "study_priority": 143
+  },
+  {
+   "id": "zh:x:100144",
+   "text": "任何东西",
+   "kind": "expression",
+   "alternatives": [
+    "什么"
+   ],
+   "description": "Any thing at all.",
+   "reading": "rènhé dōngxi",
+   "romanization": "rènhé dōngxi",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000000244",
+    "english_id": "en:000000244",
+    "from": "core",
+    "core_priority": 3060,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 144
+  },
+  {
+   "id": "zh:x:100145",
+   "text": "地铁",
+   "kind": "expression",
+   "description": "An underground train system.",
+   "reading": "dìtiě",
+   "romanization": "dìtiě",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003079",
+    "english_id": "en:000003079",
+    "from": "core",
+    "core_priority": 3121
+   },
+   "study_priority": 145
+  },
+  {
+   "id": "zh:x:100146",
+   "text": "在公园玩",
+   "kind": "expression",
+   "description": "To play at the park.",
+   "reading": "zài gōngyuán wán",
+   "romanization": "zàigōngyuánwán",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003469",
+    "english_id": "en:000003469",
+    "from": "core",
+    "core_priority": 3122
+   },
+   "study_priority": 146
+  },
+  {
+   "id": "zh:x:100147",
+   "text": "兑现",
+   "kind": "expression",
+   "alternatives": [
+    "提现"
+   ],
+   "description": "To take out your money or winnings.",
+   "reading": "duìxiàn",
+   "romanization": "duìxiàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003091",
+    "english_id": "en:000003091",
+    "from": "core",
+    "core_priority": 3129
+   },
+   "study_priority": 147
+  },
+  {
+   "id": "zh:x:100148",
+   "text": "在空中画",
+   "kind": "expression",
+   "description": "To draw shapes in the air with your finger.",
+   "reading": "zài kōngzhōng huà",
+   "romanization": "kōngzhōnghuà",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003334",
+    "english_id": "en:000003334",
+    "from": "core",
+    "core_priority": 3132
+   },
+   "study_priority": 148
+  },
+  {
+   "id": "zh:x:100149",
+   "text": "在海里游泳",
+   "kind": "expression",
+   "description": "To swim in the sea.",
+   "reading": "zài hǎi lǐ yóuyǒng",
+   "romanization": "zàihǎilǐyóuyǒng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003455",
+    "english_id": "en:000003455",
+    "from": "core",
+    "core_priority": 3134
+   },
+   "study_priority": 149
+  },
+  {
+   "id": "zh:x:100150",
+   "text": "魔法城堡",
+   "kind": "expression",
+   "description": "A castle in a fairy tale.",
+   "reading": "mófǎ chéngbǎo",
+   "romanization": "mófǎchéngbǎo",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003497",
+    "english_id": "en:000003497",
+    "from": "core",
+    "core_priority": 3135
+   },
+   "study_priority": 150
+  },
+  {
+   "id": "zh:x:100151",
+   "text": "小农场",
+   "kind": "expression",
+   "description": "A small country property or farm.",
+   "reading": "xiǎonóngchǎng",
+   "romanization": "xiāngxiàdefángzi",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004100",
+    "english_id": "en:000004100",
+    "from": "core",
+    "core_priority": 3140
+   },
+   "study_priority": 151
+  },
+  {
+   "id": "zh:x:100152",
+   "text": "改天吧",
+   "kind": "expression",
+   "description": "A promise to accept an invitation at a later time.",
+   "reading": "gǎitiān ba",
+   "romanization": "gǎitiānba",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003090",
+    "english_id": "en:000003090",
+    "from": "core",
+    "core_priority": 3299
+   },
+   "study_priority": 152
+  },
+  {
+   "id": "zh:x:100153",
+   "text": "旅行背包",
+   "kind": "expression",
+   "description": "A large bag carried on the back when traveling.",
+   "reading": "lǚxíngbēibāo",
+   "romanization": "lǚxíngbēibāo",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003436",
+    "english_id": "en:000003436",
+    "from": "core",
+    "core_priority": 3300
+   },
+   "study_priority": 153
+  },
+  {
+   "id": "zh:x:100154",
+   "text": "美元",
+   "kind": "expression",
+   "alternatives": [
+    "美金"
+   ],
+   "description": "Dollars (informal).",
+   "reading": "měiyuán",
+   "romanization": "kuài",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003001",
+    "english_id": "en:000003001",
+    "from": "core",
+    "core_priority": 3312
+   },
+   "study_priority": 154
+  },
+  {
+   "id": "zh:x:100155",
+   "text": "没关系",
+   "kind": "expression",
+   "alternatives": [
+    "别担心"
+   ],
+   "description": "\"No problem; don't worry.\"",
+   "reading": "méi guānxi",
+   "romanization": "méi guānxi",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003011",
+    "english_id": "en:000003011",
+    "from": "core",
+    "core_priority": 3313
+   },
+   "study_priority": 155
+  },
+  {
+   "id": "zh:x:100156",
+   "text": "最近怎么样",
+   "kind": "expression",
+   "description": "\"Hi, how are you?\" (very informal).",
+   "reading": "zuìjìn zěnmeyàng",
+   "romanization": "zuìjìn zěnmeyàng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003012",
+    "english_id": "en:000003012",
+    "from": "core",
+    "core_priority": 3314
+   },
+   "study_priority": 156
+  },
+  {
+   "id": "zh:x:100157",
+   "text": "出去玩",
+   "kind": "expression",
+   "alternatives": [
+    "一起玩"
+   ],
+   "description": "To spend time relaxing with friends.",
+   "reading": "chūqu wán",
+   "romanization": "chūqu wán",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003013",
+    "english_id": "en:000003013",
+    "from": "core",
+    "core_priority": 3315
+   },
+   "study_priority": 157
+  },
+  {
+   "id": "zh:x:100158",
+   "text": "随便吃点儿",
+   "kind": "expression",
+   "description": "To eat something quickly.",
+   "reading": "suíbiàn chī diǎnr",
+   "romanization": "suíbiàn chī diǎnr",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003014",
+    "english_id": "en:000003014",
+    "from": "core",
+    "core_priority": 3316
+   },
+   "study_priority": 158
+  },
+  {
+   "id": "zh:x:100159",
+   "text": "我累死了",
+   "kind": "expression",
+   "description": "\"I'm beat\" = I am very tired.",
+   "reading": "wǒ lèi sǐ le",
+   "romanization": "wǒ lèi sǐ le",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003015",
+    "english_id": "en:000003015",
+    "from": "core",
+    "core_priority": 3317
+   },
+   "study_priority": 159
+  },
+  {
+   "id": "zh:x:100160",
+   "text": "我的错",
+   "kind": "expression",
+   "description": "\"My mistake.\"",
+   "reading": "wǒ de cuò",
+   "romanization": "wǒ de cuò",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003016",
+    "english_id": "en:000003016",
+    "from": "core",
+    "core_priority": 3318
+   },
+   "study_priority": 160
+  },
+  {
+   "id": "zh:x:100161",
+   "text": "改天吧",
+   "kind": "expression",
+   "alternatives": [
+    "下次"
+   ],
+   "description": "To politely say no now but maybe later.",
+   "reading": "gǎitiān ba",
+   "romanization": "gǎitiān ba",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003026",
+    "english_id": "en:000003026",
+    "from": "core",
+    "core_priority": 3322
+   },
+   "study_priority": 161
+  },
+  {
+   "id": "zh:x:100162",
+   "text": "八卦",
+   "kind": "expression",
+   "alternatives": [
+    "说闲话"
+   ],
+   "description": "To tell gossip.",
+   "reading": "bāguà",
+   "romanization": "bāguà",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003027",
+    "english_id": "en:000003027",
+    "from": "core",
+    "core_priority": 3323
+   },
+   "study_priority": 162
+  },
+  {
+   "id": "zh:x:100163",
+   "text": "有点儿",
+   "kind": "expression",
+   "alternatives": [
+    "偷偷地"
+   ],
+   "description": "Quietly; a little (secretly).",
+   "reading": "yǒudiǎnr",
+   "romanization": "yǒudiǎnr",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003028",
+    "english_id": "en:000003028",
+    "from": "core",
+    "core_priority": 3324
+   },
+   "study_priority": 163
+  },
+  {
+   "id": "zh:x:100164",
+   "text": "突然消失",
+   "kind": "expression",
+   "alternatives": [
+    "玩消失"
+   ],
+   "description": "To stop answering someone suddenly.",
+   "reading": "tūrán xiāoshī",
+   "romanization": "tūrán xiāoshī",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003030",
+    "english_id": "en:000003030",
+    "from": "core",
+    "core_priority": 3326
+   },
+   "study_priority": 164
+  },
+  {
+   "id": "zh:x:100165",
+   "text": "炫耀",
+   "kind": "expression",
+   "alternatives": [
+    "显摆"
+   ],
+   "description": "To show off.",
+   "reading": "xuànyào",
+   "romanization": "xuànyào",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003031",
+    "english_id": "en:000003031",
+    "from": "core",
+    "core_priority": 3327
+   },
+   "study_priority": 165
+  },
+  {
+   "id": "zh:x:100166",
+   "text": "不爽",
+   "kind": "expression",
+   "alternatives": [
+    "生气"
+   ],
+   "description": "Annoyed or bitter about something.",
+   "reading": "bù shuǎng",
+   "romanization": "bù shuǎng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003032",
+    "english_id": "en:000003032",
+    "from": "core",
+    "core_priority": 3328
+   },
+   "study_priority": 166
+  },
+  {
+   "id": "zh:x:100167",
+   "text": "真的",
+   "kind": "expression",
+   "alternatives": [
+    "靠谱"
+   ],
+   "description": "Real; really good.",
+   "reading": "zhēn de",
+   "romanization": "zhēn de",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003033",
+    "english_id": "en:000003033",
+    "from": "core",
+    "core_priority": 3329
+   },
+   "study_priority": 167
+  },
+  {
+   "id": "zh:x:100168",
+   "text": "嗨翻了",
+   "kind": "expression",
+   "alternatives": [
+    "超热闹"
+   ],
+   "description": "Very exciting and fun.",
+   "reading": "hāi fān le",
+   "romanization": "hāi fān le",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003035",
+    "english_id": "en:000003035",
+    "from": "core",
+    "core_priority": 3330
+   },
+   "study_priority": 168
+  },
+  {
+   "id": "zh:x:100169",
+   "text": "可疑",
+   "kind": "expression",
+   "description": "Suspicious (slang).",
+   "reading": "kěyí",
+   "romanization": "kěyí",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003036",
+    "english_id": "en:000003036",
+    "from": "core",
+    "core_priority": 3331
+   },
+   "study_priority": 169
+  },
+  {
+   "id": "zh:x:100170",
+   "text": "不骗你",
+   "kind": "expression",
+   "alternatives": [
+    "真的"
+   ],
+   "description": "Slang: \"no lie; for real\".",
+   "reading": "bú piàn nǐ",
+   "romanization": "bú piàn nǐ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003038",
+    "english_id": "en:000003038",
+    "from": "core",
+    "core_priority": 3332
+   },
+   "study_priority": 170
+  },
+  {
+   "id": "zh:x:100171",
+   "text": "家人",
+   "kind": "expression",
+   "alternatives": [
+    "哥们儿"
+   ],
+   "description": "Close friends; \"family\" (slang).",
+   "reading": "jiārén",
+   "romanization": "jiārén",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003040",
+    "english_id": "en:000003040",
+    "from": "core",
+    "core_priority": 3333
+   },
+   "study_priority": 171
+  },
+  {
+   "id": "zh:x:100172",
+   "text": "兄弟",
+   "kind": "expression",
+   "alternatives": [
+    "哥们儿"
+   ],
+   "description": "Friendly way to call a male friend.",
+   "reading": "xiōngdi",
+   "romanization": "xiōngdi",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003041",
+    "english_id": "en:000003041",
+    "from": "core",
+    "core_priority": 3334
+   },
+   "study_priority": 172
+  },
+  {
+   "id": "zh:x:100173",
+   "text": "饿得发火",
+   "kind": "expression",
+   "description": "Angry because you are hungry.",
+   "reading": "è de fāhuǒ",
+   "romanization": "è de fāhuǒ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003043",
+    "english_id": "en:000003043",
+    "from": "core",
+    "core_priority": 3335
+   },
+   "study_priority": 173
+  },
+  {
+   "id": "zh:x:100174",
+   "text": "在…借住一晚",
+   "kind": "expression",
+   "description": "To sleep at someone's place for a night.",
+   "reading": "zài…jièzhù yì wǎn",
+   "romanization": "zài…jièzhù yì wǎn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003044",
+    "english_id": "en:000003044",
+    "from": "core",
+    "core_priority": 3336
+   },
+   "study_priority": 174
+  },
+  {
+   "id": "zh:x:100175",
+   "text": "上路",
+   "kind": "expression",
+   "alternatives": [
+    "出发"
+   ],
+   "description": "To leave on a trip.",
+   "reading": "shànglù",
+   "romanization": "shànglù",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003045",
+    "english_id": "en:000003045",
+    "from": "core",
+    "core_priority": 3337
+   },
+   "study_priority": 175
+  },
+  {
+   "id": "zh:x:100176",
+   "text": "小菜一碟",
+   "kind": "expression",
+   "description": "Something very easy.",
+   "reading": "xiǎocài yì dié",
+   "romanization": "xiǎocài yì dié",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003046",
+    "english_id": "en:000003046",
+    "from": "core",
+    "core_priority": 3338
+   },
+   "study_priority": 176
+  },
+  {
+   "id": "zh:x:100177",
+   "text": "祝你演出成功",
+   "kind": "expression",
+   "alternatives": [
+    "加油"
+   ],
+   "description": "\"Good luck!\" said before a performance.",
+   "reading": "zhù nǐ yǎnchū chénggōng",
+   "romanization": "zhù nǐ yǎnchū chénggōng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003047",
+    "english_id": "en:000003047",
+    "from": "core",
+    "core_priority": 3339
+   },
+   "study_priority": 177
+  },
+  {
+   "id": "zh:x:100178",
+   "text": "不舒服",
+   "kind": "expression",
+   "description": "Feeling a little sick.",
+   "reading": "bù shūfu",
+   "romanization": "bù shūfu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003048",
+    "english_id": "en:000003048",
+    "from": "core",
+    "core_priority": 3340
+   },
+   "study_priority": 178
+  },
+  {
+   "id": "zh:x:100179",
+   "text": "等一下",
+   "kind": "expression",
+   "description": "\"Wait a second, please.\"",
+   "reading": "děng yíxià",
+   "romanization": "děng yíxià",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003049",
+    "english_id": "en:000003049",
+    "from": "core",
+    "core_priority": 3341
+   },
+   "study_priority": 179
+  },
+  {
+   "id": "zh:x:100180",
+   "text": "我请客",
+   "kind": "expression",
+   "description": "\"I'll pay for you.\"",
+   "reading": "wǒ qǐngkè",
+   "romanization": "wǒ qǐngkè",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003050",
+    "english_id": "en:000003050",
+    "from": "core",
+    "core_priority": 3342
+   },
+   "study_priority": 180
+  },
+  {
+   "id": "zh:x:100181",
+   "text": "免费赠送",
+   "kind": "expression",
+   "alternatives": [
+    "店家请客"
+   ],
+   "description": "Free, paid by the restaurant or bar.",
+   "reading": "miǎnfèi zèngsòng",
+   "romanization": "miǎnfèi zèngsòng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003051",
+    "english_id": "en:000003051",
+    "from": "core",
+    "core_priority": 3343
+   },
+   "study_priority": 181
+  },
+  {
+   "id": "zh:x:100182",
+   "text": "喝杯咖啡",
+   "kind": "expression",
+   "description": "To meet for a coffee.",
+   "reading": "hē bēi kāfēi",
+   "romanization": "hē bēi kāfēi",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003052",
+    "english_id": "en:000003052",
+    "from": "core",
+    "core_priority": 3344
+   },
+   "study_priority": 182
+  },
+  {
+   "id": "zh:x:100183",
+   "text": "没什么大不了",
+   "kind": "expression",
+   "description": "\"It's not a problem.\"",
+   "reading": "méi shénme dàbuliǎo",
+   "romanization": "méi shénme dàbuliǎo",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003089",
+    "english_id": "en:000003089",
+    "from": "core",
+    "core_priority": 3350
+   },
+   "study_priority": 183
+  },
+  {
+   "id": "zh:x:100184",
+   "text": "香蕉泥",
+   "kind": "expression",
+   "description": "Banana crushed into a soft food for babies.",
+   "reading": "xiāngjiāoní",
+   "romanization": "xiāngjiāoní",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003226",
+    "english_id": "en:000003226",
+    "from": "core",
+    "core_priority": 3351
+   },
+   "study_priority": 184
+  },
+  {
+   "id": "zh:x:100185",
+   "text": "跳巴西乡村舞",
+   "kind": "expression",
+   "description": "To dance forró, a Brazilian couple dance.",
+   "reading": "tiào bāxī xiāngcūnwǔ",
+   "romanization": "tiào bāxī xiāngcūnwǔ",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003337",
+    "english_id": "en:000003337",
+    "from": "core",
+    "core_priority": 3352
+   },
+   "study_priority": 185
+  },
+  {
+   "id": "zh:x:100186",
+   "text": "夏日祭",
+   "kind": "expression",
+   "description": "A traditional outdoor festival in summer (Japan).",
+   "reading": "xiàrìjì",
+   "romanization": "xiàrìjì",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003567",
+    "english_id": "en:000003567",
+    "from": "core",
+    "core_priority": 3354
+   },
+   "study_priority": 186
+  },
+  {
+   "id": "zh:x:100187",
+   "text": "古罗马",
+   "kind": "expression",
+   "description": "The civilization of Rome in ancient times.",
+   "reading": "gǔluómǎ",
+   "romanization": "gǔluómǎ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003656",
+    "english_id": "en:000003656",
+    "from": "core",
+    "core_priority": 3355
+   },
+   "study_priority": 187
+  },
+  {
+   "id": "zh:x:100188",
+   "text": "古希腊",
+   "kind": "expression",
+   "description": "The civilization of Greece in ancient times.",
+   "reading": "gǔxīlà",
+   "romanization": "gǔxīlà",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003657",
+    "english_id": "en:000003657",
+    "from": "core",
+    "core_priority": 3356
+   },
+   "study_priority": 188
+  },
+  {
+   "id": "zh:x:100189",
+   "text": "古代中国",
+   "kind": "expression",
+   "description": "China in ancient times.",
+   "reading": "gǔdàizhōngguó",
+   "romanization": "gǔzhōngguó",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003658",
+    "english_id": "en:000003658",
+    "from": "core",
+    "core_priority": 3357
+   },
+   "study_priority": 189
+  },
+  {
+   "id": "zh:x:100190",
+   "text": "古代日本",
+   "kind": "expression",
+   "description": "Japan in ancient times.",
+   "reading": "gǔdàirìběn",
+   "romanization": "gǔrìběn",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003659",
+    "english_id": "en:000003659",
+    "from": "core",
+    "core_priority": 3358
+   },
+   "study_priority": 190
+  },
+  {
+   "id": "zh:x:100191",
+   "text": "亚马逊河",
+   "kind": "expression",
+   "description": "The great river of South America.",
+   "reading": "yàmǎxùnhé",
+   "romanization": "yàmǎxùnhé",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003744",
+    "english_id": "en:000003744",
+    "from": "core",
+    "core_priority": 3366
+   },
+   "study_priority": 191
+  },
+  {
+   "id": "zh:x:100192",
+   "text": "富士山",
+   "kind": "expression",
+   "description": "The highest mountain in Japan.",
+   "reading": "fùshìshān",
+   "romanization": "fùshìshān",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003745",
+    "english_id": "en:000003745",
+    "from": "core",
+    "core_priority": 3367
+   },
+   "study_priority": 192
+  },
+  {
+   "id": "zh:x:100193",
+   "text": "救世基督像",
+   "kind": "expression",
+   "description": "The large statue of Christ over Rio de Janeiro.",
+   "reading": "jiùshìjīdūxiàng",
+   "romanization": "jiùshìjīdūxiàng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003746",
+    "english_id": "en:000003746",
+    "from": "core",
+    "core_priority": 3368
+   },
+   "study_priority": 193
+  },
+  {
+   "id": "zh:x:100194",
+   "text": "长城",
+   "kind": "expression",
+   "description": "The ancient wall across northern China.",
+   "reading": "chángchéng",
+   "romanization": "chángchéng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003747",
+    "english_id": "en:000003747",
+    "from": "core",
+    "core_priority": 3369
+   },
+   "study_priority": 194
+  },
+  {
+   "id": "zh:x:100195",
+   "text": "埃菲尔铁塔",
+   "kind": "expression",
+   "description": "The iron tower in Paris.",
+   "reading": "āifēiěrtiětǎ",
+   "romanization": "āifēiěrtiětǎ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003748",
+    "english_id": "en:000003748",
+    "from": "core",
+    "core_priority": 3370
+   },
+   "study_priority": 195
+  },
+  {
+   "id": "zh:x:100196",
+   "text": "吉萨金字塔",
+   "kind": "expression",
+   "description": "The ancient pyramids near Cairo.",
+   "reading": "jísàjīnzìtǎ",
+   "romanization": "jísàjīnzìtǎ",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003750",
+    "english_id": "en:000003750",
+    "from": "core",
+    "core_priority": 3372
+   },
+   "study_priority": 196
+  },
+  {
+   "id": "zh:x:100197",
+   "text": "泰姬陵",
+   "kind": "expression",
+   "description": "The white marble monument in Agra, India.",
+   "reading": "tàijīlíng",
+   "romanization": "tàijīlíng",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003752",
+    "english_id": "en:000003752",
+    "from": "core",
+    "core_priority": 3374
+   },
+   "study_priority": 197
+  },
+  {
+   "id": "zh:x:100198",
+   "text": "马丘比丘",
+   "kind": "expression",
+   "description": "The Inca city in the mountains of Peru.",
+   "reading": "mǎqiūbǐqiū",
+   "romanization": "mǎqiūbǐqiū",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000003753",
+    "english_id": "en:000003753",
+    "from": "core",
+    "core_priority": 3375
+   },
+   "study_priority": 198
+  },
+  {
+   "id": "zh:x:100199",
+   "text": "投币式储物柜",
+   "kind": "expression",
+   "description": "A small locker where you keep your things for a short time by paying coins.",
+   "reading": "tóu bì shì chǔ wù guì",
+   "romanization": "tóu bì shì chǔ wù guì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004310",
+    "english_id": "en:000004310",
+    "from": "core",
+    "core_priority": 3731,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 199
+  },
+  {
+   "id": "zh:x:100200",
+   "text": "热巧克力",
+   "kind": "expression",
+   "description": "A hot drink made with chocolate or cocoa and milk.",
+   "reading": "rè qiǎo kè lì",
+   "romanization": "rè qiǎo kè lì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004315",
+    "english_id": "en:000004315",
+    "from": "core",
+    "core_priority": 3736,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 200
+  },
+  {
+   "id": "zh:x:100201",
+   "text": "百货商店",
+   "kind": "expression",
+   "description": "A large store with many departments selling different goods.",
+   "reading": "bǎi huò shāng diàn",
+   "romanization": "bǎi huò shāng diàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004323",
+    "english_id": "en:000004323",
+    "from": "core",
+    "core_priority": 3744,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 201
+  },
+  {
+   "id": "zh:x:100202",
+   "text": "自动售货机",
+   "kind": "expression",
+   "description": "A machine that sells drinks or snacks when you put in money.",
+   "reading": "zì dòng shòu huò jī",
+   "romanization": "zì dòng shòu huò jī",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004364",
+    "english_id": "en:000004364",
+    "from": "core",
+    "core_priority": 3785,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 202
+  },
+  {
+   "id": "zh:x:100203",
+   "text": "电话号码",
+   "kind": "expression",
+   "description": "The series of digits you dial to call someone.",
+   "reading": "diàn huà hào mǎ",
+   "romanization": "diàn huà hào mǎ",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004374",
+    "english_id": "en:000004374",
+    "from": "core",
+    "core_priority": 3795,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 203
+  },
+  {
+   "id": "zh:x:100204",
+   "text": "纸牌游戏",
+   "kind": "expression",
+   "description": "A game played with a set of cards.",
+   "reading": "zhǐ pái yóu xì",
+   "romanization": "zhǐ pái yóu xì",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004377",
+    "english_id": "en:000004377",
+    "from": "core",
+    "core_priority": 3798,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 204
+  },
+  {
+   "id": "zh:x:100205",
+   "text": "公交车站",
+   "kind": "expression",
+   "description": "A place where buses stop to pick up passengers.",
+   "reading": "gōng jiāo chē zhàn",
+   "romanization": "gōng jiāo chē zhàn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004385",
+    "english_id": "en:000004385",
+    "from": "core",
+    "core_priority": 3806,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 205
+  },
+  {
+   "id": "zh:x:100206",
+   "text": "流行音乐",
+   "kind": "expression",
+   "description": "Popular music with catchy songs.",
+   "reading": "liú xíng yīn yuè",
+   "romanization": "liú xíng yīn yuè",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004386",
+    "english_id": "en:000004386",
+    "from": "core",
+    "core_priority": 3807,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 206
+  },
+  {
+   "id": "zh:x:100207",
+   "text": "灯光装饰",
+   "kind": "expression",
+   "description": "Colorful lights put up outside for a festival, especially in winter.",
+   "reading": "dēng guāng zhuāng shì",
+   "romanization": "dēng guāng zhuāng shì",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004388",
+    "english_id": "en:000004388",
+    "from": "core",
+    "core_priority": 3809,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 207
+  },
+  {
+   "id": "zh:x:100208",
+   "text": "每天早上",
+   "kind": "expression",
+   "description": "In the morning of each day.",
+   "reading": "měi tiān zǎo shàng",
+   "romanization": "měi tiān zǎo shàng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004411",
+    "english_id": "en:000004411",
+    "from": "core",
+    "core_priority": 3832,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 208
+  },
+  {
+   "id": "zh:x:100209",
+   "text": "每天晚上",
+   "kind": "expression",
+   "description": "In the evening or night of each day.",
+   "reading": "měi tiān wǎn shàng",
+   "romanization": "měi tiān wǎn shàng",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004412",
+    "english_id": "en:000004412",
+    "from": "core",
+    "core_priority": 3833,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 209
+  },
+  {
+   "id": "zh:x:100210",
+   "text": "社区活动中心",
+   "kind": "expression",
+   "description": "A public building where local people meet for activities.",
+   "reading": "shè qū huó dòng zhōng xīn",
+   "romanization": "shè qū huó dòng zhōng xīn",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004418",
+    "english_id": "en:000004418",
+    "from": "core",
+    "core_priority": 3839,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 210
+  },
+  {
+   "id": "zh:x:100211",
+   "text": "上床睡觉",
+   "kind": "expression",
+   "alternatives": [
+    "睡觉"
+   ],
+   "description": "To lie down in bed to sleep.",
+   "reading": "shàngchuáng shuìjiào",
+   "romanization": "shàngchuáng shuìjiào",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004647",
+    "english_id": "en:000004647",
+    "from": "core",
+    "core_priority": 4094,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 211
+  },
+  {
+   "id": "zh:x:100212",
+   "text": "请多关照",
+   "kind": "expression",
+   "description": "Polite phrase said when meeting someone or asking for a favor.",
+   "reading": "qǐng duō guānzhào",
+   "romanization": "qǐng duō guānzhào",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004659",
+    "english_id": "en:000004659",
+    "from": "core",
+    "core_priority": 4106,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 212
+  },
+  {
+   "id": "zh:x:100213",
+   "text": "这个周末",
+   "kind": "expression",
+   "description": "The coming Saturday and Sunday.",
+   "reading": "zhège zhōumò",
+   "romanization": "zhège zhōumò",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004662",
+    "english_id": "en:000004662",
+    "from": "core",
+    "core_priority": 4109,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 213
+  },
+  {
+   "id": "zh:x:100214",
+   "text": "什么样的",
+   "kind": "expression",
+   "description": "Asks about the type or nature of something.",
+   "reading": "shénmeyàng de",
+   "romanization": "shénmeyàng de",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004676",
+    "english_id": "en:000004676",
+    "from": "core",
+    "core_priority": 4123,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 214
+  },
+  {
+   "id": "zh:x:100215",
+   "text": "巧克力香蕉",
+   "kind": "expression",
+   "description": "A banana dipped in chocolate, a festival snack.",
+   "reading": "qiǎokèlì xiāngjiāo",
+   "romanization": "qiǎokèlì xiāngjiāo",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004690",
+    "english_id": "en:000004690",
+    "from": "core",
+    "core_priority": 4137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 215
+  },
+  {
+   "id": "zh:x:100216",
+   "text": "动漫歌曲",
+   "kind": "expression",
+   "description": "A song from an anime series.",
+   "reading": "dòngmàn gēqǔ",
+   "romanization": "dòngmàn gēqǔ",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "zh:en:000004693",
+    "english_id": "en:000004693",
+    "from": "core",
+    "core_priority": 4140,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 216
+  }
+ ]
+}
