@@ -1,12 +1,16 @@
-# Pendente (26/11/2026, atualizado após PR #521)
+# Pendente (28/11/2026, atualizado após PR #539)
 - PR #507 e PR #511 mergeados em 24/11. Relatos #509 e #510 fechados em 25/11.
-- **#519 Dicionários (núcleos 2.5.4):** `description` e `nativeExplain[idioma]` idênticos em quase todas as entradas (card repete a frase). `nativeExplain` é a descrição nativa (2.4.2). PR #521 (aberto, sem mergear): remove o português dentro de `nativeExplain` em en (471), ja (474) e zh (101), versão 2.5.5, 2.5.4 em `v2/previous`, catálogo atualizado, testes e validador do catálogo passando. Falta decidir qual dos dois campos fica (`description` ou `nativeExplain`) para eliminar a repetição.
-- **#520 App (ISHIDA-MULTILANG):** card repete a descrição; "descrição indisponível no idioma alvo" em quase todas as palavras, embora ja/zh tenham descrição em 3.865/3.865. Hipótese: busca de `nativeExplain[ja]` na entrada pt-BR em vez da entrada ja pelo mesmo ID. Repositório do app não esteve acessível. Sem APK até pedido.
-- **#512 Auditoria de sentidos:** começou em 26/11 com varredura de leitura (comentário no issue): 30 entradas ativas com descrição de 2+ usos e centenas de textos repetidos entre IDs (ja 206, zh 284, pt-BR 290). Planilha Kanji Study cobre só kanji isolados e foi descartada para isso; dúvidas de sentido resolvidas por fontes online. Próximo: lotes por prioridade com PR sem mergear.
-- 73 IDs com `core_status` diferente entre idiomas (ex.: "you're" ativo em pt-BR/en, `retired` em ja/zh): revisar.
-- Relatos do Multilang abertos (85, fora do núcleo): ver `novrev/suspensos/suspensos.json`. Nenhum relato novo desde #510.
+- **#519 Dicionários:** resolvido na main (2.5.5 em diante). `nativeExplain` removido, descrição nativa só em `description`; #521/#522 fechados e superados. #536 mergeado (出身 prioridade 60; relatos #531–#535 aplicados, núcleos 2.6.2).
+- **#539 Expressões e gírias (aberto, sem mergear, sem APK):** pacotes `{lang}-expressions-v2` (pt-BR 218, en 243, ja 200, zh 216), IDs `{lang}:x:100001+`, descrições/leituras em inglês, independentes, sem mobilidade entre grupos; núcleos 2.6.3 com IDs movidos `retired` + `moved_to`. Riscos: app precisa reconhecer role `expressions`; "vcu100 de gírias" interpretado como pacotes regionais en; sem revisão editorial. Falta: enriquecer (vcu100/gírias ja, zh, pt-BR) e documentar o padrão para regionais e pacotes específicos (ainda não escrito no NOVREV.md).
+- **#520 / #537 App (ISHIDA-MULTILANG):** bloqueado, repositório inacessível desta sessão. O dono precisa abrir chat novo no claude.ai e adicionar ISHIDA-MULTILANG, IM-LIBRARIES e lexicon. Sem APK até pedido.
+- **#538 Auditoria de の/に finais (~191 entradas):** exige decisão editorial por entrada.
+- **Reorganização por temas** (apresentação, compras, viagem, direções): pesquisa feita, não aplicada; aguarda decisão sobre ~45 palavras novas.
+- **#512 Auditoria de sentidos:** varredura feita; textos repetidos entre IDs (ja 206, zh 284, pt-BR 290). Próximo: lotes por prioridade com PR sem mergear.
+- Compostos: triagem respondida (36 frase, 8 verbete); demais ficam como verbetes.
+- Issues abertos: #531, #532, #535.
+- 73 IDs com `core_status` diferente entre idiomas: revisar.
+- Relatos do Multilang abertos (85, fora do núcleo): ver `novrev/suspensos/suspensos.json`.
 - Reservados e pendentes (72): regionais, britânicos, gírias e conceitos sem equivalente nos quatro idiomas.
 - Pares de IDs duplicados para decidir consolidação: Mass, makeup, savings, paint, medicine, football, commercial, hour, fusion.
 - Instruções antigas do `NOVREV.md` que conflitam com o #88: atualizar.
-- Branches `codex/*` (GPT): último commit em 20/11 (`codex/native-description-context`); nenhum arquivo novo subiu depois.
-- ISHIDA-MULTILANG: card com "+ significados" (código do app, sem APK até pedido); issue aberta com o fluxo.
+- Branches `codex/*` (GPT): último commit em 20/11; nada novo.
