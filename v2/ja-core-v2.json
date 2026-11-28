@@ -48,7 +48,7 @@
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
   "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
-  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1, ordem relativa preservada)."
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -42508,10 +42508,12 @@
    "part_of_speech": "adj",
    "source_status": "editorial-reviewed",
    "translation_confidence": "editorial-reviewed",
-   "text": "地元の",
-   "alternatives": [],
-   "reading": "じもとの",
-   "romanization": "jimoto no",
+   "text": "地元",
+   "alternatives": [
+    "地元の"
+   ],
+   "reading": "じもと",
+   "romanization": "jimoto",
    "class_real": "noun + の",
    "study_tier": "cedo",
    "study_priority": 1019,
