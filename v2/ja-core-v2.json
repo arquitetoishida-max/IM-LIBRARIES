@@ -5,7 +5,7 @@
  "language": "ja",
  "region": null,
  "name": "日本語 — 語彙",
- "version": "2.6.2",
+ "version": "2.6.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -48,7 +48,8 @@
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
   "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
-  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346)."
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346).",
+  "2.6.3: 200 expression/composite entries retired and moved to ja-expressions-v2 (ids kept, core_status=retired, moved_to pointer)."
  ],
  "third_party": [
   "JLPT levels (classifications field): OpenJLPT community lists, CC BY-SA 4.0 — approximate, not official."
@@ -29762,7 +29763,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000120"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "ja:x:100049"
   },
   {
    "id": "ja:en:000000012",
@@ -33838,7 +33841,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000078"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "ja:x:100050"
   },
   {
    "id": "ja:en:000000120",
@@ -35083,7 +35088,9 @@
    "user_hint": "",
    "description": "昔はよくしていたが、今はしないこと。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100118"
   },
   {
    "id": "ja:en:000000151",
@@ -36051,7 +36058,9 @@
    "description": "何かの下側。「机の下に」。年齢や数が下回る意味（「十歳未満」）にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100051"
   },
   {
    "id": "ja:en:000000173",
@@ -38738,7 +38747,9 @@
    "description": "どんな物でも。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100146"
   },
   {
    "id": "ja:en:000000245",
@@ -42286,7 +42297,9 @@
    "description": "ある範囲や期間の中。「一週間以内に」。距離にも使う：「五キロ以内」。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100052"
   },
   {
    "id": "ja:en:000000340",
@@ -47953,7 +47966,9 @@
    "description": "あるものの、うしろ側にあることを表す。「家の後ろに」のように、場所を示す。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100001"
   },
   {
    "id": "ja:en:000000491",
@@ -48082,7 +48097,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000285"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "ja:x:100002"
   },
   {
    "id": "ja:en:000000497",
@@ -48257,7 +48274,9 @@
    "user_hint": "",
    "description": "〜の言うところによると。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100053"
   },
   {
    "id": "ja:en:000000505",
@@ -51305,7 +51324,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000912"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "ja:x:100003"
   },
   {
    "id": "ja:en:000000608",
@@ -61059,7 +61080,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000607"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "ja:x:100004"
   },
   {
    "id": "ja:en:000000914",
@@ -66345,7 +66368,9 @@
    "description": "ある範囲や期間のすみずみまで。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100054"
   },
   {
    "id": "ja:en:000001078",
@@ -99067,7 +99092,9 @@
    "description": "すでに述べた人や物に加えて、さらに別のものがあることを表す。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100055"
   },
   {
    "id": "ja:en:000002290",
@@ -106824,7 +106851,9 @@
    "user_hint": "",
    "description": "あることの違いで、結果が変わるという意味。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100056"
   },
   {
    "id": "ja:en:000002631",
@@ -113697,7 +113726,9 @@
    "user_hint": "",
    "description": "それをする権利がある。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100119"
   },
   {
    "id": "ja:en:000002901",
@@ -115947,7 +115978,8 @@
    "description": "くだけた言い方で、とてもつかれている。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100161"
   },
   {
    "id": "ja:en:000003068",
@@ -115968,7 +116000,9 @@
    "study_priority": 3040,
    "user_hint": "",
    "description": "とてもすばらしく、盛り上がる曲。",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100139"
   },
   {
    "id": "ja:en:000003047",
@@ -115991,7 +116025,8 @@
    "description": "本番の前に幸運を祈るときの、くだけた言い方。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100179"
   },
   {
    "id": "ja:en:000003041",
@@ -116022,7 +116057,8 @@
    "description": "男の友だちに親しみをこめて呼びかける言葉。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100174"
   },
   {
    "id": "ja:en:000003001",
@@ -116045,7 +116081,8 @@
    "description": "ドルのくだけた言い方。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100156"
   },
   {
    "id": "ja:en:000003091",
@@ -116068,7 +116105,8 @@
    "description": "持っているお金や勝ち分を現金に換える。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100149"
   },
   {
    "id": "ja:en:000003044",
@@ -116091,7 +116129,8 @@
    "description": "人の家に一晩とめてもらう。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100176"
   },
   {
    "id": "ja:en:000003040",
@@ -116114,7 +116153,8 @@
    "description": "家族のように親しい友だちのこと（くだけた言い方）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100173"
   },
   {
    "id": "ja:en:000003031",
@@ -116137,7 +116177,8 @@
    "description": "自慢して見せつける。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100167"
   },
   {
    "id": "ja:en:000003030",
@@ -116163,7 +116204,8 @@
    "description": "相手に急に返事をしなくなる。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100166"
   },
   {
    "id": "ja:en:000003049",
@@ -116187,7 +116229,8 @@
    "description": "少しだけ待ってほしいときに言う言葉。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100181"
   },
   {
    "id": "ja:en:000003014",
@@ -116211,7 +116254,8 @@
    "description": "さっと軽く食べる。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100160"
   },
   {
    "id": "ja:en:000003052",
@@ -116235,7 +116279,8 @@
    "description": "人と会ってコーヒーを飲む。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100184"
   },
   {
    "id": "ja:en:000003013",
@@ -116258,7 +116303,8 @@
    "description": "友だちとのんびり時間を過ごす。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100159"
   },
   {
    "id": "ja:en:000003043",
@@ -116282,7 +116328,8 @@
    "description": "おなかがすいて、いらいらしている。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100175"
   },
   {
    "id": "ja:en:000003045",
@@ -116305,7 +116352,8 @@
    "description": "旅や移動に出かける。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100177"
   },
   {
    "id": "ja:en:000003033",
@@ -116328,7 +116376,8 @@
    "description": "本物で、信頼できる。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100169"
   },
   {
    "id": "ja:en:000003035",
@@ -116352,7 +116401,8 @@
    "description": "とても盛り上がって楽しい。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100170"
   },
   {
    "id": "ja:en:000003028",
@@ -116375,7 +116425,8 @@
    "description": "ひそかに。ちょっとだけ（こっそり）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100165"
   },
   {
    "id": "ja:en:000003080",
@@ -116397,7 +116448,9 @@
    "user_hint": "",
    "description": "都市の地下を走る電車。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100057"
   },
   {
    "id": "ja:en:000003016",
@@ -116421,7 +116474,8 @@
    "description": "「私のまちがいだった」という意味。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100162"
   },
   {
    "id": "ja:en:000003050",
@@ -116445,7 +116499,8 @@
    "description": "「私がお金を出す」という意味。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100182"
   },
   {
    "id": "ja:en:000003089",
@@ -116469,7 +116524,8 @@
    "description": "「たいした問題じゃない」という意味。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100185"
   },
   {
    "id": "ja:en:000003038",
@@ -116492,7 +116548,8 @@
    "description": "くだけた言い方で、うそじゃない、本当に。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100172"
   },
   {
    "id": "ja:en:000003011",
@@ -116523,7 +116580,8 @@
    "description": "問題ない、気にしないで、という意味。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100157"
   },
   {
    "id": "ja:en:000003051",
@@ -116549,7 +116607,8 @@
    "description": "店のサービスで、お金はいらない。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100183"
   },
   {
    "id": "ja:en:000003046",
@@ -116572,7 +116631,8 @@
    "description": "とてもかんたんなこと。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100178"
   },
   {
    "id": "ja:en:000003032",
@@ -116595,7 +116655,8 @@
    "description": "あることでむっとして、とげとげしい。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100168"
   },
   {
    "id": "ja:en:000003075",
@@ -116619,7 +116680,9 @@
    "user_hint": "",
    "description": "あまくて泡の出る飲み物：「炭酸飲料の缶」。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100005"
   },
   {
    "id": "ja:en:000003027",
@@ -116642,7 +116705,8 @@
    "description": "うわさ話や内緒の話を打ち明ける。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100164"
   },
   {
    "id": "ja:en:000003036",
@@ -116665,7 +116729,8 @@
    "description": "あやしい、うさんくさい（くだけた言い方）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100171"
   },
   {
    "id": "ja:en:000003026",
@@ -116688,7 +116753,8 @@
    "description": "今回はていねいに断り、また今度にしてもらう。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100163"
   },
   {
    "id": "ja:en:000003054",
@@ -116710,7 +116776,9 @@
    "user_hint": "",
    "description": "買って持ち帰り、家で食べる料理。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100138"
   },
   {
    "id": "ja:en:000003079",
@@ -116741,7 +116809,8 @@
    "description": "地下を走る電車。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100147"
   },
   {
    "id": "ja:en:000003048",
@@ -116765,7 +116834,8 @@
    "description": "体調が少しよくない。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100180"
   },
   {
    "id": "ja:en:000003012",
@@ -116788,7 +116858,8 @@
    "description": "「やあ、元気？」（とてもくだけた言い方）。",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100158"
   },
   {
    "id": "ja:en:000003092",
@@ -116978,7 +117049,9 @@
    "description": "〜のとなり。「私のとなりに座る」。〜とくらべて、の意味にも使う。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100058"
   },
   {
    "id": "ja:en:000003098",
@@ -119352,7 +119425,9 @@
    "description": "何かの下に。",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100059"
   },
   {
    "id": "ja:en:000003173",
@@ -120428,7 +120503,9 @@
    "user_hint": "",
    "description": "当然そうだ、という気持ちを表す（「もちろん手伝うよ」）。",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100006"
   },
   {
    "id": "ja:en:000003206",
@@ -120597,7 +120674,9 @@
    "description": "間をあけずに続けて（3日連続）。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100134"
   },
   {
    "id": "ja:en:000000703",
@@ -121109,7 +121188,9 @@
    "description": "決める前によく考える。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100135"
   },
   {
    "id": "ja:en:000001720",
@@ -121869,7 +121950,9 @@
    "description": "数や量が多いこと。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100136"
   },
   {
    "id": "ja:en:000002493",
@@ -122381,7 +122464,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100154"
   },
   {
    "id": "ja:en:000003207",
@@ -122471,7 +122555,9 @@
    "description": "おもちゃとして作られた、小さな車。「おもちゃの車で遊ぶ」のように使い、ミニカーとも言う。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100007"
   },
   {
    "id": "ja:en:000003211",
@@ -122700,7 +122786,9 @@
    "description": "服を身につける。ズボンやくつは「はく」、ぼうしは「かぶる」と言う。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100008"
   },
   {
    "id": "ja:en:000003220",
@@ -122723,7 +122811,9 @@
    "description": "着ている服や、身につけている物を取る。「コートを脱ぐ」のように使い、靴や帽子にも使う。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100009"
   },
   {
    "id": "ja:en:000003221",
@@ -122859,7 +122949,8 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100186"
   },
   {
    "id": "ja:en:000003227",
@@ -122882,7 +122973,9 @@
    "description": "クリスマスの夜に、プレゼントを配るとされる、赤い服の白いひげのおじいさん。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100010"
   },
   {
    "id": "ja:en:000003229",
@@ -122905,7 +122998,9 @@
    "description": "年のはじめの数日と、そのお祝い。「お正月を祝う」のように使い、日本では一月のはじめの行事を指す。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100011"
   },
   {
    "id": "ja:en:000003230",
@@ -122928,7 +123023,9 @@
    "description": "クマの形をした、やわらかいおもちゃ。「ぬいぐるみを抱く」のように使い、子どもに人気がある。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100012"
   },
   {
    "id": "ja:en:000003231",
@@ -122951,7 +123048,9 @@
    "description": "積み上げて遊ぶ、小さなおもちゃのブロック。「積み木で遊ぶ」のように使い、形や色がいろいろある。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100013"
   },
   {
    "id": "ja:en:000003232",
@@ -123085,7 +123184,9 @@
    "description": "卵の黄身のような、あたたかい濃い黄色。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100140"
   },
   {
    "id": "ja:en:000003234",
@@ -123399,7 +123500,9 @@
    "description": "卵の中の黄色い部分。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100014"
   },
   {
    "id": "ja:en:000003241",
@@ -123806,7 +123909,9 @@
    "description": "えんぴつの先をとがらせる小さな道具。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100060"
   },
   {
    "id": "ja:en:000003256",
@@ -123869,7 +123974,9 @@
    "description": "道の片がわからもう一方へ行く。",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100061"
   },
   {
    "id": "ja:en:000003259",
@@ -124421,7 +124528,9 @@
    "description": "自分の番がくるまで待つ。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100062"
   },
   {
    "id": "ja:en:000003272",
@@ -124442,7 +124551,9 @@
    "description": "話したいときに手をあげる。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100015"
   },
   {
    "id": "ja:en:000003273",
@@ -124463,7 +124574,9 @@
    "description": "先生の言うことに注意を向ける。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100063"
   },
   {
    "id": "ja:en:000003274",
@@ -124549,7 +124662,9 @@
    "description": "あらたまった場で履く革のくつ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100064"
   },
   {
    "id": "ja:en:000003278",
@@ -125487,7 +125602,9 @@
    "description": "水と石けんで手をきれいにする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100016"
   },
   {
    "id": "ja:en:000003317",
@@ -125508,7 +125625,9 @@
    "description": "ブラシで歯をきれいにする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100017"
   },
   {
    "id": "ja:en:000003318",
@@ -125529,7 +125648,9 @@
    "description": "服を身につける。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100018"
   },
   {
    "id": "ja:en:000003319",
@@ -125550,7 +125671,9 @@
    "description": "ブラシで髪の形を整える。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100019"
   },
   {
    "id": "ja:en:000003320",
@@ -125571,7 +125694,9 @@
    "description": "くつのひもをむすぶ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100020"
   },
   {
    "id": "ja:en:000003321",
@@ -125592,7 +125717,9 @@
    "description": "道をわたる前に、左右を見て確かめる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100065"
   },
   {
    "id": "ja:en:000003322",
@@ -125613,7 +125740,9 @@
    "description": "人に手助けをたのむ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100021"
   },
   {
    "id": "ja:en:000003323",
@@ -125634,7 +125763,9 @@
    "description": "実際にあったことをそのまま話す。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100066"
   },
   {
    "id": "ja:en:000003324",
@@ -125768,7 +125899,9 @@
    "description": "ほかの人と手をにぎり合う。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100022"
   },
   {
    "id": "ja:en:000003326",
@@ -125789,7 +125922,9 @@
    "description": "人に声をかけてあいさつする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100023"
   },
   {
    "id": "ja:en:000003327",
@@ -126034,7 +126169,9 @@
    "description": "おなかをかかえて大笑いする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100067"
   },
   {
    "id": "ja:en:000003330",
@@ -126055,7 +126192,9 @@
    "description": "けんかのあと、また友だちにもどる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100137"
   },
   {
    "id": "ja:en:000003331",
@@ -126076,7 +126215,9 @@
    "description": "ほかの人に話してはいけないことを黙っている。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100068"
   },
   {
    "id": "ja:en:000003332",
@@ -126097,7 +126238,9 @@
    "description": "内緒のことを人に打ち明ける。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100069"
   },
   {
    "id": "ja:en:000003333",
@@ -126233,7 +126376,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100150"
   },
   {
    "id": "ja:en:000003335",
@@ -126479,7 +126623,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100187"
   },
   {
    "id": "ja:en:000003338",
@@ -126500,7 +126645,9 @@
    "description": "ボールをけって行う球技をする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100024"
   },
   {
    "id": "ja:en:000003339",
@@ -126521,7 +126668,9 @@
    "description": "かごにボールを入れる球技をする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100070"
   },
   {
    "id": "ja:en:000003340",
@@ -126542,7 +126691,9 @@
    "description": "ネットごしにボールを打ちあう球技をする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100071"
   },
   {
    "id": "ja:en:000003341",
@@ -126563,7 +126714,9 @@
    "description": "画面を使ったゲームで遊ぶ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100072"
   },
   {
    "id": "ja:en:000003342",
@@ -126584,7 +126737,9 @@
    "description": "動くまんが番組を見る。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100025"
   },
   {
    "id": "ja:en:000003343",
@@ -126605,7 +126760,9 @@
    "description": "音楽を耳でたのしむ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100026"
   },
   {
    "id": "ja:en:000003344",
@@ -126626,7 +126783,9 @@
    "description": "早い時間にねる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100027"
   },
   {
    "id": "ja:en:000003345",
@@ -126647,7 +126806,9 @@
    "description": "朝早く目をさます。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100028"
   },
   {
    "id": "ja:en:000003346",
@@ -127009,7 +127170,9 @@
    "description": "牛乳などでつくる、冷たくて甘い食べ物。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100029"
   },
   {
    "id": "ja:en:000003363",
@@ -127074,7 +127237,9 @@
    "description": "オレンジをしぼってつくる飲み物。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100030"
   },
   {
    "id": "ja:en:000003366",
@@ -127454,7 +127619,9 @@
    "description": "使わずにお金をためておく。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100120"
   },
   {
    "id": "ja:en:000003384",
@@ -127498,7 +127665,9 @@
    "description": "小さな子どもが最初に通う学校。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100031"
   },
   {
    "id": "ja:en:000003386",
@@ -127586,7 +127755,9 @@
    "description": "学校の道具を入れて持ち歩くかばん。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100032"
   },
   {
    "id": "ja:en:000003390",
@@ -127607,7 +127778,9 @@
    "description": "えんぴつやペンを入れる小さな箱。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100033"
   },
   {
    "id": "ja:en:000003391",
@@ -127978,7 +128151,9 @@
    "description": "走る、跳ぶ、投げる競技の総称。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100073"
   },
   {
    "id": "ja:en:000003408",
@@ -128020,7 +128195,9 @@
    "description": "中国の武術。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100141"
   },
   {
    "id": "ja:en:000003410",
@@ -128085,7 +128262,9 @@
    "description": "速い足どりで走る。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100121"
   },
   {
    "id": "ja:en:000003413",
@@ -128106,7 +128285,9 @@
    "description": "投げられたボールを受けとめる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100122"
   },
   {
    "id": "ja:en:000003414",
@@ -128617,7 +128798,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100155"
   },
   {
    "id": "ja:en:000003437",
@@ -128725,7 +128907,9 @@
    "description": "先をとがらせて回して遊ぶおもちゃ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100034"
   },
   {
    "id": "ja:en:000003442",
@@ -128788,7 +128972,9 @@
    "description": "ひとりが、かくれた友だちをさがす遊び。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100035"
   },
   {
    "id": "ja:en:000003445",
@@ -128830,7 +129016,9 @@
    "description": "二つの組が、綱を反対方向に引き合う競技。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100074"
   },
   {
    "id": "ja:en:000003447",
@@ -128851,7 +129039,9 @@
    "description": "回るなわをとびこえる遊び。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100036"
   },
   {
    "id": "ja:en:000003448",
@@ -128872,7 +129062,9 @@
    "description": "風を使って、たこを空に上げる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100123"
   },
   {
    "id": "ja:en:000003449",
@@ -128893,7 +129085,9 @@
    "description": "小さなガラス玉で遊ぶ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100124"
   },
   {
    "id": "ja:en:000003450",
@@ -129358,7 +129552,9 @@
    "description": "車輪つきのくつですべる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100075"
   },
   {
    "id": "ja:en:000003455",
@@ -129380,7 +129576,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100151"
   },
   {
    "id": "ja:en:000003456",
@@ -129758,7 +129955,9 @@
    "description": "味を確かめるために、少し食べてみる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100076"
   },
   {
    "id": "ja:en:000003461",
@@ -129779,7 +129978,9 @@
    "description": "食べ終えたあと、食器をテーブルから下げる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100077"
   },
   {
    "id": "ja:en:000003462",
@@ -129800,7 +130001,9 @@
    "description": "食事のあと、皿やコップをあらう。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100037"
   },
   {
    "id": "ja:en:000003463",
@@ -130045,7 +130248,9 @@
    "description": "シーツや布団をきれいに整える。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100038"
   },
   {
    "id": "ja:en:000003466",
@@ -130066,7 +130271,9 @@
    "description": "植物に水をあたえる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100039"
   },
   {
    "id": "ja:en:000003467",
@@ -130087,7 +130294,9 @@
    "description": "犬を連れて外を歩く。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100040"
   },
   {
    "id": "ja:en:000003468",
@@ -130108,7 +130317,9 @@
    "description": "ペットに食べ物をあたえる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100078"
   },
   {
    "id": "ja:en:000003469",
@@ -130130,7 +130341,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100148"
   },
   {
    "id": "ja:en:000003470",
@@ -130151,7 +130363,9 @@
    "description": "テレビ番組を見る。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100041"
   },
   {
    "id": "ja:en:000003471",
@@ -130172,7 +130386,9 @@
    "description": "ラジオの放送を聞く。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100079"
   },
   {
    "id": "ja:en:000003472",
@@ -130193,7 +130409,9 @@
    "description": "インターネットでサイトを見て回る。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100080"
   },
   {
    "id": "ja:en:000003473",
@@ -130214,7 +130432,9 @@
    "description": "カメラやスマホで写真をうつす。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100042"
   },
   {
    "id": "ja:en:000003474",
@@ -130235,7 +130455,9 @@
    "description": "動く映像を記録する。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100081"
   },
   {
    "id": "ja:en:000003475",
@@ -130256,7 +130478,9 @@
    "description": "ピアノで曲をかなでる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100082"
   },
   {
    "id": "ja:en:000003476",
@@ -130277,7 +130501,9 @@
    "description": "ギターで曲をかなでる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100083"
   },
   {
    "id": "ja:en:000003477",
@@ -130300,7 +130526,9 @@
    "description": "笛を口にあてて音を出す。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100084"
   },
   {
    "id": "ja:en:000003478",
@@ -130321,7 +130549,9 @@
    "description": "ドラムをたたいて演奏する。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100085"
   },
   {
    "id": "ja:en:000003479",
@@ -130899,7 +131129,9 @@
    "description": "散らかったり、よごれたりした所をきれいにする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100086"
   },
   {
    "id": "ja:en:000003485",
@@ -130920,7 +131152,9 @@
    "description": "人に声をかけたり、前を通ったりするときのていねいな言葉。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100043"
   },
   {
    "id": "ja:en:000003486",
@@ -130941,7 +131175,9 @@
    "description": "自分の番がくるまで、列にならんで待つ。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100044"
   },
   {
    "id": "ja:en:000003487",
@@ -130962,7 +131198,9 @@
    "description": "両親の言うことを聞く。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100087"
   },
   {
    "id": "ja:en:000003488",
@@ -130983,7 +131221,9 @@
    "description": "決まりに書かれたとおりにする。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100088"
   },
   {
    "id": "ja:en:000003489",
@@ -131004,7 +131244,9 @@
    "description": "決めた時刻に着く。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100089"
   },
   {
    "id": "ja:en:000003490",
@@ -131025,7 +131267,9 @@
    "description": "おかしなことがあったとき、おとなに知らせる。",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100045"
   },
   {
    "id": "ja:en:000003491",
@@ -131175,7 +131419,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100152"
   },
   {
    "id": "ja:en:000003498",
@@ -131324,7 +131569,9 @@
    "description": "宝のかくし場所を示した地図。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100090"
   },
   {
    "id": "ja:en:000003505",
@@ -131723,7 +131970,9 @@
    "description": "春に咲く、ピンクや白の花。木の名前でもある。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100091"
   },
   {
    "id": "ja:en:000003524",
@@ -131849,7 +132098,9 @@
    "description": "卵を産む、メスのはち。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100092"
   },
   {
    "id": "ja:en:000003530",
@@ -131933,7 +132184,9 @@
    "description": "鳥が産んだ卵。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100093"
   },
   {
    "id": "ja:en:000003534",
@@ -132504,7 +132757,9 @@
    "description": "人形を動かして見せる劇。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100094"
   },
   {
    "id": "ja:en:000003561",
@@ -132632,7 +132887,9 @@
    "description": "旧暦の新年を祝う行事。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100142"
   },
   {
    "id": "ja:en:000003567",
@@ -132654,7 +132911,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100188"
   },
   {
    "id": "ja:en:000003568",
@@ -132675,7 +132933,9 @@
    "description": "数の10,000。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100046"
   },
   {
    "id": "ja:en:000003569",
@@ -133454,7 +133714,9 @@
    "description": "液体のすがたの水。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100125"
   },
   {
    "id": "ja:en:000003606",
@@ -133475,7 +133737,9 @@
    "description": "二酸化炭素をこおらせたもの。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100126"
   },
   {
    "id": "ja:en:000003607",
@@ -133730,7 +133994,9 @@
    "description": "物質が別の新しい物質にかわるはたらき。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100127"
   },
   {
    "id": "ja:en:000003619",
@@ -133772,7 +134038,9 @@
    "description": "夜空に光の線を引いてすぐ消える星。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100047"
   },
   {
    "id": "ja:en:000003621",
@@ -133856,7 +134124,9 @@
    "description": "太陽と、そのまわりを回る惑星など。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100095"
   },
   {
    "id": "ja:en:000003625",
@@ -134045,7 +134315,9 @@
    "description": "まるく見える月。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100048"
   },
   {
    "id": "ja:en:000003634",
@@ -134536,7 +134808,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100189"
   },
   {
    "id": "ja:en:000003657",
@@ -134558,7 +134831,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100190"
   },
   {
    "id": "ja:en:000003658",
@@ -134580,7 +134854,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100191"
   },
   {
    "id": "ja:en:000003659",
@@ -134602,7 +134877,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100192"
   },
   {
    "id": "ja:en:000003660",
@@ -134686,7 +134962,9 @@
    "description": "すべての人が生まれながらにもつ、基本の権利。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100096"
   },
   {
    "id": "ja:en:000003664",
@@ -134707,7 +134985,9 @@
    "description": "飛行機を使って守る軍隊。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100097"
   },
   {
    "id": "ja:en:000003666",
@@ -134917,7 +135197,9 @@
    "description": "科学の論文をのせて出す刊行物。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100128"
   },
   {
    "id": "ja:en:000003676",
@@ -135383,7 +135665,9 @@
    "description": "世界全体をえがいた地図。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100098"
   },
   {
    "id": "ja:en:000003698",
@@ -136161,7 +136445,9 @@
    "description": "海の中を、一定の向きに流れる水の動き。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100099"
   },
   {
    "id": "ja:en:000003733",
@@ -136224,7 +136510,9 @@
    "description": "アジアの南にある海。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100143"
   },
   {
    "id": "ja:en:000003736",
@@ -136245,7 +136533,9 @@
    "description": "北極のまわりにある海。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100144"
   },
   {
    "id": "ja:en:000003737",
@@ -136266,7 +136556,9 @@
    "description": "南極大陸のまわりにある海。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100145"
   },
   {
    "id": "ja:en:000003738",
@@ -136420,7 +136712,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100193"
   },
   {
    "id": "ja:en:000003745",
@@ -136442,7 +136735,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100194"
   },
   {
    "id": "ja:en:000003746",
@@ -136464,7 +136758,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100195"
   },
   {
    "id": "ja:en:000003747",
@@ -136486,7 +136781,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100196"
   },
   {
    "id": "ja:en:000003748",
@@ -136508,7 +136804,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100197"
   },
   {
    "id": "ja:en:000003750",
@@ -136530,7 +136827,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100198"
   },
   {
    "id": "ja:en:000003751",
@@ -136574,7 +136872,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100199"
   },
   {
    "id": "ja:en:000003753",
@@ -136596,7 +136895,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100200"
   },
   {
    "id": "ja:en:000003754",
@@ -136746,7 +137046,9 @@
    "description": "絵や彫刻など、芸術としてつくられたもの。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100100"
   },
   {
    "id": "ja:en:000003761",
@@ -137214,7 +137516,9 @@
    "description": "お金や投資の商品を売り買いする仕組み。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100129"
   },
   {
    "id": "ja:en:000003783",
@@ -137235,7 +137539,9 @@
    "description": "会社の株を売り買いする場所。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100130"
   },
   {
    "id": "ja:en:000003784",
@@ -137715,7 +138021,9 @@
    "description": "電気をつくる施設。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100101"
   },
   {
    "id": "ja:en:000003806",
@@ -137736,7 +138044,9 @@
    "description": "風の力でつくるエネルギー。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100102"
   },
   {
    "id": "ja:en:000003807",
@@ -137757,7 +138067,9 @@
    "description": "流れる水の力でつくるエネルギー。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100103"
   },
   {
    "id": "ja:en:000003808",
@@ -137822,7 +138134,9 @@
    "description": "地下からとれる、燃料にする気体。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100104"
   },
   {
    "id": "ja:en:000003811",
@@ -138078,7 +138392,9 @@
    "description": "自然の中で、食べる、食べられるのつながり。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100131"
   },
   {
    "id": "ja:en:000003823",
@@ -139014,7 +139330,9 @@
    "description": "人の暮らしや健康が、どれだけ満たされているかの度合い。",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100132"
   },
   {
    "id": "ja:en:000003867",
@@ -140303,7 +140621,9 @@
    "description": "これからの天気を、前もって知らせるもの。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100105"
   },
   {
    "id": "ja:en:000003915",
@@ -140412,7 +140732,9 @@
    "description": "わずかな量。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100106"
   },
   {
    "id": "ja:en:000003921",
@@ -140723,7 +141045,9 @@
    "description": "それより少なくはない、最低でも。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100107"
   },
   {
    "id": "ja:en:000003932",
@@ -141114,7 +141438,9 @@
    "description": "ほかの部分。使ったあとに残るもの。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100108"
   },
   {
    "id": "ja:en:000003944",
@@ -141332,7 +141658,9 @@
    "description": "例をあげるときに使う言葉。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100109"
   },
   {
    "id": "ja:en:000003950",
@@ -141945,7 +142273,9 @@
    "description": "ふだんより安い値段で売っている。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100110"
   },
   {
    "id": "ja:en:000003972",
@@ -141987,7 +142317,9 @@
    "description": "A、B、Cのような、大きいほうの字。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100111"
   },
   {
    "id": "ja:en:000003974",
@@ -142512,7 +142844,9 @@
    "description": "持ち歩ける電話。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100112"
   },
   {
    "id": "ja:en:000003997",
@@ -143161,7 +143495,9 @@
    "description": "否定の言葉に、自分も同じだと答える。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100113"
   },
   {
    "id": "ja:en:000004015",
@@ -146336,7 +146672,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "ja:x:100153"
   },
   {
    "id": "ja:en:000004101",
@@ -146600,7 +146937,9 @@
    "description": "スプーンなどを回して、食べ物や液体を混ぜる。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100114"
   },
   {
    "id": "ja:en:000004105",
@@ -147069,7 +147408,9 @@
    "description": "まちがいのない、正しい答え。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100115"
   },
   {
    "id": "ja:en:000004110",
@@ -147092,7 +147433,9 @@
    "description": "毎日の暮らしをえがく、テレビの連続もの。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100116"
   },
   {
    "id": "ja:en:000004111",
@@ -147346,7 +147689,9 @@
    "description": "ひとりで演奏する、いくつかの太鼓のセット。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100117"
   },
   {
    "id": "ja:en:000004123",
@@ -147918,7 +148263,9 @@
    "description": "太陽の光からえるエネルギー。",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "ja:x:100133"
   },
   {
    "id": "ja:en:000004150",

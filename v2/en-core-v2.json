@@ -5,7 +5,7 @@
  "language": "en",
  "region": null,
  "name": "English — core and expressions",
- "version": "2.6.2",
+ "version": "2.6.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -47,7 +47,8 @@
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
   "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
-  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346)."
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346).",
+  "2.6.3: 205 expression/composite entries retired and moved to en-expressions-v2 (ids kept, core_status=retired, moved_to pointer)."
  ],
  "grammatical_keys_version": 1,
  "entries": [
@@ -3980,7 +3981,9 @@
      "text": "useding to",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100111"
   },
   {
    "id": "en:000000151",
@@ -11937,7 +11940,9 @@
    "user_hint": "",
    "description": "\"According to\" = as said by.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100046"
   },
   {
    "id": "en:000000505",
@@ -49367,7 +49372,9 @@
    "user_hint": "",
    "description": "\"Depending on\" = it changes with.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100047"
   },
   {
    "id": "en:000002631",
@@ -55320,7 +55327,8 @@
    "description": "An informal expression meaning I am very tired.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100154"
   },
   {
    "id": "en:000003068",
@@ -55335,12 +55343,13 @@
    "source_status": "editorial-reviewed",
    "part_of_speech": "exp",
    "register": "slang",
-   "core_status": "search_only",
+   "core_status": "retired",
    "study_tier": "temático",
    "study_priority": 3389,
    "user_hint": "",
    "description": "A very good, exciting song.",
-   "antonyms": []
+   "antonyms": [],
+   "moved_to": "en:000003068"
   },
   {
    "id": "en:000003047",
@@ -55361,7 +55370,8 @@
    "description": "An informal way to wish someone good luck before a performance.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100170"
   },
   {
    "id": "en:000003041",
@@ -55384,7 +55394,8 @@
    "description": "Friendly way to call a male friend.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100167"
   },
   {
    "id": "en:000003001",
@@ -55405,7 +55416,8 @@
    "description": "Dollars (informal).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100153"
   },
   {
    "id": "en:000003091",
@@ -55425,7 +55437,9 @@
    "user_hint": "",
    "description": "To take out your money or winnings.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100049"
   },
   {
    "id": "en:000003044",
@@ -55446,7 +55460,8 @@
    "description": "To sleep at someone's place for a night.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100169"
   },
   {
    "id": "en:000003040",
@@ -55468,7 +55483,8 @@
    "description": "Close friends; \"family\" (slang).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100166"
   },
   {
    "id": "en:000003031",
@@ -55490,7 +55506,8 @@
    "description": "To show off.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100160"
   },
   {
    "id": "en:000003030",
@@ -55512,7 +55529,8 @@
    "description": "To stop answering someone suddenly.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100159"
   },
   {
    "id": "en:000003049",
@@ -55532,7 +55550,9 @@
    "user_hint": "",
    "description": "\"Wait a second, please.\"",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100137"
   },
   {
    "id": "en:000003014",
@@ -55552,7 +55572,9 @@
    "user_hint": "",
    "description": "To eat something quickly.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100133"
   },
   {
    "id": "en:000003052",
@@ -55573,7 +55595,9 @@
    "user_hint": "",
    "description": "To meet for a coffee.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100140"
   },
   {
    "id": "en:000003013",
@@ -55594,7 +55618,9 @@
    "user_hint": "",
    "description": "To spend time relaxing with friends.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100132"
   },
   {
    "id": "en:000003043",
@@ -55617,7 +55643,8 @@
    "description": "Angry because you are hungry.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100168"
   },
   {
    "id": "en:000003045",
@@ -55638,7 +55665,9 @@
    "user_hint": "",
    "description": "To leave on a trip.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100134"
   },
   {
    "id": "en:000003033",
@@ -55660,7 +55689,8 @@
    "description": "Real; really good.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100162"
   },
   {
    "id": "en:000003035",
@@ -55682,7 +55712,8 @@
    "description": "Very exciting and fun.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100163"
   },
   {
    "id": "en:000003028",
@@ -55703,7 +55734,8 @@
    "description": "Quietly; a little (secretly).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100158"
   },
   {
    "id": "en:000003080",
@@ -55724,7 +55756,9 @@
    "user_hint": "",
    "description": "A city's subway train.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100048"
   },
   {
    "id": "en:000003016",
@@ -55745,7 +55779,8 @@
    "description": "\"My mistake.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100155"
   },
   {
    "id": "en:000003050",
@@ -55766,7 +55801,9 @@
    "user_hint": "",
    "description": "\"I'll pay for you.\"",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100138"
   },
   {
    "id": "en:000003089",
@@ -55787,7 +55824,8 @@
    "description": "\"It's not a problem.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100171"
   },
   {
    "id": "en:000003038",
@@ -55808,7 +55846,8 @@
    "description": "Slang: \"no lie; for real\".",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100165"
   },
   {
    "id": "en:000003011",
@@ -55829,7 +55868,9 @@
    "user_hint": "",
    "description": "\"No problem; don't worry.\"",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100130"
   },
   {
    "id": "en:000003051",
@@ -55850,7 +55891,9 @@
    "user_hint": "",
    "description": "Free, paid by the restaurant or bar.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100139"
   },
   {
    "id": "en:000003046",
@@ -55871,7 +55914,9 @@
    "user_hint": "",
    "description": "Something very easy.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100135"
   },
   {
    "id": "en:000003032",
@@ -55892,7 +55937,8 @@
    "description": "Annoyed or bitter about something.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100161"
   },
   {
    "id": "en:000003075",
@@ -55916,7 +55962,9 @@
    "alternatives": [
     "pop",
     "soft drink"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100001"
   },
   {
    "id": "en:000003027",
@@ -55937,7 +55985,8 @@
    "description": "To tell gossip.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100157"
   },
   {
    "id": "en:000003036",
@@ -55958,7 +56007,8 @@
    "description": "Suspicious (slang).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100164"
   },
   {
    "id": "en:000003026",
@@ -55979,7 +56029,8 @@
    "description": "To politely say no now but maybe later.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100156"
   },
   {
    "id": "en:000003054",
@@ -55999,7 +56050,9 @@
    "user_hint": "",
    "description": "Food bought to eat at home.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100141"
   },
   {
    "id": "en:000003079",
@@ -56020,7 +56073,8 @@
    "description": "An underground train system.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100149"
   },
   {
    "id": "en:000003048",
@@ -56041,7 +56095,9 @@
    "user_hint": "",
    "description": "Feeling a little sick.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100136"
   },
   {
    "id": "en:000003012",
@@ -56061,7 +56117,9 @@
    "user_hint": "",
    "description": "\"Hi, how are you?\" (very informal).",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100131"
   },
   {
    "id": "en:000003092",
@@ -58864,7 +58922,9 @@
    "user_hint": "",
    "description": "Certainly; naturally: \"Of course I will help\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100002"
   },
   {
    "id": "en:000003206",
@@ -59046,7 +59106,9 @@
    "description": "One after another without a break (three days in a row).",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100126"
   },
   {
    "id": "en:000000703",
@@ -59487,7 +59549,9 @@
      "text": "thinking about",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100127"
   },
   {
    "id": "en:000001720",
@@ -60171,7 +60235,9 @@
    "description": "A large amount or number.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100128"
   },
   {
    "id": "en:000002493",
@@ -60613,7 +60679,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100151"
   },
   {
    "id": "en:000003207",
@@ -60696,7 +60763,9 @@
    "description": "A small car made as a toy: \"play with a toy car\". Also used for a model car.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100003"
   },
   {
    "id": "en:000003211",
@@ -60918,7 +60987,9 @@
      "text": "putting on",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100004"
   },
   {
    "id": "en:000003220",
@@ -60970,7 +61041,9 @@
      "text": "taking off",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100005"
   },
   {
    "id": "en:000003221",
@@ -61100,7 +61173,9 @@
    "description": "Banana crushed into a soft food for babies.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100142"
   },
   {
    "id": "en:000003227",
@@ -61119,7 +61194,9 @@
    "description": "The man in a red suit who brings presents at Christmas.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100006"
   },
   {
    "id": "en:000003229",
@@ -61138,7 +61215,9 @@
    "description": "The first days of the year and their celebration.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100007"
   },
   {
    "id": "en:000003230",
@@ -61160,7 +61239,9 @@
    "description": "A soft toy bear: \"hug a teddy bear\". Also loved by children as a comfort object.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100008"
   },
   {
    "id": "en:000003231",
@@ -61182,7 +61263,9 @@
    "description": "A small toy block used to build things: \"play with building blocks\". Also means a basic part of something bigger.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100009"
   },
   {
    "id": "en:000003232",
@@ -61253,7 +61336,9 @@
    "description": "A strong warm yellow like the yolk of an egg.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100143"
   },
   {
    "id": "en:000003234",
@@ -61429,7 +61514,9 @@
    "description": "The yellow part inside an egg.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100010"
   },
   {
    "id": "en:000003241",
@@ -61744,7 +61831,9 @@
    "description": "A small tool for making pencils sharp.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100050"
   },
   {
    "id": "en:000003256",
@@ -61801,7 +61890,9 @@
    "description": "To go from one side of the street to the other.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100051"
   },
   {
    "id": "en:000003259",
@@ -62145,7 +62236,9 @@
    "description": "To wait until it is your time to do something.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100052"
   },
   {
    "id": "en:000003272",
@@ -62194,7 +62287,9 @@
      "text": "raising hand",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100011"
   },
   {
    "id": "en:000003273",
@@ -62213,7 +62308,9 @@
    "description": "To pay attention to what the teacher says.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100053"
   },
   {
    "id": "en:000003274",
@@ -62289,7 +62386,9 @@
    "description": "A formal leather shoe.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100054"
   },
   {
    "id": "en:000003278",
@@ -63070,7 +63169,9 @@
      "text": "washing hands",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100012"
   },
   {
    "id": "en:000003317",
@@ -63119,7 +63220,9 @@
      "text": "brushing teeth",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100013"
   },
   {
    "id": "en:000003318",
@@ -63168,7 +63271,9 @@
      "text": "getting dressed",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100014"
   },
   {
    "id": "en:000003319",
@@ -63217,7 +63322,9 @@
      "text": "brushing hair",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100015"
   },
   {
    "id": "en:000003320",
@@ -63266,7 +63373,9 @@
      "text": "tying shoes",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100016"
   },
   {
    "id": "en:000003321",
@@ -63285,7 +63394,9 @@
    "description": "To look left and right before crossing a street.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100055"
   },
   {
    "id": "en:000003322",
@@ -63304,7 +63415,9 @@
    "description": "To ask someone to help you.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100017"
   },
   {
    "id": "en:000003323",
@@ -63323,7 +63436,9 @@
    "description": "To say what really happened.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100056"
   },
   {
    "id": "en:000003324",
@@ -63421,7 +63536,9 @@
      "text": "holding hands",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100018"
   },
   {
    "id": "en:000003326",
@@ -63470,7 +63587,9 @@
      "text": "saying hi",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100019"
   },
   {
    "id": "en:000003327",
@@ -63617,7 +63736,9 @@
      "text": "laughing hard",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100057"
   },
   {
    "id": "en:000003330",
@@ -63666,7 +63787,9 @@
      "text": "making up",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100129"
   },
   {
    "id": "en:000003331",
@@ -63715,7 +63838,9 @@
      "text": "keeping secret",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100058"
   },
   {
    "id": "en:000003332",
@@ -63764,7 +63889,9 @@
      "text": "telling secret",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100059"
   },
   {
    "id": "en:000003333",
@@ -63835,7 +63962,9 @@
    "description": "To draw shapes in the air with your finger.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100060"
   },
   {
    "id": "en:000003335",
@@ -63953,7 +64082,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100172"
   },
   {
    "id": "en:000003338",
@@ -64002,7 +64132,9 @@
      "text": "playing soccer",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100020"
   },
   {
    "id": "en:000003339",
@@ -64051,7 +64183,9 @@
      "text": "playing basketball",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100061"
   },
   {
    "id": "en:000003340",
@@ -64100,7 +64234,9 @@
      "text": "playing volleyball",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100062"
   },
   {
    "id": "en:000003341",
@@ -64119,7 +64255,9 @@
    "description": "To play games on a screen.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100063"
   },
   {
    "id": "en:000003342",
@@ -64168,7 +64306,9 @@
      "text": "watching cartoons",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100021"
   },
   {
    "id": "en:000003343",
@@ -64187,7 +64327,9 @@
    "description": "To listen to music.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100022"
   },
   {
    "id": "en:000003344",
@@ -64206,7 +64348,9 @@
    "description": "To go to sleep early.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100023"
   },
   {
    "id": "en:000003345",
@@ -64225,7 +64369,9 @@
    "description": "To wake up early.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100024"
   },
   {
    "id": "en:000003346",
@@ -64549,7 +64695,9 @@
    "description": "A frozen sweet food made from milk.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100025"
   },
   {
    "id": "en:000003363",
@@ -64606,7 +64754,9 @@
    "description": "Drink made from oranges.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100026"
   },
   {
    "id": "en:000003366",
@@ -64978,7 +65128,9 @@
      "text": "saving money",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100112"
   },
   {
    "id": "en:000003384",
@@ -65016,7 +65168,9 @@
    "description": "A school for young children (first years).",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100027"
   },
   {
    "id": "en:000003386",
@@ -65092,7 +65246,9 @@
    "description": "A bag for carrying school things.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100028"
   },
   {
    "id": "en:000003390",
@@ -65111,7 +65267,9 @@
    "description": "A small case for pencils and pens.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100029"
   },
   {
    "id": "en:000003391",
@@ -65444,7 +65602,9 @@
    "description": "Sports of running, jumping and throwing.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100064"
   },
   {
    "id": "en:000003408",
@@ -65482,7 +65642,9 @@
    "description": "A Chinese martial art.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100144"
   },
   {
    "id": "en:000003410",
@@ -65569,7 +65731,9 @@
      "text": "running fast",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100113"
   },
   {
    "id": "en:000003413",
@@ -65588,7 +65752,9 @@
    "description": "To take hold of a ball thrown to you.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100114"
   },
   {
    "id": "en:000003414",
@@ -66040,7 +66206,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100152"
   },
   {
    "id": "en:000003437",
@@ -66136,7 +66303,9 @@
    "description": "A toy that spins on its point.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100030"
   },
   {
    "id": "en:000003442",
@@ -66193,7 +66362,9 @@
    "description": "A game where one child looks for others who are hiding.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100031"
   },
   {
    "id": "en:000003445",
@@ -66231,7 +66402,9 @@
    "description": "A game where two teams pull a rope in opposite directions.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100065"
   },
   {
    "id": "en:000003447",
@@ -66250,7 +66423,9 @@
    "description": "A game of jumping over a turning rope.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100032"
   },
   {
    "id": "en:000003448",
@@ -66269,7 +66444,9 @@
    "description": "To make a kite fly in the wind.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100115"
   },
   {
    "id": "en:000003449",
@@ -66318,7 +66495,9 @@
      "text": "playing marbles",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100116"
   },
   {
    "id": "en:000003450",
@@ -66563,7 +66742,9 @@
      "text": "rollering skate",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100066"
   },
   {
    "id": "en:000003455",
@@ -66582,7 +66763,9 @@
    "description": "To swim in the sea.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100067"
   },
   {
    "id": "en:000003456",
@@ -66767,7 +66950,9 @@
    "description": "To try a little of the food to check its flavor.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100068"
   },
   {
    "id": "en:000003461",
@@ -66786,7 +66971,9 @@
    "description": "To take dishes away from the table after eating.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100069"
   },
   {
    "id": "en:000003462",
@@ -66805,7 +66992,9 @@
    "description": "To clean plates and cups after a meal.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100033"
   },
   {
    "id": "en:000003463",
@@ -66922,7 +67111,9 @@
    "description": "To arrange the sheets and covers of a bed.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100034"
   },
   {
    "id": "en:000003466",
@@ -66941,7 +67132,9 @@
    "description": "To give water to plants.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100035"
   },
   {
    "id": "en:000003467",
@@ -66960,7 +67153,9 @@
    "description": "To take a dog for a walk.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100036"
   },
   {
    "id": "en:000003468",
@@ -66979,7 +67174,9 @@
    "description": "To give food to a pet.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100070"
   },
   {
    "id": "en:000003469",
@@ -66998,7 +67195,9 @@
    "description": "To play at the park.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100037"
   },
   {
    "id": "en:000003470",
@@ -67017,7 +67216,9 @@
    "description": "To watch television.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100038"
   },
   {
    "id": "en:000003471",
@@ -67036,7 +67237,9 @@
    "description": "To listen to the radio.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100071"
   },
   {
    "id": "en:000003472",
@@ -67055,7 +67258,9 @@
    "description": "To look at websites on the internet.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100072"
   },
   {
    "id": "en:000003473",
@@ -67074,7 +67279,9 @@
    "description": "To take a picture with a camera or phone.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100039"
   },
   {
    "id": "en:000003474",
@@ -67123,7 +67330,9 @@
      "text": "recording video",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100073"
   },
   {
    "id": "en:000003475",
@@ -67172,7 +67381,9 @@
      "text": "playing piano",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100074"
   },
   {
    "id": "en:000003476",
@@ -67221,7 +67432,9 @@
      "text": "playing guitar",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100075"
   },
   {
    "id": "en:000003477",
@@ -67270,7 +67483,9 @@
      "text": "playing flute",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100076"
   },
   {
    "id": "en:000003478",
@@ -67319,7 +67534,9 @@
      "text": "playing drums",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100077"
   },
   {
    "id": "en:000003479",
@@ -67585,7 +67802,9 @@
    "description": "To clean up a mess.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100078"
   },
   {
    "id": "en:000003485",
@@ -67604,7 +67823,9 @@
    "description": "Polite words to get attention or pass by someone.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100040"
   },
   {
    "id": "en:000003486",
@@ -67623,7 +67844,9 @@
    "description": "To wait in a line for your turn.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100041"
   },
   {
    "id": "en:000003487",
@@ -67642,7 +67865,9 @@
    "description": "To listen to your parents.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100079"
   },
   {
    "id": "en:000003488",
@@ -67691,7 +67916,9 @@
      "text": "following rules",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100080"
   },
   {
    "id": "en:000003489",
@@ -67710,7 +67937,9 @@
    "description": "To arrive at the planned time.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100081"
   },
   {
    "id": "en:000003490",
@@ -67729,7 +67958,9 @@
    "description": "To tell a grown-up when something is wrong.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100042"
   },
   {
    "id": "en:000003491",
@@ -67862,7 +68093,9 @@
    "description": "A castle in a fairy tale.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100082"
   },
   {
    "id": "en:000003498",
@@ -67995,7 +68228,9 @@
    "description": "A map showing where treasure is hidden.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100083"
   },
   {
    "id": "en:000003505",
@@ -68356,7 +68591,9 @@
    "description": "The pink or white flower of the cherry tree.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100084"
   },
   {
    "id": "en:000003524",
@@ -68470,7 +68707,9 @@
    "description": "The female bee that lays eggs.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100085"
   },
   {
    "id": "en:000003530",
@@ -68546,7 +68785,9 @@
    "description": "An egg laid by a bird.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100086"
   },
   {
    "id": "en:000003534",
@@ -69059,7 +69300,9 @@
    "description": "A show with puppets.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100087"
   },
   {
    "id": "en:000003561",
@@ -69173,7 +69416,9 @@
    "description": "The festival of the lunar New Year.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100145"
   },
   {
    "id": "en:000003567",
@@ -69193,7 +69438,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100173"
   },
   {
    "id": "en:000003568",
@@ -69212,7 +69458,9 @@
    "description": "The number 10,000.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100043"
   },
   {
    "id": "en:000003569",
@@ -69915,7 +70163,9 @@
    "description": "Water in its liquid state.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100117"
   },
   {
    "id": "en:000003606",
@@ -69934,7 +70184,9 @@
    "description": "Frozen carbon dioxide.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100118"
   },
   {
    "id": "en:000003607",
@@ -70163,7 +70415,9 @@
    "description": "A process that changes substances into new ones.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100119"
   },
   {
    "id": "en:000003619",
@@ -70201,7 +70455,9 @@
    "description": "A bright streak of light in the night sky.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100044"
   },
   {
    "id": "en:000003621",
@@ -70277,7 +70533,9 @@
    "description": "The sun and the planets that move around it.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100088"
   },
   {
    "id": "en:000003625",
@@ -70448,7 +70706,9 @@
    "description": "The moon when it looks completely round.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100045"
   },
   {
    "id": "en:000003634",
@@ -70887,7 +71147,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100174"
   },
   {
    "id": "en:000003657",
@@ -70907,7 +71168,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100175"
   },
   {
    "id": "en:000003658",
@@ -70927,7 +71189,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100176"
   },
   {
    "id": "en:000003659",
@@ -70947,7 +71210,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100177"
   },
   {
    "id": "en:000003660",
@@ -71023,7 +71287,9 @@
    "description": "Basic rights that every person has.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100089"
   },
   {
    "id": "en:000003664",
@@ -71042,7 +71308,9 @@
    "description": "The military branch that uses aircraft.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100090"
   },
   {
    "id": "en:000003666",
@@ -71232,7 +71500,9 @@
    "description": "A publication of scientific articles.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100120"
   },
   {
    "id": "en:000003676",
@@ -71650,7 +71920,9 @@
    "description": "A map of the whole world.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100091"
   },
   {
    "id": "en:000003698",
@@ -72316,7 +72588,9 @@
    "description": "A steady flow of water in the ocean.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100092"
   },
   {
    "id": "en:000003733",
@@ -72373,7 +72647,9 @@
    "description": "The ocean south of Asia.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100146"
   },
   {
    "id": "en:000003736",
@@ -72392,7 +72668,9 @@
    "description": "The ocean around the North Pole.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100147"
   },
   {
    "id": "en:000003737",
@@ -72411,7 +72689,9 @@
    "description": "The ocean around Antarctica.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100148"
   },
   {
    "id": "en:000003738",
@@ -72551,7 +72831,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100178"
   },
   {
    "id": "en:000003745",
@@ -72571,7 +72852,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100179"
   },
   {
    "id": "en:000003746",
@@ -72591,7 +72873,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100180"
   },
   {
    "id": "en:000003747",
@@ -72611,7 +72894,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100181"
   },
   {
    "id": "en:000003748",
@@ -72631,7 +72915,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100182"
   },
   {
    "id": "en:000003750",
@@ -72651,7 +72936,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100183"
   },
   {
    "id": "en:000003751",
@@ -72691,7 +72977,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100184"
   },
   {
    "id": "en:000003753",
@@ -72711,7 +72998,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100185"
   },
   {
    "id": "en:000003754",
@@ -72845,7 +73133,9 @@
    "description": "A painting, sculpture or other creation of art.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100093"
   },
   {
    "id": "en:000003761",
@@ -73263,7 +73553,9 @@
    "description": "The system where money and investments are traded.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100121"
   },
   {
    "id": "en:000003783",
@@ -73282,7 +73574,9 @@
    "description": "A place where shares of companies are bought and sold.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100122"
   },
   {
    "id": "en:000003784",
@@ -73708,7 +74002,9 @@
    "description": "A factory that produces electricity.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100094"
   },
   {
    "id": "en:000003806",
@@ -73727,7 +74023,9 @@
    "description": "Energy produced from wind.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100095"
   },
   {
    "id": "en:000003807",
@@ -73746,7 +74044,9 @@
    "description": "Energy produced from moving water.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100096"
   },
   {
    "id": "en:000003808",
@@ -73803,7 +74103,9 @@
    "description": "Gas from the ground used as fuel.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100097"
   },
   {
    "id": "en:000003811",
@@ -74031,7 +74333,9 @@
    "description": "The series of who eats whom in nature.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100123"
   },
   {
    "id": "en:000003823",
@@ -74877,7 +75181,9 @@
    "description": "How good a person's life and health are.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100124"
   },
   {
    "id": "en:000003867",
@@ -75881,7 +76187,9 @@
    "description": "A prediction of the weather.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100098"
   },
   {
    "id": "en:000003915",
@@ -75976,7 +76284,9 @@
    "description": "A small amount.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100099"
   },
   {
    "id": "en:000003921",
@@ -76209,7 +76519,9 @@
    "description": "Not less than; at minimum.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100100"
   },
   {
    "id": "en:000003932",
@@ -76490,7 +76802,9 @@
    "description": "What remains; the other part.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100101"
   },
   {
    "id": "en:000003944",
@@ -76634,7 +76948,9 @@
    "description": "Used to give an example.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100102"
   },
   {
    "id": "en:000003950",
@@ -77055,7 +77371,9 @@
    "description": "Sold at a lower price.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100103"
   },
   {
    "id": "en:000003972",
@@ -77093,7 +77411,9 @@
    "description": "A big letter, such as A, B, C.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100104"
   },
   {
    "id": "en:000003974",
@@ -77507,7 +77827,9 @@
    "description": "A mobile phone.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100105"
   },
   {
    "id": "en:000003997",
@@ -77938,7 +78260,9 @@
    "description": "Not me either (agreeing with a negative).",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100106"
   },
   {
    "id": "en:000004015",
@@ -79978,7 +80302,8 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "en:x:100150"
   },
   {
    "id": "en:000004101",
@@ -80144,7 +80469,9 @@
      "text": "stirring",
      "study_tier": "standard"
     }
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100107"
   },
   {
    "id": "en:000004105",
@@ -80363,7 +80690,9 @@
    "description": "An answer that is right.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100108"
   },
   {
    "id": "en:000004110",
@@ -80382,7 +80711,9 @@
    "description": "A TV drama series about daily lives.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100109"
   },
   {
    "id": "en:000004111",
@@ -80612,7 +80943,9 @@
    "description": "A set of drums played by one person.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100110"
   },
   {
    "id": "en:000004123",
@@ -81128,7 +81461,9 @@
    "description": "Energy from sunlight.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100125"
   },
   {
    "id": "en:000004150",
@@ -83925,7 +84260,9 @@
    "description": "A small locker where you keep your things for a short time by paying coins.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100186"
   },
   {
    "id": "en:000004311",
@@ -84005,7 +84342,9 @@
    "description": "A hot drink made with chocolate or cocoa and milk.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100187"
   },
   {
    "id": "en:000004316",
@@ -84133,7 +84472,9 @@
    "description": "A large store with many departments selling different goods.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100188"
   },
   {
    "id": "en:000004324",
@@ -84789,7 +85130,9 @@
    "description": "A machine that sells drinks or snacks when you put in money.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100189"
   },
   {
    "id": "en:000004365",
@@ -84949,7 +85292,9 @@
    "description": "The series of digits you dial to call someone.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100190"
   },
   {
    "id": "en:000004375",
@@ -84997,7 +85342,9 @@
    "description": "A game played with a set of cards.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100191"
   },
   {
    "id": "en:000004378",
@@ -85125,7 +85472,9 @@
    "description": "A place where buses stop to pick up passengers.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100192"
   },
   {
    "id": "en:000004386",
@@ -85141,7 +85490,9 @@
    "description": "Popular music with catchy songs.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100193"
   },
   {
    "id": "en:000004387",
@@ -85173,7 +85524,9 @@
    "description": "Colorful lights put up outside for a festival, especially in winter.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100194"
   },
   {
    "id": "en:000004389",
@@ -85541,7 +85894,9 @@
    "description": "In the morning of each day.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100195"
   },
   {
    "id": "en:000004412",
@@ -85557,7 +85912,9 @@
    "description": "In the evening or night of each day.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100196"
   },
   {
    "id": "en:000004413",
@@ -85621,7 +85978,9 @@
    "description": "The last day of the year.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100197"
   },
   {
    "id": "en:000004417",
@@ -85653,7 +86012,9 @@
    "description": "A public building where local people meet for activities.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "en:x:100198"
   },
   {
    "id": "en:000004420",
@@ -89982,7 +90343,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "routine"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100199"
   },
   {
    "id": "en:000004648",
@@ -90234,7 +90597,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100200"
   },
   {
    "id": "en:000004660",
@@ -90297,7 +90662,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "time"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100201"
   },
   {
    "id": "en:000004663",
@@ -90591,7 +90958,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100202"
   },
   {
    "id": "en:000004677",
@@ -90885,7 +91254,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "food"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100203"
   },
   {
    "id": "en:000004691",
@@ -90948,7 +91319,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "play_nature"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "en:x:100204"
   },
   {
    "id": "en:000004694",

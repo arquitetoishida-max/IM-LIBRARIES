@@ -22,9 +22,9 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-core-v2.json",
-      "sha256": "7a6e0eccb6c5c9f9699759f88a79d62e02290a46a1c715cc0838d1c0f18302b2",
-      "version": "2.6.2",
-      "size_bytes": 2441036
+      "sha256": "2288e1b5ea4511fdffa1648fda478635ed5e3dcb31babef9abc44bb3d7153d3f",
+      "version": "2.6.3",
+      "size_bytes": 2452013
     },
     {
       "id": "pt-BR-core-v2",
@@ -44,9 +44,9 @@
       "name_pt": "Port. (Brasileiro)",
       "name_ja": "ポルトガル語（ブラジル）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-core-v2.json",
-      "sha256": "122186a6ad1748bda0f83e9195907d0cec41349f8fe018e36e028691b5b11548",
-      "version": "2.6.2",
-      "size_bytes": 2428112
+      "sha256": "a620b16c81932b08848bdf1b1ce213be47a4c4766492ecf2dd9c1595a3a9f05a",
+      "version": "2.6.3",
+      "size_bytes": 2439984
     },
     {
       "id": "pt-PT-core-v2",
@@ -89,9 +89,9 @@
       "name_pt": "Japonês",
       "name_ja": "日本語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-core-v2.json",
-      "sha256": "eba8a280a63d57d2f6240e348dc7205d23d28ac9110af0a3164b5d5b097d2080",
-      "version": "2.6.2",
-      "size_bytes": 4532399
+      "sha256": "f7e527975373e2979e40eb5c0051059d9f6766c4cbef7ba9a6d09b4898ecac38",
+      "version": "2.6.3",
+      "size_bytes": 4542552
     },
     {
       "id": "es-core-v2",
@@ -203,9 +203,9 @@
       "name_pt": "Mandarim",
       "name_ja": "中国語（標準語）",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-core-v2.json",
-      "sha256": "66a19ed55b9e80222a7ede3e875f823e5312a37e97c189f3a0d2d6ac5983029e",
-      "version": "2.6.2",
-      "size_bytes": 2812357
+      "sha256": "1efdeb1dae27c3dd1bdb7e08cf9f19f53ef21a773022e600404f6dcee0282810",
+      "version": "2.6.3",
+      "size_bytes": 2823454
     },
     {
       "id": "ko-core-v2",
@@ -307,7 +307,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": false,
+      "available": true,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -317,9 +317,15 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-NY-slang-v2.json",
-      "sha256": "c60e9dc20b31673440de7dacc6b99e4a79b345fd7a51e411d0ff4aa6d74a33d2",
-      "version": "1.1.1",
-      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
+      "sha256": "b400dc94e3d93740c571149ff885d711bb42cf78c077f1861d3072859dfc7a4a",
+      "version": "1.2.0",
+      "size_bytes": 2886,
+      "name_i18n": {
+        "en": "Slang and expressions: New York",
+        "pt": "Gírias e expressões: Nova York",
+        "ja": "スラングと表現：ニューヨーク",
+        "zh": "俚语与表达：纽约"
+      }
     },
     {
       "id": "en-US-CA-slang-v2",
@@ -329,7 +335,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": false,
+      "available": true,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -339,9 +345,15 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-CA-slang-v2.json",
-      "sha256": "234586809c42786271d719d810a3e5b6ffab22a3ad15921ff6f4ff96ac61a4a9",
-      "version": "1.1.1",
-      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
+      "sha256": "2dc30dee616937fd2dc34ef38e0593279ccf419faccf65ddf546a7d02e4cb6a1",
+      "version": "1.2.0",
+      "size_bytes": 2969,
+      "name_i18n": {
+        "en": "Slang and expressions: California",
+        "pt": "Gírias e expressões: Califórnia",
+        "ja": "スラングと表現：カリフォルニア",
+        "zh": "俚语与表达：加利福尼亚"
+      }
     },
     {
       "id": "en-US-TX-slang-v2",
@@ -351,7 +363,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": false,
+      "available": true,
       "entry_count": 4,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -361,9 +373,15 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-US-TX-slang-v2.json",
-      "sha256": "063d7c52aa7715b6db93099f6fd0bc5b717f8491d9ffde60bc1fa680aa362291",
-      "version": "1.1.1",
-      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
+      "sha256": "e44476287ec5e2566118b0914d8b71bbc8ee692a54a0705957456ce2147fb196",
+      "version": "1.2.0",
+      "size_bytes": 2946,
+      "name_i18n": {
+        "en": "Slang and expressions: Texas",
+        "pt": "Gírias e expressões: Texas",
+        "ja": "スラングと表現：テキサス",
+        "zh": "俚语与表达：得克萨斯"
+      }
     },
     {
       "id": "en-GB-slang-v2",
@@ -373,7 +391,7 @@
       "role": "regional",
       "kind": "ishida-monolingual",
       "schema_version": 2,
-      "available": false,
+      "available": true,
       "entry_count": 50,
       "has_ui": false,
       "flag": "🇺🇸",
@@ -383,9 +401,15 @@
       "name_pt": "Inglês",
       "name_ja": "英語",
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-GB-slang-v2.json",
-      "sha256": "1c5812da227f869d3255a8df11c65a42cfa7974567470bea7b1160b5e1f5221a",
-      "version": "1.1.1",
-      "retired_reason": "fora da publicação até passar pela NOVREV (decisão do dono, 19/11/2026); arquivo preservado"
+      "sha256": "f340422e57a1df8b8d5e540cea3622878eb96702fc8773a5ce4475dcb1b1fc9e",
+      "version": "1.2.0",
+      "size_bytes": 23242,
+      "name_i18n": {
+        "en": "Slang and expressions: United Kingdom",
+        "pt": "Gírias e expressões: Reino Unido",
+        "ja": "スラングと表現：イギリス",
+        "zh": "俚语与表达：英国"
+      }
     },
     {
       "id": "im-font-ja-klee",
@@ -994,6 +1018,118 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/writing/zh-writing-hanziwriter.json",
       "sha256": "4c893e0fcfe4c75191888643b851c45747af92cb3f34d057d46f13cf82c33972",
       "size_bytes": 926023
+    },
+    {
+      "id": "pt-BR-expressions-v2",
+      "name": "Expressões e gírias em português",
+      "language": "pt-BR",
+      "region": null,
+      "role": "expressions",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 218,
+      "has_ui": false,
+      "flag": "🇧🇷",
+      "locale": "pt-BR",
+      "name_native": "Português (Brasil)",
+      "name_en": "Portuguese (Brazil)",
+      "name_pt": "Port. (Brasileiro)",
+      "name_ja": "ポルトガル語（ブラジル）",
+      "name_i18n": {
+        "en": "Expressions and slang in Portuguese",
+        "pt": "Expressões e gírias em português",
+        "ja": "ポルトガル語の表現とスラング",
+        "zh": "葡萄牙语的表达与俚语"
+      },
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-expressions-v2.json",
+      "sha256": "c34ff34c310b5d2306b22841e332e4a2b4c398b2325fd75b917e172cce282d38",
+      "version": "1.0.0",
+      "size_bytes": 87009
+    },
+    {
+      "id": "en-expressions-v2",
+      "name": "Expressions and slang in English",
+      "language": "en",
+      "region": null,
+      "role": "expressions",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 210,
+      "has_ui": false,
+      "flag": "🇺🇸",
+      "locale": "en-US",
+      "name_native": "English",
+      "name_en": "English",
+      "name_pt": "Inglês",
+      "name_ja": "英語",
+      "name_i18n": {
+        "en": "Expressions and slang in English",
+        "pt": "Expressões e gírias em inglês",
+        "ja": "英語の表現とスラング",
+        "zh": "英语的表达与俚语"
+      },
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-expressions-v2.json",
+      "sha256": "6e797a75e5ceee2dc3aa56284f50e05911ac5911d10f8fbe77247a8b73ece251",
+      "version": "1.0.0",
+      "size_bytes": 80447
+    },
+    {
+      "id": "ja-expressions-v2",
+      "name": "Expressions and slang in Japanese",
+      "language": "ja",
+      "region": null,
+      "role": "expressions",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 200,
+      "has_ui": false,
+      "flag": "🇯🇵",
+      "locale": "ja-JP",
+      "name_native": "日本語",
+      "name_en": "Japanese",
+      "name_pt": "Japonês",
+      "name_ja": "日本語",
+      "name_i18n": {
+        "en": "Expressions and slang in Japanese",
+        "pt": "Expressões e gírias em japonês",
+        "ja": "日本語の表現とスラング",
+        "zh": "日语的表达与俚语"
+      },
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-expressions-v2.json",
+      "sha256": "68c6ca923f9b371863f7c6762ebc23bca8cbe18f7b30d897e619cd9f2b444984",
+      "version": "1.0.0",
+      "size_bytes": 91013
+    },
+    {
+      "id": "zh-expressions-v2",
+      "name": "Expressions and slang in Chinese",
+      "language": "zh",
+      "region": null,
+      "role": "expressions",
+      "kind": "ishida-monolingual",
+      "schema_version": 2,
+      "available": true,
+      "entry_count": 216,
+      "has_ui": false,
+      "flag": "🇨🇳",
+      "locale": "zh-CN",
+      "name_native": "中文（普通话）",
+      "name_en": "Mandarin Chinese",
+      "name_pt": "Mandarim",
+      "name_ja": "中国語（標準語）",
+      "name_i18n": {
+        "en": "Expressions and slang in Chinese",
+        "pt": "Expressões e gírias em chinês",
+        "ja": "中国語の表現とスラング",
+        "zh": "中文的表达与俚语"
+      },
+      "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-expressions-v2.json",
+      "sha256": "840c79dc76eecc276de962227c5413dddc12a370f25ca3e5e15ab48a503bac2d",
+      "version": "1.0.0",
+      "size_bytes": 98038
     }
   ],
   "notes": [

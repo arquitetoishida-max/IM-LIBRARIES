@@ -1,0 +1,3571 @@
+{
+ "schema_version": 2,
+ "package_id": "en-expressions-v2",
+ "package_type": "ishida-monolingual",
+ "language": "en",
+ "region": null,
+ "name": "Expressions and slang in English",
+ "version": "1.0.0",
+ "english_explanations": true,
+ "status": "draft-editorial",
+ "language_info": {
+  "code": "en",
+  "flag": "🇺🇸",
+  "locale": "en-US",
+  "name_native": "English",
+  "name_en": "English",
+  "name_pt": "Inglês",
+  "name_ja": "英語",
+  "script": "latin"
+ },
+ "role": "expressions",
+ "license": "ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).",
+ "sources": [
+  "Moved from the en core (expression entries and composite headwords)",
+  "en-GB/US-NY/CA/TX slang packs (fused)"
+ ],
+ "notes": [
+  "Descriptions, readings and romanization are in English and are translated online at runtime; the URL search button is the escape hatch for mistranslations.",
+  "Independent per language; own ID space {lang}:x:100001+; no cross-language sync; no inter-group mobility (studied alone). Usage/vulgarity labels are free-form."
+ ],
+ "entries": [
+  {
+   "id": "en:x:100001",
+   "text": "soda",
+   "kind": "expression",
+   "alternatives": [
+    "pop",
+    "soft drink"
+   ],
+   "description": "A sweet fizzy drink.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003075",
+    "english_id": "en:000003075",
+    "from": "core",
+    "core_priority": 639
+   },
+   "study_priority": 1
+  },
+  {
+   "id": "en:x:100002",
+   "text": "of course",
+   "kind": "expression",
+   "description": "Certainly; naturally: \"Of course I will help\".",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003205",
+    "english_id": "en:000003205",
+    "from": "core",
+    "core_priority": 675
+   },
+   "study_priority": 2
+  },
+  {
+   "id": "en:x:100003",
+   "text": "toy car",
+   "kind": "expression",
+   "alternatives": [
+    "model car"
+   ],
+   "description": "A small car made as a toy.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003210",
+    "english_id": "en:000003210",
+    "from": "core",
+    "core_priority": 679
+   },
+   "study_priority": 3
+  },
+  {
+   "id": "en:x:100004",
+   "text": "put on",
+   "kind": "expression",
+   "description": "To dress yourself in a piece of clothing.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003219",
+    "english_id": "en:000003219",
+    "from": "core",
+    "core_priority": 688
+   },
+   "study_priority": 4
+  },
+  {
+   "id": "en:x:100005",
+   "text": "take off",
+   "kind": "expression",
+   "alternatives": [
+    "remove",
+    "undress"
+   ],
+   "description": "To remove a piece of clothing.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003220",
+    "english_id": "en:000003220",
+    "from": "core",
+    "core_priority": 689
+   },
+   "study_priority": 5
+  },
+  {
+   "id": "en:x:100006",
+   "text": "Santa Claus",
+   "kind": "expression",
+   "description": "The man in a red suit who brings presents at Christmas.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003227",
+    "english_id": "en:000003227",
+    "from": "core",
+    "core_priority": 695
+   },
+   "study_priority": 6
+  },
+  {
+   "id": "en:x:100007",
+   "text": "New Year",
+   "kind": "expression",
+   "description": "The first days of the year and their celebration.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003229",
+    "english_id": "en:000003229",
+    "from": "core",
+    "core_priority": 696
+   },
+   "study_priority": 7
+  },
+  {
+   "id": "en:x:100008",
+   "text": "teddy bear",
+   "kind": "expression",
+   "alternatives": [
+    "stuffed bear",
+    "plush bear"
+   ],
+   "description": "A soft toy bear.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003230",
+    "english_id": "en:000003230",
+    "from": "core",
+    "core_priority": 697
+   },
+   "study_priority": 8
+  },
+  {
+   "id": "en:x:100009",
+   "text": "building block",
+   "kind": "expression",
+   "alternatives": [
+    "block",
+    "brick"
+   ],
+   "description": "A small toy block used to build things.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003231",
+    "english_id": "en:000003231",
+    "from": "core",
+    "core_priority": 698
+   },
+   "study_priority": 9
+  },
+  {
+   "id": "en:x:100010",
+   "text": "egg yolk",
+   "kind": "expression",
+   "description": "The yellow part inside an egg.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003240",
+    "english_id": "en:000003240",
+    "from": "core",
+    "core_priority": 705
+   },
+   "study_priority": 10
+  },
+  {
+   "id": "en:x:100011",
+   "text": "raise hand",
+   "kind": "expression",
+   "description": "To lift your hand to ask to speak.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003272",
+    "english_id": "en:000003272",
+    "from": "core",
+    "core_priority": 720
+   },
+   "study_priority": 11
+  },
+  {
+   "id": "en:x:100012",
+   "text": "wash hands",
+   "kind": "expression",
+   "description": "To clean your hands with water and soap.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003316",
+    "english_id": "en:000003316",
+    "from": "core",
+    "core_priority": 754
+   },
+   "study_priority": 12
+  },
+  {
+   "id": "en:x:100013",
+   "text": "brush teeth",
+   "kind": "expression",
+   "description": "To clean your teeth with a toothbrush.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003317",
+    "english_id": "en:000003317",
+    "from": "core",
+    "core_priority": 755
+   },
+   "study_priority": 13
+  },
+  {
+   "id": "en:x:100014",
+   "text": "get dressed",
+   "kind": "expression",
+   "description": "To put your clothes on.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003318",
+    "english_id": "en:000003318",
+    "from": "core",
+    "core_priority": 756
+   },
+   "study_priority": 14
+  },
+  {
+   "id": "en:x:100015",
+   "text": "brush hair",
+   "kind": "expression",
+   "description": "To make your hair neat with a brush.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003319",
+    "english_id": "en:000003319",
+    "from": "core",
+    "core_priority": 757
+   },
+   "study_priority": 15
+  },
+  {
+   "id": "en:x:100016",
+   "text": "tie shoes",
+   "kind": "expression",
+   "description": "To fasten the laces of your shoes.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003320",
+    "english_id": "en:000003320",
+    "from": "core",
+    "core_priority": 758
+   },
+   "study_priority": 16
+  },
+  {
+   "id": "en:x:100017",
+   "text": "ask for help",
+   "kind": "expression",
+   "description": "To ask someone to help you.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003322",
+    "english_id": "en:000003322",
+    "from": "core",
+    "core_priority": 759
+   },
+   "study_priority": 17
+  },
+  {
+   "id": "en:x:100018",
+   "text": "hold hands",
+   "kind": "expression",
+   "description": "To hold another person's hand.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003325",
+    "english_id": "en:000003325",
+    "from": "core",
+    "core_priority": 761
+   },
+   "study_priority": 18
+  },
+  {
+   "id": "en:x:100019",
+   "text": "say hi",
+   "kind": "expression",
+   "description": "To greet someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003326",
+    "english_id": "en:000003326",
+    "from": "core",
+    "core_priority": 762
+   },
+   "study_priority": 19
+  },
+  {
+   "id": "en:x:100020",
+   "text": "play soccer",
+   "kind": "expression",
+   "description": "To play football (soccer).",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003338",
+    "english_id": "en:000003338",
+    "from": "core",
+    "core_priority": 766
+   },
+   "study_priority": 20
+  },
+  {
+   "id": "en:x:100021",
+   "text": "watch cartoons",
+   "kind": "expression",
+   "description": "To watch animated programs.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003342",
+    "english_id": "en:000003342",
+    "from": "core",
+    "core_priority": 767
+   },
+   "study_priority": 21
+  },
+  {
+   "id": "en:x:100022",
+   "text": "listen to music",
+   "kind": "expression",
+   "description": "To listen to music.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003343",
+    "english_id": "en:000003343",
+    "from": "core",
+    "core_priority": 768
+   },
+   "study_priority": 22
+  },
+  {
+   "id": "en:x:100023",
+   "text": "go to bed early",
+   "kind": "expression",
+   "description": "To go to sleep early.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003344",
+    "english_id": "en:000003344",
+    "from": "core",
+    "core_priority": 769
+   },
+   "study_priority": 23
+  },
+  {
+   "id": "en:x:100024",
+   "text": "wake up early",
+   "kind": "expression",
+   "description": "To wake up early.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003345",
+    "english_id": "en:000003345",
+    "from": "core",
+    "core_priority": 770
+   },
+   "study_priority": 24
+  },
+  {
+   "id": "en:x:100025",
+   "text": "ice cream",
+   "kind": "expression",
+   "description": "A frozen sweet food made from milk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003362",
+    "english_id": "en:000003362",
+    "from": "core",
+    "core_priority": 784
+   },
+   "study_priority": 25
+  },
+  {
+   "id": "en:x:100026",
+   "text": "orange juice",
+   "kind": "expression",
+   "description": "Drink made from oranges.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003365",
+    "english_id": "en:000003365",
+    "from": "core",
+    "core_priority": 787
+   },
+   "study_priority": 26
+  },
+  {
+   "id": "en:x:100027",
+   "text": "elementary school",
+   "kind": "expression",
+   "description": "A school for young children (first years).",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003385",
+    "english_id": "en:000003385",
+    "from": "core",
+    "core_priority": 806
+   },
+   "study_priority": 27
+  },
+  {
+   "id": "en:x:100028",
+   "text": "school bag",
+   "kind": "expression",
+   "description": "A bag for carrying school things.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003389",
+    "english_id": "en:000003389",
+    "from": "core",
+    "core_priority": 810
+   },
+   "study_priority": 28
+  },
+  {
+   "id": "en:x:100029",
+   "text": "pencil case",
+   "kind": "expression",
+   "description": "A small case for pencils and pens.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003390",
+    "english_id": "en:000003390",
+    "from": "core",
+    "core_priority": 811
+   },
+   "study_priority": 29
+  },
+  {
+   "id": "en:x:100030",
+   "text": "spinning top",
+   "kind": "expression",
+   "description": "A toy that spins on its point.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003441",
+    "english_id": "en:000003441",
+    "from": "core",
+    "core_priority": 834
+   },
+   "study_priority": 30
+  },
+  {
+   "id": "en:x:100031",
+   "text": "hide and seek",
+   "kind": "expression",
+   "description": "A game where one child looks for others who are hiding.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003444",
+    "english_id": "en:000003444",
+    "from": "core",
+    "core_priority": 836
+   },
+   "study_priority": 31
+  },
+  {
+   "id": "en:x:100032",
+   "text": "jump rope",
+   "kind": "expression",
+   "description": "A game of jumping over a turning rope.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003447",
+    "english_id": "en:000003447",
+    "from": "core",
+    "core_priority": 838
+   },
+   "study_priority": 32
+  },
+  {
+   "id": "en:x:100033",
+   "text": "wash the dishes",
+   "kind": "expression",
+   "description": "To clean plates and cups after a meal.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003462",
+    "english_id": "en:000003462",
+    "from": "core",
+    "core_priority": 842
+   },
+   "study_priority": 33
+  },
+  {
+   "id": "en:x:100034",
+   "text": "make the bed",
+   "kind": "expression",
+   "description": "To arrange the sheets and covers of a bed.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003465",
+    "english_id": "en:000003465",
+    "from": "core",
+    "core_priority": 844
+   },
+   "study_priority": 34
+  },
+  {
+   "id": "en:x:100035",
+   "text": "water the plants",
+   "kind": "expression",
+   "description": "To give water to plants.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003466",
+    "english_id": "en:000003466",
+    "from": "core",
+    "core_priority": 845
+   },
+   "study_priority": 35
+  },
+  {
+   "id": "en:x:100036",
+   "text": "walk the dog",
+   "kind": "expression",
+   "description": "To take a dog for a walk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003467",
+    "english_id": "en:000003467",
+    "from": "core",
+    "core_priority": 846
+   },
+   "study_priority": 36
+  },
+  {
+   "id": "en:x:100037",
+   "text": "play at the park",
+   "kind": "expression",
+   "description": "To play at the park.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003469",
+    "english_id": "en:000003469",
+    "from": "core",
+    "core_priority": 847
+   },
+   "study_priority": 37
+  },
+  {
+   "id": "en:x:100038",
+   "text": "watch TV",
+   "kind": "expression",
+   "description": "To watch television.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003470",
+    "english_id": "en:000003470",
+    "from": "core",
+    "core_priority": 848
+   },
+   "study_priority": 38
+  },
+  {
+   "id": "en:x:100039",
+   "text": "take a photo",
+   "kind": "expression",
+   "description": "To take a picture with a camera or phone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003473",
+    "english_id": "en:000003473",
+    "from": "core",
+    "core_priority": 849
+   },
+   "study_priority": 39
+  },
+  {
+   "id": "en:x:100040",
+   "text": "excuse me",
+   "kind": "expression",
+   "description": "Polite words to get attention or pass by someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003485",
+    "english_id": "en:000003485",
+    "from": "core",
+    "core_priority": 850
+   },
+   "study_priority": 40
+  },
+  {
+   "id": "en:x:100041",
+   "text": "wait in line",
+   "kind": "expression",
+   "description": "To wait in a line for your turn.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003486",
+    "english_id": "en:000003486",
+    "from": "core",
+    "core_priority": 851
+   },
+   "study_priority": 41
+  },
+  {
+   "id": "en:x:100042",
+   "text": "tell an adult",
+   "kind": "expression",
+   "description": "To tell a grown-up when something is wrong.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003490",
+    "english_id": "en:000003490",
+    "from": "core",
+    "core_priority": 852
+   },
+   "study_priority": 42
+  },
+  {
+   "id": "en:x:100043",
+   "text": "ten thousand",
+   "kind": "expression",
+   "description": "The number 10,000.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003568",
+    "english_id": "en:000003568",
+    "from": "core",
+    "core_priority": 871
+   },
+   "study_priority": 43
+  },
+  {
+   "id": "en:x:100044",
+   "text": "shooting star",
+   "kind": "expression",
+   "description": "A bright streak of light in the night sky.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003620",
+    "english_id": "en:000003620",
+    "from": "core",
+    "core_priority": 873
+   },
+   "study_priority": 44
+  },
+  {
+   "id": "en:x:100045",
+   "text": "full moon",
+   "kind": "expression",
+   "description": "The moon when it looks completely round.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003633",
+    "english_id": "en:000003633",
+    "from": "core",
+    "core_priority": 875
+   },
+   "study_priority": 45
+  },
+  {
+   "id": "en:x:100046",
+   "text": "according to",
+   "kind": "expression",
+   "description": "\"According to\" = as said by.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000000504",
+    "english_id": "en:000000504",
+    "from": "core",
+    "core_priority": 1035,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 46
+  },
+  {
+   "id": "en:x:100047",
+   "text": "depending on",
+   "kind": "expression",
+   "description": "\"Depending on\" = it changes with.",
+   "level": "C1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000002630",
+    "english_id": "en:000002630",
+    "from": "core",
+    "core_priority": 1776,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 47
+  },
+  {
+   "id": "en:x:100048",
+   "text": "metro",
+   "kind": "expression",
+   "description": "A city's subway train.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003080",
+    "english_id": "en:000003080",
+    "from": "core",
+    "core_priority": 1928
+   },
+   "study_priority": 48
+  },
+  {
+   "id": "en:x:100049",
+   "text": "cash out",
+   "kind": "expression",
+   "description": "To take out your money or winnings.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003091",
+    "english_id": "en:000003091",
+    "from": "core",
+    "core_priority": 1929
+   },
+   "study_priority": 49
+  },
+  {
+   "id": "en:x:100050",
+   "text": "pencil sharpener",
+   "kind": "expression",
+   "description": "A small tool for making pencils sharp.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003255",
+    "english_id": "en:000003255",
+    "from": "core",
+    "core_priority": 1997
+   },
+   "study_priority": 50
+  },
+  {
+   "id": "en:x:100051",
+   "text": "cross the street",
+   "kind": "expression",
+   "description": "To go from one side of the street to the other.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003258",
+    "english_id": "en:000003258",
+    "from": "core",
+    "core_priority": 1999
+   },
+   "study_priority": 51
+  },
+  {
+   "id": "en:x:100052",
+   "text": "wait one's turn",
+   "kind": "expression",
+   "description": "To wait until it is your time to do something.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003271",
+    "english_id": "en:000003271",
+    "from": "core",
+    "core_priority": 2005
+   },
+   "study_priority": 52
+  },
+  {
+   "id": "en:x:100053",
+   "text": "listen to teacher",
+   "kind": "expression",
+   "description": "To pay attention to what the teacher says.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003273",
+    "english_id": "en:000003273",
+    "from": "core",
+    "core_priority": 2006
+   },
+   "study_priority": 53
+  },
+  {
+   "id": "en:x:100054",
+   "text": "dress shoe",
+   "kind": "expression",
+   "description": "A formal leather shoe.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003277",
+    "english_id": "en:000003277",
+    "from": "core",
+    "core_priority": 2008
+   },
+   "study_priority": 54
+  },
+  {
+   "id": "en:x:100055",
+   "text": "look both ways",
+   "kind": "expression",
+   "description": "To look left and right before crossing a street.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003321",
+    "english_id": "en:000003321",
+    "from": "core",
+    "core_priority": 2016
+   },
+   "study_priority": 55
+  },
+  {
+   "id": "en:x:100056",
+   "text": "tell the truth",
+   "kind": "expression",
+   "description": "To say what really happened.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003323",
+    "english_id": "en:000003323",
+    "from": "core",
+    "core_priority": 2017
+   },
+   "study_priority": 56
+  },
+  {
+   "id": "en:x:100057",
+   "text": "laugh hard",
+   "kind": "expression",
+   "description": "To laugh a lot.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003329",
+    "english_id": "en:000003329",
+    "from": "core",
+    "core_priority": 2018
+   },
+   "study_priority": 57
+  },
+  {
+   "id": "en:x:100058",
+   "text": "keep secret",
+   "kind": "expression",
+   "description": "To not tell others something private.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003331",
+    "english_id": "en:000003331",
+    "from": "core",
+    "core_priority": 2019
+   },
+   "study_priority": 58
+  },
+  {
+   "id": "en:x:100059",
+   "text": "tell secret",
+   "kind": "expression",
+   "description": "To tell someone something private.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003332",
+    "english_id": "en:000003332",
+    "from": "core",
+    "core_priority": 2020
+   },
+   "study_priority": 59
+  },
+  {
+   "id": "en:x:100060",
+   "text": "draw in air",
+   "kind": "expression",
+   "description": "To draw shapes in the air with your finger.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003334",
+    "english_id": "en:000003334",
+    "from": "core",
+    "core_priority": 2022
+   },
+   "study_priority": 60
+  },
+  {
+   "id": "en:x:100061",
+   "text": "play basketball",
+   "kind": "expression",
+   "description": "To play basketball.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003339",
+    "english_id": "en:000003339",
+    "from": "core",
+    "core_priority": 2024
+   },
+   "study_priority": 61
+  },
+  {
+   "id": "en:x:100062",
+   "text": "play volleyball",
+   "kind": "expression",
+   "description": "To play volleyball.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003340",
+    "english_id": "en:000003340",
+    "from": "core",
+    "core_priority": 2025
+   },
+   "study_priority": 62
+  },
+  {
+   "id": "en:x:100063",
+   "text": "play video game",
+   "kind": "expression",
+   "description": "To play games on a screen.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003341",
+    "english_id": "en:000003341",
+    "from": "core",
+    "core_priority": 2026
+   },
+   "study_priority": 63
+  },
+  {
+   "id": "en:x:100064",
+   "text": "track and field",
+   "kind": "expression",
+   "description": "Sports of running, jumping and throwing.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003407",
+    "english_id": "en:000003407",
+    "from": "core",
+    "core_priority": 2035
+   },
+   "study_priority": 64
+  },
+  {
+   "id": "en:x:100065",
+   "text": "tug of war",
+   "kind": "expression",
+   "description": "A game where two teams pull a rope in opposite directions.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003446",
+    "english_id": "en:000003446",
+    "from": "core",
+    "core_priority": 2052
+   },
+   "study_priority": 65
+  },
+  {
+   "id": "en:x:100066",
+   "text": "roller skate",
+   "kind": "expression",
+   "description": "To move on roller skates.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003454",
+    "english_id": "en:000003454",
+    "from": "core",
+    "core_priority": 2056
+   },
+   "study_priority": 66
+  },
+  {
+   "id": "en:x:100067",
+   "text": "swim in the sea",
+   "kind": "expression",
+   "description": "To swim in the sea.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003455",
+    "english_id": "en:000003455",
+    "from": "core",
+    "core_priority": 2057
+   },
+   "study_priority": 67
+  },
+  {
+   "id": "en:x:100068",
+   "text": "taste the food",
+   "kind": "expression",
+   "description": "To try a little of the food to check its flavor.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003460",
+    "english_id": "en:000003460",
+    "from": "core",
+    "core_priority": 2060
+   },
+   "study_priority": 68
+  },
+  {
+   "id": "en:x:100069",
+   "text": "clear the table",
+   "kind": "expression",
+   "description": "To take dishes away from the table after eating.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003461",
+    "english_id": "en:000003461",
+    "from": "core",
+    "core_priority": 2061
+   },
+   "study_priority": 69
+  },
+  {
+   "id": "en:x:100070",
+   "text": "feed the pet",
+   "kind": "expression",
+   "description": "To give food to a pet.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003468",
+    "english_id": "en:000003468",
+    "from": "core",
+    "core_priority": 2063
+   },
+   "study_priority": 70
+  },
+  {
+   "id": "en:x:100071",
+   "text": "listen to the radio",
+   "kind": "expression",
+   "description": "To listen to the radio.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003471",
+    "english_id": "en:000003471",
+    "from": "core",
+    "core_priority": 2064
+   },
+   "study_priority": 71
+  },
+  {
+   "id": "en:x:100072",
+   "text": "browse the internet",
+   "kind": "expression",
+   "description": "To look at websites on the internet.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003472",
+    "english_id": "en:000003472",
+    "from": "core",
+    "core_priority": 2065
+   },
+   "study_priority": 72
+  },
+  {
+   "id": "en:x:100073",
+   "text": "record video",
+   "kind": "expression",
+   "description": "To record a video.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003474",
+    "english_id": "en:000003474",
+    "from": "core",
+    "core_priority": 2066
+   },
+   "study_priority": 73
+  },
+  {
+   "id": "en:x:100074",
+   "text": "play piano",
+   "kind": "expression",
+   "description": "To play the piano.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003475",
+    "english_id": "en:000003475",
+    "from": "core",
+    "core_priority": 2067
+   },
+   "study_priority": 74
+  },
+  {
+   "id": "en:x:100075",
+   "text": "play guitar",
+   "kind": "expression",
+   "description": "To play the guitar.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003476",
+    "english_id": "en:000003476",
+    "from": "core",
+    "core_priority": 2068
+   },
+   "study_priority": 75
+  },
+  {
+   "id": "en:x:100076",
+   "text": "play flute",
+   "kind": "expression",
+   "description": "To play the flute.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003477",
+    "english_id": "en:000003477",
+    "from": "core",
+    "core_priority": 2069
+   },
+   "study_priority": 76
+  },
+  {
+   "id": "en:x:100077",
+   "text": "play drums",
+   "kind": "expression",
+   "description": "To play the drums.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003478",
+    "english_id": "en:000003478",
+    "from": "core",
+    "core_priority": 2070
+   },
+   "study_priority": 77
+  },
+  {
+   "id": "en:x:100078",
+   "text": "clean the mess",
+   "kind": "expression",
+   "description": "To clean up a mess.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003484",
+    "english_id": "en:000003484",
+    "from": "core",
+    "core_priority": 2073
+   },
+   "study_priority": 78
+  },
+  {
+   "id": "en:x:100079",
+   "text": "listen to parents",
+   "kind": "expression",
+   "description": "To listen to your parents.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003487",
+    "english_id": "en:000003487",
+    "from": "core",
+    "core_priority": 2074
+   },
+   "study_priority": 79
+  },
+  {
+   "id": "en:x:100080",
+   "text": "follow rules",
+   "kind": "expression",
+   "description": "To do what the rules say.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003488",
+    "english_id": "en:000003488",
+    "from": "core",
+    "core_priority": 2075
+   },
+   "study_priority": 80
+  },
+  {
+   "id": "en:x:100081",
+   "text": "arrive on time",
+   "kind": "expression",
+   "description": "To arrive at the planned time.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003489",
+    "english_id": "en:000003489",
+    "from": "core",
+    "core_priority": 2076
+   },
+   "study_priority": 81
+  },
+  {
+   "id": "en:x:100082",
+   "text": "magic castle",
+   "kind": "expression",
+   "description": "A castle in a fairy tale.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003497",
+    "english_id": "en:000003497",
+    "from": "core",
+    "core_priority": 2082
+   },
+   "study_priority": 82
+  },
+  {
+   "id": "en:x:100083",
+   "text": "treasure map",
+   "kind": "expression",
+   "description": "A map showing where treasure is hidden.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003504",
+    "english_id": "en:000003504",
+    "from": "core",
+    "core_priority": 2084
+   },
+   "study_priority": 83
+  },
+  {
+   "id": "en:x:100084",
+   "text": "cherry blossom",
+   "kind": "expression",
+   "description": "The pink or white flower of the cherry tree.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003523",
+    "english_id": "en:000003523",
+    "from": "core",
+    "core_priority": 2098
+   },
+   "study_priority": 84
+  },
+  {
+   "id": "en:x:100085",
+   "text": "queen bee",
+   "kind": "expression",
+   "description": "The female bee that lays eggs.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003529",
+    "english_id": "en:000003529",
+    "from": "core",
+    "core_priority": 2103
+   },
+   "study_priority": 85
+  },
+  {
+   "id": "en:x:100086",
+   "text": "bird egg",
+   "kind": "expression",
+   "description": "An egg laid by a bird.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003533",
+    "english_id": "en:000003533",
+    "from": "core",
+    "core_priority": 2105
+   },
+   "study_priority": 86
+  },
+  {
+   "id": "en:x:100087",
+   "text": "puppet show",
+   "kind": "expression",
+   "description": "A show with puppets.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003560",
+    "english_id": "en:000003560",
+    "from": "core",
+    "core_priority": 2120
+   },
+   "study_priority": 87
+  },
+  {
+   "id": "en:x:100088",
+   "text": "solar system",
+   "kind": "expression",
+   "description": "The sun and the planets that move around it.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003624",
+    "english_id": "en:000003624",
+    "from": "core",
+    "core_priority": 2125
+   },
+   "study_priority": 88
+  },
+  {
+   "id": "en:x:100089",
+   "text": "human rights",
+   "kind": "expression",
+   "description": "Basic rights that every person has.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003663",
+    "english_id": "en:000003663",
+    "from": "core",
+    "core_priority": 2142
+   },
+   "study_priority": 89
+  },
+  {
+   "id": "en:x:100090",
+   "text": "air force",
+   "kind": "expression",
+   "description": "The military branch that uses aircraft.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003664",
+    "english_id": "en:000003664",
+    "from": "core",
+    "core_priority": 2143
+   },
+   "study_priority": 90
+  },
+  {
+   "id": "en:x:100091",
+   "text": "world map",
+   "kind": "expression",
+   "description": "A map of the whole world.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003697",
+    "english_id": "en:000003697",
+    "from": "core",
+    "core_priority": 2159
+   },
+   "study_priority": 91
+  },
+  {
+   "id": "en:x:100092",
+   "text": "ocean current",
+   "kind": "expression",
+   "description": "A steady flow of water in the ocean.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003732",
+    "english_id": "en:000003732",
+    "from": "core",
+    "core_priority": 2170
+   },
+   "study_priority": 92
+  },
+  {
+   "id": "en:x:100093",
+   "text": "work of art",
+   "kind": "expression",
+   "description": "A painting, sculpture or other creation of art.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003760",
+    "english_id": "en:000003760",
+    "from": "core",
+    "core_priority": 2176
+   },
+   "study_priority": 93
+  },
+  {
+   "id": "en:x:100094",
+   "text": "power plant",
+   "kind": "expression",
+   "description": "A factory that produces electricity.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003805",
+    "english_id": "en:000003805",
+    "from": "core",
+    "core_priority": 2204
+   },
+   "study_priority": 94
+  },
+  {
+   "id": "en:x:100095",
+   "text": "wind energy",
+   "kind": "expression",
+   "description": "Energy produced from wind.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003806",
+    "english_id": "en:000003806",
+    "from": "core",
+    "core_priority": 2205
+   },
+   "study_priority": 95
+  },
+  {
+   "id": "en:x:100096",
+   "text": "hydroelectric energy",
+   "kind": "expression",
+   "description": "Energy produced from moving water.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003807",
+    "english_id": "en:000003807",
+    "from": "core",
+    "core_priority": 2206
+   },
+   "study_priority": 96
+  },
+  {
+   "id": "en:x:100097",
+   "text": "natural gas",
+   "kind": "expression",
+   "description": "Gas from the ground used as fuel.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003810",
+    "english_id": "en:000003810",
+    "from": "core",
+    "core_priority": 2209
+   },
+   "study_priority": 97
+  },
+  {
+   "id": "en:x:100098",
+   "text": "weather forecast",
+   "kind": "expression",
+   "description": "A prediction of the weather.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003914",
+    "english_id": "en:000003914",
+    "from": "core",
+    "core_priority": 2249
+   },
+   "study_priority": 98
+  },
+  {
+   "id": "en:x:100099",
+   "text": "a little",
+   "kind": "expression",
+   "description": "A small amount.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003920",
+    "english_id": "en:000003920",
+    "from": "core",
+    "core_priority": 2254
+   },
+   "study_priority": 99
+  },
+  {
+   "id": "en:x:100100",
+   "text": "at least",
+   "kind": "expression",
+   "description": "Not less than; at minimum.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003931",
+    "english_id": "en:000003931",
+    "from": "core",
+    "core_priority": 2262
+   },
+   "study_priority": 100
+  },
+  {
+   "id": "en:x:100101",
+   "text": "the rest",
+   "kind": "expression",
+   "description": "What remains; the other part.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003943",
+    "english_id": "en:000003943",
+    "from": "core",
+    "core_priority": 2269
+   },
+   "study_priority": 101
+  },
+  {
+   "id": "en:x:100102",
+   "text": "for example",
+   "kind": "expression",
+   "description": "Used to give an example.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003949",
+    "english_id": "en:000003949",
+    "from": "core",
+    "core_priority": 2274
+   },
+   "study_priority": 102
+  },
+  {
+   "id": "en:x:100103",
+   "text": "on sale",
+   "kind": "expression",
+   "description": "Sold at a lower price.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003970",
+    "english_id": "en:000003970",
+    "from": "core",
+    "core_priority": 2286
+   },
+   "study_priority": 103
+  },
+  {
+   "id": "en:x:100104",
+   "text": "capital letter",
+   "kind": "expression",
+   "description": "A big letter, such as A, B, C.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003973",
+    "english_id": "en:000003973",
+    "from": "core",
+    "core_priority": 2287
+   },
+   "study_priority": 104
+  },
+  {
+   "id": "en:x:100105",
+   "text": "cell phone",
+   "kind": "expression",
+   "alternatives": [
+    "smartphone",
+    "cell"
+   ],
+   "description": "A mobile phone.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003994",
+    "english_id": "en:000003994",
+    "from": "core",
+    "core_priority": 2302
+   },
+   "study_priority": 105
+  },
+  {
+   "id": "en:x:100106",
+   "text": "me neither",
+   "kind": "expression",
+   "description": "Not me either (agreeing with a negative).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004014",
+    "english_id": "en:000004014",
+    "from": "core",
+    "core_priority": 2315
+   },
+   "study_priority": 106
+  },
+  {
+   "id": "en:x:100107",
+   "text": "stir",
+   "kind": "expression",
+   "description": "To mix food or liquid by moving a spoon around.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004104",
+    "english_id": "en:000004104",
+    "from": "core",
+    "core_priority": 2368
+   },
+   "study_priority": 107
+  },
+  {
+   "id": "en:x:100108",
+   "text": "correct answer",
+   "kind": "expression",
+   "description": "An answer that is right.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004109",
+    "english_id": "en:000004109",
+    "from": "core",
+    "core_priority": 2373
+   },
+   "study_priority": 108
+  },
+  {
+   "id": "en:x:100109",
+   "text": "soap opera",
+   "kind": "expression",
+   "description": "A TV drama series about daily lives.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004110",
+    "english_id": "en:000004110",
+    "from": "core",
+    "core_priority": 2374
+   },
+   "study_priority": 109
+  },
+  {
+   "id": "en:x:100110",
+   "text": "drum set",
+   "kind": "expression",
+   "description": "A set of drums played by one person.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004122",
+    "english_id": "en:000004122",
+    "from": "core",
+    "core_priority": 2386
+   },
+   "study_priority": 110
+  },
+  {
+   "id": "en:x:100111",
+   "text": "used to",
+   "kind": "expression",
+   "description": "Did regularly in the past, but not now: \"I used to swim\".",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000000150",
+    "english_id": "en:000000150",
+    "from": "core",
+    "core_priority": 2395,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 111
+  },
+  {
+   "id": "en:x:100112",
+   "text": "save money",
+   "kind": "expression",
+   "description": "To keep money instead of spending it.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003383",
+    "english_id": "en:000003383",
+    "from": "core",
+    "core_priority": 2749
+   },
+   "study_priority": 112
+  },
+  {
+   "id": "en:x:100113",
+   "text": "run fast",
+   "kind": "expression",
+   "description": "To run quickly.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003412",
+    "english_id": "en:000003412",
+    "from": "core",
+    "core_priority": 2750
+   },
+   "study_priority": 113
+  },
+  {
+   "id": "en:x:100114",
+   "text": "catch the ball",
+   "kind": "expression",
+   "description": "To take hold of a ball thrown to you.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003413",
+    "english_id": "en:000003413",
+    "from": "core",
+    "core_priority": 2751
+   },
+   "study_priority": 114
+  },
+  {
+   "id": "en:x:100115",
+   "text": "fly a kite",
+   "kind": "expression",
+   "description": "To make a kite fly in the wind.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003448",
+    "english_id": "en:000003448",
+    "from": "core",
+    "core_priority": 2752
+   },
+   "study_priority": 115
+  },
+  {
+   "id": "en:x:100116",
+   "text": "play marbles",
+   "kind": "expression",
+   "description": "To play a game with small glass balls.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003449",
+    "english_id": "en:000003449",
+    "from": "core",
+    "core_priority": 2753
+   },
+   "study_priority": 116
+  },
+  {
+   "id": "en:x:100117",
+   "text": "liquid water",
+   "kind": "expression",
+   "description": "Water in its liquid state.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003605",
+    "english_id": "en:000003605",
+    "from": "core",
+    "core_priority": 2800
+   },
+   "study_priority": 117
+  },
+  {
+   "id": "en:x:100118",
+   "text": "dry ice",
+   "kind": "expression",
+   "description": "Frozen carbon dioxide.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003606",
+    "english_id": "en:000003606",
+    "from": "core",
+    "core_priority": 2801
+   },
+   "study_priority": 118
+  },
+  {
+   "id": "en:x:100119",
+   "text": "chemical reaction",
+   "kind": "expression",
+   "description": "A process that changes substances into new ones.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003618",
+    "english_id": "en:000003618",
+    "from": "core",
+    "core_priority": 2812
+   },
+   "study_priority": 119
+  },
+  {
+   "id": "en:x:100120",
+   "text": "scientific journal",
+   "kind": "expression",
+   "description": "A publication of scientific articles.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003675",
+    "english_id": "en:000003675",
+    "from": "core",
+    "core_priority": 2825
+   },
+   "study_priority": 120
+  },
+  {
+   "id": "en:x:100121",
+   "text": "financial market",
+   "kind": "expression",
+   "description": "The system where money and investments are traded.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003782",
+    "english_id": "en:000003782",
+    "from": "core",
+    "core_priority": 2855
+   },
+   "study_priority": 121
+  },
+  {
+   "id": "en:x:100122",
+   "text": "stock exchange",
+   "kind": "expression",
+   "description": "A place where shares of companies are bought and sold.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003783",
+    "english_id": "en:000003783",
+    "from": "core",
+    "core_priority": 2856
+   },
+   "study_priority": 122
+  },
+  {
+   "id": "en:x:100123",
+   "text": "food chain",
+   "kind": "expression",
+   "description": "The series of who eats whom in nature.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003822",
+    "english_id": "en:000003822",
+    "from": "core",
+    "core_priority": 2871
+   },
+   "study_priority": 123
+  },
+  {
+   "id": "en:x:100124",
+   "text": "quality of life",
+   "kind": "expression",
+   "description": "How good a person's life and health are.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003866",
+    "english_id": "en:000003866",
+    "from": "core",
+    "core_priority": 2888
+   },
+   "study_priority": 124
+  },
+  {
+   "id": "en:x:100125",
+   "text": "solar energy",
+   "kind": "expression",
+   "description": "Energy from sunlight.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004149",
+    "english_id": "en:000004149",
+    "from": "core",
+    "core_priority": 2938
+   },
+   "study_priority": 125
+  },
+  {
+   "id": "en:x:100126",
+   "text": "in a row",
+   "kind": "expression",
+   "description": "One after another without a break (three days in a row).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000000576",
+    "english_id": "en:000000576",
+    "from": "core",
+    "core_priority": 2956
+   },
+   "study_priority": 126
+  },
+  {
+   "id": "en:x:100127",
+   "text": "think about",
+   "kind": "expression",
+   "description": "To consider something carefully before deciding.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000001705",
+    "english_id": "en:000001705",
+    "from": "core",
+    "core_priority": 2986
+   },
+   "study_priority": 127
+  },
+  {
+   "id": "en:x:100128",
+   "text": "a lot",
+   "kind": "expression",
+   "description": "A large amount or number.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000002488",
+    "english_id": "en:000002488",
+    "from": "core",
+    "core_priority": 3021
+   },
+   "study_priority": 128
+  },
+  {
+   "id": "en:x:100129",
+   "text": "make up",
+   "kind": "expression",
+   "description": "To become friends again after an argument.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003330",
+    "english_id": "en:000003330",
+    "from": "core",
+    "core_priority": 3041
+   },
+   "study_priority": 129
+  },
+  {
+   "id": "en:x:100130",
+   "text": "no worries",
+   "kind": "expression",
+   "description": "\"No problem; don't worry.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "AU",
+    "GB",
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003011",
+    "english_id": "en:000003011",
+    "from": "core",
+    "core_priority": 3050
+   },
+   "study_priority": 130
+  },
+  {
+   "id": "en:x:100131",
+   "text": "what's up?",
+   "kind": "expression",
+   "description": "\"Hi, how are you?\" (very informal).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003012",
+    "english_id": "en:000003012",
+    "from": "core",
+    "core_priority": 3051
+   },
+   "study_priority": 131
+  },
+  {
+   "id": "en:x:100132",
+   "text": "hang out",
+   "kind": "expression",
+   "description": "To spend time relaxing with friends.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003013",
+    "english_id": "en:000003013",
+    "from": "core",
+    "core_priority": 3052
+   },
+   "study_priority": 132
+  },
+  {
+   "id": "en:x:100133",
+   "text": "grab a bite",
+   "kind": "expression",
+   "description": "To eat something quickly.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003014",
+    "english_id": "en:000003014",
+    "from": "core",
+    "core_priority": 3053
+   },
+   "study_priority": 133
+  },
+  {
+   "id": "en:x:100134",
+   "text": "hit the road",
+   "kind": "expression",
+   "description": "To leave on a trip.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003045",
+    "english_id": "en:000003045",
+    "from": "core",
+    "core_priority": 3054
+   },
+   "study_priority": 134
+  },
+  {
+   "id": "en:x:100135",
+   "text": "piece of cake",
+   "kind": "expression",
+   "description": "Something very easy.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003046",
+    "english_id": "en:000003046",
+    "from": "core",
+    "core_priority": 3055
+   },
+   "study_priority": 135
+  },
+  {
+   "id": "en:x:100136",
+   "text": "under the weather",
+   "kind": "expression",
+   "description": "Feeling a little sick.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003048",
+    "english_id": "en:000003048",
+    "from": "core",
+    "core_priority": 3056
+   },
+   "study_priority": 136
+  },
+  {
+   "id": "en:x:100137",
+   "text": "give me a sec",
+   "kind": "expression",
+   "description": "\"Wait a second, please.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003049",
+    "english_id": "en:000003049",
+    "from": "core",
+    "core_priority": 3057
+   },
+   "study_priority": 137
+  },
+  {
+   "id": "en:x:100138",
+   "text": "my treat",
+   "kind": "expression",
+   "description": "\"I'll pay for you.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003050",
+    "english_id": "en:000003050",
+    "from": "core",
+    "core_priority": 3058
+   },
+   "study_priority": 138
+  },
+  {
+   "id": "en:x:100139",
+   "text": "on the house",
+   "kind": "expression",
+   "description": "Free, paid by the restaurant or bar.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003051",
+    "english_id": "en:000003051",
+    "from": "core",
+    "core_priority": 3059
+   },
+   "study_priority": 139
+  },
+  {
+   "id": "en:x:100140",
+   "text": "grab a coffee",
+   "kind": "expression",
+   "description": "To meet for a coffee.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003052",
+    "english_id": "en:000003052",
+    "from": "core",
+    "core_priority": 3060
+   },
+   "study_priority": 140
+  },
+  {
+   "id": "en:x:100141",
+   "text": "takeout",
+   "kind": "expression",
+   "description": "Food bought to eat at home.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003054",
+    "english_id": "en:000003054",
+    "from": "core",
+    "core_priority": 3061
+   },
+   "study_priority": 141
+  },
+  {
+   "id": "en:x:100142",
+   "text": "mashed banana",
+   "kind": "expression",
+   "description": "Banana crushed into a soft food for babies.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003226",
+    "english_id": "en:000003226",
+    "from": "core",
+    "core_priority": 3062
+   },
+   "study_priority": 142
+  },
+  {
+   "id": "en:x:100143",
+   "text": "egg-yolk yellow",
+   "kind": "expression",
+   "description": "A strong warm yellow like the yolk of an egg.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003233",
+    "english_id": "en:000003233",
+    "from": "core",
+    "core_priority": 3063
+   },
+   "study_priority": 143
+  },
+  {
+   "id": "en:x:100144",
+   "text": "kung fu",
+   "kind": "expression",
+   "description": "A Chinese martial art.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003409",
+    "english_id": "en:000003409",
+    "from": "core",
+    "core_priority": 3064
+   },
+   "study_priority": 144
+  },
+  {
+   "id": "en:x:100145",
+   "text": "Chinese New Year",
+   "kind": "expression",
+   "description": "The festival of the lunar New Year.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003566",
+    "english_id": "en:000003566",
+    "from": "core",
+    "core_priority": 3069
+   },
+   "study_priority": 145
+  },
+  {
+   "id": "en:x:100146",
+   "text": "Indian Ocean",
+   "kind": "expression",
+   "description": "The ocean south of Asia.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003735",
+    "english_id": "en:000003735",
+    "from": "core",
+    "core_priority": 3073
+   },
+   "study_priority": 146
+  },
+  {
+   "id": "en:x:100147",
+   "text": "Arctic Ocean",
+   "kind": "expression",
+   "description": "The ocean around the North Pole.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003736",
+    "english_id": "en:000003736",
+    "from": "core",
+    "core_priority": 3074
+   },
+   "study_priority": 147
+  },
+  {
+   "id": "en:x:100148",
+   "text": "Antarctic Ocean",
+   "kind": "expression",
+   "description": "The ocean around Antarctica.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003737",
+    "english_id": "en:000003737",
+    "from": "core",
+    "core_priority": 3075
+   },
+   "study_priority": 148
+  },
+  {
+   "id": "en:x:100149",
+   "text": "subway",
+   "kind": "expression",
+   "description": "An underground train system.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "CA"
+   ],
+   "source": {
+    "core_id": "en:000003079",
+    "english_id": "en:000003079",
+    "from": "core",
+    "core_priority": 3179
+   },
+   "study_priority": 149
+  },
+  {
+   "id": "en:x:100150",
+   "text": "small farm",
+   "kind": "expression",
+   "description": "A small country property or farm.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004100",
+    "english_id": "en:000004100",
+    "from": "core",
+    "core_priority": 3193
+   },
+   "study_priority": 150
+  },
+  {
+   "id": "en:x:100151",
+   "text": "rain check",
+   "kind": "expression",
+   "description": "A promise to accept an invitation at a later time.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003090",
+    "english_id": "en:000003090",
+    "from": "core",
+    "core_priority": 3354
+   },
+   "study_priority": 151
+  },
+  {
+   "id": "en:x:100152",
+   "text": "travel backpack",
+   "kind": "expression",
+   "description": "A large bag carried on the back when traveling.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003436",
+    "english_id": "en:000003436",
+    "from": "core",
+    "core_priority": 3355
+   },
+   "study_priority": 152
+  },
+  {
+   "id": "en:x:100153",
+   "text": "bucks",
+   "kind": "expression",
+   "description": "Dollars (informal).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003001",
+    "english_id": "en:000003001",
+    "from": "core",
+    "core_priority": 3367
+   },
+   "study_priority": 153
+  },
+  {
+   "id": "en:x:100154",
+   "text": "I'm beat",
+   "kind": "expression",
+   "description": "An informal expression meaning I am very tired.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003015",
+    "english_id": "en:000003015",
+    "from": "core",
+    "core_priority": 3368
+   },
+   "study_priority": 154
+  },
+  {
+   "id": "en:x:100155",
+   "text": "my bad",
+   "kind": "expression",
+   "description": "\"My mistake.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003016",
+    "english_id": "en:000003016",
+    "from": "core",
+    "core_priority": 3369
+   },
+   "study_priority": 155
+  },
+  {
+   "id": "en:x:100156",
+   "text": "take a rain check",
+   "kind": "expression",
+   "description": "To politely say no now but maybe later.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003026",
+    "english_id": "en:000003026",
+    "from": "core",
+    "core_priority": 3373
+   },
+   "study_priority": 156
+  },
+  {
+   "id": "en:x:100157",
+   "text": "spill the tea",
+   "kind": "expression",
+   "description": "To tell gossip.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003027",
+    "english_id": "en:000003027",
+    "from": "core",
+    "core_priority": 3374
+   },
+   "study_priority": 157
+  },
+  {
+   "id": "en:x:100158",
+   "text": "low-key",
+   "kind": "expression",
+   "description": "Quietly; a little (secretly).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003028",
+    "english_id": "en:000003028",
+    "from": "core",
+    "core_priority": 3375
+   },
+   "study_priority": 158
+  },
+  {
+   "id": "en:x:100159",
+   "text": "ghost someone",
+   "kind": "expression",
+   "description": "To stop answering someone suddenly.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003030",
+    "english_id": "en:000003030",
+    "from": "core",
+    "core_priority": 3377
+   },
+   "study_priority": 159
+  },
+  {
+   "id": "en:x:100160",
+   "text": "flex",
+   "kind": "expression",
+   "description": "To show off.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003031",
+    "english_id": "en:000003031",
+    "from": "core",
+    "core_priority": 3378
+   },
+   "study_priority": 160
+  },
+  {
+   "id": "en:x:100161",
+   "text": "salty",
+   "kind": "expression",
+   "description": "Annoyed or bitter about something.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003032",
+    "english_id": "en:000003032",
+    "from": "core",
+    "core_priority": 3379
+   },
+   "study_priority": 161
+  },
+  {
+   "id": "en:x:100162",
+   "text": "legit",
+   "kind": "expression",
+   "description": "Real; really good.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003033",
+    "english_id": "en:000003033",
+    "from": "core",
+    "core_priority": 3380
+   },
+   "study_priority": 162
+  },
+  {
+   "id": "en:x:100163",
+   "text": "lit",
+   "kind": "expression",
+   "description": "Very exciting and fun.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003035",
+    "english_id": "en:000003035",
+    "from": "core",
+    "core_priority": 3381
+   },
+   "study_priority": 163
+  },
+  {
+   "id": "en:x:100164",
+   "text": "sus",
+   "kind": "expression",
+   "description": "Suspicious (slang).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "internet",
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003036",
+    "english_id": "en:000003036",
+    "from": "core",
+    "core_priority": 3382
+   },
+   "study_priority": 164
+  },
+  {
+   "id": "en:x:100165",
+   "text": "no cap",
+   "kind": "expression",
+   "description": "Slang: \"no lie; for real\".",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "internet"
+   ],
+   "source": {
+    "core_id": "en:000003038",
+    "english_id": "en:000003038",
+    "from": "core",
+    "core_priority": 3383
+   },
+   "study_priority": 165
+  },
+  {
+   "id": "en:x:100166",
+   "text": "fam",
+   "kind": "expression",
+   "description": "Close friends; \"family\" (slang).",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "GB",
+    "US"
+   ],
+   "source": {
+    "core_id": "en:000003040",
+    "english_id": "en:000003040",
+    "from": "core",
+    "core_priority": 3384
+   },
+   "study_priority": 166
+  },
+  {
+   "id": "en:x:100167",
+   "text": "bro",
+   "kind": "expression",
+   "description": "Friendly way to call a male friend.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003041",
+    "english_id": "en:000003041",
+    "from": "core",
+    "core_priority": 3385
+   },
+   "study_priority": 167
+  },
+  {
+   "id": "en:x:100168",
+   "text": "hangry",
+   "kind": "expression",
+   "description": "Angry because you are hungry.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "source": {
+    "core_id": "en:000003043",
+    "english_id": "en:000003043",
+    "from": "core",
+    "core_priority": 3386
+   },
+   "study_priority": 168
+  },
+  {
+   "id": "en:x:100169",
+   "text": "crash at",
+   "kind": "expression",
+   "description": "To sleep at someone's place for a night.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003044",
+    "english_id": "en:000003044",
+    "from": "core",
+    "core_priority": 3387
+   },
+   "study_priority": 169
+  },
+  {
+   "id": "en:x:100170",
+   "text": "break a leg",
+   "kind": "expression",
+   "description": "An informal way to wish someone good luck before a performance.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003047",
+    "english_id": "en:000003047",
+    "from": "core",
+    "core_priority": 3388
+   },
+   "study_priority": 170
+  },
+  {
+   "id": "en:x:100171",
+   "text": "no biggie",
+   "kind": "expression",
+   "description": "\"It's not a problem.\"",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "source": {
+    "core_id": "en:000003089",
+    "english_id": "en:000003089",
+    "from": "core",
+    "core_priority": 3395
+   },
+   "study_priority": 171
+  },
+  {
+   "id": "en:x:100172",
+   "text": "dance forró",
+   "kind": "expression",
+   "description": "To dance forró, a Brazilian couple dance.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003337",
+    "english_id": "en:000003337",
+    "from": "core",
+    "core_priority": 3396
+   },
+   "study_priority": 172
+  },
+  {
+   "id": "en:x:100173",
+   "text": "summer festival",
+   "kind": "expression",
+   "description": "A traditional outdoor festival in summer (Japan).",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003567",
+    "english_id": "en:000003567",
+    "from": "core",
+    "core_priority": 3398
+   },
+   "study_priority": 173
+  },
+  {
+   "id": "en:x:100174",
+   "text": "ancient Rome",
+   "kind": "expression",
+   "description": "The civilization of Rome in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003656",
+    "english_id": "en:000003656",
+    "from": "core",
+    "core_priority": 3399
+   },
+   "study_priority": 174
+  },
+  {
+   "id": "en:x:100175",
+   "text": "ancient Greece",
+   "kind": "expression",
+   "description": "The civilization of Greece in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003657",
+    "english_id": "en:000003657",
+    "from": "core",
+    "core_priority": 3400
+   },
+   "study_priority": 175
+  },
+  {
+   "id": "en:x:100176",
+   "text": "ancient China",
+   "kind": "expression",
+   "description": "China in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003658",
+    "english_id": "en:000003658",
+    "from": "core",
+    "core_priority": 3401
+   },
+   "study_priority": 176
+  },
+  {
+   "id": "en:x:100177",
+   "text": "ancient Japan",
+   "kind": "expression",
+   "description": "Japan in ancient times.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003659",
+    "english_id": "en:000003659",
+    "from": "core",
+    "core_priority": 3402
+   },
+   "study_priority": 177
+  },
+  {
+   "id": "en:x:100178",
+   "text": "Amazon River",
+   "kind": "expression",
+   "description": "The great river of South America.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003744",
+    "english_id": "en:000003744",
+    "from": "core",
+    "core_priority": 3410
+   },
+   "study_priority": 178
+  },
+  {
+   "id": "en:x:100179",
+   "text": "Mount Fuji",
+   "kind": "expression",
+   "description": "The highest mountain in Japan.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003745",
+    "english_id": "en:000003745",
+    "from": "core",
+    "core_priority": 3411
+   },
+   "study_priority": 179
+  },
+  {
+   "id": "en:x:100180",
+   "text": "Christ the Redeemer",
+   "kind": "expression",
+   "description": "The large statue of Christ over Rio de Janeiro.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003746",
+    "english_id": "en:000003746",
+    "from": "core",
+    "core_priority": 3412
+   },
+   "study_priority": 180
+  },
+  {
+   "id": "en:x:100181",
+   "text": "Great Wall of China",
+   "kind": "expression",
+   "description": "The ancient wall across northern China.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003747",
+    "english_id": "en:000003747",
+    "from": "core",
+    "core_priority": 3413
+   },
+   "study_priority": 181
+  },
+  {
+   "id": "en:x:100182",
+   "text": "Eiffel Tower",
+   "kind": "expression",
+   "description": "The iron tower in Paris.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003748",
+    "english_id": "en:000003748",
+    "from": "core",
+    "core_priority": 3414
+   },
+   "study_priority": 182
+  },
+  {
+   "id": "en:x:100183",
+   "text": "Pyramids of Giza",
+   "kind": "expression",
+   "description": "The ancient pyramids near Cairo.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003750",
+    "english_id": "en:000003750",
+    "from": "core",
+    "core_priority": 3416
+   },
+   "study_priority": 183
+  },
+  {
+   "id": "en:x:100184",
+   "text": "Taj Mahal",
+   "kind": "expression",
+   "description": "The white marble monument in Agra, India.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003752",
+    "english_id": "en:000003752",
+    "from": "core",
+    "core_priority": 3418
+   },
+   "study_priority": 184
+  },
+  {
+   "id": "en:x:100185",
+   "text": "Machu Picchu",
+   "kind": "expression",
+   "description": "The Inca city in the mountains of Peru.",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000003753",
+    "english_id": "en:000003753",
+    "from": "core",
+    "core_priority": 3419
+   },
+   "study_priority": 185
+  },
+  {
+   "id": "en:x:100186",
+   "text": "coin locker",
+   "kind": "expression",
+   "description": "A small locker where you keep your things for a short time by paying coins.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004310",
+    "english_id": "en:000004310",
+    "from": "core",
+    "core_priority": 3731,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 186
+  },
+  {
+   "id": "en:x:100187",
+   "text": "hot chocolate",
+   "kind": "expression",
+   "description": "A hot drink made with chocolate or cocoa and milk.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004315",
+    "english_id": "en:000004315",
+    "from": "core",
+    "core_priority": 3736,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 187
+  },
+  {
+   "id": "en:x:100188",
+   "text": "department store",
+   "kind": "expression",
+   "description": "A large store with many departments selling different goods.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004323",
+    "english_id": "en:000004323",
+    "from": "core",
+    "core_priority": 3744,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 188
+  },
+  {
+   "id": "en:x:100189",
+   "text": "vending machine",
+   "kind": "expression",
+   "description": "A machine that sells drinks or snacks when you put in money.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004364",
+    "english_id": "en:000004364",
+    "from": "core",
+    "core_priority": 3785,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 189
+  },
+  {
+   "id": "en:x:100190",
+   "text": "phone number",
+   "kind": "expression",
+   "description": "The series of digits you dial to call someone.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004374",
+    "english_id": "en:000004374",
+    "from": "core",
+    "core_priority": 3795,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 190
+  },
+  {
+   "id": "en:x:100191",
+   "text": "card game",
+   "kind": "expression",
+   "description": "A game played with a set of cards.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004377",
+    "english_id": "en:000004377",
+    "from": "core",
+    "core_priority": 3798,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 191
+  },
+  {
+   "id": "en:x:100192",
+   "text": "bus stop",
+   "kind": "expression",
+   "description": "A place where buses stop to pick up passengers.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004385",
+    "english_id": "en:000004385",
+    "from": "core",
+    "core_priority": 3806,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 192
+  },
+  {
+   "id": "en:x:100193",
+   "text": "pop music",
+   "kind": "expression",
+   "description": "Popular music with catchy songs.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004386",
+    "english_id": "en:000004386",
+    "from": "core",
+    "core_priority": 3807,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 193
+  },
+  {
+   "id": "en:x:100194",
+   "text": "decorative lights",
+   "kind": "expression",
+   "description": "Colorful lights put up outside for a festival, especially in winter.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004388",
+    "english_id": "en:000004388",
+    "from": "core",
+    "core_priority": 3809,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 194
+  },
+  {
+   "id": "en:x:100195",
+   "text": "every morning",
+   "kind": "expression",
+   "description": "In the morning of each day.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004411",
+    "english_id": "en:000004411",
+    "from": "core",
+    "core_priority": 3832,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 195
+  },
+  {
+   "id": "en:x:100196",
+   "text": "every night",
+   "kind": "expression",
+   "description": "In the evening or night of each day.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004412",
+    "english_id": "en:000004412",
+    "from": "core",
+    "core_priority": 3833,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 196
+  },
+  {
+   "id": "en:x:100197",
+   "text": "New Year's Eve",
+   "kind": "expression",
+   "description": "The last day of the year.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004416",
+    "english_id": "en:000004416",
+    "from": "core",
+    "core_priority": 3837,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 197
+  },
+  {
+   "id": "en:x:100198",
+   "text": "community center",
+   "kind": "expression",
+   "description": "A public building where local people meet for activities.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004418",
+    "english_id": "en:000004418",
+    "from": "core",
+    "core_priority": 3839,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 198
+  },
+  {
+   "id": "en:x:100199",
+   "text": "go to bed",
+   "kind": "expression",
+   "description": "To lie down in bed to sleep.",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004647",
+    "english_id": "en:000004647",
+    "from": "core",
+    "core_priority": 4094,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 199
+  },
+  {
+   "id": "en:x:100200",
+   "text": "please treat me well",
+   "kind": "expression",
+   "description": "Polite phrase said when meeting someone or asking for a favor.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004659",
+    "english_id": "en:000004659",
+    "from": "core",
+    "core_priority": 4106,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 200
+  },
+  {
+   "id": "en:x:100201",
+   "text": "this weekend",
+   "kind": "expression",
+   "description": "The coming Saturday and Sunday.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004662",
+    "english_id": "en:000004662",
+    "from": "core",
+    "core_priority": 4109,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 201
+  },
+  {
+   "id": "en:x:100202",
+   "text": "what kind of",
+   "kind": "expression",
+   "description": "Asks about the type or nature of something.",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004676",
+    "english_id": "en:000004676",
+    "from": "core",
+    "core_priority": 4123,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 202
+  },
+  {
+   "id": "en:x:100203",
+   "text": "chocolate banana",
+   "kind": "expression",
+   "description": "A banana dipped in chocolate, a festival snack.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004690",
+    "english_id": "en:000004690",
+    "from": "core",
+    "core_priority": 4137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 203
+  },
+  {
+   "id": "en:x:100204",
+   "text": "anime song",
+   "kind": "expression",
+   "description": "A song from an anime series.",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "en:000004693",
+    "english_id": "en:000004693",
+    "from": "core",
+    "core_priority": 4140,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 204
+  },
+  {
+   "id": "en:x:100205",
+   "text": "gonna",
+   "kind": "expression",
+   "description": "Informal spoken form of going to.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-GB-slang-v2",
+    "english_id": "en:000000493",
+    "source_id": "en:000000493:regional:0"
+   },
+   "study_priority": 205
+  },
+  {
+   "id": "en:x:100206",
+   "text": "wanna",
+   "kind": "expression",
+   "description": "Informal spoken form of want to.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-GB-slang-v2",
+    "english_id": "en:000000951",
+    "source_id": "en:000000951:regional:1"
+   },
+   "study_priority": 206
+  },
+  {
+   "id": "en:x:100207",
+   "text": "awesome",
+   "kind": "expression",
+   "description": "Enthusiastic positive evaluation.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB",
+    "AU"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-GB-slang-v2",
+    "english_id": "en:000001227",
+    "source_id": "en:000001227:regional:2"
+   },
+   "study_priority": 207
+  },
+  {
+   "id": "en:x:100208",
+   "text": "ain't",
+   "kind": "expression",
+   "description": "Nonstandard contraction with several meanings.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-GB-slang-v2",
+    "english_id": "en:000001349",
+    "source_id": "en:000001349:regional:3"
+   },
+   "study_priority": 208
+  },
+  {
+   "id": "en:x:100209",
+   "text": "dude",
+   "kind": "expression",
+   "description": "Very informal address to someone.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US",
+    "GB"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-GB-slang-v2",
+    "english_id": "en:000001594",
+    "source_id": "en:000001594:regional:4"
+   },
+   "study_priority": 209
+  },
+  {
+   "id": "en:x:100210",
+   "text": "mad",
+   "kind": "expression",
+   "description": "Colloquial intensifier meaning very.",
+   "level": null,
+   "part_of_speech": "exp",
+   "region_tags": [
+    "US-NY",
+    "US"
+   ],
+   "usage": "slang",
+   "source": {
+    "from": "en-US-NY-slang-v2",
+    "english_id": "en:000001831",
+    "source_id": "en:000001831:regional:0"
+   },
+   "study_priority": 210
+  }
+ ]
+}

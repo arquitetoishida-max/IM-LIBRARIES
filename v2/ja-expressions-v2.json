@@ -1,0 +1,3724 @@
+{
+ "schema_version": 2,
+ "package_id": "ja-expressions-v2",
+ "package_type": "ishida-monolingual",
+ "language": "ja",
+ "region": null,
+ "name": "Expressions and slang in Japanese",
+ "version": "1.0.0",
+ "english_explanations": true,
+ "status": "draft-editorial",
+ "language_info": {
+  "code": "ja",
+  "flag": "🇯🇵",
+  "locale": "ja-JP",
+  "name_native": "日本語",
+  "name_en": "Japanese",
+  "name_pt": "Japonês",
+  "name_ja": "日本語",
+  "script": "japanese"
+ },
+ "role": "expressions",
+ "license": "ISHIDA MULTILANG editorial content, (c) 2026 ISHIDA MULTILANG. Use and redistribution under the project terms (legal/terms.html).",
+ "sources": [
+  "Moved from the ja core (expression entries and composite headwords)"
+ ],
+ "notes": [
+  "Descriptions, readings and romanization are in English and are translated online at runtime; the URL search button is the escape hatch for mistranslations.",
+  "Independent per language; own ID space {lang}:x:100001+; no cross-language sync; no inter-group mobility (studied alone). Usage/vulgarity labels are free-form."
+ ],
+ "entries": [
+  {
+   "id": "ja:x:100001",
+   "text": "〜の後ろに",
+   "kind": "expression",
+   "alternatives": [
+    "〜のうしろに",
+    "〜の裏に"
+   ],
+   "description": "At the back of.",
+   "reading": "〜のうしろに",
+   "romanization": "~ no ushiro ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000490",
+    "english_id": "en:000000490",
+    "from": "core",
+    "core_priority": 137,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 1
+  },
+  {
+   "id": "ja:x:100002",
+   "text": "〜の近くに",
+   "kind": "expression",
+   "alternatives": [
+    "〜のそばに",
+    "〜の付近に"
+   ],
+   "description": "Close to.",
+   "reading": "〜のちかくに",
+   "romanization": "~ no chikaku ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000495",
+    "english_id": "en:000000495",
+    "from": "core",
+    "core_priority": 139,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 2
+  },
+  {
+   "id": "ja:x:100003",
+   "text": "〜の上に",
+   "kind": "expression",
+   "alternatives": [
+    "〜の上方に",
+    "〜より上に"
+   ],
+   "description": "Higher than.",
+   "reading": "〜のうえに",
+   "romanization": "~ no ue ni",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000607",
+    "english_id": "en:000000607",
+    "from": "core",
+    "core_priority": 178,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 3
+  },
+  {
+   "id": "ja:x:100004",
+   "text": "〜の下に",
+   "kind": "expression",
+   "description": "Lower than.",
+   "reading": "〜のしたに",
+   "romanization": "~ no shita ni",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000912",
+    "english_id": "en:000000912",
+    "from": "core",
+    "core_priority": 300,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 4
+  },
+  {
+   "id": "ja:x:100005",
+   "text": "炭酸飲料",
+   "kind": "expression",
+   "alternatives": [
+    "炭酸"
+   ],
+   "description": "A sweet fizzy drink.",
+   "reading": "たんさんいんりょう",
+   "romanization": "tansan'inryou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003075",
+    "english_id": "en:000003075",
+    "from": "core",
+    "core_priority": 643
+   },
+   "study_priority": 5
+  },
+  {
+   "id": "ja:x:100006",
+   "text": "もちろん",
+   "kind": "expression",
+   "description": "Certainly; naturally: \"Of course I will help\".",
+   "reading": "もちろん",
+   "romanization": "mochiron",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003205",
+    "english_id": "en:000003205",
+    "from": "core",
+    "core_priority": 679
+   },
+   "study_priority": 6
+  },
+  {
+   "id": "ja:x:100007",
+   "text": "おもちゃの車",
+   "kind": "expression",
+   "alternatives": [
+    "ミニカー"
+   ],
+   "description": "A small car made as a toy.",
+   "reading": "おもちゃのくるま",
+   "romanization": "omocha no kuruma",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003210",
+    "english_id": "en:000003210",
+    "from": "core",
+    "core_priority": 683
+   },
+   "study_priority": 7
+  },
+  {
+   "id": "ja:x:100008",
+   "text": "着る",
+   "kind": "expression",
+   "description": "To dress yourself in a piece of clothing.",
+   "reading": "きる",
+   "romanization": "kiru",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003219",
+    "english_id": "en:000003219",
+    "from": "core",
+    "core_priority": 692
+   },
+   "study_priority": 8
+  },
+  {
+   "id": "ja:x:100009",
+   "text": "脱ぐ",
+   "kind": "expression",
+   "alternatives": [
+    "外す"
+   ],
+   "description": "To remove a piece of clothing.",
+   "reading": "ぬぐ",
+   "romanization": "nugu",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003220",
+    "english_id": "en:000003220",
+    "from": "core",
+    "core_priority": 693
+   },
+   "study_priority": 9
+  },
+  {
+   "id": "ja:x:100010",
+   "text": "サンタクロース",
+   "kind": "expression",
+   "alternatives": [
+    "サンタ"
+   ],
+   "description": "The man in a red suit who brings presents at Christmas.",
+   "reading": "サンタクロース",
+   "romanization": "santakuroosu",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003227",
+    "english_id": "en:000003227",
+    "from": "core",
+    "core_priority": 699
+   },
+   "study_priority": 10
+  },
+  {
+   "id": "ja:x:100011",
+   "text": "お正月",
+   "kind": "expression",
+   "alternatives": [
+    "新年"
+   ],
+   "description": "The first days of the year and their celebration.",
+   "reading": "おしょうがつ",
+   "romanization": "oshougatsu",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003229",
+    "english_id": "en:000003229",
+    "from": "core",
+    "core_priority": 700
+   },
+   "study_priority": 11
+  },
+  {
+   "id": "ja:x:100012",
+   "text": "クマのぬいぐるみ",
+   "kind": "expression",
+   "alternatives": [
+    "テディベア"
+   ],
+   "description": "A soft toy bear.",
+   "reading": "クマのぬいぐるみ",
+   "romanization": "kuma no nuigurumi",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003230",
+    "english_id": "en:000003230",
+    "from": "core",
+    "core_priority": 701
+   },
+   "study_priority": 12
+  },
+  {
+   "id": "ja:x:100013",
+   "text": "積み木",
+   "kind": "expression",
+   "alternatives": [
+    "ブロック"
+   ],
+   "description": "A small toy block used to build things.",
+   "reading": "つみき",
+   "romanization": "tsumiki",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003231",
+    "english_id": "en:000003231",
+    "from": "core",
+    "core_priority": 702
+   },
+   "study_priority": 13
+  },
+  {
+   "id": "ja:x:100014",
+   "text": "黄身",
+   "kind": "expression",
+   "description": "The yellow part inside an egg.",
+   "reading": "きみ",
+   "romanization": "kimi",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003240",
+    "english_id": "en:000003240",
+    "from": "core",
+    "core_priority": 709
+   },
+   "study_priority": 14
+  },
+  {
+   "id": "ja:x:100015",
+   "text": "手を挙げる",
+   "kind": "expression",
+   "description": "To lift your hand to ask to speak.",
+   "reading": "てをあげる",
+   "romanization": "te o ageru",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003272",
+    "english_id": "en:000003272",
+    "from": "core",
+    "core_priority": 724
+   },
+   "study_priority": 15
+  },
+  {
+   "id": "ja:x:100016",
+   "text": "手を洗う",
+   "kind": "expression",
+   "description": "To clean your hands with water and soap.",
+   "reading": "てをあらう",
+   "romanization": "te o arau",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003316",
+    "english_id": "en:000003316",
+    "from": "core",
+    "core_priority": 758
+   },
+   "study_priority": 16
+  },
+  {
+   "id": "ja:x:100017",
+   "text": "歯を磨く",
+   "kind": "expression",
+   "description": "To clean your teeth with a toothbrush.",
+   "reading": "はをみがく",
+   "romanization": "ha o migaku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003317",
+    "english_id": "en:000003317",
+    "from": "core",
+    "core_priority": 759
+   },
+   "study_priority": 17
+  },
+  {
+   "id": "ja:x:100018",
+   "text": "着替える",
+   "kind": "expression",
+   "description": "To put your clothes on.",
+   "reading": "きがえる",
+   "romanization": "kigaeru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003318",
+    "english_id": "en:000003318",
+    "from": "core",
+    "core_priority": 760
+   },
+   "study_priority": 18
+  },
+  {
+   "id": "ja:x:100019",
+   "text": "髪をとかす",
+   "kind": "expression",
+   "description": "To make your hair neat with a brush.",
+   "reading": "かみをとかす",
+   "romanization": "kami o tokasu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003319",
+    "english_id": "en:000003319",
+    "from": "core",
+    "core_priority": 761
+   },
+   "study_priority": 19
+  },
+  {
+   "id": "ja:x:100020",
+   "text": "靴ひもを結ぶ",
+   "kind": "expression",
+   "description": "To fasten the laces of your shoes.",
+   "reading": "くつひもをむすぶ",
+   "romanization": "kutsuhimo o musubu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003320",
+    "english_id": "en:000003320",
+    "from": "core",
+    "core_priority": 762
+   },
+   "study_priority": 20
+  },
+  {
+   "id": "ja:x:100021",
+   "text": "助けを求める",
+   "kind": "expression",
+   "description": "To ask someone to help you.",
+   "reading": "たすけをもとめる",
+   "romanization": "tasuke o motomeru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003322",
+    "english_id": "en:000003322",
+    "from": "core",
+    "core_priority": 763
+   },
+   "study_priority": 21
+  },
+  {
+   "id": "ja:x:100022",
+   "text": "手をつなぐ",
+   "kind": "expression",
+   "description": "To hold another person's hand.",
+   "reading": "てをつなぐ",
+   "romanization": "te o tsunagu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003325",
+    "english_id": "en:000003325",
+    "from": "core",
+    "core_priority": 765
+   },
+   "study_priority": 22
+  },
+  {
+   "id": "ja:x:100023",
+   "text": "挨拶する",
+   "kind": "expression",
+   "description": "To greet someone.",
+   "reading": "あいさつする",
+   "romanization": "aisatsu suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003326",
+    "english_id": "en:000003326",
+    "from": "core",
+    "core_priority": 766
+   },
+   "study_priority": 23
+  },
+  {
+   "id": "ja:x:100024",
+   "text": "サッカーをする",
+   "kind": "expression",
+   "description": "To play football (soccer).",
+   "reading": "サッカーをする",
+   "romanization": "sakkaa o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003338",
+    "english_id": "en:000003338",
+    "from": "core",
+    "core_priority": 770
+   },
+   "study_priority": 24
+  },
+  {
+   "id": "ja:x:100025",
+   "text": "アニメを見る",
+   "kind": "expression",
+   "description": "To watch animated programs.",
+   "reading": "アニメをみる",
+   "romanization": "anime o miru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003342",
+    "english_id": "en:000003342",
+    "from": "core",
+    "core_priority": 771
+   },
+   "study_priority": 25
+  },
+  {
+   "id": "ja:x:100026",
+   "text": "音楽を聴く",
+   "kind": "expression",
+   "description": "To listen to music.",
+   "reading": "おんがくをきく",
+   "romanization": "ongaku o kiku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003343",
+    "english_id": "en:000003343",
+    "from": "core",
+    "core_priority": 772
+   },
+   "study_priority": 26
+  },
+  {
+   "id": "ja:x:100027",
+   "text": "早く寝る",
+   "kind": "expression",
+   "description": "To go to sleep early.",
+   "reading": "はやくねる",
+   "romanization": "hayaku neru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003344",
+    "english_id": "en:000003344",
+    "from": "core",
+    "core_priority": 773
+   },
+   "study_priority": 27
+  },
+  {
+   "id": "ja:x:100028",
+   "text": "早起きする",
+   "kind": "expression",
+   "description": "To wake up early.",
+   "reading": "はやおきする",
+   "romanization": "hayaoki suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003345",
+    "english_id": "en:000003345",
+    "from": "core",
+    "core_priority": 774
+   },
+   "study_priority": 28
+  },
+  {
+   "id": "ja:x:100029",
+   "text": "アイスクリーム",
+   "kind": "expression",
+   "description": "A frozen sweet food made from milk.",
+   "reading": "アイスクリーム",
+   "romanization": "aisukuriimu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003362",
+    "english_id": "en:000003362",
+    "from": "core",
+    "core_priority": 788
+   },
+   "study_priority": 29
+  },
+  {
+   "id": "ja:x:100030",
+   "text": "オレンジジュース",
+   "kind": "expression",
+   "description": "Drink made from oranges.",
+   "reading": "オレンジジュース",
+   "romanization": "orenji juusu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003365",
+    "english_id": "en:000003365",
+    "from": "core",
+    "core_priority": 791
+   },
+   "study_priority": 30
+  },
+  {
+   "id": "ja:x:100031",
+   "text": "小学校",
+   "kind": "expression",
+   "description": "A school for young children (first years).",
+   "reading": "しょうがっこう",
+   "romanization": "shougakkou",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003385",
+    "english_id": "en:000003385",
+    "from": "core",
+    "core_priority": 810
+   },
+   "study_priority": 31
+  },
+  {
+   "id": "ja:x:100032",
+   "text": "通学かばん",
+   "kind": "expression",
+   "alternatives": [
+    "ランドセル"
+   ],
+   "description": "A bag for carrying school things.",
+   "reading": "つうがくかばん",
+   "romanization": "tsuugaku kaban",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003389",
+    "english_id": "en:000003389",
+    "from": "core",
+    "core_priority": 814
+   },
+   "study_priority": 32
+  },
+  {
+   "id": "ja:x:100033",
+   "text": "筆箱",
+   "kind": "expression",
+   "description": "A small case for pencils and pens.",
+   "reading": "ふでばこ",
+   "romanization": "fudebako",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003390",
+    "english_id": "en:000003390",
+    "from": "core",
+    "core_priority": 815
+   },
+   "study_priority": 33
+  },
+  {
+   "id": "ja:x:100034",
+   "text": "こま",
+   "kind": "expression",
+   "description": "A toy that spins on its point.",
+   "reading": "こま",
+   "romanization": "koma",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003441",
+    "english_id": "en:000003441",
+    "from": "core",
+    "core_priority": 838
+   },
+   "study_priority": 34
+  },
+  {
+   "id": "ja:x:100035",
+   "text": "かくれんぼ",
+   "kind": "expression",
+   "description": "A game where one child looks for others who are hiding.",
+   "reading": "かくれんぼ",
+   "romanization": "kakurenbo",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003444",
+    "english_id": "en:000003444",
+    "from": "core",
+    "core_priority": 840
+   },
+   "study_priority": 35
+  },
+  {
+   "id": "ja:x:100036",
+   "text": "縄跳び",
+   "kind": "expression",
+   "description": "A game of jumping over a turning rope.",
+   "reading": "なわとび",
+   "romanization": "nawatobi",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003447",
+    "english_id": "en:000003447",
+    "from": "core",
+    "core_priority": 842
+   },
+   "study_priority": 36
+  },
+  {
+   "id": "ja:x:100037",
+   "text": "皿を洗う",
+   "kind": "expression",
+   "description": "To clean plates and cups after a meal.",
+   "reading": "さらをあらう",
+   "romanization": "sara o arau",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003462",
+    "english_id": "en:000003462",
+    "from": "core",
+    "core_priority": 846
+   },
+   "study_priority": 37
+  },
+  {
+   "id": "ja:x:100038",
+   "text": "ベッドを整える",
+   "kind": "expression",
+   "description": "To arrange the sheets and covers of a bed.",
+   "reading": "ベッドをととのえる",
+   "romanization": "beddo o totonoeru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003465",
+    "english_id": "en:000003465",
+    "from": "core",
+    "core_priority": 848
+   },
+   "study_priority": 38
+  },
+  {
+   "id": "ja:x:100039",
+   "text": "植物に水をやる",
+   "kind": "expression",
+   "description": "To give water to plants.",
+   "reading": "しょくぶつにみずをやる",
+   "romanization": "shokubutsu ni mizu o yaru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003466",
+    "english_id": "en:000003466",
+    "from": "core",
+    "core_priority": 849
+   },
+   "study_priority": 39
+  },
+  {
+   "id": "ja:x:100040",
+   "text": "犬の散歩をする",
+   "kind": "expression",
+   "description": "To take a dog for a walk.",
+   "reading": "いぬのさんぽをする",
+   "romanization": "inu no sanpo o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003467",
+    "english_id": "en:000003467",
+    "from": "core",
+    "core_priority": 850
+   },
+   "study_priority": 40
+  },
+  {
+   "id": "ja:x:100041",
+   "text": "テレビを見る",
+   "kind": "expression",
+   "description": "To watch television.",
+   "reading": "テレビをみる",
+   "romanization": "terebi o miru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003470",
+    "english_id": "en:000003470",
+    "from": "core",
+    "core_priority": 851
+   },
+   "study_priority": 41
+  },
+  {
+   "id": "ja:x:100042",
+   "text": "写真を撮る",
+   "kind": "expression",
+   "description": "To take a picture with a camera or phone.",
+   "reading": "しゃしんをとる",
+   "romanization": "shashin o toru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003473",
+    "english_id": "en:000003473",
+    "from": "core",
+    "core_priority": 852
+   },
+   "study_priority": 42
+  },
+  {
+   "id": "ja:x:100043",
+   "text": "すみません",
+   "kind": "expression",
+   "description": "Polite words to get attention or pass by someone.",
+   "reading": "すみません",
+   "romanization": "sumimasen",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003485",
+    "english_id": "en:000003485",
+    "from": "core",
+    "core_priority": 853
+   },
+   "study_priority": 43
+  },
+  {
+   "id": "ja:x:100044",
+   "text": "列に並ぶ",
+   "kind": "expression",
+   "description": "To wait in a line for your turn.",
+   "reading": "れつにならぶ",
+   "romanization": "retsu ni narabu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003486",
+    "english_id": "en:000003486",
+    "from": "core",
+    "core_priority": 854
+   },
+   "study_priority": 44
+  },
+  {
+   "id": "ja:x:100045",
+   "text": "大人に知らせる",
+   "kind": "expression",
+   "description": "To tell a grown-up when something is wrong.",
+   "reading": "おとなにしらせる",
+   "romanization": "otona ni shiraseru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003490",
+    "english_id": "en:000003490",
+    "from": "core",
+    "core_priority": 855
+   },
+   "study_priority": 45
+  },
+  {
+   "id": "ja:x:100046",
+   "text": "一万",
+   "kind": "expression",
+   "description": "The number 10,000.",
+   "reading": "いちまん",
+   "romanization": "ichiman",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003568",
+    "english_id": "en:000003568",
+    "from": "core",
+    "core_priority": 874
+   },
+   "study_priority": 46
+  },
+  {
+   "id": "ja:x:100047",
+   "text": "流れ星",
+   "kind": "expression",
+   "description": "A bright streak of light in the night sky.",
+   "reading": "ながれぼし",
+   "romanization": "nagareboshi",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003620",
+    "english_id": "en:000003620",
+    "from": "core",
+    "core_priority": 876
+   },
+   "study_priority": 47
+  },
+  {
+   "id": "ja:x:100048",
+   "text": "満月",
+   "kind": "expression",
+   "description": "The moon when it looks completely round.",
+   "reading": "まんげつ",
+   "romanization": "mangetsu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003633",
+    "english_id": "en:000003633",
+    "from": "core",
+    "core_priority": 878
+   },
+   "study_priority": 48
+  },
+  {
+   "id": "ja:x:100049",
+   "text": "〜の上に",
+   "kind": "expression",
+   "alternatives": [
+    "〜の上に",
+    "〜に"
+   ],
+   "description": "Touching the top surface of something (\"on the table\").",
+   "reading": "のうえに",
+   "romanization": "~ no ue ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000011",
+    "english_id": "en:000000011",
+    "from": "core",
+    "core_priority": 921,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 49
+  },
+  {
+   "id": "ja:x:100050",
+   "text": "〜の前に",
+   "kind": "expression",
+   "alternatives": [
+    "〜の前に",
+    "以前に"
+   ],
+   "description": "Earlier than.",
+   "reading": "〜のまえに",
+   "romanization": "~ no mae ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000119",
+    "english_id": "en:000000119",
+    "from": "core",
+    "core_priority": 971,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 50
+  },
+  {
+   "id": "ja:x:100051",
+   "text": "〜の下に",
+   "kind": "expression",
+   "alternatives": [
+    "〜の下に",
+    "〜未満の"
+   ],
+   "description": "Below something.",
+   "reading": "〜のしたに",
+   "romanization": "~ no shita ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000172",
+    "english_id": "en:000000172",
+    "from": "core",
+    "core_priority": 991,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 51
+  },
+  {
+   "id": "ja:x:100052",
+   "text": "〜以内に",
+   "kind": "expression",
+   "alternatives": [
+    "〜以内に",
+    "〜の中で"
+   ],
+   "description": "Inside a space or time limit.",
+   "reading": "〜いないに",
+   "romanization": "~ inai ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000339",
+    "english_id": "en:000000339",
+    "from": "core",
+    "core_priority": 1016,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 52
+  },
+  {
+   "id": "ja:x:100053",
+   "text": "〜によると",
+   "kind": "expression",
+   "description": "\"According to\" = as said by.",
+   "reading": "〜によると",
+   "romanization": "~ ni yoru to",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000504",
+    "english_id": "en:000000504",
+    "from": "core",
+    "core_priority": 1038,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 53
+  },
+  {
+   "id": "ja:x:100054",
+   "text": "〜じゅう",
+   "kind": "expression",
+   "description": "In every part of; during the whole time.",
+   "reading": "〜じゅう",
+   "romanization": "~ juu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000001077",
+    "english_id": "en:000001077",
+    "from": "core",
+    "core_priority": 1180,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 54
+  },
+  {
+   "id": "ja:x:100055",
+   "text": "〜のほかに",
+   "kind": "expression",
+   "description": "In addition to someone or something that has already been mentioned.",
+   "reading": "〜のほかに",
+   "romanization": "~ no hoka ni",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000002289",
+    "english_id": "en:000002289",
+    "from": "core",
+    "core_priority": 1639,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 55
+  },
+  {
+   "id": "ja:x:100056",
+   "text": "〜によって",
+   "kind": "expression",
+   "description": "\"Depending on\" = it changes with.",
+   "reading": "〜によって",
+   "romanization": "~ ni yotte",
+   "level": "C1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000002630",
+    "english_id": "en:000002630",
+    "from": "core",
+    "core_priority": 1779,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 56
+  },
+  {
+   "id": "ja:x:100057",
+   "text": "地下鉄",
+   "kind": "expression",
+   "description": "A subway train.",
+   "reading": "ちかてつ",
+   "romanization": "chikatetsu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003080",
+    "english_id": "en:000003080",
+    "from": "core",
+    "core_priority": 1931
+   },
+   "study_priority": 57
+  },
+  {
+   "id": "ja:x:100058",
+   "text": "〜のそばに",
+   "kind": "expression",
+   "alternatives": [
+    "〜の横に",
+    "〜のそばに"
+   ],
+   "description": "Next to.",
+   "reading": "〜のそばに",
+   "romanization": "~ no soba ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003097",
+    "english_id": "en:000003097",
+    "from": "core",
+    "core_priority": 1936,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 58
+  },
+  {
+   "id": "ja:x:100059",
+   "text": "〜の下に",
+   "kind": "expression",
+   "description": "Under.",
+   "reading": "〜のしたに",
+   "romanization": "~ no shita ni",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003172",
+    "english_id": "en:000003172",
+    "from": "core",
+    "core_priority": 1977,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 59
+  },
+  {
+   "id": "ja:x:100060",
+   "text": "鉛筆削り",
+   "kind": "expression",
+   "description": "A small tool for making pencils sharp.",
+   "reading": "えんぴつけずり",
+   "romanization": "enpitsukezuri",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003255",
+    "english_id": "en:000003255",
+    "from": "core",
+    "core_priority": 1999
+   },
+   "study_priority": 60
+  },
+  {
+   "id": "ja:x:100061",
+   "text": "道を渡る",
+   "kind": "expression",
+   "description": "To go from one side of the street to the other.",
+   "reading": "みちをわたる",
+   "romanization": "michi o wataru",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003258",
+    "english_id": "en:000003258",
+    "from": "core",
+    "core_priority": 2001
+   },
+   "study_priority": 61
+  },
+  {
+   "id": "ja:x:100062",
+   "text": "順番を待つ",
+   "kind": "expression",
+   "description": "To wait until it is your time to do something.",
+   "reading": "じゅんばんをまつ",
+   "romanization": "junban o matsu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003271",
+    "english_id": "en:000003271",
+    "from": "core",
+    "core_priority": 2007
+   },
+   "study_priority": 62
+  },
+  {
+   "id": "ja:x:100063",
+   "text": "先生の話を聞く",
+   "kind": "expression",
+   "description": "To pay attention to what the teacher says.",
+   "reading": "せんせいのはなしをきく",
+   "romanization": "sensei no hanashi o kiku",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003273",
+    "english_id": "en:000003273",
+    "from": "core",
+    "core_priority": 2008
+   },
+   "study_priority": 63
+  },
+  {
+   "id": "ja:x:100064",
+   "text": "革靴",
+   "kind": "expression",
+   "description": "A formal leather shoe.",
+   "reading": "かわぐつ",
+   "romanization": "kawagutsu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003277",
+    "english_id": "en:000003277",
+    "from": "core",
+    "core_priority": 2010
+   },
+   "study_priority": 64
+  },
+  {
+   "id": "ja:x:100065",
+   "text": "左右を見る",
+   "kind": "expression",
+   "description": "To look left and right before crossing a street.",
+   "reading": "さゆうをみる",
+   "romanization": "sayuu o miru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003321",
+    "english_id": "en:000003321",
+    "from": "core",
+    "core_priority": 2018
+   },
+   "study_priority": 65
+  },
+  {
+   "id": "ja:x:100066",
+   "text": "本当のことを言う",
+   "kind": "expression",
+   "description": "To say what really happened.",
+   "reading": "ほんとうのことをいう",
+   "romanization": "hontou no koto o iu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003323",
+    "english_id": "en:000003323",
+    "from": "core",
+    "core_priority": 2019
+   },
+   "study_priority": 66
+  },
+  {
+   "id": "ja:x:100067",
+   "text": "笑い転げる",
+   "kind": "expression",
+   "description": "To laugh a lot.",
+   "reading": "わらいころげる",
+   "romanization": "waraikorogeru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003329",
+    "english_id": "en:000003329",
+    "from": "core",
+    "core_priority": 2020
+   },
+   "study_priority": 67
+  },
+  {
+   "id": "ja:x:100068",
+   "text": "秘密を守る",
+   "kind": "expression",
+   "description": "To not tell others something private.",
+   "reading": "ひみつをまもる",
+   "romanization": "himitsu o mamoru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003331",
+    "english_id": "en:000003331",
+    "from": "core",
+    "core_priority": 2021
+   },
+   "study_priority": 68
+  },
+  {
+   "id": "ja:x:100069",
+   "text": "秘密を話す",
+   "kind": "expression",
+   "description": "To tell someone something private.",
+   "reading": "ひみつをはなす",
+   "romanization": "himitsu o hanasu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003332",
+    "english_id": "en:000003332",
+    "from": "core",
+    "core_priority": 2022
+   },
+   "study_priority": 69
+  },
+  {
+   "id": "ja:x:100070",
+   "text": "バスケをする",
+   "kind": "expression",
+   "description": "To play basketball.",
+   "reading": "バスケをする",
+   "romanization": "basuke o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003339",
+    "english_id": "en:000003339",
+    "from": "core",
+    "core_priority": 2025
+   },
+   "study_priority": 70
+  },
+  {
+   "id": "ja:x:100071",
+   "text": "バレーをする",
+   "kind": "expression",
+   "description": "To play volleyball.",
+   "reading": "バレーをする",
+   "romanization": "baree o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003340",
+    "english_id": "en:000003340",
+    "from": "core",
+    "core_priority": 2026
+   },
+   "study_priority": 71
+  },
+  {
+   "id": "ja:x:100072",
+   "text": "ゲームをする",
+   "kind": "expression",
+   "description": "To play games on a screen.",
+   "reading": "ゲームをする",
+   "romanization": "geemu o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003341",
+    "english_id": "en:000003341",
+    "from": "core",
+    "core_priority": 2027
+   },
+   "study_priority": 72
+  },
+  {
+   "id": "ja:x:100073",
+   "text": "陸上",
+   "kind": "expression",
+   "description": "Sports of running, jumping and throwing.",
+   "reading": "りくじょう",
+   "romanization": "rikujou",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003407",
+    "english_id": "en:000003407",
+    "from": "core",
+    "core_priority": 2036
+   },
+   "study_priority": 73
+  },
+  {
+   "id": "ja:x:100074",
+   "text": "綱引き",
+   "kind": "expression",
+   "description": "A game where two teams pull a rope in opposite directions.",
+   "reading": "つなひき",
+   "romanization": "tsunahiki",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003446",
+    "english_id": "en:000003446",
+    "from": "core",
+    "core_priority": 2053
+   },
+   "study_priority": 74
+  },
+  {
+   "id": "ja:x:100075",
+   "text": "ローラースケートをする",
+   "kind": "expression",
+   "description": "To move on roller skates.",
+   "reading": "ローラースケートをする",
+   "romanization": "rooraasukeeto o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003454",
+    "english_id": "en:000003454",
+    "from": "core",
+    "core_priority": 2057
+   },
+   "study_priority": 75
+  },
+  {
+   "id": "ja:x:100076",
+   "text": "味見する",
+   "kind": "expression",
+   "description": "To try a little of the food to check its flavor.",
+   "reading": "あじみする",
+   "romanization": "ajimi suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003460",
+    "english_id": "en:000003460",
+    "from": "core",
+    "core_priority": 2060
+   },
+   "study_priority": 76
+  },
+  {
+   "id": "ja:x:100077",
+   "text": "テーブルを片付ける",
+   "kind": "expression",
+   "description": "To take dishes away from the table after eating.",
+   "reading": "テーブルをかたづける",
+   "romanization": "teeburu o katazukeru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003461",
+    "english_id": "en:000003461",
+    "from": "core",
+    "core_priority": 2061
+   },
+   "study_priority": 77
+  },
+  {
+   "id": "ja:x:100078",
+   "text": "ペットに餌をやる",
+   "kind": "expression",
+   "description": "To give food to a pet.",
+   "reading": "ペットにえさをやる",
+   "romanization": "petto ni esa o yaru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003468",
+    "english_id": "en:000003468",
+    "from": "core",
+    "core_priority": 2063
+   },
+   "study_priority": 78
+  },
+  {
+   "id": "ja:x:100079",
+   "text": "ラジオを聴く",
+   "kind": "expression",
+   "description": "To listen to the radio.",
+   "reading": "ラジオをきく",
+   "romanization": "rajio o kiku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003471",
+    "english_id": "en:000003471",
+    "from": "core",
+    "core_priority": 2064
+   },
+   "study_priority": 79
+  },
+  {
+   "id": "ja:x:100080",
+   "text": "ネットをする",
+   "kind": "expression",
+   "description": "To look at websites on the internet.",
+   "reading": "ネットをする",
+   "romanization": "netto o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003472",
+    "english_id": "en:000003472",
+    "from": "core",
+    "core_priority": 2065
+   },
+   "study_priority": 80
+  },
+  {
+   "id": "ja:x:100081",
+   "text": "動画を撮る",
+   "kind": "expression",
+   "description": "To record a video.",
+   "reading": "どうがをとる",
+   "romanization": "douga o toru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003474",
+    "english_id": "en:000003474",
+    "from": "core",
+    "core_priority": 2066
+   },
+   "study_priority": 81
+  },
+  {
+   "id": "ja:x:100082",
+   "text": "ピアノを弾く",
+   "kind": "expression",
+   "description": "To play the piano.",
+   "reading": "ピアノをひく",
+   "romanization": "piano o hiku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003475",
+    "english_id": "en:000003475",
+    "from": "core",
+    "core_priority": 2067
+   },
+   "study_priority": 82
+  },
+  {
+   "id": "ja:x:100083",
+   "text": "ギターを弾く",
+   "kind": "expression",
+   "description": "To play the guitar.",
+   "reading": "ギターをひく",
+   "romanization": "gitaa o hiku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003476",
+    "english_id": "en:000003476",
+    "from": "core",
+    "core_priority": 2068
+   },
+   "study_priority": 83
+  },
+  {
+   "id": "ja:x:100084",
+   "text": "笛を吹く",
+   "kind": "expression",
+   "alternatives": [
+    "フルートを吹く"
+   ],
+   "description": "To play the flute.",
+   "reading": "ふえをふく",
+   "romanization": "fue o fuku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003477",
+    "english_id": "en:000003477",
+    "from": "core",
+    "core_priority": 2069
+   },
+   "study_priority": 84
+  },
+  {
+   "id": "ja:x:100085",
+   "text": "ドラムを叩く",
+   "kind": "expression",
+   "description": "To play the drums.",
+   "reading": "ドラムをたたく",
+   "romanization": "doramu o tataku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003478",
+    "english_id": "en:000003478",
+    "from": "core",
+    "core_priority": 2070
+   },
+   "study_priority": 85
+  },
+  {
+   "id": "ja:x:100086",
+   "text": "後片付けをする",
+   "kind": "expression",
+   "description": "To clean up a mess.",
+   "reading": "あとかたづけをする",
+   "romanization": "atokatazuke o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003484",
+    "english_id": "en:000003484",
+    "from": "core",
+    "core_priority": 2073
+   },
+   "study_priority": 86
+  },
+  {
+   "id": "ja:x:100087",
+   "text": "親の言うことを聞く",
+   "kind": "expression",
+   "description": "To listen to your parents.",
+   "reading": "おやのいうことをきく",
+   "romanization": "oya no iu koto o kiku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003487",
+    "english_id": "en:000003487",
+    "from": "core",
+    "core_priority": 2074
+   },
+   "study_priority": 87
+  },
+  {
+   "id": "ja:x:100088",
+   "text": "ルールを守る",
+   "kind": "expression",
+   "description": "To do what the rules say.",
+   "reading": "ルールをまもる",
+   "romanization": "ruuru o mamoru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003488",
+    "english_id": "en:000003488",
+    "from": "core",
+    "core_priority": 2075
+   },
+   "study_priority": 88
+  },
+  {
+   "id": "ja:x:100089",
+   "text": "時間通りに着く",
+   "kind": "expression",
+   "description": "To arrive at the planned time.",
+   "reading": "じかんどおりにつく",
+   "romanization": "jikan doori ni tsuku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003489",
+    "english_id": "en:000003489",
+    "from": "core",
+    "core_priority": 2076
+   },
+   "study_priority": 89
+  },
+  {
+   "id": "ja:x:100090",
+   "text": "宝の地図",
+   "kind": "expression",
+   "description": "A map showing where treasure is hidden.",
+   "reading": "たからのちず",
+   "romanization": "takara no chizu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003504",
+    "english_id": "en:000003504",
+    "from": "core",
+    "core_priority": 2083
+   },
+   "study_priority": 90
+  },
+  {
+   "id": "ja:x:100091",
+   "text": "桜",
+   "kind": "expression",
+   "description": "The pink or white flower of the cherry tree.",
+   "reading": "さくら",
+   "romanization": "sakura",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003523",
+    "english_id": "en:000003523",
+    "from": "core",
+    "core_priority": 2097
+   },
+   "study_priority": 91
+  },
+  {
+   "id": "ja:x:100092",
+   "text": "女王蜂",
+   "kind": "expression",
+   "description": "The female bee that lays eggs.",
+   "reading": "じょおうばち",
+   "romanization": "jooubachi",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003529",
+    "english_id": "en:000003529",
+    "from": "core",
+    "core_priority": 2102
+   },
+   "study_priority": 92
+  },
+  {
+   "id": "ja:x:100093",
+   "text": "鳥の卵",
+   "kind": "expression",
+   "description": "An egg laid by a bird.",
+   "reading": "とりのたまご",
+   "romanization": "tori no tamago",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003533",
+    "english_id": "en:000003533",
+    "from": "core",
+    "core_priority": 2104
+   },
+   "study_priority": 93
+  },
+  {
+   "id": "ja:x:100094",
+   "text": "人形劇",
+   "kind": "expression",
+   "description": "A show with puppets.",
+   "reading": "にんぎょうげき",
+   "romanization": "ningyougeki",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003560",
+    "english_id": "en:000003560",
+    "from": "core",
+    "core_priority": 2119
+   },
+   "study_priority": 94
+  },
+  {
+   "id": "ja:x:100095",
+   "text": "太陽系",
+   "kind": "expression",
+   "description": "The sun and the planets that move around it.",
+   "reading": "たいようけい",
+   "romanization": "taiyoukei",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003624",
+    "english_id": "en:000003624",
+    "from": "core",
+    "core_priority": 2124
+   },
+   "study_priority": 95
+  },
+  {
+   "id": "ja:x:100096",
+   "text": "人権",
+   "kind": "expression",
+   "description": "Basic rights that every person has.",
+   "reading": "じんけん",
+   "romanization": "jinken",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003663",
+    "english_id": "en:000003663",
+    "from": "core",
+    "core_priority": 2141
+   },
+   "study_priority": 96
+  },
+  {
+   "id": "ja:x:100097",
+   "text": "空軍",
+   "kind": "expression",
+   "description": "The military branch that uses aircraft.",
+   "reading": "くうぐん",
+   "romanization": "kuugun",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003664",
+    "english_id": "en:000003664",
+    "from": "core",
+    "core_priority": 2142
+   },
+   "study_priority": 97
+  },
+  {
+   "id": "ja:x:100098",
+   "text": "世界地図",
+   "kind": "expression",
+   "description": "A map of the whole world.",
+   "reading": "せかいちず",
+   "romanization": "sekaichizu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003697",
+    "english_id": "en:000003697",
+    "from": "core",
+    "core_priority": 2158
+   },
+   "study_priority": 98
+  },
+  {
+   "id": "ja:x:100099",
+   "text": "海流",
+   "kind": "expression",
+   "description": "A steady flow of water in the ocean.",
+   "reading": "かいりゅう",
+   "romanization": "kairyuu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003732",
+    "english_id": "en:000003732",
+    "from": "core",
+    "core_priority": 2169
+   },
+   "study_priority": 99
+  },
+  {
+   "id": "ja:x:100100",
+   "text": "芸術作品",
+   "kind": "expression",
+   "description": "A painting, sculpture or other creation of art.",
+   "reading": "げいじゅつさくひん",
+   "romanization": "geijutsusakuhin",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003760",
+    "english_id": "en:000003760",
+    "from": "core",
+    "core_priority": 2175
+   },
+   "study_priority": 100
+  },
+  {
+   "id": "ja:x:100101",
+   "text": "発電所",
+   "kind": "expression",
+   "description": "A factory that produces electricity.",
+   "reading": "はつでんしょ",
+   "romanization": "hatsudensho",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003805",
+    "english_id": "en:000003805",
+    "from": "core",
+    "core_priority": 2203
+   },
+   "study_priority": 101
+  },
+  {
+   "id": "ja:x:100102",
+   "text": "風力エネルギー",
+   "kind": "expression",
+   "description": "Energy produced from wind.",
+   "reading": "ふうりょくエネルギー",
+   "romanization": "fuuryokuenerugii",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003806",
+    "english_id": "en:000003806",
+    "from": "core",
+    "core_priority": 2204
+   },
+   "study_priority": 102
+  },
+  {
+   "id": "ja:x:100103",
+   "text": "水力エネルギー",
+   "kind": "expression",
+   "description": "Energy produced from moving water.",
+   "reading": "すいりょくエネルギー",
+   "romanization": "suiryokuenerugii",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003807",
+    "english_id": "en:000003807",
+    "from": "core",
+    "core_priority": 2205
+   },
+   "study_priority": 103
+  },
+  {
+   "id": "ja:x:100104",
+   "text": "天然ガス",
+   "kind": "expression",
+   "description": "Gas from the ground used as fuel.",
+   "reading": "てんねんガス",
+   "romanization": "tennengasu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003810",
+    "english_id": "en:000003810",
+    "from": "core",
+    "core_priority": 2208
+   },
+   "study_priority": 104
+  },
+  {
+   "id": "ja:x:100105",
+   "text": "天気予報",
+   "kind": "expression",
+   "description": "A prediction of the weather.",
+   "reading": "てんきよほう",
+   "romanization": "tenkiyohou",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003914",
+    "english_id": "en:000003914",
+    "from": "core",
+    "core_priority": 2248
+   },
+   "study_priority": 105
+  },
+  {
+   "id": "ja:x:100106",
+   "text": "少し",
+   "kind": "expression",
+   "alternatives": [
+    "ちょっと"
+   ],
+   "description": "A small amount.",
+   "reading": "すこし",
+   "romanization": "sukoshi",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003920",
+    "english_id": "en:000003920",
+    "from": "core",
+    "core_priority": 2253
+   },
+   "study_priority": 106
+  },
+  {
+   "id": "ja:x:100107",
+   "text": "少なくとも",
+   "kind": "expression",
+   "description": "Not less than; at minimum.",
+   "reading": "すくなくとも",
+   "romanization": "sukunakutomo",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003931",
+    "english_id": "en:000003931",
+    "from": "core",
+    "core_priority": 2261
+   },
+   "study_priority": 107
+  },
+  {
+   "id": "ja:x:100108",
+   "text": "残り",
+   "kind": "expression",
+   "description": "What remains; the other part.",
+   "reading": "のこり",
+   "romanization": "nokori",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003943",
+    "english_id": "en:000003943",
+    "from": "core",
+    "core_priority": 2268
+   },
+   "study_priority": 108
+  },
+  {
+   "id": "ja:x:100109",
+   "text": "例えば",
+   "kind": "expression",
+   "description": "Used to give an example.",
+   "reading": "たとえば",
+   "romanization": "tatoeba",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003949",
+    "english_id": "en:000003949",
+    "from": "core",
+    "core_priority": 2273
+   },
+   "study_priority": 109
+  },
+  {
+   "id": "ja:x:100110",
+   "text": "セール中",
+   "kind": "expression",
+   "description": "Sold at a lower price.",
+   "reading": "セールちゅう",
+   "romanization": "seeruchuu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003970",
+    "english_id": "en:000003970",
+    "from": "core",
+    "core_priority": 2285
+   },
+   "study_priority": 110
+  },
+  {
+   "id": "ja:x:100111",
+   "text": "大文字",
+   "kind": "expression",
+   "description": "A big letter, such as A, B, C.",
+   "reading": "おおもじ",
+   "romanization": "oomoji",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003973",
+    "english_id": "en:000003973",
+    "from": "core",
+    "core_priority": 2286
+   },
+   "study_priority": 111
+  },
+  {
+   "id": "ja:x:100112",
+   "text": "携帯",
+   "kind": "expression",
+   "alternatives": [
+    "携帯電話",
+    "スマホ"
+   ],
+   "description": "A mobile phone.",
+   "reading": "けいたい",
+   "romanization": "keitai",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003994",
+    "english_id": "en:000003994",
+    "from": "core",
+    "core_priority": 2301
+   },
+   "study_priority": 112
+  },
+  {
+   "id": "ja:x:100113",
+   "text": "私も〜ない",
+   "kind": "expression",
+   "description": "Not me either (agreeing with a negative).",
+   "reading": "わたしも〜ない",
+   "romanization": "watashi mo ~ nai",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004014",
+    "english_id": "en:000004014",
+    "from": "core",
+    "core_priority": 2314
+   },
+   "study_priority": 113
+  },
+  {
+   "id": "ja:x:100114",
+   "text": "かき混ぜる",
+   "kind": "expression",
+   "description": "To mix food in a pot with a spoon.",
+   "reading": "かきまぜる",
+   "romanization": "kakimazeru",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004104",
+    "english_id": "en:000004104",
+    "from": "core",
+    "core_priority": 2367
+   },
+   "study_priority": 114
+  },
+  {
+   "id": "ja:x:100115",
+   "text": "正解",
+   "kind": "expression",
+   "description": "An answer that is right.",
+   "reading": "せいかい",
+   "romanization": "seikai",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004109",
+    "english_id": "en:000004109",
+    "from": "core",
+    "core_priority": 2372
+   },
+   "study_priority": 115
+  },
+  {
+   "id": "ja:x:100116",
+   "text": "連続ドラマ",
+   "kind": "expression",
+   "alternatives": [
+    "ドラマ"
+   ],
+   "description": "A TV drama series about daily lives.",
+   "reading": "れんぞくドラマ",
+   "romanization": "renzokudorama",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004110",
+    "english_id": "en:000004110",
+    "from": "core",
+    "core_priority": 2373
+   },
+   "study_priority": 116
+  },
+  {
+   "id": "ja:x:100117",
+   "text": "ドラム",
+   "kind": "expression",
+   "description": "A set of drums played by one person.",
+   "reading": "ドラム",
+   "romanization": "doramu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004122",
+    "english_id": "en:000004122",
+    "from": "core",
+    "core_priority": 2385
+   },
+   "study_priority": 117
+  },
+  {
+   "id": "ja:x:100118",
+   "text": "〜したものだ",
+   "kind": "expression",
+   "description": "\"Used to\": did regularly in the past (nostalgic).",
+   "reading": "〜したものだ",
+   "romanization": "~ shita mono da",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000150",
+    "english_id": "en:000000150",
+    "from": "core",
+    "core_priority": 2392,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 118
+  },
+  {
+   "id": "ja:x:100119",
+   "text": "〜の資格がある",
+   "kind": "expression",
+   "description": "Having the right to something.",
+   "reading": "〜のしかくがある",
+   "romanization": "~ no shikaku ga aru",
+   "level": "C2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000002900",
+    "english_id": "en:000002900",
+    "from": "core",
+    "core_priority": 2719,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 119
+  },
+  {
+   "id": "ja:x:100120",
+   "text": "貯金する",
+   "kind": "expression",
+   "description": "To keep money instead of spending it.",
+   "reading": "ちょきんする",
+   "romanization": "chokin suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003383",
+    "english_id": "en:000003383",
+    "from": "core",
+    "core_priority": 2738
+   },
+   "study_priority": 120
+  },
+  {
+   "id": "ja:x:100121",
+   "text": "速く走る",
+   "kind": "expression",
+   "description": "To run quickly.",
+   "reading": "はやくはしる",
+   "romanization": "hayaku hashiru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003412",
+    "english_id": "en:000003412",
+    "from": "core",
+    "core_priority": 2739
+   },
+   "study_priority": 121
+  },
+  {
+   "id": "ja:x:100122",
+   "text": "ボールを取る",
+   "kind": "expression",
+   "description": "To take hold of a ball thrown to you.",
+   "reading": "ボールをとる",
+   "romanization": "booru o toru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003413",
+    "english_id": "en:000003413",
+    "from": "core",
+    "core_priority": 2740
+   },
+   "study_priority": 122
+  },
+  {
+   "id": "ja:x:100123",
+   "text": "凧揚げをする",
+   "kind": "expression",
+   "description": "To make a kite fly in the wind.",
+   "reading": "たこあげをする",
+   "romanization": "takoage o suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003448",
+    "english_id": "en:000003448",
+    "from": "core",
+    "core_priority": 2741
+   },
+   "study_priority": 123
+  },
+  {
+   "id": "ja:x:100124",
+   "text": "ビー玉で遊ぶ",
+   "kind": "expression",
+   "description": "To play a game with small glass balls.",
+   "reading": "ビーだまであそぶ",
+   "romanization": "biidama de asobu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003449",
+    "english_id": "en:000003449",
+    "from": "core",
+    "core_priority": 2742
+   },
+   "study_priority": 124
+  },
+  {
+   "id": "ja:x:100125",
+   "text": "液体の水",
+   "kind": "expression",
+   "description": "Water in its liquid state.",
+   "reading": "えきたいのみず",
+   "romanization": "ekitai no mizu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003605",
+    "english_id": "en:000003605",
+    "from": "core",
+    "core_priority": 2789
+   },
+   "study_priority": 125
+  },
+  {
+   "id": "ja:x:100126",
+   "text": "ドライアイス",
+   "kind": "expression",
+   "description": "Frozen carbon dioxide.",
+   "reading": "ドライアイス",
+   "romanization": "doraiaisu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003606",
+    "english_id": "en:000003606",
+    "from": "core",
+    "core_priority": 2790
+   },
+   "study_priority": 126
+  },
+  {
+   "id": "ja:x:100127",
+   "text": "化学反応",
+   "kind": "expression",
+   "description": "A process that changes substances into new ones.",
+   "reading": "かがくはんのう",
+   "romanization": "kagakuhannou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003618",
+    "english_id": "en:000003618",
+    "from": "core",
+    "core_priority": 2801
+   },
+   "study_priority": 127
+  },
+  {
+   "id": "ja:x:100128",
+   "text": "学術誌",
+   "kind": "expression",
+   "description": "A publication of scientific articles.",
+   "reading": "がくじゅつし",
+   "romanization": "gakujutsushi",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003675",
+    "english_id": "en:000003675",
+    "from": "core",
+    "core_priority": 2814
+   },
+   "study_priority": 128
+  },
+  {
+   "id": "ja:x:100129",
+   "text": "金融市場",
+   "kind": "expression",
+   "description": "The system where money and investments are traded.",
+   "reading": "きんゆうしじょう",
+   "romanization": "kin'yuushijou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003782",
+    "english_id": "en:000003782",
+    "from": "core",
+    "core_priority": 2844
+   },
+   "study_priority": 129
+  },
+  {
+   "id": "ja:x:100130",
+   "text": "証券取引所",
+   "kind": "expression",
+   "description": "A place where shares of companies are bought and sold.",
+   "reading": "しょうけんとりひきじょ",
+   "romanization": "shoukentorihikijo",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003783",
+    "english_id": "en:000003783",
+    "from": "core",
+    "core_priority": 2845
+   },
+   "study_priority": 130
+  },
+  {
+   "id": "ja:x:100131",
+   "text": "食物連鎖",
+   "kind": "expression",
+   "description": "The series of who eats whom in nature.",
+   "reading": "しょくもつれんさ",
+   "romanization": "shokumotsurensa",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003822",
+    "english_id": "en:000003822",
+    "from": "core",
+    "core_priority": 2860
+   },
+   "study_priority": 131
+  },
+  {
+   "id": "ja:x:100132",
+   "text": "生活の質",
+   "kind": "expression",
+   "description": "How good a person's life and health are.",
+   "reading": "せいかつのしつ",
+   "romanization": "seikatsu no shitsu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003866",
+    "english_id": "en:000003866",
+    "from": "core",
+    "core_priority": 2877
+   },
+   "study_priority": 132
+  },
+  {
+   "id": "ja:x:100133",
+   "text": "太陽エネルギー",
+   "kind": "expression",
+   "description": "Energy from sunlight.",
+   "reading": "たいようエネルギー",
+   "romanization": "taiyouenerugii",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004149",
+    "english_id": "en:000004149",
+    "from": "core",
+    "core_priority": 2927
+   },
+   "study_priority": 133
+  },
+  {
+   "id": "ja:x:100134",
+   "text": "連続で",
+   "kind": "expression",
+   "description": "One after another without a break (three days in a row).",
+   "reading": "れんぞくで",
+   "romanization": "renzoku de",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000576",
+    "english_id": "en:000000576",
+    "from": "core",
+    "core_priority": 2945
+   },
+   "study_priority": 134
+  },
+  {
+   "id": "ja:x:100135",
+   "text": "考える",
+   "kind": "expression",
+   "description": "To consider something carefully before deciding.",
+   "reading": "かんがえる",
+   "romanization": "kangaeru",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000001705",
+    "english_id": "en:000001705",
+    "from": "core",
+    "core_priority": 2975
+   },
+   "study_priority": 135
+  },
+  {
+   "id": "ja:x:100136",
+   "text": "たくさん",
+   "kind": "expression",
+   "description": "A large amount or number.",
+   "reading": "たくさん",
+   "romanization": "takusan",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000002488",
+    "english_id": "en:000002488",
+    "from": "core",
+    "core_priority": 3010
+   },
+   "study_priority": 136
+  },
+  {
+   "id": "ja:x:100137",
+   "text": "仲直りする",
+   "kind": "expression",
+   "description": "To become friends again after an argument.",
+   "reading": "なかなおりする",
+   "romanization": "nakanaori suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003330",
+    "english_id": "en:000003330",
+    "from": "core",
+    "core_priority": 3030
+   },
+   "study_priority": 137
+  },
+  {
+   "id": "ja:x:100138",
+   "text": "持ち帰り",
+   "kind": "expression",
+   "description": "Food bought to eat at home.",
+   "reading": "もちかえり",
+   "romanization": "mochikaeri",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003054",
+    "english_id": "en:000003054",
+    "from": "core",
+    "core_priority": 3039
+   },
+   "study_priority": 138
+  },
+  {
+   "id": "ja:x:100139",
+   "text": "名曲",
+   "kind": "expression",
+   "description": "A very good song.",
+   "reading": "めいきょく",
+   "romanization": "meikyoku",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003068",
+    "english_id": "en:000003068",
+    "from": "core",
+    "core_priority": 3040
+   },
+   "study_priority": 139
+  },
+  {
+   "id": "ja:x:100140",
+   "text": "卵色",
+   "kind": "expression",
+   "description": "A strong warm yellow like the yolk of an egg.",
+   "reading": "たまごいろ",
+   "romanization": "tamagoiro",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003233",
+    "english_id": "en:000003233",
+    "from": "core",
+    "core_priority": 3041
+   },
+   "study_priority": 140
+  },
+  {
+   "id": "ja:x:100141",
+   "text": "カンフー",
+   "kind": "expression",
+   "description": "A Chinese martial art.",
+   "reading": "カンフー",
+   "romanization": "kanfuu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003409",
+    "english_id": "en:000003409",
+    "from": "core",
+    "core_priority": 3042
+   },
+   "study_priority": 141
+  },
+  {
+   "id": "ja:x:100142",
+   "text": "旧正月",
+   "kind": "expression",
+   "description": "The festival of the lunar New Year.",
+   "reading": "きゅうしょうがつ",
+   "romanization": "kyuushougatsu",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003566",
+    "english_id": "en:000003566",
+    "from": "core",
+    "core_priority": 3047
+   },
+   "study_priority": 142
+  },
+  {
+   "id": "ja:x:100143",
+   "text": "インド洋",
+   "kind": "expression",
+   "description": "The ocean south of Asia.",
+   "reading": "インドよう",
+   "romanization": "indoyou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003735",
+    "english_id": "en:000003735",
+    "from": "core",
+    "core_priority": 3051
+   },
+   "study_priority": 143
+  },
+  {
+   "id": "ja:x:100144",
+   "text": "北極海",
+   "kind": "expression",
+   "description": "The ocean around the North Pole.",
+   "reading": "ほっきょくかい",
+   "romanization": "hokkyokukai",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003736",
+    "english_id": "en:000003736",
+    "from": "core",
+    "core_priority": 3052
+   },
+   "study_priority": 144
+  },
+  {
+   "id": "ja:x:100145",
+   "text": "南極海",
+   "kind": "expression",
+   "description": "The ocean around Antarctica.",
+   "reading": "なんきょくかい",
+   "romanization": "nankyokukai",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003737",
+    "english_id": "en:000003737",
+    "from": "core",
+    "core_priority": 3053
+   },
+   "study_priority": 145
+  },
+  {
+   "id": "ja:x:100146",
+   "text": "何でも",
+   "kind": "expression",
+   "description": "Any thing at all.",
+   "reading": "なんでも",
+   "romanization": "nan demo",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000000244",
+    "english_id": "en:000000244",
+    "from": "core",
+    "core_priority": 3092,
+    "reason": "composite-headword (owner triage 28/11/2026)"
+   },
+   "study_priority": 146
+  },
+  {
+   "id": "ja:x:100147",
+   "text": "地下鉄",
+   "kind": "expression",
+   "description": "An underground train system.",
+   "reading": "ちかてつ",
+   "romanization": "chikatetsu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003079",
+    "english_id": "en:000003079",
+    "from": "core",
+    "core_priority": 3152
+   },
+   "study_priority": 147
+  },
+  {
+   "id": "ja:x:100148",
+   "text": "公園で遊ぶ",
+   "kind": "expression",
+   "description": "To play at the park.",
+   "reading": "こうえんであそぶ",
+   "romanization": "kouen de asobu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003469",
+    "english_id": "en:000003469",
+    "from": "core",
+    "core_priority": 3153
+   },
+   "study_priority": 148
+  },
+  {
+   "id": "ja:x:100149",
+   "text": "現金化する",
+   "kind": "expression",
+   "description": "To turn into cash.",
+   "reading": "げんきんかする",
+   "romanization": "genkinka suru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003091",
+    "english_id": "en:000003091",
+    "from": "core",
+    "core_priority": 3160
+   },
+   "study_priority": 149
+  },
+  {
+   "id": "ja:x:100150",
+   "text": "宙に描く",
+   "kind": "expression",
+   "description": "To draw shapes in the air with your finger.",
+   "reading": "ちゅうにえがく",
+   "romanization": "chuu ni egaku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003334",
+    "english_id": "en:000003334",
+    "from": "core",
+    "core_priority": 3163
+   },
+   "study_priority": 150
+  },
+  {
+   "id": "ja:x:100151",
+   "text": "海で泳ぐ",
+   "kind": "expression",
+   "description": "To swim in the sea.",
+   "reading": "うみでおよぐ",
+   "romanization": "umi de oyogu",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003455",
+    "english_id": "en:000003455",
+    "from": "core",
+    "core_priority": 3165
+   },
+   "study_priority": 151
+  },
+  {
+   "id": "ja:x:100152",
+   "text": "魔法の城",
+   "kind": "expression",
+   "description": "A castle in a fairy tale.",
+   "reading": "まほうのしろ",
+   "romanization": "mahou no shiro",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003497",
+    "english_id": "en:000003497",
+    "from": "core",
+    "core_priority": 3166
+   },
+   "study_priority": 152
+  },
+  {
+   "id": "ja:x:100153",
+   "text": "小さな農場",
+   "kind": "expression",
+   "description": "A small country property or farm.",
+   "reading": "ちいさなのうじょう",
+   "romanization": "chiisananoujou",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000004100",
+    "english_id": "en:000004100",
+    "from": "core",
+    "core_priority": 3171
+   },
+   "study_priority": 153
+  },
+  {
+   "id": "ja:x:100154",
+   "text": "また今度",
+   "kind": "expression",
+   "description": "A promise to accept an invitation at a later time.",
+   "reading": "またこんど",
+   "romanization": "mata kondo",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003090",
+    "english_id": "en:000003090",
+    "from": "core",
+    "core_priority": 3330
+   },
+   "study_priority": 154
+  },
+  {
+   "id": "ja:x:100155",
+   "text": "リュック",
+   "kind": "expression",
+   "description": "A large bag carried on the back when traveling.",
+   "reading": "リュック",
+   "romanization": "ryukku",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003436",
+    "english_id": "en:000003436",
+    "from": "core",
+    "core_priority": 3331
+   },
+   "study_priority": 155
+  },
+  {
+   "id": "ja:x:100156",
+   "text": "ドル",
+   "kind": "expression",
+   "description": "Dollars (informal).",
+   "reading": "ドル",
+   "romanization": "doru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003001",
+    "english_id": "en:000003001",
+    "from": "core",
+    "core_priority": 3343
+   },
+   "study_priority": 156
+  },
+  {
+   "id": "ja:x:100157",
+   "text": "大丈夫",
+   "kind": "expression",
+   "description": "It is fine; no problem.",
+   "reading": "だいじょうぶ",
+   "romanization": "daijoubu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003011",
+    "english_id": "en:000003011",
+    "from": "core",
+    "core_priority": 3344
+   },
+   "study_priority": 157
+  },
+  {
+   "id": "ja:x:100158",
+   "text": "元気？",
+   "kind": "expression",
+   "description": "How are you?",
+   "reading": "げんき？",
+   "romanization": "genki?",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003012",
+    "english_id": "en:000003012",
+    "from": "core",
+    "core_priority": 3345
+   },
+   "study_priority": 158
+  },
+  {
+   "id": "ja:x:100159",
+   "text": "遊ぶ",
+   "kind": "expression",
+   "description": "To spend time with friends.",
+   "reading": "あそぶ",
+   "romanization": "asobu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003013",
+    "english_id": "en:000003013",
+    "from": "core",
+    "core_priority": 3346
+   },
+   "study_priority": 159
+  },
+  {
+   "id": "ja:x:100160",
+   "text": "軽く食べる",
+   "kind": "expression",
+   "description": "To eat something quickly.",
+   "reading": "かるくたべる",
+   "romanization": "karuku taberu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003014",
+    "english_id": "en:000003014",
+    "from": "core",
+    "core_priority": 3347
+   },
+   "study_priority": 160
+  },
+  {
+   "id": "ja:x:100161",
+   "text": "もうくたくた",
+   "kind": "expression",
+   "description": "Very tired.",
+   "reading": "もうくたくた",
+   "romanization": "mou kutakuta",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003015",
+    "english_id": "en:000003015",
+    "from": "core",
+    "core_priority": 3348
+   },
+   "study_priority": 161
+  },
+  {
+   "id": "ja:x:100162",
+   "text": "ごめん、私のせい",
+   "kind": "expression",
+   "description": "\"My mistake.\"",
+   "reading": "ごめん、わたしのせい",
+   "romanization": "gomen, watashi no sei",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003016",
+    "english_id": "en:000003016",
+    "from": "core",
+    "core_priority": 3349
+   },
+   "study_priority": 162
+  },
+  {
+   "id": "ja:x:100163",
+   "text": "また今度にする",
+   "kind": "expression",
+   "description": "To say no for now, maybe later.",
+   "reading": "またこんどにする",
+   "romanization": "mata kondo ni suru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003026",
+    "english_id": "en:000003026",
+    "from": "core",
+    "core_priority": 3353
+   },
+   "study_priority": 163
+  },
+  {
+   "id": "ja:x:100164",
+   "text": "うわさ話をする",
+   "kind": "expression",
+   "description": "To tell gossip.",
+   "reading": "うわさばなしをする",
+   "romanization": "uwasabanashi o suru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003027",
+    "english_id": "en:000003027",
+    "from": "core",
+    "core_priority": 3354
+   },
+   "study_priority": 164
+  },
+  {
+   "id": "ja:x:100165",
+   "text": "ひそかに",
+   "kind": "expression",
+   "description": "Secretly.",
+   "reading": "ひそかに",
+   "romanization": "hisoka ni",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003028",
+    "english_id": "en:000003028",
+    "from": "core",
+    "core_priority": 3355
+   },
+   "study_priority": 165
+  },
+  {
+   "id": "ja:x:100166",
+   "text": "急に連絡を絶つ",
+   "kind": "expression",
+   "alternatives": [
+    "既読無視する"
+   ],
+   "description": "To stop answering someone suddenly.",
+   "reading": "きゅうにれんらくをたつ",
+   "romanization": "kyuu ni renraku o tatsu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003030",
+    "english_id": "en:000003030",
+    "from": "core",
+    "core_priority": 3357
+   },
+   "study_priority": 166
+  },
+  {
+   "id": "ja:x:100167",
+   "text": "見せびらかす",
+   "kind": "expression",
+   "description": "To show off.",
+   "reading": "みせびらかす",
+   "romanization": "misebirakasu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003031",
+    "english_id": "en:000003031",
+    "from": "core",
+    "core_priority": 3358
+   },
+   "study_priority": 167
+  },
+  {
+   "id": "ja:x:100168",
+   "text": "ムカついてる",
+   "kind": "expression",
+   "description": "To hold a grudge.",
+   "reading": "ムカついてる",
+   "romanization": "mukatsuiteru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003032",
+    "english_id": "en:000003032",
+    "from": "core",
+    "core_priority": 3359
+   },
+   "study_priority": 168
+  },
+  {
+   "id": "ja:x:100169",
+   "text": "本物の",
+   "kind": "expression",
+   "description": "Real; genuine.",
+   "reading": "ほんものの",
+   "romanization": "honmono no",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003033",
+    "english_id": "en:000003033",
+    "from": "core",
+    "core_priority": 3360
+   },
+   "study_priority": 169
+  },
+  {
+   "id": "ja:x:100170",
+   "text": "最高に盛り上がってる",
+   "kind": "expression",
+   "description": "Very exciting and fun.",
+   "reading": "さいこうにもりあがってる",
+   "romanization": "saikou ni moriagatteru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003035",
+    "english_id": "en:000003035",
+    "from": "core",
+    "core_priority": 3361
+   },
+   "study_priority": 170
+  },
+  {
+   "id": "ja:x:100171",
+   "text": "怪しい",
+   "kind": "expression",
+   "description": "Suspicious (slang).",
+   "reading": "あやしい",
+   "romanization": "ayashii",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003036",
+    "english_id": "en:000003036",
+    "from": "core",
+    "core_priority": 3362
+   },
+   "study_priority": 171
+  },
+  {
+   "id": "ja:x:100172",
+   "text": "ガチで",
+   "kind": "expression",
+   "description": "Seriously; for real.",
+   "reading": "ガチで",
+   "romanization": "gachi de",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003038",
+    "english_id": "en:000003038",
+    "from": "core",
+    "core_priority": 3363
+   },
+   "study_priority": 172
+  },
+  {
+   "id": "ja:x:100173",
+   "text": "仲間",
+   "kind": "expression",
+   "description": "A close group of friends.",
+   "reading": "なかま",
+   "romanization": "nakama",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003040",
+    "english_id": "en:000003040",
+    "from": "core",
+    "core_priority": 3364
+   },
+   "study_priority": 173
+  },
+  {
+   "id": "ja:x:100174",
+   "text": "兄弟",
+   "kind": "expression",
+   "description": "Brother; a friend (slang).",
+   "reading": "きょうだい",
+   "romanization": "kyoudai",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003041",
+    "english_id": "en:000003041",
+    "from": "core",
+    "core_priority": 3365
+   },
+   "study_priority": 174
+  },
+  {
+   "id": "ja:x:100175",
+   "text": "お腹がすいてイライラする",
+   "kind": "expression",
+   "description": "Angry because you are hungry.",
+   "reading": "おなかがすいていらいらする",
+   "romanization": "onaka ga suite iraira suru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003043",
+    "english_id": "en:000003043",
+    "from": "core",
+    "core_priority": 3366
+   },
+   "study_priority": 175
+  },
+  {
+   "id": "ja:x:100176",
+   "text": "泊まる",
+   "kind": "expression",
+   "description": "To stay at someone's home for a night.",
+   "reading": "とまる",
+   "romanization": "tomaru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003044",
+    "english_id": "en:000003044",
+    "from": "core",
+    "core_priority": 3367
+   },
+   "study_priority": 176
+  },
+  {
+   "id": "ja:x:100177",
+   "text": "出発する",
+   "kind": "expression",
+   "description": "To leave on a trip.",
+   "reading": "しゅっぱつする",
+   "romanization": "shuppatsu suru",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003045",
+    "english_id": "en:000003045",
+    "from": "core",
+    "core_priority": 3368
+   },
+   "study_priority": 177
+  },
+  {
+   "id": "ja:x:100178",
+   "text": "朝飯前",
+   "kind": "expression",
+   "description": "Very easy.",
+   "reading": "あさめしまえ",
+   "romanization": "asameshimae",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003046",
+    "english_id": "en:000003046",
+    "from": "core",
+    "core_priority": 3369
+   },
+   "study_priority": 178
+  },
+  {
+   "id": "ja:x:100179",
+   "text": "頑張って",
+   "kind": "expression",
+   "description": "Do your best.",
+   "reading": "がんばって",
+   "romanization": "ganbatte",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003047",
+    "english_id": "en:000003047",
+    "from": "core",
+    "core_priority": 3370
+   },
+   "study_priority": 179
+  },
+  {
+   "id": "ja:x:100180",
+   "text": "体調がよくない",
+   "kind": "expression",
+   "description": "Feeling a little sick.",
+   "reading": "たいちょうがよくない",
+   "romanization": "taichou ga yokunai",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003048",
+    "english_id": "en:000003048",
+    "from": "core",
+    "core_priority": 3371
+   },
+   "study_priority": 180
+  },
+  {
+   "id": "ja:x:100181",
+   "text": "ちょっと待って",
+   "kind": "expression",
+   "description": "\"Wait a second, please.\"",
+   "reading": "ちょっとまって",
+   "romanization": "chotto matte",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003049",
+    "english_id": "en:000003049",
+    "from": "core",
+    "core_priority": 3372
+   },
+   "study_priority": 181
+  },
+  {
+   "id": "ja:x:100182",
+   "text": "私のおごり",
+   "kind": "expression",
+   "description": "\"I'll pay for you.\"",
+   "reading": "わたしのおごり",
+   "romanization": "watashi no ogori",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003050",
+    "english_id": "en:000003050",
+    "from": "core",
+    "core_priority": 3373
+   },
+   "study_priority": 182
+  },
+  {
+   "id": "ja:x:100183",
+   "text": "サービスです",
+   "kind": "expression",
+   "alternatives": [
+    "店のおごり"
+   ],
+   "description": "Free, paid by the restaurant or bar.",
+   "reading": "サービスです",
+   "romanization": "saabisu desu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003051",
+    "english_id": "en:000003051",
+    "from": "core",
+    "core_priority": 3374
+   },
+   "study_priority": 183
+  },
+  {
+   "id": "ja:x:100184",
+   "text": "コーヒーでも飲む",
+   "kind": "expression",
+   "description": "To meet for a coffee.",
+   "reading": "コーヒーでものむ",
+   "romanization": "koohii demo nomu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003052",
+    "english_id": "en:000003052",
+    "from": "core",
+    "core_priority": 3375
+   },
+   "study_priority": 184
+  },
+  {
+   "id": "ja:x:100185",
+   "text": "大したことない",
+   "kind": "expression",
+   "description": "\"It's not a problem.\"",
+   "reading": "たいしたことない",
+   "romanization": "taishita koto nai",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003089",
+    "english_id": "en:000003089",
+    "from": "core",
+    "core_priority": 3381
+   },
+   "study_priority": 185
+  },
+  {
+   "id": "ja:x:100186",
+   "text": "つぶしたバナナ",
+   "kind": "expression",
+   "description": "Banana crushed into a soft food for babies.",
+   "reading": "つぶしたバナナ",
+   "romanization": "tsubushita banana",
+   "level": "A1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003226",
+    "english_id": "en:000003226",
+    "from": "core",
+    "core_priority": 3382
+   },
+   "study_priority": 186
+  },
+  {
+   "id": "ja:x:100187",
+   "text": "フォホーを踊る",
+   "kind": "expression",
+   "description": "To dance forró, a Brazilian couple dance.",
+   "reading": "フォホーをおどる",
+   "romanization": "fohoo o odoru",
+   "level": "A2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003337",
+    "english_id": "en:000003337",
+    "from": "core",
+    "core_priority": 3383
+   },
+   "study_priority": 187
+  },
+  {
+   "id": "ja:x:100188",
+   "text": "夏祭り",
+   "kind": "expression",
+   "description": "A traditional outdoor festival in summer (Japan).",
+   "reading": "なつまつり",
+   "romanization": "natsumatsuri",
+   "level": "B1",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003567",
+    "english_id": "en:000003567",
+    "from": "core",
+    "core_priority": 3385
+   },
+   "study_priority": 188
+  },
+  {
+   "id": "ja:x:100189",
+   "text": "古代ローマ",
+   "kind": "expression",
+   "description": "The civilization of Rome in ancient times.",
+   "reading": "こだいローマ",
+   "romanization": "kodairooma",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003656",
+    "english_id": "en:000003656",
+    "from": "core",
+    "core_priority": 3386
+   },
+   "study_priority": 189
+  },
+  {
+   "id": "ja:x:100190",
+   "text": "古代ギリシャ",
+   "kind": "expression",
+   "description": "The civilization of Greece in ancient times.",
+   "reading": "こだいギリシャ",
+   "romanization": "kodaigirisha",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003657",
+    "english_id": "en:000003657",
+    "from": "core",
+    "core_priority": 3387
+   },
+   "study_priority": 190
+  },
+  {
+   "id": "ja:x:100191",
+   "text": "古代中国",
+   "kind": "expression",
+   "description": "China in ancient times.",
+   "reading": "こだいちゅうごく",
+   "romanization": "kodaichuugoku",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003658",
+    "english_id": "en:000003658",
+    "from": "core",
+    "core_priority": 3388
+   },
+   "study_priority": 191
+  },
+  {
+   "id": "ja:x:100192",
+   "text": "古代日本",
+   "kind": "expression",
+   "description": "Japan in ancient times.",
+   "reading": "こだいにほん",
+   "romanization": "kodainihon",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003659",
+    "english_id": "en:000003659",
+    "from": "core",
+    "core_priority": 3389
+   },
+   "study_priority": 192
+  },
+  {
+   "id": "ja:x:100193",
+   "text": "アマゾン川",
+   "kind": "expression",
+   "description": "The great river of South America.",
+   "reading": "アマゾンがわ",
+   "romanization": "amazongawa",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003744",
+    "english_id": "en:000003744",
+    "from": "core",
+    "core_priority": 3397
+   },
+   "study_priority": 193
+  },
+  {
+   "id": "ja:x:100194",
+   "text": "富士山",
+   "kind": "expression",
+   "description": "The highest mountain in Japan.",
+   "reading": "ふじさん",
+   "romanization": "fujisan",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003745",
+    "english_id": "en:000003745",
+    "from": "core",
+    "core_priority": 3398
+   },
+   "study_priority": 194
+  },
+  {
+   "id": "ja:x:100195",
+   "text": "コルコバードのキリスト像",
+   "kind": "expression",
+   "description": "The large statue of Christ over Rio de Janeiro.",
+   "reading": "コルコバードのキリストぞう",
+   "romanization": "korukobaadonokirisutozou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003746",
+    "english_id": "en:000003746",
+    "from": "core",
+    "core_priority": 3399
+   },
+   "study_priority": 195
+  },
+  {
+   "id": "ja:x:100196",
+   "text": "万里の長城",
+   "kind": "expression",
+   "description": "The ancient wall across northern China.",
+   "reading": "ばんりのちょうじょう",
+   "romanization": "banrinochoujou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003747",
+    "english_id": "en:000003747",
+    "from": "core",
+    "core_priority": 3400
+   },
+   "study_priority": 196
+  },
+  {
+   "id": "ja:x:100197",
+   "text": "エッフェル塔",
+   "kind": "expression",
+   "description": "The iron tower in Paris.",
+   "reading": "エッフェルとう",
+   "romanization": "efferutou",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003748",
+    "english_id": "en:000003748",
+    "from": "core",
+    "core_priority": 3401
+   },
+   "study_priority": 197
+  },
+  {
+   "id": "ja:x:100198",
+   "text": "ギザのピラミッド",
+   "kind": "expression",
+   "description": "The ancient pyramids near Cairo.",
+   "reading": "ギザのピラミッド",
+   "romanization": "gizanopiramiddo",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003750",
+    "english_id": "en:000003750",
+    "from": "core",
+    "core_priority": 3403
+   },
+   "study_priority": 198
+  },
+  {
+   "id": "ja:x:100199",
+   "text": "タージ・マハル",
+   "kind": "expression",
+   "description": "The white marble monument in Agra, India.",
+   "reading": "タージ・マハル",
+   "romanization": "taaji maharu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003752",
+    "english_id": "en:000003752",
+    "from": "core",
+    "core_priority": 3405
+   },
+   "study_priority": 199
+  },
+  {
+   "id": "ja:x:100200",
+   "text": "マチュ・ピチュ",
+   "kind": "expression",
+   "description": "The Inca city in the mountains of Peru.",
+   "reading": "マチュ・ピチュ",
+   "romanization": "machu pichu",
+   "level": "B2",
+   "part_of_speech": "exp",
+   "region_tags": [],
+   "source": {
+    "core_id": "ja:en:000003753",
+    "english_id": "en:000003753",
+    "from": "core",
+    "core_priority": 3406
+   },
+   "study_priority": 200
+  }
+ ]
+}

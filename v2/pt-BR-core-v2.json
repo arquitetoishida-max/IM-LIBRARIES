@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.6.2",
+ "version": "2.6.3",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -47,7 +47,8 @@
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522) ; pt-BR: campo `articles` (artigo singular,plural) em 2.073 substantivos (LEXICON #90)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
   "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
-  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346)."
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), A1, prioridade 60 nos blocos iniciais (as seguintes deslocadas +1); relatos #531–#535: から = desde (en:24), に = em/no/na (en:19), 地元の → 地元 e 本地的 → 本地 (en:346).",
+  "2.6.3: 218 expression/composite entries retired and moved to pt-BR-expressions-v2 (ids kept, core_status=retired, moved_to pointer)."
  ],
  "entries": [
   {
@@ -291,7 +292,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000120"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100049"
   },
   {
    "id": "pt-BR:en:000000012",
@@ -2927,7 +2930,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000078"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100050"
   },
   {
    "id": "pt-BR:en:000000120",
@@ -4150,7 +4155,9 @@
    "description": "Abaixo de algo: “embaixo da mesa”. Também indica menos que: “abaixo de dez anos”.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100051"
   },
   {
    "id": "pt-BR:en:000000173",
@@ -5665,7 +5672,9 @@
    "description": "Qualquer coisa, sem importar qual.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100145"
   },
   {
    "id": "pt-BR:en:000000245",
@@ -7551,7 +7560,9 @@
    "description": "Dentro de um limite de espaço ou tempo: “dentro de uma hora”. Também indica alcance: “ao alcance”.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100052"
   },
   {
    "id": "pt-BR:en:000000340",
@@ -10673,7 +10684,9 @@
    "description": "Na parte de trás de algo: “atrás da porta”. Também indica o que veio depois: “ficar atrás dos outros”.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100001"
   },
   {
    "id": "pt-BR:en:000000491",
@@ -10787,7 +10800,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000285"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100002"
   },
   {
    "id": "pt-BR:en:000000497",
@@ -10934,7 +10949,9 @@
    "user_hint": "",
    "description": "Segundo o que alguém diz ou escreve: \"segundo o jornal\".",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100053"
   },
   {
    "id": "pt-BR:en:000000505",
@@ -12855,7 +12872,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000912"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100003"
   },
   {
    "id": "pt-BR:en:000000608",
@@ -18462,7 +18481,9 @@
    "user_hint": "",
    "antonyms": [
     "en:000000607"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100004"
   },
   {
    "id": "pt-BR:en:000000914",
@@ -21522,7 +21543,9 @@
    "description": "Do começo ao fim de um período. Na expressão “por todo”, pode indicar toda a extensão de um lugar.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100054"
   },
   {
    "id": "pt-BR:en:000001078",
@@ -40669,7 +40692,9 @@
    "description": "Além de alguém ou de algo já mencionado.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100055"
   },
   {
    "id": "pt-BR:en:000002290",
@@ -45602,7 +45627,9 @@
    "user_hint": "",
    "description": "Indica que algo muda conforme outra coisa.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100056"
   },
   {
    "id": "pt-BR:en:000002631",
@@ -49746,7 +49773,9 @@
    "user_hint": "",
    "description": "Com direito a algo.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100118"
   },
   {
    "id": "pt-BR:en:000002901",
@@ -51125,7 +51154,8 @@
    "description": "Expressão informal: estou muito cansado.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100160"
   },
   {
    "id": "pt-BR:en:000003068",
@@ -51145,7 +51175,9 @@
    "study_priority": 3047,
    "user_hint": "",
    "description": "Uma música muito boa e empolgante.",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100138"
   },
   {
    "id": "pt-BR:en:000003047",
@@ -51167,7 +51199,8 @@
    "description": "Jeito informal de desejar boa sorte antes de uma apresentação.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100178"
   },
   {
    "id": "pt-BR:en:000003041",
@@ -51187,7 +51220,8 @@
    "description": "Jeito amigável de chamar um amigo.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100173"
   },
   {
    "id": "pt-BR:en:000003001",
@@ -51207,7 +51241,8 @@
    "description": "Dólares (informal).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100155"
   },
   {
    "id": "pt-BR:en:000003091",
@@ -51229,7 +51264,8 @@
    "description": "Retirar o seu dinheiro ou os ganhos.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100148"
   },
   {
    "id": "pt-BR:en:000003044",
@@ -51249,7 +51285,8 @@
    "description": "Dormir uma noite na casa de alguém.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100175"
   },
   {
    "id": "pt-BR:en:000003040",
@@ -51271,7 +51308,8 @@
    "description": "Gíria para os amigos mais próximos, como uma família.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100172"
   },
   {
    "id": "pt-BR:en:000003031",
@@ -51293,7 +51331,8 @@
    "description": "Mostrar algo para se exibir.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100166"
   },
   {
    "id": "pt-BR:en:000003030",
@@ -51315,7 +51354,8 @@
    "description": "Parar de responder a alguém de repente.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100165"
   },
   {
    "id": "pt-BR:en:000003049",
@@ -51337,7 +51377,8 @@
    "description": "\"Espere um segundo, por favor.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100180"
   },
   {
    "id": "pt-BR:en:000003014",
@@ -51359,7 +51400,8 @@
    "description": "Comer algo rapidamente.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100159"
   },
   {
    "id": "pt-BR:en:000003052",
@@ -51379,7 +51421,8 @@
    "description": "Encontrar alguém para tomar um café.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100183"
   },
   {
    "id": "pt-BR:en:000003013",
@@ -51401,7 +51444,8 @@
    "description": "Passar o tempo relaxando com amigos.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100158"
   },
   {
    "id": "pt-BR:en:000003043",
@@ -51421,7 +51465,8 @@
    "description": "Irritado porque está com fome.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100174"
   },
   {
    "id": "pt-BR:en:000003045",
@@ -51441,7 +51486,8 @@
    "description": "Sair para uma viagem.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100176"
   },
   {
    "id": "pt-BR:en:000003033",
@@ -51463,7 +51509,8 @@
    "description": "Real; muito bom.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100168"
   },
   {
    "id": "pt-BR:en:000003035",
@@ -51483,7 +51530,8 @@
    "description": "Muito animado e divertido.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100169"
   },
   {
    "id": "pt-BR:en:000003028",
@@ -51505,7 +51553,8 @@
    "description": "Em silêncio; um pouco (em segredo).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100164"
   },
   {
    "id": "pt-BR:en:000003080",
@@ -51524,7 +51573,9 @@
    "user_hint": "",
    "description": "O trem subterrâneo de uma cidade.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100057"
   },
   {
    "id": "pt-BR:en:000003016",
@@ -51544,7 +51595,8 @@
    "description": "\"Foi um erro meu.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100161"
   },
   {
    "id": "pt-BR:en:000003050",
@@ -51564,7 +51616,8 @@
    "description": "\"Eu pago para você.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100181"
   },
   {
    "id": "pt-BR:en:000003089",
@@ -51586,7 +51639,8 @@
    "description": "\"Não é um problema.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100184"
   },
   {
    "id": "pt-BR:en:000003038",
@@ -51608,7 +51662,8 @@
    "description": "Gíria: \"sem mentira\"; de verdade.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100171"
   },
   {
    "id": "pt-BR:en:000003011",
@@ -51630,7 +51685,8 @@
    "description": "\"Sem problema; não se preocupe.\"",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100156"
   },
   {
    "id": "pt-BR:en:000003051",
@@ -51650,7 +51706,8 @@
    "description": "De graça, pago pelo restaurante ou bar.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100182"
   },
   {
    "id": "pt-BR:en:000003046",
@@ -51672,7 +51729,8 @@
    "description": "Algo muito fácil.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100177"
   },
   {
    "id": "pt-BR:en:000003032",
@@ -51694,7 +51752,8 @@
    "description": "Chateado ou amargurado com algo.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100167"
   },
   {
    "id": "pt-BR:en:000003075",
@@ -51716,7 +51775,9 @@
    "user_hint": "",
    "description": "Bebida doce com gás: “uma lata de refrigerante”.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100005"
   },
   {
    "id": "pt-BR:en:000003027",
@@ -51736,7 +51797,8 @@
    "description": "Contar fofocas.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100163"
   },
   {
    "id": "pt-BR:en:000003036",
@@ -51758,7 +51820,8 @@
    "description": "Suspeito (gíria).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100170"
   },
   {
    "id": "pt-BR:en:000003026",
@@ -51778,7 +51841,8 @@
    "description": "Recusar com educação agora, mas talvez aceitar depois.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100162"
   },
   {
    "id": "pt-BR:en:000003054",
@@ -51797,7 +51861,9 @@
    "user_hint": "",
    "description": "Comida comprada para comer em casa.",
    "novrev_status": "reviewed",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100137"
   },
   {
    "id": "pt-BR:en:000003079",
@@ -51817,7 +51883,8 @@
    "description": "Sistema de trens subterrâneos.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100146"
   },
   {
    "id": "pt-BR:en:000003048",
@@ -51839,7 +51906,8 @@
    "description": "Sentir-se um pouco doente.",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100179"
   },
   {
    "id": "pt-BR:en:000003012",
@@ -51861,7 +51929,8 @@
    "description": "\"Oi, tudo bem?\" (muito informal).",
    "novrev_status": "reviewed",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100157"
   },
   {
    "id": "pt-BR:en:000003092",
@@ -52041,7 +52110,9 @@
    "description": "Ao lado de: “sente ao meu lado”. Também indica em comparação com.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100058"
   },
   {
    "id": "pt-BR:en:000003098",
@@ -53977,7 +54048,9 @@
    "description": "Por baixo de algo.",
    "novrev_status": "reviewed",
    "user_hint": "",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100059"
   },
   {
    "id": "pt-BR:en:000003173",
@@ -54620,7 +54693,9 @@
    "description": "Um depois do outro, sem pausa (três dias seguidos).",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100133"
   },
   {
    "id": "pt-BR:en:000000703",
@@ -55012,7 +55087,9 @@
    "description": "Pensar com cuidado antes de decidir.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100134"
   },
   {
    "id": "pt-BR:en:000001720",
@@ -55722,7 +55799,9 @@
    "description": "Grande quantidade ou número.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100135"
   },
   {
    "id": "pt-BR:en:000002493",
@@ -56112,7 +56191,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100153"
   },
   {
    "id": "pt-BR:en:000003193",
@@ -56300,7 +56380,9 @@
    "description": "Certamente; naturalmente: \"Claro que vou ajudar\".",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100006"
   },
   {
    "id": "pt-BR:en:000003206",
@@ -56401,7 +56483,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100007"
   },
   {
    "id": "pt-BR:en:000003211",
@@ -56590,7 +56674,9 @@
    "description": "Vestir uma peça de roupa: “vestir o casaco”. Também significa calçar ou usar um acessório.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100008"
   },
   {
    "id": "pt-BR:en:000003220",
@@ -56612,7 +56698,9 @@
    "description": "Tirar uma peça de roupa: “tirar o casaco”. Também indica retirar algo de um lugar.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100009"
   },
   {
    "id": "pt-BR:en:000003221",
@@ -56737,8 +56825,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "a,as"
+   "core_status": "retired",
+   "articles": "a,as",
+   "moved_to": "pt-BR:x:100185"
   },
   {
    "id": "pt-BR:en:000003227",
@@ -56757,7 +56846,9 @@
    "description": "O homem de roupa vermelha que traz presentes no Natal.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100010"
   },
   {
    "id": "pt-BR:en:000003229",
@@ -56776,7 +56867,9 @@
    "description": "Os primeiros dias do ano e sua celebração.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100011"
   },
   {
    "id": "pt-BR:en:000003230",
@@ -56799,7 +56892,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100012"
   },
   {
    "id": "pt-BR:en:000003231",
@@ -56819,7 +56914,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100013"
   },
   {
    "id": "pt-BR:en:000003232",
@@ -56860,7 +56957,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100139"
   },
   {
    "id": "pt-BR:en:000003234",
@@ -56980,7 +57079,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100014"
   },
   {
    "id": "pt-BR:en:000003241",
@@ -57280,7 +57381,9 @@
    "novrev_status": "reviewed",
    "level": "A1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100060"
   },
   {
    "id": "pt-BR:en:000003256",
@@ -57339,7 +57442,9 @@
    "description": "Ir de um lado da rua ao outro.",
    "novrev_status": "reviewed",
    "level": "A1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100061"
   },
   {
    "id": "pt-BR:en:000003259",
@@ -57602,7 +57707,9 @@
    "description": "Esperar até chegar a sua vez de fazer algo.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100062"
   },
   {
    "id": "pt-BR:en:000003272",
@@ -57621,7 +57728,9 @@
    "description": "Levantar a mão para pedir a palavra.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100015"
   },
   {
    "id": "pt-BR:en:000003273",
@@ -57640,7 +57749,9 @@
    "description": "Prestar atenção ao que o professor diz.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100063"
   },
   {
    "id": "pt-BR:en:000003274",
@@ -57720,7 +57831,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100064"
   },
   {
    "id": "pt-BR:en:000003278",
@@ -58507,7 +58620,9 @@
    "description": "Limpar as mãos com água e sabão.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100016"
   },
   {
    "id": "pt-BR:en:000003317",
@@ -58526,7 +58641,9 @@
    "description": "Limpar os dentes com a escova.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100017"
   },
   {
    "id": "pt-BR:en:000003318",
@@ -58545,7 +58662,9 @@
    "description": "Colocar a roupa.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100018"
   },
   {
    "id": "pt-BR:en:000003319",
@@ -58564,7 +58683,9 @@
    "description": "Arrumar o cabelo com uma escova.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100019"
   },
   {
    "id": "pt-BR:en:000003320",
@@ -58583,7 +58704,9 @@
    "description": "Fechar os cadarços dos sapatos.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100020"
   },
   {
    "id": "pt-BR:en:000003321",
@@ -58602,7 +58725,9 @@
    "description": "Olhar para a esquerda e a direita antes de atravessar a rua.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100065"
   },
   {
    "id": "pt-BR:en:000003322",
@@ -58621,7 +58746,9 @@
    "description": "Pedir a alguém que ajude você.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100021"
   },
   {
    "id": "pt-BR:en:000003323",
@@ -58640,7 +58767,9 @@
    "description": "Contar o que realmente aconteceu.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100066"
   },
   {
    "id": "pt-BR:en:000003324",
@@ -58678,7 +58807,9 @@
    "description": "Segurar a mão de outra pessoa.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100022"
   },
   {
    "id": "pt-BR:en:000003326",
@@ -58697,7 +58828,9 @@
    "description": "Cumprimentar alguém.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100023"
   },
   {
    "id": "pt-BR:en:000003327",
@@ -58757,7 +58890,9 @@
    "description": "Rir muito.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100067"
   },
   {
    "id": "pt-BR:en:000003330",
@@ -58776,7 +58911,9 @@
    "description": "Voltar a ser amigos depois de uma briga.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100136"
   },
   {
    "id": "pt-BR:en:000003331",
@@ -58795,7 +58932,9 @@
    "description": "Não contar a ninguém algo particular.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100068"
   },
   {
    "id": "pt-BR:en:000003332",
@@ -58814,7 +58953,9 @@
    "description": "Contar a alguém algo particular.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100069"
   },
   {
    "id": "pt-BR:en:000003333",
@@ -58856,7 +58997,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100149"
   },
   {
    "id": "pt-BR:en:000003335",
@@ -58914,7 +59056,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100186"
   },
   {
    "id": "pt-BR:en:000003338",
@@ -58933,7 +59076,9 @@
    "description": "Praticar o esporte em que duas equipes chutam uma bola para marcar gols.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100024"
   },
   {
    "id": "pt-BR:en:000003339",
@@ -58952,7 +59097,9 @@
    "description": "Jogar basquete.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100070"
   },
   {
    "id": "pt-BR:en:000003340",
@@ -58971,7 +59118,9 @@
    "description": "Jogar vôlei.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100071"
   },
   {
    "id": "pt-BR:en:000003341",
@@ -58990,7 +59139,9 @@
    "description": "Jogar jogos em uma tela.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100072"
   },
   {
    "id": "pt-BR:en:000003342",
@@ -59009,7 +59160,9 @@
    "description": "Assistir a programas animados.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100025"
   },
   {
    "id": "pt-BR:en:000003343",
@@ -59028,7 +59181,9 @@
    "description": "Ouvir músicas por prazer.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100026"
   },
   {
    "id": "pt-BR:en:000003344",
@@ -59047,7 +59202,9 @@
    "description": "Ir dormir cedo.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100027"
   },
   {
    "id": "pt-BR:en:000003345",
@@ -59066,7 +59223,9 @@
    "description": "Acordar cedo.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100028"
   },
   {
    "id": "pt-BR:en:000003346",
@@ -59413,7 +59572,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100029"
   },
   {
    "id": "pt-BR:en:000003363",
@@ -59473,7 +59634,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100030"
   },
   {
    "id": "pt-BR:en:000003366",
@@ -59816,7 +59979,9 @@
    "description": "Guardar dinheiro em vez de gastar.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100119"
   },
   {
    "id": "pt-BR:en:000003384",
@@ -59858,7 +60023,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100031"
   },
   {
    "id": "pt-BR:en:000003386",
@@ -59940,7 +60107,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100032"
   },
   {
    "id": "pt-BR:en:000003390",
@@ -59960,7 +60129,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100033"
   },
   {
    "id": "pt-BR:en:000003391",
@@ -60300,7 +60471,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100073"
   },
   {
    "id": "pt-BR:en:000003408",
@@ -60340,7 +60513,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100140"
   },
   {
    "id": "pt-BR:en:000003410",
@@ -60399,7 +60574,9 @@
    "description": "Correr depressa.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100120"
   },
   {
    "id": "pt-BR:en:000003413",
@@ -60418,7 +60595,9 @@
    "description": "Segurar uma bola jogada para você.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100121"
   },
   {
    "id": "pt-BR:en:000003414",
@@ -60887,8 +61066,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "a,as"
+   "core_status": "retired",
+   "articles": "a,as",
+   "moved_to": "pt-BR:x:100154"
   },
   {
    "id": "pt-BR:en:000003437",
@@ -60989,7 +61169,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100034"
   },
   {
    "id": "pt-BR:en:000003442",
@@ -61049,7 +61231,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100035"
   },
   {
    "id": "pt-BR:en:000003445",
@@ -61089,7 +61273,9 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100074"
   },
   {
    "id": "pt-BR:en:000003447",
@@ -61108,7 +61294,9 @@
    "description": "Brincadeira de pular sobre uma corda que gira.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100036"
   },
   {
    "id": "pt-BR:en:000003448",
@@ -61127,7 +61315,9 @@
    "description": "Fazer uma pipa voar ao vento.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100122"
   },
   {
    "id": "pt-BR:en:000003449",
@@ -61146,7 +61336,9 @@
    "description": "Brincar com bolinhas de vidro.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100123"
   },
   {
    "id": "pt-BR:en:000003450",
@@ -61244,7 +61436,9 @@
    "description": "Deslizar sobre patins de rodas.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100075"
   },
   {
    "id": "pt-BR:en:000003455",
@@ -61264,7 +61458,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100150"
   },
   {
    "id": "pt-BR:en:000003456",
@@ -61364,7 +61559,9 @@
    "description": "Provar um pouco da comida para ver o sabor.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100076"
   },
   {
    "id": "pt-BR:en:000003461",
@@ -61385,7 +61582,9 @@
    "description": "Tirar os pratos da mesa depois de comer.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100077"
   },
   {
    "id": "pt-BR:en:000003462",
@@ -61404,7 +61603,9 @@
    "description": "Limpar pratos e copos depois da refeição.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100037"
   },
   {
    "id": "pt-BR:en:000003463",
@@ -61463,7 +61664,9 @@
    "description": "Arrumar os lençóis e as cobertas da cama.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100038"
   },
   {
    "id": "pt-BR:en:000003466",
@@ -61482,7 +61685,9 @@
    "description": "Dar água às plantas.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100039"
   },
   {
    "id": "pt-BR:en:000003467",
@@ -61501,7 +61706,9 @@
    "description": "Levar o cachorro para passear.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100040"
   },
   {
    "id": "pt-BR:en:000003468",
@@ -61520,7 +61727,9 @@
    "description": "Dar comida ao animal de estimação.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100078"
   },
   {
    "id": "pt-BR:en:000003469",
@@ -61540,7 +61749,8 @@
    "novrev_status": "reviewed",
    "level": "A2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100147"
   },
   {
    "id": "pt-BR:en:000003470",
@@ -61559,7 +61769,9 @@
    "description": "Ver televisão.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100041"
   },
   {
    "id": "pt-BR:en:000003471",
@@ -61578,7 +61790,9 @@
    "description": "Escutar rádio.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100079"
   },
   {
    "id": "pt-BR:en:000003472",
@@ -61597,7 +61811,9 @@
    "description": "Olhar sites na internet.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100080"
   },
   {
    "id": "pt-BR:en:000003473",
@@ -61616,7 +61832,9 @@
    "description": "Fotografar com câmera ou celular.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100042"
   },
   {
    "id": "pt-BR:en:000003474",
@@ -61635,7 +61853,9 @@
    "description": "Gravar um vídeo.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100081"
   },
   {
    "id": "pt-BR:en:000003475",
@@ -61654,7 +61874,9 @@
    "description": "Tocar piano.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100082"
   },
   {
    "id": "pt-BR:en:000003476",
@@ -61673,7 +61895,9 @@
    "description": "Tocar violão ou guitarra.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100083"
   },
   {
    "id": "pt-BR:en:000003477",
@@ -61692,7 +61916,9 @@
    "description": "Tocar flauta.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100084"
   },
   {
    "id": "pt-BR:en:000003478",
@@ -61711,7 +61937,9 @@
    "description": "Tocar bateria.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100085"
   },
   {
    "id": "pt-BR:en:000003479",
@@ -61827,7 +62055,9 @@
    "description": "Limpar uma sujeira.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100086"
   },
   {
    "id": "pt-BR:en:000003485",
@@ -61846,7 +62076,9 @@
    "description": "Palavras educadas para chamar atenção ou passar por alguém.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100043"
   },
   {
    "id": "pt-BR:en:000003486",
@@ -61865,7 +62097,9 @@
    "description": "Esperar a sua vez numa fila.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100044"
   },
   {
    "id": "pt-BR:en:000003487",
@@ -61884,7 +62118,9 @@
    "description": "Ouvir o que os pais dizem.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100087"
   },
   {
    "id": "pt-BR:en:000003488",
@@ -61905,7 +62141,9 @@
    "description": "Fazer o que as regras dizem.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100088"
   },
   {
    "id": "pt-BR:en:000003489",
@@ -61924,7 +62162,9 @@
    "description": "Chegar no horário combinado.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100089"
   },
   {
    "id": "pt-BR:en:000003490",
@@ -61943,7 +62183,9 @@
    "description": "Contar a um adulto quando algo está errado.",
    "novrev_status": "reviewed",
    "level": "A2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100045"
   },
   {
    "id": "pt-BR:en:000003491",
@@ -62083,8 +62325,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "o,os"
+   "core_status": "retired",
+   "articles": "o,os",
+   "moved_to": "pt-BR:x:100151"
   },
   {
    "id": "pt-BR:en:000003498",
@@ -62224,7 +62467,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100090"
   },
   {
    "id": "pt-BR:en:000003505",
@@ -62604,7 +62849,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100091"
   },
   {
    "id": "pt-BR:en:000003524",
@@ -62724,7 +62971,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100092"
   },
   {
    "id": "pt-BR:en:000003530",
@@ -62804,7 +63053,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100093"
   },
   {
    "id": "pt-BR:en:000003534",
@@ -63350,7 +63601,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100094"
   },
   {
    "id": "pt-BR:en:000003561",
@@ -63467,7 +63720,9 @@
    "description": "A festa do Ano Novo lunar.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100141"
   },
   {
    "id": "pt-BR:en:000003567",
@@ -63487,8 +63742,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "o,os"
+   "core_status": "retired",
+   "articles": "o,os",
+   "moved_to": "pt-BR:x:100187"
   },
   {
    "id": "pt-BR:en:000003568",
@@ -63507,7 +63763,9 @@
    "description": "O número 10.000.",
    "novrev_status": "reviewed",
    "level": "B2",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100046"
   },
   {
    "id": "pt-BR:en:000003569",
@@ -64247,7 +64505,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100124"
   },
   {
    "id": "pt-BR:en:000003606",
@@ -64267,7 +64527,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100125"
   },
   {
    "id": "pt-BR:en:000003607",
@@ -64508,7 +64770,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100126"
   },
   {
    "id": "pt-BR:en:000003619",
@@ -64548,7 +64812,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100047"
   },
   {
    "id": "pt-BR:en:000003621",
@@ -64628,7 +64894,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100095"
   },
   {
    "id": "pt-BR:en:000003625",
@@ -64800,7 +65068,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100048"
   },
   {
    "id": "pt-BR:en:000003634",
@@ -65259,7 +65529,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100188"
   },
   {
    "id": "pt-BR:en:000003657",
@@ -65279,7 +65550,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100189"
   },
   {
    "id": "pt-BR:en:000003658",
@@ -65299,7 +65571,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100190"
   },
   {
    "id": "pt-BR:en:000003659",
@@ -65319,7 +65592,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100191"
   },
   {
    "id": "pt-BR:en:000003660",
@@ -65399,7 +65673,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "os,os"
+   "articles": "os,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100096"
   },
   {
    "id": "pt-BR:en:000003664",
@@ -65419,7 +65695,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100097"
   },
   {
    "id": "pt-BR:en:000003666",
@@ -65619,7 +65897,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100127"
   },
   {
    "id": "pt-BR:en:000003676",
@@ -66059,7 +66339,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100098"
   },
   {
    "id": "pt-BR:en:000003698",
@@ -66751,7 +67033,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100099"
   },
   {
    "id": "pt-BR:en:000003733",
@@ -66810,7 +67094,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100142"
   },
   {
    "id": "pt-BR:en:000003736",
@@ -66830,7 +67116,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100143"
   },
   {
    "id": "pt-BR:en:000003737",
@@ -66850,7 +67138,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100144"
   },
   {
    "id": "pt-BR:en:000003738",
@@ -66990,8 +67280,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "o,os"
+   "core_status": "retired",
+   "articles": "o,os",
+   "moved_to": "pt-BR:x:100192"
   },
   {
    "id": "pt-BR:en:000003745",
@@ -67011,7 +67302,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100193"
   },
   {
    "id": "pt-BR:en:000003746",
@@ -67031,7 +67323,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100194"
   },
   {
    "id": "pt-BR:en:000003747",
@@ -67051,7 +67344,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100195"
   },
   {
    "id": "pt-BR:en:000003748",
@@ -67071,7 +67365,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100196"
   },
   {
    "id": "pt-BR:en:000003750",
@@ -67091,7 +67386,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100197"
   },
   {
    "id": "pt-BR:en:000003751",
@@ -67131,7 +67427,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100198"
   },
   {
    "id": "pt-BR:en:000003753",
@@ -67151,7 +67448,8 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "core_status": "search_only"
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100199"
   },
   {
    "id": "pt-BR:en:000003754",
@@ -67291,7 +67589,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100100"
   },
   {
    "id": "pt-BR:en:000003761",
@@ -67731,7 +68031,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100128"
   },
   {
    "id": "pt-BR:en:000003783",
@@ -67753,7 +68055,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100129"
   },
   {
    "id": "pt-BR:en:000003784",
@@ -68201,7 +68505,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100101"
   },
   {
    "id": "pt-BR:en:000003806",
@@ -68221,7 +68527,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100102"
   },
   {
    "id": "pt-BR:en:000003807",
@@ -68241,7 +68549,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100103"
   },
   {
    "id": "pt-BR:en:000003808",
@@ -68301,7 +68611,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100104"
   },
   {
    "id": "pt-BR:en:000003811",
@@ -68541,7 +68853,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100130"
   },
   {
    "id": "pt-BR:en:000003823",
@@ -69431,7 +69745,9 @@
    "novrev_status": "reviewed",
    "level": "B2",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100131"
   },
   {
    "id": "pt-BR:en:000003867",
@@ -70407,7 +70723,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100105"
   },
   {
    "id": "pt-BR:en:000003915",
@@ -70506,7 +70824,9 @@
    "description": "Uma pequena quantidade.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100106"
   },
   {
    "id": "pt-BR:en:000003921",
@@ -70678,7 +70998,9 @@
    "description": "Não menos que; no mínimo.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100107"
   },
   {
    "id": "pt-BR:en:000003932",
@@ -70868,7 +71190,9 @@
    "description": "O que sobra; a outra parte.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100108"
   },
   {
    "id": "pt-BR:en:000003944",
@@ -70985,7 +71309,9 @@
    "description": "Usado para dar um exemplo.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100109"
   },
   {
    "id": "pt-BR:en:000003950",
@@ -71355,7 +71681,9 @@
    "description": "Vendido por preço mais baixo.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100110"
   },
   {
    "id": "pt-BR:en:000003972",
@@ -71394,7 +71722,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100111"
   },
   {
    "id": "pt-BR:en:000003974",
@@ -71794,7 +72124,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100112"
   },
   {
    "id": "pt-BR:en:000003997",
@@ -72146,7 +72478,9 @@
    "description": "Eu também não (concordando com uma negação).",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100113"
   },
   {
    "id": "pt-BR:en:000004015",
@@ -73737,8 +74071,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "core_status": "search_only",
-   "articles": "o,os"
+   "core_status": "retired",
+   "articles": "o,os",
+   "moved_to": "pt-BR:x:100152"
   },
   {
    "id": "pt-BR:en:000004101",
@@ -73815,7 +74150,9 @@
    "description": "Misturar comida ou líquido movendo uma colher.",
    "novrev_status": "reviewed",
    "level": "B1",
-   "antonyms": []
+   "antonyms": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100114"
   },
   {
    "id": "pt-BR:en:000004105",
@@ -73917,7 +74254,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100115"
   },
   {
    "id": "pt-BR:en:000004110",
@@ -73937,7 +74276,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100116"
   },
   {
    "id": "pt-BR:en:000004111",
@@ -74181,7 +74522,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100117"
   },
   {
    "id": "pt-BR:en:000004123",
@@ -74727,7 +75070,9 @@
    "novrev_status": "reviewed",
    "level": "B1",
    "antonyms": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100132"
   },
   {
    "id": "pt-BR:en:000004150",
@@ -77863,7 +78208,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100200"
   },
   {
    "id": "pt-BR:en:000004311",
@@ -77958,7 +78305,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100201"
   },
   {
    "id": "pt-BR:en:000004316",
@@ -78110,7 +78459,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100202"
   },
   {
    "id": "pt-BR:en:000004324",
@@ -78891,7 +79242,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100203"
   },
   {
    "id": "pt-BR:en:000004365",
@@ -79081,7 +79434,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100204"
   },
   {
    "id": "pt-BR:en:000004375",
@@ -79138,7 +79493,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100205"
   },
   {
    "id": "pt-BR:en:000004378",
@@ -79294,7 +79651,9 @@
    "alternatives": [
     "ponto"
    ],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100206"
   },
   {
    "id": "pt-BR:en:000004386",
@@ -79313,7 +79672,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100207"
   },
   {
    "id": "pt-BR:en:000004387",
@@ -79351,7 +79712,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "as,as"
+   "articles": "as,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100208"
   },
   {
    "id": "pt-BR:en:000004389",
@@ -79770,7 +80133,9 @@
    "user_hint": "",
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
-   "alternatives": []
+   "alternatives": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100209"
   },
   {
    "id": "pt-BR:en:000004412",
@@ -79788,7 +80153,9 @@
    "user_hint": "",
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
-   "alternatives": []
+   "alternatives": [],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100210"
   },
   {
    "id": "pt-BR:en:000004413",
@@ -79861,7 +80228,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100211"
   },
   {
    "id": "pt-BR:en:000004417",
@@ -79899,7 +80268,9 @@
    "antonyms": [],
    "translation_confidence": "editorial-reviewed",
    "alternatives": [],
-   "articles": "o,os"
+   "articles": "o,os",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100212"
   },
   {
    "id": "pt-BR:en:000004420",
@@ -85055,7 +85426,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "routine"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100213"
   },
   {
    "id": "pt-BR:en:000004648",
@@ -85369,7 +85742,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100214"
   },
   {
    "id": "pt-BR:en:000004660",
@@ -85443,7 +85818,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "time"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100215"
   },
   {
    "id": "pt-BR:en:000004663",
@@ -85817,7 +86194,9 @@
    "vcu14_status": "provisional-editorial",
    "environments": [
     "people"
-   ]
+   ],
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100216"
   },
   {
    "id": "pt-BR:en:000004677",
@@ -86175,7 +86554,9 @@
    "environments": [
     "food"
    ],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100217"
   },
   {
    "id": "pt-BR:en:000004691",
@@ -86252,7 +86633,9 @@
    "environments": [
     "play_nature"
    ],
-   "articles": "a,as"
+   "articles": "a,as",
+   "core_status": "retired",
+   "moved_to": "pt-BR:x:100218"
   },
   {
    "id": "pt-BR:en:000004694",
