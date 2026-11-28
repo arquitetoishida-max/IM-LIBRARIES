@@ -5,7 +5,7 @@
  "language": "pt-BR",
  "region": null,
  "name": "Português brasileiro — vocabulário",
- "version": "2.6.1",
+ "version": "2.6.2",
  "english_explanations": true,
  "status": "published",
  "language_info": {
@@ -46,7 +46,8 @@
   "2.5.4: candidato NOVREV. Correções de sentido e descrições, reservas regionais, pendências quadrilíngues e prioridade de estudo por idioma.",
   "2.5.5 (2026-11-26): auditoria de sentidos e segunda passada top 700 (#512/#513); descrição só no próprio idioma em `description` (campo `nativeExplain` removido: repetia a descrição e trazia português em en/ja/zh, #519/#521/#522) ; pt-BR: campo `articles` (artigo singular,plural) em 2.073 substantivos (LEXICON #90)",
   "2.6.0 (2026-11-26): passada de sentidos v2 — sentidos de cada idioma ligados (ex.: cara = rosto, expressão, moeda, homem informal), ~125 palavras do dia a dia que faltavam, 61 IDs duplicados e 206 flexões/contrações fora, 50 IDs regionais/britânicos e siglas fora, descrições só na própria língua.",
-  "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto."
+  "2.6.1 (27/11/2026): relatos de correção do dono aplicados (IM-LIBRARIES Community reports) e 49 palavras novas das importações por foto.",
+  "2.6.2 (28/11/2026): nova palavra 出身 / hometown / terra natal / 家乡 (en:000004702), usada em apresentações básicas (\"東京出身です\")."
  ],
  "entries": [
   {
@@ -86444,6 +86445,31 @@
    "environments": [
     "people"
    ]
+  },
+  {
+   "id": "pt-BR:en:000004702",
+   "english_id": "en:000004702",
+   "kind": "word",
+   "description_en": "The place a person is from or grew up in, as in \"My hometown is Tokyo\". It can also name a school or group someone came from.",
+   "level": "A2",
+   "part_of_speech": "n",
+   "source_status": "editorial-reviewed",
+   "study_tier": "inicial",
+   "study_priority": 707,
+   "user_hint": "",
+   "novrev_status": "reviewed",
+   "antonyms": [],
+   "english_sense_id": null,
+   "translation_confidence": "editorial-reviewed",
+   "environments": [
+    "people"
+   ],
+   "text": "terra natal",
+   "alternatives": [
+    "origem",
+    "cidade natal"
+   ],
+   "description": "Lugar de onde a pessoa vem, onde nasceu ou cresceu: “Minha terra natal é Tóquio”. Também a escola ou o grupo de onde alguém veio."
   }
  ]
 }
