@@ -1001,9 +1001,9 @@
       "flag": "🇧🇷",
       "locale": "pt-BR",
       "name_native": "Português (Brasil)",
-      "name_en": "Portuguese (Brazil)",
-      "name_pt": "Port. (Brasileiro)",
-      "name_ja": "ポルトガル語（ブラジル）",
+      "name_en": "Expressions and slang in Portuguese",
+      "name_pt": "Expressões e gírias em português",
+      "name_ja": "ポルトガル語の表現とスラング",
       "name_i18n": {
         "en": "Expressions and slang in Portuguese",
         "pt": "Expressões e gírias em português",
@@ -1013,7 +1013,12 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/pt-BR-expressions-v2.json",
       "sha256": "c34ff34c310b5d2306b22841e332e4a2b4c398b2325fd75b917e172cce282d38",
       "version": "1.0.0",
-      "size_bytes": 87009
+      "size_bytes": 87009,
+      "description": {
+        "pt": "Expressões e gírias em português: estudadas só como idioma alvo, com a explicação traduzida.",
+        "en": "Expressions and slang in Portuguese: studied only as a target language, with the explanation translated.",
+        "ja": "ポルトガル語の表現とスラング：学習する言語としてだけ使い、説明は翻訳されます。"
+      }
     },
     {
       "id": "en-expressions-v2",
@@ -1029,9 +1034,9 @@
       "flag": "🇺🇸",
       "locale": "en-US",
       "name_native": "English",
-      "name_en": "English",
-      "name_pt": "Inglês",
-      "name_ja": "英語",
+      "name_en": "Expressions and slang in English",
+      "name_pt": "Expressões e gírias em inglês",
+      "name_ja": "英語の表現とスラング",
       "name_i18n": {
         "en": "Expressions and slang in English",
         "pt": "Expressões e gírias em inglês",
@@ -1041,7 +1046,12 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/en-expressions-v2.json",
       "sha256": "6e797a75e5ceee2dc3aa56284f50e05911ac5911d10f8fbe77247a8b73ece251",
       "version": "1.0.0",
-      "size_bytes": 80447
+      "size_bytes": 80447,
+      "description": {
+        "pt": "Expressões e gírias em inglês: estudadas só como idioma alvo, com a explicação traduzida.",
+        "en": "Expressions and slang in English: studied only as a target language, with the explanation translated.",
+        "ja": "英語の表現とスラング：学習する言語としてだけ使い、説明は翻訳されます。"
+      }
     },
     {
       "id": "ja-expressions-v2",
@@ -1057,9 +1067,9 @@
       "flag": "🇯🇵",
       "locale": "ja-JP",
       "name_native": "日本語",
-      "name_en": "Japanese",
-      "name_pt": "Japonês",
-      "name_ja": "日本語",
+      "name_en": "Expressions and slang in Japanese",
+      "name_pt": "Expressões e gírias em japonês",
+      "name_ja": "日本語の表現とスラング",
       "name_i18n": {
         "en": "Expressions and slang in Japanese",
         "pt": "Expressões e gírias em japonês",
@@ -1069,7 +1079,12 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/ja-expressions-v2.json",
       "sha256": "68c6ca923f9b371863f7c6762ebc23bca8cbe18f7b30d897e619cd9f2b444984",
       "version": "1.0.0",
-      "size_bytes": 91013
+      "size_bytes": 91013,
+      "description": {
+        "pt": "Expressões e gírias em japonês: estudadas só como idioma alvo, com a explicação traduzida.",
+        "en": "Expressions and slang in Japanese: studied only as a target language, with the explanation translated.",
+        "ja": "日本語の表現とスラング：学習する言語としてだけ使い、説明は翻訳されます。"
+      }
     },
     {
       "id": "zh-expressions-v2",
@@ -1085,9 +1100,9 @@
       "flag": "🇨🇳",
       "locale": "zh-CN",
       "name_native": "中文（普通话）",
-      "name_en": "Mandarin Chinese",
-      "name_pt": "Mandarim",
-      "name_ja": "中国語（標準語）",
+      "name_en": "Expressions and slang in Mandarin",
+      "name_pt": "Expressões e gírias em mandarim",
+      "name_ja": "中国語の表現とスラング",
       "name_i18n": {
         "en": "Expressions and slang in Chinese",
         "pt": "Expressões e gírias em chinês",
@@ -1097,7 +1112,12 @@
       "url": "https://raw.githubusercontent.com/arquitetoishida-max/IM-LIBRARIES/main/v2/zh-expressions-v2.json",
       "sha256": "840c79dc76eecc276de962227c5413dddc12a370f25ca3e5e15ab48a503bac2d",
       "version": "1.0.0",
-      "size_bytes": 98038
+      "size_bytes": 98038,
+      "description": {
+        "pt": "Expressões e gírias em mandarim: estudadas só como idioma alvo, com a explicação traduzida.",
+        "en": "Expressions and slang in Mandarin: studied only as a target language, with the explanation translated.",
+        "ja": "中国語の表現とスラング：学習する言語としてだけ使い、説明は翻訳されます。"
+      }
     },
     {
       "id": "ja-writing-kanjivg",
